@@ -8270,18 +8270,52 @@
       ]
     },
     {
+      "birth_date": "1948",
+      "gender": "female",
       "id": "f51d3de5-f2b0-4098-8cc0-b6ebe3ab7aa0",
       "identifiers": [
         {
+          "identifier": "59116",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "ca60d561-be28-461c-b475-fd1ec323059b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ca60d561-be28-461c-b475-fd1ec323059b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12878561",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κέλλυ_Μπουρδάρα"
         }
       ],
       "name": "Bourdara Kalliopi (Kelly)",
       "other_names": [
         {
+          "name": "Kelly Bourdara",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Κέλλυ Μπουρδάρα",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Μπουρδάρα Αλκιβιάδη Καλλιόπη (Κέλλυ)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kelly Bourdara",
           "note": "multilingual"
         }
       ],
