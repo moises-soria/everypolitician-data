@@ -190,7 +190,7 @@ namespace :merge_sources do
       else
         # Generate IDs from names
         overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-        lookup_class = (area.merge_instructions || {})[:fuzzy] ? OCD::Lookup::Fuzzy : OCD::Lookup::Plain
+        lookup_class = area.fuzzy_match? ? OCD::Lookup::Fuzzy : OCD::Lookup::Plain
         ocd_ids = lookup_class.new(area.as_table, overrides_with_string_keys)
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
