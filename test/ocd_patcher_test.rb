@@ -40,5 +40,10 @@ describe OcdPatcher do
       result = patcher.patched
       patcher.warnings.must_include '    Could not resolve area_id ocd-division/country:uk/city:london for 1'
     end
+
+  end
+
+  it 'tests generating IDs from names' do
+    fail 'TODO'
   end
 end
