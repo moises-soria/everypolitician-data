@@ -12,7 +12,7 @@ def file_to_commit_metadata(directories)
   # parse the output line-by-line. As a bonus this doesn't
   # unnecessarily invoke a shell.
   command = [
-    'git', '--no-pager', 'log', '--name-only', '--format=%h|%at',
+    'git', '--no-pager', 'log', '--name-only', '--format=%H|%at',
     '--', *directories,
   ]
   last_commit = {}
