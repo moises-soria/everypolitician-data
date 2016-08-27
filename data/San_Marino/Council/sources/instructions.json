@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/san_marino_council",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.consigliograndeegenerale.sm",
       "type": "membership"
@@ -37,7 +37,7 @@
         "file": "morph/terms.csv",
         "from": "morph",
         "scraper": "tmtmtmtm/san_marino_council",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY id"
       }
     },
     {
