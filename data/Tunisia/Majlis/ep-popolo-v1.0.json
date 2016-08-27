@@ -4561,6 +4561,10 @@
         {
           "identifier": "15",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26505513",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Mohsen_Hssan.png",
@@ -4569,7 +4573,29 @@
           "url": "http://majles.marsad.tn/2014/uploads/images/Mohsen_Hssan.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mohsen_Hassan"
+        }
+      ],
       "name": "Mohsen Hssan",
+      "other_names": [
+        {
+          "name": "Mohsen Hassan",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Mohsen Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohsen Hassan",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://majles.marsad.tn/2014/fr/assemblee"
@@ -7140,6 +7166,12 @@
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_Afek_Tounes.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.afektounes.tn"
+        }
+      ],
       "name": "Afek Tounes, le mouvement national et l'appel des tunisiens à l'étranger",
       "other_names": [
         {
