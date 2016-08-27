@@ -212,6 +212,10 @@ module Source
       %i(area area_id)
     end
 
+    def fuzzy_match?
+      i(:merge)[:fuzzy]
+    end
+
     def overrides
       return {} unless i(:merge)
       return {} unless i(:merge).key? :overrides

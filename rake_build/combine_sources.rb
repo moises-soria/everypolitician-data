@@ -6,54 +6,7 @@ require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
 require_relative '../lib/source'
 require_relative '../lib/gender_balancer'
-
-class OcdId
-  attr_reader :ocd_ids
-  attr_reader :overrides
-  attr_reader :area_ids
-
-  def initialize(ocd_ids, overrides, fuzzy)
-    @ocd_ids = ocd_ids
-    @overrides = overrides
-    @fuzzy = fuzzy
-    @area_ids = {}
-  end
-
-  def from_name(name)
-    area_ids[name] ||= area_id_from_name(name)
-  end
-
-  private
-
-  def area_id_from_name(name)
-    area = override(name) || finder(name)
-    return if area.nil?
-    warn '  Matched Area %s to %s' % [name.yellow, area[:name].to_s.green] unless area[:name].include? " #{name} "
-    area[:id]
-  end
-
-  def override(name)
-    override_id = overrides[name]
-    return if override_id.nil?
-    { name: name, id: override_id }
-  end
-
-  def finder(name)
-    if fuzzy?
-      fuzzer.find(name.to_s, must_match_at_least_one_word: true)
-    else
-      ocd_ids.find { |i| i[:name] == name }
-    end
-  end
-
-  def fuzzy?
-    @fuzzy
-  end
-
-  def fuzzer
-    @fuzzer ||= FuzzyMatch.new(ocd_ids, read: :name)
-  end
-end
+require_relative '../lib/ocd_id'
 
 class String
   def tidy
@@ -237,8 +190,8 @@ namespace :merge_sources do
       else
         # Generate IDs from names
         overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-        fuzzy = (area.merge_instructions || {})[:fuzzy]
-        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys, fuzzy)
+        lookup_class = area.fuzzy_match? ? OCD::Lookup::Fuzzy : OCD::Lookup::Plain
+        ocd_ids = lookup_class.new(area.as_table, overrides_with_string_keys)
 
         merged_rows.select { |r| r[:area_id].nil? }.each do |r|
           area = ocd_ids.from_name(r[:area])
