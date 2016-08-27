@@ -63194,18 +63194,344 @@
       ]
     },
     {
+      "birth_date": "1899-07-01",
+      "death_date": "1987-10-08",
+      "gender": "male",
+      "given_name": "Konstantinos",
       "id": "26c9eedb-bf11-486f-89bf-0b01df2154b1",
       "identifiers": [
         {
+          "identifier": "23299",
+          "scheme": "biblionet"
+        },
+        {
+          "identifier": "XX1141658",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "11927192q",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "2e3760ab-a812-4817-b664-47fcb16c6f88",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "133032",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/06rn65",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "119152746",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "2e3760ab-a812-4817-b664-47fcb16c6f88",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0001 2148 1737",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n84058420",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000014332",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "35811638",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "073988014",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "n2012156446",
+          "scheme": "nukat"
+        },
+        {
+          "identifier": "027170659",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "113257497",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q365209",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Konstantinos_Tsatsos.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Konstantinos_Tsatsos.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Константинос_Цацос"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Konstandinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κωνσταντίνος_Τσάτσος"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Konstantínos_Tsátsos"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/کنستانتینوس_تساتسوس"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Konstantínos_Tsátsos"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/コンスタンディノス・ツァツォス"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/콘스탄티노스_차초스"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Konstandinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Цацос,_Константинос"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Konstantin_Çaços"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Константінос_Цацос"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Konstantinos_Tsatsos"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/康斯坦丁·察佐斯"
         }
       ],
       "name": "Tsatsos Konstantinos",
       "other_names": [
         {
+          "name": "Konstantinos Tsatsos",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Константинос Цацос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Konstandinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κωνσταντίνος Τσάτσος",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Τσάτσος Δημητρίου Κωνσταντίνος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Konstantínos Tsátsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنستانتینوس تساتسوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Konstantínos Tsátsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "コンスタンディノス・ツァツォス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "콘스탄티노스 차초스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Konstandinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Цацос, Константинос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Константінос Цацос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Konstantinos Tsatsos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "康斯坦丁·察佐斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "康斯坦丁·察佐斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "康斯坦丁·察佐斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "康斯坦丁·察佐斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "康斯坦丁·察佐斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "康斯坦丁·察佐斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "康斯坦丁·察佐斯",
           "note": "multilingual"
         }
       ],
@@ -66245,18 +66571,114 @@
       ]
     },
     {
+      "birth_date": "1955-05-31",
+      "gender": "male",
+      "given_name": "Giannis",
       "id": "9b7f7cc9-1b5f-49da-b773-262f40b51a5c",
       "identifiers": [
         {
+          "identifier": "22662",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "69c5e709-8715-43e6-bab1-a466a5ea7343",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "121492818",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "69c5e709-8715-43e6-bab1-a466a5ea7343",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0000 7864 1108",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n87854189",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000035259101",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "000136553",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "074796690",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "150116969",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "98274734",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5558288",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ioannis_VALINAKIS.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ioannis_VALINAKIS.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ιωάννης_Βαληνάκης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Giannis_Valinakis"
+        },
+        {
+          "note": "website",
+          "url": "http://www.valinakis.gr/"
         }
       ],
       "name": "Valinakis Georgiou Ioanis",
       "other_names": [
         {
+          "name": "Giannis Valinakis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Giannis Valinakis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Βαληνάκης Γεωργίου Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιάννης Βαληνάκης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Giannis Valinakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Giannis Valinakis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Giannis Valinakis",
           "note": "multilingual"
         }
       ],
