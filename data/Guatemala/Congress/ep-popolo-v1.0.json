@@ -2665,6 +2665,29 @@
       ]
     },
     {
+      "birth_date": "2016-08-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hamelgarp@congreso.gob.gt"
+        }
+      ],
+      "email": "hamelgarp@congreso.gob.gt",
+      "id": "1be2c20f-3ef1-442d-85d5-375cabb03372",
+      "image": "http://www.congreso.gob.gt/manager/images/FC0AC90E-CD80-E969-3FB3-C2762EDB2CD1.jpg",
+      "images": [
+        {
+          "url": "http://www.congreso.gob.gt/manager/images/FC0AC90E-CD80-E969-3FB3-C2762EDB2CD1.jpg"
+        }
+      ],
+      "name": "Herber Armando Melgar Padilla",
+      "sources": [
+        {
+          "url": "http://www.congreso.gob.gt/perfiles.php?id=375"
+        }
+      ]
+    },
+    {
       "birth_date": "1957-05-08",
       "contact_details": [
         {
@@ -8457,6 +8480,14 @@
       "on_behalf_of_id": "party/fcn",
       "organization_id": "d719b911-f7d9-4588-8889-1e208ed3e66b",
       "person_id": "1b8e6c2c-f941-41d2-bbec-6c9b4d8c6eea",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chimaltenango",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/fcn",
+      "organization_id": "d719b911-f7d9-4588-8889-1e208ed3e66b",
+      "person_id": "1be2c20f-3ef1-442d-85d5-375cabb03372",
       "role": "member"
     },
     {
