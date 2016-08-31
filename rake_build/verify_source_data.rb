@@ -19,7 +19,7 @@ namespace :verify do
   end
 
   task check_data: :load do
-    date_fields = @csv_headers.select { |k| k.include? '_date' }
+    date_fields = @csv_headers.select { |k| k.include? '_date' }.map(&:to_sym)
 
     @csv.each do |r|
       abort "No `name` in #{r}" if r[:name].to_s.empty?
