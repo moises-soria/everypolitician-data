@@ -3,7 +3,8 @@ class CombinedAreas
     @areas = []
   end
 
-  def add_area(area)
+  def add_area(type, area)
+    area[:type] = type
     area[:uuid] = SecureRandom.uuid
     areas << area
   end
