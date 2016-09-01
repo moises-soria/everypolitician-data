@@ -2905,15 +2905,43 @@
           "value": "gilbering.bol@assnat.cm"
         }
       ],
+      "death_date": "1999-07-30",
       "email": "gilbering.bol@assnat.cm",
+      "gender": "female",
       "id": "1af014e7-e31a-42a7-b461-5ac480f3aaaf",
       "identifiers": [
         {
           "identifier": "377",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25929703",
+          "scheme": "wikidata"
         }
       ],
-      "name": "BOL ALIMA Gilbering"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gibering_Bol_Alima"
+        }
+      ],
+      "name": "BOL ALIMA Gilbering",
+      "other_names": [
+        {
+          "name": "Gibering Bol Alima",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Gibering Bol Alima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gibering Bol Alima",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "4c4f6035-2a5f-48f5-bee1-c63e01279a80",
@@ -5149,14 +5177,42 @@
         }
       ],
       "email": "laurent.ngoa@assnat.cm",
+      "gender": "male",
+      "given_name": "Laurent",
       "id": "272708f6-e508-42b4-94b9-112320304af9",
       "identifiers": [
         {
           "identifier": "423",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24175623",
+          "scheme": "wikidata"
         }
       ],
-      "name": "ETOUNDI NGOA Laurent S."
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Laurent_Serge_Etoundi_Ngoa"
+        }
+      ],
+      "name": "ETOUNDI NGOA Laurent S.",
+      "other_names": [
+        {
+          "name": "Laurent Serge Etoundi Ngoa",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Laurent Serge Etoundi Ngoa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Laurent Serge Etoundi Ngoa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-07-30",
