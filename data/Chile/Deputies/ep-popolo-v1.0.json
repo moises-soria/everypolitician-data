@@ -992,7 +992,7 @@
       "name": "Andrea Molina Oliva",
       "other_names": [
         {
-          "name": "Andrea Molina",
+          "name": "Andrea Molino",
           "note": "alternate"
         },
         {
@@ -1002,7 +1002,7 @@
         },
         {
           "lang": "es",
-          "name": "Andrea Molina",
+          "name": "Andrea Molino",
           "note": "multilingual"
         },
         {
@@ -4121,6 +4121,11 @@
           "lang": "es",
           "name": "Cristian Leay",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cristian Leay",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Leay"
@@ -6387,9 +6392,35 @@
         {
           "identifier": "662",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26710814",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Federico_Mekis"
         }
       ],
       "name": "Federico Mekis Martínez",
+      "other_names": [
+        {
+          "name": "Federico Mekis",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Federico Mekis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Federico Mekis",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mekis"
     },
     {
@@ -8343,8 +8374,24 @@
       "id": "4ae9ee14-5ea4-4434-a01b-161a2c1ab4f4",
       "identifiers": [
         {
+          "identifier": "XX1316779",
+          "scheme": "bne"
+        },
+        {
           "identifier": "165",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "n85121271",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "167611682",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "55581808",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q5883011",
@@ -11771,6 +11818,7 @@
       "sort_name": "Pizarro"
     },
     {
+      "birth_date": "1967-12-28",
       "contact_details": [
         {
           "type": "email",
@@ -11779,14 +11827,47 @@
       ],
       "email": "jorge.rathgeb",
       "gender": "male",
+      "given_name": "Jorge",
       "id": "2f4af8af-a02e-4b86-a338-e33b54cab80c",
       "identifiers": [
         {
           "identifier": "999",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26695256",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Jorge_Evaldo_Rathgeb_Schifferli.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Jorge_Evaldo_Rathgeb_Schifferli.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jorge_Rathgeb"
         }
       ],
       "name": "Jorge Rathgeb Schifferli",
+      "other_names": [
+        {
+          "name": "Jorge Rathgeb",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Jorge Rathgeb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jorge Rathgeb",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rathgeb"
     },
     {
@@ -12573,9 +12654,35 @@
         {
           "identifier": "707",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26715900",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Akin_Soto"
         }
       ],
       "name": "Juan Akin Soto Morales",
+      "other_names": [
+        {
+          "name": "Akin Soto",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Akin Soto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Akin Soto",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Soto"
     },
     {
@@ -18825,6 +18932,11 @@
           "lang": "es",
           "name": "Rafael Arratia Valdebenito",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rafael Arratia Valdebenito",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Arratia"
@@ -22309,6 +22421,11 @@
         {
           "lang": "nan",
           "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
           "note": "multilingual"
         },
         {
