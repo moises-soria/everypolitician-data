@@ -3788,7 +3788,7 @@
         },
         {
           "note": "Wikipedia (hi)",
-          "url": "https://hi.wikipedia.org/wiki/बंदिश_चग्गर"
+          "url": "https://hi.wikipedia.org/wiki/बर्दिश_चग्गर"
         },
         {
           "note": "twitter",
@@ -25467,6 +25467,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jean-Yves_Duclos"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jean-Yves_Duclos"
         },
@@ -30759,6 +30763,10 @@
         {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Justin_Trudeau"
         },
         {
           "note": "Wikipedia (sq)",
@@ -36225,6 +36233,10 @@
           "url": "https://hr.wikipedia.org/wiki/Lynne_Yelich"
         },
         {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Lynne_Yelich"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/Lynne-Yelich-64666054978"
         },
@@ -37753,6 +37765,7 @@
       ]
     },
     {
+      "birth_date": "1959",
       "contact_details": [
         {
           "type": "email",
@@ -42580,6 +42593,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Nicola_Di_Iorio"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nicola_Di_Iorio"
         },
@@ -47314,6 +47331,10 @@
           "url": "https://en.wikipedia.org/wiki/Pierre_Breton"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pierre_Breton"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/pierrebretonplc"
         }
@@ -47322,6 +47343,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Pierre Breton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Pierre Breton",
           "note": "multilingual"
         }
@@ -66099,7 +66125,8 @@
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "7c83651f-d89b-4247-8c95-4dffdf5966d1",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-08-26"
     },
     {
       "area_id": "area/quebec_(thérèse-de_blainville)",
