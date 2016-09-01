@@ -5427,11 +5427,19 @@
       ]
     },
     {
+      "birth_date": "1955",
+      "death_date": "2015-02-07",
+      "gender": "male",
+      "given_name": "George",
       "id": "883973e4-5d51-44be-9492-dc44187f7d2e",
       "identifiers": [
         {
           "identifier": "1623",
           "scheme": "mzalendo"
+        },
+        {
+          "identifier": "Q19008951",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://info.mzalendo.com/media_root/cache/11/61/11614172b3a4ff2cf2bdc5010ab75fe4.jpg",
@@ -5440,7 +5448,44 @@
           "url": "http://info.mzalendo.com/media_root/cache/11/61/11614172b3a4ff2cf2bdc5010ab75fe4.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Muchai"
+        }
+      ],
       "name": "George Mukuru Muchai",
+      "other_names": [
+        {
+          "name": "George Muchai",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "George Muchai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Muchai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Muchai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "George Muchai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Muchai",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/george-mukuru-muchai/"
