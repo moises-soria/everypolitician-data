@@ -64,11 +64,17 @@
         "lang": "uk",
         "name": "Парламентські вибори у Ліхтенштейні 2005",
         "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Landtagswahl in Liechtenstein 2005",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2005"
-    ]
+    ],
+    "followed_by": "Liechtenstein parliamentary election, 2009"
   },
   "Q1190661": {
     "identifiers": [
@@ -137,6 +143,7 @@
     "dates": [
       "2013-02-03"
     ],
+    "follows": "Liechtenstein parliamentary election, 2009",
     "successful_candidates": [
       "Adrian Hasler"
     ]
@@ -391,7 +398,8 @@
     "dates": [
       "2009"
     ],
-    "follows": "Liechtenstein parliamentary election, 2005"
+    "follows": "Liechtenstein parliamentary election, 2005",
+    "followed_by": "Liechtenstein parliamentary election, 2013"
   },
   "Q2855671": {
     "identifiers": [
