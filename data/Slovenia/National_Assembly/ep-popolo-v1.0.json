@@ -5793,6 +5793,10 @@
           "url": "https://et.wikipedia.org/wiki/Alenka_Bratušek"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/آلنکا_براتوشک"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Alenka_Bratušek"
         },
@@ -10495,6 +10499,11 @@
     },
     {
       "classification": "party",
+      "id": "ZL NeP",
+      "name": "Nepovezani poslanec"
+    },
+    {
+      "classification": "party",
       "id": "NSi",
       "identifiers": [
         {
@@ -10731,6 +10740,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/StrankaMiraCerarjalogo.png",
       "links": [
         {
           "note": "website",
@@ -11894,7 +11904,7 @@
     {
       "area_id": "area/vi_trebnje_4",
       "legislative_period_id": "term/7",
-      "on_behalf_of_id": "SDS",
+      "on_behalf_of_id": "ZL NeP",
       "organization_id": "318b4a81-c7a3-4d6c-a3ce-80e08345d86e",
       "person_id": "bc2af42e-dfb8-4b7b-a214-f10a21ca3808",
       "role": "member"
