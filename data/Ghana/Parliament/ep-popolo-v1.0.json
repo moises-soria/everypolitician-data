@@ -371,6 +371,10 @@
         {
           "identifier": "259",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26464946",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gh/userfiles/mps/48_AFENYO_MARKIN_ALEXANDER.jpg",
@@ -379,7 +383,25 @@
           "url": "http://www.parliament.gh/userfiles/mps/48_AFENYO_MARKIN_ALEXANDER.jpg"
         }
       ],
-      "name": "Alexander Kwamina Afenyo-Markin"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Kwamina_Afenyo-Markin"
+        }
+      ],
+      "name": "Alexander Kwamina Afenyo-Markin",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alexander Kwamina Afenyo-Markin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alexander Kwamina Afenyo-Markin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-02-20",
@@ -2539,6 +2561,10 @@
         {
           "identifier": "182",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26210996",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gh/userfiles/mps/197_KLENAM_GIFTY.jpg",
@@ -2547,7 +2573,29 @@
           "url": "http://www.parliament.gh/userfiles/mps/197_KLENAM_GIFTY.jpg"
         }
       ],
-      "name": "Gifty Klenam (Ms)"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gifty_Klenam"
+        }
+      ],
+      "name": "Gifty Klenam (Ms)",
+      "other_names": [
+        {
+          "name": "Gifty Klenam",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gifty Klenam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gifty Klenam",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-12-24",
