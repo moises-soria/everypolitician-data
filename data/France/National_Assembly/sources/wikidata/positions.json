@@ -162,14 +162,33 @@
       "title": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Hauts-de-Seine's 6th constituency",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P1365": "Joëlle Ceccaldi-Raynaud"
       }
     },
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Neuilly-sur-Seine)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P580": "2008-03-23",
+        "P642": "Neuilly-sur-Seine",
+        "P1365": "Louis-Charles Bary"
+      }
+    },
+    {
+      "id": "Q3780304",
+      "label": "Member of the General Council",
+      "title": "Member of the General Council (of Hauts-de-Seine)",
+      "description": "elected member of the local assembly of a French department (before March 2015)",
+      "qualifiers": {
+        "P642": "Hauts-de-Seine",
+        "P580": "2011-03-27",
+        "P582": "2012-12-05",
+        "P1365": "Marie-Cécile Ménard",
+        "P1366": "Alexandra Fourcade"
+      }
     }
   ],
   "Q16467684": [
@@ -5290,12 +5309,6 @@
       }
     },
     {
-      "id": "Q382617",
-      "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
-    },
-    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
@@ -5333,6 +5346,11 @@
         "P768": "Q2972963",
         "P580": "2012-06-20"
       }
+    },
+    {
+      "id": "Q26266362",
+      "label": "Q26266362",
+      "title": "Q26266362"
     }
   ],
   "Q3168969": [
