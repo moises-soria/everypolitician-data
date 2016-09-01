@@ -1656,7 +1656,8 @@
         "url": "http://shas.org.il/Web/He/Default.aspx",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Shas.JPG"
   },
   "kadima": {
     "identifiers": [
@@ -2027,7 +2028,8 @@
         "url": "http://www.kadima.org.il/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_Kadima.svg"
   },
   "herut_movement": {
     "identifiers": [
@@ -2839,7 +2841,8 @@
         "url": "http://www.meretz.org.il/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Meretz.JPG"
   },
   "hadash": {
     "identifiers": [
@@ -2980,7 +2983,8 @@
         "url": "http://www.hadash.org.il/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hadash.JPG"
   },
   "general_zionists": {
     "identifiers": [
@@ -3402,7 +3406,8 @@
         "url": "http://en.yeshatid.org.il/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/YeshAtidLogo.svg"
   },
   "united_torah_judaism": {
     "identifiers": [
@@ -3778,6 +3783,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ro",
+        "name": "Partidul Progresist",
+        "note": "multilingual"
+      },
+      {
         "lang": "he",
         "name": "פרוגרסיבים",
         "note": "multilingual"
@@ -3787,7 +3797,8 @@
         "name": "הפרוגרסיבים",
         "note": "multilingual"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Pinchas_Rosen.jpg"
   },
   "liberal_party_of_israel": {
     "identifiers": [
@@ -3977,6 +3988,12 @@
         "name": "Agudat Israel dels Treballadors",
         "note": "multilingual"
       }
+    ],
+    "links": [
+      {
+        "url": "http://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=52",
+        "note": "website"
+      }
     ]
   },
   "joint_list_(hadash,_raam,_balad,_taal)": {
@@ -4047,7 +4064,8 @@
         "name": "Wamab",
         "note": "multilingual"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Joint_List_logo.png"
   },
   "tehiya": {
     "identifiers": [
@@ -4329,7 +4347,8 @@
         "url": "https://www.kulanu-party.co.il/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kulanu_Kahlon_logo.svg"
   },
   "rafi": {
     "identifiers": [
@@ -4574,6 +4593,12 @@
         "name": "Ya'ad - Mouvement des droits civiques",
         "note": "multilingual"
       }
+    ],
+    "links": [
+      {
+        "url": "http://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=58",
+        "note": "website"
+      }
     ]
   },
   "yisrael_be`aliyah": {
@@ -4729,6 +4754,12 @@
         "name": "Hetz",
         "note": "multilingual"
       }
+    ],
+    "links": [
+      {
+        "url": "http://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=186",
+        "note": "website"
+      }
     ]
   },
   "free_center": {
@@ -4778,6 +4809,12 @@
         "lang": "cs",
         "name": "Merkaz ha-chofši",
         "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=71",
+        "note": "website"
       }
     ]
   },
