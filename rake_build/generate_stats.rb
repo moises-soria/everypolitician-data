@@ -10,10 +10,10 @@ namespace :stats do
     now = DateTime.now.to_date
 
     events = popolo.events
-    terms = events.select { |e| e.classification == 'legislative period' }
-    elections = events.select { |e| e.classification == 'general election' }
+    terms = events.where(classification: 'legislative period')
+    elections = events.where(classification: 'general election')
 
-    parties = popolo.organizations.select { |o| o[:classification] == 'party' }.reject { |o| o[:name].downcase == 'unknown' }
+    parties = popolo.organizations.where(classification: 'party').reject { |o| o.name.downcase == 'unknown' }
     wd_part = parties.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
 
     # Ignore elections that are in the following year, or later
