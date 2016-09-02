@@ -9,11 +9,6 @@ class StatsFile
   end
 
   def stats
-    now = DateTime.now.to_date
-
-    events = popolo.events
-    terms = events.where(classification: 'legislative period')
-    elections = events.where(classification: 'general election')
 
     parties = popolo.organizations.where(classification: 'party').reject { |o| o.name.downcase == 'unknown' }
     wd_part = parties.partition { |p| p.identifier('wikidata') }
@@ -50,12 +45,27 @@ class StatsFile
         cabinet: cabinet_positions,
       },
     }
-
   end
 
   private
 
   attr_reader :popolo
+
+  def now
+    DateTime.now.to_date
+  end
+
+  def events
+    popolo.events
+  end
+
+  def terms
+    events.where(classification: 'legislative period')
+  end
+
+  def elections
+    events.where(classification: 'general election')
+  end
 end
 
 STATSFILE = Pathname.new('unstable/stats.json')
