@@ -5,12 +5,12 @@ describe CombinedAreas do
   subject { CombinedAreas.new }
   let(:uuid_regex) { /^\w{8}-(\w{4}-){3}\w{12}$/ }
 
-  it 'adds a single area' do
-    subject.add_area('wikidata-areas', id: 'Q3296251', name: 'Anvard')
-    out = subject.as_json.first
-    out[:uuid].must_match uuid_regex
-    out[:type].must_equal 'wikidata-areas'
-    out[:name].must_equal 'Anvard'
-    out[:id].must_equal 'Q3296251'
+  it 'can find areas by name' do
+    wikidata_area = { id: 'Q3296251', name: 'Anvard' }
+    subject.add_wikidata_area(wikidata_area)
+    area = subject.find_by_name('Anvard')
+    area.uuid.must_match uuid_regex
+    area.name.must_equal 'Anvard'
+    area.identifier__wikidata.must_equal 'Q3296251'
   end
 end
