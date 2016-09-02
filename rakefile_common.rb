@@ -35,8 +35,11 @@ require 'open-uri'
 require 'pathname'
 require 'pry'
 require 'rake/clean'
+require 'require_all'
 require 'set'
 require 'yajl/json_gem'
+
+require_rel 'lib'
 
 # Files within each Legislature directory
 MERGED_JSON = Pathname.new('sources/merged.json')
