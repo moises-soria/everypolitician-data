@@ -20,9 +20,9 @@ namespace :stats do
 
     if POSITION_FILTER.file?
       posns = JSON.parse(POSITION_FILTER.read, symbolize_names: true)
-      executive_positions = posns[:include][:executive].count rescue 0
+      cabinet_positions = posns[:include][:cabinet].count rescue 0
     else
-      executive_positions = 0
+      cabinet_positions = 0
     end
 
     stats = {
@@ -43,7 +43,7 @@ namespace :stats do
         latest: latest_election || '',
       },
       positions: {
-        executive: executive_positions,
+        cabinet: cabinet_positions,
       },
     }
 

@@ -13,7 +13,7 @@ end
 
 (file = ARGV.shift) || abort("Usage: echo CSV | #{$PROGRAM_NAME} <filter file>")
 json = json_from(file)
-%i(self other_legislatures executive party other).each { |i| json[:include][i] ||= [] }
+%i(self other_legislatures cabinet executive party other).each { |i| json[:include][i] ||= [] }
 
 csv = Hash[ARGF.readlines.map { |l| l.chomp.split(',') }]
 
@@ -23,7 +23,8 @@ section_for = lambda do |r|
   return json[:include][:other] if res == 'Exclude'
   return json[:include][:self] if res == 'Self (keep)'
   return json[:include][:other_legislatures] if res == 'Other Legislature'
-  return json[:include][:executive] if res == 'Executive'
+  return json[:include][:cabinet] if res == 'Cabinet'
+  return json[:include][:executive] if res == 'Other Executive'
   return json[:include][:party] if res == 'Party'
   return json[:include][:other] if res == 'Other'
   raise "Unknown button: #{res}"
