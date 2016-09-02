@@ -14,7 +14,7 @@ namespace :stats do
     elections = events.where(classification: 'general election')
 
     parties = popolo.organizations.where(classification: 'party').reject { |o| o.name.downcase == 'unknown' }
-    wd_part = parties.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
+    wd_part = parties.partition { |p| p.identifier('wikidata') }
 
     # Ignore elections that are in the following year, or later
     latest_election = elections.map(&:end_date).compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
