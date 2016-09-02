@@ -791,6 +791,10 @@
         {
           "identifier": "hasan_taçoy",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6081184",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hasan-tacoy.jpg",
@@ -799,7 +803,29 @@
           "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hasan-tacoy.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hasan_Taçoy"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Hasan_Taçoy"
+        }
+      ],
       "name": "Hasan Taçoy",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hasan Taçoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Hasan Taçoy",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Taçoy, Hasan",
       "sources": [
         {
@@ -921,6 +947,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Hüseyin_Özgürgün"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χουσεΐν_Οζγκιουργκούν"
         },
         {
           "note": "Wikipedia (en)",
