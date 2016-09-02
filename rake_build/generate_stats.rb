@@ -10,8 +10,6 @@ class StatsFile
 
   def stats
 
-    # Ignore elections that are in the following year, or later
-    latest_election = elections.map(&:end_date).compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
     latest_term_start = terms.last.start_date rescue ''
 
     if POSITION_FILTER.file?
@@ -70,6 +68,11 @@ class StatsFile
 
   def party_wikidata_partition
     known_parties.partition { |p| p.identifier('wikidata') }
+  end
+
+  def latest_election
+    # Ignore elections that are in the following year, or later
+    elections.map(&:end_date).compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
   end
 end
 
