@@ -12,13 +12,6 @@ class StatsFile
 
     latest_term_start = terms.last.start_date rescue ''
 
-    if POSITION_FILTER.file?
-      posns = JSON.parse(POSITION_FILTER.read, symbolize_names: true)
-      cabinet_positions = posns[:include][:cabinet].count rescue 0
-    else
-      cabinet_positions = 0
-    end
-
     stats = {
       people:    {
         count:    people.count,
@@ -81,6 +74,12 @@ class StatsFile
   def latest_election
     # Ignore elections that are in the following year, or later
     elections.map(&:end_date).compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
+  end
+
+  def cabinet_positions
+    return 0 unless POSITION_FILTER.file?
+    posns = JSON.parse(POSITION_FILTER.read, symbolize_names: true)
+    posns[:include][:cabinet].count rescue 0
   end
 end
 
