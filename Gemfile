@@ -21,6 +21,7 @@ gem 'facebook_username_extractor', '~> 0.2.0'
 gem 'json5'
 gem 'slop', '~> 3.6.0' # tied to pry version
 gem 'rcsv'
+gem 'require_all'
 
 group :test do
   gem 'minitest'

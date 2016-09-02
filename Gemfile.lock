@@ -79,6 +79,7 @@ GEM
     rainbow (2.1.0)
     rake (11.2.2)
     rcsv (0.3.1)
+    require_all (1.3.3)
     rest-client (2.0.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
@@ -127,6 +128,7 @@ DEPENDENCIES
   pry
   rake
   rcsv
+  require_all
   rest-client
   rubocop
   sass
