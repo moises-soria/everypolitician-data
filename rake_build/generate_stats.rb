@@ -9,33 +9,53 @@ class StatsFile
   end
 
   def stats
+    {
+      people:    people_stats,
+      groups:    group_stats,
+      terms:     term_stats,
+      elections: election_stats,
+      positions: position_stats,
 
-    stats = {
-      people:    {
-        count:    people.count,
-        wikidata: people_wikidata_partition.first.count,
-      },
-      groups:    {
-        count:    known_parties.count,
-        wikidata: party_wikidata_partition.first.count,
-      },
-      terms:     {
-        count:  terms.count,
-        latest: latest_term_start,
-      },
-      elections: {
-        count:  elections.count,
-        latest: latest_election || '',
-      },
-      positions: {
-        cabinet: cabinet_positions,
-      },
     }
   end
 
   private
 
   attr_reader :popolo
+
+  def people_stats
+    {
+      count:    people.count,
+      wikidata: people_wikidata_partition.first.count,
+    }
+  end
+
+  def group_stats
+    {
+      count:    known_parties.count,
+      wikidata: party_wikidata_partition.first.count,
+    }
+  end
+
+  def term_stats
+    {
+      count:  terms.count,
+      latest: latest_term_start,
+    }
+  end
+
+  def election_stats
+    {
+      count:  elections.count,
+      latest: latest_election || '',
+    }
+  end
+
+  def position_stats
+    {
+      cabinet: cabinet_positions,
+    }
+  end
 
   def now
     DateTime.now.to_date
