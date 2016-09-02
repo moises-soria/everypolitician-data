@@ -50,7 +50,7 @@ class StatsFile
   def election_stats
     {
       count:  elections.count,
-      latest: latest_election || '',
+      latest: latest_election_date || '',
     }
   end
 
@@ -96,7 +96,7 @@ class StatsFile
     known_parties.partition { |p| p.identifier('wikidata') }
   end
 
-  def latest_election
+  def latest_election_date
     # Ignore elections that are in the following year, or later
     elections.map(&:end_date).compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
   end
