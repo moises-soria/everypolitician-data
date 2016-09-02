@@ -10,8 +10,6 @@ class StatsFile
 
   def stats
 
-    latest_term_start = terms.last.start_date rescue ''
-
     stats = {
       people:    {
         count:    people.count,
@@ -57,6 +55,10 @@ class StatsFile
 
   def terms
     events.where(classification: 'legislative period')
+  end
+
+  def latest_term_start
+    terms.last.start_date rescue ''
   end
 
   def elections
