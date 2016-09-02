@@ -21,8 +21,8 @@ class StatsFile
 
     stats = {
       people:    {
-        count:    popolo.persons.count,
-        wikidata: popolo.persons.partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }.first.count,
+        count:    people.count,
+        wikidata: people_wikidata_partition.first.count,
       },
       groups:    {
         count:    known_parties.count,
@@ -48,6 +48,14 @@ class StatsFile
 
   def now
     DateTime.now.to_date
+  end
+
+  def people
+    popolo.persons
+  end
+
+  def people_wikidata_partition
+    people.partition { |p| p.identifier('wikidata') }
   end
 
   def events
