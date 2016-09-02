@@ -69,7 +69,7 @@ class StatsFile
   end
 
   def people_wikidata_partition
-    people.partition { |p| p.identifier('wikidata') }
+    people.partition(&:wikidata)
   end
 
   def events
@@ -93,7 +93,7 @@ class StatsFile
   end
 
   def party_wikidata_partition
-    known_parties.partition { |p| p.identifier('wikidata') }
+    known_parties.partition(&:wikidata)
   end
 
   def latest_election_date
