@@ -1,13 +1,16 @@
 #-----------------------------------------------------------------------
 # Update the `stats.json` file for a Legislature
 #-----------------------------------------------------------------------
-
 class StatsFile
-
-  def initialize(popolo:)
+  # @param popolo [EveryPolitician::Popolo]
+  # @param position_filter [Pathname]
+  def initialize(popolo:, position_filter:)
     @popolo = popolo
+    @position_filter = position_filter
   end
 
+  # Re-generated statistics for this legislature
+  # @return [Hash]
   def stats
     {
       people:    people_stats,
@@ -21,7 +24,7 @@ class StatsFile
 
   private
 
-  attr_reader :popolo
+  attr_reader :popolo, :position_filter
 
   def people_stats
     {
@@ -99,8 +102,8 @@ class StatsFile
   end
 
   def cabinet_positions
-    return 0 unless POSITION_FILTER.file?
-    posns = JSON.parse(POSITION_FILTER.read, symbolize_names: true)
+    return 0 unless position_filter.file?
+    posns = JSON.parse(position_filter.read, symbolize_names: true)
     posns[:include][:cabinet].count rescue 0
   end
 end
@@ -110,7 +113,7 @@ STATSFILE = Pathname.new('unstable/stats.json')
 namespace :stats do
   task regenerate: 'ep-popolo-v1.0.json' do
     popolo = Everypolitician::Popolo.read('ep-popolo-v1.0.json')
-    stats = StatsFile.new(popolo: popolo).stats
+    stats = StatsFile.new(popolo: popolo, position_filter: POSITION_FILTER).stats
 
     STATSFILE.dirname.mkpath
     STATSFILE.write(JSON.pretty_generate(stats))
