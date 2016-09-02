@@ -649,8 +649,8 @@
     },
     {
       "id": "Q23651608",
-      "label": "Q23651608",
-      "title": "Q23651608",
+      "label": "Éllinas Ypougrós Ikonomikón",
+      "title": "Éllinas Ypougrós Ikonomikón",
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
@@ -694,6 +694,212 @@
       "label": "Minister of Labour and Social Insurance of Greece",
       "title": "Minister of Labour and Social Insurance of Greece",
       "description": "Greek government minister"
+    }
+  ],
+  "Q365209": [
+    {
+      "id": "Q3409203",
+      "label": "President of Greece",
+      "title": "President of Greece",
+      "qualifiers": {
+        "P580": "1975-07-19",
+        "P582": "1980-05-10",
+        "P1365": "Michail Stasinopoulos",
+        "P1366": "Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q19858317",
+      "label": "Greek Minister of the Interior",
+      "title": "Greek Minister of the Interior (of Q12879510)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1945-04-08",
+        "P582": "1945-08-11",
+        "P1365": "Georgios Athanasiadis-Novas",
+        "P1366": "Petros Voulgaris",
+        "P642": "Q12879510"
+      }
+    },
+    {
+      "id": "Q19858568",
+      "label": "Minister of the Presidency of Greece",
+      "title": "Minister of the Presidency of Greece (of Second Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1956-02-29",
+        "P582": "1958-03-05",
+        "P1365": "Georgios Rallis",
+        "P1366": "Q12881114",
+        "P642": "Second Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q19858608",
+      "label": "Q19858608",
+      "title": "Q19858608 (of Q12879517)",
+      "qualifiers": {
+        "P580": "1945-11-01",
+        "P582": "1945-11-22",
+        "P1365": "Geórgios Alexandrís",
+        "P1366": "Theodoros Manetas",
+        "P642": "Q12879517"
+      }
+    },
+    {
+      "id": "Q19860560",
+      "label": "Minister of Justice of Greece",
+      "title": "Minister of Justice of Greece (of Q12879510)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1945-04-08",
+        "P582": "1945-08-11",
+        "P1365": "Q17484924",
+        "P1366": "Q12885092",
+        "P642": "Q12879510"
+      }
+    },
+    {
+      "id": "Q23653052",
+      "label": "Q23653052",
+      "title": "Q23653052 (of Third Cabinet of Sofoklis Venizelos)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1950-12-05",
+        "P582": "1951-05-22",
+        "P1366": "Petros Garoufalias",
+        "P642": "Third Cabinet of Sofoklis Venizelos"
+      }
+    },
+    {
+      "id": "Q19942365",
+      "label": "Minister of Culture and Sciences of Greece",
+      "title": "Minister of Culture and Sciences of Greece (of National Unity Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1974-06-24",
+        "P582": "1974-10-09",
+        "P1365": "Q15091018",
+        "P1366": "Q16327994",
+        "P642": "National Unity Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q20685769",
+      "label": "Minister of Religions and National Education of Greece",
+      "title": "Minister of Religions and National Education of Greece (of Q12879482)",
+      "description": "former Greek cabinet position",
+      "qualifiers": {
+        "P580": "1949-01-20",
+        "P582": "1950-01-06",
+        "P1365": "Q16915629",
+        "P1366": "Geōrgios P. Oikonomos",
+        "P642": "Q12879482"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "1975",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q23772807",
+      "label": "Member of the Athens Academy",
+      "title": "Member of the Athens Academy",
+      "qualifiers": {
+        "P580": "1961"
+      }
+    },
+    {
+      "id": "Q19860560",
+      "label": "Minister of Justice of Greece",
+      "title": "Minister of Justice of Greece (of Caretaker Cabinet of Panagiotis Kanellopoulos)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1967-04-03",
+        "P582": "1967-04-21",
+        "P1365": "Q17605590",
+        "P1366": "Q23636381",
+        "P642": "Caretaker Cabinet of Panagiotis Kanellopoulos"
+      }
+    },
+    {
+      "id": "Q19858568",
+      "label": "Minister of the Presidency of Greece",
+      "title": "Minister of the Presidency of Greece (of Third Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1958-05-17",
+        "P582": "1961-09-20",
+        "P1365": "Michail Stasinopoulos",
+        "P1366": "Q20289223",
+        "P642": "Third Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q23901461",
+      "label": "Minister of Hygiene and Social Welfare of Greece",
+      "title": "Minister of Hygiene and Social Welfare of Greece (of Q12879510)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1945-04-08",
+        "P582": "1945-04-11",
+        "P1365": "Q20644251",
+        "P1366": "Q12881886",
+        "P642": "Q12879510"
+      }
+    },
+    {
+      "id": "Q19904310",
+      "label": "Minister of Social Care of Greece",
+      "title": "Minister of Social Care of Greece (of Fourth Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1962-12-20",
+        "P582": "1963-06-19",
+        "P1365": "Andreas Stratos",
+        "P642": "Fourth Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q23901458",
+      "label": "Minister of the Press and Information",
+      "title": "Minister of the Press and Information (of Q12879517)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1945-11-01",
+        "P582": "1945-11-22",
+        "P1365": "Georgios Kartalis",
+        "P1366": "Ioannis Sofianopoulos",
+        "P642": "Q12879517"
+      }
+    },
+    {
+      "id": "Q23653052",
+      "label": "Q23653052",
+      "title": "Q23653052 (of Third Cabinet of Sofoklis Venizelos)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1951-07-04",
+        "P582": "1951-09-30",
+        "P1365": "Georgios Papandreou",
+        "P642": "Third Cabinet of Sofoklis Venizelos"
+      }
+    },
+    {
+      "id": "Q23768979",
+      "label": "Q23768979",
+      "title": "Q23768979",
+      "qualifiers": {
+        "P580": "1966-01",
+        "P582": "1966-12",
+        "P1365": "Georgios Athanasiadis-Novas"
+      }
     }
   ],
   "Q57806": [
@@ -1159,8 +1365,8 @@
     },
     {
       "id": "Q23651608",
-      "label": "Q23651608",
-      "title": "Q23651608 (of Cabinet of Konstantinos Mitsotakis)",
+      "label": "Éllinas Ypougrós Ikonomikón",
+      "title": "Éllinas Ypougrós Ikonomikón (of Cabinet of Konstantinos Mitsotakis)",
       "description": "undersecretary to a ministry of the Greek government",
       "qualifiers": {
         "P580": "1990-04-11",
@@ -1663,7 +1869,7 @@
         "P580": "2015-07-17",
         "P582": "2015-08-20",
         "P1365": "Geórgios Katroúgkalos",
-        "P1366": "Q24262052",
+        "P1366": "Antonis Makrydimitris",
         "P642": "First Cabinet of Alexis Tsipras"
       }
     },
@@ -1673,7 +1879,7 @@
       "title": "Q23835944 (of Second Cabinet of Alexis Tsipras)",
       "qualifiers": {
         "P580": "2015-09-22",
-        "P1365": "Q24262052",
+        "P1365": "Antonis Makrydimitris",
         "P642": "Second Cabinet of Alexis Tsipras"
       }
     }
@@ -2080,7 +2286,12 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of Panhellenic Socialist Movement)",
+      "qualifiers": {
+        "P580": "2007",
+        "P582": "2011",
+        "P642": "Panhellenic Socialist Movement"
+      }
     }
   ],
   "Q23759514": [
@@ -3267,8 +3478,8 @@
     },
     {
       "id": "Q23651608",
-      "label": "Q23651608",
-      "title": "Q23651608",
+      "label": "Éllinas Ypougrós Ikonomikón",
+      "title": "Éllinas Ypougrós Ikonomikón",
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
@@ -4494,6 +4705,32 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Athens A"
+      }
+    }
+  ],
+  "Q5558288": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "2004",
+        "P582": "2009",
+        "P768": "Q20723246",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q23640242",
+      "label": "Q23640242",
+      "title": "Q23640242 (of Second Cabinet of Kostas Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2004-03-10",
+        "P582": "2009-09-11",
+        "P1365": "Andreas Loverdos",
+        "P1366": "Spyros Kouvelis",
+        "P642": "Second Cabinet of Kostas Karamanlis"
       }
     }
   ],
@@ -5812,8 +6049,8 @@
     },
     {
       "id": "Q23651608",
-      "label": "Q23651608",
-      "title": "Q23651608",
+      "label": "Éllinas Ypougrós Ikonomikón",
+      "title": "Éllinas Ypougrós Ikonomikón",
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
@@ -6791,8 +7028,8 @@
     },
     {
       "id": "Q23651608",
-      "label": "Q23651608",
-      "title": "Q23651608 (of Third Cabinet of Sofoklis Venizelos)",
+      "label": "Éllinas Ypougrós Ikonomikón",
+      "title": "Éllinas Ypougrós Ikonomikón (of Third Cabinet of Sofoklis Venizelos)",
       "description": "undersecretary to a ministry of the Greek government",
       "qualifiers": {
         "P580": "1951-02-01",
@@ -7023,9 +7260,9 @@
       "qualifiers": {
         "P580": "2009-10-07",
         "P582": "2011-06-17",
-        "P1365": "Giannis Valinakis",
         "P1366": "Demetri Dollis",
-        "P642": "Cabinet of George Papandreou"
+        "P642": "Cabinet of George Papandreou",
+        "P1365": "Giannis Valinakis"
       }
     }
   ],
