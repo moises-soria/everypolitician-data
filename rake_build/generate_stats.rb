@@ -2,11 +2,13 @@
 # Update the `stats.json` file for a Legislature
 #-----------------------------------------------------------------------
 
-STATSFILE = Pathname.new('unstable/stats.json')
+class StatsFile
 
-namespace :stats do
-  task regenerate: 'ep-popolo-v1.0.json' do
-    popolo = Everypolitician::Popolo.read('ep-popolo-v1.0.json')
+  def initialize(popolo:)
+    @popolo = popolo
+  end
+
+  def stats
     now = DateTime.now.to_date
 
     events = popolo.events
@@ -48,6 +50,20 @@ namespace :stats do
         cabinet: cabinet_positions,
       },
     }
+
+  end
+
+  private
+
+  attr_reader :popolo
+end
+
+STATSFILE = Pathname.new('unstable/stats.json')
+
+namespace :stats do
+  task regenerate: 'ep-popolo-v1.0.json' do
+    popolo = Everypolitician::Popolo.read('ep-popolo-v1.0.json')
+    stats = StatsFile.new(popolo: popolo).stats
 
     STATSFILE.dirname.mkpath
     STATSFILE.write(JSON.pretty_generate(stats))
