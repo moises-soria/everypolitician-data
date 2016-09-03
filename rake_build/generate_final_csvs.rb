@@ -131,6 +131,18 @@ namespace :term_csvs do
       end
     end
 
+    def to_include
+      to_json[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    end
+
+    def to_exclude
+      to_json[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    end
+
+    def cabinet
+      (to_json[:include][:cabinet] || []).map { |p| p[:id] }.to_set
+    end
+
     private
 
     attr_reader :pathname
@@ -144,9 +156,9 @@ namespace :term_csvs do
     position_filter = PositionFilter.new(pathname: POSITION_FILTER)
     filter = position_filter.to_json
 
-    to_include = filter[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
-    to_exclude = filter[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
-    cabinet    = (filter[:include][:cabinet] || []).map { |p| p[:id] }.to_set
+    to_include = position_filter.to_include
+    to_exclude = position_filter.to_exclude
+    cabinet    = position_filter.cabinet
 
     want, unknown = @json[:persons].map do |p|
       (p[:identifiers] || []).select { |i| i[:scheme] == 'wikidata' }.map do |id|
