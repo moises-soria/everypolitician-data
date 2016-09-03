@@ -167,8 +167,8 @@ namespace :term_csvs do
     csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
 
     POSITION_CSV.dirname.mkpath
-    File.write(POSITION_CSV, csv) # POSITION_CSV.write(csv) needs ruby 2.1.0
-    File.write(POSITION_FILTER, JSON.pretty_generate(filter))
+    POSITION_CSV.write(csv)
+    POSITION_FILTER.write(JSON.pretty_generate(filter))
 
     if filter[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
       html = Position::Filterer.new(filter).html
