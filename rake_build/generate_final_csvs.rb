@@ -165,6 +165,10 @@ namespace :term_csvs do
       @pathname = pathname
     end
 
+    def positions_for(person)
+      json[person.wikidata.to_sym].to_a
+    end
+
     def json
       JSON.parse(pathname.read, symbolize_names: true)
     end
@@ -179,7 +183,8 @@ namespace :term_csvs do
   task positions: ['ep-popolo-v1.0.json'] do
     next unless POSITION_RAW.file?
     warn "Creating #{POSITION_CSV}"
-    positions = WikidataPositionFile.new(pathname: POSITION_RAW).json
+    p39s = WikidataPositionFile.new(pathname: POSITION_RAW)
+
     position_map = PositionMap.new(pathname: POSITION_FILTER)
     filter = position_map.to_json
 
@@ -188,7 +193,7 @@ namespace :term_csvs do
     cabinet_ids = position_map.cabinet_ids
 
     want, unknown = @popolo.persons.select(&:wikidata).map do |p|
-      positions[p.wikidata.to_sym].to_a.reject { |r| exclude_ids.include? r[:id] }.map do |posn|
+      p39s.positions_for(p).reject { |r| exclude_ids.include? r[:id] }.map do |posn|
         {
           id:          p.id,
           wikidata:    p.wikidata,
