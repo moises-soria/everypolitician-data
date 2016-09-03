@@ -114,7 +114,9 @@ namespace :term_csvs do
   end
 
   # TODO: move this to its own file
-  class PositionFilter
+  class PositionMap
+    # Which Wikidata Positions we're interested in, and how to group them
+
     def initialize(pathname:)
       @pathname = pathname
     end
@@ -124,15 +126,15 @@ namespace :term_csvs do
       raw_json
     end
 
-    def to_include
-      to_json[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    def include_ids
+      to_json[:include].values.flatten.map { |p| p[:id] }.to_set
     end
 
-    def to_exclude
-      to_json[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    def exclude_ids
+      to_json[:exclude].values.flatten.map { |p| p[:id] }.to_set
     end
 
-    def cabinet
+    def cabinet_ids
       (to_json[:include][:cabinet] || []).map { |p| p[:id] }.to_set
     end
 
@@ -178,15 +180,15 @@ namespace :term_csvs do
     next unless POSITION_RAW.file?
     warn "Creating #{POSITION_CSV}"
     positions = WikidataPositionFile.new(pathname: POSITION_RAW).json
-    position_filter = PositionFilter.new(pathname: POSITION_FILTER)
-    filter = position_filter.to_json
+    position_map = PositionMap.new(pathname: POSITION_FILTER)
+    filter = position_map.to_json
 
-    to_include = position_filter.to_include
-    to_exclude = position_filter.to_exclude
-    cabinet    = position_filter.cabinet
+    include_ids = position_map.include_ids
+    exclude_ids = position_map.exclude_ids
+    cabinet_ids = position_map.cabinet_ids
 
     want, unknown = @popolo.persons.select(&:wikidata).map do |p|
-      positions[p.wikidata.to_sym].to_a.reject { |r| to_exclude.include? r[:id] }.map do |posn|
+      positions[p.wikidata.to_sym].to_a.reject { |r| exclude_ids.include? r[:id] }.map do |posn|
         {
           id:          p.id,
           wikidata:    p.wikidata,
@@ -198,11 +200,11 @@ namespace :term_csvs do
           end_date:    (posn[:qualifiers] || {})[:P582],
         }
       end
-    end.flatten(2).partition { |r| to_include.include? r[:position_id] }
+    end.flatten(2).partition { |r| include_ids.include? r[:position_id] }
 
     # Warn about Cabinet members missing dates
     # TODO: move elsewhere
-    want.select { |p| cabinet.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
+    want.select { |p| cabinet_ids.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
       warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
     end
 
