@@ -121,11 +121,7 @@ namespace :term_csvs do
 
     def to_json
       return empty_filter unless pathname.exist?
-      # read with JSON5 to be more liberal about trailing commas.
-      # But that doesn't have a 'symbolize_names' so rountrip through JSON
-      json5_parse(pathname.read).each do |_s, fs|
-        fs.each { |_, fs| fs.each { |f| f.delete :count } }
-      end
+      raw_json
     end
 
     def to_include
@@ -146,6 +142,12 @@ namespace :term_csvs do
 
     def empty_filter
       { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
+    end
+
+    def raw_json
+      @json ||= json5_parse(pathname.read).each do |_s, fs|
+        fs.each { |_, fs| fs.each { |f| f.delete :count } }
+      end
     end
 
     # TODO: move this to somewhere more generally useful
