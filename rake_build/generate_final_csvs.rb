@@ -232,7 +232,7 @@ namespace :term_csvs do
     people_with_wikidata = @popolo.persons.select(&:wikidata)
 
     want = people_with_wikidata.map do |p|
-      p39s.positions_for(p).reject { |p| position_map.exclude_ids.include? p.id }.map do |posn|
+      p39s.positions_for(p).select { |p| position_map.include_ids.include? p.id }.map do |posn|
         {
           id:          p.id,
           wikidata:    p.wikidata,
@@ -244,7 +244,7 @@ namespace :term_csvs do
           end_date:    posn.end_date,
         }
       end
-    end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }.first
+    end.flatten(2)
 
     unknown = people_with_wikidata.map do |p|
       p39s.positions_for(p).reject { |p| position_map.exclude_ids.include? p.id }.map do |posn|
@@ -274,6 +274,10 @@ namespace :term_csvs do
     end
 
     # ------------------------------------------------------------------
+    # Warn about unknown positions
+
+
+ 
     # Rebuild `unknown` and warn about them
     new_map = position_map.to_json
     (new_map[:unknown] ||= {})[:unknown] = unknown
