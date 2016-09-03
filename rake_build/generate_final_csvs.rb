@@ -172,9 +172,9 @@ namespace :term_csvs do
 
     if filter[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
       html = Position::Filterer.new(filter).html
-      File.write('sources/manual/.position-filter.html', html)
+      POSITION_HTML.write(html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
-      warn 'open sources/manual/.position-filter.html'.yellow
+      warn "open #{POSITION_HTML}".yellow
       warn 'pbpaste | bundle exec ruby ../../../bin/learn_position.rb sources/manual/position-filter.json'.yellow
     end
   end
