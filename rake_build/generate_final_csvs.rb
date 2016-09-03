@@ -19,7 +19,7 @@ namespace :term_csvs do
   desc 'Generate the Term Tables'
   task term_tables: 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
-    popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
+    @popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
     people = Hash[popolo.persons.map { |p| [p.id, p] }]
     term_end_dates = Hash[popolo.terms.map { |t| [t.id, t.end_date] }]
 
@@ -170,27 +170,28 @@ namespace :term_csvs do
     to_exclude = position_filter.to_exclude
     cabinet    = position_filter.cabinet
 
-    want, unknown = @json[:persons].map do |p|
-      (p[:identifiers] || []).select { |i| i[:scheme] == 'wikidata' }.map do |id|
-        positions[id[:identifier].to_sym].to_a.reject { |p| p[:id].nil? }.map do |posn|
-          {
-            id:          p[:id],
-            wikidata:    id[:identifier],
-            name:        p[:name],
-            position_id: posn[:id],
-            position:    posn[:label],
-            description: posn[:description],
-            start_date:  (posn[:qualifiers] || {})[:P580],
-            end_date:    (posn[:qualifiers] || {})[:P582],
-          }
-        end
+    want, unknown = @popolo.persons.select(&:wikidata).map do |p|
+      positions[p.wikidata.to_sym].to_a.reject { |r| to_exclude.include? r[:id] }.map do |posn|
+        {
+          id:          p.id,
+          wikidata:    p.wikidata,
+          name:        p.name,
+          position_id: posn[:id],
+          position:    posn[:label],
+          description: posn[:description],
+          start_date:  (posn[:qualifiers] || {})[:P580],
+          end_date:    (posn[:qualifiers] || {})[:P582],
+        }
       end
-    end.flatten(2).reject { |r| to_exclude.include? r[:position_id] }.partition { |r| to_include.include? r[:position_id] }
+    end.flatten(2).partition { |r| to_include.include? r[:position_id] }
 
+    # Warn about Cabinet members missing dates
+    # TODO: move elsewhere
     want.select { |p| cabinet.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
       warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
     end
 
+    # Rebuild `unknown` and warn about them
     (filter[:unknown] ||= {})[:unknown] = unknown
                                           .group_by { |u| u[:position_id] }
                                           .sort_by { |_u, us| us.first[:position].downcase }
