@@ -188,12 +188,8 @@ namespace :term_csvs do
     position_map = PositionMap.new(pathname: POSITION_FILTER)
     filter = position_map.to_json
 
-    include_ids = position_map.include_ids
-    exclude_ids = position_map.exclude_ids
-    cabinet_ids = position_map.cabinet_ids
-
     want, unknown = @popolo.persons.select(&:wikidata).map do |p|
-      p39s.positions_for(p).reject { |r| exclude_ids.include? r[:id] }.map do |posn|
+      p39s.positions_for(p).reject { |r| position_map.exclude_ids.include? r[:id] }.map do |posn|
         {
           id:          p.id,
           wikidata:    p.wikidata,
@@ -205,11 +201,11 @@ namespace :term_csvs do
           end_date:    (posn[:qualifiers] || {})[:P582],
         }
       end
-    end.flatten(2).partition { |r| include_ids.include? r[:position_id] }
+    end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }
 
     # Warn about Cabinet members missing dates
     # TODO: move elsewhere
-    want.select { |p| cabinet_ids.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
+    want.select { |p| position_map.cabinet_ids.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
       warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
     end
 
