@@ -279,7 +279,7 @@ namespace :term_csvs do
     POSITION_FILTER.write(JSON.pretty_generate(new_map))
 
     if new_map[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
-      html = Position::Filterer.new(new_map).html
+      html = Position::Filter::HTML.new(new_map).html
       POSITION_HTML.write(html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
       warn "open #{POSITION_HTML}".yellow
