@@ -125,9 +125,9 @@ namespace :term_csvs do
     end
 
     # Write positions.csv
-    csv_headers = %w(id name position start_date end_date).to_csv
+    csv_headers = %w(id name position start_date end_date type).to_csv
     csv_data = all_positions.select { |posn| position_map.include_ids.include? posn.id }.map do |posn|
-      [posn.person.id, posn.person.name, posn.label, posn.start_date, posn.end_date].to_csv
+      [posn.person.id, posn.person.name, posn.label, posn.start_date, posn.end_date, position_map.type(posn.id)].to_csv
     end
 
     POSITION_CSV.dirname.mkpath
