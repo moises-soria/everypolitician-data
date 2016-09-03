@@ -127,7 +127,7 @@ namespace :term_csvs do
           fs.each { |_, fs| fs.each { |f| f.delete :count } }
         end
       else
-        { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
+        empty_filter
       end
     end
 
@@ -146,6 +146,10 @@ namespace :term_csvs do
     private
 
     attr_reader :pathname
+
+    def empty_filter
+      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
+    end
   end
 
   desc 'Build the Positions file'
