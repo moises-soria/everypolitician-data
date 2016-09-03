@@ -228,7 +228,6 @@ namespace :term_csvs do
     p39s = WikidataPositionFile.new(pathname: POSITION_RAW)
 
     position_map = PositionMap.new(pathname: POSITION_FILTER)
-    filter = position_map.to_json
 
     want, unknown = @popolo.persons.select(&:wikidata).map do |p|
       p39s.positions_for(p).reject { |p| position_map.exclude_ids.include? p.id }.map do |posn|
@@ -245,32 +244,36 @@ namespace :term_csvs do
       end
     end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }
 
+    csv_columns = %w(id name position start_date end_date)
+    csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
+    POSITION_CSV.dirname.mkpath
+    POSITION_CSV.write(csv)
+
+    # ------------------------------------------------------------------
     # Warn about Cabinet members missing dates
     # TODO: move elsewhere
     want.select { |p| position_map.cabinet_ids.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
       warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
     end
 
+    # ------------------------------------------------------------------
     # Rebuild `unknown` and warn about them
-    (filter[:unknown] ||= {})[:unknown] = unknown
+    new_map = position_map.to_json
+    (new_map[:unknown] ||= {})[:unknown] = unknown
                                           .group_by { |u| u[:position_id] }
                                           .sort_by { |_u, us| us.first[:position].downcase }
                                           .map { |id, us| { id: id, name: us.first[:position], description: us.first[:description], count: us.count, example: us.first[:wikidata] } }.each do |u|
       warn "  Unknown position (x#{u[:count]}): #{u[:id]} #{u[:name]} — e.g. #{u.delete :example}"
     end
 
-    filter.each do |_, section|
+    new_map.each do |_, section|
       section.each { |_k, vs| vs.sort_by! { |e| e[:name] } }
     end
-    csv_columns = %w(id name position start_date end_date)
-    csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
 
-    POSITION_CSV.dirname.mkpath
-    POSITION_CSV.write(csv)
-    POSITION_FILTER.write(JSON.pretty_generate(filter))
+    POSITION_FILTER.write(JSON.pretty_generate(new_map))
 
-    if filter[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
-      html = Position::Filterer.new(filter).html
+    if new_map[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
+      html = Position::Filterer.new(new_map).html
       POSITION_HTML.write(html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
       warn "open #{POSITION_HTML}".yellow
