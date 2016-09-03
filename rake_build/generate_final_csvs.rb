@@ -254,10 +254,10 @@ namespace :term_csvs do
       # warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
     # end
 
+    unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
+
     # ------------------------------------------------------------------
     # Rebuild `unknown`
-
-    unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
     unknown = unknown_posns.map do |posn|
       {
         id:          posn.person.id,
@@ -275,8 +275,7 @@ namespace :term_csvs do
     (new_map[:unknown] ||= {})[:unknown] = unknown
                                           .group_by { |u| u[:position_id] }
                                           .sort_by { |_u, us| us.first[:position].downcase }
-                                          .map { |id, us| { id: id, name: us.first[:position], description: us.first[:description], count: us.count, example: us.first[:wikidata] } }
-
+                                          .map { |id, us| { id: id, name: us.first[:position], description: us.first[:description], count: us.count } }
 
     new_map.each do |_, section|
       section.each { |_k, vs| vs.sort_by! { |e| e[:name] } }
@@ -284,8 +283,8 @@ namespace :term_csvs do
 
     # ------------------------------------------------------------------
     # Warn about unknown positions
-    new_map[:unknown][:unknown].each do |u|
-      warn "  Unknown position (x#{u[:count]}): #{u[:id]} #{u[:name]} — e.g. #{u.delete :example}"
+    unknown_posns.group_by(&:id).sort_by { |_, ups| ups.count }.each do |id, ups|
+      warn "  Unknown position (x#{ups.count}): #{id} #{ups.first.label} — e.g. #{ups.first.person.wikidata}"
     end
 
     POSITION_FILTER.write(JSON.pretty_generate(new_map))
