@@ -191,7 +191,33 @@ namespace :term_csvs do
       raw[:id]
     end
 
+    def label
+      raw[:label]
+    end
+
+    def description
+      raw[:description]
+    end
+
+    def start_date
+      qualifier(580)
+    end
+
+    def end_date
+      qualifier(582)
+    end
+
+    private
+
     attr_reader :raw, :person
+
+    def qualifiers
+      raw[:qualifiers] || {}
+    end
+
+    def qualifier(pcode)
+      qualifiers["P#{pcode}".to_sym]
+    end
   end
 
 
@@ -210,11 +236,11 @@ namespace :term_csvs do
           id:          p.id,
           wikidata:    p.wikidata,
           name:        p.name,
-          position_id: posn.raw[:id],
-          position:    posn.raw[:label],
-          description: posn.raw[:description],
-          start_date:  (posn.raw[:qualifiers] || {})[:P580],
-          end_date:    (posn.raw[:qualifiers] || {})[:P582],
+          position_id: posn.id,
+          position:    posn.label,
+          description: posn.description,
+          start_date:  posn.start_date,
+          end_date:    posn.end_date,
         }
       end
     end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }
