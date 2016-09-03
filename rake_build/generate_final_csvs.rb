@@ -271,11 +271,13 @@ namespace :term_csvs do
       }
     end
 
+    new_unknown = unknown
+                  .group_by { |u| u[:position_id] }
+                  .sort_by { |_u, us| us.first[:position].downcase }
+                  .map { |id, us| { id: id, name: us.first[:position], description: us.first[:description], count: us.count } }
+
     new_map = position_map.to_json
-    (new_map[:unknown] ||= {})[:unknown] = unknown
-                                          .group_by { |u| u[:position_id] }
-                                          .sort_by { |_u, us| us.first[:position].downcase }
-                                          .map { |id, us| { id: id, name: us.first[:position], description: us.first[:description], count: us.count } }
+    (new_map[:unknown] ||= {})[:unknown] = new_unknown
 
     new_map.each do |_, section|
       section.each { |_k, vs| vs.sort_by! { |e| e[:name] } }
