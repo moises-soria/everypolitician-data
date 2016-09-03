@@ -250,21 +250,6 @@ namespace :term_csvs do
       end
     end.flatten(2)
 
-    unknown = people_with_wikidata.map do |p|
-      p39s.positions_for(p).reject { |p| position_map.known_ids.include?(p.id) }.map do |posn|
-        {
-          id:          p.id,
-          wikidata:    p.wikidata,
-          name:        p.name,
-          position_id: posn.id,
-          position:    posn.label,
-          description: posn.description,
-          start_date:  posn.start_date,
-          end_date:    posn.end_date,
-        }
-      end
-    end.flatten(2)
-
     csv_columns = %w(id name position start_date end_date)
     csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
     POSITION_CSV.dirname.mkpath
@@ -279,6 +264,21 @@ namespace :term_csvs do
 
     # ------------------------------------------------------------------
     # Warn about unknown positions
+
+    unknown = people_with_wikidata.map do |p|
+      p39s.positions_for(p).reject { |p| position_map.known_ids.include?(p.id) }.map do |posn|
+        {
+          id:          p.id,
+          wikidata:    p.wikidata,
+          name:        p.name,
+          position_id: posn.id,
+          position:    posn.label,
+          description: posn.description,
+          start_date:  posn.start_date,
+          end_date:    posn.end_date,
+        }
+      end
+    end.flatten(2)
 
 
  
