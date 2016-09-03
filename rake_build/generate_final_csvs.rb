@@ -166,7 +166,9 @@ namespace :term_csvs do
     end
 
     def positions_for(person)
-      json[person.wikidata.to_sym].to_a
+      json[person.wikidata.to_sym].to_a.map do |posn|
+        WikidataPosition.new(raw: posn, person: person)
+      end
     end
 
     def json
@@ -176,6 +178,20 @@ namespace :term_csvs do
     private
 
     attr_reader :pathname
+  end
+
+
+  class WikidataPosition
+    def initialize(raw:, person:)
+      @raw = raw
+      @person = person
+    end
+
+    def id
+      raw[:id]
+    end
+
+    attr_reader :raw, :person
   end
 
 
@@ -189,16 +205,16 @@ namespace :term_csvs do
     filter = position_map.to_json
 
     want, unknown = @popolo.persons.select(&:wikidata).map do |p|
-      p39s.positions_for(p).reject { |r| position_map.exclude_ids.include? r[:id] }.map do |posn|
+      p39s.positions_for(p).reject { |p| position_map.exclude_ids.include? p.id }.map do |posn|
         {
           id:          p.id,
           wikidata:    p.wikidata,
           name:        p.name,
-          position_id: posn[:id],
-          position:    posn[:label],
-          description: posn[:description],
-          start_date:  (posn[:qualifiers] || {})[:P580],
-          end_date:    (posn[:qualifiers] || {})[:P582],
+          position_id: posn.raw[:id],
+          position:    posn.raw[:label],
+          description: posn.raw[:description],
+          start_date:  (posn.raw[:qualifiers] || {})[:P580],
+          end_date:    (posn.raw[:qualifiers] || {})[:P582],
         }
       end
     end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }
