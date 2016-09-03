@@ -258,30 +258,17 @@ namespace :term_csvs do
 
     # ------------------------------------------------------------------
     # Rebuild `unknown`
-    unknown = unknown_posns.map do |posn|
+    unknown = unknown_posns.group_by(&:id).sort_by { |_, us| us.first.label }.map do |id, us|
       {
-        id:          posn.person.id,
-        wikidata:    posn.person.wikidata,
-        name:        posn.person.name,
-        position_id: posn.id,
-        position:    posn.label,
-        description: posn.description,
-        start_date:  posn.start_date,
-        end_date:    posn.end_date,
+        id: id,
+        name: us.first.label,
+        description: us.first.description,
+        count: us.count
       }
     end
 
-    new_unknown = unknown
-                  .group_by { |u| u[:position_id] }
-                  .sort_by { |_u, us| us.first[:position].downcase }
-                  .map { |id, us| { id: id, name: us.first[:position], description: us.first[:description], count: us.count } }
-
     new_map = position_map.to_json
-    (new_map[:unknown] ||= {})[:unknown] = new_unknown
-
-    new_map.each do |_, section|
-      section.each { |_k, vs| vs.sort_by! { |e| e[:name] } }
-    end
+    (new_map[:unknown] ||= {})[:unknown] = unknown
 
     # ------------------------------------------------------------------
     # Warn about unknown positions
