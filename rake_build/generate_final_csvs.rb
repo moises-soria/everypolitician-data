@@ -134,6 +134,10 @@ namespace :term_csvs do
       to_json[:exclude].values.flatten.map { |p| p[:id] }.to_set
     end
 
+    def known_ids
+      include_ids + exclude_ids
+    end
+
     def cabinet_ids
       (to_json[:include][:cabinet] || []).map { |p| p[:id] }.to_set
     end
@@ -247,7 +251,7 @@ namespace :term_csvs do
     end.flatten(2)
 
     unknown = people_with_wikidata.map do |p|
-      p39s.positions_for(p).reject { |p| position_map.exclude_ids.include? p.id }.map do |posn|
+      p39s.positions_for(p).reject { |p| position_map.known_ids.include?(p.id) }.map do |posn|
         {
           id:          p.id,
           wikidata:    p.wikidata,
@@ -259,7 +263,7 @@ namespace :term_csvs do
           end_date:    posn.end_date,
         }
       end
-    end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }.last
+    end.flatten(2)
 
     csv_columns = %w(id name position start_date end_date)
     csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
