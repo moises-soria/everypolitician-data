@@ -257,20 +257,19 @@ namespace :term_csvs do
     # ------------------------------------------------------------------
     # Rebuild `unknown`
 
-    unknown = people_with_wikidata.map do |p|
-      p39s.positions_for(p).reject { |p| position_map.known_ids.include?(p.id) }.map do |posn|
-        {
-          id:          p.id,
-          wikidata:    p.wikidata,
-          name:        p.name,
-          position_id: posn.id,
-          position:    posn.label,
-          description: posn.description,
-          start_date:  posn.start_date,
-          end_date:    posn.end_date,
-        }
-      end
-    end.flatten(2)
+    unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
+    unknown = unknown_posns.map do |posn|
+      {
+        id:          posn.person.id,
+        wikidata:    posn.person.wikidata,
+        name:        posn.person.name,
+        position_id: posn.id,
+        position:    posn.label,
+        description: posn.description,
+        start_date:  posn.start_date,
+        end_date:    posn.end_date,
+      }
+    end
 
     new_map = position_map.to_json
     (new_map[:unknown] ||= {})[:unknown] = unknown
