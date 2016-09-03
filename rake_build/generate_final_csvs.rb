@@ -231,7 +231,6 @@ namespace :term_csvs do
     next unless POSITION_RAW.file?
     warn "Creating #{POSITION_CSV}"
     p39s = WikidataPositionFile.new(pathname: POSITION_RAW)
-
     position_map = PositionMap.new(pathname: POSITION_FILTER)
 
     people_with_wikidata = @popolo.persons.select(&:wikidata)
@@ -254,10 +253,14 @@ namespace :term_csvs do
       # warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
     # end
 
+    # Warn about unknown positions
     unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
+    unknown_posns.group_by(&:id).sort_by { |_, ups| ups.count }.each do |id, ups|
+      warn "  Unknown position (x#{ups.count}): #{id} #{ups.first.label} — e.g. #{ups.first.person.wikidata}"
+    end
 
-    # ------------------------------------------------------------------
-    # Rebuild `unknown`
+    # Rebuild the position filter, with counts on unknowns
+    new_map = position_map.to_json
     unknown = unknown_posns.group_by(&:id).sort_by { |_, us| us.first.label }.map do |id, us|
       {
         id: id,
@@ -266,19 +269,10 @@ namespace :term_csvs do
         count: us.count
       }
     end
-
-    new_map = position_map.to_json
     (new_map[:unknown] ||= {})[:unknown] = unknown
-
-    # ------------------------------------------------------------------
-    # Warn about unknown positions
-    unknown_posns.group_by(&:id).sort_by { |_, ups| ups.count }.each do |id, ups|
-      warn "  Unknown position (x#{ups.count}): #{id} #{ups.first.label} — e.g. #{ups.first.person.wikidata}"
-    end
-
     POSITION_FILTER.write(JSON.pretty_generate(new_map))
 
-    if new_map[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
+    if unknown && ENV['GENERATE_POSITION_INTERFACE']
       html = Position::Filter::HTML.new(new_map).html
       POSITION_HTML.write(html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
