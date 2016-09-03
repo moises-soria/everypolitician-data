@@ -186,6 +186,7 @@ namespace :term_csvs do
 
 
   class WikidataPosition
+    attr_reader :person
     def initialize(raw:, person:)
       @raw = raw
       @person = person
@@ -213,7 +214,7 @@ namespace :term_csvs do
 
     private
 
-    attr_reader :raw, :person
+    attr_reader :raw
 
     def qualifiers
       raw[:qualifiers] || {}
@@ -234,33 +235,24 @@ namespace :term_csvs do
     position_map = PositionMap.new(pathname: POSITION_FILTER)
 
     people_with_wikidata = @popolo.persons.select(&:wikidata)
+    all_positions = people_with_wikidata.flat_map do |p|
+      p39s.positions_for(p)
+    end
 
-    want = people_with_wikidata.map do |p|
-      p39s.positions_for(p).select { |p| position_map.include_ids.include? p.id }.map do |posn|
-        {
-          id:          p.id,
-          wikidata:    p.wikidata,
-          name:        p.name,
-          position_id: posn.id,
-          position:    posn.label,
-          description: posn.description,
-          start_date:  posn.start_date,
-          end_date:    posn.end_date,
-        }
-      end
-    end.flatten(2)
+    csv_headers = %w(id name position start_date end_date).to_csv
+    csv_data = all_positions.select { |posn| position_map.include_ids.include? posn.id }.map do |posn|
+      [posn.person.id, posn.person.name, posn.label, posn.start_date, posn.end_date].to_csv
+    end
 
-    csv_columns = %w(id name position start_date end_date)
-    csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
     POSITION_CSV.dirname.mkpath
-    POSITION_CSV.write(csv)
+    POSITION_CSV.write(csv_headers + csv_data.join)
 
     # ------------------------------------------------------------------
     # Warn about Cabinet members missing dates
     # TODO: move elsewhere
-    want.select { |p| position_map.cabinet_ids.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
-      warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
-    end
+    # want.select { |p| position_map.cabinet_ids.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
+      # warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
+    # end
 
     # ------------------------------------------------------------------
     # Warn about unknown positions
