@@ -120,14 +120,11 @@ namespace :term_csvs do
     end
 
     def to_json
-      if pathname.exist?
-        # read with JSON5 to be more liberal about trailing commas.
-        # But that doesn't have a 'symbolize_names' so rountrip through JSON
-        JSON.parse(JSON5.parse(pathname.read).to_json, symbolize_names: true).each do |_s, fs|
-          fs.each { |_, fs| fs.each { |f| f.delete :count } }
-        end
-      else
-        empty_filter
+      return empty_filter unless pathname.exist?
+      # read with JSON5 to be more liberal about trailing commas.
+      # But that doesn't have a 'symbolize_names' so rountrip through JSON
+      JSON.parse(JSON5.parse(pathname.read).to_json, symbolize_names: true).each do |_s, fs|
+        fs.each { |_, fs| fs.each { |f| f.delete :count } }
       end
     end
 
