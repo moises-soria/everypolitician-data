@@ -1,4 +1,3 @@
-require_relative '../lib/position_filterer'
 require 'everypolitician/popolo'
 require 'json5'
 
@@ -19,7 +18,7 @@ namespace :term_csvs do
   desc 'Generate the Term Tables'
   task term_tables: 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
-    popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
+    @popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
     people = Hash[popolo.persons.map { |p| [p.id, p] }]
     term_end_dates = Hash[popolo.terms.map { |t| [t.id, t.end_date] }]
 
@@ -113,103 +112,56 @@ namespace :term_csvs do
     wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
   end
 
-  # TODO: move this to its own file
-  class PositionFilter
-    def initialize(pathname:)
-      @pathname = pathname
-    end
-
-    def to_json
-      return empty_filter unless pathname.exist?
-      raw_json
-    end
-
-    def to_include
-      to_json[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
-    end
-
-    def to_exclude
-      to_json[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
-    end
-
-    def cabinet
-      (to_json[:include][:cabinet] || []).map { |p| p[:id] }.to_set
-    end
-
-    private
-
-    attr_reader :pathname
-
-    def empty_filter
-      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
-    end
-
-    def raw_json
-      @json ||= json5_parse(pathname.read).each do |_s, fs|
-        fs.each { |_, fs| fs.each { |f| f.delete :count } }
-      end
-    end
-
-    # TODO: move this to somewhere more generally useful
-    def json5_parse(data)
-      # read with JSON5 to be more liberal about trailing commas.
-      # But that doesn't have a 'symbolize_names' so rountrip through JSON
-      JSON.parse(JSON5.parse(data).to_json, symbolize_names: true)
-    end
-  end
-
   desc 'Build the Positions file'
   task positions: ['ep-popolo-v1.0.json'] do
     next unless POSITION_RAW.file?
     warn "Creating #{POSITION_CSV}"
-    positions = JSON.parse(POSITION_RAW.read, symbolize_names: true)
-    position_filter = PositionFilter.new(pathname: POSITION_FILTER)
-    filter = position_filter.to_json
+    p39s = WikidataPositionFile.new(pathname: POSITION_RAW)
+    position_map = PositionMap.new(pathname: POSITION_FILTER)
 
-    to_include = position_filter.to_include
-    to_exclude = position_filter.to_exclude
-    cabinet    = position_filter.cabinet
-
-    want, unknown = @json[:persons].map do |p|
-      (p[:identifiers] || []).select { |i| i[:scheme] == 'wikidata' }.map do |id|
-        positions[id[:identifier].to_sym].to_a.reject { |p| p[:id].nil? }.map do |posn|
-          {
-            id:          p[:id],
-            wikidata:    id[:identifier],
-            name:        p[:name],
-            position_id: posn[:id],
-            position:    posn[:label],
-            description: posn[:description],
-            start_date:  (posn[:qualifiers] || {})[:P580],
-            end_date:    (posn[:qualifiers] || {})[:P582],
-          }
-        end
-      end
-    end.flatten(2).reject { |r| to_exclude.include? r[:position_id] }.partition { |r| to_include.include? r[:position_id] }
-
-    want.select { |p| cabinet.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
-      warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
+    people_with_wikidata = @popolo.persons.select(&:wikidata)
+    all_positions = people_with_wikidata.flat_map do |p|
+      p39s.positions_for(p)
     end
 
-    (filter[:unknown] ||= {})[:unknown] = unknown
-                                          .group_by { |u| u[:position_id] }
-                                          .sort_by { |_u, us| us.first[:position].downcase }
-                                          .map { |id, us| { id: id, name: us.first[:position], description: us.first[:description], count: us.count, example: us.first[:wikidata] } }.each do |u|
-      warn "  Unknown position (x#{u[:count]}): #{u[:id]} #{u[:name]} — e.g. #{u.delete :example}"
+    # Write positions.csv
+    csv_headers = %w(id name position start_date end_date).to_csv
+    csv_data = all_positions.select { |posn| position_map.include_ids.include? posn.id }.map do |posn|
+      [posn.person.id, posn.person.name, posn.label, posn.start_date, posn.end_date].to_csv
     end
-
-    filter.each do |_, section|
-      section.each { |_k, vs| vs.sort_by! { |e| e[:name] } }
-    end
-    csv_columns = %w(id name position start_date end_date)
-    csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
 
     POSITION_CSV.dirname.mkpath
-    POSITION_CSV.write(csv)
-    POSITION_FILTER.write(JSON.pretty_generate(filter))
+    POSITION_CSV.write(csv_headers + csv_data.join)
 
-    if filter[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
-      html = Position::Filterer.new(filter).html
+    # Warn about Cabinet members missing dates
+    all_positions.select  { |posn| position_map.cabinet_ids.include? posn.id }
+                 .select  { |posn| posn.start_date.to_s.empty? && posn.end_date.to_s.empty? }
+                 .sort_by(&:label)
+                 .each do |posn|
+      warn "  ☇ No dates for #{posn.person.name} (#{posn.person.wikidata}) as #{posn.label}"
+    end
+
+    # Warn about unknown positions
+    unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
+    unknown_posns.group_by(&:id).sort_by { |_, ups| ups.count }.each do |id, ups|
+      warn "  Unknown position (x#{ups.count}): #{id} #{ups.first.label} — e.g. #{ups.first.person.wikidata}"
+    end
+
+    # Rebuild the position filter, with counts on unknowns
+    new_map = position_map.to_json
+    unknown = unknown_posns.group_by(&:id).sort_by { |_, us| us.first.label }.map do |id, us|
+      {
+        id:          id,
+        name:        us.first.label,
+        description: us.first.description,
+        count:       us.count,
+      }
+    end
+    (new_map[:unknown] ||= {})[:unknown] = unknown
+    POSITION_FILTER.write(JSON.pretty_generate(new_map))
+
+    if unknown && ENV['GENERATE_POSITION_INTERFACE']
+      html = Position::Filter::HTML.new(new_map).html
       POSITION_HTML.write(html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
       warn "open #{POSITION_HTML}".yellow
