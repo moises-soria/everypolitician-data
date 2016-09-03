@@ -113,24 +113,62 @@ namespace :term_csvs do
     wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
   end
 
+  # TODO: move this to its own file
+  class PositionFilter
+    def initialize(pathname:)
+      @pathname = pathname
+    end
+
+    def to_json
+      return empty_filter unless pathname.exist?
+      raw_json
+    end
+
+    def to_include
+      to_json[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    end
+
+    def to_exclude
+      to_json[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
+    end
+
+    def cabinet
+      (to_json[:include][:cabinet] || []).map { |p| p[:id] }.to_set
+    end
+
+    private
+
+    attr_reader :pathname
+
+    def empty_filter
+      { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
+    end
+
+    def raw_json
+      @json ||= json5_parse(pathname.read).each do |_s, fs|
+        fs.each { |_, fs| fs.each { |f| f.delete :count } }
+      end
+    end
+
+    # TODO: move this to somewhere more generally useful
+    def json5_parse(data)
+      # read with JSON5 to be more liberal about trailing commas.
+      # But that doesn't have a 'symbolize_names' so rountrip through JSON
+      JSON.parse(JSON5.parse(data).to_json, symbolize_names: true)
+    end
+  end
+
   desc 'Build the Positions file'
   task positions: ['ep-popolo-v1.0.json'] do
     next unless POSITION_RAW.file?
     warn "Creating #{POSITION_CSV}"
     positions = JSON.parse(POSITION_RAW.read, symbolize_names: true)
-    filter    = if POSITION_FILTER.exist?
-                  # read with JSON5 to be more liberal about trailing commas.
-                  # But it doesn't have a 'symbolize_names' so rountrip through JSON
-                  JSON.parse(JSON5.parse(POSITION_FILTER.read).to_json, symbolize_names: true).each do |_s, fs|
-                    fs.each { |_, fs| fs.each { |f| f.delete :count } }
-                  end
-                else
-                  { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
-                end
+    position_filter = PositionFilter.new(pathname: POSITION_FILTER)
+    filter = position_filter.to_json
 
-    to_include = filter[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
-    to_exclude = filter[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
-    cabinet    = (filter[:include][:cabinet] || []).map { |p| p[:id] }.to_set
+    to_include = position_filter.to_include
+    to_exclude = position_filter.to_exclude
+    cabinet    = position_filter.cabinet
 
     want, unknown = @json[:persons].map do |p|
       (p[:identifiers] || []).select { |i| i[:scheme] == 'wikidata' }.map do |id|
@@ -167,15 +205,15 @@ namespace :term_csvs do
     csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
 
     POSITION_CSV.dirname.mkpath
-    File.write(POSITION_CSV, csv) # POSITION_CSV.write(csv) needs ruby 2.1.0
-    File.write(POSITION_FILTER, JSON.pretty_generate(filter))
+    POSITION_CSV.write(csv)
+    POSITION_FILTER.write(JSON.pretty_generate(filter))
 
     if filter[:unknown][:unknown].any? && ENV['GENERATE_POSITION_INTERFACE']
       html = Position::Filterer.new(filter).html
-      File.write('sources/manual/.position-filter.html', html)
+      POSITION_HTML.write(html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
-      warn 'open sources/manual/.position-filter.html'.yellow
-      warn 'pbpaste | bundle exec ruby ../../../bin/learn_position.rb sources/manual/position-filter.json'.yellow
+      warn "open #{POSITION_HTML}".yellow
+      warn "pbpaste | bundle exec ruby #{POSITION_LEARNER} #{POSITION_FILTER}".yellow
     end
   end
 end

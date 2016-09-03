@@ -25,104 +25,9 @@
     ],
     "executive": [
       {
-        "id": "Q3278079",
-        "name": "Deputy Prime Minister of Finland"
-      },
-      {
-        "id": "Q2472167",
-        "name": "High Commissioner on National Minorities"
-      },
-      {
-        "id": "Q11895142",
-        "name": "Minister for European Affairs and Foreign Trade"
-      },
-      {
-        "id": "Q2386529",
-        "name": "Minister for Foreign Affairs of Finland"
-      },
-      {
-        "id": "Q17118521",
-        "name": "Minister for International Development"
-      },
-      {
-        "id": "Q24205201",
-        "name": "Minister of Agriculture and Forestry"
-      },
-      {
-        "id": "Q23725756",
-        "name": "Minister of Culture"
-      },
-      {
-        "id": "Q188393",
-        "name": "Minister of Defence"
-      },
-      {
-        "id": "Q11895091",
-        "name": "Minister of Education and Culture of Finland"
-      },
-      {
-        "id": "Q2367542",
-        "name": "Minister of Finance"
-      },
-      {
-        "id": "Q18694348",
-        "name": "Minister of Health and Social Services"
-      },
-      {
-        "id": "Q1294631",
-        "name": "Minister of Justice"
-      },
-      {
-        "id": "Q10563305",
-        "name": "Minister of Labour"
-      },
-      {
-        "id": "Q24205195",
-        "name": "Minister of Trade and Industry"
-      },
-      {
-        "id": "Q10495390",
-        "name": "Minister of Trade and Industry",
-        "description": "government minister of Finland"
-      },
-      {
-        "id": "Q15934457",
-        "name": "Minister of Transport",
-        "description": "in Finland"
-      },
-      {
-        "id": "Q11895063",
-        "name": "Minister of Transport and Communications"
-      },
-      {
-        "id": "Q25713902",
-        "name": "Minister of Transport and Local Government",
-        "description": "Finnish cabinet position"
-      },
-      {
-        "id": "Q1425432",
-        "name": "Minister of the Environment"
-      },
-      {
-        "id": "Q1445938",
-        "name": "Minister of the Interior"
-      },
-      {
-        "id": "Q5482321",
-        "name": "Minister of the Ministry of Finance",
-        "description": "Finnish deputy Minister"
-      },
-      {
         "id": "Q29558",
-        "name": "President of Finland"
-      },
-      {
-        "id": "Q738695",
-        "name": "Prime Minister of Finland"
-      },
-      {
-        "id": "Q2621182",
-        "name": "culture minister"
+        "name": "President of Finland",
+        "description": "Finland's head of state"
       }
     ],
     "party": [
@@ -149,6 +54,11 @@
         "name": "European Commissioner for Industry and Entrepreneurship"
       },
       {
+        "id": "Q2472167",
+        "name": "High Commissioner on National Minorities",
+        "description": null
+      },
+      {
         "id": "Q20167466",
         "name": "Premier of the Åland Islands"
       },
@@ -164,6 +74,113 @@
         "id": "Q7925068",
         "name": "Vice President of the European Parliament"
       }
+    ],
+    "cabinet": [
+      {
+        "id": "Q3278079",
+        "name": "Deputy Prime Minister of Finland",
+        "description": null
+      },
+      {
+        "id": "Q11895142",
+        "name": "Minister for European Affairs and Foreign Trade",
+        "description": "in Finland"
+      },
+      {
+        "id": "Q2386529",
+        "name": "Minister for Foreign Affairs of Finland",
+        "description": "person handling Finland's foreign affairs"
+      },
+      {
+        "id": "Q17118521",
+        "name": "Minister for International Development",
+        "description": "in Finland"
+      },
+      {
+        "id": "Q24205201",
+        "name": "Minister of Agriculture and Forestry",
+        "description": "Finnish cabinet position"
+      },
+      {
+        "id": "Q23725756",
+        "name": "Minister of Culture",
+        "description": "Finnish cabinet position"
+      },
+      {
+        "id": "Q188393",
+        "name": "Minister of Defence",
+        "description": "cabinet minister in Finland"
+      },
+      {
+        "id": "Q10495404",
+        "name": "Minister of Economic Affairs",
+        "description": "cabinet minister of Finland"
+      },
+      {
+        "id": "Q11895091",
+        "name": "Minister of Education and Culture of Finland",
+        "description": "member of the government of Finland"
+      },
+      {
+        "id": "Q2367542",
+        "name": "Minister of Finance",
+        "description": "cabinet minister of Finland"
+      },
+      {
+        "id": "Q18694348",
+        "name": "Minister of Health and Social Services",
+        "description": "Finnish Cabinet minister"
+      },
+      {
+        "id": "Q1294631",
+        "name": "Minister of Justice",
+        "description": "Minister of Justice in Finland"
+      },
+      {
+        "id": "Q10563305",
+        "name": "Minister of Labour",
+        "description": "member of the government of Finland"
+      },
+      {
+        "id": "Q10495390",
+        "name": "Minister of Trade and Industry",
+        "description": "government minister of Finland"
+      },
+      {
+        "id": "Q15934457",
+        "name": "Minister of Transport",
+        "description": "in Finland"
+      },
+      {
+        "id": "Q11895063",
+        "name": "Minister of Transport and Communications",
+        "description": "in Finland"
+      },
+      {
+        "id": "Q25713902",
+        "name": "Minister of Transport and Local Government",
+        "description": "Finnish cabinet position"
+      },
+      {
+        "id": "Q1425432",
+        "name": "Minister of the Environment",
+        "description": "Finnish cabinet minister"
+      },
+      {
+        "id": "Q1445938",
+        "name": "Minister of the Interior",
+        "description": "Finnish Minister of the Interior"
+      },
+      {
+        "id": "Q5482321",
+        "name": "Minister of the Ministry of Finance",
+        "description": "Finnish deputy Minister"
+      },
+      {
+        "id": "Q738695",
+        "name": "Prime Minister of Finland",
+        "description": "position"
+      }
     ]
   },
   "unknown": {
@@ -173,12 +190,6 @@
         "name": "Director-General",
         "description": "title given the highest executive officer in some organisations",
         "count": 1
-      },
-      {
-        "id": "Q10495404",
-        "name": "Minister of Economic Affairs",
-        "description": "cabinet minister of Finland",
-        "count": 3
       },
       {
         "id": "Q2516426",
