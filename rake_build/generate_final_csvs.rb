@@ -113,20 +113,36 @@ namespace :term_csvs do
     wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
   end
 
+  # TODO: move this to its own file
+  class PositionFilter
+    def initialize(pathname:)
+      @pathname = pathname
+    end
+
+    def to_json
+      if pathname.exist?
+        # read with JSON5 to be more liberal about trailing commas.
+        # But that doesn't have a 'symbolize_names' so rountrip through JSON
+        JSON.parse(JSON5.parse(pathname.read).to_json, symbolize_names: true).each do |_s, fs|
+          fs.each { |_, fs| fs.each { |f| f.delete :count } }
+        end
+      else
+        { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
+      end
+    end
+
+    private
+
+    attr_reader :pathname
+  end
+
   desc 'Build the Positions file'
   task positions: ['ep-popolo-v1.0.json'] do
     next unless POSITION_RAW.file?
     warn "Creating #{POSITION_CSV}"
     positions = JSON.parse(POSITION_RAW.read, symbolize_names: true)
-    filter    = if POSITION_FILTER.exist?
-                  # read with JSON5 to be more liberal about trailing commas.
-                  # But it doesn't have a 'symbolize_names' so rountrip through JSON
-                  JSON.parse(JSON5.parse(POSITION_FILTER.read).to_json, symbolize_names: true).each do |_s, fs|
-                    fs.each { |_, fs| fs.each { |f| f.delete :count } }
-                  end
-                else
-                  { exclude: { self: [], other: [] }, include: { self: [], other_legislatures: [], cabinet: [], executive: [], party: [], other: [] } }
-                end
+    position_filter = PositionFilter.new(pathname: POSITION_FILTER)
+    filter = position_filter.to_json
 
     to_include = filter[:include].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
     to_exclude = filter[:exclude].map { |_, fs| fs.map { |f| f[:id] } }.flatten.to_set
