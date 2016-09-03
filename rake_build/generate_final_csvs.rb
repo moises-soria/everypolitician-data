@@ -175,7 +175,7 @@ namespace :term_csvs do
       POSITION_HTML.write(html)
       FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
       warn "open #{POSITION_HTML}".yellow
-      warn 'pbpaste | bundle exec ruby ../../../bin/learn_position.rb sources/manual/position-filter.json'.yellow
+      warn "pbpaste | bundle exec ruby #{POSITION_LEARNER} #{POSITION_FILTER}".yellow
     end
   end
 end

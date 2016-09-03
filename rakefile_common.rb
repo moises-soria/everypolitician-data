@@ -38,12 +38,16 @@ require 'rake/clean'
 require 'set'
 require 'yajl/json_gem'
 
+# Files within each Legislature directory
 MERGED_JSON = Pathname.new('sources/merged.json')
 MERGED_CSV  = Pathname.new('sources/merged.csv')
 POSITION_FILTER = Pathname.new('sources/manual/position-filter.json')
 POSITION_HTML = Pathname.new('sources/manual/.position-filter.html')
 POSITION_RAW = Pathname.new('sources/wikidata/positions.json')
 POSITION_CSV = Pathname.new('unstable/positions.csv')
+
+# Files at project level
+POSITION_LEARNER = Pathname.new('../../../bin/learn_position.rb')
 
 Numeric.class_eval do
   def empty?
