@@ -112,7 +112,6 @@ namespace :term_csvs do
     wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
   end
 
-
   desc 'Build the Positions file'
   task positions: ['ep-popolo-v1.0.json'] do
     next unless POSITION_RAW.file?
@@ -137,8 +136,8 @@ namespace :term_csvs do
     # Warn about Cabinet members missing dates
     all_positions.select  { |posn| position_map.cabinet_ids.include? posn.id }
                  .select  { |posn| posn.start_date.to_s.empty? && posn.end_date.to_s.empty? }
-                 .sort_by { |posn| posn.label }
-                 .each do   |posn|
+                 .sort_by(&:label)
+                 .each do |posn|
       warn "  ☇ No dates for #{posn.person.name} (#{posn.person.wikidata}) as #{posn.label}"
     end
 
@@ -152,10 +151,10 @@ namespace :term_csvs do
     new_map = position_map.to_json
     unknown = unknown_posns.group_by(&:id).sort_by { |_, us| us.first.label }.map do |id, us|
       {
-        id: id,
-        name: us.first.label,
+        id:          id,
+        name:        us.first.label,
         description: us.first.description,
-        count: us.count
+        count:       us.count,
       }
     end
     (new_map[:unknown] ||= {})[:unknown] = unknown
