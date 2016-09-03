@@ -11,6 +11,10 @@ class PositionMap
     raw_json
   end
 
+  def type(pid)
+    type_lookup[pid]
+  end
+
   def include_ids
     to_json[:include].values.flatten.map { |p| p[:id] }.to_set
   end
@@ -46,5 +50,13 @@ class PositionMap
     # read with JSON5 to be more liberal about trailing commas.
     # But that doesn't have a 'symbolize_names' so rountrip through JSON
     JSON.parse(JSON5.parse(data).to_json, symbolize_names: true)
+  end
+
+  def type_lookup
+    @type ||= raw_json.values.flatten.flat_map do |i|
+      i.flat_map do |type, items|
+        items.map { |item| [item[:id], type] }
+      end
+    end.to_h
   end
 end
