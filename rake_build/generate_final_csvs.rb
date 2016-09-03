@@ -229,7 +229,9 @@ namespace :term_csvs do
 
     position_map = PositionMap.new(pathname: POSITION_FILTER)
 
-    want, unknown = @popolo.persons.select(&:wikidata).map do |p|
+    people_with_wikidata = @popolo.persons.select(&:wikidata)
+
+    want = people_with_wikidata.map do |p|
       p39s.positions_for(p).reject { |p| position_map.exclude_ids.include? p.id }.map do |posn|
         {
           id:          p.id,
@@ -242,7 +244,22 @@ namespace :term_csvs do
           end_date:    posn.end_date,
         }
       end
-    end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }
+    end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }.first
+
+    unknown = people_with_wikidata.map do |p|
+      p39s.positions_for(p).reject { |p| position_map.exclude_ids.include? p.id }.map do |posn|
+        {
+          id:          p.id,
+          wikidata:    p.wikidata,
+          name:        p.name,
+          position_id: posn.id,
+          position:    posn.label,
+          description: posn.description,
+          start_date:  posn.start_date,
+          end_date:    posn.end_date,
+        }
+      end
+    end.flatten(2).partition { |r| position_map.include_ids.include? r[:position_id] }.last
 
     csv_columns = %w(id name position start_date end_date)
     csv = [csv_columns.to_csv, want.map { |p| csv_columns.map { |c| p[c.to_sym] }.to_csv }].compact.join
