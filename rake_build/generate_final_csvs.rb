@@ -238,6 +238,7 @@ namespace :term_csvs do
       p39s.positions_for(p)
     end
 
+    # Write positions.csv
     csv_headers = %w(id name position start_date end_date).to_csv
     csv_data = all_positions.select { |posn| position_map.include_ids.include? posn.id }.map do |posn|
       [posn.person.id, posn.person.name, posn.label, posn.start_date, posn.end_date].to_csv
@@ -246,12 +247,13 @@ namespace :term_csvs do
     POSITION_CSV.dirname.mkpath
     POSITION_CSV.write(csv_headers + csv_data.join)
 
-    # ------------------------------------------------------------------
     # Warn about Cabinet members missing dates
-    # TODO: move elsewhere
-    # want.select { |p| position_map.cabinet_ids.include? p[:position_id] }.select { |p| p[:start_date].nil? && p[:end_date].nil? }.each do |p|
-      # warn "  ☇ No dates for #{p[:name]} (#{p[:wikidata]}) as #{p[:position]}"
-    # end
+    all_positions.select  { |posn| position_map.cabinet_ids.include? posn.id }
+                 .select  { |posn| posn.start_date.to_s.empty? && posn.end_date.to_s.empty? }
+                 .sort_by { |posn| posn.label }
+                 .each do   |posn|
+      warn "  ☇ No dates for #{posn.person.name} (#{posn.person.wikidata}) as #{posn.label}"
+    end
 
     # Warn about unknown positions
     unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
