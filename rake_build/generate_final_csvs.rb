@@ -158,11 +158,26 @@ namespace :term_csvs do
     end
   end
 
+  class WikidataPositionFile
+    def initialize(pathname:)
+      @pathname = pathname
+    end
+
+    def json
+      JSON.parse(pathname.read, symbolize_names: true)
+    end
+
+    private
+
+    attr_reader :pathname
+  end
+
+
   desc 'Build the Positions file'
   task positions: ['ep-popolo-v1.0.json'] do
     next unless POSITION_RAW.file?
     warn "Creating #{POSITION_CSV}"
-    positions = JSON.parse(POSITION_RAW.read, symbolize_names: true)
+    positions = WikidataPositionFile.new(pathname: POSITION_RAW).json
     position_filter = PositionFilter.new(pathname: POSITION_FILTER)
     filter = position_filter.to_json
 
