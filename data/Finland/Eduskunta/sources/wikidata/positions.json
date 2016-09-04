@@ -645,10 +645,10 @@
   ],
   "Q4349014": [
     {
-      "id": "Q2516426",
-      "label": "Ministry of Transport",
-      "title": "Ministry of Transport",
-      "description": "ministry or department or other government agency responsible for transport"
+      "id": "Q15934457",
+      "label": "Minister of Transport",
+      "title": "Minister of Transport",
+      "description": "in Finland"
     }
   ],
   "Q5489994": [
@@ -2041,12 +2041,55 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "1996-11-11",
+        "P582": "1999-07-19"
+      }
     },
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1987-03-21",
+        "P582": "1995-03-23",
+        "P768": "Helsinki"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-01-05",
+        "P582": "2007-03-20",
+        "P768": "Helsinki",
+        "P1365": "Eva Biaudet"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2013-09-05",
+        "P582": "2015-04-21",
+        "P768": "Helsinki",
+        "P1365": "Astrid Thors"
+      }
+    },
+    {
+      "id": "Q207978",
+      "label": "consul",
+      "title": "consul (of Finland)",
+      "description": "diplomatic rank",
+      "qualifiers": {
+        "P642": "Finland",
+        "P937": "Los Angeles",
+        "P580": "1995",
+        "P582": "1996"
+      }
     }
   ],
   "Q11887771": [
@@ -3033,7 +3076,8 @@
     {
       "id": "Q2472167",
       "label": "High Commissioner on National Minorities",
-      "title": "High Commissioner on National Minorities"
+      "title": "High Commissioner on National Minorities",
+      "description": "OSCE Commissioner"
     },
     {
       "id": "Q27169",
