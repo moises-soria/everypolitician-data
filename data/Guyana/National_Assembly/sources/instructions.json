@@ -16,6 +16,15 @@
       "type": "membership"
     },
     {
+      "file": "manual/gender.csv",
+      "source": "http://parliament.gov.gy/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "id",
+        "existing_field": "id"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
