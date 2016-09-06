@@ -14,6 +14,10 @@ def new_tempfile
 end
 
 describe 'UUID Mapper' do
+  it "has nothing if the file doesn't exist" do
+    UuidMapFile.new(Pathname.new('not/a/file')).mapping.must_be_empty
+  end
+
   it 'has nothing in an empty tempfile' do
     UuidMapFile.new(new_tempfile).mapping.must_be_empty
   end
