@@ -2871,7 +2871,10 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P768": "New Jersey's 6th congressional district"
+      }
     },
     {
       "id": "Q19385767",
@@ -7160,7 +7163,7 @@
       "description": "elected representative in the US"
     },
     {
-      "id": "Q5097046",
+      "id": "Q2855502",
       "label": "chief of police",
       "title": "chief of police"
     }
@@ -11324,7 +11327,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1985-01-03",
+        "P582": "1995-01-03",
+        "P768": "Maryland's 2nd congressional district"
+      }
     }
   ],
   "Q745814": [
@@ -11586,13 +11594,20 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2005-01-03"
+      }
     },
     {
       "id": "Q17598395",
       "label": "member of the Washington House of Representatives",
       "title": "member of the Washington House of Representatives",
-      "description": "elected Representative"
+      "description": "elected Representative",
+      "qualifiers": {
+        "P580": "1994",
+        "P582": "2004"
+      }
     }
   ],
   "Q880786": [
