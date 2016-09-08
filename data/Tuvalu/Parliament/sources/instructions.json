@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/tuvalu-parliament-wikipedia",
+        "scraper": "everypolitician-scrapers/tuvalu-parliament-wikipedia",
         "query": "SELECT *, NULL AS source FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
@@ -28,7 +28,7 @@
       "file": "morph/terms.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/tuvalu-parliament-wikipedia",
+        "scraper": "everypolitician-scrapers/tuvalu-parliament-wikipedia",
         "query": "SELECT * FROM terms ORDER BY id"
       },
       "type": "term"
