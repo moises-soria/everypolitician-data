@@ -10,7 +10,9 @@ require 'csv'
 
 (analytics_file = ARGV.first) || abort("Usage: #{$PROGRAM_NAME} <analytics.csv>")
 drilldown = CSV.table(analytics_file)
-ordering = Hash[drilldown.select { |r| (r[0].to_s.length > 1) && (r[0][0] == r[0][-1]) }.each_with_index.map { |r, i| [r[0].delete('/'), i] }]
+ordering = drilldown.reject { |r| r.count < 5 }.
+  select { |r| (r[0].to_s.length > 1) && (r[0][0] == r[0][-1])
+}.each_with_index.map { |r, i| [r[0].delete('/'), i] }.to_h
 
 EveryPolitician.countries_json = 'countries.json'
 
