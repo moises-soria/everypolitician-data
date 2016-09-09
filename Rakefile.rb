@@ -108,3 +108,11 @@ Rake::TestTask.new do |t|
 end
 
 task default: :test
+
+desc "Go through the list of open pull requests and close any outdated ones"
+task :close_old_pull_requests do
+  require 'close_old_pull_requests'
+  CloseOldPullRequests.clean.each do |pull_request|
+    puts "Pull request #{pull_request.number} is outdated. (Newest pull request is #{pull_request.superseded_by.number})"
+  end
+end
