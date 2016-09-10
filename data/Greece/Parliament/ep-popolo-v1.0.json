@@ -5511,6 +5511,10 @@
           "scheme": "hellenic_parliament"
         },
         {
+          "identifier": "vjn4cltrxekk",
+          "scheme": "parlement"
+        },
+        {
           "identifier": "Q983664",
           "scheme": "wikidata"
         }
@@ -10227,6 +10231,7 @@
     {
       "birth_date": "1948",
       "gender": "female",
+      "given_name": "Anastasia",
       "id": "1a40e52d-dd82-4ff8-948c-10c88257d540",
       "identifiers": [
         {
@@ -16685,6 +16690,7 @@
       ]
     },
     {
+      "birth_date": "1947-07-30",
       "contact_details": [
         {
           "type": "email",
@@ -16693,11 +16699,68 @@
       ],
       "email": "k.gavroglou@parliament.gr",
       "gender": "male",
+      "given_name": "Kostas",
       "id": "d05d4954-fd42-47bc-8e25-9179b9bee388",
       "identifiers": [
         {
+          "identifier": "3397",
+          "scheme": "biblionet"
+        },
+        {
+          "identifier": "121389835",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "cdb03ed2-9d74-4fc8-af55-a52500ae181b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "104556642X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "cdb03ed2-9d74-4fc8-af55-a52500ae181b",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0001 2341 7288",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n82223562",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000051682",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "A30184873",
+          "scheme": "nlp"
+        },
+        {
+          "identifier": "074145681",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "n2007139653",
+          "scheme": "nukat"
+        },
+        {
+          "identifier": "1374183",
+          "scheme": "ptbnp"
+        },
+        {
+          "identifier": "029849586",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "12343369",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q26807805",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_4.jpg",
@@ -16708,6 +16771,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κώστας_Γαβρόγλου"
+        },
+        {
           "note": "website",
           "url": "http://www.gavroglu.gr"
         }
@@ -16715,8 +16782,22 @@
       "name": "Gavroglou Konstantinos",
       "other_names": [
         {
+          "name": "Kostas Gavroglu",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Γαβρόγλου Βασιλείου Κωνσταντίνος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κώστας Γαβρόγλου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kostas Gavroglu",
           "note": "multilingual"
         }
       ],
@@ -18363,18 +18444,57 @@
       ]
     },
     {
+      "birth_date": "1946",
+      "gender": "male",
+      "given_name": "Athanasios",
       "id": "fc87fb1b-c9e8-40e9-bdd5-d96e97fe6c18",
       "identifiers": [
         {
           "identifier": "c97e717e-b21f-493f-88db-619f990104ed",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1106074130",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "c97e717e-b21f-493f-88db-619f990104ed",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "77146936587513780562",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q19800644",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αθανάσιος_Γιαννόπουλος"
         }
       ],
       "name": "Giannopoulos Athanasios",
       "other_names": [
         {
+          "name": "Athanasios Giannopoulos",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Αθανάσιος Γιαννόπουλος",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Γιαννόπουλος Λάμπρου Αθανάσιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Athanasios Giannopoulos",
           "note": "multilingual"
         }
       ],
@@ -20000,7 +20120,7 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gregos_1_2.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/640123846809399301/WqerwOTZ.jpg"
+          "url": "https://pbs.twimg.com/profile_images/774199338864115712/9Txew7U6.jpg"
         }
       ],
       "links": [
@@ -41262,7 +41382,7 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mitsotakis1.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/650964247606894592/F0B5Fyn1.jpg"
+          "url": "https://pbs.twimg.com/profile_images/772785385277628416/1c0tviKK.jpg"
         }
       ],
       "links": [
@@ -43150,17 +43270,32 @@
       ]
     },
     {
+      "birth_date": "1969",
       "contact_details": [
         {
           "type": "twitter",
           "value": "nikorff"
         }
       ],
+      "gender": "male",
+      "given_name": "Nikólaos",
       "id": "c1a550cb-d70f-4378-a443-0ee26cb00a84",
       "identifiers": [
         {
           "identifier": "d4fa113d-7f91-42e9-b8f0-a434015487a0",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "d4fa113d-7f91-42e9-b8f0-a434015487a0",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "nm0650512",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "Q20995480",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/702740589297713152/2yPqJ9ar.jpg",
@@ -43170,6 +43305,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκος_Ορφανός_(ηθοποιός)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nikólaos_Orfanós"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/nikorff"
@@ -43183,7 +43326,17 @@
         },
         {
           "lang": "el",
+          "name": "Νίκος Ορφανός",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
           "name": "Ορφανός Δημητρίου Νικόλαος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nikólaos Orfanós",
           "note": "multilingual"
         }
       ],
@@ -46157,6 +46310,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Мільтіадіс_Папаіоанну"
+        },
+        {
+          "note": "website",
+          "url": "http://www.mpapaioannou.gr/pub/"
         }
       ],
       "name": "Papaioannou Miltiadis",
@@ -61636,6 +61793,10 @@
           "url": "https://pt.wikipedia.org/wiki/Míkis_Theodorákis"
         },
         {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mikis_Theodorakis"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Теодоракис,_Микис"
         },
@@ -71064,18 +71225,165 @@
       ]
     },
     {
+      "birth_date": "1905",
+      "death_date": "1993-01-16",
+      "gender": "male",
+      "given_name": "Dionysios",
       "id": "f26f1ff3-cdcd-43c8-8a93-71ade32e03b2",
       "identifiers": [
         {
+          "identifier": "ADV10076583",
+          "scheme": "bav"
+        },
+        {
+          "identifier": "22118",
+          "scheme": "biblionet"
+        },
+        {
+          "identifier": "12813203b",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "c397435e-4f67-4ee4-9e97-4a07f730973f",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4585",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/0c35zcl",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "120089343",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "c397435e-4f67-4ee4-9e97-4a07f730973f",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "0000 0000 8078 4212",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n50014709",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000145170",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "A24474162",
+          "scheme": "nlp"
+        },
+        {
+          "identifier": "073860638",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "n2013170965",
+          "scheme": "nukat"
+        },
+        {
+          "identifier": "1760",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "201240",
+          "scheme": "selibr"
+        },
+        {
+          "identifier": "085716138",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "110715042",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1226990",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dionysios_Zakythinos"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Διονύσιος_Ζακυθηνός"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dionysios_Zakythinos"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dionisios_Zakitinos"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Закитинос,_Дионисиос"
         }
       ],
       "name": "Zakythinos Dionysios",
       "other_names": [
         {
+          "name": "Dionysios Zakythinos",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dionysios Zakythinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Διονύσιος Ζακυθηνός",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Ζακυθηνός Αλεξίου Διονύσιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dionysios Zakythinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dionysios Zakythinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dionysios Zakythinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dionysios Zakythinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dionysios Zakythinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dionisios Zakitinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Закитинос, Дионисиос",
           "note": "multilingual"
         }
       ],
@@ -71289,7 +71597,7 @@
         },
         {
           "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Χουσεΐν_Ζειμπέκ"
+          "url": "https://el.wikipedia.org/wiki/Χουσεΐν_Ζεϊμπέκ"
         },
         {
           "note": "Wikipedia (en)",
