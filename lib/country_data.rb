@@ -54,7 +54,6 @@ module EveryPolitician
       end
 
       def stanza
-        popolo, statement_count = json_from(json_file)
         sha, lastmod = commit_metadata[json_file].values_at :sha, :timestamp
         lname = name_from(popolo)
         lslug = dir.split('/').last.tr('_', '-')
@@ -109,14 +108,23 @@ module EveryPolitician
         orgs.first[:name]
       end
 
-      def json_from(json_file)
-        statements = 0
-        json = JSON.load(File.read(json_file), lambda do |h|
-          statements += h.values.select { |v| v.class == String }.count if h.class == Hash
-        end, symbolize_names: true, create_additions: false)
-        [json, statements]
+      def json_with_count
+        @json_data ||= begin
+          statements = 0
+          json = JSON.load(File.read(json_file), lambda do |h|
+            statements += h.values.select { |v| v.class == String }.count if h.class == Hash
+          end, symbolize_names: true, create_additions: false)
+          [json, statements]
+        end
       end
 
+      def popolo
+        json_with_count.first
+      end
+
+      def statement_count
+        json_with_count.last
+      end
     end
   end
 end
