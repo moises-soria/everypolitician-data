@@ -143,13 +143,14 @@ namespace :term_csvs do
 
     # Warn about unknown positions
     unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
-    unknown_posns.group_by(&:id).sort_by { |_, ups| ups.count }.each do |id, ups|
+    grouped_posns = unknown_posns.group_by(&:id)
+    grouped_posns.sort_by { |_, ups| ups.count }.each do |id, ups|
       warn "  Unknown position (x#{ups.count}): #{id} #{ups.first.label} — e.g. #{ups.first.person.wikidata}"
     end
 
     # Rebuild the position filter, with counts on unknowns
     new_map = position_map.to_json
-    unknown = unknown_posns.group_by(&:id).sort_by { |_, us| us.first.label }.map do |id, us|
+    unknown = grouped_posns.sort_by { |_, us| us.first.label.to_s }.map do |id, us|
       {
         id:          id,
         name:        us.first.label,
