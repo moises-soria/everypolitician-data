@@ -22,22 +22,6 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(json))
 end
 
-def terms_from(json, h)
-  terms = json[:events].select { |o| o[:classification] == 'legislative period' }
-  terms.sort_by { |t| t[:start_date].to_s }.reverse.map do |t|
-    t.delete :classification
-    t.delete :organization_id
-    t[:slug] ||= t[:id].split('/').last
-    t[:csv] = h + "/term-#{t[:slug]}.csv"
-    t
-  end.select { |t| File.exist? t[:csv] }
-end
-
-def name_from(json)
-  orgs = json[:organizations].select { |o| o[:classification] == 'legislature' }
-  raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
-  orgs.first[:name]
-end
 
 desc 'Install country-list locally'
 task 'countries.json' do
