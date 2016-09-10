@@ -10,10 +10,6 @@ module EveryPolitician
       end
 
       def stanza
-        meta_file = dirs.first + '/../meta.json'
-        meta = File.exist?(meta_file) ? JSON.load(File.open(meta_file)) : {}
-        name = meta['name'] || country.tr('_', ' ')
-        slug = country.tr('_', '-')
         {
           name:         name,
           # Deprecated - will be removed soon!
@@ -51,6 +47,27 @@ module EveryPolitician
       private
 
       attr_reader :country, :dirs, :commit_metadata
+
+      def meta_file
+        dirs.first + '/../meta.json'
+      end
+
+      def meta_json
+        JSON.load(File.open(meta_file))
+      end
+
+      def meta
+        @meta ||= File.exist?(meta_file) ? meta_json : {}
+      end
+
+      def name
+        meta['name'] || country.tr('_', ' ')
+      end
+
+      def slug
+        country.tr('_', '-')
+      end
+
     end
   end
 end
