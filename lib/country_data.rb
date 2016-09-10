@@ -55,8 +55,6 @@ module EveryPolitician
 
       def stanza
         sha, lastmod = commit_metadata[json_file].values_at :sha, :timestamp
-        lname = name_from(popolo)
-        lslug = dir.split('/').last.tr('_', '-')
         {
           name:                lname,
           slug:                lslug,
@@ -102,10 +100,14 @@ module EveryPolitician
         end.select { |t| File.exist? t[:csv] }
       end
 
-      def name_from(json)
-        orgs = json[:organizations].select { |o| o[:classification] == 'legislature' }
+      def lname
+        orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
         raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
         orgs.first[:name]
+      end
+
+      def lslug
+        dir.split('/').last.tr('_', '-')
       end
 
       def json_with_count
