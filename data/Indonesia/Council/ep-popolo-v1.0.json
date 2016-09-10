@@ -3365,28 +3365,6 @@
     },
     {
       "gender": "male",
-      "id": "07458c16-212a-46cf-9b59-6b3337284ad6",
-      "identifiers": [
-        {
-          "identifier": "1637",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://dpr.go.id/doksigota/photo/1637.jpg",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/1637.jpg"
-        }
-      ],
-      "name": "Dr. H. Adang Sudrajat, M.M., AV.",
-      "sources": [
-        {
-          "url": "http://dpr.go.id/en/anggota"
-        }
-      ]
-    },
-    {
-      "gender": "male",
       "id": "600e9285-1cd1-44fa-a419-c573ea0cd90e",
       "identifiers": [
         {
@@ -4170,6 +4148,21 @@
         }
       ],
       "name": "Dr. KH. KHOLILURRAHMAN, SH, M.Si",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "36c92433-6f14-46b2-a8da-fbfcf4bf2dac",
+      "image": "http://dpr.go.id/doksigota/photo/1662.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1662.jpg"
+        }
+      ],
+      "name": "Dr. Marlinda Irawati, SE., M.Si.",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -18441,6 +18434,21 @@
       ]
     },
     {
+      "id": "774bfed4-6d4b-443d-9d48-0118f5dfc95c",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "SUTRIYONO, S.Pd., M.Si.",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "8166b15d-6bbc-4b0b-9552-c2ab2547015f",
       "identifiers": [
@@ -19473,6 +19481,28 @@
         }
       ],
       "name": "dr. ARI YUSNITA",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "07458c16-212a-46cf-9b59-6b3337284ad6",
+      "identifiers": [
+        {
+          "identifier": "1637",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://dpr.go.id/doksigota/photo/1637.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1637.jpg"
+        }
+      ],
+      "name": "dr. H. Adang Sudrajat, M.M., AV.",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -21903,6 +21933,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/jawa_tengah_x",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/golkar_party_faction",
+      "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
+      "person_id": "36c92433-6f14-46b2-a8da-fbfcf4bf2dac",
+      "role": "member"
+    },
+    {
       "area_id": "area/papua",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/democrat_party_faction",
@@ -23020,6 +23058,14 @@
       "on_behalf_of_id": "party/national_mandate_party_faction",
       "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
       "person_id": "759ec6b5-aeac-4c9a-89ea-7f047d5501e3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/jawa_tengah_iii",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/prosperous_justice_party_faction",
+      "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
+      "person_id": "774bfed4-6d4b-443d-9d48-0118f5dfc95c",
       "role": "member"
     },
     {
