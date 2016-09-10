@@ -65,7 +65,7 @@ module EveryPolitician
           lastmod:             lastmod,
           person_count:        popolo[:persons].size,
           sha:                 sha,
-          legislative_periods: terms_from(popolo, dir).each do |t|
+          legislative_periods: terms.each do |t|
             term_csv_sha = commit_metadata[t[:csv]][:sha]
             t[:csv_url] = remote_source % [term_csv_sha, t[:csv]]
           end,
@@ -89,13 +89,13 @@ module EveryPolitician
         'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
       end
 
-      def terms_from(json, h)
-        terms = json[:events].select { |o| o[:classification] == 'legislative period' }
+      def terms
+        terms = popolo[:events].select { |o| o[:classification] == 'legislative period' }
         terms.sort_by { |t| t[:start_date].to_s }.reverse.map do |t|
           t.delete :classification
           t.delete :organization_id
           t[:slug] ||= t[:id].split('/').last
-          t[:csv] = h + "/term-#{t[:slug]}.csv"
+          t[:csv] = dir + "/term-#{t[:slug]}.csv"
           t
         end.select { |t| File.exist? t[:csv] }
       end
