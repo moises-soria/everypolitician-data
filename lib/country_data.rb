@@ -54,9 +54,6 @@ module EveryPolitician
       end
 
       def stanza
-        json_file = dir + '/ep-popolo-v1.0.json'
-        name_file = dir + '/names.csv'
-        remote_source = 'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
         popolo, statement_count = json_from(json_file)
         sha, lastmod = commit_metadata[json_file].values_at :sha, :timestamp
         lname = name_from(popolo)
@@ -82,6 +79,19 @@ module EveryPolitician
       private
 
       attr_reader :dir, :commit_metadata
+
+      def json_file
+        dir + '/ep-popolo-v1.0.json'
+      end
+
+      def name_file
+        dir + '/names.csv'
+      end
+
+      def remote_source
+        'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
+      end
+
     end
   end
 end
