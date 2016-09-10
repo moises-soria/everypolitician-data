@@ -18,6 +18,11 @@ def json_from(json_file)
   [json, statements]
 end
 
+def json_load(file)
+  raise "No such file #{file}" unless File.exist? file
+  JSON.parse(File.read(file), symbolize_names: true)
+end
+
 def json_write(file, json)
   File.write(file, JSON.pretty_generate(json))
 end
@@ -34,7 +39,7 @@ task 'countries.json' do
     hs.any? { |h| h.include? to_build }
   end
 
-  data, = json_from('countries.json') rescue {}
+  data = json_load('countries.json') rescue {}
   # If we know we'll need data for every country directory anyway,
   # it's much faster to pass the single directory 'data' than a list
   # of every country directory:
