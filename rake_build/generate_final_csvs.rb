@@ -19,35 +19,34 @@ namespace :term_csvs do
   task term_tables: 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
     @popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
-    people = Hash[popolo.persons.map { |p| [p.id, p] }]
-    term_end_dates = Hash[popolo.terms.map { |t| [t.id, t.end_date] }]
 
-    data = @json[:memberships].select { |m| m.key? :legislative_period_id }.map do |m|
-      person = people[m[:person_id]]
-      group  = @json[:organizations].find { |o| (o[:id] == m[:on_behalf_of_id]) || (o[:id].end_with? "/#{m[:on_behalf_of_id]}") }
-      house  = @json[:organizations].find { |o| (o[:id] == m[:organization_id]) || (o[:id].end_with? "/#{m[:organization_id]}") }
+    # For quicker lookup. TODO: use fast EP::Popolo searches
+    people = popolo.persons.group_by(&:id)
+    orgs   = popolo.organizations.group_by(&:id)
+    terms  = popolo.terms.group_by(&:id)
+    areas  = popolo.areas.group_by(&:id)
 
-      if group.nil?
-        warn "No group for #{m}"
-        binding.pry
-        next
-      end
+    data = popolo.memberships.select(&:legislative_period_id).map do |m|
+      person = people[m.person_id].first
+      group  = orgs[m.on_behalf_of_id].first
+      house  = orgs[m.organization_id].first
+      term   = terms[m.legislative_period_id].first
 
       {
         id:         person.id.split('/').last,
-        name:       person.name_at(m[:end_date] || term_end_dates[m[:legislative_period_id]]),
+        name:       person.name_at(m.end_date || term.end_date),
         sort_name:  person.sort_name,
         email:      person.email,
         twitter:    person.twitter,
         facebook:   tidy_facebook_link(person.facebook),
-        group:      group[:name],
-        group_id:   group[:id].split('/').last,
-        area_id:    m[:area_id],
-        area:       m[:area_id] && @json[:areas].find { |a| a[:id] == m[:area_id] }[:name],
-        chamber:    house[:name],
-        term:       m[:legislative_period_id].split('/').last,
-        start_date: m[:start_date],
-        end_date:   m[:end_date],
+        group:      group.name,
+        group_id:   group.id.split('/').last,
+        area_id:    m.area_id,
+        area:       m.area_id && areas[m.area_id].first.name,
+        chamber:    house.name,
+        term:       term.id.split('/').last,
+        start_date: m.start_date,
+        end_date:   m.end_date,
         image:      person.image,
         gender:     person.gender,
       }
