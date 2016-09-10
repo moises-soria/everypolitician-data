@@ -109,6 +109,14 @@ module EveryPolitician
         orgs.first[:name]
       end
 
+      def json_from(json_file)
+        statements = 0
+        json = JSON.load(File.read(json_file), lambda do |h|
+          statements += h.values.select { |v| v.class == String }.count if h.class == Hash
+        end, symbolize_names: true, create_additions: false)
+        [json, statements]
+      end
+
     end
   end
 end

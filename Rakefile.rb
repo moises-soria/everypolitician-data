@@ -10,14 +10,6 @@ require_rel 'lib'
 
 @HOUSES = FileList['data/*/*/Rakefile.rb'].map { |f| f.pathmap '%d' }.reject { |p| File.exist? "#{p}/WIP" }
 
-def json_from(json_file)
-  statements = 0
-  json = JSON.load(File.read(json_file), lambda do |h|
-    statements += h.values.select { |v| v.class == String }.count if h.class == Hash
-  end, symbolize_names: true, create_additions: false)
-  [json, statements]
-end
-
 def json_load(file)
   raise "No such file #{file}" unless File.exist? file
   JSON.parse(File.read(file), symbolize_names: true)
