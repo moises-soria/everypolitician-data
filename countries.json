@@ -10389,11 +10389,11 @@
         "slug": "House",
         "sources_directory": "data/United_States_of_America/House/sources",
         "popolo": "data/United_States_of_America/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/78ff85810f3335e55a9a78b2faefe8a203025973/data/United_States_of_America/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/210575adb5156c1d2f8badd1ef8c32ee71acbeb5/data/United_States_of_America/House/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/House/names.csv",
-        "lastmod": "1473231437",
+        "lastmod": "1473334545",
         "person_count": 1585,
-        "sha": "78ff85810f3335e55a9a78b2faefe8a203025973",
+        "sha": "210575adb5156c1d2f8badd1ef8c32ee71acbeb5",
         "legislative_periods": [
           {
             "id": "term/114",
@@ -10575,18 +10575,18 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d2d329aabf4071c610aeb6a47f7a0a78fd/data/United_States_of_America/House/term-97.csv"
           }
         ],
-        "statement_count": 222895
+        "statement_count": 223571
       },
       {
         "name": "Senate",
         "slug": "Senate",
         "sources_directory": "data/United_States_of_America/Senate/sources",
         "popolo": "data/United_States_of_America/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fb496df49ef20f80e0e53aec7db70d2ea46dbc35/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/78a3587aaf0fe89541f03f3270b89ecbd282b68a/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/Senate/names.csv",
-        "lastmod": "1473530111",
+        "lastmod": "1473585270",
         "person_count": 310,
-        "sha": "fb496df49ef20f80e0e53aec7db70d2ea46dbc35",
+        "sha": "78a3587aaf0fe89541f03f3270b89ecbd282b68a",
         "legislative_periods": [
           {
             "id": "term/114",
@@ -10768,7 +10768,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/296df5c9ef9b681e3ef79f864c580933a733d936/data/United_States_of_America/Senate/term-97.csv"
           }
         ],
-        "statement_count": 69366
+        "statement_count": 69371
       }
     ]
   },
