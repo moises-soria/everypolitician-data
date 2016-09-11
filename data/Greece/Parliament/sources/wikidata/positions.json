@@ -5135,27 +5135,41 @@
   ],
   "Q468064": [
     {
-      "id": "Q83307",
-      "label": "minister",
-      "title": "minister",
-      "description": "politician who holds significant public office in a national or regional government"
-    },
-    {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of Panhellenic Socialist Movement)",
+      "qualifiers": {
+        "P580": "2007",
+        "P582": "2012",
+        "P768": "Athens B",
+        "P642": "Panhellenic Socialist Movement"
+      }
     },
     {
       "id": "Q23901414",
       "label": "Minister of Labour and Social Security of Greece",
-      "title": "Minister of Labour and Social Security of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Labour and Social Security of Greece (of Cabinet of George Papandreou)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2010-09-07",
+        "P582": "2011-06-17",
+        "P1365": "Andreas Loverdos",
+        "P1366": "Q3559201",
+        "P642": "Cabinet of George Papandreou"
+      }
     },
     {
       "id": "Q23901436",
       "label": "Minister of Economy, Competitiveness and Shipping",
-      "title": "Minister of Economy, Competitiveness and Shipping",
-      "description": "former Greek cabinet position"
+      "title": "Minister of Economy, Competitiveness and Shipping (of Cabinet of George Papandreou)",
+      "description": "former Greek cabinet position",
+      "qualifiers": {
+        "P580": "2009-10-07",
+        "P582": "2010-09-07",
+        "P1365": "Nikos Christodoulakis",
+        "P1366": "Michalis Chrisochoidis",
+        "P642": "Cabinet of George Papandreou"
+      }
     }
   ],
   "Q1348030": [
@@ -6104,6 +6118,19 @@
       }
     }
   ],
+  "Q20995480": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of The River)",
+      "qualifiers": {
+        "P580": "2015-01",
+        "P582": "2015-09",
+        "P768": "Piraeus B",
+        "P642": "The River"
+      }
+    }
+  ],
   "Q16327105": [
     {
       "id": "Q18915989",
@@ -6390,6 +6417,17 @@
         "P582": "1991-08-08",
         "P1366": "Q16727265",
         "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
+    }
+  ],
+  "Q26807805": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of SYRIZA)",
+      "qualifiers": {
+        "P580": "2015-09",
+        "P642": "SYRIZA"
       }
     }
   ],
@@ -7752,6 +7790,73 @@
       }
     }
   ],
+  "Q1226990": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "1977",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q19858568",
+      "label": "Minister of the Presidency of Greece",
+      "title": "Minister of the Presidency of Greece (of Caretaker Cabinet of Ioannis Paraskevopoulos)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1963-12-31",
+        "P582": "1964-02-19",
+        "P1365": "Georgios Athanasiadis-Novas",
+        "P1366": "Andreas Papandreou",
+        "P642": "Caretaker Cabinet of Ioannis Paraskevopoulos"
+      }
+    },
+    {
+      "id": "Q23901458",
+      "label": "Minister of the Press and Information",
+      "title": "Minister of the Press and Information (of Q12879510)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1945-04-08",
+        "P582": "1945-08-11",
+        "P642": "Q12879510"
+      }
+    },
+    {
+      "id": "Q23772807",
+      "label": "Member of the Athens Academy",
+      "title": "Member of the Athens Academy",
+      "qualifiers": {
+        "P580": "1966"
+      }
+    },
+    {
+      "id": "Q23768979",
+      "label": "Q23768979",
+      "title": "Q23768979",
+      "qualifiers": {
+        "P585": "1974",
+        "P1365": "Elias Mariolopoulos",
+        "P1366": "Panagiotis Zepos"
+      }
+    },
+    {
+      "id": "Q723682",
+      "label": "dean",
+      "title": "dean",
+      "description": "in academics, a person with significant authority over a specific academic unit",
+      "qualifiers": {
+        "P580": "1962",
+        "P582": "1963",
+        "P768": "Panteion University",
+        "P1365": "Ioannis Paraskevopoulos",
+        "P1366": "Q12878314"
+      }
+    }
+  ],
   "Q5277577": [
     {
       "id": "Q7574264",
@@ -8256,6 +8361,33 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Q20723804"
+      }
+    }
+  ],
+  "Q19800644": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1993",
+        "P582": "2012",
+        "P768": "Q18749446",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q23653075",
+      "label": "Q23653075",
+      "title": "Q23653075 (of First Cabinet of Kostas Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2004-03-10",
+        "P582": "2007-09-19",
+        "P1365": "Q18228363",
+        "P1366": "Fofi Gennimata",
+        "P1706": "Georgios Konstantopoulos",
+        "P642": "First Cabinet of Kostas Karamanlis"
       }
     }
   ],
