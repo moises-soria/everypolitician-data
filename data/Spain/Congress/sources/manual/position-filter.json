@@ -143,6 +143,12 @@
   "unknown": {
     "unknown": [
       {
+        "id": null,
+        "name": null,
+        "description": null,
+        "count": 1
+      },
+      {
         "id": "Q6501749",
         "name": "General Secretary",
         "description": "leader or chief officer of an organisation",
@@ -155,9 +161,21 @@
         "count": 2
       },
       {
+        "id": "Q26208485",
+        "name": "Minister of Health and Social Policy and Equality",
+        "description": "Spanish minister",
+        "count": 1
+      },
+      {
         "id": "Q185088",
         "name": "People's Party",
         "description": "political party in Spain",
+        "count": 1
+      },
+      {
+        "id": "Q17014422",
+        "name": "President of the Congress of Deputies",
+        "description": null,
         "count": 1
       },
       {
@@ -187,7 +205,7 @@
       {
         "id": "Q30461",
         "name": "president",
-        "description": "leader of a country or part of a country",
+        "description": "leader of a country or part of a country, usually in republics",
         "count": 1
       }
     ]
