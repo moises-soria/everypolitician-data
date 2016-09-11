@@ -40,7 +40,7 @@ task 'countries.json' do
   )
 
   countries.each do |c, hs|
-    country = EveryPolitician::Country::Metadata.new(
+    country = Everypolitician::Country::Metadata.new(
       country: c,
       dirs: hs,
       commit_metadata: commit_metadata,
