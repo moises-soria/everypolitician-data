@@ -1,5 +1,5 @@
 
-module EveryPolitician
+module Everypolitician
   class Country
     # The metadata for a country, included in countries.json
     class Metadata
