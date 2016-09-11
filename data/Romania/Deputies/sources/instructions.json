@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/romanian-parliament",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.cdep.ro/pls/parlam/structura2015.de?leg=2012&idl=2",
       "type": "membership"
