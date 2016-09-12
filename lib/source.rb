@@ -213,6 +213,12 @@ module Source
     def is_wikidata?
       true
     end
+
+    def reconciliation_file
+      Reconciliation::File.new(
+        Pathname.new('sources/') + i(:merge)[:reconciliation_file]
+      )
+    end
   end
 
   class OCD < CSV
