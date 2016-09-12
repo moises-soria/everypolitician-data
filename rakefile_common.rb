@@ -132,6 +132,10 @@ def instructions(key)
   @instructions[key]
 end
 
+def sources
+  @sources ||= instructions(:sources).map { |s| Source::Base.instantiate(s) }
+end
+
 desc 'Rebuild from source data'
 task rebuild: [:clobber, 'ep-popolo-v1.0.json']
 task default: [:csvs, 'stats:regenerate']
