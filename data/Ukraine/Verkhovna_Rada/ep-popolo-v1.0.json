@@ -14002,7 +14002,9 @@
       "patronymic_name": "Іванович"
     },
     {
+      "birth_date": "1973-08-28",
       "family_name": "Куліч",
+      "gender": "male",
       "given_name": "Валерій",
       "id": "bcecbf5a-8fc4-49c0-a41a-ac62f2aed283",
       "identifiers": [
@@ -14013,15 +14015,48 @@
         {
           "identifier": "18160",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q24958301",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d205_1.jpg",
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d205_1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Куліч_Валерій_Петрович.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кулич,_Валерий_Петрович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Куліч_Валерій_Петрович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/valeriy.kulich"
         }
       ],
       "name": "Куліч Валерій Петрович",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Кулич, Валерий Петрович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Куліч Валерій Петрович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Петрович"
     },
     {
