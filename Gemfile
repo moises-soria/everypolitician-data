@@ -23,6 +23,7 @@ gem 'slop', '~> 3.6.0' # tied to pry version
 gem 'rcsv'
 gem 'require_all'
 gem 'close_old_pull_requests', git: 'https://github.com/everypolitician/close_old_pull_requests', branch: 'master'
+gem 'everypolitician-pull_request'
 
 group :test do
   gem 'minitest'
