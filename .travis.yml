@@ -1,5 +1,5 @@
 language: ruby
-script: bundle exec rake test close_old_pull_requests
+script: bundle exec rake test close_old_pull_requests pull_request_summary
 cache: bundler
 rvm:
   - 2.3.1
