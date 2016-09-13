@@ -69,4 +69,4 @@ task :close_old_pull_requests do
 end
 
 require 'everypolitician/pull_request/rake_task'
-Everypolitician::PullRequest::RakeTask.new
+Everypolitician::PullRequest::RakeTask.new.install_tasks
