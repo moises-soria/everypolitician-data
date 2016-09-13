@@ -40,6 +40,10 @@ module Source
       false
     end
 
+    def is_wikidata?
+      false
+    end
+
     def is_bios?
       false
     end
@@ -204,6 +208,16 @@ module Source
   class Wikidata < Person
     def fields
       super << :identifier__wikidata
+    end
+
+    def is_wikidata?
+      true
+    end
+
+    def reconciliation_file
+      Reconciliation::File.new(
+        Pathname.new('sources/') + i(:merge)[:reconciliation_file]
+      )
     end
   end
 
