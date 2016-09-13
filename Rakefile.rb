@@ -68,23 +68,5 @@ task :close_old_pull_requests do
   end
 end
 
-desc "Post a summary of the pull request that's currently being built"
-task :pull_request_summary do
-  if ENV['TRAVIS_PULL_REQUEST'] == 'false'
-    warn 'Not building a pull request, skipping pull_request_summary'
-    next
-  end
-  require 'everypolitician/pull_request'
-  repo_slug = ENV.fetch('TRAVIS_REPO_SLUG', 'everypolitician/everypolitician-data')
-  pull_request_number = ENV['TRAVIS_PULL_REQUEST'] || ENV['PULL_REQUEST']
-  abort 'error: Please supply a pull request number: ' \
-    'bundle exec rake pull_request_summary PULL_REQUEST=12345' if pull_request_number.nil?
-  body = Everypolitician::PullRequest::Summary.new(pull_request_number).as_markdown
-  github = Octokit::Client.new(access_token: ENV['GITHUB_ACCESS_TOKEN'])
-  begin
-    github.add_comment(repo_slug, pull_request_number, body)
-  rescue Octokit::Unauthorized
-    abort 'unauthorized: Please set GITHUB_ACCESS_TOKEN in the environment ' \
-      'and try again. https://github.com/settings/tokens'
-  end
-end
+require 'everypolitician/pull_request/rake_task'
+Everypolitician::PullRequest::RakeTask.new.install_tasks

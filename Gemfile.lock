@@ -41,6 +41,16 @@ GIT
     close_old_pull_requests (0.1.0)
       octokit (~> 4.3)
 
+GIT
+  remote: https://github.com/everypolitician/everypolitician-pull_request
+  revision: 89d50f6903f8e6b7bb9f43c822067c49b2e17815
+  branch: master
+  specs:
+    everypolitician-pull_request (0.4.0)
+      everypolitician-popolo
+      octokit
+      require_all
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -52,10 +62,6 @@ GEM
       safe_yaml (~> 1.0.0)
     domain_name (0.5.20160615)
       unf (>= 0.0.5, < 1.0.0)
-    everypolitician-pull_request (0.1.0)
-      everypolitician-popolo
-      octokit
-      require_all
     facebook_username_extractor (0.2.0)
     faraday (0.9.2)
       multipart-post (>= 1.2, < 3)
@@ -138,7 +144,7 @@ DEPENDENCIES
   csv_to_popolo (~> 0.26.1)!
   everypolitician!
   everypolitician-popolo (~> 0.6.0)!
-  everypolitician-pull_request
+  everypolitician-pull_request!
   facebook_username_extractor (~> 0.2.0)
   flog
   fuzzy_match
