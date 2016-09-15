@@ -1616,11 +1616,17 @@
       ]
     },
     {
-      "id": "087ce286-02ee-40ab-9eee-d431a0bbd2f1",
+      "id": "7f856591-353d-491e-b491-a6af632b8eba",
+      "image": "http://parliament.gov.vu/images/bio/Marcellino_Barthelemy.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Marcellino_Barthelemy.jpg"
+        }
+      ],
       "name": "Marcellino Barthelemy",
       "sources": [
         {
-          "url": "http://parliament.gov.vu/index.php/memebers/members-of-11th-legislatture"
+          "url": "http://parliament.gov.vu/index.php/members/196-honmarcellinobarthelemy"
         }
       ]
     },
@@ -4471,14 +4477,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/malekula",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/rmc",
-      "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
-      "person_id": "087ce286-02ee-40ab-9eee-d431a0bbd2f1",
-      "role": "member"
-    },
-    {
       "area_id": "area/pentecost",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/iauko_group",
@@ -4916,6 +4914,14 @@
       "on_behalf_of_id": "party/nagriamel",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "7f3e4560-ff17-4891-a896-41433c9076ac",
+      "role": "member"
+    },
+    {
+      "area_id": "area/malekula",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/rmc",
+      "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
+      "person_id": "7f856591-353d-491e-b491-a6af632b8eba",
       "role": "member"
     },
     {
