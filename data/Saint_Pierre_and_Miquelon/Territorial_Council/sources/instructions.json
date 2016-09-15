@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/saint-pierre-and-miquelon-territorial-council",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon",
       "type": "membership"
