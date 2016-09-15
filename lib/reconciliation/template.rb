@@ -23,18 +23,18 @@ module Reconciliation
     end
 
     def reconciliation_html
-      @reconciliation_html ||= File.read(
-        File.join(templates_dir, 'reconciliation.html.erb')
+      @reconciliation_html ||= ::File.read(
+        ::File.join(templates_dir, 'reconciliation.html.erb')
       )
     end
 
     def templates_dir
-      @templates_dir ||= File.expand_path('../../../templates', __FILE__)
+      @templates_dir ||= ::File.expand_path('../../../templates', __FILE__)
     end
 
     def reconciliation_js
-      @reconciliation_js ||= File.read(
-        File.join(templates_dir, 'reconciliation.js')
+      @reconciliation_js ||= ::File.read(
+        ::File.join(templates_dir, 'reconciliation.js')
       )
     end
 
@@ -43,8 +43,8 @@ module Reconciliation
     end
 
     def reconciliation_scss
-      @reconciliation_scss ||= File.read(
-        File.join(templates_dir, 'reconciliation.scss')
+      @reconciliation_scss ||= ::File.read(
+        ::File.join(templates_dir, 'reconciliation.scss')
       )
     end
 
