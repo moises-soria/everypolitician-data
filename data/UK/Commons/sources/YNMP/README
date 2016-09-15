@@ -1,5 +1,0 @@
-curl -O https://edit.yournextmp.com/media/candidates.csv
-
-# with http://harelba.github.io/q/
-
-q -d, -O -H "select SUBSTR(parlparse_id, -5, 5) as id, name, twitter_username AS twitter, facebook_page_url AS facebook, wikipedia_url AS wikipedia, REPLACE(REPLACE(REPLACE(wikipedia_url, 'https','http'), 'http://en.wikipedia.org/wiki/',''), '_', ' ') as wikiname, birth_date, linkedin_url as linkedin, image_url AS image  FROM ./candidates.csv WHERE elected = 'True'"  > winners.csv
