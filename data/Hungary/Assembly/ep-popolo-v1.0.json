@@ -2731,6 +2731,38 @@
       ]
     },
     {
+      "id": "e902bb96-f4b9-4be0-9c32-6f55f84a9d84",
+      "identifiers": [
+        {
+          "identifier": "Q26802740",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Hadházy_Ákos"
+        }
+      ],
+      "name": "Dr. Hadházy, Ákos",
+      "other_names": [
+        {
+          "name": "Hadházy Ákos",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Hadházy Ákos",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps"
+        }
+      ]
+    },
+    {
       "birth_date": "1979-06-27",
       "contact_details": [
         {
@@ -12600,6 +12632,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pinter.tamas@parlament.hu"
+        }
+      ],
+      "email": "pinter.tamas@parlament.hu",
+      "id": "0c307842-da0d-4ea6-abd4-6c375a619137",
+      "image": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D98568",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D98568"
+        }
+      ],
+      "name": "Pintér, Tamás",
+      "sources": [
+        {
+          "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps"
+        }
+      ]
+    },
+    {
       "birth_date": "1964-04-04",
       "contact_details": [
         {
@@ -18263,6 +18317,14 @@
     },
     {
       "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/jobbik",
+      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
+      "person_id": "0c307842-da0d-4ea6-abd4-6c375a619137",
+      "role": "member",
+      "start_date": "2016-09-12"
+    },
+    {
+      "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/fidesz",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
       "person_id": "0e893752-7bd3-40b5-8dcb-de9bb9a11961",
@@ -19494,6 +19556,14 @@
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
       "person_id": "e6f9ff81-402c-4094-a707-ab24d36123bd",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/lmp",
+      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
+      "person_id": "e902bb96-f4b9-4be0-9c32-6f55f84a9d84",
+      "role": "member",
+      "start_date": "2016-09-12"
     },
     {
       "legislative_period_id": "term/40",
