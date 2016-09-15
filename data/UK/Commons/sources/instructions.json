@@ -43,6 +43,11 @@
     },
     {
       "file": "YNMP/winners.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "mhl/uk-ynmp-2015-winners",
+        "query": "SELECT * FROM data"
+      },
       "type": "person",
       "source": "https://yournextmp.com/",
       "merge": {
