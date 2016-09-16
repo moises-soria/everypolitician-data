@@ -14140,7 +14140,7 @@
       "title": "Q1937085",
       "qualifiers": {
         "P580": "2011-05-12",
-        "P155": "Tanja Gönner"
+        "P1365": "Tanja Gönner"
       }
     },
     {
@@ -22514,7 +22514,8 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
-        "P580": "2013-10-22"
+        "P580": "2013-10-22",
+        "P582": "2016-08-31"
       }
     },
     {
@@ -31572,6 +31573,16 @@
         "P582": "1966-10-28",
         "P1366": "Werner Dollinger"
       }
+    },
+    {
+      "id": "Q4970706",
+      "label": "Federal Chancellor of Germany",
+      "title": "Federal Chancellor of Germany",
+      "description": "head of government of Federal Republic of Germany 1949–present",
+      "qualifiers": {
+        "P582": "1974-05-16",
+        "P580": "1974-05-07"
+      }
     }
   ],
   "Q2283715": [
@@ -35546,6 +35557,7 @@
       "id": "Q4657217",
       "label": "municipal executive",
       "title": "municipal executive",
+      "description": "member of the city executive board",
       "qualifiers": {
         "P580": "1981",
         "P582": "1987",
