@@ -15,6 +15,11 @@
       {
         "id": "Q6508563",
         "name": "Leader of the Opposition"
+      },
+      {
+        "id": "Q17014422",
+        "name": "President of the Congress of Deputies",
+        "description": null
       }
     ],
     "other_legislatures": [
@@ -92,6 +97,16 @@
       {
         "id": "Q7443629",
         "name": "Second Deputy Prime Minister"
+      },
+      {
+        "id": "Q25907267",
+        "name": "Minister of Finance and Public Administrations",
+        "description": "Spanish minister"
+      },
+      {
+        "id": "Q26208485",
+        "name": "Minister of Health and Social Policy and Equality",
+        "description": "Spanish minister"
       }
     ],
     "party": [
@@ -138,6 +153,9 @@
         "id": "Q2748453",
         "name": "President of the Junta of Andalusia"
       }
+    ],
+    "cabinet": [
+
     ]
   },
   "unknown": {
@@ -155,27 +173,15 @@
         "count": 5
       },
       {
-        "id": "Q25907267",
-        "name": "Minister of Finance and Public Administrations",
-        "description": "Spanish minister",
-        "count": 2
-      },
-      {
-        "id": "Q26208485",
-        "name": "Minister of Health and Social Policy and Equality",
-        "description": "Spanish minister",
+        "id": "Q1124265",
+        "name": "List of Presidents of the Basque Autonomous Community",
+        "description": "position",
         "count": 1
       },
       {
         "id": "Q185088",
         "name": "People's Party",
         "description": "political party in Spain",
-        "count": 1
-      },
-      {
-        "id": "Q17014422",
-        "name": "President of the Congress of Deputies",
-        "description": null,
         "count": 1
       },
       {
