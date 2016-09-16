@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/spain-proyectocolibri",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://proyectocolibri.es",
       "type": "membership"
@@ -56,7 +56,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/spain-diputados-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
