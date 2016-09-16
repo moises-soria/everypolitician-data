@@ -471,11 +471,16 @@
       ],
       "email": "beresneva@house.gov.by",
       "gender": "female",
+      "given_name": "Alena",
       "id": "30de3658-0178-48ac-a5fa-cb99c94e6f62",
       "identifiers": [
         {
           "identifier": "35937",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25385106",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://house.gov.by/files/images/beresneva_1.jpg",
@@ -484,7 +489,37 @@
           "url": "http://house.gov.by/files/images/beresneva_1.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Алена_Пятроўна_Бераснева"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alena_Bierasniewa"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Береснева,_Елена_Петровна"
+        }
+      ],
       "name": "BERESNEVA ELENA",
+      "other_names": [
+        {
+          "name": "Alena Bierasniewa",
+          "note": "alternate"
+        },
+        {
+          "lang": "pl",
+          "name": "Alena Bierasniewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Береснева, Елена Петровна",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://house.gov.by/index.php/,7508,35937,,,1,,,0.html"
