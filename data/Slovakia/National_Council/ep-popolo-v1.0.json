@@ -7182,6 +7182,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Gyula Bárdos",
+          "note": "multilingual"
+        },
+        {
           "lang": "sk",
           "name": "Gyula Bárdos",
           "note": "multilingual"
@@ -10645,6 +10650,11 @@
         {
           "lang": "et",
           "name": "Iveta Radičová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ایوتا رادیچووا",
           "note": "multilingual"
         },
         {
@@ -20712,7 +20722,7 @@
           "scheme": "parldata"
         },
         {
-          "identifier": "Q24877697",
+          "identifier": "Q11764466",
           "scheme": "wikidata"
         }
       ],
@@ -20724,6 +20734,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/László_Sólymos"
+        },
+        {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/László_Sólymos"
         }
@@ -20731,6 +20745,11 @@
       "name": "László Sólymos",
       "national_identity": "maďarská",
       "other_names": [
+        {
+          "lang": "pl",
+          "name": "László Sólymos",
+          "note": "multilingual"
+        },
         {
           "lang": "sk",
           "name": "László Sólymos",
@@ -20961,6 +20980,10 @@
         {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Magda_Vášáryová"
+        },
+        {
+          "note": "website",
+          "url": "http://www.magdavasaryova.sk"
         }
       ],
       "name": "Magdaléna Vášáryová",
@@ -23924,6 +23947,11 @@
         {
           "lang": "es",
           "name": "Mikuláš Dzurinda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "میکولاش دزوریندا",
           "note": "multilingual"
         },
         {
@@ -28745,6 +28773,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Pavol Pavlis",
+          "note": "multilingual"
+        },
+        {
           "lang": "sk",
           "name": "Pavol Pavlis",
           "note": "multilingual"
@@ -31062,16 +31095,60 @@
       "id": "f160a4ca-b010-4f2c-becf-9db2e2782823",
       "identifiers": [
         {
+          "identifier": "134954682",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "14821162511035",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "118072242",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 0890 1928",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n86030774",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "jn19990009376",
+          "scheme": "nkc"
+        },
+        {
+          "identifier": "A19694039",
+          "scheme": "nlp"
         },
         {
           "identifier": "14821162511035",
           "scheme": "nrsr"
         },
         {
+          "identifier": "000104574",
+          "scheme": "nsk"
+        },
+        {
+          "identifier": "175750165",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "OL302264A",
+          "scheme": "olid"
+        },
+        {
           "identifier": "54d2a522273a394ad5db98e6",
           "scheme": "parldata"
+        },
+        {
+          "identifier": "050380400",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "39531841",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q11815924",
@@ -31100,6 +31177,11 @@
       "name": "Peter Zajac",
       "national_identity": "slovenská",
       "other_names": [
+        {
+          "lang": "cs",
+          "name": "Peter Zajac",
+          "note": "multilingual"
+        },
         {
           "lang": "de",
           "name": "Peter Zajac",
@@ -33266,6 +33348,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "Robert Kaliňák",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Robert Kaliňák",
           "note": "multilingual"
@@ -34250,6 +34337,11 @@
         {
           "lang": "et",
           "name": "Rudolf Schuster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "رودولف شوستر",
           "note": "multilingual"
         },
         {
@@ -38305,6 +38397,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fa",
+          "name": "ولادیمیر مچیار",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Vladimír Mečiar",
           "note": "multilingual"
@@ -40062,6 +40159,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Árpád_Érsek"
+        },
         {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Árpád_Érsek"
@@ -44364,7 +44465,7 @@
         },
         {
           "lang": "fr",
-          "name": "Parti communiste slovaque",
+          "name": "Parti communiste de Slovaquie",
           "note": "multilingual"
         },
         {
@@ -44485,6 +44586,11 @@
         {
           "lang": "hu",
           "name": "SZKP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti communiste slovaque",
           "note": "multilingual"
         }
       ]
