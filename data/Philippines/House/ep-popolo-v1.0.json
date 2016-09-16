@@ -623,11 +623,17 @@
       ]
     },
     {
+      "gender": "female",
+      "given_name": "Mercedes",
       "id": "d779994f-d7f8-4c53-a73a-4d017fa43acb",
       "identifiers": [
         {
           "identifier": "alvarez-m",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12967978",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/alvarez-m.jpg",
@@ -636,7 +642,38 @@
           "url": "http://www.congress.gov.ph/members/images/16th/alvarez-m.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mercedes_Alvarez_(politician)"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Mercedes_Alvarez"
+        }
+      ],
       "name": "Alvarez, Mercedes K.",
+      "other_names": [
+        {
+          "name": "Mercedes Alvarez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mercedes Alvarez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mercedes Alvarez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Mercedes Alvarez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=alvarez-m"
