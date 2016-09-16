@@ -12683,15 +12683,43 @@
       "sort_name": "Pérez"
     },
     {
+      "birth_date": "1933-12-27",
+      "death_date": "1992-12-15",
       "gender": "male",
       "id": "b86446d6-e837-4b66-97fa-d0c5ae5b87b0",
       "identifiers": [
         {
           "identifier": "707",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26715900",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Akin_Soto"
         }
       ],
       "name": "Juan Akin Soto Morales",
+      "other_names": [
+        {
+          "name": "Akin Soto",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Akin Soto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Akin Soto",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Soto"
     },
     {
