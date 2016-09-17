@@ -774,6 +774,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "90474160-162a-4cd3-b0bd-330fa771e886",
       "identifiers": [
         {
@@ -3030,6 +3031,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -3323,6 +3329,16 @@
           "lang": "cs",
           "name": "bez stranické příslušnosti",
           "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -3356,6 +3372,12 @@
         {
           "identifier": "Q3326534",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.mcddi-cg.com"
         }
       ],
       "name": "MCDDI",
@@ -3574,6 +3596,21 @@
         {
           "lang": "zh",
           "name": "爭取民主和社會進步黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rassemblement pour la démocratie et le progrès social",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "RDPS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "R.D.P.S",
           "note": "multilingual"
         }
       ]
