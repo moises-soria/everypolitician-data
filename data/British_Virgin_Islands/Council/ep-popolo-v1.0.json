@@ -108,6 +108,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "d03ac8e2-6cfb-4b02-aef2-fee72e7cd1d5",
       "identifiers": [
         {
@@ -278,6 +279,16 @@
           "lang": "sv",
           "name": "Cyril Romney",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "西里尔罗姆尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "西里爾羅姆尼",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -287,6 +298,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "b125238b-54a9-457f-9be3-2d937baa514d",
       "identifiers": [
         {
@@ -384,6 +396,10 @@
       "id": "4688c799-618c-4401-80b8-e9d87c9e195b",
       "identifiers": [
         {
+          "identifier": "biography/Hamilton-Lavity-Stoutt",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "hamilton_lavity_stoutt",
           "scheme": "everypolitician_legacy"
         },
@@ -474,6 +490,16 @@
           "lang": "sv",
           "name": "Hamilton Lavity Stoutt",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "汉密尔顿·拉维提·斯托特",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "漢密爾頓·拉維提·斯托特",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -495,6 +521,12 @@
         {
           "identifier": "Q17198146",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/JulianFraser.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/JulianFraser.jpg"
         }
       ],
       "links": [
@@ -584,6 +616,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "44b52ad7-b048-41d1-b5be-3837c9860161",
       "identifiers": [
         {
@@ -998,6 +1031,16 @@
           "lang": "wa",
           "name": "Ralph T. O'Neal",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "拉尔夫·T·奥尼尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "拉爾夫·T·奧尼爾",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -1156,6 +1199,16 @@
         {
           "lang": "pl",
           "name": "Orlando Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "奥兰多·史密斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "奧蘭多·史密斯",
           "note": "multilingual"
         }
       ],
@@ -1326,6 +1379,11 @@
         {
           "lang": "sv",
           "name": "Willard Wheatley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "威拉德·惠特利",
           "note": "multilingual"
         }
       ],
@@ -1644,6 +1702,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -1936,6 +1999,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
@@ -2247,6 +2320,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -2539,6 +2617,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
