@@ -31,6 +31,8 @@
     "dates": [
       "1998-11-30"
     ],
+    "follows": "Syrian parliamentary election, 1994",
+    "followed_by": "Syrian parliamentary election, 2003",
     "successful_candidates": [
       "Abd al-Qadir Qaddura"
     ]
@@ -115,6 +117,8 @@
     "dates": [
       "2007-04-22"
     ],
+    "follows": "Syrian parliamentary election, 2003",
+    "followed_by": "Syrian parliamentary election, 2012",
     "successful_candidates": [
       "Mahmoud al-Abrash"
     ]
@@ -251,6 +255,8 @@
     "dates": [
       "2012-05-07"
     ],
+    "follows": "Syrian parliamentary election, 2007",
+    "followed_by": "Q22918891",
     "successful_candidates": [
       "Mohammad Jihad al-Laham"
     ]
@@ -320,6 +326,8 @@
     "dates": [
       "1994-08-24"
     ],
+    "follows": "Syrian parliamentary election, 1990",
+    "followed_by": "Syrian parliamentary election, 1998",
     "successful_candidates": [
       "Abd al-Qadir Qaddura"
     ]
@@ -356,6 +364,8 @@
     "dates": [
       "2003"
     ],
+    "follows": "Syrian parliamentary election, 1998",
+    "followed_by": "Syrian parliamentary election, 2007",
     "successful_candidates": [
       "Muhammad Naji al-Otari"
     ]
@@ -392,6 +402,8 @@
     "dates": [
       "1954-11-09"
     ],
+    "follows": "Syrian parliamentary election, 1953",
+    "followed_by": "Syrian parliamentary election, 1961",
     "successful_candidates": [
       "Faris al-Khoury"
     ]
@@ -466,6 +478,8 @@
     "dates": [
       "1961"
     ],
+    "follows": "Syrian parliamentary election, 1954",
+    "followed_by": "Syrian parliamentary election, 1973",
     "successful_candidates": [
       "Maarouf al-Dawalibi"
     ]
@@ -491,7 +505,9 @@
     ],
     "dates": [
       "1973"
-    ]
+    ],
+    "follows": "Syrian parliamentary election, 1961",
+    "followed_by": "Syrian parliamentary election, 1977"
   },
   "Q7663278": {
     "identifiers": [
@@ -514,7 +530,9 @@
     ],
     "dates": [
       "1977"
-    ]
+    ],
+    "follows": "Syrian parliamentary election, 1973",
+    "followed_by": "Syrian parliamentary election, 1981"
   },
   "Q7663281": {
     "identifiers": [
@@ -538,6 +556,8 @@
     "dates": [
       "1986"
     ],
+    "follows": "Syrian parliamentary election, 1981",
+    "followed_by": "Syrian parliamentary election, 1990",
     "successful_candidates": [
       "Mahmoud Zuabi"
     ]
@@ -564,6 +584,8 @@
     "dates": [
       "1981"
     ],
+    "follows": "Syrian parliamentary election, 1977",
+    "followed_by": "Syrian parliamentary election, 1986",
     "successful_candidates": [
       "Mahmoud Zuabi"
     ]
@@ -590,6 +612,8 @@
     "dates": [
       "1990-05-22"
     ],
+    "follows": "Syrian parliamentary election, 1986",
+    "followed_by": "Syrian parliamentary election, 1994",
     "successful_candidates": [
       "Abd al-Qadir Qaddura"
     ]
@@ -626,11 +650,17 @@
         "lang": "ar",
         "name": "الانتخابات البرلمانية السورية 2016",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הפרלמנטריות בסוריה 2016",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2016-04-13"
     ],
+    "follows": "Syrian parliamentary election, 2012",
     "office": "Member of the People's Council of Syria",
     "successful_candidates": [
       "Bashar al-Assad"
