@@ -1,4 +1,11 @@
 GIT
+  remote: git://github.com/everypolitician/everypolitician-dataview-terms.git
+  revision: c492d2247b5a5693a91f45575b5d753bbe58931c
+  specs:
+    everypolitician-dataview-terms (0.0.1)
+      everypolitician-popolo
+
+GIT
   remote: git://github.com/everypolitician/everypolitician-popolo.git
   revision: 63c7a135c8436e77f0b7c5e6d3c43f91ee11e88a
   specs:
@@ -143,6 +150,7 @@ DEPENDENCIES
   colorize
   csv_to_popolo (~> 0.26.1)!
   everypolitician!
+  everypolitician-dataview-terms!
   everypolitician-popolo (~> 0.6.0)!
   everypolitician-pull_request!
   facebook_username_extractor (~> 0.2.0)
