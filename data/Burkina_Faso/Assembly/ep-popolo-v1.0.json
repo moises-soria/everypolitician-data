@@ -6803,6 +6803,21 @@
           "lang": "ja",
           "name": "民主主義進歩会議",
           "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Congresul pentru Democrație și Progres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "הקונגרס למען הדמוקרטיה והקדמה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "爭取民主和進步大會",
+          "note": "multilingual"
         }
       ]
     },
@@ -6819,20 +6834,7 @@
     {
       "classification": "party",
       "id": "MPP",
-      "identifiers": [
-        {
-          "identifier": "Q24475758",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Mouvement du Peuple pour le Progrès",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Mouvement du peuple pour le progrès",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Mouvement du Peuple pour le Progrès"
     },
     {
       "classification": "party",
@@ -7136,6 +7138,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -7428,6 +7435,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
