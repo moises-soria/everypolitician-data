@@ -1529,10 +1529,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.statesassembly.gov.je/PublishingImages/StatesMembers/AllItems/Mezec.jpg",
+      "image": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Deputy%20Sam%20Mezec.jpg",
       "images": [
         {
-          "url": "http://www.statesassembly.gov.je/PublishingImages/StatesMembers/AllItems/Mezec.jpg"
+          "url": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Deputy%20Sam%20Mezec.jpg"
         }
       ],
       "name": "Samuel Yves Mezec",
@@ -1540,6 +1540,31 @@
       "sources": [
         {
           "url": "http://www.statesassembly.gov.je/Pages/Members.aspx?MemberId=200"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.ferguson@gov.je"
+        }
+      ],
+      "email": "s.ferguson@gov.je",
+      "family_name": "Ferguson",
+      "given_name": "Sarah Craig",
+      "id": "4252078c-044e-479f-84ee-0e303f19b294",
+      "image": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Sarah%20Ferguson.jpg",
+      "images": [
+        {
+          "url": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Sarah%20Ferguson.jpg"
+        }
+      ],
+      "name": "Sarah Craig Ferguson",
+      "sort_name": "Ferguson, Sarah Craig",
+      "sources": [
+        {
+          "url": "http://www.statesassembly.gov.je/Pages/Members.aspx?MemberId=66"
         }
       ]
     },
@@ -2224,6 +2249,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -2517,6 +2547,16 @@
           "lang": "cs",
           "name": "bez stranické příslušnosti",
           "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -2663,6 +2703,14 @@
       "on_behalf_of_id": "party/independent",
       "organization_id": "1d510d78-6049-40e3-a70d-20810d36bb24",
       "person_id": "4180d18a-6b87-4a39-ba27-0232f36dc914",
+      "role": "member"
+    },
+    {
+      "area_id": "area/island-wide",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "1d510d78-6049-40e3-a70d-20810d36bb24",
+      "person_id": "4252078c-044e-479f-84ee-0e303f19b294",
       "role": "member"
     },
     {
