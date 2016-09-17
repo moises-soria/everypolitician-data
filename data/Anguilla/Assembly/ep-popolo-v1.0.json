@@ -388,6 +388,7 @@
     },
     {
       "family_name": "RICHARDSON",
+      "gender": "male",
       "given_name": "Walcott",
       "id": "c4605562-d5c1-4920-8fda-c87ab33cafbf",
       "identifiers": [
@@ -420,6 +421,11 @@
         {
           "lang": "en",
           "name": "Anguilla Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocratique d'Anguilla",
           "note": "multilingual"
         }
       ]
@@ -495,6 +501,11 @@
           "lang": "en",
           "name": "Anguilla United Front",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front uni d'Anguilla",
+          "note": "multilingual"
         }
       ]
     },
@@ -512,6 +523,11 @@
         {
           "lang": "en",
           "name": "Anguilla United Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement uni d'Anguilla",
           "note": "multilingual"
         }
       ]
@@ -830,6 +846,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -1122,6 +1148,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
@@ -1646,19 +1682,19 @@
       "start_date": "2010"
     },
     {
-      "classification": "general election",
-      "end_date": "2015",
-      "id": "Q18162101",
-      "name": "Anguillan general election, 2015",
-      "start_date": "2015"
-    },
-    {
       "classification": "legislative period",
       "end_date": "2020",
       "id": "term/2015",
       "name": "2015–2020",
       "organization_id": "c16f16f8-7ccf-43e1-af05-2c19839c698c",
       "start_date": "2015"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-04-22",
+      "id": "Q18162101",
+      "name": "Anguillan general election, 2015",
+      "start_date": "2015-04-22"
     }
   ],
   "areas": [
