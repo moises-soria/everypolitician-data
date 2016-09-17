@@ -16232,15 +16232,36 @@
       ]
     },
     {
+      "birth_date": "1980",
+      "gender": "female",
       "id": "64de9548-5eb7-4705-8f5f-2ecceb44963f",
       "identifiers": [
         {
           "identifier": "808e8b57-acbc-4605-8050-df13df946c9e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "808e8b57-acbc-4605-8050-df13df946c9e",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q26877332",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νίκη_Φούντα"
         }
       ],
       "name": "Founta Niki",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Νίκη Φούντα",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Φούντα Νικολάου Νίκη",
@@ -29041,15 +29062,37 @@
       ]
     },
     {
+      "birth_date": "1947-03-09",
+      "death_date": "2016-09-09",
+      "gender": "male",
       "id": "36e2d96f-f0f1-49c3-9cca-53add0dc26bd",
       "identifiers": [
         {
           "identifier": "88be0083-9d92-4886-8fca-0cbea7ab9a52",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88be0083-9d92-4886-8fca-0cbea7ab9a52",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q26882122",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Κλαυδιανός"
         }
       ],
       "name": "Klavdianos Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γιώργος Κλαυδιανός",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Κλαυδιανός Ιωάννη Γεώργιος",
@@ -33583,17 +33626,41 @@
       ],
       "email": "kremastinos@parliament.gr",
       "gender": "male",
+      "given_name": "Dimitrios",
       "id": "98a9ebe9-1c3c-46dc-87e8-480e747ff155",
       "identifiers": [
         {
+          "identifier": "53877",
+          "scheme": "biblionet"
+        },
+        {
           "identifier": "53217be7-49d1-40a4-8418-a2fd20f5f791",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1094300217",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "53217be7-49d1-40a4-8418-a2fd20f5f791",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "205145970376432252846",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q19635577",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kremastinosdim_1.JPG",
       "images": [
         {
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kremastinosdim_1.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Dimitrios_Kremastinos.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/3739769214/84d9d4ccd0b0814027c19dcd4d98bf1c.jpeg"
@@ -33604,16 +33671,32 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Δημήτρης_Κρεμαστινός"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dimitrios_Kremastinos"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/KremastinosD"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/kremastinos"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kremastinos.gr/"
         }
       ],
       "name": "Kremastinos Dimitrios",
       "other_names": [
+        {
+          "name": "Dimitrios Kremastinos",
+          "note": "alternate"
+        },
         {
           "name": "Dimitris Kremastinos",
           "note": "alternate"
@@ -33624,7 +33707,27 @@
         },
         {
           "lang": "el",
+          "name": "Δημήτρης Κρεμαστινός",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
           "name": "Κρεμαστινός Θωμά Δημήτριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dimitrios Kremastinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dimitrios Kremastinos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dimitrios Kremastinos",
           "note": "multilingual"
         }
       ],
@@ -38339,6 +38442,7 @@
       ]
     },
     {
+      "birth_date": "1977-01-21",
       "contact_details": [
         {
           "type": "email",
@@ -38356,6 +38460,14 @@
         {
           "identifier": "d0c92cb2-58d0-4d81-bc51-0e169cccb9c4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "d0c92cb2-58d0-4d81-bc51-0e169cccb9c4",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q26868971",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kmarkou_1.jpg",
@@ -38369,6 +38481,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κατερίνα_Μάρκου"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/kat_markou"
         }
@@ -38378,6 +38494,11 @@
         {
           "name": "Katerina Markou",
           "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Κατερίνα Μάρκου",
+          "note": "multilingual"
         },
         {
           "lang": "el",
