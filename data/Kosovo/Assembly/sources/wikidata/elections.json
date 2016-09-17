@@ -50,7 +50,8 @@
     ],
     "dates": [
       "2010-12-12"
-    ]
+    ],
+    "followed_by": "2014 Kosovan parliamentary election"
   },
   "Q821029": {
     "identifiers": [
@@ -84,6 +85,8 @@
     "dates": [
       "2007-11-17"
     ],
+    "follows": "Kosovan parliamentary election, 2004",
+    "followed_by": "2010 Kosovan parliamentary election",
     "office": "Prime Minister of Kosovo",
     "successful_candidates": [
       "Hashim Thaçi"
@@ -177,10 +180,21 @@
         "lang": "zh",
         "name": "2014年科索沃國會選舉",
         "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "2014年科索沃議會選舉",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "2014年科索沃议会选举",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2014-06-08"
-    ]
+    ],
+    "follows": "2010 Kosovan parliamentary election"
   }
 }
