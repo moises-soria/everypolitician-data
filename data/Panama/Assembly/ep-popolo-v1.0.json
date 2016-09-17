@@ -1843,6 +1843,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -2135,6 +2140,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
@@ -2979,7 +2994,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/4-6",
+      "area_id": "area/4-3",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/partido_cambio_democrático",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
