@@ -375,6 +375,7 @@
         }
       ],
       "email": "kwilson@parliament.bm",
+      "gender": "female",
       "id": "ad61ceea-0ab4-4b17-9b69-ea36c3cd6793",
       "identifiers": [
         {
@@ -1065,6 +1066,11 @@
   "organizations": [
     {
       "classification": "party",
+      "id": "IND",
+      "name": "IND"
+    },
+    {
+      "classification": "party",
       "id": "Independent",
       "identifiers": [
         {
@@ -1365,6 +1371,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -1658,6 +1669,16 @@
           "lang": "cs",
           "name": "bez stranické příslušnosti",
           "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -1841,7 +1862,7 @@
     {
       "area_id": "31",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "OBA",
+      "on_behalf_of_id": "IND",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
       "person_id": "22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
       "role": "member"
