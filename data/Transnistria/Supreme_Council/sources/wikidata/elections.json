@@ -64,6 +64,8 @@
     "dates": [
       "2005"
     ],
+    "follows": "Transnistrian legislative election, 2000",
+    "followed_by": "Transnistrian legislative election, 2010",
     "successful_candidates": [
       "Yevgeny Shevchuk"
     ]
@@ -90,6 +92,8 @@
     "dates": [
       "2010"
     ],
+    "follows": "Transnistrian legislative election, 2005",
+    "followed_by": "Transnistrian legislative election, 2015",
     "successful_candidates": [
       "Anatoliy Kaminski"
     ]
@@ -116,10 +120,16 @@
         "lang": "el",
         "name": "Βουλευτικές εκλογές στην Υπερδνειστερία 2015",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Выборы в Верховный Совет Приднестровской Молдавской Республики",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2015-11-29"
-    ]
+    ],
+    "follows": "Transnistrian legislative election, 2010"
   }
 }
