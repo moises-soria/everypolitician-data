@@ -1,4 +1,5 @@
 
+require 'everypolitician'
 require 'fileutils'
 require 'pathname'
 require 'pry'
@@ -26,9 +27,8 @@ task 'countries.json' do
   # we only build any country that contains that string. For example:
   #    EP_COUNTRY_REFRESH=Latvia be rake countries.json
   to_build = ENV['EP_COUNTRY_REFRESH'] || 'data'
-
-  countries = @HOUSES.group_by { |h| h.split('/')[1] }.select do |_, hs|
-    hs.any? { |h| h.include? to_build }
+  countries = EveryPolitician.countries.select do |c|
+    c.slug.downcase.include? to_build.downcase
   end
 
   data = json_load('countries.json') rescue {}
@@ -36,13 +36,16 @@ task 'countries.json' do
   # it's much faster to pass the single directory 'data' than a list
   # of every country directory:
   commit_metadata = file_to_commit_metadata(
-    to_build == 'data' ? ['data'] : countries.values.flatten
+    to_build == 'data' ?
+      ['data'] :
+      countries.flat_map(&:legislatures).map { |l| 'data/' + l.directory }
   )
 
-  countries.each do |c, hs|
+  countries.each do |c|
     country = Everypolitician::Country::Metadata.new(
-      country: c,
-      dirs: hs,
+      # TODO: change this to accept an EveryPolitician::Country
+      country: c.name,
+      dirs: c.legislatures.map { |l| 'data/' + l.directory },
       commit_metadata: commit_metadata,
     ).stanza
     data[data.find_index { |c| c[:name] == country[:name] }] = country
