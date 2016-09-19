@@ -1,65 +1,21 @@
 require 'everypolitician/popolo'
 require 'json5'
+require 'everypolitician/dataview/terms'
 
 desc 'Build the term-table CSVs'
 task csvs: ['term_csvs:term_tables', 'term_csvs:name_list', 'term_csvs:positions', 'term_csvs:reports']
 
 CLEAN.include('term-*.csv', 'names.csv')
+@json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
+@popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
 
 namespace :term_csvs do
-  def tidy_facebook_link(page)
-    # CSV-to-Popolo runs these through FacebookUsernameExtractor, so
-    # we can just strip off the prefix
-    return if page.to_s.empty?
-    page.sub('https://facebook.com/', '')
-  end
-
-  require 'csv'
   desc 'Generate the Term Tables'
   task term_tables: 'ep-popolo-v1.0.json' do
-    @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
-    @popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
-
-    # For quicker lookup. TODO: use fast EP::Popolo searches
-    people = popolo.persons.group_by(&:id)
-    orgs   = popolo.organizations.group_by(&:id)
-    terms  = popolo.terms.group_by(&:id)
-    areas  = popolo.areas.group_by(&:id)
-
-    data = popolo.memberships.select(&:legislative_period_id).map do |m|
-      person = people[m.person_id].first
-      group  = orgs[m.on_behalf_of_id].first
-      house  = orgs[m.organization_id].first
-      term   = terms[m.legislative_period_id].first
-
-      {
-        id:         person.id.split('/').last,
-        name:       person.name_at(m.end_date || term.end_date),
-        sort_name:  person.sort_name,
-        email:      person.email,
-        twitter:    person.twitter,
-        facebook:   tidy_facebook_link(person.facebook),
-        group:      group.name,
-        group_id:   group.id.split('/').last,
-        area_id:    m.area_id,
-        area:       m.area_id && areas[m.area_id].first.name,
-        chamber:    house.name,
-        term:       term.id.split('/').last,
-        start_date: m.start_date,
-        end_date:   m.end_date,
-        image:      person.image,
-        gender:     person.gender,
-      }
-    end
-
-    terms = data.group_by { |r| r[:term] }
-    warn "Creating #{terms.count} term file#{terms.count > 1 ? 's' : ''}"
-    terms.each do |t, rs|
-      filename = "term-#{t}.csv"
-      header = rs.first.keys.to_csv
-      rows   = rs.portable_sort_by { |r| [r[:name], r[:id], r[:start_date].to_s, r[:area].to_s] }.map { |r| r.values.to_csv }
-      csv    = [header, rows].compact.join
-      File.write(filename, csv)
+    view = EveryPolitician::Dataview::Terms.new(popolo: @popolo)
+    view.terms.each do |term|
+      path = Pathname.new('term-%s.csv' % term.id)
+      path.write(term.as_csv)
     end
   end
 

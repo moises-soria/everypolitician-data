@@ -24,6 +24,7 @@ gem 'rcsv'
 gem 'require_all'
 gem 'close_old_pull_requests', git: 'https://github.com/everypolitician/close_old_pull_requests', branch: 'master'
 gem 'everypolitician-pull_request', git: 'https://github.com/everypolitician/everypolitician-pull_request', branch: 'master'
+gem 'everypolitician-dataview-terms', github: 'everypolitician/everypolitician-dataview-terms'
 
 group :test do
   gem 'minitest'
