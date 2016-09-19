@@ -13195,6 +13195,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "/g/122nnzlv",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "0000 0000 7853 867X",
           "scheme": "isni"
         },
@@ -18786,6 +18790,10 @@
         {
           "type": "email",
           "value": "rait.maruste@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316614"
         }
       ],
       "email": "rait.maruste@riigikogu.ee",
@@ -18797,6 +18805,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "e3daca91-fbe7-4157-a72c-e87cda4565e1",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "50710147",
           "scheme": "viaf"
         },
@@ -18805,8 +18817,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RE_Rait_Maruste.jpg",
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/7059252b-9663-457c-bab5-5708989fc289.jpg",
       "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/7059252b-9663-457c-bab5-5708989fc289.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RE_Rait_Maruste.jpg"
         }
@@ -18823,6 +18838,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Rait_Maruste"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/100008839053633"
         }
       ],
       "name": "Rait Maruste",
@@ -18916,6 +18935,11 @@
           "lang": "sv",
           "name": "Rait Maruste",
           "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/e3daca91-fbe7-4157-a72c-e87cda4565e1/Rait-Maruste"
         }
       ]
     },
