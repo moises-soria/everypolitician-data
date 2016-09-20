@@ -6,12 +6,11 @@ desc 'Build the term-table CSVs'
 task csvs: ['term_csvs:term_tables', 'term_csvs:name_list', 'term_csvs:positions', 'term_csvs:reports']
 
 CLEAN.include('term-*.csv', 'names.csv')
-@json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
-@popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
 
 namespace :term_csvs do
   desc 'Generate the Term Tables'
   task term_tables: 'ep-popolo-v1.0.json' do
+    @popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
     view = EveryPolitician::Dataview::Terms.new(popolo: @popolo)
     view.terms.each do |term|
       path = Pathname.new('term-%s.csv' % term.id)
@@ -20,6 +19,8 @@ namespace :term_csvs do
   end
 
   task top_identifiers: :term_tables do
+    # TODO: switch to using @popolo here
+    @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
     top_identifiers = @json[:persons].map { |p| (p[:identifiers] || []).map { |i| i[:scheme] } }.flatten
                                      .reject { |i| i == 'everypolitician_legacy' }
                                      .group_by { |i| i }
@@ -37,6 +38,7 @@ namespace :term_csvs do
   end
 
   task name_list: :top_identifiers do
+    # TODO: switch to using @popolo here
     names = @json[:persons].flat_map do |p|
       nameset = Set.new([p[:name]])
       nameset.merge (p[:other_names] || []).map { |n| n[:name] }
@@ -52,6 +54,7 @@ namespace :term_csvs do
 
   desc 'Add some final reporting information'
   task reports: :term_tables do
+    # TODO: switch to using @popolo here
     wikidata_persons = @json[:persons].partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
     wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }
                                             .reject { |p| p[:name].downcase == 'unknown' }
