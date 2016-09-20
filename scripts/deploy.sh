@@ -1,4 +1,12 @@
 #!/usr/bin/env bash
+#
+# This script is very similar to, but not exactly the same as
+# `scripts/release.sh` in viewer-sinatra. Any significant changes to this
+# script might also need to be made there as well. It may also get to a point
+# where we want to combine the scripts into a shared repository, but for now
+# they're different enough to keep separate, I think.
+#
+# @see https://git.io/viyyo
 
 set -eo pipefail
 
