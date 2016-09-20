@@ -21,7 +21,7 @@ build_viewer_static() {
 
 deploy_viewer_static() {
   cd /tmp
-  git clone https://github.com/everypolitician/viewer-static.git
+  git clone --depth=1 https://github.com/everypolitician/viewer-static.git
   cd viewer-static
   git checkout gh-pages
   cp -R /tmp/localhost:4567/* .
