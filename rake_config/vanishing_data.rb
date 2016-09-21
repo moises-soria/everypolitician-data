@@ -8,7 +8,7 @@ class SourceCSV
   end
 
   def rows(*kk)
-    kk.map { |k| grouped[k].first }
+    kk.flat_map { |k| grouped[k] }
   end
 
   private
