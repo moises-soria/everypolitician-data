@@ -11,6 +11,11 @@
       "type": "membership"
     },
     {
+      "file": "manual/vanished.csv",
+      "source": "https://en.wikipedia.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/images.csv",
       "create": {
         "from": "morph",
