@@ -8156,6 +8156,25 @@
       "patronymic_name": "Іванович"
     },
     {
+      "family_name": "Данілін",
+      "given_name": "Владислав",
+      "id": "16b2af38-1f85-4359-aec8-94b02887e4a4",
+      "identifiers": [
+        {
+          "identifier": "20121",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/nf79.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/nf79.jpg"
+        }
+      ],
+      "name": "Данілін Владислав Юрійович",
+      "patronymic_name": "Юрійович"
+    },
+    {
       "birth_date": "1987-07-12",
       "family_name": "Дейдей",
       "gender": "male",
@@ -34942,6 +34961,15 @@
       "person_id": "16715574-db3c-49bf-bb16-e3aacd13e10c",
       "role": "member",
       "start_date": "2016-09-06"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "16b2af38-1f85-4359-aec8-94b02887e4a4",
+      "role": "member",
+      "start_date": "2016-09-20"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
