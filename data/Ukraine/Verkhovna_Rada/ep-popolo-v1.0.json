@@ -3513,13 +3513,19 @@
       "patronymic_name": "Борисович"
     },
     {
+      "birth_date": "1972",
       "family_name": "Богдан",
+      "gender": "male",
       "given_name": "Руслан",
       "id": "f4161865-7803-4af8-ab4b-9f1a19eab9e7",
       "identifiers": [
         {
           "identifier": "11173",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q7380984",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d151_2.jpg",
@@ -3528,7 +3534,54 @@
           "url": "http://static.rada.gov.ua/dep_img8/d151_2.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ruslan_Bogdan"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Богдан_Руслан_Дмитрович"
+        }
+      ],
       "name": "Богдан Руслан Дмитрович",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ruslan Bogdan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ruslan Bogdan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ruslan Bogdan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ruslan Bogdan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ruslan Bogdan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ruslan Bogdan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Богдан Руслан Дмитрович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Дмитрович"
     },
     {
@@ -8154,6 +8207,25 @@
         }
       ],
       "patronymic_name": "Іванович"
+    },
+    {
+      "family_name": "Данілін",
+      "given_name": "Владислав",
+      "id": "16b2af38-1f85-4359-aec8-94b02887e4a4",
+      "identifiers": [
+        {
+          "identifier": "20121",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/nf79.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/nf79.jpg"
+        }
+      ],
+      "name": "Данілін Владислав Юрійович",
+      "patronymic_name": "Юрійович"
     },
     {
       "birth_date": "1987-07-12",
@@ -18560,22 +18632,57 @@
       "patronymic_name": "Нодарович"
     },
     {
+      "birth_date": "1980-09-13",
       "family_name": "Микитась",
+      "gender": "male",
       "given_name": "Максим",
       "id": "b3bb9791-523b-4e17-b2c5-b3b967dd85ee",
       "identifiers": [
         {
           "identifier": "20107",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q22953373",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d206_2.jpg",
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d206_2.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mikitas.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Микитась,_Максим_Викторович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Микитась_Максим_Вікторович"
         }
       ],
       "name": "Микитась Максим Вікторович",
+      "other_names": [
+        {
+          "name": "Микитась, Максим Вікторович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Микитась, Максим Викторович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Микитась, Максим Вікторович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Вікторович"
     },
     {
@@ -20584,22 +20691,85 @@
       "patronymic_name": "Леонідівна"
     },
     {
+      "birth_date": "1960-04-05",
       "family_name": "Одарченко",
+      "gender": "male",
       "given_name": "Юрій",
       "id": "0b1dca15-008b-49f7-bb61-185479544ad3",
       "identifiers": [
         {
           "identifier": "8832",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q1708369",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d183_2.jpg",
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d183_2.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yuriy_Odarchenko.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Juri_Odartschenko"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yuriy_Odarchenko"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Одарченко,_Юрий_Витальевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Одарченко_Юрій_Віталійович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/kmpointernet"
         }
       ],
       "name": "Одарченко Юрій Віталійович",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Juri Odartschenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yuriy Odarchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Juri Odartschenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yuriy Odarchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Одарченко, Юрий Витальевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Одарченко Юрій Віталійович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Віталійович"
     },
     {
@@ -23634,12 +23804,17 @@
     },
     {
       "family_name": "Ричкова",
+      "gender": "female",
       "given_name": "Тетяна",
       "id": "5ed689cd-19b0-478b-b4bd-ac4e0025b966",
       "identifiers": [
         {
           "identifier": "20105",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q25438057",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d27_2.jpg",
@@ -23648,7 +23823,24 @@
           "url": "http://static.rada.gov.ua/dep_img8/d27_2.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Рычкова,_Татьяна_Борисовна"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Ричкова_Тетяна_Борисівна"
+        }
+      ],
       "name": "Ричкова Тетяна Борисівна",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Ричкова Тетяна Борисівна",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Борисівна"
     },
     {
@@ -30748,22 +30940,44 @@
       "patronymic_name": "Анатолійович"
     },
     {
+      "birth_date": "1975-05-07",
       "family_name": "Шахов",
+      "gender": "male",
       "given_name": "Сергій",
       "id": "44c45b5a-2af0-4f6c-bf34-0ef3f0f6840c",
       "identifiers": [
         {
           "identifier": "20106",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q17372415",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d114_2.jpg",
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d114_2.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Shahov_SV.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Шахов_Сергій_Володимирович"
         }
       ],
       "name": "Шахов Сергій Володимирович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Шахов Сергій Володимирович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Володимирович"
     },
     {
@@ -34942,6 +35156,15 @@
       "person_id": "16715574-db3c-49bf-bb16-e3aacd13e10c",
       "role": "member",
       "start_date": "2016-09-06"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "16b2af38-1f85-4359-aec8-94b02887e4a4",
+      "role": "member",
+      "start_date": "2016-09-20"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
