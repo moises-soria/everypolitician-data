@@ -26,9 +26,9 @@ GIT
 
 GIT
   remote: git://github.com/everypolitician/wikisnakker.git
-  revision: c2895a600fb78b2ad0df3e8ae3d24b4586a94179
+  revision: 3c438db2bb6ac10660d4e03adcbeae35d5834b3a
   specs:
-    wikisnakker (0.6.0)
+    wikisnakker (0.7.0)
 
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
@@ -173,7 +173,7 @@ DEPENDENCIES
   unicode_utils
   vcr
   webmock
-  wikisnakker (~> 0.6.0)!
+  wikisnakker (~> 0.7.0)!
   yajl-ruby
 
 BUNDLED WITH

@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/lativa-saeima",
-        "query": "SELECT * FROM data WHERE term = '12'"
+        "query": "SELECT * FROM data WHERE term = '12' ORDER BY id"
       },
       "source": "http://www.saeima.lv/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/lativa-saeima",
-        "query": "SELECT * FROM data WHERE term = 11"
+        "query": "SELECT * FROM data WHERE term = 11 ORDER BY id"
       },
       "merge": {
         "incoming_field": "name",
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/lativa-saeima",
-        "query": "SELECT * FROM data WHERE term = 10"
+        "query": "SELECT * FROM data WHERE term = 10 ORDER BY id"
       },
       "merge": {
         "incoming_field": "name",
@@ -45,7 +45,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/latvia-saeima-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",

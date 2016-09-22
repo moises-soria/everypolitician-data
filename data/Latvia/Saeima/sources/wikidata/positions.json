@@ -144,12 +144,37 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2004-07-20",
+        "P582": "2009-03-11",
+        "P1366": "Liene Liepiņa"
+      }
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2014-07-01",
+        "P582": "2014-11-01",
+        "P1366": "Inese Vaidere"
+      }
     },
     {
       "id": "Q21191589",
       "label": "deputy of Saeima",
       "title": "deputy of Saeima"
+    },
+    {
+      "id": "Q1736874",
+      "label": "European Commissioner for Internal Market and Services",
+      "title": "European Commissioner for Internal Market and Services",
+      "qualifiers": {
+        "P580": "2016-07-16",
+        "P1365": "Jonathan Hill, Baron Hill of Oareford"
+      }
     }
   ],
   "Q2340280": [
