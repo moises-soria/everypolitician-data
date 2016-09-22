@@ -2154,18 +2154,18 @@
     "name": "Congo-Kinshasa (DRC)",
     "country": "Congo-Kinshasa (DRC)",
     "code": "CD",
-    "slug": "Congo-Kinshasa",
+    "slug": "Congo-Kinshasa-(DRC)",
     "legislatures": [
       {
         "name": "National Assembly",
         "slug": "Assembly",
         "sources_directory": "data/Congo-Kinshasa/Assembly/sources",
         "popolo": "data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2eb214007732dfb98ac6bcbbbe4c4d9fcc97f4ef/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/409dfdc01d7538ea4453bc8862d72addc94530d9/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
         "names": "data/Congo-Kinshasa/Assembly/names.csv",
-        "lastmod": "1472727906",
+        "lastmod": "1474583123",
         "person_count": 498,
-        "sha": "2eb214007732dfb98ac6bcbbbe4c4d9fcc97f4ef",
+        "sha": "409dfdc01d7538ea4453bc8862d72addc94530d9",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -2176,7 +2176,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47087463bdf1ecbad42a9792df0c2b1b89b90353/data/Congo-Kinshasa/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 6862
+        "statement_count": 6871
       }
     ]
   },
