@@ -71,12 +71,7 @@
       "type": "ocd"
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/australia-openaustralia",
-        "query": "SELECT * FROM terms ORDER BY id"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
