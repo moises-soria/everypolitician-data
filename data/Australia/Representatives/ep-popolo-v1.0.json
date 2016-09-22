@@ -472,10 +472,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2Y/upload_ref_binary/m2y.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2Y/upload_ref_binary/M2Y.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2Y/upload_ref_binary/m2y.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2Y/upload_ref_binary/M2Y.jpg"
         }
       ],
       "links": [
@@ -35553,11 +35553,22 @@
     },
     {
       "birth_date": "1954-05-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.hanson@aph.gov.au"
+        }
+      ],
+      "email": "senator.hanson@aph.gov.au",
       "family_name": "Hanson",
       "gender": "female",
       "given_name": "Pauline",
       "id": "7d98e68b-a83b-40f7-9b9f-4b4b131e5554",
       "identifiers": [
+        {
+          "identifier": "BK6",
+          "scheme": "aph"
+        },
         {
           "identifier": "10280",
           "scheme": "everypolitician_legacy"
@@ -36415,10 +36426,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AKI/upload_ref_binary/00AKI.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AKI/upload_ref_binary/00AKI.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AKI/upload_ref_binary/00AKI.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AKI/upload_ref_binary/00AKI.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peter_Dutton_Portrait.jpg"
@@ -63664,6 +63675,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2016-05-09",
       "id": "term/44",
       "name": "44th Parliament",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",

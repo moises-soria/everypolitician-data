@@ -4,8 +4,8 @@
       "file": "morph/openaustralia.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/australia-openaustralia",
-        "query": "SELECT *, id AS identifier__openaustralia FROM data ORDER BY id"
+        "scraper": "everypolitician-scrapers/australia-openaustralia",
+        "query": "SELECT *, id AS identifier__openaustralia FROM data WHERE term != '45' ORDER BY id"
       },
       "source": "http://data.openaustralia.org/",
       "type": "membership"
@@ -71,12 +71,7 @@
       "type": "ocd"
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/australia-openaustralia",
-        "query": "SELECT * FROM terms ORDER BY id"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
