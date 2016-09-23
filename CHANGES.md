@@ -1,4 +1,9 @@
-﻿# This file documents substantial changes to the format of data files
+﻿# This file documents substantial changes to the format of data files
+
+2016-09-23
+
+* Wikidata references are no longer at the top level of legislative
+period `Event`s, but now correctly included as `identifiers`
 
 2016-07-26
 
