@@ -978,6 +978,7 @@
       ]
     },
     {
+      "birth_date": "1976-06-14",
       "contact_details": [
         {
           "type": "email",
@@ -993,7 +994,15 @@
         }
       ],
       "email": "antoniocorre76@gmail.com",
+      "gender": "male",
+      "given_name": "Antonio",
       "id": "1839ad5e-5b3f-48c7-8b0e-ba413ce458de",
+      "identifiers": [
+        {
+          "identifier": "Q5698082",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.secretariasenado.gov.co/images/banners/Antonio%20Jose%20Correa%20Jimenez.jpg",
       "images": [
         {
@@ -1004,6 +1013,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Antonio_Correa"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/antonio.correajimenez.5"
@@ -1020,8 +1033,32 @@
       "name": "ANTONIO JOSÉ CORREA JIMÉNEZ",
       "other_names": [
         {
+          "name": "Antonio Correa",
+          "note": "alternate"
+        },
+        {
           "name": "antoniocorrea",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antonio Correa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Antonio Correa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Antonio Correa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Antonio Correa",
+          "note": "multilingual"
         }
       ],
       "sources": [
