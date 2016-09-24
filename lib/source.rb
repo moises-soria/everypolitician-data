@@ -87,7 +87,4 @@ module Source
       File.read(filename)
     end
   end
-
-  class Corrections < PlainCSV
-  end
 end
