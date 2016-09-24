@@ -171,16 +171,6 @@ module Source
     end
   end
 
-  class Gender < PlainCSV
-    def converter(h)
-      h == 'uuid' ? :string : :int
-    end
-
-    def fields
-      %i(gender)
-    end
-  end
-
   class Term < PlainCSV
   end
 
