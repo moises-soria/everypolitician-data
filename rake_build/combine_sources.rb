@@ -65,7 +65,7 @@ namespace :merge_sources do
     merged_rows = []
 
     # First get all the `membership` rows, and either merge or concat
-    @SOURCES.select(&:is_memberships?).each do |src|
+    @INSTRUCTIONS.sources_of_type('membership').each do |src|
       warn "Add memberships from #{src.filename}".green
 
       incoming_data = src.as_table

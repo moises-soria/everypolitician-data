@@ -36,10 +36,6 @@ module Source
       i(:merge)
     end
 
-    def is_memberships?
-      false
-    end
-
     def is_bios?
       false
     end
@@ -149,10 +145,6 @@ module Source
   end
 
   class Membership < CSV
-    def is_memberships?
-      true
-    end
-
     def id_map
       id_mapper.mapping
     end
