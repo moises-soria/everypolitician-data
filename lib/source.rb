@@ -88,9 +88,6 @@ module Source
     end
   end
 
-  class Area < JSON
-  end
-
   class Elections < JSON
   end
 
