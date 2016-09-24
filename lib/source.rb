@@ -88,9 +88,6 @@ module Source
     end
   end
 
-  class Group < JSON
-  end
-
   class Area < JSON
   end
 
