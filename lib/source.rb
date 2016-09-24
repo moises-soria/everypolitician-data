@@ -52,6 +52,10 @@ module Source
       false
     end
 
+    def recreateable?
+      i(:create)
+    end
+
     # private
     REMAP = {
       area:            %w(constituency region district place),

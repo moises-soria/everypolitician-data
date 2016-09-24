@@ -170,8 +170,8 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :election_info
   task election_info: :load do
-    instructions(:sources).select { |src| src[:type].to_s.downcase == 'wikidata-elections' }.each do |src|
-      elections = JSON.parse(File.read(src[:file]), symbolize_names: true)
+    @SOURCES.select { |src| src.type.to_s.downcase == 'wikidata-elections' }.each do |src|
+      elections = src.as_json
       elections.each do |id, data|
         name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for #{id}"
         dates = [data[:dates], data[:start_date], data[:end_date]].flatten.compact.sort
@@ -195,8 +195,8 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :area_wikidata
   task area_wikidata: :load do
-    instructions(:sources).select { |src| src[:type].to_s.downcase == 'area-wikidata' }.each do |src|
-      area_data = JSON.parse(File.read(src[:file]), symbolize_names: true)
+    @SOURCES.select { |src| src.type.to_s.downcase == 'area-wikidata' }.each do |src|
+      area_data = src.as_json
       @json[:areas].each do |area|
         next unless area[:type] == 'constituency'
         # FIXME: This doesn't do a deep merge. Nested arrays will be clobbered
@@ -210,8 +210,8 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :group_wikidata
   task group_wikidata: :load do
-    instructions(:sources).select { |src| src[:type].to_s.downcase == 'group' }.each do |src|
-      group_data = JSON.parse(File.read(src[:file]), symbolize_names: true)
+    @SOURCES.select { |src| src.type.to_s.downcase == 'group' }.each do |src|
+      group_data = src.as_json
       @json[:organizations].select { |o| o[:classification] == 'party' }.each do |org|
         # FIXME: This doesn't do a deep merge, so any nested arrays on 'org'
         # will be clobbered if they appear in 'group_data'.

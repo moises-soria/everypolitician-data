@@ -109,32 +109,11 @@ end
 
 @SOURCE_DIR = 'sources/manual'
 @DATA_FILE = @SOURCE_DIR + '/members.csv'
-@INSTRUCTIONS_FILE = 'sources/instructions.json'
+@INSTRUCTIONS_FILE = Pathname.new('sources/instructions.json')
+raise("Can't read #{@INSTRUCTIONS_FILE}") unless @INSTRUCTIONS_FILE.exist?
 
-def clean_instructions_file
-  json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
-end
-
-def write_instructions(instr)
-  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
-end
-
-def load_instructions_file
-  json = clean_instructions_file
-  json[:sources].each do |s|
-    s[:file] = 'sources/%s' % s[:file] unless s[:file][/sources/]
-  end
-  json
-end
-
-def instructions(key)
-  @instructions ||= load_instructions_file
-  @instructions[key]
-end
-
-def sources
-  @sources ||= instructions(:sources).map { |s| Source::Base.instantiate(s) }
-end
+@INSTRUCTIONS = Instructions.new(@INSTRUCTIONS_FILE)
+@SOURCES = @INSTRUCTIONS.sources
 
 desc 'Rebuild from source data'
 task rebuild: [:clobber, 'ep-popolo-v1.0.json']
