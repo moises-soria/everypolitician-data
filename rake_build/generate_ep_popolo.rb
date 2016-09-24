@@ -170,7 +170,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :election_info
   task election_info: :load do
-    @SOURCES.select { |src| src.type.to_s.downcase == 'wikidata-elections' }.each do |src|
+    @INSTRUCTIONS.sources_of_type('wikidata-elections').each do |src|
       elections = src.as_json
       elections.each do |id, data|
         name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for #{id}"
@@ -195,7 +195,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :area_wikidata
   task area_wikidata: :load do
-    @SOURCES.select { |src| src.type.to_s.downcase == 'area-wikidata' }.each do |src|
+    @INSTRUCTIONS.sources_of_type('area-wikidata').each do |src|
       area_data = src.as_json
       @json[:areas].each do |area|
         next unless area[:type] == 'constituency'
@@ -210,7 +210,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :group_wikidata
   task group_wikidata: :load do
-    @SOURCES.select { |src| src.type.to_s.downcase == 'group' }.each do |src|
+    @INSTRUCTIONS.sources_of_type('group').each do |src|
       group_data = src.as_json
       @json[:organizations].select { |o| o[:classification] == 'party' }.each do |org|
         # FIXME: This doesn't do a deep merge, so any nested arrays on 'org'

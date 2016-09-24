@@ -143,7 +143,7 @@ namespace :merge_sources do
     end
 
     # Gender information from Gender-Balance.org
-    if gb = @SOURCES.find { |src| src.type.downcase == 'gender' }
+    @INSTRUCTIONS.sources_of_type('gender').each do |gb|
       warn "Adding GenderBalance results from #{gb.filename}".green
       results = GenderBalancer.new(gb.as_table).results
       gb_score = gb_added = 0
@@ -166,7 +166,7 @@ namespace :merge_sources do
     end
 
     # Map Areas
-    if area = @SOURCES.find { |src| src.type.downcase == 'ocd' }
+    @INSTRUCTIONS.sources_of_type('ocd').each do |area|
       warn "Adding OCD areas from #{area.filename}".green
       ocds = area.as_table.group_by { |r| r[:id] }
 
@@ -202,7 +202,7 @@ namespace :merge_sources do
     end
 
     # Any local corrections in manual/corrections.csv
-    if corrs = @SOURCES.find { |src| src.type.downcase == 'corrections' }
+    @INSTRUCTIONS.sources_of_type('corrections').each do |corrs|
       warn "Applying local corrections from #{corrs.filename}".green
       corrs.as_table.each do |correction|
         rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] }
