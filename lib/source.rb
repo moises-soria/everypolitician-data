@@ -36,19 +36,7 @@ module Source
       i(:merge)
     end
 
-    def is_memberships?
-      false
-    end
-
-    def is_wikidata?
-      false
-    end
-
-    def is_bios?
-      false
-    end
-
-    def has_people?
+    def person_data?
       false
     end
 
@@ -157,14 +145,6 @@ module Source
   end
 
   class Membership < CSV
-    def is_memberships?
-      true
-    end
-
-    def has_people?
-      true
-    end
-
     def id_map
       id_mapper.mapping
     end
@@ -200,11 +180,7 @@ module Source
   end
 
   class Person < CSV
-    def is_bios?
-      true
-    end
-
-    def has_people
+    def person_data?
       true
     end
   end
@@ -212,10 +188,6 @@ module Source
   class Wikidata < Person
     def fields
       super << :identifier__wikidata
-    end
-
-    def is_wikidata?
-      true
     end
 
     def reconciliation_file
