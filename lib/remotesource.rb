@@ -5,7 +5,7 @@ require 'csv'
 class RemoteSource
   # Instantiate correct subclass based on instructions
   def self.instantiate(i)
-    c = i[:create]
+    c = i.i(:create)
     return RemoteSource::URL.new(i)                if c.key? :url
     return RemoteSource::Morph.new(i)              if c[:from] == 'morph'
     return RemoteSource::Parlparse.new(i)          if c[:from] == 'parlparse'
@@ -23,7 +23,7 @@ class RemoteSource
   end
 
   def i(k)
-    @instructions[k.to_sym]
+    @instructions.i(k.to_sym)
   end
 
   def c(k)
