@@ -88,9 +88,6 @@ module Source
     end
   end
 
-  class Term < PlainCSV
-  end
-
   class Group < JSON
   end
 
