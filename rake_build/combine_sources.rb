@@ -30,22 +30,22 @@ namespace :merge_sources do
     combine_sources
   end
 
-  @recreatable = instructions(:sources).select { |i| i.key? :create }
-  CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
+  @recreatable = @INSTRUCTIONS.sources.select(&:recreateable?)
+  CLOBBER.include FileList.new(@recreatable.map(&:filename))
 
   CLEAN.include MERGED_CSV
 
   # We re-fetch any file that is missing, or, if REBUILD_SOURCE is set,
   # any file that matches that.
   def _should_refetch(file)
-    return true unless File.exist?(file)
+    return true unless file.exist?
     return false unless ENV['REBUILD_SOURCE']
     file.include? ENV['REBUILD_SOURCE']
   end
 
   def fetch_missing
     @recreatable.each do |i|
-      RemoteSource.instantiate(i).regenerate if _should_refetch(i[:file])
+      RemoteSource.instantiate(i).regenerate if _should_refetch(i.filename)
     end
   end
 
