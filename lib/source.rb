@@ -98,11 +98,6 @@ module Source
     end
   end
 
-  class Person < CSV
-    def person_data?
-      true
-    end
-  end
 
   class Wikidata < Person
     def fields
