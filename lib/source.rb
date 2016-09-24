@@ -44,10 +44,6 @@ module Source
       false
     end
 
-    def has_people?
-      false
-    end
-
     def recreateable?
       i(:create)
     end
@@ -157,10 +153,6 @@ module Source
       true
     end
 
-    def has_people?
-      true
-    end
-
     def id_map
       id_mapper.mapping
     end
@@ -197,10 +189,6 @@ module Source
 
   class Person < CSV
     def is_bios?
-      true
-    end
-
-    def has_people
       true
     end
   end
