@@ -36,7 +36,7 @@ module Source
       i(:merge)
     end
 
-    def is_bios?
+    def person_data?
       false
     end
 
@@ -180,7 +180,7 @@ module Source
   end
 
   class Person < CSV
-    def is_bios?
+    def person_data?
       true
     end
   end

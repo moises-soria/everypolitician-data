@@ -93,9 +93,8 @@ namespace :merge_sources do
 
     end
 
-    # Then merge with Biographical data files
-
-    @SOURCES.select(&:is_bios?).each do |src|
+    # Then merge with sources of plain Person data (i.e Person or Wikidata)
+    @SOURCES.select(&:person_data?).each do |src|
       warn "Merging with #{src.filename}".green
 
       incoming_data = src.as_table
