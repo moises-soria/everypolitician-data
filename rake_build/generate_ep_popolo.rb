@@ -77,7 +77,10 @@ namespace :transform do
         name:            row['name'],
         start_date:      row['start_date'],
         end_date:        row['end_date'],
-        wikidata:        row['wikidata'],
+        identifiers:     row['wikidata'].to_s.empty? ? [] : [{
+          scheme:     'wikidata',
+          identifier: row['wikidata']
+        }],
         classification:  'legislative period',
         organization_id: @legislature[:id],
       }.reject { |_, v| v.nil? || v.empty? }
