@@ -115,10 +115,6 @@ raise("Can't read #{@INSTRUCTIONS_FILE}") unless @INSTRUCTIONS_FILE.exist?
 @INSTRUCTIONS = Instructions.new(@INSTRUCTIONS_FILE)
 @SOURCES = @INSTRUCTIONS.sources
 
-def sources
-  @SOURCES
-end
-
 desc 'Rebuild from source data'
 task rebuild: [:clobber, 'ep-popolo-v1.0.json']
 task default: [:csvs, 'stats:regenerate']

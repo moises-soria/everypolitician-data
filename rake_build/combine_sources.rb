@@ -20,7 +20,7 @@ namespace :merge_sources do
   end
 
   task :no_duplicate_names do
-    sources.map(&:pathname).uniq.map(&:basename).group_by { |b| b }.select { |_,bs| bs.count > 1 }.each do |base, _|
+    @SOURCES.map(&:pathname).uniq.map(&:basename).group_by { |b| b }.select { |_,bs| bs.count > 1 }.each do |base, _|
       abort "More than one source called #{base}"
     end
   end
@@ -30,7 +30,7 @@ namespace :merge_sources do
     combine_sources
   end
 
-  @recreatable = @INSTRUCTIONS.sources.select(&:recreateable?)
+  @recreatable = @SOURCES.select(&:recreateable?)
   CLOBBER.include FileList.new(@recreatable.map(&:filename))
 
   CLEAN.include MERGED_CSV
@@ -60,12 +60,12 @@ namespace :merge_sources do
   end
 
   def combine_sources
-    all_headers = (%i(id uuid) + sources.map(&:fields)).flatten.uniq
+    all_headers = (%i(id uuid) + @SOURCES.map(&:fields)).flatten.uniq
 
     merged_rows = []
 
     # First get all the `membership` rows, and either merge or concat
-    sources.select(&:is_memberships?).each do |src|
+    @SOURCES.select(&:is_memberships?).each do |src|
       warn "Add memberships from #{src.filename}".green
 
       incoming_data = src.as_table
@@ -95,7 +95,7 @@ namespace :merge_sources do
 
     # Then merge with Biographical data files
 
-    sources.select(&:is_bios?).each do |src|
+    @SOURCES.select(&:is_bios?).each do |src|
       warn "Merging with #{src.filename}".green
 
       incoming_data = src.as_table
@@ -143,7 +143,7 @@ namespace :merge_sources do
     end
 
     # Gender information from Gender-Balance.org
-    if gb = sources.find { |src| src.type.downcase == 'gender' }
+    if gb = @SOURCES.find { |src| src.type.downcase == 'gender' }
       warn "Adding GenderBalance results from #{gb.filename}".green
       results = GenderBalancer.new(gb.as_table).results
       gb_score = gb_added = 0
@@ -166,7 +166,7 @@ namespace :merge_sources do
     end
 
     # Map Areas
-    if area = sources.find { |src| src.type.downcase == 'ocd' }
+    if area = @SOURCES.find { |src| src.type.downcase == 'ocd' }
       warn "Adding OCD areas from #{area.filename}".green
       ocds = area.as_table.group_by { |r| r[:id] }
 
@@ -202,7 +202,7 @@ namespace :merge_sources do
     end
 
     # Any local corrections in manual/corrections.csv
-    if corrs = sources.find { |src| src.type.downcase == 'corrections' }
+    if corrs = @SOURCES.find { |src| src.type.downcase == 'corrections' }
       warn "Applying local corrections from #{corrs.filename}".green
       corrs.as_table.each do |correction|
         rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] }
