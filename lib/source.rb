@@ -88,9 +88,6 @@ module Source
     end
   end
 
-  class Elections < JSON
-  end
-
   class Positions < JSON
   end
 
