@@ -6984,7 +6984,15 @@
     },
     {
       "birth_date": "1942-05-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mrkapreroka"
+        }
+      ],
+      "family_name": "Mrkonjić",
       "gender": "male",
+      "given_name": "Milutin",
       "id": "c1287d8a-4abb-4aed-add3-be400c2660a5",
       "identifiers": [
         {
@@ -7038,6 +7046,10 @@
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Милутин_Мркоњић"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mrkapreroka"
         }
       ],
       "name": "MILUTIN MRKONЈIC",
