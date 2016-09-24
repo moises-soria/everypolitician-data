@@ -9,6 +9,10 @@ class Instructions
     @sources ||= raw_sources.map { |s| Source::Base.instantiate(s) }
   end
 
+  def sources_of_type(type)
+    sources.select { |src| src.type.to_s.downcase == type.to_s.downcase }
+  end
+
   def write(data)
     path.write(JSON.pretty_generate(data))
   end
