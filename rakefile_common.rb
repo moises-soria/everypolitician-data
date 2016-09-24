@@ -115,14 +115,6 @@ raise("Can't read #{@INSTRUCTIONS_FILE}") unless @INSTRUCTIONS_FILE.exist?
 @INSTRUCTIONS = Instructions.new(@INSTRUCTIONS_FILE)
 @SOURCES = @INSTRUCTIONS.sources
 
-def clean_instructions_file
-  @INSTRUCTIONS
-end
-
-def write_instructions(data)
-  @INSTRUCTIONS.write(data)
-end
-
 def sources
   @SOURCES
 end
