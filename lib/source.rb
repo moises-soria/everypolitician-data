@@ -88,9 +88,6 @@ module Source
     end
   end
 
-  class Positions < JSON
-  end
-
   class Corrections < PlainCSV
   end
 end
