@@ -88,16 +88,6 @@ module Source
     end
   end
 
-  class JSON < Base
-    def fields
-      []
-    end
-
-    def as_json
-      ::JSON.parse(file_contents, symbolize_names: true)
-    end
-  end
-
   class Term < PlainCSV
   end
 
