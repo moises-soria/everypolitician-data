@@ -49,16 +49,6 @@ namespace :merge_sources do
     end
   end
 
-  @warnings = Set.new
-  def warn_once(str)
-    @warnings << str
-  end
-
-  def output_warnings(header)
-    warn ['', header, @warnings.to_a, '', ''].join("\n") if @warnings.any?
-    @warnings = Set.new
-  end
-
   def combine_sources
     all_headers = (%i(id uuid) + @SOURCES.map(&:fields)).flatten.uniq
 
