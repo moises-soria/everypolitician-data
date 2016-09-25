@@ -64,33 +64,10 @@ namespace :merge_sources do
 
     merged_rows = []
 
-    # First get all the `membership` rows, and either merge or concat
-    @INSTRUCTIONS.sources_of_type('membership').each do |src|
-      warn "Add memberships from #{src.filename}".green
-
-      incoming_data = src.as_table
-      id_map = src.id_map
-
-      if merge_instructions = src.merge_instructions
-        reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], merged_rows, incoming_data)
-        raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
-
-        pr = reconciler.reconciliation_data rescue abort($!.to_s)
-        pr.each { |r| id_map[r[:id]] = r[:uuid] }
-      end
-
-      # Generate UUIDs for any people we don't already know
-      (incoming_data.map { |r| r[:id] }.uniq - id_map.keys).each do |missing_id|
-        id_map[missing_id] = SecureRandom.uuid
-      end
-      src.write_id_map_file! id_map
-
-      incoming_data.each do |row|
-        # Assume that incoming data has no useful uuid column
-        row[:uuid] = id_map[row[:id]]
-        merged_rows << row.to_hash
-      end
-
+    # First get all the `membership` rows
+    @INSTRUCTIONS.sources_of_type('membership').each do |source|
+      warn "Add memberships from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
     end
 
     # Then merge with sources of plain Person data (i.e Person or Wikidata)
