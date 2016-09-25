@@ -66,6 +66,7 @@ module Everypolitician
           person_count:        popolo[:persons].size,
           sha:                 sha,
           legislative_periods: terms.each do |t|
+            t.delete :identifiers
             term_csv_sha = commit_metadata[t[:csv]][:sha]
             t[:csv_url] = remote_source % [term_csv_sha, t[:csv]]
           end,
