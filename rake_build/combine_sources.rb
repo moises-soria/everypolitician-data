@@ -142,26 +142,13 @@ namespace :merge_sources do
     end
 
     # Gender information from Gender-Balance.org
-    @INSTRUCTIONS.sources_of_type('gender').each do |gb|
-      warn "Adding GenderBalance results from #{gb.filename}".green
-      results = GenderBalancer.new(gb.as_table).results
-      gb_score = gb_added = 0
-
-      merged_rows.each do |r|
-        (winner = results[r[:uuid]]) || next
-        gb_score += 1
-
-        # Warn if our results are different from another source
-        if r[:gender]
-          warn_once "    ☁ Mismatch for #{r[:uuid]} #{r[:name]} (Was: #{r[:gender]} | GB: #{winner})" if r[:gender] != winner
-          next
-        end
-
-        r[:gender] = winner
-        gb_added += 1
+    @INSTRUCTIONS.sources_of_type('gender').each do |source|
+      warn "Adding GenderBalance results from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'GenderBalance Mismatches'
+        warn source.warnings.to_a.join("\n")
       end
-      output_warnings('GenderBalance Mismatches')
-      warn "  ⚥ data for #{gb_score}; #{gb_added} added\n".cyan
     end
 
     # OCD IDs -> names
