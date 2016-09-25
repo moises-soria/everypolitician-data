@@ -2,13 +2,6 @@ require_relative 'csv'
 
 module Source
   class Membership < CSV
-    def id_map
-      id_mapper.mapping
-    end
-
-    def write_id_map_file!(data)
-      id_mapper.rewrite(data)
-    end
 
     def raw_table
       super.each do |r|
@@ -25,7 +18,41 @@ module Source
       @_filtered ||= raw_table.select { |row| filter.call(row) }
     end
 
+    # TODO: split this up. This version was migrated directly from the
+    # original Rakefile approach, so is still doing too many things.
+    def merged_with(csv)
+      if merge_instructions
+        reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], csv, as_table)
+        raise "Can't reconcile memberships with a Reconciliation file yet" unless reconciler.filename
+
+        pr = reconciler.reconciliation_data rescue abort($!.to_s)
+        pr.each { |r| id_map[r[:id]] = r[:uuid] }
+      end
+
+      # Generate UUIDs for any people we don't already know
+      (as_table.map { |r| r[:id] }.uniq - id_map.keys).each do |missing_id|
+        id_map[missing_id] = SecureRandom.uuid
+      end
+      write_id_map_file!
+
+      as_table.each do |row|
+        # We assume that incoming data has no useful uuid column
+        row[:uuid] = id_map[row[:id]]
+        csv << row.to_hash
+      end
+
+      csv
+    end
+
     private
+
+    def id_map
+      id_mapper.mapping
+    end
+
+    def write_id_map_file!
+      id_mapper.rewrite(id_map)
+    end
 
     def id_mapper
       @map ||= UuidMapFile.new(id_map_file)

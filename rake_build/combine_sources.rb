@@ -49,177 +49,66 @@ namespace :merge_sources do
     end
   end
 
-  @warnings = Set.new
-  def warn_once(str)
-    @warnings << str
-  end
-
-  def output_warnings(header)
-    warn ['', header, @warnings.to_a, '', ''].join("\n") if @warnings.any?
-    @warnings = Set.new
-  end
-
   def combine_sources
     all_headers = (%i(id uuid) + @SOURCES.map(&:fields)).flatten.uniq
 
     merged_rows = []
 
-    # First get all the `membership` rows, and either merge or concat
-    @INSTRUCTIONS.sources_of_type('membership').each do |src|
-      warn "Add memberships from #{src.filename}".green
-
-      incoming_data = src.as_table
-      id_map = src.id_map
-
-      if merge_instructions = src.merge_instructions
-        reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], merged_rows, incoming_data)
-        raise "Can't reconciler memberships with a Reconciliation file yet" unless reconciler.filename
-
-        pr = reconciler.reconciliation_data rescue abort($!.to_s)
-        pr.each { |r| id_map[r[:id]] = r[:uuid] }
-      end
-
-      # Generate UUIDs for any people we don't already know
-      (incoming_data.map { |r| r[:id] }.uniq - id_map.keys).each do |missing_id|
-        id_map[missing_id] = SecureRandom.uuid
-      end
-      src.write_id_map_file! id_map
-
-      incoming_data.each do |row|
-        # Assume that incoming data has no useful uuid column
-        row[:uuid] = id_map[row[:id]]
-        merged_rows << row.to_hash
-      end
-
+    # First get all the `membership` rows
+    @INSTRUCTIONS.sources_of_type('membership').each do |source|
+      warn "Add memberships from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
     end
 
     # Then merge with sources of plain Person data (i.e Person or Wikidata)
-    @SOURCES.select(&:person_data?).each do |src|
-      warn "Merging with #{src.filename}".green
+    @SOURCES.select(&:person_data?).each do |source|
+      warn "Merging with #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
 
-      incoming_data = src.as_table
-
-      abort "No merge instructions for #{src.filename}" unless merge_instructions = src.merge_instructions
-      reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], merged_rows, incoming_data)
-
-      if reconciler.filename
-        pr = reconciler.reconciliation_data rescue abort($!.to_s)
-        matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
-      else
-        matcher = Matcher::Exact.new(merged_rows, merge_instructions)
+      if source.warnings.any?
+        warn 'Data Mismatches'
+        warn source.warnings.to_a.join("\n")
       end
-
-      unmatched = []
-      incoming_data.each do |incoming_row|
-        incoming_row[:identifier__wikidata] ||= incoming_row[:id] if src.i(:type) == 'wikidata'
-
-        to_patch = matcher.find_all(incoming_row)
-        if to_patch && !to_patch.size.zero?
-          # Be careful to take a copy and not delete from the core list
-          to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merge_instructions[:term_match]
-          uids = to_patch.map { |r| r[:uuid] }.uniq
-          if uids.count > 1
-            warn "Error: trying to patch multiple people: #{uids.join('; ')}".red.on_yellow
-            next
-          end
-          to_patch.each do |existing_row|
-            patcher = Patcher.new(existing_row, incoming_row, merge_instructions[:patch])
-            existing_row = patcher.patched
-            all_headers |= patcher.new_headers.to_a
-            patcher.warnings.each { |w| warn_once w }
-          end
-        else
-          unmatched << incoming_row
-        end
-      end
-
-      warn '* %d of %d unmatched'.magenta % [unmatched.count, incoming_data.count] if unmatched.any?
-      unmatched.sample(10).each do |r|
-        warn "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i(id name).include? k }}"
-      end
-      output_warnings('Data Mismatches')
-      incoming_data = unmatched
+      all_headers |= source.additional_headers.to_a
     end
 
     # Gender information from Gender-Balance.org
-    @INSTRUCTIONS.sources_of_type('gender').each do |gb|
-      warn "Adding GenderBalance results from #{gb.filename}".green
-      results = GenderBalancer.new(gb.as_table).results
-      gb_score = gb_added = 0
-
-      merged_rows.each do |r|
-        (winner = results[r[:uuid]]) || next
-        gb_score += 1
-
-        # Warn if our results are different from another source
-        if r[:gender]
-          warn_once "    ☁ Mismatch for #{r[:uuid]} #{r[:name]} (Was: #{r[:gender]} | GB: #{winner})" if r[:gender] != winner
-          next
-        end
-
-        r[:gender] = winner
-        gb_added += 1
+    @INSTRUCTIONS.sources_of_type('gender').each do |source|
+      warn "Adding GenderBalance results from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'GenderBalance Mismatches'
+        warn source.warnings.to_a.join("\n")
       end
-      output_warnings('GenderBalance Mismatches')
-      warn "  ⚥ data for #{gb_score}; #{gb_added} added\n".cyan
     end
 
     # OCD IDs -> names
-    @INSTRUCTIONS.sources_of_type('ocd-names').each do |area|
-      warn "Adding OCD names from #{area.filename}".green
-      ocds = area.as_table.group_by { |r| r[:id] }
-      merged_rows.each do |r|
-        if ocds.key?(r[:area_id])
-          r[:area] = ocds[r[:area_id]].first[:name]
-        elsif r[:area_id].to_s.empty?
-          warn_once "    No area_id given for #{r[:uuid]}"
-        else
-          # :area_id was given but didn't resolve to an OCD ID.
-          warn_once "    Could not resolve area_id #{r[:area_id]} for #{r[:uuid]}"
-        end
+    @INSTRUCTIONS.sources_of_type('ocd-names').each do |source|
+      warn "Adding OCD names from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'OCD ID issues'
+        warn source.warnings.to_a.join("\n")
       end
-      output_warnings('OCD ID issues')
     end
 
     # OCD names -> IDs
-    @INSTRUCTIONS.sources_of_type('ocd-ids').each do |area|
-      warn "Adding OCD ids from #{area.filename}".green
-      ocds = area.as_table.group_by { |r| r[:id] }
-
-      # Generate IDs from names
-      overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-      lookup_class = area.fuzzy_match? ? OCD::Lookup::Fuzzy : OCD::Lookup::Plain
-      ocd_ids = lookup_class.new(area.as_table, overrides_with_string_keys)
-
-      merged_rows.select { |r| r[:area_id].nil? }.each do |r|
-        area = ocd_ids.from_name(r[:area])
-        if area.nil?
-          warn_once "  No area match for #{r[:area]}"
-          next
-        end
-        r[:area_id] = area
+    @INSTRUCTIONS.sources_of_type('ocd-ids').each do |source|
+      warn "Adding OCD ids from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'Unmatched areas'
+        warn source.warnings.to_a.join("\n")
       end
-      output_warnings('Unmatched areas')
     end
 
     # Any local corrections in manual/corrections.csv
-    @INSTRUCTIONS.sources_of_type('corrections').each do |corrs|
-      warn "Applying local corrections from #{corrs.filename}".green
-      corrs.as_table.each do |correction|
-        rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] }
-        if rows.empty?
-          warn "Can't correct #{correction[:uuid]} — no such person"
-          next
-        end
-
-        field = correction[:field].to_sym
-        rows.each do |row|
-          unless row[field] == correction[:old]
-            warn "Can't correct #{correction[:uuid]}: #{field} is '#{row[field]} not '#{correction[:old]}'"
-            next
-          end
-          row[field] = correction[:new]
-        end
+    @INSTRUCTIONS.sources_of_type('corrections').each do |source|
+      warn "Applying local corrections from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'Corrections Problems'
+        warn source.warnings.to_a.join("\n")
       end
     end
 

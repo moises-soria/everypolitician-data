@@ -2,6 +2,8 @@ require_relative 'uuid_map'
 
 module Source
   class Base
+    attr_reader :warnings
+
     # Instantiate correct subclass based on instructions
     def self.instantiate(i)
       raise "Missing `type` in #{i}" unless i.key? :type
@@ -22,6 +24,7 @@ module Source
 
     def initialize(i)
       @instructions = i
+      @warnings = Set.new
     end
 
     def i(k)
@@ -86,6 +89,12 @@ module Source
 
     def file_contents
       File.read(filename)
+    end
+
+    private
+
+    def add_warning(str)
+      @warnings << str
     end
   end
 end
