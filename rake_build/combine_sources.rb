@@ -103,24 +103,13 @@ namespace :merge_sources do
     end
 
     # OCD names -> IDs
-    @INSTRUCTIONS.sources_of_type('ocd-ids').each do |area|
-      warn "Adding OCD ids from #{area.filename}".green
-      ocds = area.as_table.group_by { |r| r[:id] }
-
-      # Generate IDs from names
-      overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-      lookup_class = area.fuzzy_match? ? OCD::Lookup::Fuzzy : OCD::Lookup::Plain
-      ocd_ids = lookup_class.new(area.as_table, overrides_with_string_keys)
-
-      merged_rows.select { |r| r[:area_id].nil? }.each do |r|
-        area = ocd_ids.from_name(r[:area])
-        if area.nil?
-          warn_once "  No area match for #{r[:area]}"
-          next
-        end
-        r[:area_id] = area
+    @INSTRUCTIONS.sources_of_type('ocd-ids').each do |source|
+      warn "Adding OCD ids from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'Unmatched areas'
+        warn source.warnings.to_a.join("\n")
       end
-      output_warnings('Unmatched areas')
     end
 
     # Any local corrections in manual/corrections.csv
