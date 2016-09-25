@@ -164,40 +164,42 @@ namespace :merge_sources do
       warn "  ⚥ data for #{gb_score}; #{gb_added} added\n".cyan
     end
 
-    # Map Areas
-    @INSTRUCTIONS.sources_of_type('ocd').each do |area|
-      warn "Adding OCD areas from #{area.filename}".green
+    # OCD IDs -> names
+    @INSTRUCTIONS.sources_of_type('ocd-names').each do |area|
+      warn "Adding OCD names from #{area.filename}".green
+      ocds = area.as_table.group_by { |r| r[:id] }
+      merged_rows.each do |r|
+        if ocds.key?(r[:area_id])
+          r[:area] = ocds[r[:area_id]].first[:name]
+        elsif r[:area_id].to_s.empty?
+          warn_once "    No area_id given for #{r[:uuid]}"
+        else
+          # :area_id was given but didn't resolve to an OCD ID.
+          warn_once "    Could not resolve area_id #{r[:area_id]} for #{r[:uuid]}"
+        end
+      end
+      output_warnings('OCD ID issues')
+    end
+
+    # OCD names -> IDs
+    @INSTRUCTIONS.sources_of_type('ocd-ids').each do |area|
+      warn "Adding OCD ids from #{area.filename}".green
       ocds = area.as_table.group_by { |r| r[:id] }
 
-      if area.generate == 'area'
-        merged_rows.each do |r|
-          if ocds.key?(r[:area_id])
-            r[:area] = ocds[r[:area_id]].first[:name]
-          elsif r[:area_id].to_s.empty?
-            warn_once "    No area_id given for #{r[:uuid]}"
-          else
-            # :area_id was given but didn't resolve to an OCD ID.
-            warn_once "    Could not resolve area_id #{r[:area_id]} for #{r[:uuid]}"
-          end
-        end
-        output_warnings('OCD ID issues')
+      # Generate IDs from names
+      overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
+      lookup_class = area.fuzzy_match? ? OCD::Lookup::Fuzzy : OCD::Lookup::Plain
+      ocd_ids = lookup_class.new(area.as_table, overrides_with_string_keys)
 
-      else
-        # Generate IDs from names
-        overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-        lookup_class = area.fuzzy_match? ? OCD::Lookup::Fuzzy : OCD::Lookup::Plain
-        ocd_ids = lookup_class.new(area.as_table, overrides_with_string_keys)
-
-        merged_rows.select { |r| r[:area_id].nil? }.each do |r|
-          area = ocd_ids.from_name(r[:area])
-          if area.nil?
-            warn_once "  No area match for #{r[:area]}"
-            next
-          end
-          r[:area_id] = area
+      merged_rows.select { |r| r[:area_id].nil? }.each do |r|
+        area = ocd_ids.from_name(r[:area])
+        if area.nil?
+          warn_once "  No area match for #{r[:area]}"
+          next
         end
-        output_warnings('Unmatched areas')
+        r[:area_id] = area
       end
+      output_warnings('Unmatched areas')
     end
 
     # Any local corrections in manual/corrections.csv

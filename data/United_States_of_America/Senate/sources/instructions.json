@@ -54,8 +54,7 @@
         "from": "ocd",
         "source": "country-us.csv"
       },
-      "type": "ocd",
-      "generate": "area"
+      "type": "ocd-names"
     },
     {
       "file": "manual/terms.csv",
