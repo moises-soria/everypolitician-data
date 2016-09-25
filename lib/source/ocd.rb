@@ -20,4 +20,10 @@ module Source
       i(:generate)
     end
   end
+
+  class OCD::IDs < OCD
+  end
+
+  class OCD::Names < OCD
+  end
 end
