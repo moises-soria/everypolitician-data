@@ -71,51 +71,15 @@ namespace :merge_sources do
     end
 
     # Then merge with sources of plain Person data (i.e Person or Wikidata)
-    @SOURCES.select(&:person_data?).each do |src|
-      warn "Merging with #{src.filename}".green
+    @SOURCES.select(&:person_data?).each do |source|
+      warn "Merging with #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
 
-      incoming_data = src.as_table
-
-      abort "No merge instructions for #{src.filename}" unless merge_instructions = src.merge_instructions
-      reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], merged_rows, incoming_data)
-
-      if reconciler.filename
-        pr = reconciler.reconciliation_data rescue abort($!.to_s)
-        matcher = Matcher::Reconciled.new(merged_rows, merge_instructions, pr)
-      else
-        matcher = Matcher::Exact.new(merged_rows, merge_instructions)
+      if source.warnings.any?
+        warn 'Data Mismatches'
+        warn source.warnings.to_a.join("\n")
       end
-
-      unmatched = []
-      incoming_data.each do |incoming_row|
-        incoming_row[:identifier__wikidata] ||= incoming_row[:id] if src.i(:type) == 'wikidata'
-
-        to_patch = matcher.find_all(incoming_row)
-        if to_patch && !to_patch.size.zero?
-          # Be careful to take a copy and not delete from the core list
-          to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merge_instructions[:term_match]
-          uids = to_patch.map { |r| r[:uuid] }.uniq
-          if uids.count > 1
-            warn "Error: trying to patch multiple people: #{uids.join('; ')}".red.on_yellow
-            next
-          end
-          to_patch.each do |existing_row|
-            patcher = Patcher.new(existing_row, incoming_row, merge_instructions[:patch])
-            existing_row = patcher.patched
-            all_headers |= patcher.new_headers.to_a
-            patcher.warnings.each { |w| warn_once w }
-          end
-        else
-          unmatched << incoming_row
-        end
-      end
-
-      warn '* %d of %d unmatched'.magenta % [unmatched.count, incoming_data.count] if unmatched.any?
-      unmatched.sample(10).each do |r|
-        warn "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i(id name).include? k }}"
-      end
-      output_warnings('Data Mismatches')
-      incoming_data = unmatched
+      all_headers |= source.additional_headers.to_a
     end
 
     # Gender information from Gender-Balance.org
