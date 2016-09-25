@@ -190,23 +190,12 @@ namespace :merge_sources do
     end
 
     # Any local corrections in manual/corrections.csv
-    @INSTRUCTIONS.sources_of_type('corrections').each do |corrs|
-      warn "Applying local corrections from #{corrs.filename}".green
-      corrs.as_table.each do |correction|
-        rows = merged_rows.select { |r| r[:uuid] == correction[:uuid] }
-        if rows.empty?
-          warn "Can't correct #{correction[:uuid]} — no such person"
-          next
-        end
-
-        field = correction[:field].to_sym
-        rows.each do |row|
-          unless row[field] == correction[:old]
-            warn "Can't correct #{correction[:uuid]}: #{field} is '#{row[field]} not '#{correction[:old]}'"
-            next
-          end
-          row[field] = correction[:new]
-        end
+    @INSTRUCTIONS.sources_of_type('corrections').each do |source|
+      warn "Applying local corrections from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'Corrections Problems'
+        warn source.warnings.to_a.join("\n")
       end
     end
 
