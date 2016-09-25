@@ -93,20 +93,13 @@ namespace :merge_sources do
     end
 
     # OCD IDs -> names
-    @INSTRUCTIONS.sources_of_type('ocd-names').each do |area|
-      warn "Adding OCD names from #{area.filename}".green
-      ocds = area.as_table.group_by { |r| r[:id] }
-      merged_rows.each do |r|
-        if ocds.key?(r[:area_id])
-          r[:area] = ocds[r[:area_id]].first[:name]
-        elsif r[:area_id].to_s.empty?
-          warn_once "    No area_id given for #{r[:uuid]}"
-        else
-          # :area_id was given but didn't resolve to an OCD ID.
-          warn_once "    Could not resolve area_id #{r[:area_id]} for #{r[:uuid]}"
-        end
+    @INSTRUCTIONS.sources_of_type('ocd-names').each do |source|
+      warn "Adding OCD names from #{source.filename}".green
+      merged_rows = source.merged_with(merged_rows)
+      if source.warnings.any?
+        warn 'OCD ID issues'
+        warn source.warnings.to_a.join("\n")
       end
-      output_warnings('OCD ID issues')
     end
 
     # OCD names -> IDs
