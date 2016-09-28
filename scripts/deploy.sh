@@ -39,9 +39,11 @@ deploy_viewer_static() {
 }
 
 main() {
-  start_viewer_sinatra
-  build_viewer_static
-  deploy_viewer_static
+  if [[ "$TRAVIS_PULL_REQUEST" == false && "$TRAVIS_BRANCH" == master ]]; then
+    start_viewer_sinatra
+    build_viewer_static
+    deploy_viewer_static
+  fi
 }
 
 main
