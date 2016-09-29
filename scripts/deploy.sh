@@ -17,6 +17,7 @@ start_viewer_sinatra() {
   cd /tmp/viewer-sinatra
   # TODO: Make `master` configurable
   curl -fsSL https://github.com/everypolitician/viewer-sinatra/archive/master.tar.gz | tar -z -x -f - --strip 1
+  unset BUNDLE_GEMFILE
   bundle install
   bundle exec ruby app.rb &
   while ! nc -z localhost 4567; do sleep 1; done
