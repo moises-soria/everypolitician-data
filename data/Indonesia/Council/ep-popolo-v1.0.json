@@ -6197,6 +6197,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "H. Tamanuri, MM",
+          "note": "multilingual"
+        },
+        {
           "lang": "id",
           "name": "Tamanuri",
           "note": "multilingual"
@@ -9155,6 +9160,9 @@
       "images": [
         {
           "url": "http://dpr.go.id/doksigota/photo/559.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Iskan_Qolba_Lubis.jpg"
         }
       ],
       "links": [
@@ -18078,6 +18086,10 @@
         {
           "identifier": "397",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25457680",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/A-480_SAAN_MUSTOFA.jpg",
@@ -18086,7 +18098,24 @@
           "url": "http://dpr.go.id/doksigota/photo/A-480_SAAN_MUSTOFA.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Saan_Mustopa"
+        }
+      ],
       "name": "SAAN MUSTOPA, M.Si",
+      "other_names": [
+        {
+          "name": "Saan Mustopa",
+          "note": "alternate"
+        },
+        {
+          "lang": "id",
+          "name": "Saan Mustopa",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
