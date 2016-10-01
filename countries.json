@@ -8524,11 +8524,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Singapore/Parliament/sources",
         "popolo": "data/Singapore/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b8f27e14f5d1c44798477d14194fb05d6158b053/data/Singapore/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef74dc72472fdcf7acb24400b2a73e9b34da84df/data/Singapore/Parliament/ep-popolo-v1.0.json",
         "names": "data/Singapore/Parliament/names.csv",
-        "lastmod": "1474866344",
+        "lastmod": "1475260549",
         "person_count": 403,
-        "sha": "b8f27e14f5d1c44798477d14194fb05d6158b053",
+        "sha": "ef74dc72472fdcf7acb24400b2a73e9b34da84df",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -8536,7 +8536,7 @@
             "start_date": "2016-01-15",
             "slug": "13",
             "csv": "data/Singapore/Parliament/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75f682d2cd30c3c16b892e7b2a6aa526faf00b93/data/Singapore/Parliament/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef74dc72472fdcf7acb24400b2a73e9b34da84df/data/Singapore/Parliament/term-13.csv"
           },
           {
             "end_date": "2015-08-25",
@@ -8545,7 +8545,7 @@
             "start_date": "2011-10-10",
             "slug": "12",
             "csv": "data/Singapore/Parliament/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75f682d2cd30c3c16b892e7b2a6aa526faf00b93/data/Singapore/Parliament/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef74dc72472fdcf7acb24400b2a73e9b34da84df/data/Singapore/Parliament/term-12.csv"
           },
           {
             "end_date": "2011-04-19",
@@ -8647,7 +8647,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8f7ea402d28dc0aa0ebf3dd44ca84f4c6b565e36/data/Singapore/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 15471
+        "statement_count": 15479
       }
     ]
   },
