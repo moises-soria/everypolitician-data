@@ -41,7 +41,7 @@ module Everypolitician
       end
 
       def slug
-        country.tr('_', '-').tr(' ', '-')
+        dirs.first.split('/').drop(1).first.tr('_', '-')
       end
     end
   end
