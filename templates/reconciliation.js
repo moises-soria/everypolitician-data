@@ -259,7 +259,7 @@ jQuery(function($) {
       // return;
     // }
     
-    var alwaysInclude = ['image', 'twitter'];
+    var alwaysInclude = ['image', 'twitter', 'source'];
 
     var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
       return incomingPerson[field];

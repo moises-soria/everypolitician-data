@@ -62,7 +62,7 @@
         <div class="person" data-id="{{ person.id }}">
         {% if(person.id.startsWith('Q')) { %}
           <div style="float:right">
-            <a target="_blank" href="https://tools.wmflabs.org/reasonator/?&q={{ person.id }}">{{ person.id }}</a>
+            <a target="_blank" href="https://www.wikidata.org/wiki/{{ person.id }}">{{ person.id }}</a>
           </div>
         {% } %}
 
@@ -115,6 +115,8 @@
                     {% person[field].split(';').forEach(function(img) { %}
                       <img src="{{ img }}" width="150">
                     {% }) %}
+                  {% } else if (field == 'source') { %}
+                      <a href="{{ person[field] }}">🔗</a>
                   {% } else if (field == 'twitter') { %}
                     {% person[field].split(';').forEach(function(twitter) { %}
                       {{ twitterAsLink(twitter) }}
