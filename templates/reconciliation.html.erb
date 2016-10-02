@@ -115,6 +115,8 @@
                     {% person[field].split(';').forEach(function(img) { %}
                       <img src="{{ img }}" width="150">
                     {% }) %}
+                  {% } else if (field == 'source') { %}
+                      <a href="{{ person[field] }}">🔗</a>
                   {% } else if (field == 'twitter') { %}
                     {% person[field].split(';').forEach(function(twitter) { %}
                       {{ twitterAsLink(twitter) }}
