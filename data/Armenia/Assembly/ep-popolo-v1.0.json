@@ -2868,6 +2868,10 @@
         {
           "identifier": "1064",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4074549",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1064",
@@ -2876,16 +2880,45 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1064"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Հայկ_Բաբուխանյան"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бабуханян,_Айк_Борисович"
+        }
+      ],
       "name": "Hayk Babukhanyan",
       "other_names": [
+        {
+          "name": "Հայկ Բաբուխանյան",
+          "note": "alternate"
+        },
         {
           "lang": "am",
           "name": "Հայկ Բորիսի Բաբուխանյան",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Hayk Babukhanyan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Հայկ Բաբուխանյան",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Айк Борисович Бабуханян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Бабуханян, Айк Борисович",
           "note": "multilingual"
         }
       ],
