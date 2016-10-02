@@ -1804,6 +1804,12 @@
     },
     {
       "birth_date": "1958-10-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PhilippeGomesCE"
+        }
+      ],
       "family_name": "Gomes",
       "gender": "male",
       "given_name": "Philippe",
@@ -1863,6 +1869,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Philippe_Gomès"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PhilippeGomesCE"
         }
       ],
       "name": "Philippe Gomes",
@@ -1934,6 +1944,16 @@
         {
           "lang": "sv",
           "name": "Philippe Gomès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "菲利普·戈麦斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "菲利普·戈麥斯",
           "note": "multilingual"
         }
       ],
