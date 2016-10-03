@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/sint-maarten-parliament",
-        "query": "SELECT * FROM data"
-      },
+      "file": "manual/official_term2.csv",
       "source": "http://www.sxmparliament.org/organization/members-of-parliament.html",
       "type": "membership"
     },
