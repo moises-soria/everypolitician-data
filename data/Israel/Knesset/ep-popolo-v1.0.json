@@ -15855,11 +15855,20 @@
     {
       "birth_date": "1958-06-10",
       "gender": "male",
+      "given_name": "Avraham",
       "id": "38819a35-339f-4131-8efd-aa4ce4ad4314",
       "identifiers": [
         {
           "identifier": "62",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04_0b8r",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2908301",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/yehezkel_avraham.jpg",
@@ -15868,7 +15877,86 @@
           "url": "http://www.knesset.gov.il/mk/images/members/yehezkel_avraham.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Avraham_Jechezk'el"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Avraham_Jechesk’el"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Avi_Yehezkel"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אברהם_יחזקאל"
+        }
+      ],
       "name": "Avraham Yechezkel",
+      "other_names": [
+        {
+          "name": "אברהם יחזקאל",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Avraham Jechezk'el",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Avraham Jechesk'el",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Avraham Jechesk'el",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Avi Yehezkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Avi Yehezkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Avi Yehezkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Avi Yehezkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Avi Yehezkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אברהם יחזקאל",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Avi Yehezkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Avi Yehezkel",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=62"
@@ -50768,20 +50856,125 @@
     {
       "birth_date": "1949-07-26",
       "gender": "male",
+      "given_name": "Isaac",
       "id": "e1b106e2-3dab-40d5-8967-6e1b4c0c0acd",
       "identifiers": [
         {
+          "identifier": "14566785d",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "808",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0fn1jr",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nr90028529",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000524884",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "077195795",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "69173415",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2777786",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/Yitzhak_Ben_Israel.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/Yitzhak_Ben_Israel.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ben-israel.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jicchak_Ben_Jisra'el"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Isaac_Ben-Israel"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yitzhak_Ben_Yisrael"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jitzhak_Ben_Israel"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יצחק_בן_ישראל"
         }
       ],
       "name": "Isaac Ben-Israel",
+      "other_names": [
+        {
+          "name": "יצחק בן ישראל",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Jicchak Ben Jisra'el",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Isaac Ben-Israel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yitzhak Ben Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yitzhak Ben Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jitzhak Ben Israel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yitzhak Ben Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יצחק בן ישראל",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yitzhak Ben Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yitzhak Ben Yisrael",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=808"
@@ -54117,6 +54310,10 @@
         {
           "identifier": "176",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2901767",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/shefi_yaakov.jpg",
@@ -54125,7 +54322,57 @@
           "url": "http://www.knesset.gov.il/mk/images/members/shefi_yaakov.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ja'akov_Šefi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ya'akov_Shefi"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יעקב_שפי"
+        }
+      ],
       "name": "Jacob Shefi",
+      "other_names": [
+        {
+          "name": "יעקב שפי",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Ja'akov Šefi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ya'akov Shefi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ya'akov Shefi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יעקב שפי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ya'akov Shefi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ya'akov Shefi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=176"
