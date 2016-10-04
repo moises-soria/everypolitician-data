@@ -14214,6 +14214,7 @@
       "sort_name": "Pérez"
     },
     {
+      "birth_date": "1973-05-18",
       "contact_details": [
         {
           "type": "email",
@@ -14227,9 +14228,30 @@
         {
           "identifier": "974",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26764059",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Loreto_Carvajal"
         }
       ],
       "name": "Loreto Carvajal Ambiado",
+      "other_names": [
+        {
+          "name": "Loreto Carvajal",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Loreto Carvajal",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Carvajal"
     },
     {
