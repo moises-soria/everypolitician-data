@@ -14214,6 +14214,7 @@
       "sort_name": "Pérez"
     },
     {
+      "birth_date": "1973-05-18",
       "contact_details": [
         {
           "type": "email",
@@ -14227,15 +14228,36 @@
         {
           "identifier": "974",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26764059",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Loreto_Carvajal"
         }
       ],
       "name": "Loreto Carvajal Ambiado",
+      "other_names": [
+        {
+          "name": "Loreto Carvajal",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Loreto Carvajal",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Carvajal"
     },
     {
       "birth_date": "1950-04-12",
       "gender": "male",
-      "given_name": "Luis",
+      "given_name": "Luis E",
       "id": "2cee0919-1757-4636-8fb3-21c020075a57",
       "identifiers": [
         {
@@ -14288,7 +14310,7 @@
       ],
       "email": "llemus",
       "gender": "male",
-      "given_name": "Luis",
+      "given_name": "Luis E",
       "id": "c8694827-4b42-408c-9eb4-556ddc6fdd91",
       "identifiers": [
         {
@@ -14361,7 +14383,7 @@
     {
       "birth_date": "1925-09-27",
       "gender": "male",
-      "given_name": "Luis",
+      "given_name": "Luis E",
       "id": "da98915e-aa5f-4689-840e-90b6bb9207ac",
       "identifiers": [
         {
@@ -14402,7 +14424,7 @@
     {
       "birth_date": "1928-08-29",
       "gender": "male",
-      "given_name": "Luis",
+      "given_name": "Luis E",
       "id": "5040453b-0894-474b-a7fc-a788e2dd701b",
       "identifiers": [
         {
@@ -14486,7 +14508,7 @@
       "death_date": "2014-03-11",
       "email": "luis.rocafull",
       "gender": "male",
-      "given_name": "Luis",
+      "given_name": "Luis E",
       "id": "5899d0a0-27e0-459d-8165-6b1fe2477a3d",
       "identifiers": [
         {
@@ -14557,7 +14579,7 @@
     {
       "birth_date": "1948-09-28",
       "gender": "male",
-      "given_name": "Luis",
+      "given_name": "Luis E",
       "id": "5070d01d-d1c7-4907-b74e-e3f1fb207ab8",
       "identifiers": [
         {
@@ -31016,6 +31038,55 @@
     }
   ],
   "events": [
+    {
+      "classification": "general election",
+      "end_date": "1885",
+      "id": "Q27067795",
+      "name": "Chilean parliamentary election, 1885",
+      "start_date": "1885"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1888",
+      "id": "Q27067793",
+      "name": "Chilean parliamentary election, 1888",
+      "start_date": "1888"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1891",
+      "id": "Q27067797",
+      "name": "Chilean parliamentary election, 1891",
+      "start_date": "1891"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1894",
+      "id": "Q27067798",
+      "name": "Chilean parliamentary election, 1894",
+      "start_date": "1894"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1897",
+      "id": "Q27067791",
+      "name": "Chilean parliamentary election, 1897",
+      "start_date": "1897"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1900",
+      "id": "Q27067792",
+      "name": "Chilean parliamentary election, 1900",
+      "start_date": "1900"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1903",
+      "id": "Q27067796",
+      "name": "Chilean parliamentary election, 1903",
+      "start_date": "1903"
+    },
     {
       "classification": "general election",
       "end_date": "1915",
