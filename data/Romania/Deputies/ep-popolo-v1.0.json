@@ -20761,14 +20761,7 @@
     },
     {
       "birth_date": "1950-10-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "niculae_mircovici @yahoo.com"
-        }
-      ],
       "death_date": "2016-09-25",
-      "email": "niculae_mircovici @yahoo.com",
       "gender": "male",
       "id": "bf8dd7da-a9ca-4e12-be49-abe2b0e40eba",
       "identifiers": [
@@ -35214,6 +35207,9 @@
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/TraicuRodin.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rodin_Traicu.JPG"
         }
       ],
       "links": [
@@ -42331,10 +42327,11 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/minoritati",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "e9f403b8-1aa9-47c7-94d7-f0a5f6edb74b",
       "person_id": "bf8dd7da-a9ca-4e12-be49-abe2b0e40eba",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-09-25"
     },
     {
       "area_id": "26",
