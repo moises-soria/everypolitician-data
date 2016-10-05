@@ -1909,6 +1909,10 @@
         {
           "type": "email",
           "value": "ane.halsboe@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "AneHalsboe"
         }
       ],
       "email": "ane.halsboe@ft.dk",
@@ -1936,6 +1940,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Ane_Halsboe-Jørgensen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AneHalsboe"
         },
         {
           "note": "website",
@@ -1991,6 +1999,11 @@
         },
         {
           "lang": "nn",
+          "name": "Ane Halsboe-Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Ane Halsboe-Jørgensen",
           "note": "multilingual"
         }
@@ -3574,6 +3587,7 @@
     },
     {
       "birth_date": "1924-10-22",
+      "death_date": "2016-09-24",
       "gender": "male",
       "given_name": "Arne",
       "id": "2187680d-c103-423a-aa26-a1033fb372f5",
@@ -3591,8 +3605,20 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "129453013",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 7871 8910",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n79044464",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000210107",
+          "scheme": "nli"
         },
         {
           "identifier": "2585",
@@ -3627,6 +3653,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Arne_Melchior"
+        },
+        {
+          "note": "website",
+          "url": "http://webarkiv.ft.dk/BAGGRUND/Biografier/Arne_Melchior.htm"
         }
       ],
       "name": "Arne Melchior",
@@ -3652,13 +3682,53 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Arne Melchior",
           "note": "multilingual"
         },
         {
           "lang": "nl",
           "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Арне Мельхиор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿恩·梅爾基奧爾",
           "note": "multilingual"
         }
       ]
@@ -4296,6 +4366,10 @@
         {
           "type": "email",
           "value": "benny.engelbrecht@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "BennyEngelbrech"
         }
       ],
       "email": "benny.engelbrecht@ft.dk",
@@ -4340,6 +4414,10 @@
           "url": "https://pl.wikipedia.org/wiki/Benny_Engelbrecht"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/BennyEngelbrech"
+        },
+        {
           "note": "website",
           "url": "http://www.benny-engelbrecht.dk"
         }
@@ -4352,7 +4430,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Benny Engelbrecht",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Benny Engelbrecht",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Benny Engelbrecht",
           "note": "multilingual"
         },
@@ -4362,12 +4450,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Benny Engelbrecht",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Benny Engelbrecht",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Benny Engelbrecht",
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Benny Engelbrecht",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Benny Engelbrecht",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Benny Engelbrecht",
           "note": "multilingual"
         },
@@ -4741,6 +4849,10 @@
           "url": "https://da.wikipedia.org/wiki/Bertel_Haarder"
         },
         {
+          "note": "Wikipedia (dawikiquote)",
+          "url": "https://dawikiquote.wikipedia.org/wiki/Bertel_Haarder"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bertel_Haarder"
         },
@@ -4775,6 +4887,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/BHaarder"
+        },
+        {
+          "note": "website",
+          "url": "http://bertelhaarder.dk/"
         }
       ],
       "name": "Bertel Haarder",
@@ -8442,6 +8558,10 @@
         {
           "type": "email",
           "value": "claus.kvist.hansen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "ClausKvist_DF"
         }
       ],
       "email": "claus.kvist.hansen@ft.dk",
@@ -8469,6 +8589,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Claus_Kvist_Hansen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ClausKvist_DF"
         },
         {
           "note": "website",
@@ -8963,6 +9087,10 @@
         {
           "type": "email",
           "value": "dan.jorgensen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "DanJoergensen"
         }
       ],
       "email": "dan.jorgensen@ft.dk",
@@ -9053,6 +9181,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Dan_Jørgensen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DanJoergensen"
         }
       ],
       "name": "Dan Jørgensen",
@@ -9083,6 +9215,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Dan Jørgensen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Dan Jørgensen",
           "note": "multilingual"
@@ -9094,6 +9231,16 @@
         },
         {
           "lang": "id",
+          "name": "Dan Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Dan Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
           "name": "Dan Jørgensen",
           "note": "multilingual"
         },
@@ -9435,6 +9582,10 @@
         {
           "type": "email",
           "value": "dorthe.ullemose@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "DortheUllemose"
         }
       ],
       "email": "dorthe.ullemose@ft.dk",
@@ -9462,6 +9613,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Dorthe_Ullemose"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DortheUllemose"
         },
         {
           "note": "website",
@@ -10882,12 +11037,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Anker-jørgensen.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Anker-jørgensen.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (da)",
@@ -10900,6 +11049,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Erling_Olsen"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Erling_Olsen"
         },
         {
           "note": "Wikipedia (sv)",
@@ -12449,6 +12602,12 @@
     },
     {
       "birth_date": "1961-05-28",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "FrankJensenKBH"
+        }
+      ],
       "gender": "male",
       "given_name": "Frank",
       "id": "d8c8a9d4-35c5-4817-90a2-0fb61012dbb1",
@@ -12526,6 +12685,10 @@
           "url": "https://tr.wikipedia.org/wiki/Frank_Jensen"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/FrankJensenKBH"
+        },
+        {
           "note": "website",
           "url": "http://frank-jensen.dk/om-frank-jensen/"
         }
@@ -12600,6 +12763,11 @@
         {
           "lang": "ja",
           "name": "フランク・イェンセン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Frank Jensen",
           "note": "multilingual"
         },
         {
@@ -13235,6 +13403,10 @@
           "url": "https://sv.wikipedia.org/wiki/Gitte_Seeberg"
         },
         {
+          "note": "blog",
+          "url": "http://jyllands-posten.dk/debat/blogs/gitteseeberg/"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Gitte_Seeberg"
         }
@@ -13262,6 +13434,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Gitte Seeberg",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Gitte Seeberg",
           "note": "multilingual"
@@ -13272,12 +13449,27 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Gitte Seeberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Gitte Seeberg",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Gitte Seeberg",
           "note": "multilingual"
         },
         {
           "lang": "nl",
+          "name": "Gitte Seeberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
           "name": "Gitte Seeberg",
           "note": "multilingual"
         },
@@ -14358,6 +14550,10 @@
         {
           "type": "email",
           "value": "hans.skibby@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "BundgaardSkibby"
         }
       ],
       "email": "hans.skibby@ft.dk",
@@ -14387,6 +14583,10 @@
           "url": "https://da.wikipedia.org/wiki/Hans_Kristian_Skibby"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/BundgaardSkibby"
+        },
+        {
           "note": "website",
           "url": "http://www.hk-skibby.dk"
         }
@@ -14399,12 +14599,47 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Hans Kristian Skibby",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Hans Kristian Skibby",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Hans Kristian Skibby",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Hans Kristian Skibby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Hans Kristian Skibby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Hans Kristian Skibby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Hans Kristian Skibby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Hans Kristian Skibby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Hans Kristian Skibby",
           "note": "multilingual"
         }
@@ -16676,6 +16911,10 @@
           "url": "https://pl.wikipedia.org/wiki/Henrik_Sass_Larsen"
         },
         {
+          "note": "blog",
+          "url": "http://ekstrabladet.dk/opinionen/henrik-sass-larsen/"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/SosseSass"
         }
@@ -18247,6 +18486,12 @@
     },
     {
       "birth_date": "1977-06-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JaBjerregaard"
+        }
+      ],
       "gender": "male",
       "given_name": "Jacob",
       "id": "0617a9c5-d902-42db-a566-c33d0d6cfccc",
@@ -18260,6 +18505,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Jacob_Bjerregaard"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JaBjerregaard"
         }
       ],
       "name": "Jacob Bjerregaard",
@@ -18270,7 +18519,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Jacob Bjerregaard",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Jacob Bjerregaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Jacob Bjerregaard",
           "note": "multilingual"
         },
@@ -18278,11 +18537,37 @@
           "lang": "fr",
           "name": "Jacob Bjerregaard",
           "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Jacob Bjerregaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Jacob Bjerregaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jacob Bjerregaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jacob Bjerregaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jacob Bjerregaard",
+          "note": "multilingual"
         }
       ]
     },
     {
       "birth_date": "1947-04-07",
+      "death_date": "2016-09-27",
       "gender": "male",
       "given_name": "Jacob",
       "id": "86e358a2-9a6e-4c5f-91f0-9622fb55ea08",
@@ -18327,7 +18612,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Jacob Buksti",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Jacob Buksti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Jacob Buksti",
           "note": "multilingual"
         },
@@ -18495,6 +18790,10 @@
         {
           "type": "email",
           "value": "jacob.jensen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "jacobjensenMF"
         }
       ],
       "email": "jacob.jensen@ft.dk",
@@ -18524,6 +18823,10 @@
           "url": "https://da.wikipedia.org/wiki/Jacob_Jensen_(født_1973)"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/jacobjensenMF"
+        },
+        {
           "note": "website",
           "url": "http://jacobjensen.nu/"
         }
@@ -18546,7 +18849,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Jacob Jensen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Jacob Jensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Jacob Jensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Jacob Jensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jacob Jensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jacob Jensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Jacob Jensen",
           "note": "multilingual"
         }
@@ -18599,6 +18932,10 @@
         {
           "type": "email",
           "value": "jacob.mark@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "jacobmark_sf"
         }
       ],
       "email": "jacob.mark@ft.dk",
@@ -18629,6 +18966,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Jacob_Mark"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jacobmark_sf"
         },
         {
           "note": "website",
@@ -20210,6 +20551,10 @@
         {
           "type": "email",
           "value": "dfjeht@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "JThulesen"
         }
       ],
       "email": "dfjeht@ft.dk",
@@ -20256,6 +20601,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/jenshenrik.thulesendahl"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JThulesen"
         }
       ],
       "name": "Jens Henrik Thulesen Dahl",
@@ -20936,6 +21285,10 @@
         {
           "type": "email",
           "value": "jeppe.jakobsen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "MFjeppejakobsen"
         }
       ],
       "email": "jeppe.jakobsen@ft.dk",
@@ -20963,6 +21316,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Jeppe_Jakobsen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MFjeppejakobsen"
         },
         {
           "note": "website",
@@ -21874,6 +22231,10 @@
           "url": "https://zh.wikipedia.org/wiki/约阿希姆·奥尔森"
         },
         {
+          "note": "blog",
+          "url": "http://ekstrabladet.dk/opinionen/joachim-b-olsen/"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/JoachimBOlsen"
         },
@@ -22370,6 +22731,10 @@
         {
           "type": "email",
           "value": "jonas.dahl@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "jonasdahl"
         }
       ],
       "email": "jonas.dahl@ft.dk",
@@ -22408,6 +22773,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Jonas_Dahl"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jonasdahl"
         }
       ],
       "name": "Jonas Dahl",
@@ -22428,12 +22797,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Jonas Dahl",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Jonas Dahl",
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Jonas Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Jonas Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jonas Dahl",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Jonas Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jonas Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Jonas Dahl",
           "note": "multilingual"
         },
@@ -22525,6 +22924,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Josephine_Fock"
+        },
+        {
+          "note": "blog",
+          "url": "http://jyllands-posten.dk/debat/blogs/josephinefock/"
         },
         {
           "note": "twitter",
@@ -23197,6 +23600,12 @@
     },
     {
       "birth_date": "1969-01-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MEPDohrmann"
+        }
+      ],
       "gender": "male",
       "given_name": "Jørn",
       "id": "e86042b5-840d-49e3-82e2-30a02e784a4f",
@@ -23238,6 +23647,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Jørn_Dohrmann"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MEPDohrmann"
         }
       ],
       "name": "Jørn Dohrmann",
@@ -23423,6 +23836,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Kaare_Dybvad"
+        },
+        {
+          "note": "blog",
+          "url": "http://ekstrabladet.dk/opinionen/kaaredybvad/"
         },
         {
           "note": "facebook",
@@ -24896,6 +25313,12 @@
     },
     {
       "birth_date": "1973-10-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MF_K_Lorentzen"
+        }
+      ],
       "family_name": "Lorentzen",
       "gender": "female",
       "given_name": "Karina",
@@ -24910,6 +25333,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Karina_Lorentzen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MF_K_Lorentzen"
         }
       ],
       "name": "Karina Lorentzen",
@@ -24970,6 +25397,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Karina Lorentzen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Karina Lorentzen",
           "note": "multilingual"
@@ -24980,7 +25412,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Karina Lorentzen",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
+          "name": "Karina Lorentzen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
           "name": "Karina Lorentzen",
           "note": "multilingual"
         },
@@ -25215,6 +25657,10 @@
         {
           "type": "email",
           "value": "karsten.honge@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "khoenge"
         }
       ],
       "email": "karsten.honge@ft.dk",
@@ -25252,6 +25698,10 @@
           "url": "https://no.wikipedia.org/wiki/Karsten_Hønge"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/khoenge"
+        },
+        {
           "note": "website",
           "url": "http://www.stemhoenge.dk"
         }
@@ -25274,12 +25724,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Karsten Hønge",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Karsten Hønge",
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Karsten Hønge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Karsten Hønge",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
+          "name": "Karsten Hønge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Karsten Hønge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Karsten Hønge",
           "note": "multilingual"
         }
@@ -25553,6 +26028,10 @@
         {
           "type": "email",
           "value": "kenneth.kristensen.berth@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "Kristensenberth"
         }
       ],
       "email": "kenneth.kristensen.berth@ft.dk",
@@ -25600,6 +26079,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kenneth_Kristensen_Berth"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Kristensenberth"
         },
         {
           "note": "website",
@@ -26002,6 +26485,10 @@
         {
           "type": "email",
           "value": "kirsten.brosbol@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "Kirstenbrosbol"
         }
       ],
       "email": "kirsten.brosbol@ft.dk",
@@ -26048,6 +26535,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kirsten_Brosbøl"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Kirstenbrosbol"
         },
         {
           "note": "website",
@@ -26196,6 +26687,10 @@
         {
           "type": "email",
           "value": "kirsten.normann.andersen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "KirstenNormann"
         }
       ],
       "email": "kirsten.normann.andersen@ft.dk",
@@ -26219,6 +26714,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Kirsten_Normann_Andersen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KirstenNormann"
         }
       ],
       "name": "Kirsten Normann Andersen",
@@ -26229,12 +26728,47 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Kirsten Normann Andersen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Kirsten Normann Andersen",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Kirsten Normann Andersen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Kirsten Normann Andersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Kirsten Normann Andersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Kirsten Normann Andersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kirsten Normann Andersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kirsten Normann Andersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Kirsten Normann Andersen",
           "note": "multilingual"
         }
@@ -29425,7 +29959,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "LeneEspersenC"
+          "value": "Lene_Espersen"
         }
       ],
       "gender": "female",
@@ -29502,7 +30036,7 @@
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/LeneEspersenC"
+          "url": "https://twitter.com/Lene_Espersen"
         }
       ],
       "name": "Lene Espersen",
@@ -30133,6 +30667,10 @@
         {
           "type": "email",
           "value": "lisbeth.poulsen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "LisbethBPoulsen"
         }
       ],
       "email": "lisbeth.poulsen@ft.dk",
@@ -30160,6 +30698,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Lisbeth_Bech_Poulsen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LisbethBPoulsen"
         }
       ],
       "name": "Lisbeth Bech Poulsen",
@@ -30170,7 +30712,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Lisbeth Bech Poulsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Lisbeth Bech Poulsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Lisbeth Bech Poulsen",
           "note": "multilingual"
         },
@@ -30180,12 +30732,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Lisbeth Bech Poulsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Lisbeth Bech Poulsen",
           "note": "multilingual"
         },
         {
+          "lang": "kl",
+          "name": "Lisbeth Bech Poulsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lisbeth Bech Poulsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Lisbeth Bech Poulsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lisbeth Bech Poulsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Lisbeth Bech Poulsen",
           "note": "multilingual"
         }
@@ -30305,6 +30882,10 @@
         {
           "type": "email",
           "value": "lise.bech@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "LiseBech"
         }
       ],
       "email": "lise.bech@ft.dk",
@@ -30332,6 +30913,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Lise_Bech"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LiseBech"
         },
         {
           "note": "website",
@@ -33594,6 +34179,10 @@
         {
           "type": "email",
           "value": "marie.krarup@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "MarieKrarup"
         }
       ],
       "email": "marie.krarup@ft.dk",
@@ -33625,6 +34214,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Marie_Krarup"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarieKrarup"
         },
         {
           "note": "website",
@@ -35269,6 +35862,10 @@
           "url": "https://pl.wikipedia.org/wiki/Mette_Gjerskov"
         },
         {
+          "note": "blog",
+          "url": "https://politiken.dk/debat/profiler/mettegjerskov/"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/MetteGjerskov"
         },
@@ -36092,6 +36689,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Mogens_Camre"
+        },
+        {
+          "note": "Wikipedia (fiwikiquote)",
+          "url": "https://fiwikiquote.wikipedia.org/wiki/Mogens_Camre"
         },
         {
           "note": "Wikipedia (no)",
@@ -37856,6 +38457,10 @@
           "url": "https://sv.wikipedia.org/wiki/Naser_Khader"
         },
         {
+          "note": "blog",
+          "url": "http://blogs.bt.dk/verdenifoelgekhader/"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/naserkhaderdk"
         },
@@ -38571,6 +39176,10 @@
       "id": "3ffc296a-6c38-4cbb-bec3-5dd88d5f0d71",
       "identifiers": [
         {
+          "identifier": "g67wSQ8AAAAJ",
+          "scheme": "google_scholar"
+        },
+        {
           "identifier": "113592051",
           "scheme": "sudoc"
         },
@@ -38601,7 +39210,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Niels Høiby",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Niels Høiby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Niels Høiby",
           "note": "multilingual"
         },
@@ -38611,7 +39230,27 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Niels Høiby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Niels Høiby",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
+          "name": "Niels Høiby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Niels Høiby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Niels Høiby",
           "note": "multilingual"
         }
@@ -39972,6 +40611,10 @@
           "url": "https://no.wikipedia.org/wiki/Pelle_Dragsted"
         },
         {
+          "note": "blog",
+          "url": "https://politiken.dk/debat/profiler/pelledragsted/"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/pelledragsted"
         },
@@ -40127,6 +40770,12 @@
     },
     {
       "birth_date": "1955-02-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PerClausen3"
+        }
+      ],
       "gender": "male",
       "given_name": "Per",
       "id": "1263485c-0be4-4ee2-866e-d3889629c9c2",
@@ -40150,6 +40799,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Per_Clausen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PerClausen3"
         }
       ],
       "name": "Per Clausen",
@@ -40160,7 +40813,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Per Clausen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Per Clausen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Per Clausen",
           "note": "multilingual"
         },
@@ -40170,7 +40833,27 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Per Clausen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Per Clausen",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
+          "name": "Per Clausen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Per Clausen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Per Clausen",
           "note": "multilingual"
         }
@@ -40579,6 +41262,10 @@
         {
           "type": "email",
           "value": "pernille.bendixen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "BendixenPebe"
         }
       ],
       "email": "pernille.bendixen@ft.dk",
@@ -40606,6 +41293,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Pernille_Bendixen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BendixenPebe"
         }
       ],
       "name": "Pernille Bendixen",
@@ -40796,6 +41487,10 @@
         {
           "type": "email",
           "value": "spert@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "RosenkrantzT"
         }
       ],
       "email": "spert@ft.dk",
@@ -40835,12 +41530,21 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Pernille_Rosenkrantz-Theil"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RosenkrantzT"
         }
       ],
       "name": "Pernille Rosenkrantz-Theil",
       "other_names": [
         {
           "lang": "da",
+          "name": "Pernille Rosenkrantz-Theil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
           "name": "Pernille Rosenkrantz-Theil",
           "note": "multilingual"
         },
@@ -40855,6 +41559,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Pernille Rosenkrantz-Theil",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Pernille Rosenkrantz-Theil",
           "note": "multilingual"
@@ -40865,12 +41574,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Pernille Rosenkrantz-Theil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Pernille Rosenkrantz-Theil",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Pernille Rosenkrantz-Theil",
           "note": "multilingual"
         },
         {
           "lang": "nl",
+          "name": "Pernille Rosenkrantz-Theil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pernille Rosenkrantz-Theil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Pernille Rosenkrantz-Theil",
           "note": "multilingual"
         }
@@ -41091,6 +41820,10 @@
           "url": "https://no.wikipedia.org/wiki/Pernille_Skipper"
         },
         {
+          "note": "blog",
+          "url": "http://puls.politiko.dk/author/pernilleskipper/"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/pernille.skipper.5"
         },
@@ -41169,6 +41902,12 @@
     },
     {
       "birth_date": "1975-01-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sfpevb"
+        }
+      ],
       "gender": "female",
       "given_name": "Pernille",
       "id": "11aa3d25-1da5-4441-bd0b-adee02e2593b",
@@ -41188,6 +41927,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Pernille_Vigsø_Bagge"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/sfpevb"
         }
       ],
       "name": "Pernille Vigsø Bagge",
@@ -41198,12 +41941,47 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Pernille Vigsø Bagge",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Pernille Vigsø Bagge",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Pernille Vigsø Bagge",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Pernille Vigsø Bagge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Pernille Vigsø Bagge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Pernille Vigsø Bagge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Pernille Vigsø Bagge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pernille Vigsø Bagge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Pernille Vigsø Bagge",
           "note": "multilingual"
         }
@@ -41598,6 +42376,10 @@
         {
           "type": "email",
           "value": "peter.hummelgaard@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "PHummelgaard"
         }
       ],
       "email": "peter.hummelgaard@ft.dk",
@@ -41625,6 +42407,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Peter_Hummelgaard_Thomsen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PHummelgaard"
         },
         {
           "note": "website",
@@ -41888,6 +42674,10 @@
         {
           "type": "email",
           "value": "dfamgn@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "skaarup_df"
         }
       ],
       "email": "dfamgn@ft.dk",
@@ -41930,6 +42720,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Peter_Skaarup"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/skaarup_df"
         }
       ],
       "name": "Peter Skaarup",
@@ -41940,7 +42734,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Peter Skaarup",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Peter Skaarup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Peter Skaarup",
           "note": "multilingual"
         },
@@ -41950,12 +42754,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Peter Skaarup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Peter Skaarup",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Peter Skaarup",
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Peter Skaarup",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Peter Skaarup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Peter Skaarup",
           "note": "multilingual"
         }
@@ -43046,10 +43870,20 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/2016-08-29_BSPC_Riga_Poul_Nielson_by_Olaf_Kosinsky-13.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/2016-08-29_BSPC_Riga_Poul_Nielson_by_Olaf_Kosinsky-13.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Poul_Nielson"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Poul_Nielson"
         },
         {
           "note": "Wikipedia (da)",
@@ -44567,6 +45401,10 @@
           "url": "https://da.wikipedia.org/wiki/Rasmus_Nordqvist"
         },
         {
+          "note": "blog",
+          "url": "http://puls.politiko.dk/author/rasmusnordqvist/"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/rasmus.nordqvist"
         },
@@ -45039,6 +45877,12 @@
     },
     {
       "birth_date": "1941-05-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RittBjerregaard"
+        }
+      ],
       "gender": "female",
       "given_name": "Rita",
       "id": "955e861c-a79a-4726-a6ec-1debb42205cd",
@@ -45154,6 +45998,10 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Ritt_Bjerregaard"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RittBjerregaard"
         }
       ],
       "name": "Ritt Bjerregaard",
@@ -45189,6 +46037,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Ritt Bjerregaard",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Ritt Bjerregaard",
           "note": "multilingual"
@@ -45199,7 +46052,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Ritt Bjerregaard",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
+          "name": "Ritt Bjerregaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
           "name": "Ritt Bjerregaard",
           "note": "multilingual"
         },
@@ -45872,6 +46735,10 @@
         {
           "type": "email",
           "value": "simon.kollerup@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "simonkollerup"
         }
       ],
       "email": "simon.kollerup@ft.dk",
@@ -45901,6 +46768,10 @@
           "url": "https://da.wikipedia.org/wiki/Simon_Kollerup"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/simonkollerup"
+        },
+        {
           "note": "website",
           "url": "http://www.simonkollerup.dk"
         }
@@ -45913,12 +46784,47 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Simon Kollerup",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Simon Kollerup",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Simon Kollerup",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Simon Kollerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Simon Kollerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Simon Kollerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Simon Kollerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Simon Kollerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Simon Kollerup",
           "note": "multilingual"
         }
@@ -46754,6 +47660,10 @@
         {
           "type": "email",
           "value": "susanne.eilersen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "Eilersen_DF"
         }
       ],
       "email": "susanne.eilersen@ft.dk",
@@ -46781,6 +47691,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Susanne_Eilersen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Eilersen_DF"
         },
         {
           "note": "website",
@@ -47463,6 +48377,10 @@
         {
           "type": "email",
           "value": "dfsesp@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "espersendf"
         }
       ],
       "email": "dfsesp@ft.dk",
@@ -47517,6 +48435,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Søren_Espersen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/espersendf"
         },
         {
           "note": "website",
@@ -48193,6 +49115,10 @@
           "url": "https://uk.wikipedia.org/wiki/Сорен_Пінд"
         },
         {
+          "note": "blog",
+          "url": "http://sorenpind.blogs.berlingske.dk/"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/vsorenpind"
         },
@@ -48718,6 +49644,10 @@
         {
           "type": "email",
           "value": "thomas.jensen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "MFThomasJensen"
         }
       ],
       "email": "thomas.jensen@ft.dk",
@@ -48752,6 +49682,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Thomas_Jensen_(politiker)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MFThomasJensen"
         },
         {
           "note": "website",
@@ -49536,6 +50470,10 @@
           "scheme": "europarlmep"
         },
         {
+          "identifier": "/g/121c9r2q",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "3471",
           "scheme": "pace"
         },
@@ -50234,7 +51172,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Trine Bramsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Trine Bramsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Trine Bramsen",
           "note": "multilingual"
         },
@@ -50244,7 +51192,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Trine Bramsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
+          "name": "Trine Bramsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Trine Bramsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Trine Bramsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Trine Bramsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Trine Bramsen",
           "note": "multilingual"
         }
@@ -51026,6 +51999,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Уффе_Еллеман-Єнсен"
+        },
+        {
+          "note": "blog",
+          "url": "http://uffeellemann.blogs.berlingske.dk/"
         }
       ],
       "name": "Uffe Ellemann-Jensen",
@@ -51269,6 +52246,12 @@
     },
     {
       "birth_date": "1962-09-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Ulla_Tornaes"
+        }
+      ],
       "gender": "female",
       "given_name": "Ulla",
       "id": "cf44187b-bdb0-4fe2-b0e8-723d7a90339c",
@@ -51332,6 +52315,10 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Ulla_Tørnæs"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Ulla_Tornaes"
         }
       ],
       "name": "Ulla Tørnæs",
@@ -52208,6 +53195,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Zenia_Stampe"
+        },
+        {
+          "note": "blog",
+          "url": "https://politiken.dk/debat/profiler/zenia-stampe/"
         },
         {
           "note": "twitter",
@@ -55911,12 +56902,17 @@
         },
         {
           "lang": "sv",
-          "name": "Kristendemokratere",
+          "name": "Kristeligt Folkeparti",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Kristeligt Folkeparti",
+          "name": "KD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristdemokraterna",
           "note": "multilingual"
         },
         {
@@ -56075,12 +57071,17 @@
         },
         {
           "lang": "sv",
-          "name": "Kristendemokratere",
+          "name": "Kristeligt Folkeparti",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Kristeligt Folkeparti",
+          "name": "KD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristdemokraterna",
           "note": "multilingual"
         },
         {
@@ -56239,12 +57240,17 @@
         },
         {
           "lang": "sv",
-          "name": "Kristendemokratere",
+          "name": "Kristeligt Folkeparti",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Kristeligt Folkeparti",
+          "name": "KD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristdemokraterna",
           "note": "multilingual"
         },
         {
