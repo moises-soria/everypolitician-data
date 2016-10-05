@@ -68130,6 +68130,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/مردخاي_غور"
+        },
+        {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Mordekhay_Gur"
         },
@@ -105565,6 +105569,7 @@
       ]
     },
     {
+      "birth_date": "1908",
       "death_date": "1990-10-22",
       "gender": "male",
       "id": "9c96a6ff-1848-43d9-ad23-9a8e67d2c811",
@@ -105572,6 +105577,22 @@
         {
           "identifier": "339",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/064kxr6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "000169921",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "97198868",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2336569",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/gil_yaakov.jpg",
@@ -105580,7 +105601,66 @@
           "url": "http://www.knesset.gov.il/mk/images/members/gil_yaakov.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ja'akov_Gil_(1908)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ya'akov_Gil_(politician_born_1908)"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יעקב_גיל_(ליפשיץ)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гиль,_Яаков_(раввин)"
+        }
+      ],
       "name": "Yaacov Gil (Lifschitz)",
+      "other_names": [
+        {
+          "name": "יעקב גיל",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Ja'akov Gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ya'akov Gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ya'akov Gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יעקב גיל",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ya'akov Gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ya'akov Gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Яаков Гиль",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=339"
@@ -109856,7 +109936,7 @@
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Jedidia_Be’eri"
+          "url": "https://pl.wikipedia.org/wiki/Jedidja_Be’eri"
         }
       ],
       "name": "Yedidia Be`eri",
@@ -119854,6 +119934,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/יוחנן_בדר"
+        },
+        {
+          "note": "Wikipedia (hewikiquote)",
+          "url": "https://hewikiquote.wikipedia.org/wiki/יוחנן_בדר"
         }
       ],
       "name": "Yohanan Bader",
