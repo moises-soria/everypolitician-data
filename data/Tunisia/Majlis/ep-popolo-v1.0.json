@@ -668,6 +668,7 @@
       ]
     },
     {
+      "birth_date": "1953",
       "gender": "male",
       "given_name": "Ali",
       "id": "8139a9e5-7b7c-4804-8e2c-1273323920e0",
@@ -1617,6 +1618,22 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "6c9b50db-c751-4286-89c6-707413c6c6e0",
+      "image": "http://majles.marsad.tn/2014/uploads/images/faten%20oueslati.png",
+      "images": [
+        {
+          "url": "http://majles.marsad.tn/2014/uploads/images/faten%20oueslati.png"
+        }
+      ],
+      "name": "Faten Oueslati",
+      "sources": [
+        {
+          "url": "http://majles.marsad.tn/2014/fr/assemblee"
+        }
+      ]
+    },
+    {
       "birth_date": "1964-04-17",
       "gender": "male",
       "id": "dc4fba81-6a44-4c8b-b07b-8d7d35de8941",
@@ -1867,6 +1884,11 @@
       "other_names": [
         {
           "lang": "fr",
+          "name": "Ghazi Chaouachi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Ghazi Chaouachi",
           "note": "multilingual"
         }
@@ -2125,6 +2147,22 @@
         }
       ],
       "name": "Hedi Soula",
+      "sources": [
+        {
+          "url": "http://majles.marsad.tn/2014/fr/assemblee"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "cf0a2d78-3967-475e-a1b1-b936f6f2826c",
+      "image": "http://majles.marsad.tn/2014/uploads/images/dsc_0023.png",
+      "images": [
+        {
+          "url": "http://majles.marsad.tn/2014/uploads/images/dsc_0023.png"
+        }
+      ],
+      "name": "Heger Ben Cheikh Ahmed",
       "sources": [
         {
           "url": "http://majles.marsad.tn/2014/fr/assemblee"
@@ -3042,6 +3080,22 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "51f25ba6-cb43-4cf1-bf1a-fe2b4ef2fcd7",
+      "image": "http://majles.marsad.tn/2014/uploads/images/karima%20tagguez.png",
+      "images": [
+        {
+          "url": "http://majles.marsad.tn/2014/uploads/images/karima%20tagguez.png"
+        }
+      ],
+      "name": "Karima Tagguez",
+      "sources": [
+        {
+          "url": "http://majles.marsad.tn/2014/fr/assemblee"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "b8468ccc-b17e-481e-aad0-42218bb0fa17",
       "identifiers": [
@@ -3212,6 +3266,22 @@
         }
       ],
       "name": "Lakhdhar Belhouchat",
+      "sources": [
+        {
+          "url": "http://majles.marsad.tn/2014/fr/assemblee"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "475c0453-1c5a-4573-88de-7d8640a4e3a1",
+      "image": "http://majles.marsad.tn/2014/uploads/images/lamia%20dridi.png",
+      "images": [
+        {
+          "url": "http://majles.marsad.tn/2014/uploads/images/lamia%20dridi.png"
+        }
+      ],
+      "name": "Lamia Dridi",
       "sources": [
         {
           "url": "http://majles.marsad.tn/2014/fr/assemblee"
@@ -4578,6 +4648,7 @@
       ]
     },
     {
+      "birth_date": "1970-10-10",
       "gender": "male",
       "id": "c4af6728-a4cd-4545-a513-d571dfe9f398",
       "identifiers": [
@@ -5058,6 +5129,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نوفل_الجمالي"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Naoufel_Jammali"
         },
@@ -5114,6 +5189,11 @@
       "other_names": [
         {
           "lang": "fr",
+          "name": "Nawel Tayech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Nawel Tayech",
           "note": "multilingual"
         }
@@ -5761,6 +5841,7 @@
       ]
     },
     {
+      "birth_date": "1966",
       "gender": "female",
       "id": "4954deca-1a97-431b-999b-8216805e54a8",
       "identifiers": [
@@ -8209,6 +8290,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/bizerte",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "Aucun_bloc",
+      "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
+      "person_id": "475c0453-1c5a-4573-88de-7d8640a4e3a1",
+      "role": "member"
+    },
+    {
       "area_id": "area/jendouba",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "Mouvement_Nidaa_Tounes",
@@ -8302,6 +8391,14 @@
       "on_behalf_of_id": "Bloc_Al_Horra",
       "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
       "person_id": "4fd619c2-3b59-44a1-9e1a-3f38063dbe60",
+      "role": "member"
+    },
+    {
+      "area_id": "area/france_1",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "Mouvement_Ennahdha",
+      "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
+      "person_id": "51f25ba6-cb43-4cf1-bf1a-fe2b4ef2fcd7",
       "role": "member"
     },
     {
@@ -8510,6 +8607,14 @@
       "on_behalf_of_id": "Mouvement_Nidaa_Tounes",
       "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
       "person_id": "6906c710-d80b-4ff8-973c-69c7d32f1bcd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/siliana",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "Aucun_bloc",
+      "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
+      "person_id": "6c9b50db-c751-4286-89c6-707413c6c6e0",
       "role": "member"
     },
     {
@@ -9302,6 +9407,14 @@
       "on_behalf_of_id": "Mouvement_Ennahdha",
       "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
       "person_id": "ce9909ba-0a8b-4f57-8b6c-168b9101360b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tunis_2",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "Afek_Tounes_le_mouvement_national_et_lappel_des_tunisiens_à_létranger",
+      "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
+      "person_id": "cf0a2d78-3967-475e-a1b1-b936f6f2826c",
       "role": "member"
     },
     {
