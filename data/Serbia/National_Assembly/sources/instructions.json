@@ -10,7 +10,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/serbia_national_assembly_members",
-        "query": "SELECT id, NULL as party, *, 11 AS term FROM data WHERE term = 6"
+        "query": "SELECT id, NULL as party, *, 11 AS term FROM data WHERE term = 6 ORDER BY id"
       },
       "source": "http://www.parlament.gov.rs/",
       "merge": {
