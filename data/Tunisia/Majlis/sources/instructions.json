@@ -16,6 +16,11 @@
       "type": "membership"
     },
     {
+      "file": "manual/archived_members.csv",
+      "source": "http://majles.marsad.tn",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
