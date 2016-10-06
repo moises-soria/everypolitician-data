@@ -2210,6 +2210,10 @@
         {
           "identifier": "1055",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4294022",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1055",
@@ -2218,16 +2222,45 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1055"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Գագիկ_Մինասյան_(քաղաքական_գործիչ)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Минасян,_Гагик_Енгибарович"
+        }
+      ],
       "name": "Gagik Minasyan",
       "other_names": [
+        {
+          "name": "Գագիկ Մինասյան",
+          "note": "alternate"
+        },
         {
           "lang": "am",
           "name": "Գագիկ Ենգիբարի Մինասյան",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Gagik Minasyan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Գագիկ Մինասյան",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Гагик Енгибарович Минасян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Минасян, Гагик Енгибарович",
           "note": "multilingual"
         }
       ],
@@ -5101,6 +5134,10 @@
         {
           "identifier": "1146",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4280723",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1146",
@@ -5109,11 +5146,40 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1146"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Միքայել_Մանուկյան_(քաղաքական_գործիչ)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Манукян,_Микаел_Вагинакович"
+        }
+      ],
       "name": "Mikayel Manukyan",
       "other_names": [
         {
+          "name": "Միքայել Մանուկյան",
+          "note": "alternate"
+        },
+        {
           "lang": "am",
           "name": "Միքայել Վաղինակի Մանուկյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mikayel Manukyan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Միքայել Մանուկյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Манукян, Микаел Вагинакович",
           "note": "multilingual"
         },
         {
