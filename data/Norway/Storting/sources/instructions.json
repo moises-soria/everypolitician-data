@@ -14,7 +14,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/norway-stortingsrepresentanter-wikidata",
+        "scraper": "everypolitician-scrapers/norway-stortingsrepresentanter-wikidata",
         "query": "SELECT * FROM data"
       },
       "source": "http://wikidata.org/",
