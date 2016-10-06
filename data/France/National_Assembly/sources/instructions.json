@@ -29,7 +29,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/france-chamber-of-deputies-wikidata",
+        "scraper": "everypolitician-scrapers/france-chamber-of-deputies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:D%C3%A9put%C3%A9_de_la_XIVe_l%C3%A9gislature_de_la_Ve_R%C3%A9publique",
