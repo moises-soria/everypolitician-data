@@ -17,9 +17,8 @@ class UuidMapFile
   end
 
   def mapping
-    file = [@newfile, @oldfile].find(&:exist?)
-    raw  = file.read unless file.nil?
-    return {} if file.nil? || raw.empty?
+    raw  = source.read unless source.nil?
+    return {} if source.nil? || raw.empty?
     Hash[Rcsv.parse(raw, row_as_hash: true, columns: {}).map { |r| [r['id'], r['uuid']] }]
   end
 
@@ -30,5 +29,9 @@ class UuidMapFile
       csv << %i(id uuid)
       data.each { |id, uuid| csv << [id, uuid] }
     end
+  end
+
+  def source
+    [@newfile, @oldfile].find(&:exist?)
   end
 end
