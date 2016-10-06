@@ -21,7 +21,7 @@ module Source
     # TODO: split this up. This version was migrated directly from the
     # original Rakefile approach, so is still doing too many things.
     def merged_with(csv)
-      id_map = id_mapper.mapping
+      id_map = mapfile.mapping
 
       if merge_instructions
         reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], csv, as_table)
@@ -47,14 +47,14 @@ module Source
       csv
     end
 
-    def id_mapper
+    def mapfile
       @map ||= UuidMapFile.new(id_map_file)
     end
 
     private
 
     def write_id_map_file!(id_map)
-      id_mapper.rewrite(id_map)
+      mapfile.rewrite(id_map)
     end
 
     def id_map_file
