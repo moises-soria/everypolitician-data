@@ -4524,6 +4524,7 @@
     },
     {
       "birth_date": "1949-04-30",
+      "family_name": "Guterres",
       "gender": "male",
       "given_name": "Antonio",
       "id": "47053f4e-eca3-47ba-bc9f-07cb736934df",
@@ -4587,10 +4588,14 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=628&type=deputado"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/António_Guterres_2012.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/António_Guterres_2013.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أنطونيو_غوتيريز"
+        },
         {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Антоніу_Гутэрыш"
@@ -4598,6 +4603,10 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Антониу_Гутериш"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/António_Guterres"
         },
         {
           "note": "Wikipedia (commons)",
@@ -4633,7 +4642,7 @@
         },
         {
           "note": "Wikipedia (fa)",
-          "url": "https://fa.wikipedia.org/wiki/آنتونیو_گوترس"
+          "url": "https://fa.wikipedia.org/wiki/آنتونیو_گوترش"
         },
         {
           "note": "Wikipedia (fi)",
@@ -4666,6 +4675,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/アントニオ・グテーレス"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ანტონიუ_გუტერეში"
         },
         {
           "note": "Wikipedia (ko)",
@@ -4724,8 +4737,16 @@
           "url": "https://ru.wikipedia.org/wiki/Гутерреш,_Антониу"
         },
         {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Антонио_Гутерес"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/อังตอนีอู_กูแตรึช"
         },
         {
           "note": "Wikipedia (tr)",
@@ -4750,6 +4771,11 @@
         {
           "lang": "bg",
           "name": "Антониу Гутериш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "António Guterres",
           "note": "multilingual"
         },
         {
@@ -4838,6 +4864,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ka",
+          "name": "ანტონიუ გუტიერეში",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "안토니우 구테흐스",
           "note": "multilingual"
@@ -4905,6 +4936,11 @@
         {
           "lang": "ru",
           "name": "Гутерреш, Антониу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Антонио Гутерес",
           "note": "multilingual"
         },
         {
@@ -48171,6 +48207,11 @@
         {
           "lang": "hy",
           "name": "Սոցիալիստական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Szocialista Párt",
           "note": "multilingual"
         },
         {
