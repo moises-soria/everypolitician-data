@@ -14,7 +14,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/czech-chamber-of-deputies-wikidata",
+        "scraper": "everypolitician-scrapers/czech-chamber-of-deputies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
