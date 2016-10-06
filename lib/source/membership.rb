@@ -47,14 +47,14 @@ module Source
       csv
     end
 
+    def id_mapper
+      @map ||= UuidMapFile.new(id_map_file)
+    end
+
     private
 
     def write_id_map_file!(id_map)
       id_mapper.rewrite(id_map)
-    end
-
-    def id_mapper
-      @map ||= UuidMapFile.new(id_map_file)
     end
 
     def id_map_file
