@@ -9,7 +9,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/pontifical-commission-for-vatican-state-wikipedia",
+        "scraper": "everypolitician-scrapers/pontifical-commission-for-vatican-state-wikipedia",
         "query": "SELECT * FROM data"
       },
       "source": "https://en.wikipedia.org/wiki/Pontifical_Commission_for_Vatican_City_State",
