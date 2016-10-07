@@ -1563,7 +1563,19 @@
     },
     {
       "birth_date": "1974",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "torbicamb"
+        }
+      ],
       "id": "6f7ac7ee-1462-49aa-b4e8-979044cc587a",
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/torbicamb"
+        }
+      ],
       "name": "BOJAN TORBICA",
       "sort_name": "BOJAN TORBICA",
       "sources": [
@@ -5942,6 +5954,12 @@
     },
     {
       "birth_date": "1958-03-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarijanRistievi"
+        }
+      ],
       "gender": "male",
       "given_name": "Marijan",
       "id": "223b0432-79f3-4084-81d4-00a86334772a",
@@ -5979,6 +5997,10 @@
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Маријан_Ристичевић"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarijanRistievi"
         }
       ],
       "name": "MARIJAN RISTICEVIC",
@@ -6620,6 +6642,12 @@
     },
     {
       "birth_date": "1968-10-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MilijaMiletic"
+        }
+      ],
       "gender": "male",
       "id": "bb7ba8de-38c3-4f7b-b349-33c04d657775",
       "identifiers": [
@@ -6644,6 +6672,18 @@
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Милија_Милетић"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mileticmilija"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MilijaMiletic"
+        },
+        {
+          "note": "website",
+          "url": "http://milijamiletic.rs"
         }
       ],
       "name": "MILIJA MILETIC",
