@@ -4554,6 +4554,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "53834286",
+          "scheme": "nla"
+        },
+        {
           "identifier": "722/000111389",
           "scheme": "nndb"
         },
@@ -4564,6 +4568,14 @@
         {
           "identifier": "628",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "43212",
+          "scheme": "ptbnp"
+        },
+        {
+          "identifier": "250042",
+          "scheme": "selibr"
         },
         {
           "identifier": "12864706X",
@@ -4594,7 +4606,15 @@
       "links": [
         {
           "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/أنطونيو_غوتيريز"
+          "url": "https://ar.wikipedia.org/wiki/أنطونيو_غوتيريس"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Antoniu_Quterreş"
+        },
+        {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Антониу_Гутерреш"
         },
         {
           "note": "Wikipedia (be)",
@@ -4603,6 +4623,10 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Антониу_Гутериш"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/অ্যান্টোনিও_গুতারেস"
         },
         {
           "note": "Wikipedia (ca)",
@@ -4627,6 +4651,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/António_Guterres"
         },
         {
           "note": "Wikipedia (es)",
@@ -4661,6 +4689,18 @@
           "url": "https://he.wikipedia.org/wiki/אנטוניו_גוטרש"
         },
         {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Անտոնիու_Գուտեռեշ"
+        },
+        {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/António_Guterres"
         },
@@ -4689,8 +4729,16 @@
           "url": "https://la.wikipedia.org/wiki/Antonius_Guterres"
         },
         {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Antoniu_Guterrešs"
         },
         {
           "note": "Wikipedia (mg)",
@@ -4711,6 +4759,10 @@
         {
           "note": "Wikipedia (oc)",
           "url": "https://oc.wikipedia.org/wiki/António_Manuel_Guterres"
+        },
+        {
+          "note": "Wikipedia (pa)",
+          "url": "https://pa.wikipedia.org/wiki/ਐਨਤੋਨੀਓ_ਗੁਤੇਰਸ"
         },
         {
           "note": "Wikipedia (pl)",
@@ -4737,6 +4789,14 @@
           "url": "https://ru.wikipedia.org/wiki/Гутерреш,_Антониу"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (si)",
+          "url": "https://si.wikipedia.org/wiki/ඇන්ටෝනියෝ_ගුටරෙස්"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Антонио_Гутерес"
         },
@@ -4757,12 +4817,31 @@
           "url": "https://uk.wikipedia.org/wiki/Антоніу_Гутерреш"
         },
         {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/安东尼奥·古特雷斯"
         }
       ],
       "name": "António Guterres",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "أنطونيو غوتيريز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Antoniu Quterreş",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ba",
+          "name": "Антониу Гутерреш",
+          "note": "multilingual"
+        },
         {
           "lang": "be",
           "name": "Антоніу Гутэрэш",
@@ -4771,6 +4850,11 @@
         {
           "lang": "bg",
           "name": "Антониу Гутериш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "অ্যান্টোনিও গুতারেস",
           "note": "multilingual"
         },
         {
@@ -4795,6 +4879,16 @@
         },
         {
           "lang": "en",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "António Guterres",
           "note": "multilingual"
         },
@@ -4839,8 +4933,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "hr",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Անտոնիու Գուտեռեշ",
           "note": "multilingual"
         },
         {
@@ -4879,6 +4983,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lmo",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
           "lang": "lt",
           "name": "António Guterres",
           "note": "multilingual"
@@ -4914,12 +5023,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "pa",
+          "name": "ਐਨਤੋਨੀਓ ਗੁਤੇਰਸ",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "António Guterres",
           "note": "multilingual"
         },
         {
           "lang": "pt",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "António Guterres",
           "note": "multilingual"
         },
@@ -4935,7 +5054,17 @@
         },
         {
           "lang": "ru",
-          "name": "Гутерреш, Антониу",
+          "name": "Антониу Гутерреш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ඇන්ටෝනියෝ ගුටරෙස්",
           "note": "multilingual"
         },
         {
@@ -4949,6 +5078,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "th",
+          "name": "อังตอนีอู กูแตรึช",
+          "note": "multilingual"
+        },
+        {
           "lang": "tr",
           "name": "António Guterres",
           "note": "multilingual"
@@ -4956,6 +5090,11 @@
         {
           "lang": "uk",
           "name": "Антоніу Гутерреш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "António Guterres",
           "note": "multilingual"
         },
         {
@@ -48336,6 +48475,16 @@
         },
         {
           "lang": "eo",
+          "name": "PS",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sozialistische Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
           "name": "PS",
           "note": "multilingual"
         }
