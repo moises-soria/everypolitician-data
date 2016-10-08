@@ -775,6 +775,10 @@
         {
           "identifier": "1700",
           "scheme": "mzalendo"
+        },
+        {
+          "identifier": "Q26923586",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://info.mzalendo.com/media_root/cache/0e/24/0e2485a3e5c3676e8910f2d6cb2083a7.jpg",
@@ -783,7 +787,25 @@
           "url": "http://info.mzalendo.com/media_root/cache/0e/24/0e2485a3e5c3676e8910f2d6cb2083a7.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alice_Muthoni_Wahome"
+        }
+      ],
       "name": "Alice Muthoni Wahome",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alice Muthoni Wahome",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alice Muthoni Wahome",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/alice-muthoni-wahome/"
