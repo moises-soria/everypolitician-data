@@ -44,5 +44,6 @@ class UuidMapFile
 
   def check_ids(data, from, to)
     abort "No existing data for #{from}" unless data[from]
+    abort "Already have data for #{to}" if data[to]
   end
 end

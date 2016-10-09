@@ -48,4 +48,17 @@ describe 'UUID Mapper' do
       mapper.remap('frida', 'freddy')
     end
   end
+
+  it 'does not remap if new id exists' do
+    file   = new_tempfile
+    mapper = UuidMapFile.new(file)
+    data   = {}
+    data['fred']   = 'uuid-1'
+    data['barney'] = 'uuid-2'
+    mapper.rewrite(data)
+
+    assert_raises SystemExit do
+      mapper.remap('fred', 'barney')
+    end
+  end
 end
