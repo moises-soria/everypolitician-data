@@ -802,12 +802,12 @@
       "name": "Marisol Juliette Lopez-Tromp",
       "other_names": [
         {
-          "name": "drs. M. J. Lopez-Tromp"
+          "name": "Drs. M. J. Lopez-Tromp"
         }
       ],
       "sources": [
         {
-          "url": "http://www.parlamento.aw/internet/leden-carrousel_3451/item/drs-m-j-lopez-tromp-avp_1321.html"
+          "url": "http://www.parlamento.aw/internet/leden-carrousel_3451/item/drs-m-j-lopez-tromp_1321.html"
         }
       ]
     },
@@ -1013,7 +1013,7 @@
           "url": "http://www.avp.aw/main/"
         }
       ],
-      "name": "Arubaanse Volkspartij Partij",
+      "name": "Arubaanse Volks Partij",
       "other_names": [
         {
           "lang": "fr",
@@ -1211,6 +1211,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -1305,7 +1310,7 @@
     },
     {
       "legislative_period_id": "term/7",
-      "on_behalf_of_id": "AVP",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "415d6b70-98b1-49cb-98ad-17fedc97a816",
       "person_id": "c8556583-6fbb-4f34-ad89-3f814187e4ce",
       "role": "member"
