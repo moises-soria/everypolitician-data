@@ -34,4 +34,15 @@ class UuidMapFile
   def source
     [@newfile, @oldfile].find(&:exist?)
   end
+
+  def remap(from, to)
+    @data ||= mapping
+    check_ids(@data, from, to)
+  end
+
+  private
+
+  def check_ids(data, from, to)
+    abort "No existing data for #{from}" unless data[from]
+  end
 end
