@@ -39,13 +39,12 @@ describe 'UUID Mapper' do
   end
 
   describe '#remap' do
-    it 'remaps existing UUID to a new id' do
-      file   = new_tempfile
-      mapper = UuidMapFile.new(file)
-      data   = {}
-      data['fred'] = 'uuid-1'
-      mapper.rewrite(data)
+    let(:file)   { new_tempfile }
+    let(:mapper) { UuidMapFile.new(file) }
+    let(:data)   { { 'fred' => 'uuid-1' } }
 
+    it 'remaps existing UUID to a new id' do
+      mapper.rewrite(data)
       mapper.remap('fred', 'freddy')
 
       newdata = mapper.mapping
@@ -54,10 +53,6 @@ describe 'UUID Mapper' do
     end
 
     it 'does not remap if old id does not exist' do
-      file   = new_tempfile
-      mapper = UuidMapFile.new(file)
-      data   = {}
-      data['fred'] = 'uuid-1'
       mapper.rewrite(data)
 
       assert_raises SystemExit do
@@ -66,10 +61,6 @@ describe 'UUID Mapper' do
     end
 
     it 'does not remap if new id exists' do
-      file   = new_tempfile
-      mapper = UuidMapFile.new(file)
-      data   = {}
-      data['fred']   = 'uuid-1'
       data['barney'] = 'uuid-2'
       mapper.rewrite(data)
 
