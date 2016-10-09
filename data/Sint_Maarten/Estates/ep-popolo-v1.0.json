@@ -359,6 +359,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dpsxm.com/"
+        }
+      ],
       "name": "Democratic Party",
       "other_names": [
         {
@@ -372,8 +378,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hant",
+          "name": "聖馬丁民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "聖馬丁民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "聖馬丁民主黨",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Democratic Party Sint Maarten",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "圣马丁民主党",
           "note": "multilingual"
         }
       ]
@@ -528,7 +554,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -679,6 +705,21 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
           "note": "multilingual"
         },
         {
@@ -888,11 +929,6 @@
         },
         {
           "lang": "ro",
-          "name": "Parteilos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
           "name": "Politicieni independenţi",
           "note": "multilingual"
         },
@@ -980,6 +1016,16 @@
           "lang": "cs",
           "name": "bez stranické příslušnosti",
           "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -992,11 +1038,32 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.naparty.sx/"
+        }
+      ],
       "name": "National Alliance",
       "other_names": [
         {
           "lang": "en",
           "name": "National Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "全國聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "全国联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "國家聯盟 (聖馬丁)",
           "note": "multilingual"
         }
       ]
@@ -1010,6 +1077,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://upparty.com//"
+        }
+      ],
       "name": "United Peoples Party",
       "other_names": [
         {
@@ -1020,6 +1093,16 @@
         {
           "lang": "nl",
           "name": "United People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "統一人民黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "统一人民党",
           "note": "multilingual"
         },
         {
@@ -1043,6 +1126,11 @@
         {
           "lang": "en",
           "name": "United St. Maarten Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "聯合聖馬丁黨",
           "note": "multilingual"
         }
       ]
@@ -1300,6 +1388,13 @@
       "id": "Q17510384",
       "name": "Sint Maarten general election, 2014",
       "start_date": "2014-08-29"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-09-26",
+      "id": "Q26919665",
+      "name": "Sint Maarten general election, 2016",
+      "start_date": "2016-09-26"
     }
   ],
   "areas": [
