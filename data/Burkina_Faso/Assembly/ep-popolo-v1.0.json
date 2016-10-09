@@ -2385,6 +2385,22 @@
     },
     {
       "gender": "male",
+      "id": "b912a749-9bb9-4144-9d65-35c515e4f2ec",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/"
+        }
+      ],
+      "name": "M. ZANZE Zinakou Alfred",
+      "sources": [
+        {
+          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=261"
+        }
+      ]
+    },
+    {
+      "gender": "male",
       "id": "01cef571-4b10-40fe-a78b-de813948ead5",
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_239.jpg",
       "images": [
@@ -10516,6 +10532,13 @@
       "on_behalf_of_id": "party/adf/rda",
       "organization_id": "41a56fd3-f740-43a8-9464-b9bc6e45a17e",
       "person_id": "b899724f-89b6-4151-842c-5128f0ce1c41",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/7",
+      "on_behalf_of_id": "UPC",
+      "organization_id": "41a56fd3-f740-43a8-9464-b9bc6e45a17e",
+      "person_id": "b912a749-9bb9-4144-9d65-35c515e4f2ec",
       "role": "member"
     },
     {
