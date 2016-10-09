@@ -38,42 +38,44 @@ describe 'UUID Mapper' do
     newdata['barney'].must_equal 'uuid-2'
   end
 
-  it 'remaps existing UUID to a new id' do
-    file   = new_tempfile
-    mapper = UuidMapFile.new(file)
-    data   = {}
-    data['fred'] = 'uuid-1'
-    mapper.rewrite(data)
+  describe '#remap' do
+    it 'remaps existing UUID to a new id' do
+      file   = new_tempfile
+      mapper = UuidMapFile.new(file)
+      data   = {}
+      data['fred'] = 'uuid-1'
+      mapper.rewrite(data)
 
-    mapper.remap('fred', 'freddy')
+      mapper.remap('fred', 'freddy')
 
-    newdata = mapper.mapping
-    newdata['fred'].must_be_nil
-    newdata['freddy'].must_equal 'uuid-1'
-  end
-
-  it 'does not remap if old id does not exist' do
-    file   = new_tempfile
-    mapper = UuidMapFile.new(file)
-    data   = {}
-    data['fred'] = 'uuid-1'
-    mapper.rewrite(data)
-
-    assert_raises SystemExit do
-      mapper.remap('frida', 'freddy')
+      newdata = mapper.mapping
+      newdata['fred'].must_be_nil
+      newdata['freddy'].must_equal 'uuid-1'
     end
-  end
 
-  it 'does not remap if new id exists' do
-    file   = new_tempfile
-    mapper = UuidMapFile.new(file)
-    data   = {}
-    data['fred']   = 'uuid-1'
-    data['barney'] = 'uuid-2'
-    mapper.rewrite(data)
+    it 'does not remap if old id does not exist' do
+      file   = new_tempfile
+      mapper = UuidMapFile.new(file)
+      data   = {}
+      data['fred'] = 'uuid-1'
+      mapper.rewrite(data)
 
-    assert_raises SystemExit do
-      mapper.remap('fred', 'barney')
+      assert_raises SystemExit do
+        mapper.remap('frida', 'freddy')
+      end
+    end
+
+    it 'does not remap if new id exists' do
+      file   = new_tempfile
+      mapper = UuidMapFile.new(file)
+      data   = {}
+      data['fred']   = 'uuid-1'
+      data['barney'] = 'uuid-2'
+      mapper.rewrite(data)
+
+      assert_raises SystemExit do
+        mapper.remap('fred', 'barney')
+      end
     end
   end
 end
