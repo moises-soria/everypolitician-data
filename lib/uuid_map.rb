@@ -38,6 +38,8 @@ class UuidMapFile
   def remap(from, to)
     @data ||= mapping
     check_ids(@data, from, to)
+    @data[to] = @data.delete(from)
+    rewrite(@data)
   end
 
   private

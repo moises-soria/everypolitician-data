@@ -29,12 +29,27 @@ describe 'UUID Mapper' do
     data.must_be_empty
     data['fred'] = 'uuid-1'
     data['barney'] = 'uuid-2'
+
     mapper.rewrite(data)
 
     # read it back in again
     newdata = UuidMapFile.new(file).mapping
     newdata.keys.count.must_equal 2
     newdata['barney'].must_equal 'uuid-2'
+  end
+
+  it 'remaps existing UUID to a new id' do
+    file   = new_tempfile
+    mapper = UuidMapFile.new(file)
+    data   = {}
+    data['fred'] = 'uuid-1'
+    mapper.rewrite(data)
+
+    mapper.remap('fred', 'freddy')
+
+    newdata = mapper.mapping
+    newdata['fred'].must_be_nil
+    newdata['freddy'].must_equal 'uuid-1'
   end
 
   it 'does not remap if old id does not exist' do
