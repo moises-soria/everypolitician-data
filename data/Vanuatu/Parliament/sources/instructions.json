@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/vanuatu-parliament",
+        "scraper": "everypolitician-scrapers/vanuatu-parliament",
         "query": "SELECT * FROM data"
       },
       "source": "http://parliament.gov.vu/",
