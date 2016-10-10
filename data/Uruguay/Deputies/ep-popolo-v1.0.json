@@ -1264,6 +1264,11 @@
       "name": "Daniel Caggiani",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Daniel Caggiani",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Daniel Caggiani",
           "note": "multilingual"
@@ -1542,19 +1547,29 @@
       ]
     },
     {
+      "birth_date": "1958-07-25",
       "contact_details": [
         {
           "type": "email",
           "value": "eroselli@parlamento.gub.uy"
+        },
+        {
+          "type": "twitter",
+          "value": "RoselliEdmundo"
         }
       ],
       "email": "eroselli@parlamento.gub.uy",
       "gender": "male",
+      "given_name": "Edmundo",
       "id": "8f032416-08cd-4750-93cd-a5a8076d802b",
       "identifiers": [
         {
           "identifier": "4811595",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26878015",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11595.jpg",
@@ -1563,7 +1578,42 @@
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11595.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Edmundo_Roselli"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/EdmundoRoselli"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RoselliEdmundo"
+        },
+        {
+          "note": "website",
+          "url": "http://edmundoroselli.com.uy"
+        }
+      ],
       "name": "Edmundo Roselli",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edmundo Roselli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Edmundo Roselli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Edmundo Roselli",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4811595&SinActPar=s"
