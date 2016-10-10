@@ -54,8 +54,11 @@ namespace :transform do
       identifier: @legislature.delete(:wikidata),
     } if @legislature.key?(:wikidata)
 
-    # Switch the legislature ID
+    # Switch the legislature ID everywhere it's used
     @json[:memberships].select { |m| m[:organization_id] == @legislature[:id] }.each do |m|
+      m[:organization_id] = @legislature[:uuid]
+    end
+    @json[:posts].select { |m| m[:organization_id] == @legislature[:id] }.each do |m|
       m[:organization_id] = @legislature[:uuid]
     end
     @legislature[:id] = @legislature.delete :uuid
