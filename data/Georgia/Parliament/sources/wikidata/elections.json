@@ -61,11 +61,17 @@
         "lang": "ja",
         "name": "2008年ジョージア議会選挙",
         "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 2008",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "2008"
+      "2008-05-21"
     ],
+    "follows": "Georgian parliamentary election, 2004",
     "followed_by": "Georgian parliamentary election, 2012"
   },
   "Q1849150": {
@@ -123,7 +129,7 @@
       },
       {
         "lang": "uk",
-        "name": "Парламентські вибори в Грузії 2012",
+        "name": "парламентські вибори в Грузії 2012",
         "note": "multilingual"
       },
       {
@@ -145,15 +151,10 @@
         "lang": "ka",
         "name": "საქართველოს საკანონმდებლო ორგანოს არჩევნები",
         "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Парламентські вибори в Грузії",
-        "note": "multilingual"
       }
     ],
     "dates": [
-      "2012"
+      "2012-10-01"
     ],
     "follows": "Georgian parliamentary election, 2008",
     "followed_by": "Georgian parliamentary election, 2016",
@@ -182,7 +183,7 @@
       },
       {
         "lang": "en",
-        "name": "Georgian parliamentary election",
+        "name": "Georgian parliamentary election, 2003",
         "note": "multilingual"
       },
       {
@@ -196,11 +197,21 @@
         "note": "multilingual"
       },
       {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 2003",
+        "note": "multilingual"
+      },
+      {
         "lang": "ka",
         "name": "საქართველოს საკანონმდებლო ორგანოს არჩევნები",
         "note": "multilingual"
       }
-    ]
+    ],
+    "dates": [
+      "2003-11-02"
+    ],
+    "follows": "Georgian parliamentary election, 1999",
+    "followed_by": "Georgian parliamentary election, 2004"
   },
   "Q3651327": {
     "identifiers": [
@@ -226,6 +237,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 1990",
+        "note": "multilingual"
+      },
+      {
         "lang": "ka",
         "name": "საქართველოს უზენაესი საბჭოს არჩევნები",
         "note": "multilingual"
@@ -237,8 +253,10 @@
       }
     ],
     "dates": [
-      "1990"
-    ]
+      "1990-10-28",
+      "1990-11-11"
+    ],
+    "followed_by": "Georgian general election, 1992"
   },
   "Q3651336": {
     "identifiers": [
@@ -264,14 +282,22 @@
         "note": "multilingual"
       },
       {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 1995",
+        "note": "multilingual"
+      },
+      {
         "lang": "ka",
         "name": "საქართველოს საკანონმდებლო ორგანოს არჩევნები",
         "note": "multilingual"
       }
     ],
     "dates": [
-      "1995"
-    ]
+      "1995-11-05",
+      "1995-11-19"
+    ],
+    "follows": "Georgian general election, 1992",
+    "followed_by": "Georgian parliamentary election, 1999"
   },
   "Q3651340": {
     "identifiers": [
@@ -307,14 +333,21 @@
         "note": "multilingual"
       },
       {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 1999",
+        "note": "multilingual"
+      },
+      {
         "lang": "ka",
         "name": "საქართველოს საკანონმდებლო ორგანოს არჩევნები",
         "note": "multilingual"
       }
     ],
     "dates": [
-      "1999"
-    ]
+      "1999-10-31"
+    ],
+    "follows": "Georgian parliamentary election, 1995",
+    "followed_by": "Georgian parliamentary election, 2003"
   },
   "Q3651357": {
     "identifiers": [
@@ -345,14 +378,21 @@
         "note": "multilingual"
       },
       {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 2004",
+        "note": "multilingual"
+      },
+      {
         "lang": "ka",
         "name": "საქართველოს საკანონმდებლო ორგანოს არჩევნები",
         "note": "multilingual"
       }
     ],
     "dates": [
-      "2004"
-    ]
+      "2004-03-28"
+    ],
+    "follows": "Georgian parliamentary election, 2003",
+    "followed_by": "Georgian parliamentary election, 2008"
   },
   "Q3827880": {
     "identifiers": [
@@ -383,13 +423,53 @@
         "note": "multilingual"
       },
       {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 1992",
+        "note": "multilingual"
+      },
+      {
         "lang": "ka",
         "name": "საქართველოს საპარლამენტო არჩევნები",
         "note": "multilingual"
       }
     ],
     "dates": [
-      "1992"
+      "1992-10-11"
+    ],
+    "follows": "Georgian parliamentary election, 1990",
+    "followed_by": "Georgian parliamentary election, 1995"
+  },
+  "Q5548086": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5548086"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ka",
+        "name": "საქართველოს საკანონმდებლო ორგანოს არჩევნები (1919)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Georgian parliamentary election, 1919",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Վրաստանի խորհրդարանական ընտրություններ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 1919",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1919-02"
     ]
   },
   "Q19428917": {
@@ -418,6 +498,41 @@
       {
         "lang": "fr",
         "name": "Élections législatives géorgiennes de 2016",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Парламентские выборы в Грузии в 2016 году",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones parlamentarias de Georgia de 2016",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "парламентські вибори в Грузії 2016",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "انتخابات پارلمانی گرجستان (۲۰۱۶)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "საქართველოს საპარლამენტო არჩევნები (2016)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Wybory parlamentarne w Gruzji w 2016 roku",
+        "note": "multilingual"
+      },
+      {
+        "lang": "xmf",
+        "name": "საქორთუოშ საპარლამენტო გიშაგორუეფი 2016",
         "note": "multilingual"
       }
     ],
