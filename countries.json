@@ -8884,12 +8884,21 @@
         "slug": "National-Assembly",
         "sources_directory": "data/South_Korea/National_Assembly/sources",
         "popolo": "data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fd10cdab5fe883556e3b723423337963f8044900/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/216cb26e6a9686f29d368a59fe947bcad74b9321/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/South_Korea/National_Assembly/names.csv",
-        "lastmod": "1470223066",
-        "person_count": 298,
-        "sha": "fd10cdab5fe883556e3b723423337963f8044900",
+        "lastmod": "1476194899",
+        "person_count": 453,
+        "sha": "216cb26e6a9686f29d368a59fe947bcad74b9321",
         "legislative_periods": [
+          {
+            "end_date": "2020-05-29",
+            "id": "term/20",
+            "name": "20th National Assembly",
+            "start_date": "2016-05-30",
+            "slug": "20",
+            "csv": "data/South_Korea/National_Assembly/term-20.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/216cb26e6a9686f29d368a59fe947bcad74b9321/data/South_Korea/National_Assembly/term-20.csv"
+          },
           {
             "end_date": "2016-05-29",
             "id": "term/19",
@@ -8900,7 +8909,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e82b0dcfd562a29a893441e420ecefa48df5bd1/data/South_Korea/National_Assembly/term-19.csv"
           }
         ],
-        "statement_count": 15709
+        "statement_count": 20260
       }
     ]
   },
