@@ -571,11 +571,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8430dd471244881475f7c18deb8449fca88e9aed/data/Australia/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f8ec287c38832d3d58721d5b7c3b43a218fdf88a/data/Australia/Representatives/ep-popolo-v1.0.json",
         "names": "data/Australia/Representatives/names.csv",
-        "lastmod": "1475814068",
+        "lastmod": "1476220034",
         "person_count": 512,
-        "sha": "8430dd471244881475f7c18deb8449fca88e9aed",
+        "sha": "f8ec287c38832d3d58721d5b7c3b43a218fdf88a",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -676,7 +676,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8f8101123c5968fdd94bb4c1d4a47261557f54ec/data/Australia/Representatives/term-35.csv"
           }
         ],
-        "statement_count": 38585
+        "statement_count": 38583
       },
       {
         "name": "Senate",
@@ -1841,11 +1841,11 @@
         "slug": "Commons",
         "sources_directory": "data/Canada/Commons/sources",
         "popolo": "data/Canada/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/39a8944b6467594ff481db4004d972d50735be3e/data/Canada/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1779bd3e5b2f958125807a710b3dc13f8496c874/data/Canada/Commons/ep-popolo-v1.0.json",
         "names": "data/Canada/Commons/names.csv",
-        "lastmod": "1476031720",
+        "lastmod": "1476220067",
         "person_count": 537,
-        "sha": "39a8944b6467594ff481db4004d972d50735be3e",
+        "sha": "1779bd3e5b2f958125807a710b3dc13f8496c874",
         "legislative_periods": [
           {
             "id": "term/42",
@@ -1865,7 +1865,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0276dc93a10b144b3ab85ea28a10e45dc5e0bd85/data/Canada/Commons/term-41.csv"
           }
         ],
-        "statement_count": 37948
+        "statement_count": 37944
       }
     ]
   },
@@ -3355,11 +3355,11 @@
         "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7c6bde7234b50e482e78a5fdb3a48eac1e95f355/data/Germany/Bundestag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/61f4a0bc2eff99fcee6ba5ae061ce438f1519ed2/data/Germany/Bundestag/ep-popolo-v1.0.json",
         "names": "data/Germany/Bundestag/names.csv",
-        "lastmod": "1475337774",
+        "lastmod": "1476220090",
         "person_count": 3815,
-        "sha": "7c6bde7234b50e482e78a5fdb3a48eac1e95f355",
+        "sha": "61f4a0bc2eff99fcee6ba5ae061ce438f1519ed2",
         "legislative_periods": [
           {
             "id": "term/18",
@@ -3523,7 +3523,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7c6bde7234b50e482e78a5fdb3a48eac1e95f355/data/Germany/Bundestag/term-1.csv"
           }
         ],
-        "statement_count": 294471
+        "statement_count": 294469
       }
     ]
   },
@@ -3698,11 +3698,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Greece/Parliament/sources",
         "popolo": "data/Greece/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a599c3af70a17040e3c2164f9c1cc36a5f5abb2/data/Greece/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/193ead137a0985e76f29428f85495e8f94a264e0/data/Greece/Parliament/ep-popolo-v1.0.json",
         "names": "data/Greece/Parliament/names.csv",
-        "lastmod": "1476167209",
+        "lastmod": "1476220145",
         "person_count": 1783,
-        "sha": "9a599c3af70a17040e3c2164f9c1cc36a5f5abb2",
+        "sha": "193ead137a0985e76f29428f85495e8f94a264e0",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -3857,7 +3857,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a599c3af70a17040e3c2164f9c1cc36a5f5abb2/data/Greece/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 67339
+        "statement_count": 67333
       }
     ]
   },
