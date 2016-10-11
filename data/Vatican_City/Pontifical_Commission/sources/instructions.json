@@ -1,14 +1,24 @@
 {
   "sources": [
     {
+      "file": "manual/data_2011.csv",
+      "source": "https://en.wikipedia.org/wiki/Pontifical_Commission_for_Vatican_City_State",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/pontifical-commission-for-vatican-state-wikipedia",
+        "scraper": "everypolitician-scrapers/pontifical-commission-for-vatican-state-wikipedia",
         "query": "SELECT * FROM data"
       },
       "source": "https://en.wikipedia.org/wiki/Pontifical_Commission_for_Vatican_City_State",
-      "type": "membership"
+      "type": "membership",
+      "merge": {
+      "incoming_field": "name",
+      "existing_field": "name",
+      "reconciliation_file": "reconciliation/members.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
