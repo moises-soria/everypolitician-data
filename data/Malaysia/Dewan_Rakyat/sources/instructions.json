@@ -14,7 +14,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/malaysian_parliament-wikidata",
+        "scraper": "everypolitician-scrapers/malaysian_parliament-wikidata",
         "query": "SELECT * FROM data"
       },
       "source": "http://wikidata.org/",
