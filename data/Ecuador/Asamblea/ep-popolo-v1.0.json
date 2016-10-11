@@ -955,73 +955,6 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "reneyandun"
-        }
-      ],
-      "gender": "male",
-      "id": "6ba066e9-7e94-4db9-9b34-10277202ead0",
-      "identifiers": [
-        {
-          "identifier": "183",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q24044675",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD",
-      "images": [
-        {
-          "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/René_Yandún"
-        },
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/rene.yandunp"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/reneyandun"
-        }
-      ],
-      "name": "Castulo René Yandún Pozo",
-      "other_names": [
-        {
-          "name": "René Yandún",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "René Yandún",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "René Yandún",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "René Yandún",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.asambleanacional.gob.ec/es/blogs/reneyandun"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "twitter",
           "value": "chrisviteri"
         }
       ],
@@ -1215,6 +1148,73 @@
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/cynthiaviteri"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "reneyandun"
+        }
+      ],
+      "gender": "male",
+      "id": "6ba066e9-7e94-4db9-9b34-10277202ead0",
+      "identifiers": [
+        {
+          "identifier": "183",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24044675",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD",
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/René_Yandún"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/rene.yandunp"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/reneyandun"
+        }
+      ],
+      "name": "Cástulo René Yandún Pozo",
+      "other_names": [
+        {
+          "name": "René Yandún",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "René Yandún",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "René Yandún",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "René Yandún",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/blogs/reneyandun"
         }
       ]
     },
@@ -8573,7 +8573,7 @@
     {
       "area_id": "area/galápagos",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/alianza_pais",
+      "on_behalf_of_id": "party/independientes",
       "organization_id": "9e0caec8-ba6c-4c1f-aa1f-fedb1ede6535",
       "person_id": "a2e68c14-c072-4c48-bb22-33782fbbdb7a",
       "role": "member"
@@ -8797,7 +8797,7 @@
     {
       "area_id": "area/santa_elena",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/independientes",
+      "on_behalf_of_id": "party/otros_movimientos",
       "organization_id": "9e0caec8-ba6c-4c1f-aa1f-fedb1ede6535",
       "person_id": "ca8d807b-419d-4ca7-8f5f-e5b6b1da7782",
       "role": "member"
