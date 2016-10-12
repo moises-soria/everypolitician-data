@@ -10374,6 +10374,7 @@
       ]
     },
     {
+      "birth_date": "1956-04-14",
       "contact_details": [
         {
           "type": "email",
@@ -10386,11 +10387,24 @@
       ],
       "email": "politikografeio@christofilopoulou.gr",
       "gender": "female",
+      "given_name": "Paraskevi",
       "id": "c55d193b-3274-433a-b41c-924f8b7191a3",
       "identifiers": [
         {
           "identifier": "2618cd04-5ba9-4473-9276-981e82acbe96",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gh8k6m",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "2618cd04-5ba9-4473-9276-981e82acbe96",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q5418301",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/christofilopoulouEvi.jpg",
@@ -10399,10 +10413,25 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/christofilopoulouEvi.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Efi_Christofilopoulou2.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/686531508761456640/ioFy9iJ9.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Εύη_Χριστοφιλοπούλου"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Evi_Christofilopoulou"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Paraskeví_Christofilopoúlou"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/evichrist"
@@ -10419,8 +10448,47 @@
           "note": "alternate"
         },
         {
+          "name": "Evi Christofilopoulou",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Evi Christofilopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εύη Χριστοφιλοπούλου",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Χριστοφιλοπούλου συζ. Δημητρίου Παρασκευή (Εύη)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Evi Christofilopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Evi Christofilopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Evi Christofilopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Evi Christofilopoulou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Evi Christofilopoulou",
           "note": "multilingual"
         }
       ],
