@@ -49,3 +49,6 @@ end
 
 require 'everypolitician/pull_request/rake_task'
 Everypolitician::PullRequest::RakeTask.new.install_tasks
+
+require 'bundler/audit/task'
+Bundler::Audit::Task.new
