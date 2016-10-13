@@ -6939,11 +6939,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Northern_Ireland/Assembly/sources",
         "popolo": "data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/86a2401e6ff7ae63eb26ace0fd7535de88242062/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77dccd26c364acfb6c93ac09632d4a4c45ee3851/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Northern_Ireland/Assembly/names.csv",
-        "lastmod": "1475675134",
-        "person_count": 272,
-        "sha": "86a2401e6ff7ae63eb26ace0fd7535de88242062",
+        "lastmod": "1476346693",
+        "person_count": 271,
+        "sha": "77dccd26c364acfb6c93ac09632d4a4c45ee3851",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -6951,7 +6951,7 @@
             "start_date": "2016-05-05",
             "slug": "5",
             "csv": "data/Northern_Ireland/Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d49c9d4dfd6de6e3604716544c2927f6a210422/data/Northern_Ireland/Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77dccd26c364acfb6c93ac09632d4a4c45ee3851/data/Northern_Ireland/Assembly/term-5.csv"
           },
           {
             "end_date": "2016-03-24",
@@ -6990,7 +6990,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c83168549bcd25ca57b836c9cace36017ef7f698/data/Northern_Ireland/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 16506
+        "statement_count": 16504
       }
     ]
   },
