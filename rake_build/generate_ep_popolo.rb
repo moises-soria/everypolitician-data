@@ -156,7 +156,7 @@ namespace :transform do
   task write: :remap_gender
   GENDER_MAP = {
     'male'   => %w(m male homme),
-    'female' => %w(f female femme),
+    'female' => ['f', 'female', 'femme', 'transgender female'],
     'other'  => %w(o other),
   }.freeze
 
