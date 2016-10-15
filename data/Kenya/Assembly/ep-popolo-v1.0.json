@@ -14360,6 +14360,10 @@
           "url": "https://nl.wikipedia.org/wiki/Wesley_Korir"
         },
         {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Wesley_Korir"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Wesley_Korir"
         },
@@ -16148,7 +16152,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 349
+      "seats": 349,
+      "type": "lower house"
     },
     {
       "classification": "party",
