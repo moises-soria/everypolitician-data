@@ -179,16 +179,20 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Add area wikidata information
+  # Merge area wikidata information
   #---------------------------------------------------------------------
   task write: :area_wikidata
   task area_wikidata: :load do
     @INSTRUCTIONS.sources_of_type('area-wikidata').each do |src|
-      area_data = src.as_json
-      @json[:areas].each do |area|
-        next unless area[:type] == 'constituency'
-        # FIXME: This doesn't do a deep merge. Nested arrays will be clobbered
-        area.merge!(area_data.fetch(area[:id].sub(/^area\//, '').to_sym, {}))
+      src.to_popolo[:areas].each do |area|
+        @json[:areas].select do |a|
+          a[:type] == 'constituency' &&
+          a[:id].split('/').last == area[:id].split('/').last
+        end.each do |existing|
+          existing.merge!(area) do |key, old, new|
+            key == :id ? old : new
+          end
+        end
       end
     end
   end
