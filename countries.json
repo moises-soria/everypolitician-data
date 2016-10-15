@@ -9140,11 +9140,11 @@
         "slug": "Riksdag",
         "sources_directory": "data/Sweden/Riksdag/sources",
         "popolo": "data/Sweden/Riksdag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/84e1ce06c69caf529224f414dfc0e7288e273f58/data/Sweden/Riksdag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0f103b38d457e9a727175c71c804ee316acf9675/data/Sweden/Riksdag/ep-popolo-v1.0.json",
         "names": "data/Sweden/Riksdag/names.csv",
-        "lastmod": "1476291750",
+        "lastmod": "1476497928",
         "person_count": 1621,
-        "sha": "84e1ce06c69caf529224f414dfc0e7288e273f58",
+        "sha": "0f103b38d457e9a727175c71c804ee316acf9675",
         "legislative_periods": [
           {
             "end_date": "2018-09-24",
@@ -9153,7 +9153,7 @@
             "start_date": "2014-09-29",
             "slug": "2014",
             "csv": "data/Sweden/Riksdag/term-2014.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aaa3c29c3803aea766bf5cf489d6aaf0fe17d27d/data/Sweden/Riksdag/term-2014.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6eaacfb6bba419ecc7f72b52d74a1c85dc8347c7/data/Sweden/Riksdag/term-2014.csv"
           },
           {
             "end_date": "2014-09-29",
@@ -9255,7 +9255,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0f13f99cecdcea7cef37ef25634fd31f1c84e4e2/data/Sweden/Riksdag/term-1976.csv"
           }
         ],
-        "statement_count": 99819
+        "statement_count": 99858
       }
     ]
   },
