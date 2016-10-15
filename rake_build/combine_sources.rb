@@ -10,36 +10,9 @@ class String
 end
 
 namespace :merge_sources do
-  task :fetch_missing => :no_duplicate_names do
-    fetch_missing
-  end
-
-  task :no_duplicate_names do
-    @SOURCES.map(&:pathname).uniq.map(&:basename).group_by { |b| b }.select { |_,bs| bs.count > 1 }.each do |base, _|
-      abort "More than one source called #{base}"
-    end
-  end
-
   desc 'Combine Sources'
-  task MERGED_CSV => :fetch_missing do
+  task MERGED_CSV => 'fetch_sources:fetch_missing' do
     combine_sources
-  end
-
-  @recreatable = @SOURCES.select(&:recreateable?)
-  CLOBBER.include FileList.new(@recreatable.map(&:filename))
-
-  # We re-fetch any file that is missing, or, if REBUILD_SOURCE is set,
-  # any file that matches that.
-  def _should_refetch(file)
-    return true unless file.exist?
-    return false unless ENV['REBUILD_SOURCE']
-    file.include? ENV['REBUILD_SOURCE']
-  end
-
-  def fetch_missing
-    @recreatable.each do |i|
-      RemoteSource.instantiate(i).regenerate if _should_refetch(i.filename)
-    end
   end
 
   def combine_sources

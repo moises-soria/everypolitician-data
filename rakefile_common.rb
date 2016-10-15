@@ -3,25 +3,29 @@
 # formats. Each of these steps uses a different rake_helper:
 #
 
-# Step 1: combine_sources
+# Step 1: fetch any missing sources
+# Any recreateable file that is missing on disk (e.g. after running a 
+# `rake clobber` is fetched from remote.
+
+# Step 2: combine_sources
 # This takes all the incoming data (mostly as CSVs) and joins them
 # together into 'sources/merged.csv'
 
-# Step 2: verify_source_data
+# Step 3: verify_source_data
 # Make sure that the merged data has everything we need and is
 # well-formed
 
-# Step 3: turn_csv_to_popolo
+# Step 4: turn_csv_to_popolo
 # This turns the 'merged.csv' into a 'sources/merged.json'
 
-# Step 4: generate_ep_popolo
+# Step 5: generate_ep_popolo
 # This turns the generic 'merged.json' into the EP-specific
 # 'ep-popolo.json'
 
-# Step 5: generate_final_csvs
+# Step 6: generate_final_csvs
 # Generates term-by-term CSVs from the ep-popolo
 
-# Step 6: generate_stats
+# Step 7: generate_stats
 # Generates statistics about the data we have
 
 require 'colorize'
