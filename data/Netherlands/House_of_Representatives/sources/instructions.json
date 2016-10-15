@@ -93,6 +93,10 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
+    },
+    {
+      "file": "manual/corrections.csv",
+      "type": "corrections"
     }
   ]
 }
