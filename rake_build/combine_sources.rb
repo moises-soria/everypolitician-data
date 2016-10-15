@@ -1,12 +1,7 @@
 require 'sass'
-require_relative '../lib/wikidata_lookup'
-require_relative '../lib/matcher'
-require_relative '../lib/patcher'
-require_relative '../lib/reconciliation'
-require_relative '../lib/remotesource'
-require_relative '../lib/source'
-require_relative '../lib/gender_balancer'
-require_relative '../lib/ocd_id'
+require 'require_all'
+
+require_rel '../lib'
 
 class String
   def tidy
