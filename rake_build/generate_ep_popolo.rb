@@ -174,22 +174,7 @@ namespace :transform do
   task write: :election_info
   task election_info: :load do
     @INSTRUCTIONS.sources_of_type('wikidata-elections').each do |src|
-      elections = src.as_json
-      elections.each do |id, data|
-        name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for #{id}"
-        dates = [data[:dates], data[:start_date], data[:end_date]].flatten.compact.sort
-        next warn "No dates for election #{id} (#{name[:name]})" if dates.empty?
-
-        info = {
-          id:             id,
-          name:           name[:name],
-          start_date:     dates.first,
-          end_date:       dates.last,
-          classification: 'general election',
-        }
-
-        @json[:events] << info
-      end
+      @json[:events] += src.to_popolo[:events]
     end
   end
 
