@@ -28,8 +28,6 @@ namespace :merge_sources do
   @recreatable = @SOURCES.select(&:recreateable?)
   CLOBBER.include FileList.new(@recreatable.map(&:filename))
 
-  CLEAN.include MERGED_CSV
-
   # We re-fetch any file that is missing, or, if REBUILD_SOURCE is set,
   # any file that matches that.
   def _should_refetch(file)

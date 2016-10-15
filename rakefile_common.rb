@@ -49,6 +49,9 @@ POSITION_HTML = Pathname.new('sources/manual/.position-filter.html')
 POSITION_RAW = Pathname.new('sources/wikidata/positions.json')
 POSITION_CSV = Pathname.new('unstable/positions.csv')
 
+CLEAN.include MERGED_CSV
+CLEAN.include MERGED_JSON
+
 # Files at project level
 POSITION_LEARNER = Pathname.new('../../../bin/learn_position.rb')
 
