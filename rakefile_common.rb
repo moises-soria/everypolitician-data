@@ -7,19 +7,18 @@
 # Any recreateable file that is missing on disk (e.g. after running a 
 # `rake clobber` is fetched from remote.
 
-# Step 2: combine_sources
-# This takes all the incoming data (mostly as CSVs) and joins them
-# together into 'sources/merged.csv'
+# Step 2: merge_members
+# This takes all the incoming data about People and Memberships (mostly as CSVs)
+# and joins them together into 'sources/merged.csv'
 
 # Step 3: verify_source_data
-# Make sure that the merged data has everything we need and is
-# well-formed
+# Make sure that merged.csv has everything we need and is well-formed
 
 # Step 4: turn_csv_to_popolo
-# This turns the 'merged.csv' into a 'sources/merged.json'
+# This turns the 'merged.csv' into a Popolo-formatted 'merged.json'
 
 # Step 5: generate_ep_popolo
-# This turns the generic 'merged.json' into the EP-specific
+# This combines data from other sources with 'merged.json' to make 
 # 'ep-popolo.json'
 
 # Step 6: generate_final_csvs

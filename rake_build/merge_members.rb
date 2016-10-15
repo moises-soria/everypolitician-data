@@ -9,7 +9,7 @@ class String
   end
 end
 
-namespace :merge_sources do
+namespace :merge_members do
   desc 'Combine Sources'
   task MERGED_CSV => 'fetch_sources:fetch_missing' do
     combine_sources
