@@ -4,22 +4,25 @@ module Source
   class Base
     attr_reader :warnings
 
-    # Instantiate correct subclass based on instructions
+    MAP = {
+      'membership'         => Source::Membership,
+      'person'             => Source::Person,
+      'wikidata'           => Source::Wikidata,
+      'group'              => Source::Group,
+      'ocd-ids'            => Source::OCD::IDs,
+      'ocd-names'          => Source::OCD::Names,
+      'area-wikidata'      => Source::Area,
+      'gender'             => Source::Gender,
+      'wikidata-positions' => Source::Positions,
+      'wikidata-elections' => Source::Elections,
+      'term'               => Source::Term,
+      'corrections'        => Source::Corrections,
+    }.freeze
+
     def self.instantiate(i)
       raise "Missing `type` in #{i}" unless i.key? :type
-      return Source::Membership.new(i)  if i[:type] == 'membership'
-      return Source::Person.new(i)      if i[:type] == 'person'
-      return Source::Wikidata.new(i)    if i[:type] == 'wikidata'
-      return Source::Group.new(i)       if i[:type] == 'group'
-      return Source::OCD::IDs.new(i)    if i[:type] == 'ocd-ids'
-      return Source::OCD::Names.new(i)  if i[:type] == 'ocd-names'
-      return Source::Area.new(i)        if i[:type] == 'area-wikidata'
-      return Source::Gender.new(i)      if i[:type] == 'gender'
-      return Source::Positions.new(i)   if i[:type] == 'wikidata-positions'
-      return Source::Elections.new(i)   if i[:type] == 'wikidata-elections'
-      return Source::Term.new(i)        if i[:type] == 'term'
-      return Source::Corrections.new(i) if i[:type] == 'corrections'
-      raise "Don't know how to handle #{i[:type]} files (#{i})"
+      raise "Unknown file type: #{i[:type]}" unless klass = MAP[i[:type]]
+      klass.new(i)
     end
 
     def initialize(i)
