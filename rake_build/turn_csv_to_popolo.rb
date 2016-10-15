@@ -4,7 +4,6 @@ task whittle: [:clobber, MERGED_JSON]
 
 namespace :whittle do
   file MERGED_JSON => :write
-  CLEAN.include MERGED_JSON
 
   task load: 'verify:check_data' do
     @json = Popolo::CSV.new(MERGED_CSV).data

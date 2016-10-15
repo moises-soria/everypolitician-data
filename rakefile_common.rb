@@ -3,25 +3,28 @@
 # formats. Each of these steps uses a different rake_helper:
 #
 
-# Step 1: combine_sources
-# This takes all the incoming data (mostly as CSVs) and joins them
-# together into 'sources/merged.csv'
+# Step 1: fetch any missing sources
+# Any recreateable file that is missing on disk (e.g. after running a 
+# `rake clobber` is fetched from remote.
 
-# Step 2: verify_source_data
-# Make sure that the merged data has everything we need and is
-# well-formed
+# Step 2: merge_members
+# This takes all the incoming data about People and Memberships (mostly as CSVs)
+# and joins them together into 'sources/merged.csv'
 
-# Step 3: turn_csv_to_popolo
-# This turns the 'merged.csv' into a 'sources/merged.json'
+# Step 3: verify_source_data
+# Make sure that merged.csv has everything we need and is well-formed
 
-# Step 4: generate_ep_popolo
-# This turns the generic 'merged.json' into the EP-specific
+# Step 4: turn_csv_to_popolo
+# This turns the 'merged.csv' into a Popolo-formatted 'merged.json'
+
+# Step 5: generate_ep_popolo
+# This combines data from other sources with 'merged.json' to make 
 # 'ep-popolo.json'
 
-# Step 5: generate_final_csvs
+# Step 6: generate_final_csvs
 # Generates term-by-term CSVs from the ep-popolo
 
-# Step 6: generate_stats
+# Step 7: generate_stats
 # Generates statistics about the data we have
 
 require 'colorize'
@@ -48,6 +51,9 @@ POSITION_FILTER = Pathname.new('sources/manual/position-filter.json')
 POSITION_HTML = Pathname.new('sources/manual/.position-filter.html')
 POSITION_RAW = Pathname.new('sources/wikidata/positions.json')
 POSITION_CSV = Pathname.new('unstable/positions.csv')
+
+CLEAN.include MERGED_CSV
+CLEAN.include MERGED_JSON
 
 # Files at project level
 POSITION_LEARNER = Pathname.new('../../../bin/learn_position.rb')

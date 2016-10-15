@@ -1,6 +1,6 @@
 require 'rcsv'
 
-# After generating the merged CSV, ensure that it contains what we need
+# After generating merged.csv, ensure that it contains what we need
 # and is well-formed
 #
 # We don't need to check the raw source data as it may be overridden.
@@ -8,7 +8,7 @@ require 'rcsv'
 desc 'Verify merged data'
 
 namespace :verify do
-  task load: 'merge_sources:sources/merged.csv' do
+  task load: 'merge_members:sources/merged.csv' do
     csv_data = MERGED_CSV.read
     @csv_headers = Rcsv.raw_parse(StringIO.new(csv_data.each_line.first)).first
     @csv = Rcsv.parse(
