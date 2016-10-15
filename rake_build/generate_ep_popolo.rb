@@ -198,16 +198,20 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Add group wikidata information
+  # Merge group wikidata information
   #---------------------------------------------------------------------
   task write: :group_wikidata
   task group_wikidata: :load do
     @INSTRUCTIONS.sources_of_type('group').each do |src|
-      group_data = src.as_json
-      @json[:organizations].select { |o| o[:classification] == 'party' }.each do |org|
-        # FIXME: This doesn't do a deep merge, so any nested arrays on 'org'
-        # will be clobbered if they appear in 'group_data'.
-        org.merge!(group_data.fetch(org[:id].sub(/^party\//, '').to_sym, {}))
+      src.to_popolo[:organizations].each do |org|
+        @json[:organizations].select do |o|
+          o[:classification] == 'party' &&
+          o[:id].split('/').last == org[:id].split('/').last
+        end.each do |existing|
+          existing.merge!(org) do |key, old, new|
+            key == :id ? old : new
+          end
+        end
       end
     end
   end
