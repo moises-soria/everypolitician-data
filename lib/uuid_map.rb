@@ -19,6 +19,14 @@ class UuidMapFile
     @mapping ||= raw_csv.map { |r| [r['id'], r['uuid']] }.to_h
   end
 
+  def id_for(uuid)
+    mapping.key(uuid)
+  end
+
+  def uuid_for(id)
+    mapping[id]
+  end
+
   def rewrite(data)
     @mapping = nil
     pathname.parent.mkpath
