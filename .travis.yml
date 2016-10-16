@@ -1,9 +1,7 @@
 language: ruby
 before_install:
   - echo -e "machine github.com\n  login $GITHUB_ACCESS_TOKEN" >> ~/.netrc
-script:
-  - bundle exec rake close_old_pull_requests pull_request_summary:travis test
-  - bundle exec rake bundle:audit
+script: bundle exec rake close_old_pull_requests pull_request_summary:travis test
 after_success:
   - scripts/deploy.sh
 cache: bundler
