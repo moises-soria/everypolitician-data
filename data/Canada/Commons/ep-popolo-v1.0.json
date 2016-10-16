@@ -6154,6 +6154,10 @@
         {
           "identifier": "Q888208",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Rae-391",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=10e867cb-cf28-4889-8e4c-6ef40fa8a4bd",
@@ -31391,6 +31395,10 @@
         {
           "identifier": "Q3099714",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Trudeau-195",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TrudeauJustin_Lib.jpg",
@@ -31848,6 +31856,11 @@
         },
         {
           "lang": "fr",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
           "name": "Justin Trudeau",
           "note": "multilingual"
         },
@@ -60665,6 +60678,10 @@
         {
           "identifier": "Q1892814",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Mulcair-1",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/MulcairThomasJ_NDP.jpg",
@@ -64201,7 +64218,8 @@
         }
       ],
       "name": "House of Commons",
-      "seats": 308
+      "seats": 308,
+      "type": "lower house"
     },
     {
       "classification": "party",
