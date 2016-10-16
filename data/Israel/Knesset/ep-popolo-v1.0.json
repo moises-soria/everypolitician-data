@@ -16626,6 +16626,10 @@
           "url": "https://hewikiquote.wikipedia.org/wiki/איילת_שקד"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/아옐렛_샤케드"
+        },
+        {
           "note": "Wikipedia (ku)",
           "url": "https://ku.wikipedia.org/wiki/Ayelet_Şaked"
         },
@@ -16715,6 +16719,11 @@
         {
           "lang": "hu",
           "name": "Ayelet Shaked",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "아옐렛 샤케드",
           "note": "multilingual"
         },
         {
@@ -18829,6 +18838,11 @@
           "lang": "nl",
           "name": "Benjamin Halevy",
           "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Binjamin Halewi",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -19137,6 +19151,10 @@
         {
           "identifier": "Q43723",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Netanyahu-1",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/netanyahu_bibi.jpg",
@@ -20236,6 +20254,11 @@
           "lang": "nl",
           "name": "Benno Cohen",
           "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Beno Kohen",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -20847,6 +20870,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Binjamin_Ben_Eli’ezer"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Binyamin_Ben_Eliezer"
         },
         {
           "note": "Wikipedia (ru)",
@@ -24639,6 +24666,10 @@
           "url": "https://he.wikipedia.org/wiki/דניאל_הרשקוביץ"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/다니엘_헤르시코비츠"
+        },
+        {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Daniel_Hershkowitz"
         },
@@ -24691,6 +24722,11 @@
         {
           "lang": "hu",
           "name": "Daniel Hershkowitz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "다니엘 헤르시코비츠",
           "note": "multilingual"
         },
         {
@@ -56418,6 +56454,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "shorouq",
+          "scheme": "livejournal"
+        },
+        {
           "identifier": "000274779",
           "scheme": "nli"
         },
@@ -61938,6 +61978,10 @@
         {
           "identifier": "121/000032025",
           "scheme": "nndb"
+        },
+        {
+          "identifier": "peace/laureates/1978/begin",
+          "scheme": "nobel_prize"
         },
         {
           "identifier": "07005620X",
@@ -71529,6 +71573,11 @@
         {
           "name": "משה כחלון",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "موشيه كحلون",
+          "note": "multilingual"
         },
         {
           "lang": "cs",
@@ -82024,6 +82073,11 @@
         {
           "lang": "nl",
           "name": "Fritz Bernstein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Perec Bernstein",
           "note": "multilingual"
         },
         {
@@ -93203,6 +93257,10 @@
         {
           "identifier": "960/000022894",
           "scheme": "nndb"
+        },
+        {
+          "identifier": "peace/laureates/1994/peres",
+          "scheme": "nobel_prize"
         },
         {
           "identifier": "070131651",
@@ -110072,6 +110130,11 @@
           "lang": "nl",
           "name": "Yedidia Be'eri",
           "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jedidja Be’eri",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -116837,6 +116900,10 @@
           "scheme": "nndb"
         },
         {
+          "identifier": "peace/laureates/1994/rabin",
+          "scheme": "nobel_prize"
+        },
+        {
           "identifier": "068482019",
           "scheme": "nta"
         },
@@ -121774,6 +121841,11 @@
         {
           "lang": "nl",
           "name": "Yosef Goldschmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Josef Goldschmidt",
           "note": "multilingual"
         }
       ],
@@ -131811,7 +131883,8 @@
         }
       ],
       "name": "Knesset",
-      "seats": 120
+      "seats": 120,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
