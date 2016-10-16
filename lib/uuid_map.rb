@@ -16,10 +16,11 @@ class UuidMapFile
   end
 
   def mapping
-    raw_csv.map { |r| [r['id'], r['uuid']] }.to_h
+    @mapping ||= raw_csv.map { |r| [r['id'], r['uuid']] }.to_h
   end
 
   def rewrite(data)
+    @mapping = nil
     pathname.parent.mkpath
     ::CSV.open(pathname, 'w') do |csv|
       csv << %i(id uuid)
