@@ -6747,6 +6747,10 @@
         {
           "identifier": "Q4974135",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Setright-7",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/SE4/upload_ref_binary/SE4.JPG",
@@ -51354,7 +51358,8 @@
         }
       ],
       "name": "House of Representatives",
-      "seats": 150
+      "seats": 150,
+      "type": "lower house"
     },
     {
       "classification": "party",
