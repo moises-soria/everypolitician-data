@@ -7,10 +7,7 @@ require_relative '../lib/uuid_map'
 # couldn't find it, so we instead create a dummy tempfile, then make a
 # subdir at the same level as that, and put our "real" test file in it.
 def new_tempfile
-  intopdir = Pathname.new(Tempfile.new('dummy').path)
-  subdir = intopdir.parent + 'manual/'
-  subdir.mkpath
-  Pathname.new(Tempfile.new(['data-ids', '.csv'], subdir).path)
+  Pathname.new(Tempfile.new(['data-ids', '.csv']).path)
 end
 
 describe 'UUID Mapper' do
