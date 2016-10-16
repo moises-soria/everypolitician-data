@@ -28,7 +28,6 @@ gem 'everypolitician-pull_request', github: 'everypolitician/everypolitician-pul
 gem 'everypolitician-dataview-terms', github: 'everypolitician/everypolitician-dataview-terms'
 
 group :test do
-  gem 'bundler-audit'
   gem 'minitest'
   gem 'minitest-around'
   gem 'vcr'
