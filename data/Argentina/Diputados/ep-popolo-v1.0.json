@@ -7429,13 +7429,17 @@
       "name": "Gilberto Oscar Alegre",
       "other_names": [
         {
+          "name": "Oscar Gilberto Alegre",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
-          "name": "Gilberto Oscar Alegre",
+          "name": "Oscar Gilberto Alegre",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Gilberto Oscar Alegre",
+          "name": "Oscar Gilberto Alegre",
           "note": "multilingual"
         },
         {
@@ -23242,7 +23246,8 @@
         }
       ],
       "name": "Cámara de Diputados",
-      "seats": 257
+      "seats": 257,
+      "type": "lower house"
     },
     {
       "classification": "party",
