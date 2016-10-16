@@ -11174,6 +11174,7 @@
       ]
     },
     {
+      "birth_date": "1982-02-28",
       "contact_details": [
         {
           "type": "email",
@@ -12697,6 +12698,9 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/p006.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pogácsás_Tibor.jpg"
         }
       ],
       "links": [
@@ -18278,7 +18282,8 @@
         }
       ],
       "name": "Országgyűlés",
-      "seats": 386
+      "seats": 386,
+      "type": "unicameral legislature"
     }
   ],
   "meta": {
