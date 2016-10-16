@@ -12,26 +12,28 @@ require 'rcsv'
 
 class UuidMapFile
   def initialize(pathname)
-    @oldfile = pathname
-    @newfile = @oldfile.parent.parent + 'idmap/' + @oldfile.basename.sub('-ids', '')
+    @pathname = pathname
   end
 
   def mapping
-    raw  = source.read unless source.nil?
-    return {} if source.nil? || raw.empty?
-    Hash[Rcsv.parse(raw, row_as_hash: true, columns: {}).map { |r| [r['id'], r['uuid']] }]
+    raw_csv.map { |r| [r['id'], r['uuid']] }.to_h
   end
 
   def rewrite(data)
-    @oldfile.delete if @oldfile.exist?
-    @newfile.parent.mkpath
-    ::CSV.open(@newfile, 'w') do |csv|
+    pathname.parent.mkpath
+    ::CSV.open(pathname, 'w') do |csv|
       csv << %i(id uuid)
       data.each { |id, uuid| csv << [id, uuid] }
     end
   end
 
-  def source
-    [@newfile, @oldfile].find(&:exist?)
+  private
+
+  attr_reader :pathname
+
+  def raw_csv
+    return {} unless pathname.exist?
+    return {} if (raw = pathname.read).empty?
+    Rcsv.parse(raw, row_as_hash: true, columns: {})
   end
 end
