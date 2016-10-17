@@ -12487,6 +12487,10 @@
           "url": "https://fi.wikipedia.org/wiki/Ilmari_Nurminen"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ilmari_Nurminen"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/IlmariNurminen"
         }
@@ -43661,6 +43665,10 @@
           "url": "https://fi.wikipedia.org/wiki/Sami_Savio"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sami_Savio"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/SamiSavioFi"
         }
@@ -51144,6 +51152,10 @@
           "url": "https://fi.wikipedia.org/wiki/Tiina_Elovaara"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tiina_Elovaara"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/TiinaElovaara"
         },
@@ -55637,12 +55649,25 @@
           "url": "https://fiwikiquote.wikipedia.org/wiki/Wille_Rydman"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/RydmanWille"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/willerydman"
+        },
+        {
+          "note": "website",
+          "url": "http://www.willerydman.fi/"
         }
       ],
       "name": "Wille Rydman",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Wille Rydman",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Wille Rydman",
@@ -55660,6 +55685,11 @@
         },
         {
           "lang": "nl",
+          "name": "Wille Rydman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Wille Rydman",
           "note": "multilingual"
         }
@@ -55725,7 +55755,8 @@
         }
       ],
       "name": "Eduskunta",
-      "seats": 200
+      "seats": 200,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
