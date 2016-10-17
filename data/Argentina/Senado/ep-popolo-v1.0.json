@@ -4223,6 +4223,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Laura Rodríguez Machado",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Laura Rodríguez Machado",
           "note": "multilingual"
@@ -6872,7 +6877,8 @@
         }
       ],
       "name": "Cámara de Senadores",
-      "seats": 72
+      "seats": 72,
+      "type": "upper house"
     },
     {
       "classification": "party",
