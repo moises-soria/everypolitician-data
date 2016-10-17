@@ -981,6 +981,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-cn",
+          "name": "梁君彦",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "梁君彦",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-hant",
           "name": "梁君彥",
           "note": "multilingual"
@@ -993,6 +1003,16 @@
         {
           "lang": "zh-mo",
           "name": "梁君彥",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "梁君彦",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "梁君彦",
           "note": "multilingual"
         },
         {
@@ -9564,7 +9584,8 @@
         }
       ],
       "name": "Legislative Council",
-      "seats": 70
+      "seats": 70,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",

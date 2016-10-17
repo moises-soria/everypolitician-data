@@ -7452,7 +7452,8 @@
         }
       ],
       "name": "Cámara de Representantes",
-      "seats": 166
+      "seats": 166,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -7533,6 +7534,11 @@
         {
           "lang": "nl",
           "name": "Independent Movement of Absolute Renovation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "완벽한 혁신의 독립운동",
           "note": "multilingual"
         },
         {
@@ -8207,6 +8213,11 @@
         {
           "lang": "nl",
           "name": "Alternative Democratic Pole",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대안 민주주의 극점",
           "note": "multilingual"
         },
         {

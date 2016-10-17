@@ -451,8 +451,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "maxim-efimov",
+          "scheme": "livejournal"
+        },
+        {
           "identifier": "18090",
           "scheme": "rada"
+        },
+        {
+          "identifier": "id270650612",
+          "scheme": "vkontakte"
         },
         {
           "identifier": "Q20067043",
@@ -3714,7 +3722,7 @@
         },
         {
           "lang": "fr",
-          "name": "Olha Bohomolets",
+          "name": "Olga Bogomolets",
           "note": "multilingual"
         },
         {
@@ -11813,6 +11821,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "n2003047425",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "17997",
           "scheme": "rada"
         },
@@ -11848,6 +11860,10 @@
           "url": "https://pl.wikipedia.org/wiki/Iwanna_Kłympusz-Cyncadze"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Климпуш-Цинцадзе,_Иванна_Орестовна"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Климпуш-Цинцадзе_Іванна_Орестівна"
         }
@@ -11867,6 +11883,11 @@
         {
           "lang": "pl",
           "name": "Iwanna Kłympusz-Cyncadze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Климпуш-Цинцадзе, Иванна Орестовна",
           "note": "multilingual"
         },
         {
@@ -13948,6 +13969,9 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/bp63.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Кудлаєнко_Сергій_Володимирович_VADIM_CHUPRINA.jpg"
         }
       ],
       "links": [
@@ -16307,6 +16331,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "igordaily",
+          "scheme": "livejournal"
+        },
+        {
           "identifier": "18054",
           "scheme": "rada"
         },
@@ -16933,6 +16961,10 @@
         {
           "identifier": "8818",
           "scheme": "rada"
+        },
+        {
+          "identifier": "o.liashko",
+          "scheme": "vkontakte"
         },
         {
           "identifier": "Q12119499",
@@ -19502,6 +19534,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "musstafa",
+          "scheme": "livejournal"
+        },
+        {
           "identifier": "17978",
           "scheme": "rada"
         },
@@ -21233,6 +21269,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Oleh_Osukhovskyi"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Осуховский,_Олег_Иванович"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Осуховський_Олег_Іванович"
         }
@@ -22901,12 +22941,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пономарёв,_Александр_Сергеевич_(политик)"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Пономарьов_Олександр_Сергійович"
         }
       ],
       "name": "Пономарьов Олександр Сергійович",
       "other_names": [
+        {
+          "lang": "ru",
+          "name": "Пономарёв, Александр Сергеевич",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Пономарьов Олександр Сергійович",
@@ -27575,6 +27624,10 @@
         {
           "identifier": "n2003040520",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "tymoshenkoua",
+          "scheme": "livejournal"
         },
         {
           "identifier": "00000025205",
@@ -33133,7 +33186,8 @@
         }
       ],
       "name": "Verkhovna Rada",
-      "seats": 450
+      "seats": 450,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",

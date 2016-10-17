@@ -4706,6 +4706,21 @@
       ]
     },
     {
+      "id": "eb8af93c-d6c1-4c8d-ac1a-240251025f0d",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "Dra. SITI SARWINDAH, M.Si.",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "gender": "female",
       "id": "99c392c7-51d2-4e8d-b795-3dea9420e3f8",
       "identifiers": [
@@ -13001,6 +13016,21 @@
       ]
     },
     {
+      "id": "0c54ed02-d985-4b9b-9161-7d6bc471baa7",
+      "image": "http://dpr.go.id/doksigota/photo/1664.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1664.jpg"
+        }
+      ],
+      "name": "Ir. FIRMANSYAH MARDANOES",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "a57bdcfe-d10f-4070-8e8f-fd0f306e0b4f",
       "identifiers": [
         {
@@ -13915,6 +13945,21 @@
         }
       ],
       "name": "Ir. H.M. RIDWAN HISJAM",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "18e71c0b-7df7-439d-94a8-1ca707fabfab",
+      "image": "http://dpr.go.id/doksigota/photo/881.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/881.jpg"
+        }
+      ],
+      "name": "Ir. Hj. ANDI YULIANI PARIS, MSc",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -20060,6 +20105,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ko",
+          "name": "민주당",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Parti démocrate (indonésie)",
           "note": "multilingual"
@@ -20096,7 +20146,8 @@
         }
       ],
       "name": "Dewan Perwakilan Rakyat",
-      "seats": 560
+      "seats": 560,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -20772,6 +20823,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ko",
+          "name": "국민민주당",
+          "note": "multilingual"
+        },
+        {
           "lang": "id",
           "name": "Partai Nasional Demokrat",
           "note": "multilingual"
@@ -20858,6 +20914,11 @@
         {
           "lang": "ja",
           "name": "国民信託党(PAN)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "국민수권당",
           "note": "multilingual"
         },
         {
@@ -21356,6 +21417,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kalimantan_barat",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/united_development_party_faction",
+      "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
+      "person_id": "0c54ed02-d985-4b9b-9161-7d6bc471baa7",
+      "role": "member"
+    },
+    {
       "area_id": "area/lampung_i",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/national_awakening_party_faction",
@@ -21633,6 +21702,14 @@
       "on_behalf_of_id": "party/golkar_party_faction",
       "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
       "person_id": "18b53a05-f0e3-49f9-95c9-9b5f653a25cb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sulawesi_selatan_ii",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/national_mandate_party_faction",
+      "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
+      "person_id": "18e71c0b-7df7-439d-94a8-1ca707fabfab",
       "role": "member"
     },
     {
@@ -25417,6 +25494,14 @@
       "on_behalf_of_id": "party/prosperous_justice_party_faction",
       "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
       "person_id": "eb4328d5-2896-400b-b4f8-a37631d2d875",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kepulauan_riau",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/national_mandate_party_faction",
+      "organization_id": "5be5da16-632e-432b-a328-c7eb83b57ac5",
+      "person_id": "eb8af93c-d6c1-4c8d-ac1a-240251025f0d",
       "role": "member"
     },
     {

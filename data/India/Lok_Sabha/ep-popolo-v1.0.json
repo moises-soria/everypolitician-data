@@ -16900,6 +16900,10 @@
           "url": "https://ta.wikipedia.org/wiki/ஹேம_மாலினி"
         },
         {
+          "note": "Wikipedia (te)",
+          "url": "https://te.wikipedia.org/wiki/హేమా_మాలిని"
+        },
+        {
           "note": "Wikipedia (th)",
           "url": "https://th.wikipedia.org/wiki/เหมา_มาลินี"
         },
@@ -55527,6 +55531,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ur",
+          "name": "ششی تھرور",
+          "note": "multilingual"
+        },
+        {
           "lang": "vi",
           "name": "Shashi Tharoor",
           "note": "multilingual"
@@ -64012,7 +64021,8 @@
         }
       ],
       "name": "Lok Sabha",
-      "seats": 545
+      "seats": 545,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",

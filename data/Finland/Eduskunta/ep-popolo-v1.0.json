@@ -327,6 +327,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0001 0916 1546",
+          "scheme": "isni"
+        },
+        {
           "identifier": "349",
           "scheme": "kansanmuisti"
         },
@@ -339,8 +343,16 @@
           "scheme": "munzinger"
         },
         {
+          "identifier": "vse2006360649",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "138634483",
           "scheme": "nta"
+        },
+        {
+          "identifier": "n99003502",
+          "scheme": "nukat"
         },
         {
           "identifier": "vjkwf6rin4oj",
@@ -12475,6 +12487,10 @@
           "url": "https://fi.wikipedia.org/wiki/Ilmari_Nurminen"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ilmari_Nurminen"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/IlmariNurminen"
         }
@@ -19255,12 +19271,20 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0000 0003 7588 4210",
+          "scheme": "isni"
+        },
+        {
           "identifier": "9972",
           "scheme": "kansallisbiografia"
         },
         {
           "identifier": "389",
           "scheme": "kansanmuisti"
+        },
+        {
+          "identifier": "n2012044046",
+          "scheme": "lcauth"
         },
         {
           "identifier": "252833045",
@@ -19802,6 +19826,10 @@
         {
           "identifier": "137",
           "scheme": "kansanmuisti"
+        },
+        {
+          "identifier": "vhzu80xp5bz8",
+          "scheme": "parlement"
         },
         {
           "identifier": "556",
@@ -23007,7 +23035,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kimmo_Tiilikainen.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/595572839308206080/SwJZP7am.jpg"
+          "url": "https://pbs.twimg.com/profile_images/786188881494437888/vWCFAGLD.jpg"
         }
       ],
       "links": [
@@ -40758,6 +40786,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1065632541",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "212",
           "scheme": "kansanmuisti"
         },
@@ -40792,6 +40824,11 @@
       "name": "Päivi Lipponen",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Päivi Lipponen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Päivi Lipponen",
           "note": "multilingual"
@@ -40808,6 +40845,11 @@
         },
         {
           "lang": "nl",
+          "name": "Päivi Lipponen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Päivi Lipponen",
           "note": "multilingual"
         }
@@ -43621,6 +43663,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Sami_Savio"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sami_Savio"
         },
         {
           "note": "twitter",
@@ -51106,6 +51152,10 @@
           "url": "https://fi.wikipedia.org/wiki/Tiina_Elovaara"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tiina_Elovaara"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/TiinaElovaara"
         },
@@ -54938,6 +54988,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "Ville Itälä",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Ville Itälä",
           "note": "multilingual"
@@ -55594,12 +55649,25 @@
           "url": "https://fiwikiquote.wikipedia.org/wiki/Wille_Rydman"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/RydmanWille"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/willerydman"
+        },
+        {
+          "note": "website",
+          "url": "http://www.willerydman.fi/"
         }
       ],
       "name": "Wille Rydman",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Wille Rydman",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Wille Rydman",
@@ -55617,6 +55685,11 @@
         },
         {
           "lang": "nl",
+          "name": "Wille Rydman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Wille Rydman",
           "note": "multilingual"
         }
@@ -55682,7 +55755,8 @@
         }
       ],
       "name": "Eduskunta",
-      "seats": 200
+      "seats": 200,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -56952,7 +57026,7 @@
         },
         {
           "lang": "ko",
-          "name": "진정한 핀란드인",
+          "name": "핀인당",
           "note": "multilingual"
         },
         {
@@ -57148,6 +57222,11 @@
         {
           "lang": "ko",
           "name": "트루 핀스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "진정한 핀란드인",
           "note": "multilingual"
         },
         {

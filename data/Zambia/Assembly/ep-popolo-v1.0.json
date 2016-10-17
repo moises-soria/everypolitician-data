@@ -726,6 +726,10 @@
         {
           "identifier": "3340",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27063490",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Hon.%20Dr.%20Chitalu%20Chilufya.jpg?itok=T3qyBT--",
@@ -734,7 +738,20 @@
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Hon.%20Dr.%20Chitalu%20Chilufya.jpg?itok=T3qyBT--"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chitalu_Chilufya"
+        }
+      ],
       "name": "Chitalu Chilufya",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Chitalu Chilufya",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/members-of-parliament"
@@ -2941,11 +2958,17 @@
     },
     {
       "birth_date": "1968-04-10",
+      "gender": "female",
+      "given_name": "Margaret",
       "id": "b53de39a-ab4c-45ee-8e5f-fac085f0d758",
       "identifiers": [
         {
           "identifier": "3754",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6759764",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Margaret%20Mwanakatwe.jpg?itok=qP2eS9E9",
@@ -2954,7 +2977,49 @@
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Margaret%20Mwanakatwe.jpg?itok=qP2eS9E9"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Margaret_Mwanakatwe"
+        }
+      ],
       "name": "Margaret Mhango Mwanakatwe",
+      "other_names": [
+        {
+          "name": "Margaret Mwanakatwe",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Margaret Mwanakatwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Margaret Mwanakatwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Margaret Mwanakatwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Margaret Mwanakatwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Margaret Mwanakatwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Margaret Mwanakatwe",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/members-of-parliament/page/2/0"
@@ -5583,7 +5648,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 150
+      "seats": 150,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",

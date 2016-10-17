@@ -2891,6 +2891,38 @@
       "contact_details": [
         {
           "type": "twitter",
+          "value": "italiajijonb"
+        }
+      ],
+      "gender": "female",
+      "id": "c11cdd1c-28cc-4f05-a243-598df1b6950c",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15666-1476389062.jpg?itok=Qyw7QSnA",
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15666-1476389062.jpg?itok=Qyw7QSnA"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/100013247295884"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/italiajijonb"
+        }
+      ],
+      "name": "Italia Luisa Jijón Buendía",
+      "sources": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/blogs/italiajijon"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "twitter",
           "value": "JohannaCedeno"
         }
       ],
@@ -7592,7 +7624,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 137
+      "seats": 137,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -8721,6 +8754,14 @@
       "on_behalf_of_id": "party/alianza_pais",
       "organization_id": "9e0caec8-ba6c-4c1f-aa1f-fedb1ede6535",
       "person_id": "bbc9f60d-c49f-4cf5-a986-da77d6ff3ec2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/esmeraldas",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/alianza_pais",
+      "organization_id": "9e0caec8-ba6c-4c1f-aa1f-fedb1ede6535",
+      "person_id": "c11cdd1c-28cc-4f05-a243-598df1b6950c",
       "role": "member"
     },
     {

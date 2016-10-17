@@ -58,7 +58,7 @@ module Source
     end
 
     def id_map_file
-      Pathname.new(filename.sub(/.csv$/, '-ids.csv'))
+      filename.parent.parent + 'idmap/' + filename.basename
     end
   end
 end

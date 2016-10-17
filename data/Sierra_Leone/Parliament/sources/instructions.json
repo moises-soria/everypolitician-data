@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/sierra-leone-parliament",
+        "scraper": "everypolitician-scrapers/sierra-leone-parliament",
         "query": "SELECT * FROM data"
       },
       "source": "http://www.parliament.gov.sl",

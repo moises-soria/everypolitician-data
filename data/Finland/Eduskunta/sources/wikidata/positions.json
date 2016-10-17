@@ -1916,13 +1916,19 @@
         "P580": "1995-04-13",
         "P582": "2003-04-17",
         "P1365": "Esko Aho",
-        "P1366": "Anneli Jäätteenmäki"
+        "P1366": "Anneli Jäätteenmäki",
+        "P361": "Paavo Lipponen's first cabinet"
       }
     },
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1983-03-26",
+        "P582": "1987-03-20",
+        "P768": "Helsinki"
+      }
     },
     {
       "id": "Q392228",
@@ -1934,6 +1940,16 @@
         "P582": "2007-03-20",
         "P1365": "Liisa Jaakonsaari",
         "P1366": "Timo Kalli"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1991-03-22",
+        "P582": "2007-03-20",
+        "P768": "Helsinki"
       }
     }
   ],
@@ -2339,7 +2355,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-03-21",
+        "P582": "2015-04-21",
+        "P768": "Helsinki"
+      }
     }
   ],
   "Q438744": [
@@ -3530,7 +3551,11 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2015-04-22",
+        "P768": "Helsinki"
+      }
     }
   ],
   "Q11856745": [

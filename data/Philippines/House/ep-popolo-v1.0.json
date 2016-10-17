@@ -2031,6 +2031,10 @@
           "url": "https://tl.wikipedia.org/wiki/Walden_Bello"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/瓦爾登·貝約"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/WaldenBello"
         }
@@ -9122,6 +9126,10 @@
         {
           "identifier": "Q486359",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Pacquiao-1",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/pacquiao-e.jpg",
@@ -10854,7 +10862,7 @@
         },
         {
           "lang": "ru",
-          "name": "Роман, Херминия",
+          "name": "Роман, Эрминия",
           "note": "multilingual"
         },
         {
@@ -13826,7 +13834,8 @@
         }
       ],
       "name": "House of Representatives",
-      "seats": 292
+      "seats": 292,
+      "type": "lower house"
     },
     {
       "classification": "party",

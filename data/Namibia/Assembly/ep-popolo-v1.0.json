@@ -3610,6 +3610,11 @@
           "lang": "sv",
           "name": "Hidipo Hamutenya",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "希迪波·哈穆滕尼亞",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -13901,7 +13906,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 78
+      "seats": 78,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",

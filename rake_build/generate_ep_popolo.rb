@@ -174,51 +174,44 @@ namespace :transform do
   task write: :election_info
   task election_info: :load do
     @INSTRUCTIONS.sources_of_type('wikidata-elections').each do |src|
-      elections = src.as_json
-      elections.each do |id, data|
-        name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for #{id}"
-        dates = [data[:dates], data[:start_date], data[:end_date]].flatten.compact.sort
-        next warn "No dates for election #{id} (#{name[:name]})" if dates.empty?
-
-        info = {
-          id:             id,
-          name:           name[:name],
-          start_date:     dates.first,
-          end_date:       dates.last,
-          classification: 'general election',
-        }
-
-        @json[:events] << info
-      end
+      @json[:events] += src.to_popolo[:events]
     end
   end
 
   #---------------------------------------------------------------------
-  # Add area wikidata information
+  # Merge area wikidata information
   #---------------------------------------------------------------------
   task write: :area_wikidata
   task area_wikidata: :load do
     @INSTRUCTIONS.sources_of_type('area-wikidata').each do |src|
-      area_data = src.as_json
-      @json[:areas].each do |area|
-        next unless area[:type] == 'constituency'
-        # FIXME: This doesn't do a deep merge. Nested arrays will be clobbered
-        area.merge!(area_data.fetch(area[:id].sub(/^area\//, '').to_sym, {}))
+      src.to_popolo[:areas].each do |area|
+        @json[:areas].select do |a|
+          a[:type] == 'constituency' &&
+          a[:id].split('/').last == area[:id].split('/').last
+        end.each do |existing|
+          existing.merge!(area) do |key, old, new|
+            key == :id ? old : new
+          end
+        end
       end
     end
   end
 
   #---------------------------------------------------------------------
-  # Add group wikidata information
+  # Merge group wikidata information
   #---------------------------------------------------------------------
   task write: :group_wikidata
   task group_wikidata: :load do
     @INSTRUCTIONS.sources_of_type('group').each do |src|
-      group_data = src.as_json
-      @json[:organizations].select { |o| o[:classification] == 'party' }.each do |org|
-        # FIXME: This doesn't do a deep merge, so any nested arrays on 'org'
-        # will be clobbered if they appear in 'group_data'.
-        org.merge!(group_data.fetch(org[:id].sub(/^party\//, '').to_sym, {}))
+      src.to_popolo[:organizations].each do |org|
+        @json[:organizations].select do |o|
+          o[:classification] == 'party' &&
+          o[:id].split('/').last == org[:id].split('/').last
+        end.each do |existing|
+          existing.merge!(org) do |key, old, new|
+            key == :id ? old : new
+          end
+        end
       end
     end
   end

@@ -1035,6 +1035,7 @@
     },
     {
       "family_name": "Chisholm",
+      "gender": "male",
       "given_name": "Anthony",
       "id": "c92a9030-27d8-404f-b666-892e36d7da87",
       "identifiers": [
@@ -2924,6 +2925,7 @@
     },
     {
       "family_name": "Burston",
+      "gender": "male",
       "given_name": "Brian",
       "id": "dc64384f-3d50-4021-934c-afafc23d789c",
       "identifiers": [
@@ -3362,6 +3364,10 @@
         {
           "identifier": "Q4974135",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Setright-7",
+          "scheme": "wikitree"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bronwyn_Bishop_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer_(1).jpg",
@@ -5977,6 +5983,7 @@
     },
     {
       "family_name": "Hinch",
+      "gender": "male",
       "given_name": "Derryn",
       "id": "4dcae960-6add-4eb7-9a7e-b6e9a487b226",
       "identifiers": [
@@ -9154,6 +9161,7 @@
     },
     {
       "family_name": "Hume",
+      "gender": "female",
       "given_name": "Jane",
       "id": "25d08d84-ab20-4dd9-a6da-03bcc00e0be1",
       "identifiers": [
@@ -11673,6 +11681,7 @@
     },
     {
       "family_name": "Duniam",
+      "gender": "male",
       "given_name": "Jonathon",
       "id": "da45dd59-aa31-497b-ade2-bdfca3d2b5e6",
       "identifiers": [
@@ -12686,8 +12695,20 @@
       "id": "c90defd2-85bc-4a65-a996-725425b33971",
       "identifiers": [
         {
+          "identifier": "35695623",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "556845",
+          "scheme": "nlatrove"
+        },
+        {
           "identifier": "10581",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "93131962",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q6394660",
@@ -13827,6 +13848,7 @@
     },
     {
       "family_name": "Roberts",
+      "gender": "male",
       "given_name": "Malcolm",
       "id": "bbcc4637-f999-4f75-83b2-c86f0bb8402f",
       "identifiers": [
@@ -15794,6 +15816,7 @@
     },
     {
       "family_name": "Watt",
+      "gender": "male",
       "given_name": "Murray",
       "id": "1c01023d-14f1-45e0-a069-f1ce45a25dcd",
       "identifiers": [
@@ -17175,6 +17198,7 @@
     },
     {
       "family_name": "Hanson",
+      "gender": "female",
       "given_name": "Pauline",
       "id": "88d336ef-5985-44c3-9715-6238b7e71aff",
       "identifiers": [
@@ -19077,6 +19101,12 @@
           "scheme": "openaustralia"
         }
       ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg"
+        }
+      ],
       "name": "Rod Culleton",
       "other_names": [
         {
@@ -20488,6 +20518,7 @@
     },
     {
       "family_name": "Kakoschke-Moore",
+      "gender": "female",
       "given_name": "Skye",
       "id": "6714e981-e55e-4576-a271-8e27e4d8d50f",
       "identifiers": [
@@ -20950,6 +20981,7 @@
     },
     {
       "family_name": "Griff",
+      "gender": "male",
       "given_name": "Stirling",
       "id": "9b18d569-545a-41d7-a680-ea0d7819a8f4",
       "identifiers": [
@@ -21282,6 +21314,10 @@
         {
           "identifier": "450072",
           "scheme": "fast"
+        },
+        {
+          "identifier": "618663",
+          "scheme": "nlatrove"
         },
         {
           "identifier": "10554",
@@ -27028,7 +27064,8 @@
         }
       ],
       "name": "Senate",
-      "seats": 76
+      "seats": 76,
+      "type": "upper house"
     }
   ],
   "meta": {

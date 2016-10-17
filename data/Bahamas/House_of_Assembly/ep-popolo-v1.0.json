@@ -1103,10 +1103,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/2006_0322_rice_600.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Perry_Christie_January_2015.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/2006_0322_rice_600.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Perry_Christie_January_2015.jpg"
         }
       ],
       "links": [
@@ -1173,6 +1173,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/페리_크리스티"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Perry_Christie"
         },
         {
           "note": "Wikipedia (mr)",
@@ -1328,6 +1332,11 @@
         {
           "lang": "ko",
           "name": "페리 크리스티",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Perry Christie",
           "note": "multilingual"
         },
         {
@@ -1921,7 +1930,8 @@
         }
       ],
       "name": "House of Assembly",
-      "seats": 38
+      "seats": 38,
+      "type": "lower house"
     },
     {
       "classification": "party",
