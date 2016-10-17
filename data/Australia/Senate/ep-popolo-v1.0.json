@@ -3364,6 +3364,10 @@
         {
           "identifier": "Q4974135",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Setright-7",
+          "scheme": "wikitree"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bronwyn_Bishop_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer_(1).jpg",
@@ -12691,8 +12695,20 @@
       "id": "c90defd2-85bc-4a65-a996-725425b33971",
       "identifiers": [
         {
+          "identifier": "35695623",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "556845",
+          "scheme": "nlatrove"
+        },
+        {
           "identifier": "10581",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "93131962",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q6394660",
@@ -19083,6 +19099,12 @@
         {
           "identifier": "10850",
           "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg"
         }
       ],
       "name": "Rod Culleton",
@@ -27042,7 +27064,8 @@
         }
       ],
       "name": "Senate",
-      "seats": 76
+      "seats": 76,
+      "type": "upper house"
     }
   ],
   "meta": {

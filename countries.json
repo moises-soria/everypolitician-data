@@ -683,11 +683,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7d83337e0a5733b8a61466acd253675b4d17b312/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2259b059ba96de7ea71de92806906f28772f5b30/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
-        "lastmod": "1476498297",
+        "lastmod": "1476656806",
         "person_count": 256,
-        "sha": "7d83337e0a5733b8a61466acd253675b4d17b312",
+        "sha": "2259b059ba96de7ea71de92806906f28772f5b30",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -695,7 +695,7 @@
             "start_date": "2016-07-02",
             "slug": "45",
             "csv": "data/Australia/Senate/term-45.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7d83337e0a5733b8a61466acd253675b4d17b312/data/Australia/Senate/term-45.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2259b059ba96de7ea71de92806906f28772f5b30/data/Australia/Senate/term-45.csv"
           },
           {
             "end_date": "2016-05-09",
@@ -704,7 +704,7 @@
             "start_date": "2013-09-07",
             "slug": "44",
             "csv": "data/Australia/Senate/term-44.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7d83337e0a5733b8a61466acd253675b4d17b312/data/Australia/Senate/term-44.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2259b059ba96de7ea71de92806906f28772f5b30/data/Australia/Senate/term-44.csv"
           },
           {
             "end_date": "2013-09-07",
@@ -788,7 +788,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0d975c00c5ba8b50c59fa16d80029a5a294958e2/data/Australia/Senate/term-35.csv"
           }
         ],
-        "statement_count": 20737
+        "statement_count": 20748
       }
     ]
   },
