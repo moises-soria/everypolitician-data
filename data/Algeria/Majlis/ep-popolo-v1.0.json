@@ -2593,6 +2593,10 @@
         {
           "identifier": "146",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20666415",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/71.jpg",
@@ -2601,7 +2605,29 @@
           "url": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/71.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chahrazade_Kirouani"
+        }
+      ],
       "name": "BENTOURI EPOUSE KIROUANI CHERAZADE",
+      "other_names": [
+        {
+          "name": "Chahrazade Kirouani",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Chahrazade Kirouani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chahrazade Kirouani",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.apn.dz/fr/les-membres/les-membres-de-l-apn-7-eme-legislature/presentation-nominative-individuelle/146-bentouri-cherazade"
@@ -8514,6 +8540,10 @@
         {
           "identifier": "436",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24590204",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/440.jpg",
@@ -8522,7 +8552,39 @@
           "url": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/440.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chafia_Mentalecheta"
+        }
+      ],
       "name": "MENTALECHETA CHAFIA",
+      "other_names": [
+        {
+          "name": "Chafia Mentalecheta",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Chafia Mentalecheta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chafia Mentalecheta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Chafia Mentalecheta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Chafia Mentalecheta",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.apn.dz/fr/les-membres/deputes-international/436-mentalecheta-chafia"
@@ -12679,7 +12741,8 @@
         }
       ],
       "name": "People's National Assembly",
-      "seats": 462
+      "seats": 462,
+      "type": "lower house"
     },
     {
       "classification": "party",
