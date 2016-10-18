@@ -3915,7 +3915,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 194
+      "seats": 194,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -3956,6 +3957,21 @@
         {
           "lang": "ja",
           "name": "人民党 (マラウイ)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "People’s Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "People's Party",
           "note": "multilingual"
         },
         {
