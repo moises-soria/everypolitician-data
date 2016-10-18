@@ -10832,6 +10832,10 @@
           "scheme": "pace"
         },
         {
+          "identifier": "viaffkzc0qvb",
+          "scheme": "parlement"
+        },
+        {
           "identifier": "Q261709",
           "scheme": "wikidata"
         }
@@ -16019,7 +16023,11 @@
         },
         {
           "note": "website",
-          "url": "info@thfortsakis.gr; http://www.thfortsakis.gr/"
+          "url": "info@thfortsakis.gr"
+        },
+        {
+          "note": "website",
+          "url": "http://www.thfortsakis.gr/"
         }
       ],
       "name": "Fortsakis Theodoros",
@@ -25942,7 +25950,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ilias_Kasidiaris_b_Mar_2016_(cropped).jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/785408373319733248/syQaiaSy.jpg"
+          "url": "https://pbs.twimg.com/profile_images/786620554287677441/-fzp3vHe.jpg"
         }
       ],
       "links": [
@@ -27830,7 +27838,7 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/%CE%9C%CE%91%CE%A1%CE%99%CE%9F%CE%A5%20%CE%9A%CE%91%CE%A4%CE%A3%CE%97_1.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/610213049245503489/WiV5Tp__.jpg"
+          "url": "https://pbs.twimg.com/profile_images/786303297250553856/Ri00njIo.jpg"
         }
       ],
       "links": [
@@ -30599,6 +30607,10 @@
         {
           "identifier": "eaa6b7e1-359d-4d59-8e2f-71a2a7457c05",
           "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "vi2jm5vbp0zn",
+          "scheme": "parlement"
         },
         {
           "identifier": "Q445545",
@@ -51236,6 +51248,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "פרוקופיס פבלופולוס",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "Prokópisz Pavlópulosz",
           "note": "multilingual"
@@ -61798,15 +61815,37 @@
       ]
     },
     {
+      "birth_date": "1931-02-06",
+      "gender": "male",
+      "given_name": "Georgios",
       "id": "39d8908e-1518-489b-80e4-d4179b195190",
       "identifiers": [
         {
           "identifier": "b067b5f9-00cf-4807-b939-d073206acf9f",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "b067b5f9-00cf-4807-b939-d073206acf9f",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q14623739",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γεώργιος_Τερζόπουλος"
         }
       ],
       "name": "Terzopoulos Georgios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Γεώργιος Τερζόπουλος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Τερζόπουλος Μιλτιάδη Γεώργιος",
@@ -70728,6 +70767,16 @@
           "lang": "pl",
           "name": "Nikos Wutsis",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "尼科斯·乌齐斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "尼科斯·烏齊斯",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -73828,7 +73877,8 @@
         }
       ],
       "name": "Hellenic Parliament",
-      "seats": 300
+      "seats": 300,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
