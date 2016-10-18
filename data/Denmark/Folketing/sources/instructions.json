@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "file": "manual/members.csv",
+      "query": "SELECT * FROM data",
+      "source": "http://www.thedanishparliament.dk",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
