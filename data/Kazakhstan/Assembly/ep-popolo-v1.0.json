@@ -5577,6 +5577,11 @@
           "lang": "es",
           "name": "Partido Comunista del Pueblo de Kazajistán",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti populaire communiste du Kazakhstan",
+          "note": "multilingual"
         }
       ]
     },
@@ -6203,7 +6208,8 @@
         }
       ],
       "name": "Mazhilis",
-      "seats": 77
+      "seats": 77,
+      "type": "lower house"
     },
     {
       "classification": "party",
