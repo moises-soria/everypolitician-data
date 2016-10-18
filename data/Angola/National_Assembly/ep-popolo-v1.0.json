@@ -505,6 +505,7 @@
       "name": "ANATILDE DE JESUS DE OLIVEIRA FREIRE CAMPOS"
     },
     {
+      "gender": "male",
       "id": "dfe1a61a-ad1b-4096-b295-988795fea277",
       "identifiers": [
         {
@@ -5990,7 +5991,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 220
+      "seats": 220,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
