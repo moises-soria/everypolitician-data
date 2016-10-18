@@ -635,14 +635,30 @@
         }
       ],
       "id": "d5b81f56-e221-4dbf-94fe-08444b522545",
+      "identifiers": [
+        {
+          "identifier": "Q22974407",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771017.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771017.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/안호영_(1965년)"
+        }
+      ],
       "name": "AN HOYOUNG",
       "other_names": [
+        {
+          "name": "안호영",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "安浩永",
@@ -760,17 +776,41 @@
         {
           "type": "phone",
           "value": "02-784-6130"
+        },
+        {
+          "type": "twitter",
+          "value": "100hyeryun"
         }
       ],
       "id": "7239ec01-6656-4100-925f-cde85875ba2e",
+      "identifiers": [
+        {
+          "identifier": "Q17401310",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770980.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770980.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/백혜련"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/100hyeryun"
+        }
+      ],
       "name": "BACK HYERYUN",
       "other_names": [
+        {
+          "name": "백혜련",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "白惠蓮",
@@ -906,7 +946,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q20651782",
+          "identifier": "Q12597908",
           "scheme": "wikidata"
         }
       ],
@@ -922,7 +962,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/백재현"
+          "url": "https://ko.wikipedia.org/wiki/백재현_(정치인)"
         },
         {
           "note": "facebook",
@@ -1047,6 +1087,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "白君基",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "백군기",
           "note": "multilingual"
@@ -1067,14 +1112,30 @@
         }
       ],
       "id": "b8a2209f-4bf1-431b-8945-ba441e80d22a",
+      "identifiers": [
+        {
+          "identifier": "Q16082871",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771025.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771025.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/백승주_(1961년)"
+        }
+      ],
       "name": "BAEK SEUNGJOO",
       "other_names": [
+        {
+          "name": "백승주",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "白承周",
@@ -1191,6 +1252,7 @@
         }
       ],
       "email": "bji@assembly.go.kr",
+      "gender": "male",
       "id": "4f35e5c2-5e37-4ebf-bd6a-697de07b1ad7",
       "identifiers": [
         {
@@ -1353,6 +1415,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "閔丙梪",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "민병두",
           "note": "multilingual"
@@ -1458,6 +1525,7 @@
         }
       ],
       "email": "ulsanbmw1@naver.com",
+      "gender": "male",
       "id": "7963bcd9-1bb4-4c26-b014-90611ed37a88",
       "identifiers": [
         {
@@ -1465,7 +1533,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q16068161",
+          "identifier": "Q11986047",
           "scheme": "wikidata"
         }
       ],
@@ -1477,8 +1545,12 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bak_Maeng-woo"
+        },
+        {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/박맹우"
+          "url": "https://ko.wikipedia.org/wiki/박맹우_(1951년)"
         },
         {
           "note": "website",
@@ -1497,8 +1569,43 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Bak Maeng-woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bak Maeng-woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bak Maeng-woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bak Maeng-woo",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "박맹우",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bak Maeng-woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "朴孟雨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "樸孟雨",
           "note": "multilingual"
         }
       ],
@@ -1522,6 +1629,12 @@
       ],
       "email": "cyber633@naver.com",
       "id": "e2a03858-ee8d-4dad-bf26-92e65cc8c9f6",
+      "identifiers": [
+        {
+          "identifier": "Q24000768",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771074.jpg",
       "images": [
         {
@@ -1530,12 +1643,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/채이배"
+        },
+        {
           "note": "website",
           "url": "http://doublechae.kr"
         }
       ],
       "name": "CHAE YIBAI",
       "other_names": [
+        {
+          "name": "채이배",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "蔡利培",
@@ -1660,6 +1781,7 @@
         }
       ],
       "email": "onethehuman@gmail.com",
+      "gender": "female",
       "id": "e3f01fa6-da67-4fe7-8a4d-f66e3b0acf5d",
       "identifiers": [
         {
@@ -1669,6 +1791,10 @@
         {
           "identifier": "197729",
           "scheme": "popong"
+        },
+        {
+          "identifier": "Q12614768",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770842.jpg",
@@ -1677,10 +1803,17 @@
           "url": "http://www.assembly.go.kr/photo/9770842.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jang_Ha-Na.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/715416076486443008/F3CXlwYW.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/장하나_(1977년)"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/onethehuman"
@@ -1701,7 +1834,11 @@
       "name": "CHANG Ha Na",
       "other_names": [
         {
-          "name": "장하나 국회의원",
+          "name": "장하나",
+          "note": "alternate"
+        },
+        {
+          "name": "장하나",
           "note": "alternate"
         },
         {
@@ -1727,17 +1864,41 @@
         {
           "type": "phone",
           "value": "02-784-3851"
+        },
+        {
+          "type": "twitter",
+          "value": "changjewon"
         }
       ],
       "id": "71cb371c-935a-4e32-9beb-d6d2c075428d",
+      "identifiers": [
+        {
+          "identifier": "Q12614683",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770954.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770954.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/장제원"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/changjewon"
+        }
+      ],
       "name": "CHANG JEWON",
       "other_names": [
+        {
+          "name": "장제원",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "張濟元",
@@ -1764,14 +1925,30 @@
         }
       ],
       "id": "12b09d4c-3ee9-44b6-889d-a678da3baf36",
+      "identifiers": [
+        {
+          "identifier": "Q24000773",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771079.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771079.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/장정숙"
+        }
+      ],
       "name": "CHANG JUNGSOOK",
       "other_names": [
+        {
+          "name": "장정숙",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "張貞淑",
@@ -1877,7 +2054,14 @@
         }
       ],
       "email": "cys9904@gmail.com",
+      "gender": "male",
       "id": "60be3f54-bcf1-4ccc-a74c-77c469bd0996",
+      "identifiers": [
+        {
+          "identifier": "Q12615823",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770928.jpg",
       "images": [
         {
@@ -1886,6 +2070,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cheong_Yang-seog"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정양석"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/wjddidtjr4u"
         }
@@ -1893,8 +2085,17 @@
       "name": "CHEONG YANGSEOG",
       "other_names": [
         {
+          "name": "정양석",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "鄭亮碩",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cheong Yang-seog",
           "note": "multilingual"
         },
         {
@@ -1999,14 +2200,30 @@
         }
       ],
       "id": "2d72afcf-1c3d-4fc5-94b6-f1cd130a8d17",
+      "identifiers": [
+        {
+          "identifier": "Q12616687",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771014.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771014.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/조배숙"
+        }
+      ],
       "name": "CHO BAESOOK",
       "other_names": [
+        {
+          "name": "조배숙",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "趙培淑",
@@ -2038,6 +2255,12 @@
       ],
       "email": "chopros312@gmail.com",
       "id": "2fc814f6-bc95-483b-a8dd-246a0724b72b",
+      "identifiers": [
+        {
+          "identifier": "Q24000517",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770990.jpg",
       "images": [
         {
@@ -2046,12 +2269,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/조응천"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/chopros"
         }
       ],
       "name": "CHO EUNGCHEON",
       "other_names": [
+        {
+          "name": "조응천",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "趙應天",
@@ -2082,14 +2313,69 @@
         }
       ],
       "email": "Chohoonhyun@assembly.go.kr",
+      "family_name": "Cao",
+      "gender": "male",
       "id": "51fa4036-2f17-4a7b-9d8d-56fc04d5ff02",
+      "identifiers": [
+        {
+          "identifier": "/m/01tgv8",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q484698",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771052.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771052.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Chohunhyun1.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Cho_Hun-hyeon"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Cho_Hun-hyeon"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cho_Hun-hyun"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cho_Hunhyun"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/チョ薫鉉"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/조훈현"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чо_Хунхён"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Cho_Hunhyun"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Jo_Hunhyeon"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/曺薰铉"
+        },
         {
           "note": "website",
           "url": "http://blog.naver.com/chohoonhyun"
@@ -2098,13 +2384,87 @@
       "name": "CHO HOONHYUN",
       "other_names": [
         {
+          "name": "조훈현",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "曺薰鉉",
           "note": "multilingual"
         },
         {
+          "lang": "cs",
+          "name": "Cho Hun-hyun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Cho Hun-hyeon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cho Hun-hyun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Cho Hunhyun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cho Hunhyun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "チョ薫鉉",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "조훈현",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cho Hunhyun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чо Хунхён",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Cho Hunhyun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Jo Hunhyeon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "曹薰铉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "曹薰铉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "曹薰鉉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "曹薰鉉",
           "note": "multilingual"
         }
       ],
@@ -2451,6 +2811,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ko:조경태",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "조경태",
           "note": "multilingual"
@@ -2740,14 +3105,30 @@
         }
       ],
       "id": "d92e048b-df8b-47ee-9b4d-c67061774400",
+      "identifiers": [
+        {
+          "identifier": "Q24000766",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771081.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771081.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/최도자"
+        }
+      ],
       "name": "CHOI DOJA",
       "other_names": [
+        {
+          "name": "최도자",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "崔道子",
@@ -2841,14 +3222,30 @@
         }
       ],
       "id": "8ae525c5-5569-425d-bfa4-220dc29aff7c",
+      "identifiers": [
+        {
+          "identifier": "Q21060452",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771027.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771027.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/최교일"
+        }
+      ],
       "name": "CHOI GYOIL",
       "other_names": [
+        {
+          "name": "최교일",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "崔敎一",
@@ -2875,14 +3272,30 @@
         }
       ],
       "id": "a9e2e381-6e4e-47c1-ba4a-419c3f9002ae",
+      "identifiers": [
+        {
+          "identifier": "Q24856358",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770976.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770976.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/최경환_(1959년)"
+        }
+      ],
       "name": "CHOI GYUNGHWAN",
       "other_names": [
+        {
+          "name": "최경환",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "崔敬煥",
@@ -2909,14 +3322,30 @@
         }
       ],
       "id": "c0ec08e9-2282-49d8-8504-ad211b1d6095",
+      "identifiers": [
+        {
+          "identifier": "Q24856313",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770952.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770952.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/최인호_(1966년)"
+        }
+      ],
       "name": "CHOI INHO",
       "other_names": [
+        {
+          "name": "최인호",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "崔仁昊",
@@ -2957,6 +3386,10 @@
         {
           "identifier": "1963188",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0641lcj",
+          "scheme": "freebase"
         },
         {
           "identifier": "1963188",
@@ -3147,6 +3580,7 @@
         }
       ],
       "email": "cks2603@assembly.go.kr",
+      "gender": "male",
       "id": "0282b83f-74b0-460a-a49e-f5fd1005bf8d",
       "identifiers": [
         {
@@ -3198,8 +3632,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Choi Kyu-Sung",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "최규성",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "崔奎成",
           "note": "multilingual"
         }
       ],
@@ -3251,7 +3695,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Park_Geun-hye_(8724400493)_(cropped).jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/1122778945/khwanchoi_01.png"
+          "url": "https://pbs.twimg.com/profile_images/773439793577492480/DCxTtfrF.jpg"
         }
       ],
       "links": [
@@ -3411,6 +3855,12 @@
       ],
       "email": "na836cmg@gmail.com",
       "id": "bd201157-e402-4cb0-a75b-201c9e972cc3",
+      "identifiers": [
+        {
+          "identifier": "Q24856298",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770948.jpg",
       "images": [
         {
@@ -3419,12 +3869,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/최명길_(1961년)"
+        },
+        {
           "note": "website",
           "url": "http://mk2017.blog.me/"
         }
       ],
       "name": "CHOI MYUNGGHIL",
       "other_names": [
+        {
+          "name": "최명길",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "崔明吉",
@@ -3459,6 +3917,7 @@
         }
       ],
       "email": "choiminhee51@gmail.com",
+      "gender": "female",
       "id": "bc84427a-0eb2-4223-9d3a-9f89afad3074",
       "identifiers": [
         {
@@ -3470,7 +3929,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q16070867",
+          "identifier": "Q16092129",
           "scheme": "wikidata"
         }
       ],
@@ -3480,13 +3939,17 @@
           "url": "http://www.assembly.go.kr/photo/9770855.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/755269730026475520/r3V_QDPM.jpg"
+          "url": "https://pbs.twimg.com/profile_images/784178374256185344/QxkCTn0g.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/최민희"
+          "url": "https://ko.wikipedia.org/wiki/최민희_(1960년)"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/崔敏姬"
         },
         {
           "note": "twitter",
@@ -3520,6 +3983,11 @@
           "lang": "ko",
           "name": "최민희",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "崔敏姬",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -3537,14 +4005,30 @@
         }
       ],
       "id": "7b24f945-f6d4-4bd7-94e4-3cf7699c22f8",
+      "identifiers": [
+        {
+          "identifier": "Q24000763",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771059.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771059.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/최운열"
+        }
+      ],
       "name": "CHOI WOONYOUL",
       "other_names": [
+        {
+          "name": "최운열",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "崔運烈",
@@ -3602,7 +4086,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/최원식"
+          "url": "https://ko.wikipedia.org/wiki/최원식_(1963년)"
         },
         {
           "note": "twitter",
@@ -3650,6 +4134,12 @@
       ],
       "email": "choiyeonhye@na.go.kr",
       "id": "a1ddf831-4788-4626-b9f8-bef06c87f879",
+      "identifiers": [
+        {
+          "identifier": "Q14444444",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771043.jpg",
       "images": [
         {
@@ -3658,15 +4148,48 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/최연혜"
+        },
+        {
           "note": "website",
-          "url": "www.facebook.com/choiyeonhye"
+          "url": "blog.naver.com/policy0829"
         }
       ],
       "name": "CHOI YEONHYE",
       "other_names": [
         {
+          "name": "최연혜",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "崔然惠",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Choi Yeonhae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Choi Yeonhae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Choi Yeonhae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Choi Yeonhae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Choi Yeonhae",
           "note": "multilingual"
         },
         {
@@ -3695,14 +4218,30 @@
       ],
       "email": "chongjs57@naver.com",
       "id": "27e1c90d-248f-4eb1-9e4d-1dce4d30e2ca",
+      "identifiers": [
+        {
+          "identifier": "Q16091728",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770957.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770957.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정종섭"
+        }
+      ],
       "name": "CHONG JONGSUP",
       "other_names": [
+        {
+          "name": "정종섭",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭宗燮",
@@ -3734,14 +4273,34 @@
       ],
       "email": "khchoo@assembly.go.kr",
       "id": "a037b10e-d07d-42ee-9df1-2d2b2638272c",
+      "identifiers": [
+        {
+          "identifier": "Q12619978",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770962.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770962.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Choo_Kyung-ho"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/추경호"
+        }
+      ],
       "name": "CHOO KYUNGHO",
       "other_names": [
+        {
+          "name": "추경호",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "秋慶鎬",
@@ -3800,6 +4359,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770659.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Choo_Mi-ae_2015_panel.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/743681992013684736/TkajZ1tl.jpg"
@@ -3957,6 +4519,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "鄭柄国",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "정병국",
           "note": "multilingual"
@@ -3977,14 +4544,30 @@
         }
       ],
       "id": "b4a6d6a4-4ea2-40af-8988-54b46420f554",
+      "identifiers": [
+        {
+          "identifier": "Q24000552",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770958.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770958.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정태옥"
+        }
+      ],
       "name": "CHOUNG TAEOK",
       "other_names": [
+        {
+          "name": "정태옥",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭泰沃",
@@ -4016,6 +4599,12 @@
       ],
       "email": "choojustice@gmail.com",
       "id": "1228d0a1-a76e-4fa5-9fcf-3dd0d31d2e14",
+      "identifiers": [
+        {
+          "identifier": "Q24000776",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771084.jpg",
       "images": [
         {
@@ -4024,12 +4613,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/추혜선"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/choojustice"
         }
       ],
       "name": "CHU HYESEON",
       "other_names": [
+        {
+          "name": "추혜선",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "秋惠仙",
@@ -4056,14 +4653,30 @@
         }
       ],
       "id": "9df8e937-7b7d-46ce-9e58-fcc90f0cfc69",
+      "identifiers": [
+        {
+          "identifier": "Q12615269",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770951.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770951.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/전재수"
+        }
+      ],
       "name": "CHUN JAESOO",
       "other_names": [
+        {
+          "name": "전재수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "田載秀",
@@ -4163,6 +4776,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "千正培",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "천정배",
           "note": "multilingual"
@@ -4258,23 +4876,144 @@
           "value": "02-784-9540"
         }
       ],
+      "gender": "male",
       "id": "f9b7cda2-db1d-4f3d-adcd-622f0f5b84b6",
+      "identifiers": [
+        {
+          "identifier": "/m/06jg6f",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "535144928061554341520",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q491437",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771013.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771013.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chungdongyoung1.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chung_Dong-young"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chung_Dong-young"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/鄭東泳"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정동영"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Chung_Dong-young"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Chung_Dong-young"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чон_Донъён"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鄭東泳"
         }
       ],
       "name": "CHUNG DONGYOUNG",
       "other_names": [
+        {
+          "name": "정동영",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭東泳",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Chung Dong-young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Chung Dong-young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chung Dong-young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Chung Dong-young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "鄭東泳",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "정동영",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Chung Dong-young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chung Dong-young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Chung Dong-young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чон Донъён",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鄭東泳",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "郑东泳",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "鄭東泳",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "鄭東泳",
           "note": "multilingual"
         }
       ],
@@ -4547,14 +5286,30 @@
         }
       ],
       "id": "5de4410a-fc54-4abd-90b0-3ef5cb4f86a5",
+      "identifiers": [
+        {
+          "identifier": "Q12616038",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771006.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771006.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정진석_(정치인)"
+        }
+      ],
       "name": "CHUNG JINSUK",
       "other_names": [
+        {
+          "name": "정진석",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭鎭碩",
@@ -4563,6 +5318,11 @@
         {
           "lang": "ko",
           "name": "정진석",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鄭鎮碩",
           "note": "multilingual"
         }
       ],
@@ -4775,6 +5535,9 @@
           "url": "http://www.assembly.go.kr/photo/9770230.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chung_Sye-kyun.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/540452593286119424/ZWCRJ0p8.jpeg"
         }
       ],
@@ -4790,6 +5553,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/정세균"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/丁世均"
         },
         {
           "note": "facebook",
@@ -4836,6 +5603,11 @@
         {
           "lang": "ko",
           "name": "정세균",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "丁世均",
           "note": "multilingual"
         }
       ],
@@ -5170,6 +5942,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770755.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/도종환_국회_교육문화체육관광위원회_간사.jpg"
         }
       ],
       "links": [
@@ -5264,14 +6039,30 @@
         }
       ],
       "id": "29821bf8-8090-4718-9bba-a76c63eda832",
+      "identifiers": [
+        {
+          "identifier": "Q24000560",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771010.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771010.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/어기구"
+        }
+      ],
       "name": "EOH KIYKU",
       "other_names": [
+        {
+          "name": "어기구",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "魚基龜",
@@ -5712,6 +6503,11 @@
         },
         {
           "lang": "cn",
+          "name": "韓起鎬",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
           "name": "韓起鎬",
           "note": "multilingual"
         },
@@ -6213,7 +7009,7 @@
           "url": "http://www.assembly.go.kr/photo/9770865.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/733214134544670720/F1FoMYs0.jpg"
+          "url": "https://pbs.twimg.com/profile_images/763763997472493571/lsMDBIq7.jpg"
         }
       ],
       "links": [
@@ -6237,7 +7033,7 @@
           "note": "alternate"
         },
         {
-          "name": "홍종학의 소오강호",
+          "name": "홍종학과 더불어대한민국",
           "note": "alternate"
         },
         {
@@ -6456,6 +7252,7 @@
         }
       ],
       "email": "youngvote@hanmail.net",
+      "gender": "male",
       "id": "727c397b-fa27-4dde-865b-b36674ec0d81",
       "identifiers": [
         {
@@ -6477,7 +7274,7 @@
           "url": "http://www.assembly.go.kr/photo/9770676.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/720365965913890817/_TwLBc-H.jpg"
+          "url": "https://pbs.twimg.com/profile_images/779935809004724224/eHdMKTpS.jpg"
         }
       ],
       "links": [
@@ -6534,14 +7331,30 @@
         }
       ],
       "id": "5f946e32-1671-4ae2-9901-15f6bf92e67d",
+      "identifiers": [
+        {
+          "identifier": "Q24856300",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770936.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770936.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/황희_(1967년)"
+        }
+      ],
       "name": "HWANG HEE",
       "other_names": [
+        {
+          "name": "황희",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "黃熙",
@@ -7454,6 +8267,12 @@
       ],
       "email": "jsc5708@hanmail.net",
       "id": "9efcf29e-eb51-4e23-b744-474ecb3cb79f",
+      "identifiers": [
+        {
+          "identifier": "Q24000598",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771026.jpg",
       "images": [
         {
@@ -7462,12 +8281,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/장석춘"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/firstgumi"
         }
       ],
       "name": "JANG SEOKCHUN",
       "other_names": [
+        {
+          "name": "장석춘",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "張錫春",
@@ -7493,15 +8320,32 @@
           "value": "02-784-7451"
         }
       ],
+      "gender": "female",
       "id": "31bae6d6-a4d9-4031-abeb-2d3a4ab55132",
+      "identifiers": [
+        {
+          "identifier": "Q16091815",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771064.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771064.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/제윤경"
+        }
+      ],
       "name": "JE YOUNKYUNG",
       "other_names": [
+        {
+          "name": "제윤경",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "諸閏景",
@@ -7528,14 +8372,33 @@
         }
       ],
       "id": "e66d8489-8b3f-46a1-a931-7f06ebacceee",
+      "identifiers": [
+        {
+          "identifier": "Q12615381",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770946.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770946.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/전현희_-(싹튜브)_2014_서울종합예술학교_입학식.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/전현희"
         }
       ],
       "name": "JEON HYUNHEUI",
       "other_names": [
+        {
+          "name": "전현희",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "全賢姬",
@@ -7591,7 +8454,7 @@
           "url": "http://www.assembly.go.kr/photo/9770846.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/2997413150/024fd585c9fa5108f6dc13a9187a64c1.jpeg"
+          "url": "https://pbs.twimg.com/profile_images/761071183441698816/d0LM8FME.jpg"
         }
       ],
       "links": [
@@ -7656,6 +8519,7 @@
         }
       ],
       "email": "jhjeon411@naver.com",
+      "gender": "female",
       "id": "bbac93e3-97e8-4abb-9db0-ced9f60d0a64",
       "identifiers": [
         {
@@ -7739,6 +8603,12 @@
       ],
       "email": "101bbb@naver.com",
       "id": "a43897c2-84c0-4eb1-8dc1-01f4cdaa2549",
+      "identifiers": [
+        {
+          "identifier": "Q24000558",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771020.jpg",
       "images": [
         {
@@ -7747,12 +8617,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정인화"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/101bbb"
         }
       ],
       "name": "JEONG INHWA",
       "other_names": [
+        {
+          "name": "정인화",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭仁和",
@@ -7796,6 +8674,10 @@
         {
           "identifier": "19571151",
           "scheme": "popong"
+        },
+        {
+          "identifier": "Q12616056",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770848.jpg",
@@ -7805,6 +8687,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정진후_(1957년)"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/ktubox"
@@ -7825,6 +8711,10 @@
       "name": "JEONG Jinhoo",
       "other_names": [
         {
+          "name": "정진후",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "鄭鎭珝",
           "note": "multilingual"
@@ -7832,6 +8722,11 @@
         {
           "lang": "ko",
           "name": "정진후",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鄭鎮珝",
           "note": "multilingual"
         }
       ],
@@ -7924,6 +8819,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "チョン・カビュン",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "정갑윤",
           "note": "multilingual"
@@ -7954,16 +8854,37 @@
       ],
       "email": "gbs2008@daum.net",
       "id": "a4d48888-3ea5-4c3d-9b5f-8a74ac3e89e6",
+      "identifiers": [
+        {
+          "identifier": "Q12615874",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771012.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771012.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정운천"
+        }
+      ],
       "name": "JEONG WOON CHUN",
       "other_names": [
         {
+          "name": "정운천",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
+          "name": "鄭雲天",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
           "name": "鄭雲天",
           "note": "multilingual"
         },
@@ -8015,6 +8936,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770845.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/전하진_프로필.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/495939023202824193/K_LIf73T.jpeg"
@@ -8077,18 +9001,44 @@
           "value": "02-784-9640"
         }
       ],
+      "gender": "male",
       "id": "f26e5269-5842-4914-84ee-ab9714b18ce6",
+      "identifiers": [
+        {
+          "identifier": "Q12617992",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770925.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770925.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ji_Sang-wook"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/지상욱"
+        }
+      ],
       "name": "JI SANGWUK",
       "other_names": [
         {
+          "name": "지상욱",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "池尙昱",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ji Sang-wook",
           "note": "multilingual"
         },
         {
@@ -8280,6 +9230,12 @@
       ],
       "email": "yuseong0413@daum.net",
       "id": "5bafc3c6-8bb7-42b1-9005-43bb8ed1f1fb",
+      "identifiers": [
+        {
+          "identifier": "Q24000561",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770973.jpg",
       "images": [
         {
@@ -8288,12 +9244,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/조승래"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/yuseong0413"
         }
       ],
       "name": "JO SEOUNGLAE",
       "other_names": [
+        {
+          "name": "조승래",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "趙承來",
@@ -8410,14 +9374,30 @@
         }
       ],
       "id": "a421e5ba-d7f6-43c3-8dfb-cd5b5928bab7",
+      "identifiers": [
+        {
+          "identifier": "Q12617313",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770992.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770992.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/주광덕"
+        }
+      ],
       "name": "JOO KWANGDEOK",
       "other_names": [
+        {
+          "name": "주광덕",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朱光德",
@@ -8676,6 +9656,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ko:전병헌",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "전병헌",
           "note": "multilingual"
@@ -8701,14 +9686,30 @@
         }
       ],
       "id": "c50977bc-4d45-42c9-8deb-4a00f4f049ff",
+      "identifiers": [
+        {
+          "identifier": "Q24000769",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771047.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771047.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/전희경"
+        }
+      ],
       "name": "JUN HEEKYUNG",
       "other_names": [
+        {
+          "name": "전희경",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "全希卿",
@@ -8734,18 +9735,44 @@
           "value": "02-784-8340"
         }
       ],
+      "gender": "female",
       "id": "9e18f51e-b306-443e-9425-975b311bca8d",
+      "identifiers": [
+        {
+          "identifier": "Q16174531",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770926.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770926.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jeon_Hye-sook"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/전혜숙"
+        }
+      ],
       "name": "JUN HYESOOK",
       "other_names": [
         {
+          "name": "전혜숙",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "全惠淑",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jeon Hye-sook",
           "note": "multilingual"
         },
         {
@@ -8774,6 +9801,12 @@
       ],
       "email": "hopejung@na.go.kr",
       "id": "070bad2d-66b3-4681-a4b4-9db31ca5ce57",
+      "identifiers": [
+        {
+          "identifier": "Q12616088",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771068.jpg",
       "images": [
         {
@@ -8782,12 +9815,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정춘숙"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/chounsook_jung"
         }
       ],
       "name": "JUNG CHOUNSOOK",
       "other_names": [
+        {
+          "name": "정춘숙",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭春淑",
@@ -8843,7 +9884,7 @@
           "url": "http://www.assembly.go.kr/photo/9770882.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/682073537893371908/FUtBe210.jpg"
+          "url": "https://pbs.twimg.com/profile_images/778928250965798913/aB_XmjMo.jpg"
         }
       ],
       "links": [
@@ -8909,6 +9950,12 @@
       ],
       "email": "nice929ho@gmail.com",
       "id": "57424c9e-2208-4d1b-a252-9a69e4933344",
+      "identifiers": [
+        {
+          "identifier": "Q19941078",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770988.jpg",
       "images": [
         {
@@ -8917,12 +9964,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정재호_(1964년)"
+        },
+        {
           "note": "website",
           "url": "http://nice929ho.kr"
         }
       ],
       "name": "JUNG JAEHO",
       "other_names": [
+        {
+          "name": "정재호",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭在浩",
@@ -9000,6 +10055,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "鄭寿星",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "정수성",
           "note": "multilingual"
@@ -9049,7 +10109,7 @@
           "url": "http://www.assembly.go.kr/photo/9770881.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/2671794991/4d10e363b63120d2e3c43fa0e7a91b8a.jpeg"
+          "url": "https://pbs.twimg.com/profile_images/777684214405705728/BwPwF08v.jpg"
         }
       ],
       "links": [
@@ -9106,14 +10166,30 @@
         }
       ],
       "id": "897dcb32-aaef-4c3d-9a48-0949a5c62659",
+      "identifiers": [
+        {
+          "identifier": "Q24000555",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770965.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770965.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정유섭"
+        }
+      ],
       "name": "JUNG YOUSUB",
       "other_names": [
+        {
+          "name": "정유섭",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭有燮",
@@ -9144,6 +10220,10 @@
         {
           "identifier": "1956217",
           "scheme": "popong"
+        },
+        {
+          "identifier": "Q24856460",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770924.jpg",
@@ -9154,12 +10234,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/정윤숙"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/jungys0117"
         }
       ],
       "name": "JUNG Younsuk",
       "other_names": [
+        {
+          "name": "정윤숙",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "鄭潤淑",
@@ -9254,6 +10342,12 @@
       ],
       "email": "kangbw89@gmail.com",
       "id": "59f8a9f3-eec7-4b47-93e6-1d1d2d06bbec",
+      "identifiers": [
+        {
+          "identifier": "Q22972717",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770933.jpg",
       "images": [
         {
@@ -9262,12 +10356,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/강병원"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/kangbw89"
         }
       ],
       "name": "KANG BYUNGWON",
       "other_names": [
+        {
+          "name": "강병원",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "姜炳遠",
@@ -9442,6 +10544,7 @@
         }
       ],
       "email": "kang809@gmail.com",
+      "gender": "male",
       "id": "2181a096-6dd1-40ad-9b10-10c0168513c4",
       "identifiers": [
         {
@@ -9510,6 +10613,11 @@
         {
           "lang": "ja",
           "name": "姜昌一",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "カン・チャンイル",
           "note": "multilingual"
         },
         {
@@ -9675,8 +10783,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "姜恩姫",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "강은희",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "姜恩姬",
           "note": "multilingual"
         }
       ],
@@ -9757,6 +10875,11 @@
         },
         {
           "lang": "cn",
+          "name": "姜吉夫",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
           "name": "姜吉夫",
           "note": "multilingual"
         },
@@ -9957,14 +11080,30 @@
         }
       ],
       "id": "a63a2785-8ba4-458a-8bf6-9791a287bc31",
+      "identifiers": [
+        {
+          "identifier": "Q24000592",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771007.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771007.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/강훈식"
+        }
+      ],
       "name": "KANG HOONSIK",
       "other_names": [
+        {
+          "name": "강훈식",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "姜勳植",
@@ -9995,15 +11134,32 @@
         }
       ],
       "email": "ksjv7900@naver.com",
+      "gender": "male",
       "id": "22ccabce-75be-489f-ba8e-f03d92c17b0f",
+      "identifiers": [
+        {
+          "identifier": "Q12582922",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771036.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771036.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/강석진_(1959년)"
+        }
+      ],
       "name": "KANG SEOKJIN",
       "other_names": [
+        {
+          "name": "강석진",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "姜錫振",
@@ -10211,10 +11367,20 @@
         {
           "type": "phone",
           "value": "02-784-9761"
+        },
+        {
+          "type": "twitter",
+          "value": "gtaeboy"
         }
       ],
       "email": "gsgold2001@gmail.com",
       "id": "0ac67b13-3762-4b27-a952-22d73f62ed49",
+      "identifiers": [
+        {
+          "identifier": "Q12586585",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770937.jpg",
       "images": [
         {
@@ -10223,12 +11389,24 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/금태섭"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gtaeboy"
+        },
+        {
           "note": "website",
           "url": "http://www.gsgold.kr"
         }
       ],
       "name": "KEUM TAESUP",
       "other_names": [
+        {
+          "name": "금태섭",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "琴泰燮",
@@ -10255,14 +11433,30 @@
         }
       ],
       "id": "81b946b3-9436-44b5-badc-a5b10aa69a6f",
+      "identifiers": [
+        {
+          "identifier": "Q24000767",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771054.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771054.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/강효상"
+        }
+      ],
       "name": "KHANG HYOSHANG",
       "other_names": [
+        {
+          "name": "강효상",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "姜孝祥",
@@ -10288,23 +11482,54 @@
           "value": "02-784-3181"
         }
       ],
+      "gender": "male",
       "id": "c433f6ce-b91d-40c0-8e27-3108c5fa9b77",
+      "identifiers": [
+        {
+          "identifier": "Q23894231",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770927.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770927.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ki_Dong-min"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/기동민"
+        }
+      ],
       "name": "KI DONGMIN",
       "other_names": [
+        {
+          "name": "기동민",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "奇東旻",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Ki Dong-min",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "기동민",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ki Dong-min",
           "note": "multilingual"
         }
       ],
@@ -10424,25 +11649,68 @@
         {
           "type": "phone",
           "value": "02-784-4367"
+        },
+        {
+          "type": "twitter",
+          "value": "hopekbk"
         }
       ],
+      "gender": "male",
       "id": "4897ae11-77fc-4d14-84b6-d99eb4f6ad1b",
+      "identifiers": [
+        {
+          "identifier": "/g/121y0f1g",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Q12587534",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770960.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770960.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Boo-kyum"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김부겸"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/hopekbk"
+        }
+      ],
       "name": "KIM BOOKYUM",
       "other_names": [
+        {
+          "name": "김부겸",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金富謙",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Kim Boo-kyum",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "김부겸",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金富謙",
           "note": "multilingual"
         }
       ],
@@ -10466,14 +11734,34 @@
       ],
       "email": "kbgbundang@gmail.com",
       "id": "b622ae79-1016-417d-b1c3-5ff398810f2b",
+      "identifiers": [
+        {
+          "identifier": "Q22973130",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770983.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770983.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김병관_(1973년)"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/金炳官"
+        }
+      ],
       "name": "KIM BYOUNGGWAN",
       "other_names": [
+        {
+          "name": "김병관",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金炳官",
@@ -10499,23 +11787,54 @@
           "value": "02-784-1322"
         }
       ],
+      "gender": "male",
       "id": "e59c6011-32ce-4642-a6d1-fdbe7aea395c",
+      "identifiers": [
+        {
+          "identifier": "Q26924478",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770941.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770941.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Byung-kee"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김병기_(1961년)"
+        }
+      ],
       "name": "KIM BYUNGKEE",
       "other_names": [
+        {
+          "name": "김병기",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金炳基",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Kim Byung-kee",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "김병기",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kim Byung-kee",
           "note": "multilingual"
         }
       ],
@@ -10539,6 +11858,12 @@
       ],
       "email": "777byung@naver.com",
       "id": "724c9534-c06d-4824-a491-bf088e6d41d8",
+      "identifiers": [
+        {
+          "identifier": "Q24856318",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770984.jpg",
       "images": [
         {
@@ -10547,12 +11872,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김병욱_(정치인)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/777byung"
         }
       ],
       "name": "KIM BYUNGWOOK",
       "other_names": [
+        {
+          "name": "김병욱",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金炳旭",
@@ -10584,6 +11917,12 @@
       ],
       "email": "kcm8764@naver.com",
       "id": "a11aaef8-a790-4751-86b7-4d2cd2e096f7",
+      "identifiers": [
+        {
+          "identifier": "Q12588973",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770986.jpg",
       "images": [
         {
@@ -10592,12 +11931,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김철민_(1957년)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/kcm8764"
         }
       ],
       "name": "KIM CHEOLMIN",
       "other_names": [
+        {
+          "name": "김철민",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金哲玟",
@@ -10628,14 +11975,52 @@
         }
       ],
       "email": "kimci404@naver.com",
+      "gender": "male",
       "id": "5db590af-5f51-44f9-8cae-1c486145ccf7",
+      "identifiers": [
+        {
+          "identifier": "513144928080654341594",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16080415",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771057.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771057.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kim_Jongin's_press_conference_in_2016_(cropped_to_Kim).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Chong-in"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kim_Chong-in"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Kim_Chong-in"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김종인"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ким_Джонъин"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/金鍾仁_(政治人物)"
+        },
         {
           "note": "website",
           "url": "http://kimchongin.com/"
@@ -10644,13 +12029,47 @@
       "name": "KIM CHONGIN",
       "other_names": [
         {
+          "name": "김종인",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "金鍾仁",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Kim Jong-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kim Jong-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Kim Chong-in",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "김종인",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kim Jong-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ким Джонъин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金鍾仁",
           "note": "multilingual"
         }
       ],
@@ -10674,6 +12093,12 @@
       ],
       "email": "withgunpo@gmail.com",
       "id": "d8ddb7d4-6e31-452c-ae77-3650052ef712",
+      "identifiers": [
+        {
+          "identifier": "Q24856325",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770993.jpg",
       "images": [
         {
@@ -10682,12 +12107,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김정우_(1968년)"
+        },
+        {
           "note": "website",
           "url": "http://gunpokcw.blog.me"
         }
       ],
       "name": "KIM CHUNGWOO",
       "other_names": [
+        {
+          "name": "김정우",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金政祐",
@@ -10718,6 +12151,7 @@
         }
       ],
       "email": "kimcj@assembly.go.kr",
+      "gender": "male",
       "id": "0fa45d19-44bf-4b29-8415-217fff6c6fd7",
       "identifiers": [
         {
@@ -10784,14 +12218,36 @@
           "value": "02-784-2566"
         }
       ],
+      "gender": "male",
       "id": "5abcddb5-1d3d-4db5-a8a9-7cf275211bab",
+      "identifiers": [
+        {
+          "identifier": "Q6408593",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770997.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770997.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kim_Doo-kwan_crop.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kim_Dookwan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Doo-kwan"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김두관"
+        },
         {
           "note": "website",
           "url": "http://www.okdk.kr"
@@ -10800,13 +12256,42 @@
       "name": "KIM DUKWAN",
       "other_names": [
         {
+          "name": "김두관",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
+          "name": "金斗官",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kim Doo-kwan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Kim Doo-kwan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kim Doo-kwan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
           "name": "金斗官",
           "note": "multilingual"
         },
         {
           "lang": "ko",
           "name": "김두관",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kim Doo-kwan",
           "note": "multilingual"
         }
       ],
@@ -11108,6 +12593,10 @@
           "scheme": "imdb"
         },
         {
+          "identifier": "00004176",
+          "scheme": "kmdb"
+        },
+        {
           "identifier": "194526",
           "scheme": "popong"
         },
@@ -11140,6 +12629,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/김을동"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Kim_Eul-dong"
         },
         {
           "note": "twitter",
@@ -11220,6 +12713,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt",
+          "name": "Kim Eul-dong",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-cn",
           "name": "金乙东",
           "note": "multilingual"
@@ -11245,14 +12743,30 @@
         }
       ],
       "id": "19559a78-9dcd-458b-8b64-148b1c08999a",
+      "identifiers": [
+        {
+          "identifier": "Q24856405",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771044.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771044.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김규환_(1956년)"
+        }
+      ],
       "name": "KIM GYUHWAN",
       "other_names": [
+        {
+          "name": "김규환",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金奎煥",
@@ -11460,6 +12974,12 @@
       ],
       "email": "hykim0417@naver.com",
       "id": "a86d1928-986b-4c4f-896b-10e68b33d6d3",
+      "identifiers": [
+        {
+          "identifier": "Q24000530",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770953.jpg",
       "images": [
         {
@@ -11468,12 +12988,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김해영"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/hykim0417"
         }
       ],
       "name": "KIM HAEYOUNG",
       "other_names": [
+        {
+          "name": "김해영",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金海永",
@@ -11499,14 +13027,32 @@
           "value": "02-784-0496"
         }
       ],
+      "gender": "male",
       "id": "3a096287-49ad-46ab-85a2-b6f6424c4d0c",
+      "identifiers": [
+        {
+          "identifier": "Q16093562",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770991.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770991.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/김한정(2012).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Hanjung"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김한정"
+        },
         {
           "note": "website",
           "url": "http://blog.naver.com/hanjungkim"
@@ -11515,8 +13061,17 @@
       "name": "KIM HANJUNG",
       "other_names": [
         {
+          "name": "김한정",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "金漢正",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kim Han-jung",
           "note": "multilingual"
         },
         {
@@ -11540,14 +13095,30 @@
         }
       ],
       "id": "597174e4-df7d-428c-86b1-d376688f6f9b",
+      "identifiers": [
+        {
+          "identifier": "Q24856411",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771055.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771055.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김현아_(1969년)"
+        }
+      ],
       "name": "KIM HYUNAH",
       "other_names": [
+        {
+          "name": "김현아",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金炫我",
@@ -11574,14 +13145,30 @@
         }
       ],
       "id": "26636d94-2869-4a8e-a5eb-14ea27083153",
+      "identifiers": [
+        {
+          "identifier": "Q24000602",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771061.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771061.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김현권"
+        }
+      ],
       "name": "KIM HYUNKWON",
       "other_names": [
+        {
+          "name": "김현권",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金玄權",
@@ -11613,6 +13200,12 @@
       ],
       "email": "7844990@naver.com",
       "id": "7bd7cbe3-8a6d-405d-af39-27db30dbd541",
+      "identifiers": [
+        {
+          "identifier": "Q16080678",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770746.jpg",
       "images": [
         {
@@ -11621,12 +13214,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김현미_(정치인)"
+        },
+        {
           "note": "website",
           "url": "http://hyunmee.net"
         }
       ],
       "name": "KIM HYUNMEE",
       "other_names": [
+        {
+          "name": "김현미",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金賢美",
@@ -11778,6 +13379,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770743.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kim_Han-Gil_(cropped).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/494738988595294209/LOVt0opD.jpeg"
@@ -12079,6 +13683,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "金姫廷",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "김희정",
           "note": "multilingual"
@@ -12281,7 +13890,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q12589211",
+          "identifier": "Q16080684",
           "scheme": "wikidata"
         }
       ],
@@ -12297,7 +13906,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/김현"
+          "url": "https://ko.wikipedia.org/wiki/김현숙_(1966년)"
         },
         {
           "note": "facebook",
@@ -12319,11 +13928,11 @@
       "name": "KIM Hyun",
       "other_names": [
         {
-          "name": "김현",
+          "name": "김현미 (일산서구 국회의원)",
           "note": "alternate"
         },
         {
-          "name": "김현미 (일산서구 국회의원)",
+          "name": "김현숙",
           "note": "alternate"
         },
         {
@@ -12334,6 +13943,11 @@
         {
           "lang": "ko",
           "name": "김현",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "김현숙",
           "note": "multilingual"
         }
       ],
@@ -12352,22 +13966,52 @@
         }
       ],
       "id": "4a5a6c0f-ebe4-446c-8cbd-71b71d362016",
+      "identifiers": [
+        {
+          "identifier": "Q10855898",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770982.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770982.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/金振杓"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김진표_(정치인)"
+        }
+      ],
       "name": "KIM JINPYO",
       "other_names": [
+        {
+          "name": "김진표",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金振杓",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "金振杓",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "김진표",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金振杓",
           "note": "multilingual"
         }
       ],
@@ -12391,6 +14035,12 @@
       ],
       "email": "jdkim549@gmail.com",
       "id": "424cce59-76a8-4a40-a7b6-86d03cd03803",
+      "identifiers": [
+        {
+          "identifier": "Q16080404",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771083.jpg",
       "images": [
         {
@@ -12399,12 +14049,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김종대_(1966년)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/jdkim549"
         }
       ],
       "name": "KIM JONGDAE",
       "other_names": [
+        {
+          "name": "김종대",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金鍾大",
@@ -12431,14 +14089,30 @@
         }
       ],
       "id": "56cada51-5d58-40bc-8f05-010c6174cc94",
+      "identifiers": [
+        {
+          "identifier": "Q24856366",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771016.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771016.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김종회_(1965년)"
+        }
+      ],
       "name": "KIM JONGHOE",
       "other_names": [
+        {
+          "name": "김종회",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金鍾懷",
@@ -12510,14 +14184,30 @@
         }
       ],
       "id": "d107cc33-c747-46d6-8099-fdd622021f06",
+      "identifiers": [
+        {
+          "identifier": "Q24856345",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771009.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771009.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김종민_(1964년)"
+        }
+      ],
       "name": "KIM JONGMIN",
       "other_names": [
+        {
+          "name": "김종민",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金鍾民",
@@ -12549,6 +14239,12 @@
       ],
       "email": "jskim@na.go.kr",
       "id": "4d3b1da2-7313-4142-91d8-2de0526bee73",
+      "identifiers": [
+        {
+          "identifier": "Q12588667",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771048.jpg",
       "images": [
         {
@@ -12557,12 +14253,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김종석_(1955년)"
+        },
+        {
           "note": "website",
           "url": "http://kimjongseok.com/"
         }
       ],
       "name": "KIM JONGSEOK",
       "other_names": [
+        {
+          "name": "김종석",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金鍾奭",
@@ -12594,6 +14298,12 @@
       ],
       "email": "kjroffice@naver.com",
       "id": "4060501e-8e61-4bc0-b76e-6cea3f64a53d",
+      "identifiers": [
+        {
+          "identifier": "Q24000772",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771078.jpg",
       "images": [
         {
@@ -12602,12 +14312,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김중로"
+        },
+        {
           "note": "website",
           "url": "blog.naver.com/kjroffice"
         }
       ],
       "name": "KIM JOONGRO",
       "other_names": [
+        {
+          "name": "김중로",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金中魯",
@@ -12633,15 +14351,32 @@
           "value": "02-784-6831"
         }
       ],
+      "gender": "female",
       "id": "d0bfee35-5dc3-4d09-8e46-cad42f0aa98a",
+      "identifiers": [
+        {
+          "identifier": "Q24000567",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771023.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771023.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김정재"
+        }
+      ],
       "name": "KIM JUNGJAE",
       "other_names": [
+        {
+          "name": "김정재",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金汀才",
@@ -13024,6 +14759,7 @@
         }
       ],
       "email": "jnkim517@gmail.com",
+      "gender": "female",
       "id": "5b91a80a-3e34-452f-9e7d-fc81bd8a218a",
       "identifiers": [
         {
@@ -13191,6 +14927,7 @@
           "value": "jhkimdragon"
         }
       ],
+      "gender": "male",
       "id": "704018ee-bfbe-4e3e-8385-27bf907ad07b",
       "identifiers": [
         {
@@ -13202,7 +14939,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q16067892",
+          "identifier": "Q6408959",
           "scheme": "wikidata"
         }
       ],
@@ -13212,17 +14949,20 @@
           "url": "http://www.assembly.go.kr/photo/9770739.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kim_Jong-Hoon_-_World_Economic_Forum_Annual_Meeting_Davos_2009_(3488049019).jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/1908820066/myProfileImage.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Kim_Jong-hun_(disambiguation)"
+          "url": "https://en.wikipedia.org/wiki/Kim_Jong-hoon"
         },
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/김종훈"
+          "url": "https://ko.wikipedia.org/wiki/김종훈_(1952년)"
         },
         {
           "note": "facebook",
@@ -13254,12 +14994,27 @@
         },
         {
           "lang": "en",
-          "name": "Kim Jong-hun",
+          "name": "Kim Jong-hoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Kim Jong-hoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kim Jong-hoon",
           "note": "multilingual"
         },
         {
           "lang": "ko",
           "name": "김종훈",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kim Jong-hoon",
           "note": "multilingual"
         }
       ],
@@ -13509,14 +15264,30 @@
         }
       ],
       "id": "4392efb5-516d-4b5f-a390-a90531a3f7f2",
+      "identifiers": [
+        {
+          "identifier": "Q24856344",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771011.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771011.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김광수_(1958년)"
+        }
+      ],
       "name": "KIM KWANGSOO",
       "other_names": [
+        {
+          "name": "김광수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金光守",
@@ -13543,14 +15314,30 @@
         }
       ],
       "id": "29ddc1c0-6b7b-44a2-aa1a-0d2b67c4aa08",
+      "identifiers": [
+        {
+          "identifier": "Q16172584",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771033.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771033.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김경수_(정치인)"
+        }
+      ],
       "name": "KIM KYOUNGSOO",
       "other_names": [
+        {
+          "name": "김경수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金慶洙",
@@ -13559,6 +15346,11 @@
         {
           "lang": "ko",
           "name": "김경수",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金景洙",
           "note": "multilingual"
         }
       ],
@@ -13577,14 +15369,30 @@
         }
       ],
       "id": "dbe5080b-f2e0-47fd-b326-b0884a738776",
+      "identifiers": [
+        {
+          "identifier": "Q21575768",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770970.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770970.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김경진_(법률가)"
+        }
+      ],
       "name": "KIM KYUNGJIN",
       "other_names": [
+        {
+          "name": "김경진",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金京鎭",
@@ -14162,6 +15970,10 @@
           "url": "https://en.wikipedia.org/wiki/Kim_Moo-sung"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Kim_Moo-sung"
+        },
+        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/金武星"
         },
@@ -14212,6 +16024,11 @@
         },
         {
           "lang": "fr",
+          "name": "Kim Moo-sung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
           "name": "Kim Moo-sung",
           "note": "multilingual"
         },
@@ -14342,14 +16159,30 @@
         }
       ],
       "id": "22e9b5d4-6a0d-4104-bd0c-76172783638a",
+      "identifiers": [
+        {
+          "identifier": "Q24000771",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771077.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771077.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김삼화"
+        }
+      ],
       "name": "KIM SAMHWA",
       "other_names": [
+        {
+          "name": "김삼화",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金三和",
@@ -14381,14 +16214,30 @@
       ],
       "email": "smart_kimst@naver.com",
       "id": "5b0426d9-b728-42cb-b1d0-bdbfac8e0902",
+      "identifiers": [
+        {
+          "identifier": "Q24856410",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771046.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771046.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김성태_(1954년)"
+        }
+      ],
       "name": "KIM SEANGTAE",
       "other_names": [
+        {
+          "name": "김성태",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金成泰",
@@ -14420,6 +16269,12 @@
       ],
       "email": "7882576kj@hanmail.net",
       "id": "3c8e9b6a-7018-4350-9bdb-5a2973c57b3e",
+      "identifiers": [
+        {
+          "identifier": "Q16080263",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771024.jpg",
       "images": [
         {
@@ -14428,12 +16283,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김석기_(경찰)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/podoriksk"
         }
       ],
       "name": "KIM SEOKKI",
       "other_names": [
+        {
+          "name": "김석기",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金碩基",
@@ -14465,6 +16328,12 @@
       ],
       "email": "likecorea@naver.com",
       "id": "89da3b69-94e3-4d3a-a6b2-e48b632cb91c",
+      "identifiers": [
+        {
+          "identifier": "Q12587661",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770930.jpg",
       "images": [
         {
@@ -14473,12 +16342,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김선동_(1963년)"
+        },
+        {
           "note": "website",
           "url": "http://www.kimseondong.com"
         }
       ],
       "name": "KIM SEONDONG",
       "other_names": [
+        {
+          "name": "김선동",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金善東",
@@ -14510,6 +16387,12 @@
       ],
       "email": "shkim2756@naver.com",
       "id": "5c47a650-c4ab-42ac-b53e-09a4b7136e0c",
+      "identifiers": [
+        {
+          "identifier": "Q24856412",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771049.jpg",
       "images": [
         {
@@ -14518,12 +16401,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김승희_(1954년)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/shkim2756"
         }
       ],
       "name": "KIM SEUNGHEE",
       "other_names": [
+        {
+          "name": "김승희",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金承禧",
@@ -14555,6 +16446,12 @@
       ],
       "email": "2016kimss@gmail.com",
       "id": "551033fe-91c5-484d-a41a-471872fb0d7c",
+      "identifiers": [
+        {
+          "identifier": "Q12587732",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770942.jpg",
       "images": [
         {
@@ -14563,12 +16460,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김성식_(1958년)"
+        },
+        {
           "note": "website",
           "url": "http://okkimss.com"
         }
       ],
       "name": "KIM SONGSIK",
       "other_names": [
+        {
+          "name": "김성식",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金成植",
@@ -14599,15 +16504,32 @@
         }
       ],
       "email": "ksrye6259@gmail.com",
+      "gender": "female",
       "id": "9544aa66-390c-46fb-847b-69ee49a65b71",
+      "identifiers": [
+        {
+          "identifier": "Q24000774",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771053.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771053.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김순례"
+        }
+      ],
       "name": "KIM SOONRYE",
       "other_names": [
+        {
+          "name": "김순례",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金順禮",
@@ -14638,15 +16560,32 @@
         }
       ],
       "email": "brandsumin@suminkim.net",
+      "gender": "female",
       "id": "91a7edac-7bcc-4f64-a903-f1a287a8997d",
+      "identifiers": [
+        {
+          "identifier": "Q24000566",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771075.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771075.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김수민"
+        }
+      ],
       "name": "KIM SUMIN",
       "other_names": [
+        {
+          "name": "김수민",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金秀玟",
@@ -14678,6 +16617,12 @@
       ],
       "email": "kss_0909@naver.com",
       "id": "023f05f1-5871-49a4-9422-f48141614b8b",
+      "identifiers": [
+        {
+          "identifier": "Q12587723",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771065.jpg",
       "images": [
         {
@@ -14686,12 +16631,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김성수_(1956년)"
+        },
+        {
           "note": "website",
           "url": "blog.naver.com/kss_0909"
         }
       ],
       "name": "KIM SUNGSOO",
       "other_names": [
+        {
+          "name": "김성수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金聖洙",
@@ -14723,6 +16676,12 @@
       ],
       "email": "ksw-911@naver.com",
       "id": "c0e18a54-121c-45cb-aca1-c785416dca34",
+      "identifiers": [
+        {
+          "identifier": "Q24856316",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770985.jpg",
       "images": [
         {
@@ -14731,12 +16690,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김성원_(정치인)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/v0413ksw"
         }
       ],
       "name": "KIM SUNGWON",
       "other_names": [
+        {
+          "name": "김성원",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金成願",
@@ -14771,6 +16738,7 @@
         }
       ],
       "email": "shk@assembly.go.kr",
+      "gender": "female",
       "id": "c94187e1-0cf3-49c8-a8aa-9656632c2278",
       "identifiers": [
         {
@@ -14967,6 +16935,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770724.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/새누리당_김상민_국회의원.jpg"
         }
       ],
       "links": [
@@ -15291,7 +17262,7 @@
           "url": "http://www.assembly.go.kr/photo/9770726.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/718662789414330369/fJ2VsUG8.jpg"
+          "url": "https://pbs.twimg.com/profile_images/765669735782506498/pPXIy4RU.jpg"
         }
       ],
       "links": [
@@ -15319,7 +17290,7 @@
           "note": "alternate"
         },
         {
-          "name": "더민주 전주덕진 19대국회의원 김성주",
+          "name": "김성주 국민과 더불어 전주 덕진",
           "note": "alternate"
         },
         {
@@ -15828,6 +17799,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kim_Taewon"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/김태원_(1951년)"
         },
@@ -15903,7 +17878,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q16067976",
+          "identifier": "Q16080572",
           "scheme": "wikidata"
         }
       ],
@@ -15919,7 +17894,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/김태년"
+          "url": "https://ko.wikipedia.org/wiki/김태년_(1965년)"
         },
         {
           "note": "facebook",
@@ -16193,14 +18168,30 @@
       ],
       "email": "kim-youngho@naver.com",
       "id": "ba9d2e59-46ac-4ed5-ac30-e3b301b1b725",
+      "identifiers": [
+        {
+          "identifier": "Q24856311",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770934.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770934.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김영호_(1967년)"
+        }
+      ],
       "name": "KIM YOUNGHO",
       "other_names": [
+        {
+          "name": "김영호",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金映豪",
@@ -16227,14 +18218,30 @@
         }
       ],
       "id": "5bd7ac92-8310-48d8-9592-d63e1007fd0c",
+      "identifiers": [
+        {
+          "identifier": "Q24856326",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770981.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770981.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김영진_(1967년)"
+        }
+      ],
       "name": "KIM YOUNGJIN",
       "other_names": [
+        {
+          "name": "김영진",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "金榮鎭",
@@ -16262,6 +18269,10 @@
         {
           "type": "phone",
           "value": "02-784-2570"
+        },
+        {
+          "type": "twitter",
+          "value": "yikim1952"
         }
       ],
       "email": "yikim614@na.go.kr",
@@ -16276,7 +18287,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q18600668",
+          "identifier": "Q17503255",
           "scheme": "wikidata"
         }
       ],
@@ -16289,7 +18300,11 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/김용익"
+          "url": "https://ko.wikipedia.org/wiki/김용익_(1952년)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/yikim1952"
         },
         {
           "note": "website",
@@ -16394,6 +18409,11 @@
         },
         {
           "lang": "cn",
+          "name": "金榮煥",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
           "name": "金榮煥",
           "note": "multilingual"
         },
@@ -16525,7 +18545,7 @@
           "url": "http://www.assembly.go.kr/photo/9770538.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/689532458/IMAGE233_copy__.jpg"
+          "url": "https://pbs.twimg.com/profile_images/783105114978422785/r2C0Bh2w.jpg"
         }
       ],
       "links": [
@@ -16605,7 +18625,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q12588312",
+          "identifier": "Q12588313",
           "scheme": "wikidata"
         }
       ],
@@ -16618,7 +18638,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/김윤덕"
+          "url": "https://ko.wikipedia.org/wiki/김윤덕_(정치인)"
         },
         {
           "note": "facebook",
@@ -16778,7 +18798,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q12588220",
+          "identifier": "Q12588221",
           "scheme": "wikidata"
         }
       ],
@@ -16794,7 +18814,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/김용태"
+          "url": "https://ko.wikipedia.org/wiki/김용태_(1968년)"
         },
         {
           "note": "facebook",
@@ -16854,6 +18874,12 @@
       ],
       "email": "gogoyongjin@naver.com",
       "id": "dc93a786-93b0-4c59-b095-04c2fb7e629d",
+      "identifiers": [
+        {
+          "identifier": "Q24000510",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770931.jpg",
       "images": [
         {
@@ -16862,12 +18888,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/고용진"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/kohyj64"
         }
       ],
       "name": "KOH YONGJIN",
       "other_names": [
+        {
+          "name": "고용진",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "高榕禛",
@@ -16899,6 +18933,12 @@
       ],
       "email": "dhkwak605@naver.com",
       "id": "114968fe-88be-4ef7-adfd-9b4bcbf78e1d",
+      "identifiers": [
+        {
+          "identifier": "Q16080079",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770961.jpg",
       "images": [
         {
@@ -16907,12 +18947,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/곽대훈"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/dhkwak605"
         }
       ],
       "name": "KWAK DAEHOON",
       "other_names": [
+        {
+          "name": "곽대훈",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "郭大勳",
@@ -16944,6 +18992,12 @@
       ],
       "email": "sangdokwak@na.go.kr",
       "id": "8a9a5d42-432d-4832-ab98-3dd1ea35daf7",
+      "identifiers": [
+        {
+          "identifier": "Q16079857",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770956.jpg",
       "images": [
         {
@@ -16952,12 +19006,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/곽상도"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/sangdokwak"
         }
       ],
       "name": "KWAK SANGDO",
       "other_names": [
+        {
+          "name": "곽상도",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "郭尙道",
@@ -17019,6 +19081,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kwon_Sungdong"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/권성동"
         },
@@ -17075,6 +19141,12 @@
         }
       ],
       "id": "c20387dc-d4a3-4f75-8eda-7fd251c3bb61",
+      "identifiers": [
+        {
+          "identifier": "Q24000551",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770998.jpg",
       "images": [
         {
@@ -17083,12 +19155,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/권칠승"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/k7wins"
         }
       ],
       "name": "KWON CHILSEUNG",
       "other_names": [
+        {
+          "name": "권칠승",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "權七勝",
@@ -17119,7 +19199,14 @@
         }
       ],
       "email": "kwoneunhee0215@gmail.com",
+      "gender": "female",
       "id": "80e4aba7-8bbb-4f16-89d0-bd0d6bcfa781",
+      "identifiers": [
+        {
+          "identifier": "Q12586127",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770977.jpg",
       "images": [
         {
@@ -17128,12 +19215,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/권은희_(1974년)"
+        },
+        {
           "note": "website",
           "url": "http://keh.kr"
         }
       ],
       "name": "KWON EUNHEE",
       "other_names": [
+        {
+          "name": "권은희",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "權垠希",
@@ -17248,6 +19343,12 @@
       ],
       "email": "kwonmh@na.go.kr",
       "id": "ee64aa38-96c3-4eb4-9dfd-92369055c3ee",
+      "identifiers": [
+        {
+          "identifier": "Q24000761",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771066.jpg",
       "images": [
         {
@@ -17256,12 +19357,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/권미혁"
+        },
+        {
           "note": "website",
           "url": "blog.naver.com/kwonmh931"
         }
       ],
       "name": "KWON MIHYUK",
       "other_names": [
+        {
+          "name": "권미혁",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "權美赫",
@@ -17293,6 +19402,12 @@
       ],
       "email": "sokchangk@naver.com",
       "id": "a89f6f4b-daee-4dae-b4b3-e9652380d321",
+      "identifiers": [
+        {
+          "identifier": "Q24000578",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771004.jpg",
       "images": [
         {
@@ -17301,12 +19416,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/권석창"
+        },
+        {
           "note": "website",
           "url": "http://www.sokchang.co.kr"
         }
       ],
       "name": "KWON SOKCHANG",
       "other_names": [
+        {
+          "name": "권석창",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "權錫昌",
@@ -17567,6 +19690,7 @@
         }
       ],
       "email": "lbs@assembly.go.kr",
+      "gender": "male",
       "id": "08ee0be3-05bf-40a6-a12e-595467c64fa4",
       "identifiers": [
         {
@@ -17578,7 +19702,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q12611526",
+          "identifier": "Q12611525",
           "scheme": "wikidata"
         }
       ],
@@ -17594,7 +19718,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/이병석"
+          "url": "https://ko.wikipedia.org/wiki/이병석_(1952년)"
         },
         {
           "note": "facebook",
@@ -17632,6 +19756,11 @@
           "lang": "ko",
           "name": "이병석",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "李秉錫",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -17649,14 +19778,30 @@
         }
       ],
       "id": "3277ca20-7da8-47d8-a612-e7f459f8c5d3",
+      "identifiers": [
+        {
+          "identifier": "Q24856352",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771002.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771002.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이철규_(1957년)"
+        }
+      ],
       "name": "LEE CHULGYU",
       "other_names": [
+        {
+          "name": "이철규",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李喆圭",
@@ -17691,6 +19836,7 @@
         }
       ],
       "email": "lci8572@naver.com",
+      "gender": "male",
       "id": "f61f823e-b35b-4e43-a21b-b896e8544a5a",
       "identifiers": [
         {
@@ -18051,14 +20197,30 @@
         }
       ],
       "id": "230879a8-cef8-4a90-8ee6-fa0b3e1c9648",
+      "identifiers": [
+        {
+          "identifier": "Q24856389",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771080.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771080.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이동섭_(1956년)"
+        }
+      ],
       "name": "LEE DONGSUP",
       "other_names": [
+        {
+          "name": "이동섭",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李銅燮",
@@ -18085,14 +20247,34 @@
         }
       ],
       "id": "a849aac2-1352-4963-bb93-524fe479f9b1",
+      "identifiers": [
+        {
+          "identifier": "Q12612338",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770947.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770947.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Lee_Eunjae"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이은재"
+        }
+      ],
       "name": "LEE EUNJAE",
       "other_names": [
+        {
+          "name": "이은재",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李恩宰",
@@ -18124,6 +20306,12 @@
       ],
       "email": "leeek1105@hanmail.net",
       "id": "dc2732a7-5fab-46e1-a018-a7bd8af06851",
+      "identifiers": [
+        {
+          "identifier": "Q24000559",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770972.jpg",
       "images": [
         {
@@ -18132,12 +20320,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이은권"
+        },
+        {
           "note": "website",
           "url": "http://bolg.naver.com/leeek1105"
         }
       ],
       "name": "LEE EUNKWON",
       "other_names": [
+        {
+          "name": "이은권",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李殷權",
@@ -18246,6 +20442,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fa",
+          "name": "لی آیلسا",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Lee Ailesa",
           "note": "multilingual"
@@ -18281,14 +20482,30 @@
         }
       ],
       "id": "5e4730da-23cf-4c24-b8a5-aec70d8d82a5",
+      "identifiers": [
+        {
+          "identifier": "Q24856314",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770939.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770939.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이훈_(1965년)"
+        }
+      ],
       "name": "LEE HOON",
       "other_names": [
+        {
+          "name": "이훈",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李薰",
@@ -18315,14 +20532,30 @@
         }
       ],
       "id": "50e2145e-8e72-4560-823f-c4ebf5c187c6",
+      "identifiers": [
+        {
+          "identifier": "Q16091294",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770943.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770943.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이혜훈"
+        }
+      ],
       "name": "LEE HYEHOON",
       "other_names": [
+        {
+          "name": "이혜훈",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李惠薰",
@@ -18585,11 +20818,11 @@
       "name": "LEE Hae Chan",
       "other_names": [
         {
-          "name": "꼭 필요한 사람, 이해찬!",
+          "name": "이해찬",
           "note": "alternate"
         },
         {
-          "name": "이해찬",
+          "name": "정권교체! 이해찬 국회의원실",
           "note": "alternate"
         },
         {
@@ -18767,7 +21000,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q12613041",
+          "identifier": "Q16091262",
           "scheme": "wikidata"
         }
       ],
@@ -18783,7 +21016,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/이학재"
+          "url": "https://ko.wikipedia.org/wiki/이학재_(1964년)"
         },
         {
           "note": "facebook",
@@ -19054,6 +21287,7 @@
         }
       ],
       "email": "ilovebusanjin@hanmail.net",
+      "gender": "male",
       "id": "059f431a-f936-4280-a91a-ee3226aad674",
       "identifiers": [
         {
@@ -19406,14 +21640,30 @@
         }
       ],
       "id": "4b0ac817-3919-4309-aa30-3315c888f044",
+      "identifiers": [
+        {
+          "identifier": "Q12612629",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770945.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770945.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이종구_(1950년)"
+        }
+      ],
       "name": "LEE JONGKOO",
       "other_names": [
+        {
+          "name": "이종구",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李鍾九",
@@ -19445,14 +21695,30 @@
       ],
       "email": "337leejm@hanmail.net",
       "id": "9e81f0b2-ac5b-4a22-8b2e-b3f52e4fdf5f",
+      "identifiers": [
+        {
+          "identifier": "Q24856266",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771040.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771040.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이종명_(1959년)"
+        }
+      ],
       "name": "LEE JONGMYEONG",
       "other_names": [
+        {
+          "name": "이종명",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李鍾明",
@@ -19694,7 +21960,7 @@
           "url": "http://www.assembly.go.kr/photo/9770829.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/2304160714/wbonk5eg19c9s5ktb4n7.jpeg"
+          "url": "https://pbs.twimg.com/profile_images/783897243161993216/tMlPz1wp.jpg"
         }
       ],
       "links": [
@@ -19768,6 +22034,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "nm3797352",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "1942424",
+          "scheme": "kinopoisk"
+        },
+        {
           "identifier": "00159694",
           "scheme": "kmdb"
         },
@@ -19820,6 +22094,11 @@
         {
           "lang": "cn",
           "name": "李자스민",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jasmine Lee",
           "note": "multilingual"
         },
         {
@@ -20139,6 +22418,16 @@
           "lang": "ko",
           "name": "이종걸",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "李鍾杰",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "李鍾傑",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -20173,6 +22462,10 @@
         {
           "identifier": "19511108",
           "scheme": "popong"
+        },
+        {
+          "identifier": "Q12612708",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770499.jpg",
@@ -20181,10 +22474,14 @@
           "url": "http://www.assembly.go.kr/photo/9770499.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/753220811222192128/hp1Yc_qI.jpg"
+          "url": "https://pbs.twimg.com/profile_images/775161569231581184/5VgAfhIx.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이주영_(1951년)"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/newmasan315"
@@ -20209,13 +22506,32 @@
           "note": "alternate"
         },
         {
+          "name": "이주영",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "李柱榮",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "李柱栄",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "이주영",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "李柱荣",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "李柱榮",
           "note": "multilingual"
         }
       ],
@@ -20479,6 +22795,12 @@
       ],
       "email": "yc20002@naver.com",
       "id": "46f3ec23-9d52-4cb6-a831-db205c2541bf",
+      "identifiers": [
+        {
+          "identifier": "Q24856357",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771028.jpg",
       "images": [
         {
@@ -20487,12 +22809,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이만희_(정치인)"
+        },
+        {
           "note": "website",
           "url": "blog.naver.com/yc20002"
         }
       ],
       "name": "LEE MANHEE",
       "other_names": [
+        {
+          "name": "이만희",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李晩熙",
@@ -20594,6 +22924,7 @@
         }
       ],
       "email": "lmk2014@na.go.kr",
+      "gender": "female",
       "id": "edbd6a6c-be50-4bab-a773-d088768ae49d",
       "identifiers": [
         {
@@ -20852,7 +23183,14 @@
         }
       ],
       "email": "sdl1951@naver.com",
+      "gender": "male",
       "id": "2324e2b7-b14e-430d-b2de-d657b88fff87",
+      "identifiers": [
+        {
+          "identifier": "Q6514941",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771072.jpg",
       "images": [
         {
@@ -20861,6 +23199,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lee_Sang-don"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이상돈_(1951년)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/sdl1951"
         }
@@ -20868,13 +23214,32 @@
       "name": "LEE SANGDON",
       "other_names": [
         {
+          "name": "이상돈",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "李相敦",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Lee Sang-don",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lee Sang-don",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "이상돈",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lee Sang-don",
           "note": "multilingual"
         }
       ],
@@ -20906,6 +23271,10 @@
         {
           "identifier": "19611135",
           "scheme": "popong"
+        },
+        {
+          "identifier": "Q16090923",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770819.jpg",
@@ -20915,6 +23284,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이상일_(언론인)"
+        },
         {
           "note": "website",
           "url": "http://www.silee.co.kr"
@@ -20926,6 +23299,10 @@
       ],
       "name": "LEE Sang Il",
       "other_names": [
+        {
+          "name": "이상일",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李相逸",
@@ -21228,6 +23605,12 @@
       ],
       "email": "ltk635@gmail.com",
       "id": "4789ee96-3368-420e-8584-76448ac6c255",
+      "identifiers": [
+        {
+          "identifier": "Q24856359",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771076.jpg",
       "images": [
         {
@@ -21236,12 +23619,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이태규_(1964년)"
+        },
+        {
           "note": "website",
           "url": "http://ltk2016635.blog.me"
         }
       ],
       "name": "LEE TAEKYU",
       "other_names": [
+        {
+          "name": "이태규",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李泰珪",
@@ -21454,6 +23845,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/g/120s_4wj",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "Q12612132",
           "scheme": "wikidata"
         }
@@ -21462,9 +23857,6 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770897.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Park_Geun-hye_(8724400493)_(cropped).jpg"
         }
       ],
       "links": [
@@ -21859,14 +24251,30 @@
       ],
       "email": "2yangs6288@naver.com",
       "id": "a628663f-b977-4754-9dc3-0863fe965d29",
+      "identifiers": [
+        {
+          "identifier": "Q24000485",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771003.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771003.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이양수"
+        }
+      ],
       "name": "LEE YANGSOO",
       "other_names": [
+        {
+          "name": "이양수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李亮壽",
@@ -21898,14 +24306,30 @@
       ],
       "email": "ydlee429@gmail.com",
       "id": "55dacf92-ae5d-43b3-b2e4-942d3e94c2df",
+      "identifiers": [
+        {
+          "identifier": "Q16079938",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771067.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771067.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이용득"
+        }
+      ],
       "name": "LEE YONGDEUK",
       "other_names": [
+        {
+          "name": "이용득",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李龍得",
@@ -21937,6 +24361,12 @@
       ],
       "email": "614lyh@naver.com",
       "id": "55f8a715-f2a9-4c9d-bed2-d9962a1721a6",
+      "identifiers": [
+        {
+          "identifier": "Q24856343",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771015.jpg",
       "images": [
         {
@@ -21945,12 +24375,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이용호_(1960년)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/614lyh"
         }
       ],
       "name": "LEE YONGHO",
       "other_names": [
+        {
+          "name": "이용호",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李容鎬",
@@ -21977,14 +24415,30 @@
         }
       ],
       "id": "6571aa3b-c747-4fd5-8439-129bd4943bc3",
+      "identifiers": [
+        {
+          "identifier": "Q24856354",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771018.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771018.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이용주_(1968년)"
+        }
+      ],
       "name": "LEE YONGJU",
       "other_names": [
+        {
+          "name": "이용주",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "李勇周",
@@ -22097,14 +24551,30 @@
         }
       ],
       "id": "b21afa54-fd2c-431c-b912-ddd07e9253a4",
+      "identifiers": [
+        {
+          "identifier": "Q24000550",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771000.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771000.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/임종성"
+        }
+      ],
       "name": "LIM JONGSEONG",
       "other_names": [
+        {
+          "name": "임종성",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "林鍾聲",
@@ -22136,6 +24606,12 @@
       ],
       "email": "llj11@hanmail.net",
       "id": "5fb5044c-c50e-433e-8cc5-64dcc969b753",
+      "identifiers": [
+        {
+          "identifier": "Q24000599",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771041.jpg",
       "images": [
         {
@@ -22144,12 +24620,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/임이자"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/llj11"
         }
       ],
       "name": "LIM LEEJA",
       "other_names": [
+        {
+          "name": "임이자",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "林利子",
@@ -22510,6 +24994,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lee_Jung-hyun_(politician)"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/이정현_(정치인)"
         },
@@ -22527,6 +25015,16 @@
         {
           "lang": "cn",
           "name": "李貞鉉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lee Jung-hyun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "李貞鉉",
           "note": "multilingual"
         },
         {
@@ -22577,6 +25075,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770914.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lee_Jong-bae_(cropped).jpg"
         }
       ],
       "links": [
@@ -22693,6 +25194,7 @@
         }
       ],
       "email": "bjmin135@naver.com",
+      "gender": "female",
       "id": "26a8befa-6adf-411c-a360-5761dd54c800",
       "identifiers": [
         {
@@ -22897,17 +25399,41 @@
         {
           "type": "phone",
           "value": "02-784-4071"
+        },
+        {
+          "type": "twitter",
+          "value": "minkyungwook"
         }
       ],
       "id": "17c9062a-19f3-484e-b760-21949903d2f8",
+      "identifiers": [
+        {
+          "identifier": "Q16799644",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770964.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770964.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/민경욱"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/minkyungwook"
+        }
+      ],
       "name": "MIN KYUNGWOOK",
       "other_names": [
+        {
+          "name": "민경욱",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "閔庚旭",
@@ -23221,6 +25747,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/012hd2cm",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1945113",
           "scheme": "popong"
         },
@@ -23324,14 +25854,30 @@
         }
       ],
       "id": "5503dd3e-3663-4a44-8cc9-b9e5b48568fd",
+      "identifiers": [
+        {
+          "identifier": "Q24000603",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771042.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771042.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/문진국"
+        }
+      ],
       "name": "MOON JINKOOK",
       "other_names": [
+        {
+          "name": "문진국",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "文鎭國",
@@ -23455,6 +26001,10 @@
         {
           "note": "Wikipedia (ruwikinews)",
           "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Мун_Джэ_Ин"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/มุน_แจ-อิน"
         },
         {
           "note": "Wikipedia (vi)",
@@ -23583,6 +26133,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "th",
+          "name": "มุน แจ-อิน",
+          "note": "multilingual"
+        },
+        {
           "lang": "vi",
           "name": "Moon Jae-in",
           "note": "multilingual"
@@ -23706,14 +26261,30 @@
         }
       ],
       "id": "faea4f8e-9524-4763-b80e-79b283741e47",
+      "identifiers": [
+        {
+          "identifier": "Q24000618",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771062.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771062.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/문미옥"
+        }
+      ],
       "name": "MUN MIOCK",
       "other_names": [
+        {
+          "name": "문미옥",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "文美玉",
@@ -23878,7 +26449,7 @@
           "note": "alternate"
         },
         {
-          "name": "남인순과 더불어민주당(송파병)",
+          "name": "남인순과 더불어 송파병",
           "note": "alternate"
         },
         {
@@ -24013,6 +26584,7 @@
         }
       ],
       "email": "youngmin21c@hanmail.net",
+      "gender": "male",
       "id": "c661c6d1-e523-443d-a676-87a50d7fcc27",
       "identifiers": [
         {
@@ -24140,6 +26712,10 @@
         {
           "note": "Wikipedia (kowikiquote)",
           "url": "https://kowikiquote.wikipedia.org/wiki/나경원"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/nakw1963"
         },
         {
           "note": "instagram",
@@ -24291,14 +26867,30 @@
       ],
       "email": "osjoffice@naver.com",
       "id": "7871c76f-93e4-43a7-b8a0-03c0e4cdf422",
+      "identifiers": [
+        {
+          "identifier": "Q24856148",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771070.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771070.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/오세정_(교수)"
+        }
+      ],
       "name": "OH SEJUNG",
       "other_names": [
+        {
+          "name": "오세정",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "吳世正",
@@ -24392,14 +26984,30 @@
         }
       ],
       "id": "4ca28713-157a-448f-a07b-50e0ab49b482",
+      "identifiers": [
+        {
+          "identifier": "Q24000511",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771037.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771037.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/오영훈"
+        }
+      ],
       "name": "OH YOUNGHUN",
       "other_names": [
+        {
+          "name": "오영훈",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "吳怜勳",
@@ -24692,6 +27300,12 @@
       ],
       "email": "parkcd0214@gmail.com",
       "id": "d70665f4-dbb1-4f8a-963d-986409887b88",
+      "identifiers": [
+        {
+          "identifier": "Q24000516",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770963.jpg",
       "images": [
         {
@@ -24700,12 +27314,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박찬대"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/starhanmia"
         }
       ],
       "name": "PARK CHANDAE",
       "other_names": [
+        {
+          "name": "박찬대",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴贊大",
@@ -24737,6 +27359,12 @@
       ],
       "email": "pcw3522@naver.com",
       "id": "e168b51b-8b8d-4609-bb17-39e489909aab",
+      "identifiers": [
+        {
+          "identifier": "Q16079903",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771005.jpg",
       "images": [
         {
@@ -24745,12 +27373,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박찬우"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/pcw3522"
         }
       ],
       "name": "PARK CHANWOO",
       "other_names": [
+        {
+          "name": "박찬우",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴贊佑",
@@ -25109,6 +27745,7 @@
         }
       ],
       "email": "hj_p@naver.com",
+      "gender": "female",
       "id": "d3587df3-3860-4b27-8b0e-cb0dbf29c638",
       "identifiers": [
         {
@@ -25292,6 +27929,12 @@
       ],
       "email": "2016pjh@gmail.com",
       "id": "5bdf5c28-f147-4d31-9f40-6bd215337b3c",
+      "identifiers": [
+        {
+          "identifier": "Q24000528",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770950.jpg",
       "images": [
         {
@@ -25300,12 +27943,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박재호"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/pjh0586"
         }
       ],
       "name": "PARK JAEHO",
       "other_names": [
+        {
+          "name": "박재호",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴在昊",
@@ -25337,6 +27988,12 @@
       ],
       "email": "pjkorea21c@naver.com",
       "id": "0c906712-f6d0-4a00-a7d2-f5314bb8d8f8",
+      "identifiers": [
+        {
+          "identifier": "Q24856315",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770995.jpg",
       "images": [
         {
@@ -25345,12 +28002,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박정_(교육인)"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/pjkorea21c"
         }
       ],
       "name": "PARK JEUNG",
       "other_names": [
+        {
+          "name": "박정",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴釘",
@@ -25382,14 +28047,30 @@
       ],
       "email": "pjh0411508@gmail.com",
       "id": "f86086f7-9221-46a1-a151-045c70109df2",
+      "identifiers": [
+        {
+          "identifier": "Q24856408",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771071.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771071.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박주현_(1963년)"
+        }
+      ],
       "name": "PARK JOOHYUN",
       "other_names": [
+        {
+          "name": "박주현",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴珠賢",
@@ -25421,6 +28102,12 @@
       ],
       "email": "greenpark21c@naver.com",
       "id": "b85edd43-a056-48c2-88b7-6ffa576cc368",
+      "identifiers": [
+        {
+          "identifier": "Q12597165",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771022.jpg",
       "images": [
         {
@@ -25429,12 +28116,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박준영_(1946년)"
+        },
+        {
           "note": "website",
           "url": "http://parkjoonyung.kr"
         }
       ],
       "name": "PARK JOONYUNG",
       "other_names": [
+        {
+          "name": "박준영",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴晙瑩",
@@ -25443,6 +28138,16 @@
         {
           "lang": "ko",
           "name": "박준영",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "朴晙瑩",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "樸晙瑩",
           "note": "multilingual"
         }
       ],
@@ -25466,6 +28171,12 @@
       ],
       "email": "joomincenter@gmail.com",
       "id": "bfb64d19-5a2e-4641-aa23-b8245a0b886a",
+      "identifiers": [
+        {
+          "identifier": "Q16082227",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770932.jpg",
       "images": [
         {
@@ -25474,12 +28185,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박주민"
+        },
+        {
           "note": "website",
           "url": "http://www.joomincenter.com"
         }
       ],
       "name": "PARK JUMIN",
       "other_names": [
+        {
+          "name": "박주민",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴柱民",
@@ -25539,7 +28258,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Parkjiwon2010.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/673809895091646465/C9M6AVew.jpg"
+          "url": "https://pbs.twimg.com/profile_images/780229858202755073/RGAj-XyX.jpg"
         }
       ],
       "links": [
@@ -25667,6 +28386,9 @@
           "url": "http://www.assembly.go.kr/photo/9770566.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HD_(광주MBC뉴스)_박주선,_배기운_엇갈린_항소심_판결_(박주선).jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/413226286597685248/eacytjGS.jpeg"
         }
       ],
@@ -25733,14 +28455,30 @@
       ],
       "email": "parkkm321@naver.com",
       "id": "710f2c23-61e6-4a29-ae0a-0d62dbe429e7",
+      "identifiers": [
+        {
+          "identifier": "Q24000620",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771056.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771056.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박경미"
+        }
+      ],
       "name": "PARK KYUNGMEE",
       "other_names": [
+        {
+          "name": "박경미",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴炅美",
@@ -26048,7 +28786,7 @@
           "url": "http://www.assembly.go.kr/photo/9770765.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/718292397462003715/fYmqfj1J.jpg"
+          "url": "https://pbs.twimg.com/profile_images/760339026159075328/XOas0hHs.jpg"
         }
       ],
       "links": [
@@ -26076,7 +28814,7 @@
       "name": "PARK Nam Choon",
       "other_names": [
         {
-          "name": "국회의원 박남춘(인천남동갑)",
+          "name": "국회의원 박남춘(春)",
           "note": "alternate"
         },
         {
@@ -26114,6 +28852,12 @@
       ],
       "email": "hisoonja@assembly.go.kr",
       "id": "6868c7ec-cc55-4610-b276-1b12221dbb47",
+      "identifiers": [
+        {
+          "identifier": "Q16081799",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770987.jpg",
       "images": [
         {
@@ -26122,12 +28866,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박순자"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/hisoonja3"
         }
       ],
       "name": "PARK SOONJA",
       "other_names": [
+        {
+          "name": "박순자",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴順子",
@@ -26159,6 +28911,12 @@
       ],
       "email": "sjpark101@hanmail.net",
       "id": "e5a02895-e82f-4181-94c8-3e89ba2d853d",
+      "identifiers": [
+        {
+          "identifier": "Q24000498",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770944.jpg",
       "images": [
         {
@@ -26167,12 +28925,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박성중"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/sjpark580801"
         }
       ],
       "name": "PARK SUNGJOONG",
       "other_names": [
+        {
+          "name": "박성중",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴成重",
@@ -26199,16 +28965,37 @@
         }
       ],
       "id": "eff273cc-02eb-4ada-9311-e3569086efea",
+      "identifiers": [
+        {
+          "identifier": "Q12596735",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771073.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771073.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박선숙"
+        }
+      ],
       "name": "PARK SUNSOOK",
       "other_names": [
         {
+          "name": "박선숙",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
+          "name": "朴仙淑",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
           "name": "朴仙淑",
           "note": "multilingual"
         },
@@ -26438,7 +29225,7 @@
           "url": "http://www.assembly.go.kr/photo/9770773.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/535323429516214272/Sm4O0yca.jpeg"
+          "url": "https://pbs.twimg.com/profile_images/763578543984869377/JiPD4c5q.jpg"
         }
       ],
       "links": [
@@ -26470,7 +29257,7 @@
           "note": "alternate"
         },
         {
-          "name": "박수현 국회의원(더불어민주당)",
+          "name": "박수현 (전)국회의원(더불어민주당)",
           "note": "alternate"
         },
         {
@@ -26499,14 +29286,30 @@
         }
       ],
       "id": "47e7c651-af23-4f02-b3e4-d2862c135a71",
+      "identifiers": [
+        {
+          "identifier": "Q16081992",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771030.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771030.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박완수"
+        }
+      ],
       "name": "PARK WANSU",
       "other_names": [
+        {
+          "name": "박완수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "朴完洙",
@@ -26702,20 +29505,54 @@
         {
           "type": "phone",
           "value": "02-784-9721"
+        },
+        {
+          "type": "twitter",
+          "value": "hopeparkyongjin"
         }
       ],
+      "gender": "male",
       "id": "b664cad9-4209-4e89-826f-510a26dbbab3",
+      "identifiers": [
+        {
+          "identifier": "Q16175227",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770929.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770929.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Park_Yong-jin"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/박용진_(1971년)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/hopeparkyongjin"
+        }
+      ],
       "name": "PARK YONGJIN",
       "other_names": [
         {
+          "name": "박용진",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "朴用鎭",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Park Yong-jin",
           "note": "multilingual"
         },
         {
@@ -26755,6 +29592,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0nbh9rp",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1960211",
           "scheme": "popong"
         },
@@ -26773,10 +29614,6 @@
         }
       ],
       "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Park_Youngsun"
-        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Park_Young-sun"
@@ -26859,25 +29696,77 @@
         {
           "type": "phone",
           "value": "02-784-9030"
+        },
+        {
+          "type": "twitter",
+          "value": "DrPyo"
         }
       ],
+      "gender": "male",
       "id": "0a5fa890-2af4-496f-9cde-7b84869f3327",
+      "identifiers": [
+        {
+          "identifier": "Q12622026",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770994.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770994.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pyo_Chang-won"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/표창원"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пхё_Чханвон"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DrPyo"
+        },
+        {
+          "note": "website",
+          "url": "http://www.cwpyo.com/"
+        }
+      ],
       "name": "PYO CHANGWON",
       "other_names": [
+        {
+          "name": "표창원",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "表蒼園",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Pyo Chang-won",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "표창원",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пхё Чханвон",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "表蒼園",
           "note": "multilingual"
         }
       ],
@@ -26963,6 +29852,7 @@
         }
       ],
       "email": "gloryokok@naver.com",
+      "gender": "female",
       "id": "8f078691-7c7e-46c1-adc0-234d16779084",
       "identifiers": [
         {
@@ -27309,6 +30199,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kana",
+          "name": "イ・インジェ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "이인제",
           "note": "multilingual"
@@ -27566,17 +30461,63 @@
         {
           "type": "phone",
           "value": "02-784-9130"
+        },
+        {
+          "type": "twitter",
+          "value": "hcroh"
         }
       ],
       "email": "omychans@naver.com",
+      "gender": "male",
       "id": "e5ad036d-c979-4ca0-9324-be31047eb898",
+      "identifiers": [
+        {
+          "identifier": "/m/05zp9f0",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q482814",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771031.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771031.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Roh_Hoechan_in_2014.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Roh_Hoe-chan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roh_Hoe-chan"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/魯会燦"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/노회찬"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Roh_Hoe-chan"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Но_Хвечхан"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/hcroh"
+        },
         {
           "note": "website",
           "url": "http://omychans.tistory.com/"
@@ -27585,13 +30526,62 @@
       "name": "ROH HOECHAN",
       "other_names": [
         {
+          "name": "노회찬",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "魯會燦",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Roh Hoe-chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Roh Hoe-chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Roh Hoe-chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Roh Hoe-chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "魯会燦",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "노회찬",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Roh Hoe-chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Roh Hoe-chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Но Хве Чхан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "魯會燦",
           "note": "multilingual"
         }
       ],
@@ -27696,14 +30686,30 @@
         }
       ],
       "id": "7a154b69-c15e-46dc-86da-f95ce49d4734",
+      "identifiers": [
+        {
+          "identifier": "Q24856342",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771035.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771035.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/서형수_(1957년)"
+        }
+      ],
       "name": "SEO HYUNGSOO",
       "other_names": [
+        {
+          "name": "서형수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "徐炯洙",
@@ -28186,14 +31192,30 @@
         }
       ],
       "id": "021e8d9f-3b5a-47e0-81a6-c082fe04a118",
+      "identifiers": [
+        {
+          "identifier": "Q24856340",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771045.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771045.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/신보라_(1983년)"
+        }
+      ],
       "name": "SHIN BORA",
       "other_names": [
+        {
+          "name": "신보라",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "申普羅",
@@ -28220,14 +31242,30 @@
         }
       ],
       "id": "41051d7d-29ca-4241-8823-01930ac488fd",
+      "identifiers": [
+        {
+          "identifier": "Q24856324",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770989.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770989.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/신창현_(1953년)"
+        }
+      ],
       "name": "SHIN CHANGHYUN",
       "other_names": [
+        {
+          "name": "신창현",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "申昌賢",
@@ -28259,6 +31297,12 @@
       ],
       "email": "sdkwin16@gmail.com",
       "id": "a6d27dd8-cfe2-4f9e-8be3-5fb78d95e75e",
+      "identifiers": [
+        {
+          "identifier": "Q19940257",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770968.jpg",
       "images": [
         {
@@ -28267,12 +31311,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/신동근"
+        },
+        {
           "note": "website",
           "url": "http://shindk.kr"
         }
       ],
       "name": "SHIN DONGKUEN",
       "other_names": [
+        {
+          "name": "신동근",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "申東根",
@@ -28721,6 +31773,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ko:신경민",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "신경민",
           "note": "multilingual"
@@ -28745,6 +31802,7 @@
           "value": "02-784-8940"
         }
       ],
+      "gender": "female",
       "id": "bdffdc0f-4a14-4f31-b51e-20fc6a330eb1",
       "identifiers": [
         {
@@ -29028,14 +32086,30 @@
       ],
       "email": "yhshin845@gmail.com",
       "id": "ef2a7f99-c44f-43a2-9e6d-1b6d72e58059",
+      "identifiers": [
+        {
+          "identifier": "Q24000765",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771069.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771069.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/신용현"
+        }
+      ],
       "name": "SHIN YONGHYEON",
       "other_names": [
+        {
+          "name": "신용현",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "申容賢",
@@ -29233,6 +32307,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0nbgy3t",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1959214",
           "scheme": "popong"
         },
@@ -29245,6 +32323,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770869.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sim_Sangjung_and_Moon_Jaein_in_2015_(cropped_to_Sim).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/725599100972896257/8V1hmppo.jpg"
@@ -29348,14 +32429,30 @@
         }
       ],
       "id": "a8eaa59e-7222-4459-8a86-3fe01fb54968",
+      "identifiers": [
+        {
+          "identifier": "Q24000553",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770999.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770999.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/소병훈"
+        }
+      ],
       "name": "SO BYUNGHOON",
       "other_names": [
+        {
+          "name": "소병훈",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "蘇秉勳",
@@ -29386,15 +32483,32 @@
         }
       ],
       "email": "shwmapo@naver.com",
+      "gender": "female",
       "id": "22bfe09e-3464-46b6-a34d-db013e622365",
+      "identifiers": [
+        {
+          "identifier": "Q21058754",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770935.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770935.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/손혜원"
+        }
+      ],
       "name": "SOHN HYEWON",
       "other_names": [
+        {
+          "name": "손혜원",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "孫惠園",
@@ -29421,14 +32535,30 @@
         }
       ],
       "id": "f89c5805-803a-485e-8782-8aade0246472",
+      "identifiers": [
+        {
+          "identifier": "Q24000595",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771019.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771019.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/손금주"
+        }
+      ],
       "name": "SON KUMJU",
       "other_names": [
+        {
+          "name": "손금주",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "孫今柱",
@@ -29460,6 +32590,12 @@
       ],
       "email": "alpha-song@naver.com",
       "id": "ebcff916-8c99-4ff6-a77f-c16fcb8a3d30",
+      "identifiers": [
+        {
+          "identifier": "Q24000601",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771039.jpg",
       "images": [
         {
@@ -29468,12 +32604,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/송희경"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/alpha-song"
         }
       ],
       "name": "SONG HEEKGYOUNG",
       "other_names": [
+        {
+          "name": "송희경",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "宋喜卿",
@@ -29508,6 +32652,7 @@
         }
       ],
       "email": "hochang67@hotmail.com",
+      "gender": "male",
       "id": "d8a49d5c-0394-4fff-aeb2-d27fadb9d5f0",
       "identifiers": [
         {
@@ -29517,6 +32662,10 @@
         {
           "identifier": "1967147",
           "scheme": "popong"
+        },
+        {
+          "identifier": "Q16090236",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770790.jpg",
@@ -29529,6 +32678,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/송호창_(1967년)"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/hochangs1"
@@ -29548,6 +32701,10 @@
       ],
       "name": "SONG Ho Chang",
       "other_names": [
+        {
+          "name": "송호창",
+          "note": "alternate"
+        },
         {
           "name": "송호창 변호사",
           "note": "alternate"
@@ -29578,6 +32735,12 @@
         }
       ],
       "id": "a73f8e24-352e-4025-bdf5-704c2cdcd3ed",
+      "identifiers": [
+        {
+          "identifier": "Q24000579",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771001.jpg",
       "images": [
         {
@@ -29586,12 +32749,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/송기헌"
+        },
+        {
           "note": "website",
           "url": "http://www.peacesong1.blog.me"
         }
       ],
       "name": "SONG KIHUN",
       "other_names": [
+        {
+          "name": "송기헌",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "宋基憲",
@@ -29618,14 +32789,30 @@
         }
       ],
       "id": "eb59b0bb-d16c-43b4-a04f-109e7639ac41",
+      "identifiers": [
+        {
+          "identifier": "Q24000600",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770969.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770969.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/송기석"
+        }
+      ],
       "name": "SONG KISEOK",
       "other_names": [
+        {
+          "name": "송기석",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "宋基錫",
@@ -29738,14 +32925,30 @@
       ],
       "email": "songok4740@naver.com",
       "id": "96eccceb-2fbb-4d4e-a26b-d7af36ea2620",
+      "identifiers": [
+        {
+          "identifier": "Q24000760",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771058.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771058.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/송옥주"
+        }
+      ],
       "name": "SONG OKJOO",
       "other_names": [
+        {
+          "name": "송옥주",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "宋玉珠",
@@ -29777,6 +32980,12 @@
       ],
       "email": "icheonsarang734@assembly.co.kr",
       "id": "d2dbedc6-079a-4175-9d5e-963424eba923",
+      "identifiers": [
+        {
+          "identifier": "Q24000531",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770996.jpg",
       "images": [
         {
@@ -29785,12 +32994,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/송석준"
+        },
+        {
           "note": "website",
           "url": "http://icheonsarang.com/"
         }
       ],
       "name": "SONG SEOGJUN",
       "other_names": [
+        {
+          "name": "송석준",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "宋錫俊",
@@ -29814,25 +33031,124 @@
         {
           "type": "phone",
           "value": "02-784-8957"
+        },
+        {
+          "type": "twitter",
+          "value": "Bulloger"
         }
       ],
+      "gender": "male",
       "id": "c2819328-aafa-4903-bb92-b1d84cbfd698",
+      "identifiers": [
+        {
+          "identifier": "/m/0g57ls1",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q484024",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770967.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770967.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/60th_Anniversary_of_the_Incheon_Landing-15SEP2010-Photo_by_SSG_Nicholas_Salcido-66.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Song_Young-gil"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/宋永吉"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/송영길_(정치인)"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/宋永吉"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Bulloger"
         }
       ],
       "name": "SONG YOUNGGIL",
       "other_names": [
+        {
+          "name": "송영길",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "宋永吉",
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Song Young-gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Song Young-gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Song Young-gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Song Young-gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "宋永吉",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "송영길",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Song Young-gil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сон Ёнгиль",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "宋永吉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "宋永吉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "宋永吉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "宋永吉",
           "note": "multilingual"
         }
       ],
@@ -29898,6 +33214,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "宋泳勤",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "송영근",
           "note": "multilingual"
@@ -29935,6 +33256,10 @@
         {
           "identifier": "19461109",
           "scheme": "popong"
+        },
+        {
+          "identifier": "Q12600977",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assembly.go.kr/photo/9770360.jpg",
@@ -29947,6 +33272,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/서상기_(1946년)"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/peopleinsks"
@@ -29968,6 +33297,10 @@
       "other_names": [
         {
           "name": "국회의원 서상기(17,18,19대)",
+          "note": "alternate"
+        },
+        {
+          "name": "서상기",
           "note": "alternate"
         },
         {
@@ -30088,6 +33421,12 @@
       ],
       "email": "sij5140@naver.com",
       "id": "b4a752a9-a3cc-4004-a0dc-9e63d82de84c",
+      "identifiers": [
+        {
+          "identifier": "Q24000580",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771008.jpg",
       "images": [
         {
@@ -30096,12 +33435,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/성일종"
+        },
+        {
           "note": "website",
           "url": "http://www.sungij.co.kr"
         }
       ],
       "name": "SUNG ILJONG",
       "other_names": [
+        {
+          "name": "성일종",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "成一鍾",
@@ -30284,14 +33631,30 @@
         }
       ],
       "id": "35810040-b3a9-4b00-b3e6-3e147d5e7e40",
+      "identifiers": [
+        {
+          "identifier": "Q12606637",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771034.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771034.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/엄용수_(1965년)"
+        }
+      ],
       "name": "UM YONGSOO",
       "other_names": [
+        {
+          "name": "엄용수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "嚴龍洙",
@@ -30323,6 +33686,12 @@
       ],
       "email": "wisg1128@hanmail.net",
       "id": "61266d3b-b504-4488-80c8-cb97adc45bc4",
+      "identifiers": [
+        {
+          "identifier": "Q24000515",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771038.jpg",
       "images": [
         {
@@ -30331,12 +33700,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/위성곤"
+        },
+        {
           "note": "website",
           "url": "http://wishjeju.kr"
         }
       ],
       "name": "WI SEONGGON",
       "other_names": [
+        {
+          "name": "위성곤",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "魏聖坤",
@@ -30501,6 +33878,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Won_Yuchul"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Won_Yoo-chul"
         },
@@ -30631,6 +34012,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "禹相虎",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "우상호",
           "note": "multilingual"
@@ -30659,6 +34045,7 @@
         }
       ],
       "email": "reform1-1@hanmail.net",
+      "gender": "male",
       "id": "6d1ce2d8-1006-4144-9b3d-8ccf30bc526f",
       "identifiers": [
         {
@@ -30670,7 +34057,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q16163428",
+          "identifier": "Q16090388",
           "scheme": "wikidata"
         }
       ],
@@ -30685,8 +34072,12 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Woo_Won-shik"
+        },
+        {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/우원식"
+          "url": "https://ko.wikipedia.org/wiki/우원식_(1957년)"
         },
         {
           "note": "facebook",
@@ -30712,7 +34103,7 @@
           "note": "alternate"
         },
         {
-          "name": "우원식과 더민주",
+          "name": "우원식과 더불어민주당",
           "note": "alternate"
         },
         {
@@ -30721,8 +34112,23 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Woo Won-shik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ko:우원식",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "우원식",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "ko:우원식",
           "note": "multilingual"
         }
       ],
@@ -30770,7 +34176,7 @@
           "url": "http://www.assembly.go.kr/photo/9770383.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/748391798272311296/FHKVt8KK.jpg"
+          "url": "https://pbs.twimg.com/profile_images/760094828432531456/lugacpjA.jpg"
         }
       ],
       "links": [
@@ -30898,6 +34304,11 @@
         {
           "lang": "cn",
           "name": "梁承晁",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ko:양승조",
           "note": "multilingual"
         },
         {
@@ -31178,6 +34589,12 @@
       ],
       "email": "newds61@naver.com",
       "id": "f45fd7e9-c5cc-46fc-9478-853780aa5e46",
+      "identifiers": [
+        {
+          "identifier": "Q24000557",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770966.jpg",
       "images": [
         {
@@ -31186,12 +34603,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/유동수"
+        },
+        {
           "note": "website",
           "url": "http://www.유동수.com"
         }
       ],
       "name": "YOO DONGSOO",
       "other_names": [
+        {
+          "name": "유동수",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "柳東秀",
@@ -31469,6 +34894,11 @@
         {
           "lang": "cn",
           "name": "柳一鎬",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "柳一鎬",
           "note": "multilingual"
         },
         {
@@ -31775,6 +35205,7 @@
         }
       ],
       "email": "ysm21com@naver.com",
+      "gender": "male",
       "id": "0bfeb69d-1324-4cd6-be68-fd2ed2f5194e",
       "identifiers": [
         {
@@ -31786,7 +35217,7 @@
           "scheme": "popong"
         },
         {
-          "identifier": "Q16069002",
+          "identifier": "Q12609867",
           "scheme": "wikidata"
         }
       ],
@@ -31798,8 +35229,12 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yoo_Seong-min"
+        },
+        {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/유승민"
+          "url": "https://ko.wikipedia.org/wiki/유승민_(정치인)"
         },
         {
           "note": "facebook",
@@ -31830,8 +35265,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Yoo Seung-min",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "유승민",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "劉承旼",
           "note": "multilingual"
         }
       ],
@@ -32014,6 +35459,12 @@
         }
       ],
       "id": "7bb3971d-d029-4e11-a8a2-be82d1eccf71",
+      "identifiers": [
+        {
+          "identifier": "Q24000554",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771032.jpg",
       "images": [
         {
@@ -32022,12 +35473,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/윤한홍"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/uhh609"
         }
       ],
       "name": "YOON HANHONG",
       "other_names": [
+        {
+          "name": "윤한홍",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "尹漢洪",
@@ -32144,14 +35603,30 @@
         }
       ],
       "id": "684eaa28-2800-4eef-be6c-2f806d7d3555",
+      "identifiers": [
+        {
+          "identifier": "Q24000521",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770979.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770979.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/윤종오"
+        }
+      ],
       "name": "YOON JONGO",
       "other_names": [
+        {
+          "name": "윤종오",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "尹鍾五",
@@ -32183,6 +35658,12 @@
       ],
       "email": "jpyoon605@naver.com",
       "id": "02a2291d-a9d3-4585-9840-c6946592da8a",
+      "identifiers": [
+        {
+          "identifier": "Q24000702",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771051.jpg",
       "images": [
         {
@@ -32191,12 +35672,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/윤종필"
+        },
+        {
           "note": "website",
           "url": "http://blog.naver.com/jpyoon605"
         }
       ],
       "name": "YOON JONGPIL",
       "other_names": [
+        {
+          "name": "윤종필",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "尹鍾畢",
@@ -32290,22 +35779,48 @@
         }
       ],
       "id": "e6afc61a-dca3-45bb-a41a-e0820b4ed91b",
+      "identifiers": [
+        {
+          "identifier": "Q12610280",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9770955.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770955.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/윤상직"
+        }
+      ],
       "name": "YOON SANGJICK",
       "other_names": [
+        {
+          "name": "윤상직",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "尹相直",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "尹相直",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "윤상직",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尹相直",
           "note": "multilingual"
         }
       ],
@@ -32332,6 +35847,8 @@
         }
       ],
       "email": "shyoon@na.go.kr",
+      "family_name": "Yoon",
+      "gender": "male",
       "id": "780d71a9-6769-4418-a4db-15b58fde8997",
       "identifiers": [
         {
@@ -32394,6 +35911,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Yoon Sang-hyeon",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "윤상현",
           "note": "multilingual"
@@ -32419,14 +35941,34 @@
       ],
       "email": "hwj335@hanmail.net",
       "id": "3b309716-46fb-4fab-a37b-0585669d41ae",
+      "identifiers": [
+        {
+          "identifier": "Q24856356",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771021.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771021.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/윤영일"
+        },
+        {
+          "note": "website",
+          "url": "http://blog.naver.com/yiyoon0101"
+        }
+      ],
       "name": "YOON YOUNGIL",
       "other_names": [
+        {
+          "name": "윤영일",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "尹英壹",
@@ -32633,6 +36175,7 @@
         }
       ],
       "email": "yjy@assembly.go.kr",
+      "gender": "female",
       "id": "d706884c-110a-416c-a66c-c73ce480bee4",
       "identifiers": [
         {
@@ -32703,14 +36246,30 @@
         }
       ],
       "id": "77c34b3d-2552-467a-aeca-f425f5d60876",
+      "identifiers": [
+        {
+          "identifier": "Q24000770",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771050.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771050.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/유민봉"
+        }
+      ],
       "name": "YOU MINBONG",
       "other_names": [
+        {
+          "name": "유민봉",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "庾敏鳳",
@@ -32745,6 +36304,7 @@
         }
       ],
       "email": "337ysh@assembly.go.kr",
+      "gender": "female",
       "id": "0fa8c740-5e6b-44c3-b862-701c34337d06",
       "identifiers": [
         {
@@ -32769,7 +36329,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Yu_Seung-hui_cropped.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/721627985955016704/Rw-eqMzG.jpg"
+          "url": "https://pbs.twimg.com/profile_images/777742429998845953/FnOowqtk.jpg"
         }
       ],
       "links": [
@@ -32919,6 +36479,12 @@
       ],
       "email": "yunsoha20@naver.com",
       "id": "af214a84-7c79-4243-be0c-8d7937ede638",
+      "identifiers": [
+        {
+          "identifier": "Q24000775",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771085.jpg",
       "images": [
         {
@@ -32927,12 +36493,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/윤소하"
+        },
+        {
           "note": "website",
           "url": "www.yunsoha.kr"
         }
       ],
       "name": "YOUN SOHA",
       "other_names": [
+        {
+          "name": "윤소하",
+          "note": "alternate"
+        },
         {
           "lang": "cn",
           "name": "尹昭夏",
@@ -32988,7 +36562,7 @@
           "url": "http://www.assembly.go.kr/photo/9770808.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/732397528092528641/SgOmIB9j.jpg"
+          "url": "https://pbs.twimg.com/profile_images/783299883860041728/WshaP6I5.jpg"
         }
       ],
       "links": [
@@ -33106,7 +36680,7 @@
           "note": "alternate"
         },
         {
-          "name": "윤호중 국회의원 (구리시)",
+          "name": "윤호중 국회의원(구리시)",
           "note": "alternate"
         },
         {
@@ -33425,7 +36999,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 300
+      "seats": 300,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -33484,7 +37059,141 @@
     {
       "classification": "party",
       "id": "party/더불어민주당",
-      "name": "더불어민주당"
+      "identifiers": [
+        {
+          "identifier": "Q15978686",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://theminjoo.kr"
+        }
+      ],
+      "name": "더불어민주당",
+      "other_names": [
+        {
+          "lang": "ko",
+          "name": "더불어민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Neue Politische Allianz für Demokratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Minjoo Party of Korea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "新政治民主联合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "New Politics Alliance for Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Minjoo Party of Korea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "共に民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая коалиция за новую политику",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Naujos politikos demokratinė koalicija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nueva Alianza Política para la Democracia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Minju",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Minju",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "새정치민주연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "더민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "더민주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "새민연",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "새민련",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "새정치",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "더불어민주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New Politics Alliance for Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "新政治民主連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouvelle Alliance politique pour la démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Deobureo Minjudang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Deobureo Minjudang",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -33788,6 +37497,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -34080,6 +37794,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]

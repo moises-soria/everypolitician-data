@@ -25,7 +25,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/korean-assembly-members-wikidata",
+        "scraper": "everypolitician-scrapers/korean-assembly-members-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
