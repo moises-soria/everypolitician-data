@@ -410,7 +410,46 @@
       "id": "Q15722817",
       "label": "Minister of Finance",
       "title": "Minister of Finance",
-      "description": "political head of the Ministry of Finance of Israel"
+      "description": "political head of the Ministry of Finance of Israel",
+      "qualifiers": {
+        "P580": "2009-03-31",
+        "P582": "2013-03-18",
+        "P1365": "Roni Bar-On",
+        "P1366": "Yair Lapid"
+      }
+    },
+    {
+      "id": "Q2082321",
+      "label": "Minister of Intelligence and Atomic Energy",
+      "title": "Minister of Intelligence and Atomic Energy",
+      "description": "Israeli minister",
+      "qualifiers": {
+        "P580": "2013-03-18",
+        "P582": "2015-05-14",
+        "P1365": "Dan Meridor",
+        "P1366": "Yisrael Katz"
+      }
+    },
+    {
+      "id": "Q2564757",
+      "label": "Strategic Affairs Minister of Israel",
+      "title": "Strategic Affairs Minister of Israel",
+      "qualifiers": {
+        "P580": "2013-03-18",
+        "P582": "2015-05-14",
+        "P1365": "Moshe Ya'alon",
+        "P1366": "Ze'ev Elkin"
+      }
+    },
+    {
+      "id": "Q15732343",
+      "label": "Minister of National Infrastructure, Energy, and Water",
+      "title": "Minister of National Infrastructure, Energy, and Water",
+      "description": "Israeli minister",
+      "qualifiers": {
+        "P580": "2015-05-14",
+        "P1365": "Silvan Shalom"
+      }
     }
   ],
   "Q2890635": [

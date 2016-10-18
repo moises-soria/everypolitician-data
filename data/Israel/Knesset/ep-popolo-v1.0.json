@@ -20971,6 +20971,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ro",
+          "name": "Binyamin Ben Eliezer",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Бен-Элиэзер, Биньямин",
           "note": "multilingual"
@@ -24611,6 +24616,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1102252050",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "11615",
           "scheme": "mgp"
         },
@@ -25472,6 +25481,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "000019741",
+          "scheme": "egaxa"
+        },
+        {
           "identifier": "684",
           "scheme": "everypolitician_legacy"
         },
@@ -25536,12 +25549,20 @@
           "scheme": "nta"
         },
         {
+          "identifier": "n98006008",
+          "scheme": "nukat"
+        },
+        {
           "identifier": "OL275435A",
           "scheme": "olid"
         },
         {
           "identifier": "933",
           "scheme": "openplaques"
+        },
+        {
+          "identifier": "268057",
+          "scheme": "ptbnp"
         },
         {
           "identifier": "000104329",
@@ -51360,11 +51381,16 @@
       "birth_date": "1936-02-22",
       "death_date": "1985-02-05",
       "gender": "male",
+      "given_name": "Yitzhak",
       "id": "db2cd0cf-9f25-4363-9bec-f83a94058e21",
       "identifiers": [
         {
           "identifier": "406",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2900629",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/zigar_yizhak.jpg",
@@ -51373,7 +51399,62 @@
           "url": "http://www.knesset.gov.il/mk/images/members/zigar_yizhak.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jicchak_Seiger"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yitzhak_Seiger"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יצחק_זיגר"
+        }
+      ],
       "name": "Isaac Seyger",
+      "other_names": [
+        {
+          "name": "יצחק זיגר",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Jicchak Seiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Yitzhak Seiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yitzhak Seiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yitzhak Seiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יצחק זיגר",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yitzhak Seiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yitzhak Seiger",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=406"
@@ -62168,7 +62249,7 @@
         },
         {
           "note": "Wikipedia (ka)",
-          "url": "https://ka.wikipedia.org/wiki/მენაჰემ_ბეგინი"
+          "url": "https://ka.wikipedia.org/wiki/მენახემ_ბეგინი"
         },
         {
           "note": "Wikipedia (ko)",
@@ -72498,6 +72579,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/משה_מאיה"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mosze_Maja"
         }
       ],
       "name": "Moshe Maya",
@@ -105943,11 +106028,28 @@
     {
       "birth_date": "1937-04-04",
       "gender": "male",
+      "given_name": "Yaakov",
       "id": "3eaaee27-4fa0-4860-9405-a6dc681c8d27",
       "identifiers": [
         {
           "identifier": "587",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04jdxbn",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "000561675",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "253106438",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2776738",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/zur_yaakov.jpg",
@@ -105956,7 +106058,89 @@
           "url": "http://www.knesset.gov.il/mk/images/members/zur_yaakov.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ja'akov_Cur"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ja’akov_Zur"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ya'akov_Tzur"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Yaakov_Tzur"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יעקב_צור_(שטיינברג)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Цур,_Яаков"
+        }
+      ],
       "name": "Yaacov Tsur",
+      "other_names": [
+        {
+          "name": "יעקב צור",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Ja'akov Cur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ja’akov Zur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ya'akov Tzur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ya'akov Tzur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yaakov Tzur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יעקב צור",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ya'akov Tzur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ya'akov Tzur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Яаков Цур",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Яаков Цур",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=587"
@@ -112742,7 +112926,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Yehoshua_Saguy"
+          "url": "https://en.wikipedia.org/wiki/Yehoshua_Sagi"
         },
         {
           "note": "Wikipedia (he)",
@@ -124719,6 +124903,10 @@
           "url": "https://ar.wikipedia.org/wiki/يوفال_شتاينتز"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yuval_Steinitz"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Juval_Steinitz"
         },
@@ -124745,6 +124933,10 @@
         {
           "note": "Wikipedia (fa)",
           "url": "https://fa.wikipedia.org/wiki/یووال_استاینیتز"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Yuval_Steinitz"
         },
         {
           "note": "Wikipedia (he)",
