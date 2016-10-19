@@ -5327,6 +5327,14 @@
     },
     {
       "birth_date": "1973-03-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bjarne.corydon@ft.dk"
+        }
+      ],
+      "email": "bjarne.corydon@ft.dk",
+      "family_name": "Corydon",
       "gender": "male",
       "given_name": "Bjarne",
       "id": "e482d853-f396-4983-bc4f-a0b1d8a972d2",
@@ -5344,8 +5352,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bjarne_Corydon_20131021.jpg",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Bjarne_Fog_Corydon/Bjarne_Fog_Corydonx133.jpg.ashx",
       "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Bjarne_Fog_Corydon/Bjarne_Fog_Corydonx133.jpg.ashx"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bjarne_Corydon_20131021.jpg"
         }
@@ -5397,7 +5408,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.bjarnecorydon.dk/"
+          "url": "http://bjarnecorydon.dk"
         }
       ],
       "name": "Bjarne Corydon",
@@ -5471,6 +5482,11 @@
           "lang": "sv",
           "name": "Bjarne Corydon",
           "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/sbjfc.aspx"
         }
       ]
     },
@@ -15255,6 +15271,14 @@
     },
     {
       "birth_date": "1966-12-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "helle.thorning-schmidt@ft.dk"
+        }
+      ],
+      "email": "helle.thorning-schmidt@ft.dk",
+      "family_name": "Thorning-Schmidt",
       "gender": "female",
       "given_name": "Helle",
       "id": "e06ef10a-a26f-46d5-80e7-3cc3f20a5ec7",
@@ -15304,8 +15328,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Helle_Thorning-Schmidt-2.jpg",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Helle%20Thorning-Schmidt/Helle_Thorning-Schmidt_133.jpg.ashx",
       "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Helle%20Thorning-Schmidt/Helle_Thorning-Schmidt_133.jpg.ashx"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Helle_Thorning-Schmidt-2.jpg"
         }
@@ -15565,7 +15592,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.thorning-schmidt.dk/"
+          "url": "http://www.thorning-schmidt.dk"
         }
       ],
       "name": "Helle Thorning-Schmidt",
@@ -15884,6 +15911,11 @@
           "lang": "zh",
           "name": "赫勒·托寧-施密特",
           "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/shets.aspx"
         }
       ]
     },
@@ -21212,10 +21244,16 @@
       "birth_date": "1978-04-20",
       "contact_details": [
         {
+          "type": "email",
+          "value": "jeppe.bruus@ft.dk"
+        },
+        {
           "type": "twitter",
           "value": "JeppeBruus"
         }
       ],
+      "email": "jeppe.bruus@ft.dk",
+      "family_name": "Bruus",
       "gender": "male",
       "given_name": "Jeppe",
       "id": "7e620d4a-469b-459e-bb1f-ced82174751e",
@@ -21229,6 +21267,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jeppe_Bruus/Jeppe_Bruus_133.jpg.ashx",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jeppe_Bruus/Jeppe_Bruus_133.jpg.ashx"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (da)",
@@ -21240,7 +21284,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.jeppebruus.dk"
+          "url": "http://www.jeppebruus.dk/"
         }
       ],
       "name": "Jeppe Bruus",
@@ -21303,6 +21347,11 @@
           "lang": "sv",
           "name": "Jeppe Bruus",
           "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/sjebr.aspx"
         }
       ]
     },
@@ -22760,10 +22809,15 @@
       "birth_date": "1978-02-26",
       "contact_details": [
         {
+          "type": "email",
+          "value": "jonas.dahl@ft.dk"
+        },
+        {
           "type": "twitter",
           "value": "jonasdahl"
         }
       ],
+      "email": "jonas.dahl@ft.dk",
       "family_name": "Dahl",
       "gender": "male",
       "given_name": "Jonas",
@@ -22778,8 +22832,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Jonas_Dahl_1._maj_2010.jpg",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Jonas%20Dahl/Jonas_Dahl_133.jpg.ashx",
       "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Jonas%20Dahl/Jonas_Dahl_133.jpg.ashx"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Jonas_Dahl_1._maj_2010.jpg"
         }
@@ -22863,6 +22920,11 @@
           "lang": "zh",
           "name": "喬納斯·達爾",
           "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/sfjoda.aspx"
         }
       ]
     },
@@ -67253,6 +67315,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/greater_copenhagen",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "7e620d4a-469b-459e-bb1f-ced82174751e",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "RV",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -69668,6 +69738,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/east_jutland",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "AE4E2E70-9FAE-42C6-9116-4A8D9983E2DA",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "c036962d-4012-4798-904c-5739f5295526",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -71326,6 +71404,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/copenhagen",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "e06ef10a-a26f-46d5-80e7-3cc3f20a5ec7",
+      "role": "member"
+    },
+    {
       "area_id": "area/south_jutland",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
@@ -71486,6 +71572,14 @@
     {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "S",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "e482d853-f396-4983-bc4f-a0b1d8a972d2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_jutland",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "e482d853-f396-4983-bc4f-a0b1d8a972d2",
       "role": "member"
