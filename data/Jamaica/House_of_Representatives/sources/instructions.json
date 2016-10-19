@@ -30,7 +30,8 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/jamaica-elections-2016",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+        "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, image FROM data ORDER BY id",
+        "reconciliation_query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "http://jamaica-elections.com",
       "type": "person",
