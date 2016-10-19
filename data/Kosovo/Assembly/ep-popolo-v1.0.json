@@ -4636,6 +4636,13 @@
       ]
     },
     {
+      "birth_date": "1967-05-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KadriVeseliKS"
+        }
+      ],
       "family_name": "Veseli",
       "gender": "male",
       "given_name": "Kadri",
@@ -4644,6 +4651,14 @@
         {
           "identifier": "mp_KadriVeseli",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/010wcwxt",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q13040485",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/kv/kuvendi/people/mp_KadriVeseli/image.jpeg",
@@ -4652,7 +4667,64 @@
           "url": "http://files.parldata.eu/kv/kuvendi/people/mp_KadriVeseli/image.jpeg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Kadri_Veseli"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kadri_Veseli"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Весели,_Кадри"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Kadri_Veseli"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/kadriveseliofficial"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KadriVeseliKS"
+        },
+        {
+          "note": "website",
+          "url": "http://www.assembly-kosova.org/?cid=1,182"
+        }
+      ],
       "name": "Kadri Veseli",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Kadri Veseli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kadri Veseli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kadri Veseli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Весели, Кадри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Kadri Veseli",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Veseli Kadri",
       "sources": [
         {
@@ -13495,7 +13567,8 @@
   ],
   "meta": {
     "sources": [
-      "http://api.parldata.eu/kv"
+      "http://api.parldata.eu/kv",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
