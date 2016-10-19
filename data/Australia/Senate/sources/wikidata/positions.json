@@ -497,6 +497,14 @@
       "description": "Representative"
     }
   ],
+  "Q7146371": [
+    {
+      "id": "Q6814428",
+      "label": "member of the Australian Senate",
+      "title": "member of the Australian Senate",
+      "description": "Representative"
+    }
+  ],
   "Q16239978": [
     {
       "id": "Q6814428",
@@ -732,7 +740,9 @@
       "qualifiers": {
         "P580": "1994-03-26",
         "P768": "Mackellar",
-        "P1365": "Jim Carlton"
+        "P1365": "Jim Carlton",
+        "P582": "2016-05-09",
+        "P1366": "Jason Falinski"
       }
     },
     {
@@ -878,7 +888,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "2015-05-06",
+        "P768": "New South Wales",
+        "P1365": "John Faulkner"
+      }
     }
   ],
   "Q7149687": [
@@ -2893,7 +2908,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1981-07-01",
+        "P582": "1993-06-30",
+        "P768": "Western Australia"
+      }
     }
   ],
   "Q5528211": [
