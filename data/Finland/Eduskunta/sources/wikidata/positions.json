@@ -4836,13 +4836,48 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1995-03-24",
+        "P582": "2011-04-19",
+        "P768": "Oulu"
+      }
     },
     {
       "id": "Q23725756",
       "label": "Minister of Culture",
       "title": "Minister of Culture",
-      "description": "Finnish cabinet position"
+      "description": "Finnish cabinet position",
+      "qualifiers": {
+        "P580": "1999-04-15",
+        "P582": "2002-06-04",
+        "P1365": "Suvi-Anne Siimes",
+        "P1366": "Kaarina Dromberg",
+        "P361": "Paavo Lipponen's second Cabinet"
+      }
+    },
+    {
+      "id": "Q18694351",
+      "label": "Minister of Communications",
+      "title": "Minister of Communications",
+      "description": "in Finland",
+      "qualifiers": {
+        "P580": "2007-04-19",
+        "P582": "2011-06-21",
+        "P1365": "Susanna Huovinen",
+        "P1366": "Krista Kiuru",
+        "P361": "Matti Vanhanen's second cabinet"
+      }
+    },
+    {
+      "id": "Q11997597",
+      "label": "representative",
+      "title": "representative (of Oulu City Council)",
+      "description": "someone who acts on behalf of another",
+      "qualifiers": {
+        "P642": "Oulu City Council",
+        "P580": "1989"
+      }
     }
   ],
   "Q17382244": [
