@@ -71,6 +71,7 @@ module Everypolitician
             t[:csv_url] = remote_source % [term_csv_sha, t[:csv]]
           end,
           statement_count:     statement_count,
+          type:                type,
         }
       end
 
@@ -127,6 +128,10 @@ module Everypolitician
 
       def statement_count
         json_with_count.last
+      end
+
+      def type
+        popolo[:organizations].find { |o| o[:classification] == 'legislature' }[:type] || ''
       end
     end
   end
