@@ -3876,20 +3876,54 @@
     {
       "birth_date": "1957-10-04",
       "gender": "female",
+      "given_name": "Ingrid",
       "id": "74c2131c-72bf-4482-975b-b52240c300d1",
       "identifiers": [
         {
           "identifier": "4728",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16115028",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19522",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19522"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ingrid_Antičević_Marinović.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ingrid_Antičević-Marinović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Ingrid_Antičević-Marinović"
         }
       ],
       "name": "Ingrid Antičević Marinović",
+      "other_names": [
+        {
+          "name": "Ingrid Antičević-Marinović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ingrid Antičević-Marinović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ingrid Antičević-Marinović",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4728"
@@ -9337,20 +9371,68 @@
     {
       "birth_date": "1958-03-14",
       "gender": "male",
+      "given_name": "Silvano",
       "id": "6fcb6fcb-1aa9-4d9a-bfb5-5f819088a917",
       "identifiers": [
         {
           "identifier": "5057",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17275529",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19568",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19568"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kukuriku.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Silvano_Hrelja"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Silvano_Hrelja"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Silvano_Hrelja"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Silvano_Hrelja"
         }
       ],
       "name": "Silvano Hrelja",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvano Hrelja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Silvano Hrelja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Silvano Hrelja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Silvano Hrelja",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5057"
@@ -9517,6 +9599,10 @@
         {
           "identifier": "5037",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25043794",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19559",
@@ -9525,7 +9611,20 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19559"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Srđan_Gjurković"
+        }
+      ],
       "name": "Srđan Gjurković",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Srđan Gjurković",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5037"
@@ -18797,6 +18896,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2016-07-15",
       "id": "term/8",
       "name": "8th Assembly",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
