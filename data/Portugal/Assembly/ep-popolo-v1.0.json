@@ -39001,20 +39001,113 @@
     },
     {
       "birth_date": "1966-03-18",
+      "gender": "male",
+      "given_name": "Nuno",
       "id": "c5b5c176-7888-4476-aefc-78d390c7091f",
       "identifiers": [
         {
+          "identifier": "96978",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/0ynyd2q",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1047",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q10338219",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1047&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1047&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Nuno_Melo_MEP,_Strasbourg_-_Diliff.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Nuno_Melo"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nuno_Melo_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nuno_Melo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nuno_Melo_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nuno_Melo"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Nuno_Melo_(político)"
+        },
+        {
+          "note": "website",
+          "url": "http://nunomelo.eu/"
         }
       ],
       "name": "Nuno Teixeira de Melo",
+      "other_names": [
+        {
+          "name": "Nuno Melo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nuno Melo",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1047"
@@ -42730,11 +42823,17 @@
     },
     {
       "birth_date": "1957-03-06",
+      "gender": "male",
+      "given_name": "Pedro",
       "id": "dbbaa03c-4a75-476d-8a1b-e526142d9415",
       "identifiers": [
         {
           "identifier": "839",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q17496480",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=839&type=deputado",
@@ -42743,7 +42842,44 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=839&type=deputado"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Pedro_Manuel_Bastos_Rodrigues_Soares"
+        }
+      ],
       "name": "Pedro Soares",
+      "other_names": [
+        {
+          "name": "Pedro Manuel Bastos Rodrigues Soares",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Pedro Manuel Bastos Rodrigues Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pedro Manuel Bastos Rodrigues Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pedro Manuel Bastos Rodrigues Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pedro Manuel Bastos Rodrigues Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Pedro Manuel Bastos Rodrigues Soares",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=839"
