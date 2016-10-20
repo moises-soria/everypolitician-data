@@ -30,115 +30,33 @@
     "executive": [
       {
         "id": "Q15728439",
-        "name": "Deputy Minister of Defense"
+        "name": "Deputy Minister of Defense",
+        "description": "Deputy Minister of Defense of Israel"
       },
       {
         "id": "Q15735049",
-        "name": "Deputy Minister of Foreign Affairs"
+        "name": "Deputy Minister of Foreign Affairs",
+        "description": "Deputy Minister of Foreign Affairs for Israel"
       },
       {
         "id": "Q15732368",
-        "name": "Deputy Minister of Health"
+        "name": "Deputy Minister of Health",
+        "description": null
       },
       {
         "id": "Q24305582",
-        "name": "Deputy Minister of Trade and Industry"
+        "name": "Deputy Minister of Trade and Industry",
+        "description": "Israeli ministerial position"
       },
       {
         "id": "Q7040859",
-        "name": "Deputy Prime Minister of Israel"
-      },
-      {
-        "id": "Q20021291",
-        "name": "Education Minister of Israel"
-      },
-      {
-        "id": "Q2566297",
-        "name": "Information and Diaspora Minister of Israel"
-      },
-      {
-        "id": "Q2433405",
-        "name": "Internal Affairs Minister of Israel"
-      },
-      {
-        "id": "Q742063",
-        "name": "Justice Minister of Israel"
-      },
-      {
-        "id": "Q890855",
-        "name": "Labor Minister of Israel"
-      },
-      {
-        "id": "Q15731462",
-        "name": "Minister of Agriculture and Rural Development"
-      },
-      {
-        "id": "Q20021270",
-        "name": "Minister of Communications"
-      },
-      {
-        "id": "Q20021264",
-        "name": "Minister of Construction"
-      },
-      {
-        "id": "Q13222899",
-        "name": "Minister of Defense"
-      },
-      {
-        "id": "Q23902466",
-        "name": "Minister of Economics and Planning"
-      },
-      {
-        "id": "Q15722817",
-        "name": "Minister of Finance"
-      },
-      {
-        "id": "Q15710855",
-        "name": "Minister of Foreign Affairs"
-      },
-      {
-        "id": "Q15722942",
-        "name": "Minister of Health"
-      },
-      {
-        "id": "Q20021262",
-        "name": "Minister of Immigrant Absorption"
-      },
-      {
-        "id": "Q15732343",
-        "name": "Minister of National Infrastructure, Energy, and Water"
-      },
-      {
-        "id": "Q20021305",
-        "name": "Minister of Public Security of Israel"
-      },
-      {
-        "id": "Q15722454",
-        "name": "Minister of Tourism"
-      },
-      {
-        "id": "Q15731446",
-        "name": "Minister of Transport and Road Safety"
-      },
-      {
-        "id": "Q6866420",
-        "name": "Minister of Welfare"
-      },
-      {
-        "id": "Q15733044",
-        "name": "Minister without portfolio"
-      },
-      {
-        "id": "Q19803218",
-        "name": "Pensioner Affairs Minister of Israel"
+        "name": "Deputy Prime Minister of Israel",
+        "description": null
       },
       {
         "id": "Q327948",
-        "name": "President of Israel"
-      },
-      {
-        "id": "Q208487",
-        "name": "Prime Minister of Israel"
+        "name": "President of Israel",
+        "description": "position"
       }
     ],
     "party": [
@@ -156,6 +74,143 @@
       {
         "id": "Q15493109",
         "name": "chairman of Yad Vashem"
+      },
+      {
+        "id": "Q23902308",
+        "name": "Israel Ambassador to France",
+        "description": null
+      }
+    ],
+    "cabinet": [
+      {
+        "id": "Q20021283",
+        "name": "Minister of Environmental Protection",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q2082321",
+        "name": "Minister of Intelligence and Atomic Energy",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q20021301",
+        "name": "Science, Technology and Space Minister",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q2564757",
+        "name": "Strategic Affairs Minister of Israel",
+        "description": null
+      },
+      {
+        "id": "Q20021291",
+        "name": "Education Minister of Israel",
+        "description": null
+      },
+      {
+        "id": "Q2433405",
+        "name": "Internal Affairs Minister of Israel",
+        "description": null
+      },
+      {
+        "id": "Q742063",
+        "name": "Justice Minister of Israel",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q890855",
+        "name": "Labor Minister of Israel",
+        "description": "position"
+      },
+      {
+        "id": "Q15731462",
+        "name": "Minister of Agriculture and Rural Development",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q20021270",
+        "name": "Minister of Communications",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q20021264",
+        "name": "Minister of Construction",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q13222899",
+        "name": "Minister of Defence",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q2566297",
+        "name": "Minister of Diaspora Affairs",
+        "description": "Israeli ministerial post"
+      },
+      {
+        "id": "Q23902466",
+        "name": "Minister of Economics and Planning",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q15722817",
+        "name": "Minister of Finance",
+        "description": "political head of the Ministry of Finance of Israel"
+      },
+      {
+        "id": "Q15710855",
+        "name": "Minister of Foreign Affairs",
+        "description": "political head of the Israeli Ministry of Foreign Affairs"
+      },
+      {
+        "id": "Q15722942",
+        "name": "Minister of Health",
+        "description": "political head of the Israeli Ministry of Health"
+      },
+      {
+        "id": "Q20021262",
+        "name": "Minister of Immigrant Absorption",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q15732343",
+        "name": "Minister of National Infrastructure, Energy, and Water",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q20021305",
+        "name": "Minister of Public Security of Israel",
+        "description": "Israeli cabinet position"
+      },
+      {
+        "id": "Q15722454",
+        "name": "Minister of Tourism",
+        "description": "Israeli minister"
+      },
+      {
+        "id": "Q15731446",
+        "name": "Minister of Transport and Road Safety",
+        "description": "in Israel"
+      },
+      {
+        "id": "Q6866420",
+        "name": "Minister of Welfare",
+        "description": null
+      },
+      {
+        "id": "Q15733044",
+        "name": "Minister without portfolio",
+        "description": "Israeli Minister without portfolio"
+      },
+      {
+        "id": "Q208487",
+        "name": "Prime Minister of Israel",
+        "description": "position of the Israeli head of government"
+      },
+      {
+        "id": "Q19803218",
+        "name": "Social Equality Minister of Israel",
+        "description": null
       }
     ]
   },
@@ -174,24 +229,6 @@
         "count": 1
       },
       {
-        "id": "Q23902308",
-        "name": "Israel Ambassador to France",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q20021283",
-        "name": "Minister of Environmental Protection",
-        "description": "Israeli minister",
-        "count": 1
-      },
-      {
-        "id": "Q2082321",
-        "name": "Minister of Intelligence and Atomic Energy",
-        "description": "Israeli minister",
-        "count": 1
-      },
-      {
         "id": "Q2671706",
         "name": "Ministry of Immigrant Absorption",
         "description": "Israeli ministry",
@@ -204,20 +241,8 @@
         "count": 1
       },
       {
-        "id": "Q20021301",
-        "name": "Science, Technology and Space Minister",
-        "description": "Israeli minister",
-        "count": 1
-      },
-      {
         "id": "Q17146850",
         "name": "Secretary-General",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q2564757",
-        "name": "Strategic Affairs Minister of Israel",
         "description": null,
         "count": 1
       },
