@@ -138,7 +138,8 @@ module Everypolitician
       end
 
       def type
-        legislature[:type] || ''
+        raise "Missing type for Legislature #{legislature[:name]} in #{dir}" unless legislature[:type]
+        legislature[:type]
       end
     end
   end
