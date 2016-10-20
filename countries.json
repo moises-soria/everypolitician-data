@@ -2499,11 +2499,11 @@
         "slug": "Folketing",
         "sources_directory": "data/Denmark/Folketing/sources",
         "popolo": "data/Denmark/Folketing/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f00efc641faaeb6a0ab1ab268c3524443a3f7d1/data/Denmark/Folketing/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/acb80dc6bbe87e346198aadcdc8f6ed821631542/data/Denmark/Folketing/ep-popolo-v1.0.json",
         "names": "data/Denmark/Folketing/names.csv",
-        "lastmod": "1476883256",
-        "person_count": 613,
-        "sha": "3f00efc641faaeb6a0ab1ab268c3524443a3f7d1",
+        "lastmod": "1476982920",
+        "person_count": 614,
+        "sha": "acb80dc6bbe87e346198aadcdc8f6ed821631542",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -2511,7 +2511,7 @@
             "start_date": "2015-06-20",
             "slug": "2015",
             "csv": "data/Denmark/Folketing/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f00efc641faaeb6a0ab1ab268c3524443a3f7d1/data/Denmark/Folketing/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/acb80dc6bbe87e346198aadcdc8f6ed821631542/data/Denmark/Folketing/term-2015.csv"
           },
           {
             "end_date": "2015-06-19",
@@ -2577,7 +2577,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/58abe05a76396ca7041c51949d910162c16eac37/data/Denmark/Folketing/term-1990.csv"
           }
         ],
-        "statement_count": 40727
+        "statement_count": 40752
       }
     ]
   },
