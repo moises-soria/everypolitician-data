@@ -7177,6 +7177,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0nb8dlq",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "968863cb-e549-4f87-a0d9-d97fad70965e",
           "scheme": "hellenic_parliament"
         },
@@ -10719,18 +10723,67 @@
       ]
     },
     {
+      "birth_date": "1945",
+      "gender": "male",
       "id": "4ce98430-c839-4353-bb58-ae70d1767efa",
       "identifiers": [
         {
           "identifier": "81558086-0e5b-43cd-b24b-f0eed108326d",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "81558086-0e5b-43cd-b24b-f0eed108326d",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q12885345",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tylemaxos_Chytiris.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tylemaxos_Chytiris.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τηλέμαχος_Χυτήρης"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tilemachos_Chytiris"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Telemachos_Hitiris"
         }
       ],
       "name": "Chytiris Tilemachos",
       "other_names": [
         {
+          "name": "Tilemachos Chytiris",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Τηλέμαχος Χυτήρης",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Χυτήρης Γερασίμου Τηλέμαχος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tilemachos Chytiris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Telemachos Hitiris",
           "note": "multilingual"
         }
       ],
@@ -34406,6 +34459,7 @@
         }
       ],
       "email": "kiritskirits@gmail.com",
+      "gender": "male",
       "id": "ca8b9813-8573-47fc-a609-dbf2f1e4f458",
       "identifiers": [
         {
@@ -35446,6 +35500,7 @@
         }
       ],
       "email": "giorlazaridis@gmail.com",
+      "gender": "male",
       "id": "49982d41-e87c-436e-bd21-fe86359ee28c",
       "identifiers": [
         {
@@ -40558,6 +40613,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02793dy",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "a5d1b800-63ed-4256-a916-02220e8415df",
           "scheme": "hellenic_parliament"
         },
@@ -44362,6 +44421,10 @@
         {
           "identifier": "c0f3915a-e2da-4c02-8ef9-5e15977e3b7b",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0_qftt4",
+          "scheme": "freebase"
         },
         {
           "identifier": "c0f3915a-e2da-4c02-8ef9-5e15977e3b7b",
@@ -50915,6 +50978,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "176970665",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "88073c0e-1c80-4c78-95d6-d1d3c0a2f736",
           "scheme": "hellenic_parliament"
         },
@@ -50929,6 +50996,10 @@
         {
           "identifier": "070022127",
           "scheme": "nta"
+        },
+        {
+          "identifier": "n01029140",
+          "scheme": "nukat"
         },
         {
           "identifier": "078765587",
@@ -63493,6 +63564,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "/m/05wd4_h",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1025494563",
           "scheme": "gnd"
         },
@@ -70140,11 +70215,27 @@
       ]
     },
     {
+      "birth_date": "1931",
+      "gender": "male",
       "id": "353fcc1f-96d7-4b3a-89c5-903b6264c615",
       "identifiers": [
         {
           "identifier": "1968dfdc-dfb1-4867-8f08-1a1532bf26f0",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1968dfdc-dfb1-4867-8f08-1a1532bf26f0",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q21200413",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Δημήτριος_Βουδούρης"
         }
       ],
       "name": "Voudouris Dimitrios",
@@ -70152,6 +70243,11 @@
         {
           "lang": "el",
           "name": "Βουδούρης Παναγιώτη Δημήτριος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δημήτριος Βουδούρης",
           "note": "multilingual"
         }
       ],
