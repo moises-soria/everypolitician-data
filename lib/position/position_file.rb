@@ -9,11 +9,11 @@ class WikidataPositionFile
     end
   end
 
-  def json
-    JSON.parse(pathname.read, symbolize_names: true)
-  end
-
   private
 
   attr_reader :pathname
+
+  def json
+    @json ||= JSON.parse(pathname.read, symbolize_names: true)
+  end
 end
