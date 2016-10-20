@@ -884,7 +884,7 @@
           "url": "https://www.kildarestreet.com/images/mpsL/410.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/785387796538294272/mrszfCNS.jpg"
+          "url": "https://pbs.twimg.com/profile_images/787599644289273856/LzYV4MZu.jpg"
         }
       ],
       "links": [
@@ -1249,6 +1249,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/054cn1",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q380320",
           "scheme": "wikidata"
         }
@@ -1547,6 +1551,10 @@
         {
           "identifier": "19",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02rbr3v",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q888438",
@@ -2458,6 +2466,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02rd48k",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q540826",
           "scheme": "wikidata"
         }
@@ -2796,6 +2808,10 @@
         {
           "identifier": "118",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0941x4",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q1064368",
@@ -7037,6 +7053,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/056sct",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q1443237",
           "scheme": "wikidata"
         }
@@ -8574,7 +8594,7 @@
           "url": "https://www.kildarestreet.com/images/mpsL/449.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/785366323131977728/8W8pCGit.jpg"
+          "url": "https://pbs.twimg.com/profile_images/788049093193003008/h11SgRei.jpg"
         }
       ],
       "links": [
@@ -8870,7 +8890,7 @@
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Jan_O'Sullivan"
+          "url": "https://pl.wikipedia.org/wiki/Jan_O’Sullivan"
         },
         {
           "note": "Wikipedia (sco)",
@@ -13336,7 +13356,7 @@
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Mary_Mitchell_O'Connor"
+          "url": "https://pl.wikipedia.org/wiki/Mary_Mitchell_O’Connor"
         },
         {
           "note": "website",
@@ -22125,7 +22145,8 @@
         }
       ],
       "name": "Dáil Éireann",
-      "seats": 166
+      "seats": 166,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -23702,7 +23723,7 @@
       "other_names": [
         {
           "lang": "en",
-          "name": "Social Democrats (Ireland)",
+          "name": "Social Democrats",
           "note": "multilingual"
         },
         {
@@ -23718,6 +23739,21 @@
         {
           "lang": "zh",
           "name": "社會民主黨 (愛爾蘭)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Social Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Social Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Social-Democratas",
           "note": "multilingual"
         }
       ]
