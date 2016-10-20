@@ -102,10 +102,17 @@ module Everypolitician
         end.select { |t| File.exist? t[:csv] }
       end
 
+      def legislature
+        unless @legislature
+          orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
+          raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
+          @legislature = orgs.first
+        end
+        @legislature
+      end
+
       def lname
-        orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
-        raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
-        orgs.first[:name]
+        legislature[:name]
       end
 
       def lslug
@@ -131,7 +138,7 @@ module Everypolitician
       end
 
       def type
-        popolo[:organizations].find { |o| o[:classification] == 'legislature' }[:type] || ''
+        legislature[:type] || ''
       end
     end
   end
