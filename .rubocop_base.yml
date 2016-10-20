@@ -43,3 +43,10 @@ Style/SymbolArray:
 Style/TrailingCommaInLiteral:
   EnforcedStyleForMultiline: consistent_comma
 
+# Minitest::Spec uses long blocks to contains the specs, so disable this check
+# for the tests.
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+    - 't/**/*'
+    - 'test/**/*'
