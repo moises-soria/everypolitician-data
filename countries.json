@@ -10226,11 +10226,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Uganda/Parliament/sources",
         "popolo": "data/Uganda/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4de4067a3845f54748a6f4f39f8fad91994a195a/data/Uganda/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c09581f308878c7e1b4eb25d08ac0608a5c40626/data/Uganda/Parliament/ep-popolo-v1.0.json",
         "names": "data/Uganda/Parliament/names.csv",
-        "lastmod": "1476102856",
+        "lastmod": "1477056267",
         "person_count": 647,
-        "sha": "4de4067a3845f54748a6f4f39f8fad91994a195a",
+        "sha": "c09581f308878c7e1b4eb25d08ac0608a5c40626",
         "legislative_periods": [
           {
             "id": "term/10",
@@ -10250,7 +10250,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d281f26fad349eede1326ba1f0c79bfcb7e4ab76/data/Uganda/Parliament/term-9.csv"
           }
         ],
-        "statement_count": 18041
+        "statement_count": 18093,
+        "type": "unicameral legislature"
       }
     ]
   },
