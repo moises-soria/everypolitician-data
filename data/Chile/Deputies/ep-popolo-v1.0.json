@@ -1649,15 +1649,48 @@
       "sort_name": "Pérez"
     },
     {
+      "birth_date": "1941-01-06",
+      "death_date": "2016-02-24",
       "gender": "male",
       "id": "08f03cc6-2a7e-42b1-9960-f3a50baa7b58",
       "identifiers": [
         {
           "identifier": "407",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23071124",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Armando_Arancibia"
         }
       ],
       "name": "Armando Arancibia Calderón",
+      "other_names": [
+        {
+          "name": "Armando Arancibia",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Armando Arancibia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Armando Arancibia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Armando Arancibia",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Arancibia"
     },
     {
