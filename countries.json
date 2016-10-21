@@ -8653,11 +8653,11 @@
         "slug": "Estates",
         "sources_directory": "data/Sint_Maarten/Estates/sources",
         "popolo": "data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/589bc6161faac149c037ccd66fe1fb43e420989b/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/badc4dea50ab67582fbfb0c774c8554e00144049/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
         "names": "data/Sint_Maarten/Estates/names.csv",
-        "lastmod": "1475982388",
+        "lastmod": "1477079325",
         "person_count": 17,
-        "sha": "589bc6161faac149c037ccd66fe1fb43e420989b",
+        "sha": "badc4dea50ab67582fbfb0c774c8554e00144049",
         "legislative_periods": [
           {
             "id": "term/2",
@@ -8668,7 +8668,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b56da29f5f8e1330780869ae0013095adcb413cc/data/Sint_Maarten/Estates/term-2.csv"
           }
         ],
-        "statement_count": 745
+        "statement_count": 746,
+        "type": "unicameral legislature"
       }
     ]
   },
