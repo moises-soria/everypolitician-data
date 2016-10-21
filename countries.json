@@ -4162,11 +4162,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Guinea-Bissau/Assembly/sources",
         "popolo": "data/Guinea-Bissau/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a1b24b4cbe04a9c3c062c8e972c3a2a0a1b9ffd9/data/Guinea-Bissau/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bbadefaaf77b99b0e820f1dbffb8a25c720aae42/data/Guinea-Bissau/Assembly/ep-popolo-v1.0.json",
         "names": "data/Guinea-Bissau/Assembly/names.csv",
-        "lastmod": "1474145786",
+        "lastmod": "1477070978",
         "person_count": 100,
-        "sha": "a1b24b4cbe04a9c3c062c8e972c3a2a0a1b9ffd9",
+        "sha": "bbadefaaf77b99b0e820f1dbffb8a25c720aae42",
         "legislative_periods": [
           {
             "id": "term/2014",
@@ -4177,7 +4177,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/96d2c4bbe72d9477204c5e40f623b073460a24b9/data/Guinea-Bissau/Assembly/term-2014.csv"
           }
         ],
-        "statement_count": 1403
+        "statement_count": 1404,
+        "type": "unicameral legislature"
       }
     ]
   },
