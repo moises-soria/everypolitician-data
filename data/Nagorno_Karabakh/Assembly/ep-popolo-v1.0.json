@@ -1490,6 +1490,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "自由祖國",
+          "note": "multilingual"
+        },
+        {
           "lang": "hy",
           "name": "Ազատ հայրենիք կուսակցություն",
           "note": "multilingual"
@@ -1753,6 +1758,11 @@
         {
           "lang": "lrc",
           "name": "فدراسیون وضع آلیشت کار ارمنی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Дашнакцуцюн",
           "note": "multilingual"
         },
         {
@@ -2252,7 +2262,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 33
+      "seats": 33,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
