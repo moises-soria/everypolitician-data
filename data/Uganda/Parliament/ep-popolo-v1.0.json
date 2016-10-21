@@ -8101,6 +8101,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0gvvt_t",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q49253",
           "scheme": "wikidata"
         }
@@ -8109,12 +8113,19 @@
       "images": [
         {
           "url": "http://www.parliament.go.ug/mpdata/pics/9parl/MULONI695.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ugandan_Minister_for_Energy_and_Minerals_(10928382334).jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Irene_Muloni"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Irene_Muloni"
         },
         {
           "note": "Wikipedia (mg)",
@@ -8159,6 +8170,11 @@
         {
           "lang": "it",
           "name": "Irene Muloni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アリニ・ムロニ",
           "note": "multilingual"
         },
         {
@@ -9947,6 +9963,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/09dzrn",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "311815105",
           "scheme": "viaf"
         },
@@ -11342,6 +11362,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/04zfj2",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q58240",
           "scheme": "wikidata"
         }
@@ -11375,6 +11399,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Sam_Kutesa"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/萨姆·库泰萨"
         },
         {
           "note": "facebook",
@@ -11498,6 +11526,11 @@
         {
           "lang": "sv",
           "name": "Sam Kutesa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "萨姆·库泰萨",
           "note": "multilingual"
         }
       ],
@@ -15929,6 +15962,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/James_Nsaba_Buturo"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/James_Nsaba_Buturo"
         }
       ],
       "name": "Nsaba Buturo",
@@ -16775,6 +16812,11 @@
         {
           "lang": "it",
           "name": "Kahinda Otafiire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "カヒンダ・オタフィーレ",
           "note": "multilingual"
         },
         {
@@ -17717,6 +17759,10 @@
         {
           "identifier": "2015-16",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/07s414l",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q1026465",
@@ -19006,6 +19052,16 @@
         {
           "lang": "tr",
           "name": "Ruhakana Rugunda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "鲁哈卡纳·鲁贡达",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "魯哈卡納·魯貢達",
           "note": "multilingual"
         }
       ],
@@ -24183,7 +24239,8 @@
         }
       ],
       "name": "Parliament",
-      "seats": 385
+      "seats": 385,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
