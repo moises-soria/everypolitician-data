@@ -8796,6 +8796,11 @@
           "lang": "fa",
           "name": "حزب الإستقلال",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "獨立党",
+          "note": "multilingual"
         }
       ]
     },
@@ -9046,6 +9051,16 @@
         },
         {
           "lang": "nl",
+          "name": "Justice and Development Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Justice and Development Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Justice and Development Party",
           "note": "multilingual"
         },
@@ -9339,7 +9354,8 @@
         }
       ],
       "name": "House of Representatives",
-      "seats": 395
+      "seats": 395,
+      "type": "lower house"
     },
     {
       "classification": "party",
