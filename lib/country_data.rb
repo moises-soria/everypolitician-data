@@ -71,6 +71,7 @@ module Everypolitician
             t[:csv_url] = remote_source % [term_csv_sha, t[:csv]]
           end,
           statement_count:     statement_count,
+          type:                type,
         }
       end
 
@@ -101,10 +102,14 @@ module Everypolitician
         end.select { |t| File.exist? t[:csv] }
       end
 
-      def lname
+      def legislature
         orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
         raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
-        orgs.first[:name]
+        orgs.first
+      end
+
+      def lname
+        legislature[:name]
       end
 
       def lslug
@@ -127,6 +132,10 @@ module Everypolitician
 
       def statement_count
         json_with_count.last
+      end
+
+      def type
+        legislature[:type] || raise("Missing 'type' for Legislature #{legislature[:name]} in #{dir}")
       end
     end
   end
