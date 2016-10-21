@@ -1122,11 +1122,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Bermuda/Assembly/sources",
         "popolo": "data/Bermuda/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ced647420c593261804c843a64690cc1fad01f3d/data/Bermuda/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd24d17b1f9837cea1027525f42221a9a758ff41/data/Bermuda/Assembly/ep-popolo-v1.0.json",
         "names": "data/Bermuda/Assembly/names.csv",
-        "lastmod": "1475974221",
+        "lastmod": "1477092673",
         "person_count": 37,
-        "sha": "ced647420c593261804c843a64690cc1fad01f3d",
+        "sha": "dd24d17b1f9837cea1027525f42221a9a758ff41",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -1137,7 +1137,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ced647420c593261804c843a64690cc1fad01f3d/data/Bermuda/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 1237
+        "statement_count": 1238,
+        "type": "lower house"
       }
     ]
   },
