@@ -1188,6 +1188,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "バレカ・ムベテ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Baleka Mbete",
           "note": "multilingual"
@@ -1716,6 +1721,10 @@
         {
           "identifier": "bhekokwakhe-hamilton-cele",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "n2014074422",
+          "scheme": "lcauth"
         },
         {
           "identifier": "311770328",
@@ -3767,6 +3776,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/05b_g1n",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q592604",
           "scheme": "wikidata"
         }
@@ -5023,6 +5036,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/04gqr_n",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q1412305",
           "scheme": "wikidata"
         }
@@ -5451,6 +5468,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Glynnis_Breytenbach"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Glynnis_Breytenbach"
         }
       ],
       "name": "Glynnis Breytenbach",
@@ -5462,6 +5483,11 @@
         },
         {
           "lang": "en",
+          "name": "Glynnis Breytenbach",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
           "name": "Glynnis Breytenbach",
           "note": "multilingual"
         }
@@ -6480,6 +6506,10 @@
         {
           "identifier": "james-selfe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05f7snr",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q6142922",
@@ -8083,6 +8113,7 @@
       ]
     },
     {
+      "birth_date": "1958-04-21",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "20b39b2a-19cd-4524-aef5-4315b3585640",
@@ -10223,6 +10254,11 @@
         },
         {
           "lang": "en-gb",
+          "name": "Mcebisi Jonas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Mcebisi Jonas",
           "note": "multilingual"
         }
@@ -12878,6 +12914,10 @@
           "url": "https://tr.wikipedia.org/wiki/Winnie_Mandela"
         },
         {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/ونی_منڈیلا"
+        },
+        {
           "note": "Wikipedia (xh)",
           "url": "https://xh.wikipedia.org/wiki/U-Winnie_Madikizela_Mandela"
         },
@@ -13060,6 +13100,11 @@
         {
           "lang": "ts",
           "name": "Winnie Madikizela-Mandela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ونی منڈیلا",
           "note": "multilingual"
         },
         {
@@ -13407,6 +13452,7 @@
       ]
     },
     {
+      "birth_date": "1983-01-01",
       "contact_details": [
         {
           "type": "email",
@@ -18332,7 +18378,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/PNA.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/African_National_Congress_Flag.svg",
       "links": [
         {
           "note": "website",
@@ -18862,6 +18908,11 @@
         {
           "lang": "ja",
           "name": "南アフリカ建設",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アガング南アフリカ",
           "note": "multilingual"
         }
       ]
@@ -19586,7 +19637,8 @@
         }
       ],
       "name": "National Assembly",
-      "seats": 400
+      "seats": 400,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -19727,6 +19779,11 @@
         {
           "lang": "ja",
           "name": "パンアフリカニスト会議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "パンアフリカ主義会議",
           "note": "multilingual"
         }
       ]
