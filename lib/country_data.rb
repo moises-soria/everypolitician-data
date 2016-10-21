@@ -103,12 +103,9 @@ module Everypolitician
       end
 
       def legislature
-        unless @legislature
-          orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
-          raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
-          @legislature = orgs.first
-        end
-        @legislature
+        orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
+        raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
+        orgs.first
       end
 
       def lname
