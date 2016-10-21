@@ -6700,7 +6700,71 @@
     {
       "classification": "party",
       "id": "ADR / RDA",
-      "name": "Alliance pour la Démocratie et la Fédération / Rassemblement démocratique africain"
+      "identifiers": [
+        {
+          "identifier": "Q2646749",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.adf-rda.net/index.php"
+        }
+      ],
+      "name": "Alliance pour la Démocratie et la Fédération / Rassemblement démocratique africain",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Alliance pour la Démocratie et la Fédération - Rassemblement Démocratique Africain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Алианс за демокрация и федерация – Африканско демократично обединение",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alliance for Democracy and Federation – African Democratic Rally",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance pour la démocratie et la fédération/Rassemblement démocratique africain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza para la Democracia y la Federación - Agrupación Democrática Africana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "ADF/RDA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "ADF-RDA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alliance pour la Démocratie et la Fédération/Rassemblement Démocratique Africain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alliance pour la Démocratie et la Fédération – Rassemblement Démocratique Africain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance pour la democratie et la federation/Rassemblement democratique africain",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -6712,7 +6776,8 @@
         }
       ],
       "name": "Assemblée Nationale",
-      "seats": 127
+      "seats": 127,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
