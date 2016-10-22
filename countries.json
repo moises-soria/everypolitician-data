@@ -10111,11 +10111,11 @@
         "slug": "Mejlis",
         "sources_directory": "data/Turkmenistan/Mejlis/sources",
         "popolo": "data/Turkmenistan/Mejlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4f1dfeb11517572fca4c2f9de6006319a356bd93/data/Turkmenistan/Mejlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2098bdf7b250feb249924d89bc89b82a6372b4f6/data/Turkmenistan/Mejlis/ep-popolo-v1.0.json",
         "names": "data/Turkmenistan/Mejlis/names.csv",
-        "lastmod": "1469385615",
+        "lastmod": "1477048098",
         "person_count": 237,
-        "sha": "4f1dfeb11517572fca4c2f9de6006319a356bd93",
+        "sha": "2098bdf7b250feb249924d89bc89b82a6372b4f6",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -10135,7 +10135,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fedacb2df1f5110d5775924965d42c61e3ca40b2/data/Turkmenistan/Mejlis/term-4.csv"
           }
         ],
-        "statement_count": 4144
+        "statement_count": 4145,
+        "type": "unicameral legislature"
       }
     ]
   },
