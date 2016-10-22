@@ -6366,7 +6366,8 @@
         }
       ],
       "name": "People’s Council",
-      "seats": 250
+      "seats": 250,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -8738,6 +8739,13 @@
       "name": "2012–",
       "organization_id": "38d3ebeb-ed76-41c6-8b30-5ad9900f8f21",
       "start_date": "2012-05-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-04-13",
+      "id": "Q22918891",
+      "name": "Syrian parliamentary election, 2016",
+      "start_date": "2016-04-13"
     }
   ],
   "areas": [
