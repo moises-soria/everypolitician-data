@@ -8856,11 +8856,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Somaliland/Representatives/sources",
         "popolo": "data/Somaliland/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/99760e8fba47290aed07286fff4f63b1cdb4f1cc/data/Somaliland/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a38333f7271cdc27921560b3eb85e553637b4538/data/Somaliland/Representatives/ep-popolo-v1.0.json",
         "names": "data/Somaliland/Representatives/names.csv",
-        "lastmod": "1469385319",
+        "lastmod": "1477081204",
         "person_count": 82,
-        "sha": "99760e8fba47290aed07286fff4f63b1cdb4f1cc",
+        "sha": "a38333f7271cdc27921560b3eb85e553637b4538",
         "legislative_periods": [
           {
             "id": "term/2005",
@@ -8871,7 +8871,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d609454bf9eac7d203a166b34a700c2a26870836/data/Somaliland/Representatives/term-2005.csv"
           }
         ],
-        "statement_count": 946
+        "statement_count": 947,
+        "type": "lower house"
       }
     ]
   },
