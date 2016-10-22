@@ -110,11 +110,11 @@
         "slug": "States",
         "sources_directory": "data/Alderney/States/sources",
         "popolo": "data/Alderney/States/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a69603408f18a0dcd94abb6f8343afb5da44d48a/data/Alderney/States/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7c1b9cdd47df62ba22f5b11f379b343b934ee46c/data/Alderney/States/ep-popolo-v1.0.json",
         "names": "data/Alderney/States/names.csv",
-        "lastmod": "1474139682",
+        "lastmod": "1477059998",
         "person_count": 10,
-        "sha": "a69603408f18a0dcd94abb6f8343afb5da44d48a",
+        "sha": "7c1b9cdd47df62ba22f5b11f379b343b934ee46c",
         "legislative_periods": [
           {
             "end_date": "2016-11",
@@ -126,7 +126,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/550097b6f223687964943203cf5797c8c4ce28e3/data/Alderney/States/term-2014.csv"
           }
         ],
-        "statement_count": 540
+        "statement_count": 541,
+        "type": "unicameral legislature"
       }
     ]
   },
