@@ -9108,11 +9108,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Swaziland/Assembly/sources",
         "popolo": "data/Swaziland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4ae1e836f1c124dfbfb3347465aadf266a266650/data/Swaziland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/84af60cbe538777069c578094b5456f592011b92/data/Swaziland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Swaziland/Assembly/names.csv",
-        "lastmod": "1469385361",
+        "lastmod": "1477100846",
         "person_count": 93,
-        "sha": "4ae1e836f1c124dfbfb3347465aadf266a266650",
+        "sha": "84af60cbe538777069c578094b5456f592011b92",
         "legislative_periods": [
           {
             "id": "term/10",
@@ -9132,7 +9132,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a50544396aadc037ec054242b908be5671118b2b/data/Swaziland/Assembly/term-9.csv"
           }
         ],
-        "statement_count": 1250
+        "statement_count": 1251,
+        "type": "lower house"
       }
     ]
   },
