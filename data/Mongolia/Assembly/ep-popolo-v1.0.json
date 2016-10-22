@@ -218,6 +218,7 @@
       ]
     },
     {
+      "birth_date": "1953-12-03",
       "gender": "male",
       "id": "fef2ae4a-5a33-434b-94f0-29a93d0f741f",
       "identifiers": [
@@ -2132,6 +2133,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gombojavyn_Zandanshatar"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gombojavyn_Zandanshatar"
@@ -6997,12 +7002,17 @@
         },
         {
           "lang": "mn",
-          "name": "Иргэний Зориг-Ногоон Нам",
+          "name": "Иргэний Зориг Ногоон Нам",
           "note": "multilingual"
         },
         {
           "lang": "ja",
           "name": "市民のゾリク",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Civil Will Green Party",
           "note": "multilingual"
         }
       ]
@@ -7489,6 +7499,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -7820,6 +7835,11 @@
           "lang": "mn",
           "name": "Шудрага ёс эвсэл",
           "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Coalición de la Justicia",
+          "note": "multilingual"
         }
       ]
     },
@@ -8142,7 +8162,8 @@
         }
       ],
       "name": "State Great Khural",
-      "seats": 76
+      "seats": 76,
+      "type": "unicameral legislature"
     }
   ],
   "meta": {
