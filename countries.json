@@ -8458,11 +8458,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Seychelles/Assembly/sources",
         "popolo": "data/Seychelles/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7970c074fef2c117045de7d613fce90f454a01b2/data/Seychelles/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7ae229d207f31b0102b73b5130c9c1ff9108fb29/data/Seychelles/Assembly/ep-popolo-v1.0.json",
         "names": "data/Seychelles/Assembly/names.csv",
-        "lastmod": "1469385206",
+        "lastmod": "1477098721",
         "person_count": 32,
-        "sha": "7970c074fef2c117045de7d613fce90f454a01b2",
+        "sha": "7ae229d207f31b0102b73b5130c9c1ff9108fb29",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -8473,7 +8473,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6baa026d856764aeaaebc3f454fdde9fc1e32680/data/Seychelles/Assembly/term-2011.csv"
           }
         ],
-        "statement_count": 776
+        "statement_count": 777,
+        "type": "unicameral legislature"
       }
     ]
   },
