@@ -5614,11 +5614,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Madagascar/Assembly/sources",
         "popolo": "data/Madagascar/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a9b4b941d34e46d542751fce0c44c518e70bff82/data/Madagascar/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf4b79260af312f45773b8046c5b58506643fb06/data/Madagascar/Assembly/ep-popolo-v1.0.json",
         "names": "data/Madagascar/Assembly/names.csv",
-        "lastmod": "1472728286",
+        "lastmod": "1477096978",
         "person_count": 155,
-        "sha": "a9b4b941d34e46d542751fce0c44c518e70bff82",
+        "sha": "bf4b79260af312f45773b8046c5b58506643fb06",
         "legislative_periods": [
           {
             "end_date": "2018",
@@ -5630,7 +5630,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ac026b5dca928299e2c8c001eaf0c35e466c13c3/data/Madagascar/Assembly/term-2013.csv"
           }
         ],
-        "statement_count": 3068
+        "statement_count": 3069,
+        "type": "lower house"
       }
     ]
   },
