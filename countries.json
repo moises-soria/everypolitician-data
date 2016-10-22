@@ -9457,11 +9457,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Syria/Majlis/sources",
         "popolo": "data/Syria/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b22bbb36beb1ac1467cf88c80938fc0a8cf425e3/data/Syria/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ba46f809e92e97366162dee2d39aeb603e9ce16f/data/Syria/Majlis/ep-popolo-v1.0.json",
         "names": "data/Syria/Majlis/names.csv",
-        "lastmod": "1469385485",
+        "lastmod": "1477149957",
         "person_count": 274,
-        "sha": "b22bbb36beb1ac1467cf88c80938fc0a8cf425e3",
+        "sha": "ba46f809e92e97366162dee2d39aeb603e9ce16f",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -9472,7 +9472,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5b0308b90f8e4282664646e4c535d7d5c58a318/data/Syria/Majlis/term-2012.csv"
           }
         ],
-        "statement_count": 4145
+        "statement_count": 4151,
+        "type": "unicameral legislature"
       }
     ]
   },
