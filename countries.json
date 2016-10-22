@@ -6816,11 +6816,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Nigeria/Assembly/sources",
         "popolo": "data/Nigeria/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47ae37f5e77c417b8e329ccfa61f299680cee76d/data/Nigeria/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/851ebefc1d6dfe4345a8567dca410681c898fb11/data/Nigeria/Assembly/ep-popolo-v1.0.json",
         "names": "data/Nigeria/Assembly/names.csv",
-        "lastmod": "1469384875",
+        "lastmod": "1477150738",
         "person_count": 362,
-        "sha": "47ae37f5e77c417b8e329ccfa61f299680cee76d",
+        "sha": "851ebefc1d6dfe4345a8567dca410681c898fb11",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -6831,7 +6831,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6ac43705911a04512e9f890f49e793c1465ab8a9/data/Nigeria/Assembly/term-2015.csv"
           }
         ],
-        "statement_count": 5963
+        "statement_count": 6006,
+        "type": "unicameral legislature"
       }
     ]
   },
