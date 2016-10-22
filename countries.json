@@ -1158,11 +1158,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Bhutan/Assembly/sources",
         "popolo": "data/Bhutan/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5ee6358ce2bc11c6aac7f455feb24905940dac3/data/Bhutan/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/997f15699f6276b5560eaeec837a3e29192a4971/data/Bhutan/Assembly/ep-popolo-v1.0.json",
         "names": "data/Bhutan/Assembly/names.csv",
-        "lastmod": "1469383180",
+        "lastmod": "1477154150",
         "person_count": 47,
-        "sha": "d5ee6358ce2bc11c6aac7f455feb24905940dac3",
+        "sha": "997f15699f6276b5560eaeec837a3e29192a4971",
         "legislative_periods": [
           {
             "id": "term/2",
@@ -1173,7 +1173,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c922fec406c3a7937a48a0d6c85ce29fd64c50b1/data/Bhutan/Assembly/term-2.csv"
           }
         ],
-        "statement_count": 1098
+        "statement_count": 1099,
+        "type": "lower house"
       }
     ]
   },
