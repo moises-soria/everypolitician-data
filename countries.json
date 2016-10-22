@@ -1097,11 +1097,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Benin/National_Assembly/sources",
         "popolo": "data/Benin/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65aa0db05449cd898bff32b53ac69bc9c697a771/data/Benin/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5ed10d503fae845289d0dc18d41148222a814178/data/Benin/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Benin/National_Assembly/names.csv",
-        "lastmod": "1469383172",
+        "lastmod": "1477151087",
         "person_count": 83,
-        "sha": "65aa0db05449cd898bff32b53ac69bc9c697a771",
+        "sha": "5ed10d503fae845289d0dc18d41148222a814178",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -1112,7 +1112,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4a5e0733a7e47c64285f79ddaf7fda6ec15cef74/data/Benin/National_Assembly/term-6.csv"
           }
         ],
-        "statement_count": 1848
+        "statement_count": 1858,
+        "type": "unicameral legislature"
       }
     ]
   },
