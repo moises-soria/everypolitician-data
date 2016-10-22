@@ -2627,11 +2627,11 @@
         "slug": "House-of-Assembly",
         "sources_directory": "data/Dominica/House_of_Assembly/sources",
         "popolo": "data/Dominica/House_of_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cf93d0955e873151d04a62baef8899f3d6bb6a8a/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4852b5eeb3cd2ea7f5149dbc75a94a331a5650ea/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json",
         "names": "data/Dominica/House_of_Assembly/names.csv",
-        "lastmod": "1469383627",
+        "lastmod": "1477084425",
         "person_count": 21,
-        "sha": "cf93d0955e873151d04a62baef8899f3d6bb6a8a",
+        "sha": "4852b5eeb3cd2ea7f5149dbc75a94a331a5650ea",
         "legislative_periods": [
           {
             "id": "term/2014",
@@ -2642,7 +2642,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c7d9c925e3bf0558f0eb2e1d0e5cdef1f0428485/data/Dominica/House_of_Assembly/term-2014.csv"
           }
         ],
-        "statement_count": 520
+        "statement_count": 521,
+        "type": "unicameral legislature"
       }
     ]
   },
@@ -2673,7 +2674,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1bdb936b65cff60facc43ae425b3edff80b89441/data/Dominican_Republic/Diputados/term-2010.csv"
           }
         ],
-        "statement_count": 3778
+        "statement_count": 3778,
+        "type": "lower house"
       }
     ]
   },
