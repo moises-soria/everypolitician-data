@@ -3573,11 +3573,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Gibraltar/Parliament/sources",
         "popolo": "data/Gibraltar/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1384e1bdea68b8449a6972687fbeb3e534c98baf/data/Gibraltar/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e8505113c9ad3c36517ff024c889733c753508b8/data/Gibraltar/Parliament/ep-popolo-v1.0.json",
         "names": "data/Gibraltar/Parliament/names.csv",
-        "lastmod": "1472337537",
+        "lastmod": "1477101690",
         "person_count": 83,
-        "sha": "1384e1bdea68b8449a6972687fbeb3e534c98baf",
+        "sha": "e8505113c9ad3c36517ff024c889733c753508b8",
         "legislative_periods": [
           {
             "end_date": "2015-10-20",
@@ -3688,7 +3688,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 2941
+        "statement_count": 2942,
+        "type": "unicameral legislature"
       }
     ]
   },
