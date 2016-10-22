@@ -4222,11 +4222,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Haiti/Deputies/sources",
         "popolo": "data/Haiti/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/42ebd44cc990ec3be546c84bc9078795056a08c4/data/Haiti/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/69da8dbbbc98d9dad28ca0dd45e6652008cac919/data/Haiti/Deputies/ep-popolo-v1.0.json",
         "names": "data/Haiti/Deputies/names.csv",
-        "lastmod": "1474146129",
+        "lastmod": "1477100141",
         "person_count": 99,
-        "sha": "42ebd44cc990ec3be546c84bc9078795056a08c4",
+        "sha": "69da8dbbbc98d9dad28ca0dd45e6652008cac919",
         "legislative_periods": [
           {
             "end_date": "2015-01-12",
@@ -4238,7 +4238,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e5597c3e2c869187ec02b28132888c4c6502e0d2/data/Haiti/Deputies/term-2011.csv"
           }
         ],
-        "statement_count": 1944
+        "statement_count": 1945,
+        "type": "lower house"
       }
     ]
   },
