@@ -261,11 +261,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Anguilla/Assembly/sources",
         "popolo": "data/Anguilla/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ea80009d6401b4389642a3a652e17b9f0159375d/data/Anguilla/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d94e7eaa49d4cbde396cbf9972815cfeda0223d4/data/Anguilla/Assembly/ep-popolo-v1.0.json",
         "names": "data/Anguilla/Assembly/names.csv",
-        "lastmod": "1474140023",
+        "lastmod": "1477081891",
         "person_count": 18,
-        "sha": "ea80009d6401b4389642a3a652e17b9f0159375d",
+        "sha": "d94e7eaa49d4cbde396cbf9972815cfeda0223d4",
         "legislative_periods": [
           {
             "end_date": "2020",
@@ -331,7 +331,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b2a5031d650e3bc4e954255b8e109537d7921632/data/Anguilla/Assembly/term-1989.csv"
           }
         ],
-        "statement_count": 1028
+        "statement_count": 1029,
+        "type": "unicameral legislature"
       }
     ]
   },
