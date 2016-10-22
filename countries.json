@@ -7398,11 +7398,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Paraguay/Deputies/sources",
         "popolo": "data/Paraguay/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6943df6ca443d2431f0c14eda2f9f0aa35784730/data/Paraguay/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1b4e074358b99884a86aabc38a4dc6adeb56126e/data/Paraguay/Deputies/ep-popolo-v1.0.json",
         "names": "data/Paraguay/Deputies/names.csv",
-        "lastmod": "1474154545",
+        "lastmod": "1477057758",
         "person_count": 80,
-        "sha": "6943df6ca443d2431f0c14eda2f9f0aa35784730",
+        "sha": "1b4e074358b99884a86aabc38a4dc6adeb56126e",
         "legislative_periods": [
           {
             "id": "term/2013",
@@ -7413,7 +7413,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6943df6ca443d2431f0c14eda2f9f0aa35784730/data/Paraguay/Deputies/term-2013.csv"
           }
         ],
-        "statement_count": 2264
+        "statement_count": 2265,
+        "type": "lower house"
       }
     ]
   },
