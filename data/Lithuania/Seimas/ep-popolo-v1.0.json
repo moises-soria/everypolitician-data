@@ -24997,6 +24997,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ko",
+          "name": "질서와 정의",
+          "note": "multilingual"
+        },
+        {
           "lang": "eo",
           "name": "Liberalų demokratų partija",
           "note": "multilingual"
@@ -25900,7 +25905,8 @@
         }
       ],
       "name": "Seimas",
-      "seats": 141
+      "seats": 141,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
