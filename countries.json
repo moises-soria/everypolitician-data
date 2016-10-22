@@ -8144,11 +8144,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Saint_Vincent_and_the_Grenadines/Assembly/sources",
         "popolo": "data/Saint_Vincent_and_the_Grenadines/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/326490eb59e3a3f31540b9b4de45cda2fa1e55c7/data/Saint_Vincent_and_the_Grenadines/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9921e5a91002ddc9d00567673e8a2764f9dba402/data/Saint_Vincent_and_the_Grenadines/Assembly/ep-popolo-v1.0.json",
         "names": "data/Saint_Vincent_and_the_Grenadines/Assembly/names.csv",
-        "lastmod": "1474155508",
+        "lastmod": "1477094120",
         "person_count": 15,
-        "sha": "326490eb59e3a3f31540b9b4de45cda2fa1e55c7",
+        "sha": "9921e5a91002ddc9d00567673e8a2764f9dba402",
         "legislative_periods": [
           {
             "end_date": "2015-11-07",
@@ -8160,7 +8160,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fe649c3f0523e4871887c45eb85b855ff2494023/data/Saint_Vincent_and_the_Grenadines/Assembly/term-8.csv"
           }
         ],
-        "statement_count": 404
+        "statement_count": 405,
+        "type": "unicameral legislature"
       }
     ]
   },
