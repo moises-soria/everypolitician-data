@@ -6119,11 +6119,11 @@
         "slug": "Council",
         "sources_directory": "data/Monaco/Council/sources",
         "popolo": "data/Monaco/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f9a96adea359a657f4427fe77c0f535706a99719/data/Monaco/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a0fff7b05bee080322b5e73fbb569893378c7ef/data/Monaco/Council/ep-popolo-v1.0.json",
         "names": "data/Monaco/Council/names.csv",
-        "lastmod": "1475980564",
+        "lastmod": "1477083909",
         "person_count": 50,
-        "sha": "f9a96adea359a657f4427fe77c0f535706a99719",
+        "sha": "3a0fff7b05bee080322b5e73fbb569893378c7ef",
         "legislative_periods": [
           {
             "end_date": "2018",
@@ -6153,7 +6153,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d76f877c498d62dcad70defb4d90869366261030/data/Monaco/Council/term-2003.csv"
           }
         ],
-        "statement_count": 1062
+        "statement_count": 1063,
+        "type": "unicameral legislature"
       }
     ]
   },
