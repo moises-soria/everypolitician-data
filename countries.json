@@ -6859,11 +6859,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Norfolk_Island/Assembly/sources",
         "popolo": "data/Norfolk_Island/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f27b54ea19b8f736cb327b09aba74df80dfc532/data/Norfolk_Island/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d5432ca301c89dea0958409ff4ff2fe87a5d35c/data/Norfolk_Island/Assembly/ep-popolo-v1.0.json",
         "names": "data/Norfolk_Island/Assembly/names.csv",
-        "lastmod": "1474153546",
+        "lastmod": "1477090441",
         "person_count": 9,
-        "sha": "1f27b54ea19b8f736cb327b09aba74df80dfc532",
+        "sha": "3d5432ca301c89dea0958409ff4ff2fe87a5d35c",
         "legislative_periods": [
           {
             "end_date": "2015-06-17",
@@ -6875,7 +6875,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/93ab0bf41670b041de58ba8878f0184b01178e4f/data/Norfolk_Island/Assembly/term-14.csv"
           }
         ],
-        "statement_count": 484
+        "statement_count": 485,
+        "type": "unicameral legislature"
       }
     ]
   },
