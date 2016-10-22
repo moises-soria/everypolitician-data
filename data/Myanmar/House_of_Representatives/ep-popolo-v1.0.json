@@ -6609,7 +6609,8 @@
         }
       ],
       "name": "House of Representatives",
-      "seats": 440
+      "seats": 440,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -9334,6 +9335,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2016-01-31",
       "id": "term/1",
       "name": "1st Pyithu Hluttaw",
       "organization_id": "a467f432-1bb0-4dbf-a5e3-fa4024b74cbc",
