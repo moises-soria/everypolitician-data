@@ -1816,18 +1816,19 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/328acb852c9c92b4a8aa94598376dfa248d97365/data/Cameroon/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 13180
+        "statement_count": 13180,
+        "type": "lower house"
       },
       {
         "name": "Sénat",
         "slug": "Senate",
         "sources_directory": "data/Cameroon/Senate/sources",
         "popolo": "data/Cameroon/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8c447dcea3786d595ccf7e0dc7b799fd69ea7d15/data/Cameroon/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/68bdc5d6f926925d60fc4ad6466c6a1427e51417/data/Cameroon/Senate/ep-popolo-v1.0.json",
         "names": "data/Cameroon/Senate/names.csv",
-        "lastmod": "1469383484",
+        "lastmod": "1477187113",
         "person_count": 100,
-        "sha": "8c447dcea3786d595ccf7e0dc7b799fd69ea7d15",
+        "sha": "68bdc5d6f926925d60fc4ad6466c6a1427e51417",
         "legislative_periods": [
           {
             "id": "term/9",
@@ -1838,7 +1839,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/328acb852c9c92b4a8aa94598376dfa248d97365/data/Cameroon/Senate/term-9.csv"
           }
         ],
-        "statement_count": 1335
+        "statement_count": 1336,
+        "type": "upper house"
       }
     ]
   },
