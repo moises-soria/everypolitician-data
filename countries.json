@@ -4052,11 +4052,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Guam/Parliament/sources",
         "popolo": "data/Guam/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4c6a66bedcc2f0467e3db230a055d7844e7af21/data/Guam/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bbc2690fcd10376fd53e6afff390c6263be4bbe8/data/Guam/Parliament/ep-popolo-v1.0.json",
         "names": "data/Guam/Parliament/names.csv",
-        "lastmod": "1472727549",
+        "lastmod": "1477226219",
         "person_count": 28,
-        "sha": "a4c6a66bedcc2f0467e3db230a055d7844e7af21",
+        "sha": "bbc2690fcd10376fd53e6afff390c6263be4bbe8",
         "legislative_periods": [
           {
             "id": "term/33",
@@ -4094,7 +4094,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75a93bcc3a714ebbd559f2abe79ccc332c66ff50/data/Guam/Parliament/term-30.csv"
           }
         ],
-        "statement_count": 1218
+        "statement_count": 1219,
+        "type": "unicameral legislature"
       }
     ]
   },
