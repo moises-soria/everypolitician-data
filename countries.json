@@ -9045,11 +9045,11 @@
         "slug": "Congress",
         "sources_directory": "data/Spain/Congress/sources",
         "popolo": "data/Spain/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3efa049fc5152c99459952f151e8cc18c74d0685/data/Spain/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4ee087492b9032713c817ad292ffe054ea75499c/data/Spain/Congress/ep-popolo-v1.0.json",
         "names": "data/Spain/Congress/names.csv",
-        "lastmod": "1476942396",
+        "lastmod": "1477262541",
         "person_count": 621,
-        "sha": "3efa049fc5152c99459952f151e8cc18c74d0685",
+        "sha": "4ee087492b9032713c817ad292ffe054ea75499c",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -9069,7 +9069,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3efa049fc5152c99459952f151e8cc18c74d0685/data/Spain/Congress/term-10.csv"
           }
         ],
-        "statement_count": 33249
+        "statement_count": 33252,
+        "type": "unicameral legislature"
       }
     ]
   },
