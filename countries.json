@@ -1859,11 +1859,11 @@
         "slug": "Commons",
         "sources_directory": "data/Canada/Commons/sources",
         "popolo": "data/Canada/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/353af7a9ce601c51ae5cd45a48b02aa71311aa55/data/Canada/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/98a0f9c148a01959f0638a2ef5d83cadb223eaf2/data/Canada/Commons/ep-popolo-v1.0.json",
         "names": "data/Canada/Commons/names.csv",
-        "lastmod": "1476897737",
+        "lastmod": "1477289993",
         "person_count": 537,
-        "sha": "353af7a9ce601c51ae5cd45a48b02aa71311aa55",
+        "sha": "98a0f9c148a01959f0638a2ef5d83cadb223eaf2",
         "legislative_periods": [
           {
             "id": "term/42",
@@ -1883,7 +1883,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0276dc93a10b144b3ab85ea28a10e45dc5e0bd85/data/Canada/Commons/term-41.csv"
           }
         ],
-        "statement_count": 37986
+        "statement_count": 37996,
+        "type": "lower house"
       }
     ]
   },
