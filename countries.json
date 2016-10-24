@@ -4872,11 +4872,11 @@
         "slug": "Senate",
         "sources_directory": "data/Italy/Senate/sources",
         "popolo": "data/Italy/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/40c5e1face9bc9eee15efeb08367b797190c8f38/data/Italy/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a1aa85e2532846ea918f3e695d44308192e7de51/data/Italy/Senate/ep-popolo-v1.0.json",
         "names": "data/Italy/Senate/names.csv",
-        "lastmod": "1474524440",
+        "lastmod": "1477291110",
         "person_count": 322,
-        "sha": "40c5e1face9bc9eee15efeb08367b797190c8f38",
+        "sha": "a1aa85e2532846ea918f3e695d44308192e7de51",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -4887,7 +4887,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/88b6ab6922a4de4e27449368d39f1ce607e73684/data/Italy/Senate/term-17.csv"
           }
         ],
-        "statement_count": 21901
+        "statement_count": 21925,
+        "type": "upper house"
       }
     ]
   },
