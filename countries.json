@@ -8451,11 +8451,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Senegal/Assembly/sources",
         "popolo": "data/Senegal/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c33a1d9f760f893259cab737bccdcf657bf8dace/data/Senegal/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e54224faaebdb062cb7220695b48102a4bc35848/data/Senegal/Assembly/ep-popolo-v1.0.json",
         "names": "data/Senegal/Assembly/names.csv",
-        "lastmod": "1475983718",
+        "lastmod": "1477310502",
         "person_count": 149,
-        "sha": "c33a1d9f760f893259cab737bccdcf657bf8dace",
+        "sha": "e54224faaebdb062cb7220695b48102a4bc35848",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -8466,7 +8466,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/29a77381b541e7a76eec7e881623451d6efbe92e/data/Senegal/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 2214
+        "statement_count": 2215,
+        "type": "lower house"
       }
     ]
   },
