@@ -25,6 +25,10 @@
         {
           "type": "email",
           "value": "al.brouard@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 263618"
         }
       ],
       "email": "al.brouard@deputies.gov.gg",
@@ -35,7 +39,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Al H. Brouard"
+      "name": "Al H. Brouard",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153545/Deputy-Al-Brouard"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -53,6 +62,30 @@
         }
       ],
       "name": "Allister H. Langlois"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "07781 166281"
+        },
+        {
+          "type": "email",
+          "value": "Andrea.Dudley-Owen@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 266281"
+        }
+      ],
+      "email": "Andrea.Dudley-Owen@deputies.gov.gg",
+      "id": "05a0f315-5bb3-45c9-a8c6-1326c859d7c9",
+      "name": "Andrea Dudley-Owen",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153546/Deputy-Andrea-Dudley-Owen"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -103,8 +136,16 @@
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "01481 254502"
+        },
+        {
           "type": "email",
           "value": "Barry.Paint@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 154502"
         }
       ],
       "email": "Barry.Paint@deputies.gov.gg",
@@ -116,13 +157,26 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Barry J. E. Paint"
+      "name": "Barry J. E. Paint",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153552/Deputy-Barry-Paint"
+        }
+      ]
     },
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "0 07781 426729"
+        },
+        {
           "type": "email",
           "value": "barry.brehaut@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 714580"
         },
         {
           "type": "twitter",
@@ -144,24 +198,72 @@
           "url": "https://twitter.com/deputybaz"
         }
       ],
-      "name": "Barry L. Brehaut"
+      "name": "Barry L. Brehaut",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153575/Deputy-Barry-Brehaut"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "07781 447738"
+        },
+        {
+          "type": "email",
+          "value": "Carl.Meerveld@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 248439"
+        }
+      ],
+      "email": "Carl.Meerveld@deputies.gov.gg",
+      "id": "f5931853-9425-45fb-b32c-a942e3eccec3",
+      "name": "Carl Meerveld",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153566/Deputy-Carl-Meerveld"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
           "value": "Charles.Parkinson@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 720375"
         }
       ],
       "email": "Charles.Parkinson@deputies.gov.gg",
       "id": "9055f7fc-324b-40fb-93bf-5ff4d8b2ccbb",
-      "name": "Charles Parkinson"
+      "links": [
+        {
+          "note": "website",
+          "url": "http://charlesparkinson.com"
+        }
+      ],
+      "name": "Charles Parkinson",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153568/Deputy-Charles-Parkinson"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
           "value": "Christopher.Green@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 252174"
         },
         {
           "type": "twitter",
@@ -183,7 +285,12 @@
           "url": "https://twitter.com/deputycgreen"
         }
       ],
-      "name": "Christopher J. Green"
+      "name": "Christopher J. Green",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153551/Deputy-Chris-Green"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -256,6 +363,7 @@
           "value": "DeputyDaveJones"
         }
       ],
+      "death_date": "2016-07-05",
       "email": "David.Jones@deputies.gov.gg",
       "gender": "male",
       "id": "db266608-e1b3-4a1f-bb43-833f7b3b757c",
@@ -276,8 +384,16 @@
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07781 426246"
+        },
+        {
           "type": "email",
           "value": "delisle.david@cwgsy.net"
+        },
+        {
+          "type": "phone",
+          "value": "01481 263077"
         },
         {
           "type": "twitter",
@@ -299,7 +415,42 @@
           "url": "https://twitter.com/delisledavid"
         }
       ],
-      "name": "David G de Lisle"
+      "name": "David G de Lisle",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153548/Deputy-David-de-Lisle"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "07781 432424"
+        },
+        {
+          "type": "email",
+          "value": "Dawn.Tindall@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 724083"
+        }
+      ],
+      "email": "Dawn.Tindall@deputies.gov.gg",
+      "id": "1bb10dfe-4424-4f6a-a2fb-ba2d08f3315a",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dawntindall.gg"
+        }
+      ],
+      "name": "Dawn Tindall",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153574/Deputy-Dawn-Tindall"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -327,6 +478,44 @@
         }
       ],
       "name": "Elis G. Bebb"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "07781 141077"
+        },
+        {
+          "type": "email",
+          "value": "Emilie.Yerby@deputies.gov.gg"
+        },
+        {
+          "type": "twitter",
+          "value": "emilieyerby"
+        }
+      ],
+      "email": "Emilie.Yerby@deputies.gov.gg",
+      "id": "6aa87b00-5723-46d3-b732-19c566f7228f",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/emilie.yerby"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/emilieyerby"
+        },
+        {
+          "note": "website",
+          "url": "http://www.emilieyerby.com"
+        }
+      ],
+      "name": "Emilie Yerby",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153547/Deputy-Emilie-Yerby"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -379,6 +568,10 @@
           "value": "Gavin.StPier@deputies.gov.gg"
         },
         {
+          "type": "phone",
+          "value": "07839 240167"
+        },
+        {
           "type": "twitter",
           "value": "gavinstpier"
         }
@@ -402,12 +595,20 @@
           "url": "https://en.wikipedia.org/wiki/Gavin_St_Pier"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/gavin.stpier"
+        },
+        {
           "note": "linkedin",
           "url": "http://www.linkedin.com/pub/gavin-st-pier/46/4b8/45b?trk=pub-pbmap"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/gavinstpier"
+        },
+        {
+          "note": "website",
+          "url": "http://www.gavinstpier.gg"
         }
       ],
       "name": "Gavin A St. Pier",
@@ -421,24 +622,46 @@
           "name": "Gavin St Pier",
           "note": "multilingual"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153564/Deputy-Gavin-St-Pier"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "07781 452140"
+        },
+        {
+          "type": "email",
+          "value": "Graham.McKinley@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 823865"
+        }
+      ],
+      "email": "Graham.McKinley@deputies.gov.gg",
+      "id": "b1863f9c-5a8c-4808-a38d-e0e57c7f0da4",
+      "name": "Graham McKinley",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153638/Alderney-Representative-Graham-McKinley"
+        }
       ]
     },
     {
       "contact_details": [
         {
           "type": "email",
-          "value": "Graham.McKinley@deputies.gov.gg"
-        }
-      ],
-      "email": "Graham.McKinley@deputies.gov.gg",
-      "id": "b1863f9c-5a8c-4808-a38d-e0e57c7f0da4",
-      "name": "Graham McKinley"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "Heidi.Soulsby@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 139385"
         },
         {
           "type": "twitter",
@@ -455,6 +678,10 @@
       ],
       "links": [
         {
+          "note": "facebook",
+          "url": "https://facebook.com/Deputy-Heidi-Soulsby-389977751018516"
+        },
+        {
           "note": "linkedin",
           "url": "http://www.linkedin.com/pub/heidi-soulsby/25/835/891"
         },
@@ -463,13 +690,22 @@
           "url": "https://twitter.com/HeidiSoulsby"
         }
       ],
-      "name": "Heidi J. R. Soulsby"
+      "name": "Heidi J. R. Soulsby",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153577/Deputy-Heidi-Soulsby"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
           "value": "Jan.Kuttelwascher@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 726312"
         }
       ],
       "email": "Jan.Kuttelwascher@deputies.gov.gg",
@@ -480,13 +716,116 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Jan Kuttelwascher"
+      "name": "Jan Kuttelwascher",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153573/Deputy-Jan-Kuttelwascher"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Jane.Stephens@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 713143"
+        },
+        {
+          "type": "twitter",
+          "value": "jstephensgsy"
+        }
+      ],
+      "email": "Jane.Stephens@deputies.gov.gg",
+      "id": "a5ae4fb0-8225-4b30-b63a-64e0d5e75a7b",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/JaneStephensGsy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jstephensgsy"
+        }
+      ],
+      "name": "Jane Stephens",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153565/Deputy-Jane-Stephens"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jennifer.merrett@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "0 7781 167121"
+        }
+      ],
+      "email": "jennifer.merrett@deputies.gov.gg",
+      "id": "f2d3f823-5d10-4f66-8269-723d3e0bbc5c",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.jennifermerrett.wordpress.com/"
+        }
+      ],
+      "name": "Jennifer Merrett",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153563/Deputy-Jennifer-Merrett"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "07781 146675"
+        },
+        {
+          "type": "email",
+          "value": "Jeremy.Smithies@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 246675"
+        }
+      ],
+      "email": "Jeremy.Smithies@deputies.gov.gg",
+      "id": "6babfb68-4be9-48e0-873d-f12e68b0005f",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jeremy.smithies"
+        },
+        {
+          "note": "website",
+          "url": "http://www.smithies.gg"
+        }
+      ],
+      "name": "Jeremy Smithies",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153559/Deputy-Jeremy-Smithies"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
           "value": "John.Gollop@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 144878"
         },
         {
           "type": "twitter",
@@ -507,14 +846,27 @@
           "url": "https://twitter.com/GollopGuern"
         }
       ],
-      "name": "John A. B. Gollop"
+      "name": "John A. B. Gollop",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153567/Deputy-John-Gollop"
+        }
+      ]
     },
     {
       "birth_date": "1964-03-04",
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07781 152810"
+        },
+        {
           "type": "email",
           "value": "Jonathan.LeTocq@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 252810"
         },
         {
           "type": "twitter",
@@ -607,6 +959,31 @@
           "name": "Jonathan Le Tocq",
           "note": "multilingual"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153554/Deputy-Jonathan-Le-Tocq"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Joe.Mooney@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 104511"
+        }
+      ],
+      "email": "Joe.Mooney@deputies.gov.gg",
+      "id": "2eff98d2-95ec-4fbc-a2d6-d7bb701ef108",
+      "name": "Joseph Mooney",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153608/Deputy-Joe-Mooney"
+        }
       ]
     },
     {
@@ -646,6 +1023,10 @@
         {
           "type": "email",
           "value": "laurie.queripel@gmail.com"
+        },
+        {
+          "type": "phone",
+          "value": "01481 200423"
         }
       ],
       "email": "laurie.queripel@gmail.com",
@@ -656,13 +1037,26 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Laurie B. Queripel"
+      "name": "Laurie B. Queripel",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153558/Deputy-Laurie-Queripel"
+        }
+      ]
     },
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07781 400239"
+        },
+        {
           "type": "email",
           "value": "lesterqueripel@cwgsy.net"
+        },
+        {
+          "type": "phone",
+          "value": "01481 729399"
         }
       ],
       "email": "lesterqueripel@cwgsy.net",
@@ -673,13 +1067,56 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Lester C. Queripel"
+      "name": "Lester C. Queripel",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153569/Deputy-Lester-Queripel"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Lindsay.DeSausmarez@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 431705"
+        },
+        {
+          "type": "twitter",
+          "value": "lindsay_gsy"
+        }
+      ],
+      "email": "Lindsay.DeSausmarez@deputies.gov.gg",
+      "id": "dbac54e0-ffcc-4125-aa62-5e3f2ca7ae7a",
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/lindsay_gsy"
+        },
+        {
+          "note": "website",
+          "url": "http://www.lindsay.gg"
+        }
+      ],
+      "name": "Lindsay De Sausmarez",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153578/Deputy-Lindsay-de-Sausmarez"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
           "value": "Louis.Jean@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 822648"
         }
       ],
       "email": "Louis.Jean@deputies.gov.gg",
@@ -690,7 +1127,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Louis Jean"
+      "name": "Louis Jean",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153637/Alderney-Representative-Louis-Jean"
+        }
+      ]
     },
     {
       "birth_date": "1964-07-17",
@@ -698,6 +1140,10 @@
         {
           "type": "email",
           "value": "Lyndon.Trott@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 103261"
         }
       ],
       "email": "Lyndon.Trott@deputies.gov.gg",
@@ -732,6 +1178,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Lyndon_Trott"
+        },
+        {
+          "note": "website",
+          "url": "http://www.trott.gg"
         }
       ],
       "name": "Lyndon S. Trott",
@@ -770,13 +1220,56 @@
           "name": "Lyndon Trott",
           "note": "multilingual"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153561/Deputy-Lyndon-Trott"
+        }
       ]
     },
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "0 7781 163941"
+        },
+        {
+          "type": "email",
+          "value": "Marc.Leadbeater@deputies.gov.gg"
+        }
+      ],
+      "email": "Marc.Leadbeater@deputies.gov.gg",
+      "id": "bc80dae6-e7c5-4f30-99ae-3e14ea4cdca6",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/votemarcleadbeater"
+        },
+        {
+          "note": "website",
+          "url": "http://www.marcleadbeater.gg"
+        }
+      ],
+      "name": "Marc Leadbeater",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153571/Deputy-Marc-Leadbeater"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "07781 152743"
+        },
+        {
           "type": "email",
           "value": "Mark.Dorey@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 252743"
         }
       ],
       "email": "Mark.Dorey@deputies.gov.gg",
@@ -788,7 +1281,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Mark H. Dorey"
+      "name": "Mark H. Dorey",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153553/Deputy-Mark-Dorey"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -844,8 +1342,16 @@
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07781 155984"
+        },
+        {
           "type": "email",
           "value": "marylowe@cwgsy.net"
+        },
+        {
+          "type": "phone",
+          "value": "01481 255984"
         },
         {
           "type": "twitter",
@@ -865,15 +1371,28 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/DeputyMaryLowe"
+        },
+        {
+          "note": "website",
+          "url": "http://www.marylowe.gg"
         }
       ],
-      "name": "Mary M. Lowe"
+      "name": "Mary M. Lowe",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153557/Deputy-Mary-Lowe"
+        }
+      ]
     },
     {
       "contact_details": [
         {
           "type": "email",
           "value": "mattfallaize@cwgsy.net"
+        },
+        {
+          "type": "phone",
+          "value": "01481 241333"
         }
       ],
       "email": "mattfallaize@cwgsy.net",
@@ -885,7 +1404,18 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Matthew J. Fallaize"
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.mattfallaize.com"
+        }
+      ],
+      "name": "Matthew J. Fallaize",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153555/Deputy-Matt-Fallaize"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -930,6 +1460,10 @@
           "value": "Michelle.LeClerc@deputies.gov.gg"
         },
         {
+          "type": "phone",
+          "value": "07781 150033"
+        },
+        {
           "type": "twitter",
           "value": "mkleclerc"
         }
@@ -949,7 +1483,12 @@
           "url": "https://twitter.com/mkleclerc"
         }
       ],
-      "name": "Michelle K. Le Clerc"
+      "name": "Michelle K. Le Clerc",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153570/Deputy-Michelle-Le-Clerc"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1004,8 +1543,16 @@
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07781 146499"
+        },
+        {
           "type": "email",
           "value": "Paul.LePelley@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 246499"
         }
       ],
       "email": "Paul.LePelley@deputies.gov.gg",
@@ -1016,7 +1563,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Paul R. Le Pelley"
+      "name": "Paul R. Le Pelley",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153562/Deputy-Paul-Le-Pelley"
+        }
+      ]
     },
     {
       "birth_date": "1947",
@@ -1132,6 +1684,30 @@
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07781 127932"
+        },
+        {
+          "type": "email",
+          "value": "Peter.Ferbrache@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 722246"
+        }
+      ],
+      "email": "Peter.Ferbrache@deputies.gov.gg",
+      "id": "0fbbad6c-d0ca-445d-9817-8a490c07f3cb",
+      "name": "Peter Ferbrache",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153572/Deputy-Peter-Ferbrache"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
           "type": "email",
           "value": "Peter.Gillson@gov.gg"
         }
@@ -1151,6 +1727,60 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "rufusroffey@yahoo.co.uk"
+        },
+        {
+          "type": "phone",
+          "value": "01481 238435"
+        }
+      ],
+      "email": "rufusroffey@yahoo.co.uk",
+      "id": "53ec7543-9d2b-4d53-9d3e-ccfb83bffcfe",
+      "name": "Peter Roffey",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153579/Deputy-Peter-Roffey"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Rhian.Tooley@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07911 717137"
+        },
+        {
+          "type": "twitter",
+          "value": "RhianGsy"
+        }
+      ],
+      "email": "Rhian.Tooley@deputies.gov.gg",
+      "id": "03293134-a82d-4d2c-bf77-5eb46caf889e",
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RhianGsy"
+        },
+        {
+          "note": "website",
+          "url": "http://www.rhiantooley.com"
+        }
+      ],
+      "name": "Rhian Tooley",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153576/Deputy-Rhian-Tooley"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "Richard.Conder@deputies.gov.gg"
         }
       ],
@@ -1164,6 +1794,30 @@
         }
       ],
       "name": "Richard Conder"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "cell",
+          "value": "01481 254784"
+        },
+        {
+          "type": "email",
+          "value": "Richard.Graham@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 101277"
+        }
+      ],
+      "email": "Richard.Graham@deputies.gov.gg",
+      "id": "945d6d7d-4b6b-430e-b341-ef7cdeb30a74",
+      "name": "Richard Graham",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153550/Deputy-Richard-Graham"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1191,6 +1845,32 @@
         }
       ],
       "name": "Robert A. Jones"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Robert.Prow@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "07781 167115"
+        }
+      ],
+      "email": "Robert.Prow@deputies.gov.gg",
+      "id": "b52853fd-1b7c-4e43-a6e0-e1d496adbab4",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.robprow.com"
+        }
+      ],
+      "name": "Robert Prow",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153580/Deputy-Robert-Prow"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1285,6 +1965,44 @@
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07911 765863"
+        },
+        {
+          "type": "email",
+          "value": "Sarah.HansmannRouxel@deputies.gov.gg"
+        },
+        {
+          "type": "twitter",
+          "value": "SarahHRouxel"
+        }
+      ],
+      "email": "Sarah.HansmannRouxel@deputies.gov.gg",
+      "id": "04a746ac-2b85-4a93-81c6-d87b6cd750e1",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SarahHansmannRouxel"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SarahHRouxel"
+        },
+        {
+          "note": "website",
+          "url": "http://www.sarahhr.com"
+        }
+      ],
+      "name": "Sarah Hansmann Rouxel",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153560/Deputy-Sarah-Hansmann-Rouxel"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
           "type": "email",
           "value": "Scott.Ogier@deputies.gov.gg"
         },
@@ -1317,6 +2035,44 @@
     {
       "contact_details": [
         {
+          "type": "cell",
+          "value": "07781 127789"
+        },
+        {
+          "type": "email",
+          "value": "Shane.Langlois@deputies.gov.gg"
+        },
+        {
+          "type": "phone",
+          "value": "01481 263676"
+        },
+        {
+          "type": "twitter",
+          "value": "shanelanglois"
+        }
+      ],
+      "email": "Shane.Langlois@deputies.gov.gg",
+      "id": "f4f811eb-6f6e-40fb-a5ba-2c08e850dfe5",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Shane.L.Langlois"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/shanelanglois"
+        }
+      ],
+      "name": "Shane Langlois",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153549/Deputy-Shane-Langlois"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
           "type": "email",
           "value": "tonyspruce@cwgsy.net"
         }
@@ -1331,6 +2087,32 @@
         }
       ],
       "name": "Tony Spruce"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Victoria.Oliver@deputies.gov.ggvictoria1.oliver@icloud.com"
+        },
+        {
+          "type": "phone",
+          "value": "07839 280283"
+        }
+      ],
+      "email": "Victoria.Oliver@deputies.gov.ggvictoria1.oliver@icloud.com",
+      "id": "d1585336-1ab4-44a1-b5e9-5812a9f72bdc",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.victoria-oliver.com"
+        }
+      ],
+      "name": "Victoria Oliver",
+      "sources": [
+        {
+          "url": "https://gov.gg/article/153581/Deputy-Victoria-Oliver"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1992,13 +2774,46 @@
   "meta": {
     "sources": [
       "http://www.gov.gg/states_members",
+      "https://gov.gg/contactus",
       "http://wikidata.org/"
     ]
   },
   "memberships": [
     {
+      "area_id": "area/st_peter_port_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "03293134-a82d-4d2c-bf77-5eb46caf889e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vale",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "04a746ac-2b85-4a93-81c6-d87b6cd750e1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "05a0f315-5bb3-45c9-a8c6-1326c859d7c9",
+      "role": "member"
+    },
+    {
       "area_id": "area/vale",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "073c98dc-cd6d-42ce-a082-3a90eccab640",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vale",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "073c98dc-cd6d-42ce-a082-3a90eccab640",
@@ -2029,6 +2844,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/st_peter_port_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "0fbbad6c-d0ca-445d-9817-8a490c07f3cb",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._peter_port_south",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2045,6 +2868,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/st_peter_port_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "188c99cd-2336-40d5-aec0-c0028f53b364",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_peter_port_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "1bb10dfe-4424-4f6a-a2fb-ba2d08f3315a",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._sampson",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2055,6 +2894,14 @@
     {
       "area_id": "area/west",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "22e754e3-7656-4673-9dde-a3c7f1c274a9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "22e754e3-7656-4673-9dde-a3c7f1c274a9",
@@ -2077,6 +2924,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/st_sampson",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "2b11b882-cb89-47a4-b930-847796867f1a",
+      "role": "member"
+    },
+    {
       "area_id": "area/west",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2093,8 +2948,32 @@
       "role": "member"
     },
     {
+      "area_id": "area/vale",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "2c4d1331-c726-4591-b50c-6e68bd526abc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_peter_port_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "2eff98d2-95ec-4fbc-a2d6-d7bb701ef108",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._sampson",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "320594a7-8505-457f-8a84-c18561b4455e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_sampson",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "320594a7-8505-457f-8a84-c18561b4455e",
@@ -2125,6 +3004,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/south_east",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "53ec7543-9d2b-4d53-9d3e-ccfb83bffcfe",
+      "role": "member"
+    },
+    {
       "area_id": "area/vale",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2141,6 +3028,30 @@
       "role": "member"
     },
     {
+      "area_id": "area/vale",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "615a4e62-bdaa-4ced-9528-d23cbf9a23ac",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "6aa87b00-5723-46d3-b732-19c566f7228f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vale",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "6babfb68-4be9-48e0-873d-f12e68b0005f",
+      "role": "member"
+    },
+    {
       "area_id": "area/castel",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2149,8 +3060,24 @@
       "role": "member"
     },
     {
+      "area_id": "area/castel",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "705c20b5-2149-47b4-9d3e-a58e6e0d5f9b",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._peter_port_south",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "71ec9a6c-c567-490e-baae-69dd38f57352",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_peter_port_south",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "71ec9a6c-c567-490e-baae-69dd38f57352",
@@ -2189,6 +3116,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/castel",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "7f503d0b-59db-4708-9f94-45684cd88c3a",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._peter_port_south",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2213,8 +3148,32 @@
       "role": "member"
     },
     {
+      "area_id": "area/st_peter_port_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "9055f7fc-324b-40fb-93bf-5ff4d8b2ccbb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/castel",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "945d6d7d-4b6b-430e-b341-ef7cdeb30a74",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._sampson",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "957adc63-eaf0-4147-a1dc-2402c576d1d1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_sampson",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "957adc63-eaf0-4147-a1dc-2402c576d1d1",
@@ -2237,6 +3196,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/castel",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "a1129c34-55df-45d2-8780-e2a279ba8b47",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._peter_port_south",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2245,8 +3212,24 @@
       "role": "member"
     },
     {
+      "area_id": "area/st_sampson",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "a5ae4fb0-8225-4b30-b63a-64e0d5e75a7b",
+      "role": "member"
+    },
+    {
       "area_id": "area/south-east",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "a65d0059-362b-4db9-9a05-1c762afc4011",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_east",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "a65d0059-362b-4db9-9a05-1c762afc4011",
@@ -2261,11 +3244,34 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "b1863f9c-5a8c-4808-a38d-e0e57c7f0da4",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._peter_port_north",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "b1c159f0-8ddc-48b1-9dca-0f8990c8d947",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_peter_port_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "b1c159f0-8ddc-48b1-9dca-0f8990c8d947",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_east",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "b52853fd-1b7c-4e43-a6e0-e1d496adbab4",
       "role": "member"
     },
     {
@@ -2285,11 +3291,34 @@
       "role": "member"
     },
     {
+      "area_id": "area/west",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "ba64f08a-c809-4cb5-9fa1-9ab669574be1",
+      "role": "member"
+    },
+    {
       "area_id": "area/alderney_representative",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "bba10897-2d47-4b8d-b2e9-dcfaa16bdae5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "bba10897-2d47-4b8d-b2e9-dcfaa16bdae5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_peter_port_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "bc80dae6-e7c5-4f30-99ae-3e14ea4cdca6",
       "role": "member"
     },
     {
@@ -2309,6 +3338,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/south_east",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "d1585336-1ab4-44a1-b5e9-5812a9f72bdc",
+      "role": "member"
+    },
+    {
       "area_id": "area/vale",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -2317,8 +3354,33 @@
       "role": "member"
     },
     {
+      "area_id": "area/vale",
+      "end_date": "2016-07-05",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "db266608-e1b3-4a1f-bb43-833f7b3b757c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_east",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "dbac54e0-ffcc-4125-aa62-5e3f2ca7ae7a",
+      "role": "member"
+    },
+    {
       "area_id": "area/castel",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "e06e1b58-295c-4837-be1c-6ffbcbfb9a86",
+      "role": "member"
+    },
+    {
+      "area_id": "area/castel",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "e06e1b58-295c-4837-be1c-6ffbcbfb9a86",
@@ -2357,11 +3419,35 @@
       "role": "member"
     },
     {
+      "area_id": "area/st_sampson",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "f2d3f823-5d10-4f66-8269-723d3e0bbc5c",
+      "role": "member"
+    },
+    {
       "area_id": "area/vale",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "f4ae0bb0-5382-4105-a4e6-012974134b3b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "f4f811eb-6f6e-40fb-a5ba-2c08e850dfe5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_sampson",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "f5931853-9425-45fb-b32c-a942e3eccec3",
       "role": "member"
     },
     {
@@ -2373,8 +3459,24 @@
       "role": "member"
     },
     {
+      "area_id": "area/st_peter_port_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "fb8a0921-0a45-4209-bb3c-c42e6f073c3b",
+      "role": "member"
+    },
+    {
       "area_id": "area/st._peter_port_north",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
+      "person_id": "fec5dc7a-6eae-4e5b-8fb4-062fca557f53",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st_peter_port_north",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "person_id": "fec5dc7a-6eae-4e5b-8fb4-062fca557f53",
@@ -2413,8 +3515,9 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2016-04-26",
       "id": "term/2012",
-      "name": "2012–",
+      "name": "2012–2016",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "start_date": "2012"
     },
@@ -2423,6 +3526,13 @@
       "end_date": "2016-04-27",
       "id": "Q21995561",
       "name": "Guernsey general election, 2016",
+      "start_date": "2016-04-27"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2016",
+      "name": "2016–",
+      "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
       "start_date": "2016-04-27"
     }
   ],
@@ -2443,6 +3553,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/south_east",
+      "name": "South East",
+      "type": "constituency"
+    },
+    {
       "id": "area/st._peter_port_north",
       "name": "St. Peter Port North",
       "type": "constituency"
@@ -2455,6 +3570,21 @@
     {
       "id": "area/st._sampson",
       "name": "St. Sampson",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_peter_port_north",
+      "name": "St Peter Port North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_peter_port_south",
+      "name": "St Peter Port South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_sampson",
+      "name": "St Sampson",
       "type": "constituency"
     },
     {
