@@ -9117,6 +9117,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "ef85a980-47fd-41e7-a441-93a4a7aace2f",
       "identifiers": [
         {
@@ -13799,6 +13800,10 @@
           "url": "https://en.wikipedia.org/wiki/Harrison_Ngau_Laing"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Harrison_Ngau_Laing"
+        },
+        {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Harrison_Ngau_Laing"
         },
@@ -13816,6 +13821,11 @@
         },
         {
           "lang": "en",
+          "name": "Harrison Ngau Laing",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Harrison Ngau Laing",
           "note": "multilingual"
         },
@@ -15451,6 +15461,10 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Hussein_Onn"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Hussein_Onn"
         },
         {
           "note": "Wikipedia (ru)",
@@ -45136,7 +45150,7 @@
       "links": [
         {
           "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/تانكو_عبد_الرحمن"
+          "url": "https://ar.wikipedia.org/wiki/تونكو_عبد_الرحمن"
         },
         {
           "note": "Wikipedia (az)",
@@ -45307,7 +45321,7 @@
         },
         {
           "lang": "ar",
-          "name": "تنكو عبد الرحمن",
+          "name": "تونكو عبد الرحمن",
           "note": "multilingual"
         },
         {
@@ -49622,7 +49636,8 @@
         }
       ],
       "name": "Dewan Rakyat",
-      "seats": 222
+      "seats": 222,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -50660,7 +50675,7 @@
         },
         {
           "lang": "en",
-          "name": "Malaysian Workers' Party",
+          "name": "National Trust Party",
           "note": "multilingual"
         },
         {
@@ -50686,6 +50701,16 @@
         {
           "lang": "zh",
           "name": "國家誠信黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "National Trust Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "National Trust Party",
           "note": "multilingual"
         },
         {
