@@ -6562,11 +6562,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Nauru/Parliament/sources",
         "popolo": "data/Nauru/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/08988f0e9c8310ef9777cc1be8a1c248bfd055d2/data/Nauru/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/54443fae0c739fb10b5dc616cd257eb206080fb2/data/Nauru/Parliament/ep-popolo-v1.0.json",
         "names": "data/Nauru/Parliament/names.csv",
-        "lastmod": "1476623497",
+        "lastmod": "1477287921",
         "person_count": 33,
-        "sha": "08988f0e9c8310ef9777cc1be8a1c248bfd055d2",
+        "sha": "54443fae0c739fb10b5dc616cd257eb206080fb2",
         "legislative_periods": [
           {
             "id": "term/22",
@@ -6604,7 +6604,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8da20f0c2442ace9358e2544e429da0d7e8422dd/data/Nauru/Parliament/term-19.csv"
           }
         ],
-        "statement_count": 2521
+        "statement_count": 2524,
+        "type": "unicameral legislature"
       }
     ]
   },
