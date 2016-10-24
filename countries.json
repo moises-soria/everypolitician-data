@@ -7312,11 +7312,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Pakistan/Assembly/sources",
         "popolo": "data/Pakistan/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0b4d7127db6986eb1600c8f2a468e8f23232a143/data/Pakistan/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fbde2c8b3134c6c8a2c8766e2616227f49e4919c/data/Pakistan/Assembly/ep-popolo-v1.0.json",
         "names": "data/Pakistan/Assembly/names.csv",
-        "lastmod": "1476404330",
+        "lastmod": "1477309780",
         "person_count": 349,
-        "sha": "0b4d7127db6986eb1600c8f2a468e8f23232a143",
+        "sha": "fbde2c8b3134c6c8a2c8766e2616227f49e4919c",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -7327,7 +7327,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/87bf3fe691b9044fd6f65f677a07b95a73857a7e/data/Pakistan/Assembly/term-14.csv"
           }
         ],
-        "statement_count": 13053
+        "statement_count": 13054,
+        "type": "lower house"
       }
     ]
   },
