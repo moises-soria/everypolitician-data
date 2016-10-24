@@ -3098,7 +3098,10 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2013-03-19"
+      }
     }
   ],
   "Q3617747": [
@@ -5049,7 +5052,7 @@
       "id": "Q782620",
       "label": "Ministry of Agricultural, Food and Forestry Policies",
       "title": "Ministry of Agricultural, Food and Forestry Policies",
-      "description": "Italian ministry",
+      "description": "agriculture ministry of Italy",
       "qualifiers": {
         "P580": "2014-01-27",
         "P1365": "Nunzia De Girolamo",
@@ -6111,7 +6114,7 @@
       "id": "Q782620",
       "label": "Ministry of Agricultural, Food and Forestry Policies",
       "title": "Ministry of Agricultural, Food and Forestry Policies",
-      "description": "Italian ministry"
+      "description": "agriculture ministry of Italy"
     },
     {
       "id": "Q18558478",
@@ -6123,7 +6126,7 @@
       "id": "Q782620",
       "label": "Ministry of Agricultural, Food and Forestry Policies",
       "title": "Ministry of Agricultural, Food and Forestry Policies",
-      "description": "Italian ministry",
+      "description": "agriculture ministry of Italy",
       "qualifiers": {
         "P580": "2014-03-05",
         "P582": "2015-04-05",
