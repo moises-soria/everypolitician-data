@@ -3827,6 +3827,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Enrico_Buemi"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Enrico_Buemi"
         },
@@ -4655,6 +4659,11 @@
         },
         {
           "lang": "it",
+          "name": "Michele Boccardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Michele Boccardi",
           "note": "multilingual"
         }
@@ -7439,7 +7448,7 @@
         },
         {
           "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Carolus_Azelius_Ciampi"
+          "url": "https://la.wikipedia.org/wiki/Carolus_Azeglio_Ciampi"
         },
         {
           "note": "Wikipedia (lb)",
@@ -23693,6 +23702,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "306436",
+          "scheme": "italian_cod"
+        },
+        {
           "identifier": "Q16039268",
           "scheme": "wikidata"
         }
@@ -31088,6 +31101,10 @@
           "scheme": "nla"
         },
         {
+          "identifier": "physics/laureates/1984/rubbia",
+          "scheme": "nobel_prize"
+        },
+        {
           "identifier": "111407",
           "scheme": "ptbnp"
         },
@@ -32282,6 +32299,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Maurizio_Sacconi"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Саккони,_Маурицио"
         },
         {
           "note": "Wikipedia (uk)",
@@ -33534,6 +33555,9 @@
       "images": [
         {
           "url": "http://politici.openpolis.it/politician/picture?content_id=732"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ugosposetti.jpg"
         }
       ],
       "links": [
@@ -35444,6 +35468,10 @@
         {
           "identifier": "152298010",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "229005",
+          "scheme": "gtaa"
         },
         {
           "identifier": "0000 0001 2139 537X",
@@ -38086,6 +38114,16 @@
           "lang": "ko",
           "name": "대중구역",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民眾地區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民众地区",
+          "note": "multilingual"
         }
       ]
     },
@@ -39169,6 +39207,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lb",
+          "name": "Partito Democratico",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Partito Democratico",
           "note": "multilingual"
@@ -39425,7 +39468,8 @@
         }
       ],
       "name": "Senate",
-      "seats": 315
+      "seats": 315,
+      "type": "upper house"
     }
   ],
   "meta": {
