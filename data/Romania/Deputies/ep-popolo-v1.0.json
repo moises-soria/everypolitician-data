@@ -38294,7 +38294,8 @@
         }
       ],
       "name": "Chamber of Deputies",
-      "seats": 412
+      "seats": 412,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -38691,6 +38692,11 @@
         {
           "lang": "be",
           "name": "Нацыянальная ліберальная партыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "루마니아 국민자유당",
           "note": "multilingual"
         },
         {
