@@ -1619,6 +1619,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/03wgtj_",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q1508101",
           "scheme": "wikidata"
         }
@@ -1702,6 +1706,10 @@
         {
           "identifier": "vella-george",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0661254",
+          "scheme": "freebase"
         },
         {
           "identifier": "2281",
@@ -1843,6 +1851,10 @@
         {
           "identifier": "debono-giovanna",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03wg2hd",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q524961",
@@ -2067,6 +2079,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0130fx8v",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q1683865",
           "scheme": "wikidata"
         }
@@ -2148,6 +2164,10 @@
         {
           "identifier": "cassar-joe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05s_62b",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q632408",
@@ -5248,6 +5268,13 @@
   "events": [
     {
       "classification": "general election",
+      "end_date": "1849-08-20",
+      "id": "Q6744836",
+      "name": "Maltese general election, 1849",
+      "start_date": "1849-08-16"
+    },
+    {
+      "classification": "general election",
       "end_date": "1854",
       "id": "Q6744839",
       "name": "Maltese general election, 1854",
@@ -5581,13 +5608,6 @@
       "name": "12th Parliament",
       "organization_id": "88a5ca33-f857-4634-81d7-38f97d81826e",
       "start_date": "2013-04-06"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2016-08-20",
-      "id": "Q6744836",
-      "name": "Maltese general election, 1849",
-      "start_date": "2016-08-20"
     }
   ],
   "areas": [
