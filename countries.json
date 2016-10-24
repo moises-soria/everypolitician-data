@@ -11025,11 +11025,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6cd34fd058ef503178129aad0a4dd5e94795ce0c/data/Wales/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2dc1ce9291cb4c2c24b2381d7ddd3dc781a2fcef/data/Wales/Assembly/ep-popolo-v1.0.json",
         "names": "data/Wales/Assembly/names.csv",
-        "lastmod": "1476775001",
+        "lastmod": "1477294474",
         "person_count": 85,
-        "sha": "6cd34fd058ef503178129aad0a4dd5e94795ce0c",
+        "sha": "2dc1ce9291cb4c2c24b2381d7ddd3dc781a2fcef",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -11049,7 +11049,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1791e1be633e7f915ab65fcce51bd55395c1114b/data/Wales/Assembly/term-4.csv"
           }
         ],
-        "statement_count": 6039
+        "statement_count": 6042,
+        "type": "unicameral legislature"
       }
     ]
   },
