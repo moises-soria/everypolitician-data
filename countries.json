@@ -5724,11 +5724,11 @@
         "slug": "Dewan-Rakyat",
         "sources_directory": "data/Malaysia/Dewan_Rakyat/sources",
         "popolo": "data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c0e2864fc2c20e8049cac42fbd96bb7d1d599cc8/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0c70ba177b25a1ba3aee0fdb098dbfffe6614ab3/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json",
         "names": "data/Malaysia/Dewan_Rakyat/names.csv",
-        "lastmod": "1476176663",
+        "lastmod": "1477300169",
         "person_count": 1152,
-        "sha": "c0e2864fc2c20e8049cac42fbd96bb7d1d599cc8",
+        "sha": "0c70ba177b25a1ba3aee0fdb098dbfffe6614ab3",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -5844,10 +5844,11 @@
             "start_date": "1959",
             "slug": "1",
             "csv": "data/Malaysia/Dewan_Rakyat/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c0e2864fc2c20e8049cac42fbd96bb7d1d599cc8/data/Malaysia/Dewan_Rakyat/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0c70ba177b25a1ba3aee0fdb098dbfffe6614ab3/data/Malaysia/Dewan_Rakyat/term-1.csv"
           }
         ],
-        "statement_count": 47850
+        "statement_count": 47865,
+        "type": "lower house"
       }
     ]
   },
