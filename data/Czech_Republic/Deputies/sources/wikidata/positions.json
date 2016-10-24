@@ -1033,7 +1033,34 @@
     {
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
-      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "1996",
+        "P582": "2010"
+      }
+    },
+    {
+      "id": "Q18941264",
+      "label": "Member of the Senate of the Parliament of the Czech Republic",
+      "title": "Member of the Senate of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "2010",
+        "P582": "2016",
+        "P768": "Q12051486"
+      }
+    },
+    {
+      "id": "Q27479703",
+      "label": "Minister of Labour and Social Affairs",
+      "title": "Minister of Labour and Social Affairs",
+      "description": "Member of Czech government",
+      "qualifiers": {
+        "P580": "2002",
+        "P582": "2006",
+        "P1365": "Vladimír Špidla",
+        "P1366": "Petr Nečas",
+        "P361": "Vladimír Špidla's cabinet"
+      }
     }
   ],
   "Q12025414": [
@@ -2739,7 +2766,11 @@
     {
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
-      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "1993",
+        "P582": "2006"
+      }
     }
   ],
   "Q12017997": [
@@ -5361,10 +5392,10 @@
       }
     },
     {
-      "id": "Q12052805",
-      "label": "Czech Minister of Labour and Social Affairs",
-      "title": "Czech Minister of Labour and Social Affairs",
-      "description": "Wikimedia list article",
+      "id": "Q27479703",
+      "label": "Minister of Labour and Social Affairs",
+      "title": "Minister of Labour and Social Affairs",
+      "description": "Member of Czech government",
       "qualifiers": {
         "P580": "1998-07-22",
         "P582": "2002-07-12",
@@ -6222,7 +6253,43 @@
     {
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
-      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "1993",
+        "P582": "2013"
+      }
+    },
+    {
+      "id": "Q1055894",
+      "label": "deputy",
+      "title": "deputy (of Czech National Council)",
+      "description": "name for legislator in many countries",
+      "qualifiers": {
+        "P642": "Czech National Council",
+        "P580": "1992",
+        "P582": "1993"
+      }
+    },
+    {
+      "id": "Q27479703",
+      "label": "Minister of Labour and Social Affairs",
+      "title": "Minister of Labour and Social Affairs",
+      "description": "Member of Czech government",
+      "qualifiers": {
+        "P580": "2006",
+        "P582": "2009"
+      }
+    },
+    {
+      "id": "Q1162163",
+      "label": "director",
+      "title": "director (of Civic Democratic Party)",
+      "description": "in business, person in charge of realizing an objective",
+      "qualifiers": {
+        "P642": "Civic Democratic Party",
+        "P580": "2010",
+        "P582": "2013"
+      }
     }
   ],
   "Q12022546": [
