@@ -390,9 +390,17 @@
         {
           "identifier": "st._pier,_gavin_a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27517421",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gavin_St_Pier"
+        },
         {
           "note": "linkedin",
           "url": "http://www.linkedin.com/pub/gavin-st-pier/46/4b8/45b?trk=pub-pbmap"
@@ -402,7 +410,18 @@
           "url": "https://twitter.com/gavinstpier"
         }
       ],
-      "name": "Gavin A St. Pier"
+      "name": "Gavin A St. Pier",
+      "other_names": [
+        {
+          "name": "Gavin St Pier",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gavin St Pier",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
