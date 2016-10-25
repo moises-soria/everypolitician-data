@@ -31,7 +31,13 @@ module Task
 
     def countries
       return all_countries if to_build.to_s.empty?
-      all_countries.select { |c| c.slug.downcase.include? to_build.downcase }
+      countries_to_rebuild = all_countries.select do |c|
+        c.slug.downcase.include? to_build.downcase
+      end
+      if countries_to_rebuild.empty?
+        raise "Couldn't find the country '#{to_build}'"
+      end
+      countries_to_rebuild
     end
 
     def commit_metadata
