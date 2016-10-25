@@ -33924,6 +33924,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0wy4zzc",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "133876829",
           "scheme": "gnd"
         },
@@ -40578,6 +40582,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Płamen_Manuszew"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Пламен_Манушев"
         }
       ],
       "name": "ПЛАМЕН ИВАНОВ МАНУШЕВ",
@@ -40609,6 +40617,11 @@
         {
           "lang": "pl",
           "name": "Płamen Manuszew",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Пламен Манушев",
           "note": "multilingual"
         }
       ],
@@ -43423,6 +43436,10 @@
           "url": "https://he.wikipedia.org/wiki/סרגיי_סטאנישב"
         },
         {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Sergej_Stanišev"
+        },
+        {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Szergej_Sztanisev"
         },
@@ -45650,6 +45667,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Stefan Sofiyanski",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Стефан Софіянський",
           "note": "multilingual"
@@ -47837,6 +47859,10 @@
         {
           "identifier": "1474",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/010s532r",
+          "scheme": "freebase"
         },
         {
           "identifier": "1474",
@@ -59220,6 +59246,15 @@
       "organization_id": "51d87586-83a3-4f2c-98ef-239a1556c01e",
       "person_id": "26b5626a-a637-4ef1-88eb-49d8134b5934",
       "role": "member"
+    },
+    {
+      "area_id": "29",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/national_assembly_members_not_affiliated_with_a_parliamentary_group",
+      "organization_id": "51d87586-83a3-4f2c-98ef-239a1556c01e",
+      "person_id": "26b5626a-a637-4ef1-88eb-49d8134b5934",
+      "role": "member",
+      "start_date": "2016-10-21"
     },
     {
       "area_id": "16",
