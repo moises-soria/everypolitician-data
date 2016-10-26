@@ -29,9 +29,14 @@ module Task
       EveryPolitician.countries
     end
 
+    def matching
+      all_countries.select { |c| c.slug.downcase.include? to_build.downcase }
+    end
+
     def countries
       return all_countries if to_build.to_s.empty?
-      all_countries.select { |c| c.slug.downcase.include? to_build.downcase }
+      raise "Couldn't find the country '#{to_build}'" if matching.empty?
+      matching
     end
 
     def commit_metadata
