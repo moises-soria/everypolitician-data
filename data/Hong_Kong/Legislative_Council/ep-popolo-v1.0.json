@@ -9188,6 +9188,7 @@
       ]
     },
     {
+      "birth_date": "1986-08-07",
       "contact_details": [
         {
           "type": "email",
@@ -9203,8 +9204,15 @@
         }
       ],
       "email": "baggio@youngspiration.hk",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "094573d3-17c2-426e-8670-04e0640d5d92",
+      "identifiers": [
+        {
+          "identifier": "Q23888514",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/lchs.jpg",
       "images": [
         {
@@ -9213,11 +9221,52 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:LEUNG_Chung-Hang,_Baggio"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Baggio_Leung"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Baggio_Leung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/梁頌恆"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/梁頌恆"
+        },
+        {
           "note": "website",
           "url": "http://youngspiration.hk"
         }
       ],
       "name": "Sixtus LEUNG Chung-hang",
+      "other_names": [
+        {
+          "name": "Baggio Leung",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Baggio Leung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "梁頌恆",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "梁頌恆",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/lchs.htm"
@@ -11038,6 +11087,7 @@
       ]
     },
     {
+      "birth_date": "1977-06-07",
       "contact_details": [
         {
           "type": "email",
@@ -11053,8 +11103,15 @@
         }
       ],
       "email": "info@euniceyung.hk",
+      "gender": "female",
       "honorific_prefix": "Hon",
       "id": "d6f1c89a-9c36-41ed-bbd2-f32bb2115350",
+      "identifiers": [
+        {
+          "identifier": "Q24837388",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/yhy.jpg",
       "images": [
         {
@@ -11063,11 +11120,49 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eunice_Yung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/容海恩"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/容海恩"
+        },
+        {
           "note": "website",
           "url": "http://euniceyung.hk"
         }
       ],
       "name": "YUNG Hoi-yan",
+      "other_names": [
+        {
+          "name": "Eunice Yung",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Eunice Yung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eunice Yung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "容海恩",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "容海恩",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/yhy.htm"
