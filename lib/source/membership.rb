@@ -29,6 +29,9 @@ module Source
 
         pr = reconciler.reconciliation_data rescue abort($!.to_s)
         pr.each { |r| id_map[r[:id]] = r[:uuid] }
+      else
+        # reuse any IDs we already have from other sources
+        csv.each { |r| id_map[r[:id]] &&= r[:uuid] }
       end
 
       # Generate UUIDs for any people we don't already know
