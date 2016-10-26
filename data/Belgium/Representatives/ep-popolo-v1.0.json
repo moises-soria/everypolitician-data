@@ -17304,6 +17304,10 @@
       ]
     },
     {
+      "id": "0e9859bd-8205-4116-9dd2-3f916deae237",
+      "name": "Vincent Van Peteghem"
+    },
+    {
       "birth_date": "1973-08-01",
       "contact_details": [
         {
@@ -19572,6 +19576,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "lb",
+          "name": "Mouvement réformateur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MR",
           "note": "multilingual"
@@ -20587,6 +20601,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lb",
+          "name": "Parti socialiste",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "PS",
           "note": "multilingual"
@@ -21344,6 +21363,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "lb",
+          "name": "Centre démocrate humaniste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Centre démocrate humaniste",
+          "note": "multilingual"
+        },
+        {
           "lang": "eo",
           "name": "Christlich Soziale Partei",
           "note": "multilingual"
@@ -22070,6 +22099,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/oost-vlaanderen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cd&v",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "0e9859bd-8205-4116-9dd2-3f916deae237",
+      "role": "member",
+      "start_date": "2016-10-27"
+    },
+    {
       "area_id": "area/antwerpen",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/n-va",
@@ -22473,6 +22511,15 @@
       "on_behalf_of_id": "party/ps",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "5f3808ae-f3e8-45da-a762-a1ffe7c8e58a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/oost-vlaanderen",
+      "end_date": "2016-10-27",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cd&v",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "6102ee1a-7991-4b7c-8952-5a3c3c64d472",
       "role": "member"
     },
     {
