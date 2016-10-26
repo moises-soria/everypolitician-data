@@ -931,6 +931,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Andrew_Leung"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Andrew_Leung"
         },
@@ -1032,6 +1036,7 @@
       ]
     },
     {
+      "birth_date": "1969-06-07",
       "contact_details": [
         {
           "type": "email",
@@ -1047,15 +1052,52 @@
         }
       ],
       "email": "wansiukin@gmail.com",
+      "gender": "male",
+      "given_name": "Andrew",
       "honorific_prefix": "Hon",
       "id": "ef326927-da97-4102-a588-4dff99bc6880",
+      "identifiers": [
+        {
+          "identifier": "Q11040220",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/wsk.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/wsk.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/尹兆堅.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Wan"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/尹兆堅"
         }
       ],
       "name": "Andrew WAN Siu-kin",
+      "other_names": [
+        {
+          "name": "Andrew Wan",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Andrew Wan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尹兆堅",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/wsk.htm"
@@ -1131,6 +1173,10 @@
         {
           "note": "Wikipedia (zh_yue)",
           "url": "https://zh_yue.wikipedia.org/wiki/陳志全"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/chanchichuen"
         }
       ],
       "name": "CHAN Chi-chuen",
@@ -1272,15 +1318,49 @@
         }
       ],
       "email": "ronickchan@gmail.com",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "500f47f3-d2d4-4d9f-8595-6cd7e274f7c9",
+      "identifiers": [
+        {
+          "identifier": "Q26703335",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/ccy.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/ccy.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chan_Chun-ying"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳振英"
+        }
+      ],
       "name": "CHAN Chun-ying",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Chan Chun-ying",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chan Chun-ying",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陳振英",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/ccy.htm"
@@ -1819,6 +1899,7 @@
       ]
     },
     {
+      "birth_date": "1983-11-05",
       "contact_details": [
         {
           "type": "email",
@@ -1834,15 +1915,53 @@
         }
       ],
       "email": "cctai@passiontimes.hk",
+      "gender": "male",
       "honorific_prefix": "Dr Hon",
       "id": "6eab32d4-6cd5-4d34-8020-9381735162b0",
+      "identifiers": [
+        {
+          "identifier": "Q19853850",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/cct.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/cct.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cheng_Chung-tai"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鄭松泰"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/鄭松泰"
+        }
+      ],
       "name": "CHENG Chung-tai",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Cheng Chung-tai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "鄭松泰",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鄭松泰",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/cct.htm"
@@ -1952,6 +2071,7 @@
       ]
     },
     {
+      "birth_date": "1974",
       "contact_details": [
         {
           "type": "email",
@@ -1967,9 +2087,18 @@
         }
       ],
       "email": "info@horacecheung.com",
+      "family_name": "Zhang",
+      "gender": "male",
+      "given_name": "Horace",
       "honorific_prefix": "Hon",
       "honorific_suffix": "JP",
       "id": "ea4e3ea7-2a93-4471-a751-bb6774c21d25",
+      "identifiers": [
+        {
+          "identifier": "Q7237065",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/ckk.jpg",
       "images": [
         {
@@ -1978,11 +2107,49 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Horace_Cheung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/張國鈞"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/張國鈞"
+        },
+        {
           "note": "website",
           "url": "http://www.horacecheung.com"
         }
       ],
       "name": "CHEUNG Kwok-kwan",
+      "other_names": [
+        {
+          "name": "Horace Cheung",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Horace Cheung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Horace Cheung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "張國鈞",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "張國鈞",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/ckk.htm"
@@ -3044,6 +3211,7 @@
       ]
     },
     {
+      "birth_date": "1977",
       "contact_details": [
         {
           "type": "email",
@@ -3059,15 +3227,60 @@
         }
       ],
       "email": "info@chuhoidick.hk",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "e0413f07-ed32-4aa8-a663-25d41f55b2b9",
+      "identifiers": [
+        {
+          "identifier": "Q7227847",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/chd.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/chd.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/ChuHoiDik.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Eddie_Chu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eddie_Chu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/朱凱廸"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/朱凱廸"
         }
       ],
       "name": "Eddie CHU Hoi-dick",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Eddie Chu Hoi-dick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "朱凱迪",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "朱凱迪",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/chd.htm"
@@ -3870,6 +4083,7 @@
       ]
     },
     {
+      "birth_date": "1985",
       "contact_details": [
         {
           "type": "fax",
@@ -3880,8 +4094,16 @@
           "value": "2537 9618"
         }
       ],
+      "family_name": "He",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "f2d4ec20-5c71-4751-ae6b-ad248182fb38",
+      "identifiers": [
+        {
+          "identifier": "Q10886070",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/hkm.jpg",
       "images": [
         {
@@ -3890,11 +4112,40 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ho_Kai-ming_(FTU)"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/何啟明_(工聯會)"
+        },
+        {
           "note": "website",
           "url": "http://www.ftulegco.org.hk"
         }
       ],
       "name": "HO Kai-ming",
+      "other_names": [
+        {
+          "name": "Ho Kai Ming",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ho Kai Ming",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ho Kai Ming",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "何啟明",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/hkm.htm"
@@ -3917,21 +4168,64 @@
         }
       ],
       "email": "huichifung@gmail.com",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "323324a2-3a26-4756-a827-f992c8b6999f",
+      "identifiers": [
+        {
+          "identifier": "Q19825791",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/hcf.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/hcf.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/許智峯.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hui_Chi-fung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/許智峯"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/許智峯"
+        },
         {
           "note": "website",
           "url": "https://www.facebook.com/huichifung913"
         }
       ],
       "name": "HUI Chi-fung",
+      "other_names": [
+        {
+          "name": "Ted Hui Chi-fung",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ted Hui Chi-fung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "許智峯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "許智峯",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/hcf.htm"
@@ -3982,6 +4276,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Helena_Wong_(politician)"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Helena_Wong_(politikus)"
         },
         {
           "note": "Wikipedia (zh)",
@@ -4060,6 +4358,7 @@
       ]
     },
     {
+      "birth_date": "1979",
       "contact_details": [
         {
           "type": "email",
@@ -4075,21 +4374,113 @@
         }
       ],
       "email": "holdenchow@hotmail.com.hk",
+      "family_name": "Zhou",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "08f5b0a2-291c-4079-b928-49a3c7d92878",
+      "identifiers": [
+        {
+          "identifier": "/g/1yqcct7x6",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Q15940901",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/chdh.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/chdh.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Holden_Chow_Ho_Ding.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Holden_Chow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Holden_Chow"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/周浩鼎"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/周浩鼎"
+        },
         {
           "note": "website",
           "url": "http://www.facebook.com/chowhoding"
         }
       ],
       "name": "Holden CHOW Ho-ding",
+      "other_names": [
+        {
+          "name": "Holden Chow",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Holden Chow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "周浩鼎",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/chdh.htm"
@@ -4918,6 +5309,7 @@
       ]
     },
     {
+      "birth_date": "1975-06-13",
       "contact_details": [
         {
           "type": "email",
@@ -4933,8 +5325,15 @@
         }
       ],
       "email": "contact@jeremytam.hk",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "c6badbb0-f42b-4891-bba1-bbd7b623f9e1",
+      "identifiers": [
+        {
+          "identifier": "Q19849386",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/tmh.jpg",
       "images": [
         {
@@ -4943,11 +5342,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jeremy_Tam"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/譚文豪"
+        },
+        {
           "note": "website",
           "url": "http://www.jeremytam.hk"
         }
       ],
       "name": "Jeremy TAM Man-ho",
+      "other_names": [
+        {
+          "name": "Jeremy Tam",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jeremy Tam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "譚文豪",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/tmh.htm"
@@ -4970,16 +5393,54 @@
         }
       ],
       "email": "contact@jimmyng.hk",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "honorific_suffix": "JP",
       "id": "66d7d8b8-661b-45b6-bb26-4221b8b0a608",
+      "identifiers": [
+        {
+          "identifier": "Q26211043",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/nwk.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/nwk.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ng_Wing-ka"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吳永嘉"
+        }
+      ],
       "name": "Jimmy NG Wing-ka",
+      "other_names": [
+        {
+          "name": "Ng Wing-ka",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ng Wing-ka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ng Wing-ka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "吳永嘉",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/nwk.htm"
@@ -5100,6 +5561,7 @@
       ]
     },
     {
+      "birth_date": "1962-06-04",
       "contact_details": [
         {
           "type": "email",
@@ -5115,9 +5577,17 @@
         }
       ],
       "email": "juniusleg@kcho-fong.com",
+      "family_name": "He",
+      "gender": "male",
       "honorific_prefix": "Dr Hon",
       "honorific_suffix": "JP",
       "id": "92449482-6a6c-4f5b-bf53-18d0f775a8ef",
+      "identifiers": [
+        {
+          "identifier": "Q6313725",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/hky.jpg",
       "images": [
         {
@@ -5126,11 +5596,50 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Junius_Ho"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/何君堯"
+        },
+        {
           "note": "website",
           "url": "http://www.juniusho.comhttps://zh-hk.facebook.com/JuniusHoKwanYiu/"
         }
       ],
       "name": "Junius HO Kwan-yiu",
+      "other_names": [
+        {
+          "name": "Junius Ho",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Junius Ho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Junius Ho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Junius Ho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Junius Ho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "何君堯",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/hky.htm"
@@ -5371,6 +5880,7 @@
       ]
     },
     {
+      "birth_date": "1983",
       "contact_details": [
         {
           "type": "email",
@@ -5386,15 +5896,48 @@
         }
       ],
       "email": "roy@dphk.org",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "e0b1d1c5-fee6-4d8b-95af-4697b702e02c",
+      "identifiers": [
+        {
+          "identifier": "Q9357271",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/kcy.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/kcy.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roy_Kwong"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/鄺俊宇"
+        }
+      ],
       "name": "KWONG Chun-yu",
+      "other_names": [
+        {
+          "name": "Roy Kwong",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Roy Kwong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鄺俊宇",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/kcy.htm"
@@ -5528,6 +6071,7 @@
       ]
     },
     {
+      "birth_date": "1966",
       "contact_details": [
         {
           "type": "email",
@@ -5543,16 +6087,60 @@
         }
       ],
       "email": "kenlau.legco@gmail.com",
+      "gender": "male",
+      "given_name": "Kenneth",
       "honorific_prefix": "Hon",
       "honorific_suffix": "MH, JP",
       "id": "7faa27b5-903b-4239-b12e-a28c32c99d89",
+      "identifiers": [
+        {
+          "identifier": "Q20065300",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/lik.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/lik.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kenneth_Lau"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/劉業強"
+        }
+      ],
       "name": "Kenneth LAU Ip-keung",
+      "other_names": [
+        {
+          "name": "Kenneth Lau",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kenneth Lau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "劉業強",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "劉業強",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "劉業強",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/lik.htm"
@@ -5658,6 +6246,7 @@
       ]
     },
     {
+      "birth_date": "1977",
       "contact_details": [
         {
           "type": "email",
@@ -5673,15 +6262,49 @@
         }
       ],
       "email": "ssoffice@dphk.org",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "ed6b0b5b-b5b6-4c0f-8038-6698f5739b0d",
+      "identifiers": [
+        {
+          "identifier": "Q25936133",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/lct.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/lct.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lam_Cheuk-ting"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/林卓廷"
+        }
+      ],
       "name": "LAM Cheuk-ting",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lam Cheuk-ting",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lam Cheuk-ting",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "林卓廷",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/lct.htm"
@@ -5816,6 +6439,7 @@
       ]
     },
     {
+      "birth_date": "1981-06-28",
       "contact_details": [
         {
           "type": "fax",
@@ -5826,16 +6450,44 @@
           "value": "2682 6623"
         }
       ],
+      "gender": "male",
       "honorific_prefix": "Hon",
       "honorific_suffix": "MH",
       "id": "3c5589e3-711a-4ed0-85ed-6275f45cb859",
+      "identifiers": [
+        {
+          "identifier": "Q26251790",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/lkfe.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/lkfe.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/LAU_Kwok-fan_2012.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lau_Kwok-fan"
         }
       ],
       "name": "LAU Kwok-fan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lau Kwok-fan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lau Kwok-fan",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/lkfe.htm"
@@ -5858,15 +6510,70 @@
         }
       ],
       "email": "hksiulai@gmail.com",
+      "gender": "female",
       "honorific_prefix": "Hon",
       "id": "536da2ce-9f64-440f-bf1f-63682f5cfd33",
+      "identifiers": [
+        {
+          "identifier": "Q23888559",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/lsl.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/lsl.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Lau_Siu-lai"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lau_Siu-lai"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Lau_Siu-lai"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/劉小麗"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/劉小麗"
+        },
+        {
+          "note": "website",
+          "url": "https://siulai.hk/"
+        }
+      ],
       "name": "LAU Siu-lai",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lau Siu-lai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "리우 샤오리",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "劉小麗",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "劉小麗",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/lsl.htm"
@@ -6736,8 +7443,15 @@
           "value": "2537 9618"
         }
       ],
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "c431025c-90dc-4cb4-8b37-45d99c51497a",
+      "identifiers": [
+        {
+          "identifier": "Q26251804",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/lch.jpg",
       "images": [
         {
@@ -6746,11 +7460,36 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Luk_Chung-hung"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陸頌雄"
+        },
+        {
           "note": "website",
           "url": "http://www.ftulegco.org.hk"
         }
       ],
       "name": "LUK Chung-hung",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Luk Chung-hung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Luk Chung-hung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陸頌雄",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/lch.htm"
@@ -7229,6 +7968,7 @@
       ]
     },
     {
+      "birth_date": "1993-07-13",
       "contact_details": [
         {
           "type": "email",
@@ -7244,21 +7984,149 @@
         }
       ],
       "email": "nathan@demosisto.hk",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "7e71f9c9-d66c-4b98-9294-c3fd2a716188",
+      "identifiers": [
+        {
+          "identifier": "Q24701019",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/lkc.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/lkc.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Nathan_Law_Kwun_Chung_201502.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:LAW_Kwun-Chung,_Nathan"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nathan_Law"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nathan_Law"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nathan_Law"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Nathan_Law"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/นาธาน_ลอว์"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/羅冠聰"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/羅冠聰"
+        },
         {
           "note": "website",
           "url": "www.demosisto.hk"
         }
       ],
       "name": "Nathan LAW Kwun-chung",
+      "other_names": [
+        {
+          "name": "Nathan Law",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nathan Law",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nathan Law",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nathan Law",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nathan Law",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Nathan Law",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นาธาน ลอว์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "羅冠聰",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "羅冠聰",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "罗冠聪",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "罗冠聪",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "羅冠聰",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "羅冠聰",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "羅冠聰",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "罗冠聪",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "罗冠聪",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "羅冠聰",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/lkc.htm"
@@ -7500,8 +8368,15 @@
         }
       ],
       "email": "info@drchanpierre.org",
+      "gender": "male",
       "honorific_prefix": "Dr Hon",
       "id": "98e023c5-832e-44c4-b9a3-1b77509a6be3",
+      "identifiers": [
+        {
+          "identifier": "Q26806626",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/cp.jpg",
       "images": [
         {
@@ -7510,11 +8385,36 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pierre_Chan"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳沛然"
+        },
+        {
           "note": "website",
           "url": "http://www.drchanpierre.org"
         }
       ],
       "name": "Pierre CHAN",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Pierre Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pierre Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陳沛然",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/cp.htm"
@@ -7571,6 +8471,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Priscilla_Leung"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Priscilla_Leung"
         },
         {
           "note": "Wikipedia (zh)",
@@ -8011,6 +8915,7 @@
       ]
     },
     {
+      "birth_date": "1970",
       "contact_details": [
         {
           "type": "email",
@@ -8018,15 +8923,67 @@
         }
       ],
       "email": "bottleshiu@gmail.com",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "id": "311eb0f7-6446-4fbd-a536-3890916eefe8",
+      "identifiers": [
+        {
+          "identifier": "Q13560952",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/skc.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/skc.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shiu_Ka-chun"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/邵家臻"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/邵家臻"
+        }
+      ],
       "name": "SHIU Ka-chun",
+      "other_names": [
+        {
+          "name": "Shiu Ka Chun",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Shiu Ka Chun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shiu Ka Chun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Shiu Ka Chun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "邵家臻",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "邵家臻",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/skc.htm"
@@ -8034,6 +8991,7 @@
       ]
     },
     {
+      "birth_date": "1970-04-22",
       "contact_details": [
         {
           "type": "email",
@@ -8049,15 +9007,54 @@
         }
       ],
       "email": "kfshiu003@yahoo.com.hk",
+      "gender": "male",
+      "given_name": "Peter",
       "honorific_prefix": "Hon",
       "id": "d7822db7-f2da-45aa-9e65-c8e3fbb0bc43",
+      "identifiers": [
+        {
+          "identifier": "Q19853823",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/skf.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/skf.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Shiu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/邵家輝"
+        }
+      ],
       "name": "SHIU Ka-fai",
+      "other_names": [
+        {
+          "name": "Peter Shiu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Peter Shiu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Peter Shiu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "邵家輝",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/skf.htm"
@@ -8664,6 +9661,7 @@
       ]
     },
     {
+      "birth_date": "1971-09-14",
       "contact_details": [
         {
           "type": "fax",
@@ -8672,17 +9670,155 @@
         {
           "type": "phone",
           "value": "2521 6292"
+        },
+        {
+          "type": "twitter",
+          "value": "tanyachan2010"
         }
       ],
+      "family_name": "Chen",
+      "gender": "female",
+      "given_name": "Tanya",
       "honorific_prefix": "Hon",
       "id": "0626d704-9729-4577-87ec-35b3ccc8b242",
+      "identifiers": [
+        {
+          "identifier": "/m/03d1xqp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q6588095",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/ct.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/ct.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tanya_Chan_at_HK_book_fair_2008.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tanya_Chan"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تانیا_چان"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳淑莊"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/陳淑莊"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/tanyachan2010"
+        },
+        {
+          "note": "website",
+          "url": "http://www.civicparty.hk/?q=en/node/3201"
         }
       ],
       "name": "Tanya CHAN",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tanya Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tanya Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tanya Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تانیا چان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tanya Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tanya Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "タンヤ・チャン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tanya Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "陳淑莊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陳淑莊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "陈淑庄",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "陈淑庄",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "陳淑莊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "陳淑莊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "陳淑莊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "陈淑庄",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "陈淑庄",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "陳淑莊",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/ct.htm"
@@ -9365,6 +10501,10 @@
           "url": "https://hak.wikipedia.org/wiki/Vòng_Ngiuk-mìn"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Raymond_Wong_Yuk-man"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/黃毓民"
         },
@@ -9570,6 +10710,7 @@
       ]
     },
     {
+      "birth_date": "1973-07-09",
       "contact_details": [
         {
           "type": "email",
@@ -9585,9 +10726,16 @@
         }
       ],
       "email": "orchongshinglegco@gmail.com",
+      "gender": "male",
       "honorific_prefix": "Hon",
       "honorific_suffix": "MH",
       "id": "392acde5-9d3b-4d37-922a-53e3ba552e1d",
+      "identifiers": [
+        {
+          "identifier": "Q9295550",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/ocs.jpg",
       "images": [
         {
@@ -9596,11 +10744,49 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wilson_Or"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/柯創盛"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/柯創盛"
+        },
+        {
           "note": "website",
           "url": "http://www.facebook.com/OrChongShing.Office"
         }
       ],
       "name": "Wilson OR Chong-shing",
+      "other_names": [
+        {
+          "name": "Wilson Or",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Wilson Or",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wilson Or",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "柯創盛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "柯創盛",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/ocs.htm"
@@ -9608,6 +10794,7 @@
       ]
     },
     {
+      "birth_date": "1991-05-06",
       "contact_details": [
         {
           "type": "email",
@@ -9623,8 +10810,15 @@
         }
       ],
       "email": "ching@youngspiration.hk",
+      "gender": "female",
       "honorific_prefix": "Hon",
       "id": "954cca69-7159-4534-8003-a911f1e1b75e",
+      "identifiers": [
+        {
+          "identifier": "Q21565062",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/ywc.jpg",
       "images": [
         {
@@ -9633,11 +10827,58 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yau_Wai-ching"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yau_Wai-ching"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Yau_Wai-ching"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/游蕙禎"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/游蕙禎"
+        },
+        {
           "note": "website",
           "url": "http://youngspiration.hk"
         }
       ],
       "name": "YAU Wai-ching",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Yau Wai-ching",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヤウ・ワイチイン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yau Wai Ching",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "游蕙禎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "游蕙禎",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/ywc.htm"
@@ -9660,15 +10901,53 @@
         }
       ],
       "email": "contact@edwardyiu.org",
+      "gender": "male",
       "honorific_prefix": "Dr Hon",
       "id": "b6c059ed-34f7-4102-b18d-8807522d7ad6",
+      "identifiers": [
+        {
+          "identifier": "Q26806487",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.legco.gov.hk/images/mem_1620/ycy.jpg",
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/ycy.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edward_Yiu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/姚松炎"
+        }
+      ],
       "name": "YIU Chung-yim",
+      "other_names": [
+        {
+          "name": "Edward Yiu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Edward Yiu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Edward Yiu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "姚松炎",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.legco.gov.hk/general/english/members/yr16-20/ycy.htm"
