@@ -33,6 +33,14 @@ describe 'RebuildCountriesJSON' do
     countries_to_rebuild[0].name.must_equal 'United States of America'
   end
 
+  it 'finds all matching countries' do
+    rebuilder = Task::RebuildCountriesJSON.new('America')
+    countries_to_rebuild = rebuilder.send(:countries)
+    countries_to_rebuild.length.must_equal 2
+    countries_to_rebuild.map(&:name).must_include 'American Samoa'
+    countries_to_rebuild.map(&:name).must_include 'United States of America'
+  end
+
   it 'returns lots of countries when none is specified' do
     rebuilder = Task::RebuildCountriesJSON.new nil
     countries_to_rebuild = rebuilder.send(:countries)
