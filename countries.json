@@ -4379,13 +4379,14 @@
         "slug": "Legislative-Council",
         "sources_directory": "data/Hong_Kong/Legislative_Council/sources",
         "popolo": "data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/79674e0f6dbfeb0c8dcec32360dd208da562f375/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/28e1eac120abab0a4b71a7c77d03028147c7b904/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
         "names": "data/Hong_Kong/Legislative_Council/names.csv",
-        "lastmod": "1477398147",
+        "lastmod": "1477565555",
         "person_count": 71,
-        "sha": "79674e0f6dbfeb0c8dcec32360dd208da562f375",
+        "sha": "28e1eac120abab0a4b71a7c77d03028147c7b904",
         "legislative_periods": [
           {
+            "end_date": "2016-09-30",
             "id": "term/5",
             "name": "Fifth Legislative Council",
             "start_date": "2012-10-01",
@@ -4394,7 +4395,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0fc6473d50310b8facdc01fc380fb1dbd5dfae9a/data/Hong_Kong/Legislative_Council/term-5.csv"
           }
         ],
-        "statement_count": 5942,
+        "statement_count": 5943,
         "type": "unicameral legislature"
       }
     ]
