@@ -6118,6 +6118,10 @@
           "url": "https://sk.wikipedia.org/wiki/Kim_Čong-un"
         },
         {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Kim_Džong-un"
+        },
+        {
           "note": "Wikipedia (sq)",
           "url": "https://sq.wikipedia.org/wiki/Kim_Xhong-un"
         },
@@ -6135,7 +6139,7 @@
         },
         {
           "note": "Wikipedia (szl)",
-          "url": "https://szl.wikipedia.org/wiki/Kim_Dzong-un"
+          "url": "https://szl.wikipedia.org/wiki/Kim_Dzong_Un"
         },
         {
           "note": "Wikipedia (ta)",
@@ -6188,6 +6192,10 @@
         {
           "note": "Wikipedia (wuu)",
           "url": "https://wuu.wikipedia.org/wiki/金正恩"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Kim_Jong-un"
         },
         {
           "note": "Wikipedia (zh)",
@@ -6364,6 +6372,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "gan",
+          "name": "金正恩",
+          "note": "multilingual"
+        },
+        {
           "lang": "gl",
           "name": "Kim Jong-un",
           "note": "multilingual"
@@ -6409,6 +6422,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Kim Jong-un",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Kim Jong-un",
           "note": "multilingual"
@@ -6431,6 +6449,11 @@
         {
           "lang": "ko",
           "name": "김정은",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku",
+          "name": "Kim Jong-un",
           "note": "multilingual"
         },
         {
@@ -6589,6 +6612,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Kim Džong-un",
+          "note": "multilingual"
+        },
+        {
           "lang": "sq",
           "name": "Kim Xhong-Un",
           "note": "multilingual"
@@ -6661,6 +6689,11 @@
         {
           "lang": "wuu",
           "name": "金正恩",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Kim Jong-un",
           "note": "multilingual"
         },
         {
@@ -8455,6 +8488,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "b1590279-6c8d-45fe-b4d3-a02a587daf26",
       "identifiers": [
         {
@@ -9775,12 +9809,6 @@
         {
           "identifier": "Q110456",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/DkJ2mlWd1Gk.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/DkJ2mlWd1Gk.jpg"
         }
       ],
       "links": [
@@ -13937,6 +13965,10 @@
         {
           "identifier": "14-6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0ztf5s_",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q709705",
