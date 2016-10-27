@@ -7435,6 +7435,10 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "chluk@ftulegco.org.hk"
+        },
+        {
           "type": "fax",
           "value": "2509 9092"
         },
@@ -7443,6 +7447,7 @@
           "value": "2537 9618"
         }
       ],
+      "email": "chluk@ftulegco.org.hk",
       "gender": "male",
       "honorific_prefix": "Hon",
       "id": "c431025c-90dc-4cb4-8b37-45d99c51497a",
@@ -11908,6 +11913,11 @@
     },
     {
       "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "party",
       "id": "party/labour_party",
       "identifiers": [
         {
@@ -13099,7 +13109,7 @@
     {
       "area_id": "area/insurance",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "2835e428-9627-48ab-95b9-00d16ee6dc36",
       "role": "member"
@@ -13123,7 +13133,7 @@
     {
       "area_id": "area/social_welfare",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "311eb0f7-6446-4fbd-a536-3890916eefe8",
       "role": "member"
@@ -13219,7 +13229,7 @@
     {
       "area_id": "area/kowloon_east",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "3e99923f-d3e3-4757-b55b-6555516d3343",
       "role": "member"
@@ -13259,7 +13269,7 @@
     {
       "area_id": "area/finance",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "500f47f3-d2d4-4d9f-8595-6cd7e274f7c9",
       "role": "member"
@@ -13283,7 +13293,7 @@
     {
       "area_id": "area/kowloon_west",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "536da2ce-9f64-440f-bf1f-63682f5cfd33",
       "role": "member"
@@ -13331,7 +13341,7 @@
     {
       "area_id": "area/tourism",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "58df4f82-d982-4831-8f19-2c4b72552281",
       "role": "member"
@@ -13395,7 +13405,7 @@
     {
       "area_id": "area/commercial_(second)",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "63692331-c889-4b6a-bed4-b4f33503b9b2",
       "role": "member"
@@ -13427,7 +13437,7 @@
     {
       "area_id": "area/industrial_(second)",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "66d7d8b8-661b-45b6-bb26-4221b8b0a608",
       "role": "member"
@@ -13643,7 +13653,7 @@
     {
       "area_id": "area/new_territories_west",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "92449482-6a6c-4f5b-bf53-18d0f775a8ef",
       "role": "member"
@@ -13691,7 +13701,7 @@
     {
       "area_id": "area/medical",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "98e023c5-832e-44c4-b9a3-1b77509a6be3",
       "role": "member"
@@ -13779,7 +13789,7 @@
     {
       "area_id": "area/architectural,_surveying,_planning_and_landscape",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "b6c059ed-34f7-4102-b18d-8807522d7ad6",
       "role": "member"
@@ -13939,7 +13949,7 @@
     {
       "area_id": "area/health_services",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "d531700a-6a05-4164-bfd3-67913ae7873b",
       "role": "member"
@@ -13979,7 +13989,7 @@
     {
       "area_id": "area/new_territories_west",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
       "person_id": "e0413f07-ed32-4aa8-a663-25d41f55b2b9",
       "role": "member"
