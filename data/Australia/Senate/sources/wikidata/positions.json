@@ -271,7 +271,14 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Tasmania",
+        "P580": "1996-03-08",
+        "P582": "2005-07-29",
+        "P1365": "John Devereux",
+        "P1366": "Carol Brown"
+      }
     }
   ],
   "Q5593180": [
@@ -689,7 +696,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P580": "2011-07-01"
+      }
     }
   ],
   "Q17285485": [
@@ -1276,13 +1287,27 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales",
+        "P580": "1994-03-08",
+        "P582": "1998-09-03",
+        "P1365": "Kerry Sibraa",
+        "P1366": "Steve Hutchins"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Robertson",
+        "P580": "2007-11-24",
+        "P582": "2010-07-19",
+        "P1365": "Jim Lloyd",
+        "P1366": "Deborah O'Neill"
+      }
     }
   ],
   "Q2281649": [
@@ -1461,7 +1486,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P580": "2014-07-01"
+      }
     }
   ],
   "Q7087226": [
@@ -1615,7 +1644,24 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1996-07-01",
+        "P582": "1996-07-12",
+        "P768": "South Australia"
+      }
+    },
+    {
+      "id": "Q6814428",
+      "label": "member of the Australian Senate",
+      "title": "member of the Australian Senate",
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1996-07-24",
+        "P582": "2007-04-02",
+        "P768": "South Australia",
+        "P1366": "Simon Birmingham"
+      }
     }
   ],
   "Q6207164": [
@@ -1784,7 +1830,14 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Victoria",
+        "P580": "1996-04-30",
+        "P582": "2016-09-30",
+        "P1365": "Gareth Evans",
+        "P1366": "Kimberley Kitching"
+      }
     }
   ],
   "Q6170903": [
@@ -2010,7 +2063,13 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales",
+        "P580": "1971-07-01",
+        "P582": "1989-02-27",
+        "P1366": "John Faulkner"
+      }
     }
   ],
   "Q7032631": [
@@ -2637,7 +2696,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales",
+        "P580": "2008-07-01"
+      }
     }
   ],
   "Q24598": [
