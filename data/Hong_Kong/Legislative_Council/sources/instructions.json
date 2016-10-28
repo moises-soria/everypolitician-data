@@ -6,6 +6,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/term-6.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/hong_kong_legislative_council_members",
+        "query": "SELECT *, REPLACE(id,'yr16-20/','') AS id FROM data ORDER BY id"
+      },
+      "source": "http://www.legco.gov.hk/",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
