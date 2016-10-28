@@ -4379,12 +4379,20 @@
         "slug": "Legislative-Council",
         "sources_directory": "data/Hong_Kong/Legislative_Council/sources",
         "popolo": "data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/28e1eac120abab0a4b71a7c77d03028147c7b904/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8f5bbe5bfce2f4b538c59770de49dbffcff807c2/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
         "names": "data/Hong_Kong/Legislative_Council/names.csv",
-        "lastmod": "1477565555",
-        "person_count": 71,
-        "sha": "28e1eac120abab0a4b71a7c77d03028147c7b904",
+        "lastmod": "1477635284",
+        "person_count": 98,
+        "sha": "8f5bbe5bfce2f4b538c59770de49dbffcff807c2",
         "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "Sixth Legislative Council",
+            "start_date": "2016-10-01",
+            "slug": "6",
+            "csv": "data/Hong_Kong/Legislative_Council/term-6.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/31c954e5992f4e82c1fb4cd418376f23ac676c58/data/Hong_Kong/Legislative_Council/term-6.csv"
+          },
           {
             "end_date": "2016-09-30",
             "id": "term/5",
@@ -4392,10 +4400,10 @@
             "start_date": "2012-10-01",
             "slug": "5",
             "csv": "data/Hong_Kong/Legislative_Council/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0fc6473d50310b8facdc01fc380fb1dbd5dfae9a/data/Hong_Kong/Legislative_Council/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aea5e11cd92c7ab9f7be934bfdec000e18179666/data/Hong_Kong/Legislative_Council/term-5.csv"
           }
         ],
-        "statement_count": 5943,
+        "statement_count": 7988,
         "type": "unicameral legislature"
       }
     ]
