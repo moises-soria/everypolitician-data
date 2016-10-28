@@ -7613,12 +7613,20 @@
         "slug": "House",
         "sources_directory": "data/Philippines/House/sources",
         "popolo": "data/Philippines/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/772d20d18f1571580ca4b15044b2d0ceb8fa7ae5/data/Philippines/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4cb54ee7cf262e6b5f24025bc49c60457966dc9e/data/Philippines/House/ep-popolo-v1.0.json",
         "names": "data/Philippines/House/names.csv",
-        "lastmod": "1477503183",
-        "person_count": 295,
-        "sha": "772d20d18f1571580ca4b15044b2d0ceb8fa7ae5",
+        "lastmod": "1477565252",
+        "person_count": 431,
+        "sha": "4cb54ee7cf262e6b5f24025bc49c60457966dc9e",
         "legislative_periods": [
+          {
+            "id": "term/17",
+            "name": "17th Congress of the Philippines",
+            "start_date": "2016-07-25",
+            "slug": "17",
+            "csv": "data/Philippines/House/term-17.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4cb54ee7cf262e6b5f24025bc49c60457966dc9e/data/Philippines/House/term-17.csv"
+          },
           {
             "end_date": "2016-06-30",
             "id": "term/16",
@@ -7626,10 +7634,10 @@
             "start_date": "2013-06-30",
             "slug": "16",
             "csv": "data/Philippines/House/term-16.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/772d20d18f1571580ca4b15044b2d0ceb8fa7ae5/data/Philippines/House/term-16.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4cb54ee7cf262e6b5f24025bc49c60457966dc9e/data/Philippines/House/term-16.csv"
           }
         ],
-        "statement_count": 8914,
+        "statement_count": 12238,
         "type": "lower house"
       }
     ]
