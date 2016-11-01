@@ -26,6 +26,7 @@ gem 'require_all'
 gem 'close_old_pull_requests', github: 'everypolitician/close_old_pull_requests'
 gem 'everypolitician-pull_request', github: 'everypolitician/everypolitician-pull_request'
 gem 'everypolitician-dataview-terms', github: 'everypolitician/everypolitician-dataview-terms'
+gem 'csvlint'
 
 group :test do
   gem 'minitest'
@@ -34,5 +35,4 @@ group :test do
   gem 'webmock'
   gem 'rubocop'
   gem 'flog'
-  gem 'csvlint'
 end
