@@ -16,7 +16,7 @@ ordering = drilldown.reject { |r| r.count < 5 }.
 
 EveryPolitician.countries_json = 'countries.json'
 
-data = EveryPolitician.countries.map do |c|
+data = EveryPolitician::Index.new.countries.map do |c|
   # TODO: accept an argument for whether we want all legislatures
   # For now only show the largest in a country
   c.legislatures.sort_by(&:person_count).reverse.take(1).map do |l|
