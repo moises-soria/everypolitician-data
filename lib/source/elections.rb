@@ -18,6 +18,7 @@ module Source
           name:           name[:name],
           start_date:     dates.first,
           end_date:       dates.last,
+          identifiers:    [{ identifier: id, scheme: 'wikidata' }],
           classification: 'general election',
         }
       end.compact
