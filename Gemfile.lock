@@ -14,9 +14,9 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-popolo.git
-  revision: 3b3b7abc6d3ed4fc6cd4d3295e4f019219e568bf
+  revision: 40dc460d8340df9ae78469b755ce73b4fd074ce3
   specs:
-    everypolitician-popolo (0.7.0)
+    everypolitician-popolo (0.8.0)
       require_all
 
 GIT
@@ -30,10 +30,10 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-ruby.git
-  revision: 3ebe575c1d8a3729440096842264d9c0201e0b06
+  revision: 20582b1512358a0e8789ea289201e37ab5f085c2
   specs:
-    everypolitician (0.18.0)
-      everypolitician-popolo
+    everypolitician (0.20.0)
+      everypolitician-popolo (>= 0.8.0)
       require_all
 
 GIT
@@ -181,7 +181,7 @@ DEPENDENCIES
   csvlint
   everypolitician!
   everypolitician-dataview-terms!
-  everypolitician-popolo (~> 0.7.0)!
+  everypolitician-popolo!
   everypolitician-pull_request!
   facebook_username_extractor (~> 0.2.0)
   flog
