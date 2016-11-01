@@ -204,10 +204,12 @@ namespace :transform do
   task group_wikidata: :load do
     @INSTRUCTIONS.sources_of_type('group').each do |src|
       src.to_popolo[:organizations].each do |org|
-        @json[:organizations].select do |o|
+        matched = @json[:organizations].select do |o|
           o[:classification] == 'party' &&
-          o[:id].split('/').last == org[:id].split('/').last
-        end.each do |existing|
+          o[:id].split('/').last.downcase == org[:id].split('/').last.downcase
+        end
+        warn "Party #{org[:id]} not in Popolo" unless matched.any?
+        matched.each do |existing|
           existing.merge!(org) do |key, old, new|
             key == :id ? old : new
           end
