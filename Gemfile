@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-abort 'Ruby should be >= 2.1.0' unless RUBY_VERSION.to_f >= 2.1
+abort 'Ruby should be >= 2.3' unless RUBY_VERSION.to_f >= 2.3
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 
 gem 'json'
@@ -34,4 +34,5 @@ group :test do
   gem 'webmock'
   gem 'rubocop'
   gem 'flog'
+  gem 'csvlint'
 end
