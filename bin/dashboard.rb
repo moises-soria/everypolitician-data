@@ -16,34 +16,30 @@ ordering = drilldown.reject { |r| r.count < 5 }.
 
 EveryPolitician.countries_json = 'countries.json'
 
-data = EveryPolitician::Index.new.countries.map do |c|
-  # TODO: accept an argument for whether we want all legislatures
-  # For now only show the largest in a country
-  c.legislatures.sort_by(&:person_count).reverse.take(1).map do |l|
-    statsfile = File.join(File.dirname(l.raw_data[:popolo]), 'unstable/stats.json')
-    raise "No statsfile for #{c[:name]}/#{l[:name]}" unless File.exist? statsfile
-    stats = JSON.parse(open(statsfile).read, symbolize_names: true)
+data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
+  statsfile = File.join(File.dirname(l.raw_data[:popolo]), 'unstable/stats.json')
+  raise "No statsfile for #{l.country.name}/#{l.name}" unless File.exist? statsfile
+  stats = JSON.parse(open(statsfile).read, symbolize_names: true)
 
-    now = DateTime.now.to_date
-    last_build = Time.at(l.lastmod.to_i).to_date
+  now = DateTime.now.to_date
+  last_build = Time.at(l.lastmod.to_i).to_date
 
-    {
-      posn:                (ordering[c.slug.downcase] || 999) + 1,
-      country:             c.name,
-      legislature:         l.name,
-      lastmod:             last_build.to_s,
-      ago:                 (now - last_build).to_i,
-      people:              stats[:people][:count],
-      wikidata:            stats[:people][:wikidata],
-      parties:             stats[:groups][:count],
-      wd_parties:          stats[:groups][:wikidata],
-      terms:               l.legislative_periods.count,
-      elections:           stats[:elections][:count],
-      latest_term:         l.legislative_periods.first.raw_data[:start_date],
-      latest_election:     stats[:elections][:latest],
-      executive_positions: stats[:positions][:executive],
-    }
-  end
+  {
+    posn:                (ordering[l.country.slug.downcase] || 999) + 1,
+    country:             l.country.name,
+    legislature:         l.name,
+    lastmod:             last_build.to_s,
+    ago:                 (now - last_build).to_i,
+    people:              stats[:people][:count],
+    wikidata:            stats[:people][:wikidata],
+    parties:             stats[:groups][:count],
+    wd_parties:          stats[:groups][:wikidata],
+    terms:               l.legislative_periods.count,
+    elections:           stats[:elections][:count],
+    latest_term:         l.legislative_periods.first.raw_data[:start_date],
+    latest_election:     stats[:elections][:latest],
+    executive_positions: stats[:positions][:executive],
+  }
 end.flatten
 
 puts data.first.keys.to_csv
