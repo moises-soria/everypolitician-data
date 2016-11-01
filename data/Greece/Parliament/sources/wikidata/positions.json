@@ -4011,28 +4011,52 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
       "qualifiers": {
-        "P768": "Q12876837"
+        "P768": "Q12876837",
+        "P580": "2000",
+        "P582": "2015",
+        "P642": "New Democracy"
       }
     },
     {
       "id": "Q19858443",
       "label": "Minister of National Education and Religious Affairs of Greece",
-      "title": "Minister of National Education and Religious Affairs of Greece",
-      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009"
+      "title": "Minister of National Education and Religious Affairs of Greece (of Second Cabinet of Kostas Karamanlis)",
+      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009",
+      "qualifiers": {
+        "P580": "2007-09-19",
+        "P582": "2009-01-07",
+        "P1365": "Marietta Giannakou",
+        "P1366": "Aris Spiliotopoulos",
+        "P642": "Second Cabinet of Kostas Karamanlis"
+      }
     },
     {
       "id": "Q19904387",
       "label": "Minister of Transports and Communications of Greece",
-      "title": "Minister of Transports and Communications of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Transports and Communications of Greece (of Second Cabinet of Kostas Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2009-01-07",
+        "P582": "2009-10-07",
+        "P1365": "Kostis Chatzidakis",
+        "P1366": "Dimitris Reppas",
+        "P642": "Second Cabinet of Kostas Karamanlis"
+      }
     },
     {
-      "id": "Q23901442",
-      "label": "Minister of Education of Greece",
-      "title": "Minister of Education of Greece",
-      "description": "Greek government minister"
+      "id": "Q23640242",
+      "label": "Q23640242",
+      "title": "Q23640242 (of First Cabinet of Kostas Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "2004-03-18",
+        "P582": "2007-09-19",
+        "P1365": "Andreas Loverdos",
+        "P1366": "Giannis Valinakis",
+        "P642": "First Cabinet of Kostas Karamanlis"
+      }
     }
   ],
   "Q3567236": [
@@ -5036,7 +5060,7 @@
       "qualifiers": {
         "P580": "2004-03-10",
         "P582": "2006-02-04",
-        "P1365": "Q16327194",
+        "P1365": "Constantinos Stefanis",
         "P1366": "Dimitris Avramopoulos",
         "P642": "First Cabinet of Kostas Karamanlis"
       }

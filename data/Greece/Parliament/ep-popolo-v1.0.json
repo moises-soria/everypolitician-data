@@ -12630,7 +12630,7 @@
         },
         {
           "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Pyrros_Dimas"
+          "url": "https://it.wikipedia.org/wiki/Pyrros_Dīmas"
         },
         {
           "note": "Wikipedia (ko)",
@@ -18156,10 +18156,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.hellenicparliament.gr/UserFiles/ead3237d-2c71-43a9-b9ae-057fcbd6268d/gerovasiliolga.jpg",
+      "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gerovasiliolga.jpg",
       "images": [
         {
-          "url": "http://www.hellenicparliament.gr/UserFiles/ead3237d-2c71-43a9-b9ae-057fcbd6268d/gerovasiliolga.jpg"
+          "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gerovasiliolga.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/507491219434254336/ERpVAz_2.jpeg"
@@ -29708,10 +29708,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.hellenicparliament.gr/UserFiles/ead3237d-2c71-43a9-b9ae-057fcbd6268d/kollia-tsaroucha.jpg",
+      "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kollia-tsaroucha.jpg",
       "images": [
         {
-          "url": "http://www.hellenicparliament.gr/UserFiles/ead3237d-2c71-43a9-b9ae-057fcbd6268d/kollia-tsaroucha.jpg"
+          "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kollia-tsaroucha.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/645942283691499520/40zuNvTh.jpg"
@@ -37060,6 +37060,10 @@
       "name": "Magkriotis Ioannis",
       "other_names": [
         {
+          "name": "Giannis Mangriotis",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "Янис Магриотис",
           "note": "multilingual"
@@ -37072,6 +37076,11 @@
         {
           "lang": "el",
           "name": "Μαγκριώτης Αστερίου Ιωάννης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Giannis Mangriotis",
           "note": "multilingual"
         }
       ],
@@ -45230,15 +45239,36 @@
       ]
     },
     {
+      "death_date": "1968-10-22",
+      "gender": "male",
       "id": "2ba0d434-0db6-4464-b01f-4aee5124496d",
       "identifiers": [
         {
           "identifier": "600c30d0-db9f-4020-a907-6ca92b1b342a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "600c30d0-db9f-4020-a907-6ca92b1b342a",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q21027732",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νικόλαος_Παπαδάκης"
         }
       ],
       "name": "Papadakis Nikolaos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Νικόλαος Παπαδάκης",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαδάκης Γεωργίου Νικόλαος",
@@ -50061,6 +50091,10 @@
           "scheme": "hellenic_parliament"
         },
         {
+          "identifier": "vi2jm5u5t1zk",
+          "scheme": "parlement"
+        },
+        {
           "identifier": "311427946",
           "scheme": "viaf"
         },
@@ -51064,6 +51098,10 @@
         {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Prokopis_Pavlopulos"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Prokopis_Pavlopoulos"
         },
         {
           "note": "Wikipedia (de)",
@@ -60799,9 +60837,19 @@
     },
     {
       "birth_date": "1966-04-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "e_stylianidis"
+        }
+      ],
       "gender": "male",
       "id": "7344117e-6590-4a48-a1b7-d867399f79c1",
       "identifiers": [
+        {
+          "identifier": "67526",
+          "scheme": "biblionet"
+        },
         {
           "identifier": "ddbf41da-f4e4-4dea-89ba-b9bbfbc6b07b",
           "scheme": "everypolitician_legacy"
@@ -60835,6 +60883,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Evripidis_Stylianidis"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Evripidis_Stylianidis"
         },
@@ -60861,6 +60913,18 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Евріпідіс_Стиліанідіс"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Evripidis.Stylianidis"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/e_stylianidis"
+        },
+        {
+          "note": "website",
+          "url": "http://www.e-stylianidis.gr/"
         }
       ],
       "name": "Stylianidis Evripidis",
@@ -73995,32 +74059,32 @@
       "other_names": [
         {
           "lang": "zh-hans",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hant",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hk",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-cn",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-sg",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-tw",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -74155,7 +74219,7 @@
         },
         {
           "lang": "zh",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -74286,6 +74350,16 @@
         {
           "lang": "tg",
           "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
@@ -110037,7 +110111,8 @@
       "on_behalf_of_id": "topotami",
       "organization_id": "022607c0-5226-487d-8057-862ae73442e6",
       "person_id": "bf425129-9ed1-423f-8c0c-925eb429bf02",
-      "role": "member"
+      "role": "member",
+      "start_date": "2016-10-18"
     },
     {
       "area_id": "area/evia",
