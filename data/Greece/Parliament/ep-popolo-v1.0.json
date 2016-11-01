@@ -45239,15 +45239,36 @@
       ]
     },
     {
+      "death_date": "1968-10-22",
+      "gender": "male",
       "id": "2ba0d434-0db6-4464-b01f-4aee5124496d",
       "identifiers": [
         {
           "identifier": "600c30d0-db9f-4020-a907-6ca92b1b342a",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "600c30d0-db9f-4020-a907-6ca92b1b342a",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q21027732",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Νικόλαος_Παπαδάκης"
         }
       ],
       "name": "Papadakis Nikolaos",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Νικόλαος Παπαδάκης",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Παπαδάκης Γεωργίου Νικόλαος",
