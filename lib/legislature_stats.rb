@@ -45,14 +45,14 @@ class StatsFile
 
   def term_stats
     {
-      count:  terms.count,
-      latest: latest_term_start,
+      count:  popolo.terms.count,
+      latest: popolo.latest_term.start_date,
     }
   end
 
   def election_stats
     {
-      count:  elections.count,
+      count:  popolo.elections.count,
       latest: latest_election_date || '',
     }
   end
@@ -75,22 +75,6 @@ class StatsFile
     people.partition(&:wikidata)
   end
 
-  def events
-    popolo.events
-  end
-
-  def terms
-    events.where(classification: 'legislative period')
-  end
-
-  def latest_term_start
-    terms.last.start_date rescue ''
-  end
-
-  def elections
-    events.where(classification: 'general election')
-  end
-
   def known_parties
     popolo.organizations.where(classification: 'party').reject { |o| o.name.downcase == 'unknown' }
   end
@@ -101,7 +85,7 @@ class StatsFile
 
   def latest_election_date
     # Ignore elections that are in the following year, or later
-    elections.map(&:end_date).compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
+    popolo.elections.map(&:end_date).compact.sort_by { |d| "#{d}-12-31" }.select { |d| d[0...4].to_i <= now.year }.last rescue ''
   end
 
   def cabinet_positions
