@@ -493,15 +493,124 @@
       ],
       "email": "andrej_danko@nrsr.sk",
       "family_name": "Danko",
+      "gender": "male",
       "given_name": "Andrej",
       "id": "96f658c7-6b1a-4095-8873-9a7f218bc309",
+      "identifiers": [
+        {
+          "identifier": "Q13397958",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Andrej_Danko.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Andrej_Danko"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/安德雷·丹科"
         }
       ],
       "name": "Andrej Danko",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrej Danko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安德雷·丹科",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=929&CisObdobia=7"
@@ -582,15 +691,63 @@
       ],
       "email": "andrej_hrnciar@nrsr.sk",
       "family_name": "Hrnčiar",
+      "gender": "male",
       "given_name": "Andrej",
       "id": "5d5f3db3-0442-4a41-b20b-04236e5a7e15",
+      "identifiers": [
+        {
+          "identifier": "Q12762300",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=881&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=881&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrej_Hrnčiar"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andrej_Hrnčiar"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Andrej_Hrnčiar"
+        }
+      ],
       "name": "Andrej Hrnčiar",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Andrej Hrnčiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrej Hrnčiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrej Hrnčiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Андрей Хрнчиар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andrej Hrnčiar",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=881&CisObdobia=7"
@@ -1508,15 +1665,39 @@
       ],
       "email": "anton_hrnko@nrsr.sk",
       "family_name": "Hrnko",
+      "gender": "male",
       "given_name": "Anton",
       "id": "a0a3b309-0a4c-4435-94a6-cdbb8333f3f5",
+      "identifiers": [
+        {
+          "identifier": "Q12762465",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=382&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=382&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Anton_Hrnko"
+        },
+        {
+          "note": "website",
+          "url": "http://www.hrnko.sk/"
+        }
+      ],
       "name": "Anton Hrnko",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Anton Hrnko",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=382&CisObdobia=7"
@@ -2299,15 +2480,67 @@
       ],
       "email": "boris_kollar@nrsr.sk",
       "family_name": "Kollár",
+      "gender": "male",
       "given_name": "Boris",
       "id": "a9091640-8448-4b11-8da4-d997fc9d6c63",
+      "identifiers": [
+        {
+          "identifier": "Q23022210",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=917&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=917&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Boris_Kollár"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Boris_Kollár"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Boris_Kollár"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Boris_Kollár"
+        }
+      ],
       "name": "Boris Kollár",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Boris Kollár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Boris Kollár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Boris Kollár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Boris Kollár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Boris Kollár",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=917&CisObdobia=7"
@@ -4584,15 +4817,127 @@
       ],
       "email": "dusan_tittel@nrsr.sk",
       "family_name": "Tittel",
+      "gender": "male",
       "given_name": "Dušan",
       "id": "5497aa68-c140-4df0-975a-38adab16377d",
+      "identifiers": [
+        {
+          "identifier": "/m/03b_3xb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1268223",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Dušan_Tittel"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dušan_Tittel"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dušan_Tittel"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dušan_Tittel"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Dušan_Tittel"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Dušan_Tittel"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dušan_Tittel"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Dušan_Tittel"
+        }
+      ],
       "name": "Dušan Tittel",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dušan Tittel",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=930&CisObdobia=7"
@@ -5068,6 +5413,10 @@
         {
           "identifier": "54d2a76a273a394ad5dbb8d0",
           "scheme": "parldata"
+        },
+        {
+          "identifier": "Q9250348",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/sk/nrsr/people/54d2a76a273a394ad5dbb8d0/image.jpeg",
@@ -5076,8 +5425,35 @@
           "url": "http://files.parldata.eu/sk/nrsr/people/54d2a76a273a394ad5dbb8d0/image.jpeg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Edita_Pfundtner"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Edita_Pfundtner"
+        }
+      ],
       "name": "Edita Pfundtner",
       "national_identity": "maďarská",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edita Pfundtner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Edita Pfundtner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Edita Pfundtner",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pfundtner, Edita",
       "sources": [
         {
@@ -6022,15 +6398,98 @@
       ],
       "email": "eugen_jurzyca@nrsr.sk",
       "family_name": "Jurzyca",
+      "gender": "male",
       "given_name": "Eugen",
       "id": "b4c691bb-31c5-49b0-8db6-19b14a44ffa8",
+      "identifiers": [
+        {
+          "identifier": "/m/0j440qg",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3059549",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=796&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=796&ImageWidth=140"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Eugen_Jurzyca_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Eugen_Jurzyca"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eugen_Jurzyca"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Eugen_Jurzyca"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Eugen_Jurzyca"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Eugen_Jurzyca"
         }
       ],
       "name": "Eugen Jurzyca",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Eugen Jurzyca",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=796&CisObdobia=7"
@@ -6903,6 +7362,11 @@
         },
         {
           "lang": "fr",
+          "name": "František Tóth",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "František Tóth",
           "note": "multilingual"
         },
@@ -14148,6 +14612,10 @@
         {
           "identifier": "54d2a817273a394ad5dbc3b4",
           "scheme": "parldata"
+        },
+        {
+          "identifier": "Q15534106",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/sk/nrsr/people/54d2a817273a394ad5dbc3b4/image.jpeg",
@@ -14156,8 +14624,21 @@
           "url": "http://files.parldata.eu/sk/nrsr/people/54d2a817273a394ad5dbc3b4/image.jpeg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Jozef_Ježík"
+        }
+      ],
       "name": "Jozef Ježík",
       "national_identity": "slovenská",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Jozef Ježík",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ježík, Jozef",
       "sources": [
         {
@@ -14674,15 +15155,99 @@
       ],
       "email": "jozef_mihal@nrsr.sk",
       "family_name": "Mihál",
+      "gender": "male",
       "given_name": "Jozef",
       "id": "330f5263-a35e-45eb-8ca7-c40487b31259",
+      "identifiers": [
+        {
+          "identifier": "/m/0g5r0nf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "122341806",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3133564",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=809&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=809&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jozef_Mihál"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jozef_Mihál"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jozef_Mihál"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jozef_Mihál"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Jozef_Mihál"
+        }
+      ],
       "name": "Jozef Mihál",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Jozef Mihál",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=809&CisObdobia=7"
@@ -19797,15 +20362,35 @@
       ],
       "email": "katarina_machackova@nrsr.sk",
       "family_name": "Macháčková",
+      "gender": "female",
       "given_name": "Katarína",
       "id": "973d4927-0437-4ba4-b160-47a7a6a5875b",
+      "identifiers": [
+        {
+          "identifier": "Q22035594",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=958&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=958&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Katarína_Macháčková"
+        }
+      ],
       "name": "Katarína Macháčková",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Katarína Macháčková",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=958&CisObdobia=7"
@@ -22326,13 +22911,32 @@
       "family_name": "Krajčí",
       "given_name": "Marek",
       "id": "2b82e733-d2b7-4d5f-bbc0-1785c5ecf787",
+      "identifiers": [
+        {
+          "identifier": "Q26198001",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Marek_Krajčí"
+        }
+      ],
       "name": "Marek Krajčí",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Marek Krajčí",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=907&CisObdobia=7"
@@ -22594,19 +23198,177 @@
         {
           "type": "email",
           "value": "marian_kotleba@nrsr.sk"
+        },
+        {
+          "type": "twitter",
+          "value": "MarianKotleba"
         }
       ],
       "email": "marian_kotleba@nrsr.sk",
       "family_name": "Kotleba",
+      "gender": "male",
       "given_name": "Marian",
       "id": "4cab336f-3a4c-45f7-82ab-4f193c08469f",
+      "identifiers": [
+        {
+          "identifier": "/m/0zdr_rc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q12035354",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=944&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=944&ImageWidth=140"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Marian_Kotleba.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Мариан_Котлеба"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Мариан_Котелба"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (skwikiquote)",
+          "url": "https://skwikiquote.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Marian_Kotleba"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarianKotleba"
         }
       ],
       "name": "Marian Kotleba",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Мариан Котлеба",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мариан Котлеба",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Marian Kotleba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "馬里安·寇特勒巴",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=944&CisObdobia=7"
@@ -24215,15 +24977,38 @@
       ],
       "email": "martin_klus@nrsr.sk",
       "family_name": "Klus",
+      "gender": "male",
       "given_name": "Martin",
       "id": "33a0b2fd-f878-4a2b-b26e-beceb1f2aff9",
+      "identifiers": [
+        {
+          "identifier": "Q20982300",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=963&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=963&ImageWidth=140"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Martin_Klus_2014.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Martin_Klus"
         }
       ],
       "name": "Martin Klus",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Martin Klus",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=963&CisObdobia=7"
@@ -24568,13 +25353,32 @@
       "family_name": "Šimkovičová",
       "given_name": "Martina",
       "id": "ed931aa4-b637-4ffe-89b3-7a1e7938aaba",
+      "identifiers": [
+        {
+          "identifier": "Q24081464",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=918&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=918&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Martina_Šimkovičová"
+        }
+      ],
       "name": "Martina Šimkovičová",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Martina Šimkovičová",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=918&CisObdobia=7"
@@ -28889,13 +29693,32 @@
       "family_name": "Žarnay",
       "given_name": "Oto",
       "id": "2babfc66-5962-4264-95b8-d73e1aa7e769",
+      "identifiers": [
+        {
+          "identifier": "Q23712873",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=908&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=908&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Oto_Žarnay"
+        }
+      ],
       "name": "Oto Žarnay",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Oto Žarnay",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=908&CisObdobia=7"
@@ -31163,16 +31986,45 @@
         {
           "identifier": "54d2a4d1273a394ad5db9848",
           "scheme": "parldata"
+        },
+        {
+          "identifier": "Q13426159",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/sk/nrsr/people/54d2a4d1273a394ad5db9848/image.jpeg",
       "images": [
         {
           "url": "http://files.parldata.eu/sk/nrsr/people/54d2a4d1273a394ad5db9848/image.jpeg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Peter_Chudík_-_(jan._2012).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Peter_Chudík"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Peter_Chudík"
         }
       ],
       "name": "Peter Chudík",
       "national_identity": "slovenská",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Peter Chudík",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Peter Chudík",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Chudík, Peter",
       "sources": [
         {
@@ -38012,15 +38864,141 @@
       ],
       "email": "tibor_jancula@nrsr.sk",
       "family_name": "Jančula",
+      "gender": "male",
       "given_name": "Tibor",
       "id": "0a765565-cfc8-42c4-ac96-315c27156c13",
+      "identifiers": [
+        {
+          "identifier": "/m/04yg9vr",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q874272",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=978&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=978&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Tibor_Jančula"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tibor_Jančula_(Fußballspieler,_1969)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tibor_Jančula"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Tibor_Jančula"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Tibor_Jančula"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Tibor_Jančula"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Tibor_Jančula"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Tibor_Jančula"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Tibor_Jančula"
+        }
+      ],
       "name": "Tibor Jančula",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tibor Jančula",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=978&CisObdobia=7"
@@ -38467,13 +39445,32 @@
       "family_name": "Remišová",
       "given_name": "Veronika",
       "id": "062ca50c-2149-4b34-b28d-e545e11a151d",
+      "identifiers": [
+        {
+          "identifier": "Q26837632",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Veronika_Remišová"
+        }
+      ],
       "name": "Veronika Remišová",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Veronika Remišová",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=905&CisObdobia=7"
@@ -38490,15 +39487,42 @@
       ],
       "email": "viera_dubacova@nrsr.sk",
       "family_name": "Dubačová",
+      "gender": "female",
       "given_name": "Viera",
       "id": "580440f8-ab17-49b8-9343-0d715cd6074e",
+      "identifiers": [
+        {
+          "identifier": "Q13473255",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=911&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=911&ImageWidth=140"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Viera_Dubačová_(2013).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Viera_Dubačová"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Viera_Dubačová"
         }
       ],
       "name": "Viera Dubačová",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Viera Dubačová",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=911&CisObdobia=7"
@@ -43041,6 +44065,10 @@
         {
           "identifier": "54d2a696273a394ad5dbad1a",
           "scheme": "parldata"
+        },
+        {
+          "identifier": "Q27555564",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/sk/nrsr/people/54d2a696273a394ad5dbad1a/image.jpeg",
@@ -43049,8 +44077,21 @@
           "url": "http://files.parldata.eu/sk/nrsr/people/54d2a696273a394ad5dbad1a/image.jpeg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Ľubomír_Petrák"
+        }
+      ],
       "name": "Ľubomír Petrák",
       "national_identity": "slovenská",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Ľubomír Petrák",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Petrák, Ľubomír",
       "sources": [
         {
