@@ -636,7 +636,7 @@
       "id": "Q6867517",
       "label": "Ministry of Rural Development",
       "title": "Ministry of Rural Development",
-      "description": "agriculture ministry of India",
+      "description": "ministry of infrastructure, social and economic development of sparsely populated areas of India",
       "qualifiers": {
         "P580": "2014-05-26",
         "P1365": "Jairam Ramesh",
@@ -1138,6 +1138,15 @@
       "id": "Q18039836",
       "label": "Member of the Uttar Pradesh Legislative Assembly",
       "title": "Member of the Uttar Pradesh Legislative Assembly"
+    },
+    {
+      "id": "Q3440901",
+      "label": "Minister of Home Affairs",
+      "title": "Minister of Home Affairs",
+      "description": "head of the Ministry of Home Affairs in India",
+      "qualifiers": {
+        "P580": "2014-05-26"
+      }
     }
   ],
   "Q5657150": [
@@ -1660,7 +1669,39 @@
     {
       "id": "Q16556694",
       "label": "member of the Lok Sabha",
-      "title": "member of the Lok Sabha"
+      "title": "member of the Lok Sabha",
+      "qualifiers": {
+        "P1365": "Avtar Singh Bhadana",
+        "P580": "2014-05-26"
+      }
+    },
+    {
+      "id": "Q4294719",
+      "label": "Ministry of Shipping",
+      "title": "Ministry of Shipping",
+      "qualifiers": {
+        "P580": "2014-05-26",
+        "P1366": "Pon Radhakrishnan",
+        "P582": "2014-11-26"
+      }
+    },
+    {
+      "id": "Q4294701",
+      "label": "Ministry of Social Justice and Empowerment",
+      "title": "Ministry of Social Justice and Empowerment",
+      "qualifiers": {
+        "P580": "2014-11-26"
+      }
+    },
+    {
+      "id": "Q167156",
+      "label": "Ministry of Road Transport and Highways",
+      "title": "Ministry of Road Transport and Highways",
+      "description": "government ministry in India",
+      "qualifiers": {
+        "P580": "2014-05-26",
+        "P582": "2014-11-26"
+      }
     }
   ],
   "Q16910499": [
