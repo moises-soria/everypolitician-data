@@ -2857,6 +2857,7 @@
       ]
     },
     {
+      "birth_date": "1972-12-10",
       "contact_details": [
         {
           "type": "email",
@@ -2869,20 +2870,65 @@
       ],
       "email": "dep.andersonferreira@camara.leg.br",
       "gender": "male",
+      "given_name": "Anderson",
       "id": "6971100b-6149-4083-bc63-2e6188f40782",
       "identifiers": [
         {
           "identifier": "5830422",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16336529",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160551.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160551.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Deputado_Anderson_Ferreira.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Anderson_Ferreira"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Anderson_Ferreira"
         }
       ],
       "name": "ANDERSON FERREIRA",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Anderson Ferreira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anderson Ferreira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anderson Ferreira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Anderson Ferreira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Anderson Ferreira",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=189103&tipo=0"
@@ -46990,6 +47036,10 @@
         {
           "identifier": "5830662",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25441129",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178945.jpg",
@@ -46998,7 +47048,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178945.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Rosângela_Gomes"
+        }
+      ],
       "name": "ROSANGELA GOMES",
+      "other_names": [
+        {
+          "name": "Rosângela Gomes",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Rosângela Gomes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Rosângela Gomes",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195913&tipo=0"
