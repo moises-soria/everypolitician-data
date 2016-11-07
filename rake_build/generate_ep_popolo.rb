@@ -123,6 +123,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   def unknown_party
     if unknown = @json[:organizations].find { |o| o[:classification] == 'party' && o[:name].downcase == 'unknown' }
+      unknown[:id] = "party/_unknown" if unknown[:id].to_s.empty?
       return unknown
     end
     unknown = {
