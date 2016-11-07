@@ -2635,13 +2635,25 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales",
+        "P580": "2013-11-13",
+        "P1365": "Bob Carr"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Robertson",
+        "P580": "2010-08-21",
+        "P582": "2013-09-07",
+        "P1365": "Belinda Neal",
+        "P1366": "Lucy Wicks"
+      }
     }
   ],
   "Q7028174": [
@@ -2825,13 +2837,23 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Victoria",
+        "P580": "2008-07-01",
+        "P582": "2013-08-12"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Batman",
+        "P580": "2013-09-07",
+        "P1365": "Martin Ferguson"
+      }
     }
   ],
   "Q3339775": [
@@ -3060,7 +3082,8 @@
       "title": "member of the Australian Senate",
       "description": "Representative",
       "qualifiers": {
-        "P580": "2014-07-01"
+        "P580": "2014-07-01",
+        "P768": "Tasmania"
       }
     }
   ],
