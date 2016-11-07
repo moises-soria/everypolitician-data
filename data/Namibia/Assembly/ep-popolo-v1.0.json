@@ -14625,7 +14625,7 @@
     },
     {
       "classification": "party",
-      "id": "",
+      "id": "party/_unknown",
       "name": "unknown"
     }
   ],
@@ -14995,7 +14995,7 @@
     },
     {
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
       "person_id": "15ed10e8-0104-4918-ab0a-b098b4181303",
       "role": "member"
@@ -18739,6 +18739,12 @@
       "classification": "general election",
       "end_date": "1994",
       "id": "Q2115181",
+      "identifiers": [
+        {
+          "identifier": "Q2115181",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Namibian general election, 1994",
       "start_date": "1994"
     },
@@ -18754,6 +18760,12 @@
       "classification": "general election",
       "end_date": "1999",
       "id": "Q387133",
+      "identifiers": [
+        {
+          "identifier": "Q387133",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Namibian general election, 1999",
       "start_date": "1999"
     },
@@ -18769,6 +18781,12 @@
       "classification": "general election",
       "end_date": "2004-11-15",
       "id": "Q1691999",
+      "identifiers": [
+        {
+          "identifier": "Q1691999",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Namibian general election, 2004",
       "start_date": "2004-11-15"
     },
@@ -18784,6 +18802,12 @@
       "classification": "general election",
       "end_date": "2009-11-27",
       "id": "Q1548885",
+      "identifiers": [
+        {
+          "identifier": "Q1548885",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Namibian general election",
       "start_date": "2009-11-27"
     },
@@ -18799,6 +18823,12 @@
       "classification": "general election",
       "end_date": "2014-11-28",
       "id": "Q1262662",
+      "identifiers": [
+        {
+          "identifier": "Q1262662",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Namibian general election, 2014",
       "start_date": "2014-11-28"
     },

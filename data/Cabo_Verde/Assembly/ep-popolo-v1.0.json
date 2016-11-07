@@ -2703,7 +2703,7 @@
     },
     {
       "classification": "party",
-      "id": "",
+      "id": "party/_unknown",
       "name": "unknown"
     }
   ],
@@ -3435,7 +3435,7 @@
     },
     {
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
       "person_id": "b346526c-6679-411b-9656-5ad2bc6493ed",
       "role": "member"
@@ -3902,6 +3902,12 @@
       "classification": "general election",
       "end_date": "1975",
       "id": "Q3586973",
+      "identifiers": [
+        {
+          "identifier": "Q3586973",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 1975",
       "start_date": "1975"
     },
@@ -3909,6 +3915,12 @@
       "classification": "general election",
       "end_date": "1980",
       "id": "Q3586972",
+      "identifiers": [
+        {
+          "identifier": "Q3586972",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 1980",
       "start_date": "1980"
     },
@@ -3916,6 +3928,12 @@
       "classification": "general election",
       "end_date": "1985",
       "id": "Q3586975",
+      "identifiers": [
+        {
+          "identifier": "Q3586975",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 1985",
       "start_date": "1985"
     },
@@ -3923,6 +3941,12 @@
       "classification": "general election",
       "end_date": "1991",
       "id": "Q3586976",
+      "identifiers": [
+        {
+          "identifier": "Q3586976",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 1991",
       "start_date": "1991"
     },
@@ -3930,6 +3954,12 @@
       "classification": "general election",
       "end_date": "1995",
       "id": "Q3586977",
+      "identifiers": [
+        {
+          "identifier": "Q3586977",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 1995",
       "start_date": "1995"
     },
@@ -3937,6 +3967,12 @@
       "classification": "general election",
       "end_date": "2001",
       "id": "Q3586978",
+      "identifiers": [
+        {
+          "identifier": "Q3586978",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 2001",
       "start_date": "2001"
     },
@@ -3944,6 +3980,12 @@
       "classification": "general election",
       "end_date": "2006",
       "id": "Q1458765",
+      "identifiers": [
+        {
+          "identifier": "Q1458765",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 2006",
       "start_date": "2006"
     },
@@ -3951,6 +3993,12 @@
       "classification": "general election",
       "end_date": "2011-02-06",
       "id": "Q1582316",
+      "identifiers": [
+        {
+          "identifier": "Q1582316",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 2011",
       "start_date": "2011-02-06"
     },
@@ -3966,6 +4014,12 @@
       "classification": "general election",
       "end_date": "2016-03-20",
       "id": "Q22669623",
+      "identifiers": [
+        {
+          "identifier": "Q22669623",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cape Verdean parliamentary election, 2016",
       "start_date": "2016-03-20"
     },
