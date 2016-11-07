@@ -1490,11 +1490,17 @@
         }
       ],
       "email": "fmutati@parliament.gov.zm",
+      "gender": "male",
+      "given_name": "Felix",
       "id": "2c5b4f3e-5458-42f3-9e60-5bddfcb84dac",
       "identifiers": [
         {
           "identifier": "353",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1403691",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Felix%20Mutati.JPG?itok=o4CtaqBH",
@@ -1503,7 +1509,52 @@
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Felix%20Mutati.JPG?itok=o4CtaqBH"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Felix_Mutati"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Felix_Mutati"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Felix_Mutati"
+        }
+      ],
       "name": "Felix C Mutati",
+      "other_names": [
+        {
+          "name": "Felix Mutati",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Felix Mutati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Felix Mutati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Felix Mutati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Felix Mutati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Felix Mutati",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/members-of-parliament/page/2/0"
