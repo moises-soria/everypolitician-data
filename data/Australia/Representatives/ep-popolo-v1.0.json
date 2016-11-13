@@ -2879,6 +2879,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265967/upload_ref_binary/265967.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265967/upload_ref_binary/265967.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -13237,7 +13243,7 @@
     },
     {
       "family_name": "Husar",
-      "gender": "male",
+      "gender": "female",
       "given_name": "Emma",
       "id": "28b9974b-fbeb-4a4c-9265-c7e117d664bc",
       "identifiers": [
@@ -52223,7 +52229,96 @@
     {
       "classification": "party",
       "id": "party/liberal_national_party",
-      "name": "Liberal National Party"
+      "identifiers": [
+        {
+          "identifier": "Q1822905",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.lnp.org.au/"
+        }
+      ],
+      "name": "Liberal National Party",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Либеральная национальная партия Квинсленда",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral national du Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal National Party of Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liberal National Party of Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Liberale Nationalpartei (Queensland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Liberal National Party of Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Liberale Nationalpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Liberal National Party of Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Liberal National Party of Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Queensland Chū-iû Kok-ka Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "昆士蘭自由國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "퀸즐랜드 자유국민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Liberal National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "LNP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "The Liberal National Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -52788,7 +52883,46 @@
     {
       "classification": "party",
       "id": "party/nick_xenophon_team",
-      "name": "Nick Xenophon Team"
+      "identifiers": [
+        {
+          "identifier": "Q19876280",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://nxt.org.au/"
+        }
+      ],
+      "name": "Nick Xenophon Team",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nick Xenophon Team",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼克·瑟諾芬團隊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "닉 제노폰팀",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "NXT",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nick Xenophon Group",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
