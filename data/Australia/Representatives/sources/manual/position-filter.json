@@ -294,8 +294,7 @@
       {
         "id": "Q27230596",
         "name": "Premier of South Australia",
-        "description": "head of government for the state of South Australia, Australia",
-        "count": 1
+        "description": "head of government for the state of South Australia, Australia"
       }
     ],
     "cabinet": [
@@ -303,5 +302,13 @@
     ]
   },
   "unknown": {
+    "unknown": [
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "description": "head of municipal government such as a town or city",
+        "count": 1
+      }
+    ]
   }
 }
