@@ -27397,6 +27397,17 @@
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament"
+    },
+    {
+      "id": "Q449319",
+      "label": "Public Prosecutor General",
+      "title": "Public Prosecutor General",
+      "description": "federal prosecutor of Germany",
+      "qualifiers": {
+        "P580": "1956-04-01",
+        "P582": "1961-10-26",
+        "P1366": "Wolfgang Fränkel"
+      }
     }
   ],
   "Q1929216": [
@@ -29700,6 +29711,17 @@
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament"
+    }
+  ],
+  "Q25906244": [
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2016-09-01"
+      }
     }
   ],
   "Q1705672": [
