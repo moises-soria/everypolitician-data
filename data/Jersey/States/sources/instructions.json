@@ -13,7 +13,8 @@
     {
       "file": "manual/members.csv",
       "source": "http://www.statesassembly.gov.je",
-      "type": "membership"
+      "type": "membership",
+      "reuse_ids": false
     },
     {
       "file": "manual/terms.csv",
