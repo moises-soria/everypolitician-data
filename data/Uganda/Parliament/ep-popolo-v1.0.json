@@ -3679,7 +3679,7 @@
     {
       "gender": "male",
       "id": "2ac9dd25-ed32-454a-bddf-85e60314b9fc",
-      "name": "Charles Illukori"
+      "name": "Charles Ilukor"
     },
     {
       "contact_details": [
@@ -8818,7 +8818,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Aidah_Nantaba"
+          "url": "https://en.wikipedia.org/wiki/Idah_Nantaba"
         },
         {
           "note": "facebook",
@@ -21002,6 +21002,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0fh9qw",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q1740843",
           "scheme": "wikidata"
         }
@@ -21051,6 +21055,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Ruhakana_Rugunda"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ruhakana_Rugunda"
         },
         {
           "note": "Wikipedia (pl)",
@@ -21127,6 +21135,11 @@
         {
           "lang": "ja",
           "name": "ルハカナ・ルグンダ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Ruhakana Rugunda",
           "note": "multilingual"
         },
         {
@@ -25892,32 +25905,32 @@
       "other_names": [
         {
           "lang": "zh-hans",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hant",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hk",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-cn",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-sg",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-tw",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -26052,7 +26065,7 @@
         },
         {
           "lang": "zh",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -26183,6 +26196,16 @@
         {
           "lang": "tg",
           "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
@@ -28666,7 +28689,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_island",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_island",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -28858,7 +28881,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -29858,7 +29881,7 @@
     {
       "area_id": "ocd-division/country:ug/region:eastern/subregion:teso/district:bukedea",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "NRM",
+      "on_behalf_of_id": "INDEP",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
       "person_id": "6a925516-82f8-45f7-a69b-059083e25fc2",
       "post_id": "woman_representative",
@@ -33511,6 +33534,12 @@
       "classification": "general election",
       "end_date": "1958",
       "id": "Q1553721",
+      "identifiers": [
+        {
+          "identifier": "Q1553721",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 1958",
       "start_date": "1958"
     },
@@ -33518,6 +33547,12 @@
       "classification": "general election",
       "end_date": "1961",
       "id": "Q7877682",
+      "identifiers": [
+        {
+          "identifier": "Q7877682",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 1961",
       "start_date": "1961"
     },
@@ -33525,6 +33560,12 @@
       "classification": "general election",
       "end_date": "1962",
       "id": "Q7877683",
+      "identifiers": [
+        {
+          "identifier": "Q7877683",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 1962",
       "start_date": "1962"
     },
@@ -33532,6 +33573,12 @@
       "classification": "general election",
       "end_date": "1980",
       "id": "Q7877684",
+      "identifiers": [
+        {
+          "identifier": "Q7877684",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 1980",
       "start_date": "1980"
     },
@@ -33539,6 +33586,12 @@
       "classification": "general election",
       "end_date": "1989",
       "id": "Q7877685",
+      "identifiers": [
+        {
+          "identifier": "Q7877685",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 1989",
       "start_date": "1989"
     },
@@ -33546,6 +33599,12 @@
       "classification": "general election",
       "end_date": "1994",
       "id": "Q7877673",
+      "identifiers": [
+        {
+          "identifier": "Q7877673",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan Constituent Assembly election, 1994",
       "start_date": "1994"
     },
@@ -33553,6 +33612,12 @@
       "classification": "general election",
       "end_date": "1996",
       "id": "Q7877692",
+      "identifiers": [
+        {
+          "identifier": "Q7877692",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan parliamentary election, 1996",
       "start_date": "1996"
     },
@@ -33560,6 +33625,12 @@
       "classification": "general election",
       "end_date": "2001",
       "id": "Q7877693",
+      "identifiers": [
+        {
+          "identifier": "Q7877693",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan parliamentary election, 2001",
       "start_date": "2001"
     },
@@ -33567,6 +33638,12 @@
       "classification": "general election",
       "end_date": "2006",
       "id": "Q1668903",
+      "identifiers": [
+        {
+          "identifier": "Q1668903",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 2006",
       "start_date": "2006"
     },
@@ -33574,6 +33651,12 @@
       "classification": "general election",
       "end_date": "2011",
       "id": "Q1164175",
+      "identifiers": [
+        {
+          "identifier": "Q1164175",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 2011",
       "start_date": "2011"
     },
@@ -33589,6 +33672,12 @@
       "classification": "general election",
       "end_date": "2016-02-18",
       "id": "Q22276503",
+      "identifiers": [
+        {
+          "identifier": "Q22276503",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ugandan general election, 2016",
       "start_date": "2016-02-18"
     },
@@ -34337,13 +34426,13 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_island",
-      "name": "Bukooli Islands County",
+      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_north",
+      "name": "Bukooli County North",
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_north",
-      "name": "Bukooli County North",
+      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
+      "name": "Bukooli County South",
       "type": "constituency"
     },
     {
@@ -34498,12 +34587,12 @@
     },
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_island",
-      "name": "Bukooli Island",
+      "name": "Bukooli Islands County",
       "type": "constituency"
     },
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
-      "name": "Bukooli County South",
+      "name": "Bukooli South",
       "type": "constituency"
     },
     {
