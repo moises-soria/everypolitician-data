@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/libya-house-of-representatives",
-        "query": "SELECT * FROM data"
+        "query": "SELECT name, area, image, party, term, end_date FROM data ORDER BY name"
       },
       "source": "https://www.temehu.com",
       "type": "membership"
