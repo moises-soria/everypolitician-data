@@ -636,6 +636,7 @@
       "birth_date": "1972-05-14",
       "family_name": "Asante",
       "gender": "female",
+      "given_name": "Amma",
       "id": "e96180ac-d384-48be-8578-4f11a869f65f",
       "identifiers": [
         {
@@ -651,8 +652,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/50._Amma_Asante.jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8353_0.jpg?itok=WW7A7bIB",
       "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8353_0.jpg?itok=WW7A7bIB"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/50._Amma_Asante.jpg"
         }
@@ -678,6 +682,10 @@
       "name": "Amma Asante",
       "other_names": [
         {
+          "name": "Amma A Asante",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Amma Asante",
           "note": "multilingual"
@@ -686,6 +694,12 @@
           "lang": "nl",
           "name": "Amma Asante",
           "note": "multilingual"
+        }
+      ],
+      "sort_name": "Asante, A.A.",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/asante-aa-pvda"
         }
       ]
     },
@@ -3502,11 +3516,18 @@
       "birth_date": "1972-01-08",
       "contact_details": [
         {
+          "type": "email",
+          "value": "d.vdree@tweedekamer.nl"
+        },
+        {
           "type": "twitter",
           "value": "danielvanderree"
         }
       ],
+      "email": "d.vdree@tweedekamer.nl",
+      "family_name": "Ree",
       "gender": "male",
+      "given_name": "Daniël",
       "id": "f72d702d-d07d-4936-bdbc-f6fa4af057ef",
       "identifiers": [
         {
@@ -3516,6 +3537,12 @@
         {
           "identifier": "Q26833712",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8354_0.jpg?itok=TkX4k2pv",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8354_0.jpg?itok=TkX4k2pv"
         }
       ],
       "links": [
@@ -3539,6 +3566,10 @@
           "note": "alternate"
         },
         {
+          "name": "Daniël A van der Ree",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Daniël van der Ree",
           "note": "multilingual"
@@ -3547,6 +3578,12 @@
           "lang": "nl",
           "name": "Daniel van der Ree",
           "note": "multilingual"
+        }
+      ],
+      "sort_name": "Ree, D.A. van der",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/ree-da-van-der-vvd"
         }
       ]
     },
@@ -20952,8 +20989,24 @@
       ]
     },
     {
+      "birth_date": "1957-02-21",
+      "family_name": "Velde",
+      "gender": "male",
+      "given_name": "Rien",
       "id": "e382e3cf-90a7-41ec-88b9-77ef4b23dc52",
-      "name": "Rien van der Velde"
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8355_0.jpg?itok=3Q3CA4F9",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8355_0.jpg?itok=3Q3CA4F9"
+        }
+      ],
+      "name": "Rien van der Velde",
+      "sort_name": "Velde, R. van der",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/velde-r-van-der-pvda"
+        }
+      ]
     },
     {
       "birth_date": "1961-04-05",
