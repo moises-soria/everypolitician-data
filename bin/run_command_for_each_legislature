@@ -11,6 +11,7 @@ fi
 for dir in data/*/*; do
   if [[ -d "$dir" ]]; then
     (
+      echo "$dir"
       cd "$dir"
       eval "$@"
     )
