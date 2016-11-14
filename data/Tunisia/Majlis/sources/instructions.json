@@ -11,14 +11,10 @@
       "type": "membership"
     },
     {
-      "file": "morph/members.csv",
-      "source": "http://majles.marsad.tn",
-      "type": "membership"
-    },
-    {
       "file": "manual/archived_members.csv",
       "source": "http://majles.marsad.tn",
-      "type": "membership"
+      "type": "membership",
+      "reuse_ids": false
     },
     {
       "file": "morph/wikidata.csv",
