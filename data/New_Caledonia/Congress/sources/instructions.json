@@ -28,7 +28,8 @@
     {
       "file": "manual/rescued.csv",
       "source": "http://www.congres.nc/assemblee/les-elus/?panel=5",
-      "type": "membership"
+      "type": "membership",
+      "reuse_ids": false
     },
     {
       "file": "manual/terms.csv",
