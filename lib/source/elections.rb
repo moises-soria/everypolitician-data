@@ -11,7 +11,10 @@ module Source
     def events
       as_json.map do |id, data|
         name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for #{id}"
-        dates = [data[:dates], data[:start_date], data[:end_date]].flatten.compact.sort
+        dates = (data.key?(:start_date) && data.key?(:end_date) ?
+                  [data[:start_date], data[:end_date]] :
+                  [data[:dates]]
+                ).flatten.compact.sort
         next warn "No dates for election #{id} (#{name[:name]})" if dates.empty?
         {
           id:             id,
