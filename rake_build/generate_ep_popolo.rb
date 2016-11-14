@@ -202,7 +202,16 @@ namespace :transform do
   # Merge group wikidata information
   #---------------------------------------------------------------------
   task write: :group_wikidata
-  task group_wikidata: :load do
+
+  task check_group_ids: :load do
+    missing_ids = @json[:organizations].select { |o| o[:id].to_s.empty? }
+    if missing_ids.any?
+      raise 'Missing organization ID for "%s"' %
+        missing_ids.map { |o| o[:name] }.join('", "')
+    end
+  end
+
+  task group_wikidata: :check_group_ids do
     @INSTRUCTIONS.sources_of_type('group').each do |src|
       src.to_popolo[:organizations].each do |org|
         matched = @json[:organizations].select do |o|
