@@ -3297,7 +3297,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/alderney_representative",
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
@@ -3336,7 +3336,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/alderney_representative",
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
@@ -3360,7 +3360,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/alderney_representative",
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
       "organization_id": "b6f68cdb-75cb-44dd-8241-f388f630efde",
@@ -3623,8 +3623,8 @@
   ],
   "areas": [
     {
-      "id": "area/alderney_representative",
-      "name": "Alderney Representative",
+      "id": "area/alderney",
+      "name": "Alderney",
       "type": "constituency"
     },
     {
