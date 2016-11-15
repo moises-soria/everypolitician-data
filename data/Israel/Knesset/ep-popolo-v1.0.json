@@ -133990,7 +133990,56 @@
     {
       "classification": "party",
       "id": "party/right_israel",
-      "name": "Right Israel"
+      "identifiers": [
+        {
+          "identifier": "Q2919646",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=11"
+        }
+      ],
+      "name": "Right Israel",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Jamin Jisra'el",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ימין ישראל",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yamin Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yamin Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ямин Исраэль",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Yamin Israel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Jamin Jisrael",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
