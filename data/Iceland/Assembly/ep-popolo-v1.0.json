@@ -18221,6 +18221,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Þorsteinn Pálsson",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "索尔斯泰因·帕尔松",
           "note": "multilingual"
@@ -24832,7 +24837,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1974",
+      "end_date": "1974-06-30",
       "id": "Q2701673",
       "identifiers": [
         {
@@ -24841,7 +24846,7 @@
         }
       ],
       "name": "1974 Icelandic parliamentary election",
-      "start_date": "1974"
+      "start_date": "1974-06-30"
     },
     {
       "classification": "general election",
@@ -24858,7 +24863,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1979",
+      "end_date": "1979-12",
       "id": "Q2737260",
       "identifiers": [
         {
@@ -24867,7 +24872,7 @@
         }
       ],
       "name": "1979 Icelandic parliamentary election",
-      "start_date": "1979"
+      "start_date": "1979-12"
     },
     {
       "classification": "general election",
@@ -24909,8 +24914,16 @@
       "start_date": "1991"
     },
     {
+      "classification": "legislative period",
+      "end_date": "1999",
+      "id": "term/1995",
+      "name": "Alþingi 1995",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "start_date": "1995"
+    },
+    {
       "classification": "general election",
-      "end_date": "1995",
+      "end_date": "1995-04-08",
       "id": "Q2035405",
       "identifiers": [
         {
@@ -24919,15 +24932,7 @@
         }
       ],
       "name": "1995 Icelandic parliamentary election",
-      "start_date": "1995"
-    },
-    {
-      "classification": "legislative period",
-      "end_date": "1999",
-      "id": "term/1995",
-      "name": "Alþingi 1995",
-      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
-      "start_date": "1995"
+      "start_date": "1995-04-08"
     },
     {
       "classification": "general election",
