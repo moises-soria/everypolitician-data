@@ -859,10 +859,10 @@
   ],
   "Q6034078": [
     {
-      "id": "Q1663916",
-      "label": "Ministry of the Interior",
-      "title": "Ministry of the Interior",
-      "description": "government ministry office of the Republic of Turkey"
+      "id": "Q17578116",
+      "label": "interior minister",
+      "title": "interior minister",
+      "description": "minister in charge of interior or home affairs"
     },
     {
       "id": "Q21030356",
@@ -3498,10 +3498,10 @@
   ],
   "Q6930701": [
     {
-      "id": "Q1663916",
-      "label": "Ministry of the Interior",
-      "title": "Ministry of the Interior",
-      "description": "government ministry office of the Republic of Turkey",
+      "id": "Q17578116",
+      "label": "interior minister",
+      "title": "interior minister",
+      "description": "minister in charge of interior or home affairs",
       "qualifiers": {
         "P580": "2013-01-24",
         "P582": "2013-12-25",
@@ -6329,10 +6329,13 @@
   ],
   "Q331707": [
     {
-      "id": "Q47543",
-      "label": "Organisation of Islamic Cooperation",
-      "title": "Organisation of Islamic Cooperation",
-      "description": "international organisation"
+      "id": "Q6501749",
+      "label": "General Secretary",
+      "title": "General Secretary (of Organisation of Islamic Cooperation)",
+      "description": "leader or chief officer of an organisation",
+      "qualifiers": {
+        "P642": "Organisation of Islamic Cooperation"
+      }
     },
     {
       "id": "Q21030356",
@@ -11280,16 +11283,16 @@
   ],
   "Q735547": [
     {
-      "id": "Q1663916",
-      "label": "Ministry of the Interior",
-      "title": "Ministry of the Interior",
-      "description": "government ministry office of the Republic of Turkey"
+      "id": "Q17578116",
+      "label": "interior minister",
+      "title": "interior minister",
+      "description": "minister in charge of interior or home affairs"
     },
     {
-      "id": "Q4294877",
-      "label": "Ministry of Justice",
-      "title": "Ministry of Justice",
-      "description": "justice ministry of Turkey"
+      "id": "Q17763739",
+      "label": "minister of justice",
+      "title": "minister of justice",
+      "description": "Justice minister of a state"
     },
     {
       "id": "Q21030356",
@@ -32254,9 +32257,10 @@
       "description": "Turkish MP"
     },
     {
-      "id": "Q4294797",
-      "label": "Ministry of Finance",
-      "title": "Ministry of Finance"
+      "id": "Q7614320",
+      "label": "finance minister",
+      "title": "finance minister",
+      "description": "position in the government responsible for economic and financial policies"
     }
   ],
   "Q23920961": [
