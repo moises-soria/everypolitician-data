@@ -5650,7 +5650,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aliza_Lavie.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/767452771754868736/PGGoFtk0.jpg"
+          "url": "https://pbs.twimg.com/profile_images/797553244209901568/h3Ef0Jb-.jpg"
         }
       ],
       "links": [
@@ -20662,6 +20662,7 @@
       ]
     },
     {
+      "birth_date": "1902",
       "death_date": "1989-03-23",
       "gender": "male",
       "id": "1804f838-002b-4889-b679-90d8344d0983",
@@ -20669,15 +20670,119 @@
         {
           "identifier": "631",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "354674",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/03crmr4",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 6697 2786",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr95014258",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000286498",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "9734009",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2778041",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/raptor_berl.jpg",
       "images": [
         {
           "url": "http://www.knesset.gov.il/mk/images/members/raptor_berl.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Raptor_berl.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Berl_Repetur"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Berl_Repetur"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Berl_Repetur"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ברל_רפטור"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Репетур,_Берл"
         }
       ],
       "name": "Beryl Raptor",
+      "other_names": [
+        {
+          "name": "ברל רפטור",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Berl Repetur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Berl Repetur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Berl Repetur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Berl Repetur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Berl Repetur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ברל רפטור",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Berl Repetur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Berl Repetur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Репетур, Берл",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=631"
@@ -53173,11 +53278,20 @@
       "birth_date": "1937-02-12",
       "death_date": "2012-06-25",
       "gender": "male",
+      "given_name": "Yitzhak",
       "id": "65c0d632-831c-416e-b440-5b410b9f01dd",
       "identifiers": [
         {
           "identifier": "799",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04qbm3g",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2906666",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.knesset.gov.il/mk/images/members/galantee_yitzhak.jpg",
@@ -53186,7 +53300,67 @@
           "url": "http://www.knesset.gov.il/mk/images/members/galantee_yitzhak.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jicchak_Galanti"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yitzhak_Galanti"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יצחק_גלנטי"
+        }
+      ],
       "name": "Itshac Galantee",
+      "other_names": [
+        {
+          "name": "יצחק גלנטי",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Jicchak Galanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Yitzhak Galanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yitzhak Galanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yitzhak Galanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yitzhak Galanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יצחק גלנטי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yitzhak Galanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yitzhak Galanti",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=799"
@@ -94353,6 +94527,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "xmf",
+          "name": "შიმონ პერესი",
+          "note": "multilingual"
+        },
+        {
           "lang": "yi",
           "name": "שמעון פרס",
           "note": "multilingual"
@@ -103863,6 +104042,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1080243526",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 8438 9404",
           "scheme": "isni"
         },
@@ -103990,6 +104173,11 @@
         {
           "lang": "hu",
           "name": "Uri Orbakh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ური ორბახ",
           "note": "multilingual"
         },
         {
@@ -117730,6 +117918,11 @@
         {
           "lang": "fr",
           "name": "Yitzhak Rabin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Yitzak Rabin",
           "note": "multilingual"
         },
         {
@@ -133797,7 +133990,56 @@
     {
       "classification": "party",
       "id": "party/right_israel",
-      "name": "Right Israel"
+      "identifiers": [
+        {
+          "identifier": "Q2919646",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.knesset.gov.il/faction/eng/FactionPage_eng.asp?PG=11"
+        }
+      ],
+      "name": "Right Israel",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Jamin Jisra'el",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ימין ישראל",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yamin Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yamin Yisrael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ямин Исраэль",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Yamin Israel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Jamin Jisrael",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -154714,7 +154956,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2006",
+      "end_date": "2006-03-28",
       "id": "Q2720560",
       "identifiers": [
         {
@@ -154723,7 +154965,7 @@
         }
       ],
       "name": "Israeli legislative election 2006",
-      "start_date": "2006"
+      "start_date": "2006-03-28"
     },
     {
       "classification": "legislative period",
