@@ -5456,13 +5456,22 @@
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "2002-06-16",
+        "P582": "2012-06-19",
+        "P768": "Sarthe's 3rd constituency"
+      }
     },
     {
       "id": "Q382617",
       "label": "maire",
       "title": "maire",
-      "description": "mayor in France"
+      "description": "mayor in France",
+      "qualifiers": {
+        "P580": "2014-03-30",
+        "P768": "Château-du-Loir"
+      }
     }
   ],
   "Q867150": [
