@@ -6925,13 +6925,14 @@
         "slug": "Assembly",
         "sources_directory": "data/Niger/Assembly/sources",
         "popolo": "data/Niger/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3993868f825bb3619132c375c121bf9ed508358d/data/Niger/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/acee85f4b4302cc6a0cd498caa73e4f05b070ad0/data/Niger/Assembly/ep-popolo-v1.0.json",
         "names": "data/Niger/Assembly/names.csv",
-        "lastmod": "1478539430",
+        "lastmod": "1479147286",
         "person_count": 113,
-        "sha": "3993868f825bb3619132c375c121bf9ed508358d",
+        "sha": "acee85f4b4302cc6a0cd498caa73e4f05b070ad0",
         "legislative_periods": [
           {
+            "end_date": "2016-02-20",
             "id": "term/7.1",
             "name": "1ere Legislature de la 7eme Republique",
             "start_date": "2011-10-06",
@@ -6940,7 +6941,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/be1e6cbace4bbd2c8e4f05099a64ab1a46057017/data/Niger/Assembly/term-7.1.csv"
           }
         ],
-        "statement_count": 1446,
+        "statement_count": 1447,
         "type": "unicameral legislature"
       }
     ]
