@@ -12924,6 +12924,34 @@
       ]
     },
     {
+      "family_name": "Kitching",
+      "given_name": "Kimberley",
+      "id": "ddaf1ed1-31f7-440d-a3f5-667883ae9486",
+      "identifiers": [
+        {
+          "identifier": "247512",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10897",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Kimberley Kitching",
+      "other_names": [
+        {
+          "name": "Senator Kimberley Kitching",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Kitching, Kimberley",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
       "birth_date": "1977-02-09",
       "contact_details": [
         {
@@ -32342,6 +32370,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/victoria",
+      "end_date": "2016-09-30",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "9a016d4d-f26b-4b85-a026-f2eba23de3b8",
+      "role": "member"
+    },
+    {
       "area_id": "area/wa",
       "legislative_period_id": "term/35",
       "on_behalf_of_id": "party/australian_democrats",
@@ -34837,6 +34874,15 @@
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
       "person_id": "dd8776e7-35f7-44ff-9d7d-4dfaac9a97a2",
       "role": "member"
+    },
+    {
+      "area_id": "area/victoria",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "ddaf1ed1-31f7-440d-a3f5-667883ae9486",
+      "role": "member",
+      "start_date": "2016-10-25"
     },
     {
       "area_id": "area/wa",
