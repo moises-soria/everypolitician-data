@@ -20358,14 +20358,37 @@
       ]
     },
     {
+      "gender": "male",
       "id": "9ea16fcb-3938-4d8c-91c4-240f37857943",
       "identifiers": [
         {
           "identifier": "94305",
           "scheme": "represent"
+        },
+        {
+          "identifier": "Q27663754",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Glen Motz"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Glen_Motz"
+        }
+      ],
+      "name": "Glen Motz",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Glen Motz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Glen Motz",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-10-23",
