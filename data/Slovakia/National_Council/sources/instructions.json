@@ -17,7 +17,7 @@
         "scraper": "everypolitician-scrapers/slovakia-national-assembly-2016",
         "query": "SELECT * FROM data"
       },
-      "source": "'http://www.nrsr.sk/web/",
+      "source": "http://www.nrsr.sk/web/",
       "type": "membership",
       "merge": {
       "incoming_field": "name",
