@@ -4,10 +4,6 @@ require 'rcsv'
 # Encapsulates the 'data-ids' files that tie
 # incoming source IDs to our UUIDs
 #
-# We're in the process of moving the location of those files, so for
-# this currently checks _both_ locations for reading, but always writes
-# back out to the new location
-#
 # TODO: Add the 'give me a new UUID' logic here
 
 class UuidMapFile
