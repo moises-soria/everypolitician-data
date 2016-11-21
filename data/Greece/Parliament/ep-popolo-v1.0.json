@@ -1822,6 +1822,7 @@
       ]
     },
     {
+      "birth_date": "1954-08-05",
       "contact_details": [
         {
           "type": "email",
@@ -1839,6 +1840,14 @@
         {
           "identifier": "5082921e-17ac-4d75-a63b-f799fa6722d7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "5082921e-17ac-4d75-a63b-f799fa6722d7",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q19204760",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/anastasiadissavas.jpg",
@@ -1851,6 +1860,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Савас_Анастасиадис"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sávvas_Anastasiádis"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/savanastasiadis"
@@ -1867,8 +1884,28 @@
           "note": "alternate"
         },
         {
+          "lang": "bg",
+          "name": "Савас Анастасиадис",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Αναστασιάδης Ιωάννη Σάββας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σάββας Αναστασιάδης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Savvas Anastasiadis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Savvas Anastasiadis",
           "note": "multilingual"
         }
       ],
@@ -13183,15 +13220,37 @@
       ]
     },
     {
+      "birth_date": "1938-06-20",
+      "death_date": "2015-04-07",
+      "gender": "male",
       "id": "8c29a16b-8b3c-422f-bc44-d9bc8faa6b22",
       "identifiers": [
         {
           "identifier": "2601c608-23e0-4b53-96f6-8880a13e694d",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2601c608-23e0-4b53-96f6-8880a13e694d",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q19827963",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Δημήτριος_Δημόπουλος"
         }
       ],
       "name": "Dimopoulos Dimitrios",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Δημήτριος Δημόπουλος",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Δημόπουλος Μηνά Δημήτριος",
@@ -17832,18 +17891,67 @@
       ]
     },
     {
+      "birth_date": "1936-04-15",
+      "gender": "male",
+      "given_name": "Georgios",
       "id": "861d4f65-00ce-4b9b-bf7c-a3d1f4ed2904",
       "identifiers": [
         {
+          "identifier": "39320",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "d0194d93-6cfe-4738-a85c-0475a280b6af",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "d0194d93-6cfe-4738-a85c-0475a280b6af",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q9267349",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιώργος_Γεωργίου_(Έλληνας_πολιτικός)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jeorjos_Jeorjiu"
         }
       ],
       "name": "Georgiou Stergiou Georgios",
       "other_names": [
         {
+          "name": "Georgios Georgiou",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Georgios Georgiou",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Γεωργίου Στεργίου Γεώργιος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιώργος Γεωργίου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Georgios Georgiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Georgios Georgiou",
           "note": "multilingual"
         }
       ],
@@ -27970,11 +28078,20 @@
     },
     {
       "gender": "male",
+      "given_name": "Christos",
       "id": "0c6d41cf-9d8a-4a35-afc7-a83f5abd6ca4",
       "identifiers": [
         {
           "identifier": "8ad2a301-aea1-46fd-81df-adebdd17c833",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "8ad2a301-aea1-46fd-81df-adebdd17c833",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20127736",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_192.jpg",
@@ -27983,11 +28100,31 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/man_192.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χρήστος_Κατσώτης"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chrístos_Katsótis"
+        }
+      ],
       "name": "Katsotis Christos",
       "other_names": [
         {
           "lang": "el",
           "name": "Κατσώτης Περικλή Χρήστος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χρήστος Κατσώτης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Christos Katsotis",
           "note": "multilingual"
         }
       ],
@@ -64161,18 +64298,60 @@
       ]
     },
     {
+      "birth_date": "1906",
+      "death_date": "1992-12-06",
+      "gender": "male",
       "id": "dcc1ee9d-b0b8-4809-a0d1-e2d3b8f3fb09",
       "identifiers": [
         {
           "identifier": "4ac3d16e-84ac-422c-8ad1-17ccbd3a65d7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4ac3d16e-84ac-422c-8ad1-17ccbd3a65d7",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q15925968",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tsanoulas_Christoforos_24-5-59.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tsanoulas_Christoforos_24-5-59.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χριστόφορος_Τσαντούλας"
         }
       ],
       "name": "Tsantoulas Christoforos",
       "other_names": [
         {
+          "name": "Christoforos Tsantoulas",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Τσαντούλας Δημητρίου Χριστόφορος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χριστόφορος Τσαντούλας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christoforos Tsantoulas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Christoforos Tsantoulas",
           "note": "multilingual"
         }
       ],
