@@ -7682,7 +7682,12 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2015-05-07",
+        "P768": "East Dunbartonshire",
+        "P1365": "Jo Swinson"
+      }
     }
   ],
   "Q478369": [
@@ -16583,7 +16588,9 @@
       "title": "Shadow Secretary of State for Transport",
       "qualifiers": {
         "P580": "2002-07-23",
-        "P582": "2003-11-10"
+        "P582": "2003-11-10",
+        "P1365": "Theresa May",
+        "P1366": "Damian Green"
       }
     },
     {
@@ -16600,7 +16607,14 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P582": "2005-05-05",
+        "P768": "Westmorland and Lonsdale",
+        "P1365": "Michael Jopling, Baron Jopling",
+        "P1366": "Tim Farron"
+      }
     },
     {
       "id": "Q25360282",
@@ -16610,6 +16624,17 @@
       "qualifiers": {
         "P580": "2004-03-15",
         "P582": "2005-05-06"
+      }
+    },
+    {
+      "id": "Q7460592",
+      "label": "Shadow Secretary of State for Education",
+      "title": "Shadow Secretary of State for Education",
+      "qualifiers": {
+        "P580": "2004-03-15",
+        "P582": "2005-05-06",
+        "P1365": "Tim Yeo",
+        "P1366": "David Cameron"
       }
     }
   ],
