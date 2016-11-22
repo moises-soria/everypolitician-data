@@ -363,13 +363,6 @@
       "title": "member of the National Assembly of Vietnam"
     }
   ],
-  "Q10761667": [
-    {
-      "id": "Q17593571",
-      "label": "member of the National Assembly of Vietnam",
-      "title": "member of the National Assembly of Vietnam"
-    }
-  ],
   "Q10787900": [
     {
       "id": "Q17593571",
@@ -473,6 +466,16 @@
       "id": "Q17593571",
       "label": "member of the National Assembly of Vietnam",
       "title": "member of the National Assembly of Vietnam"
+    },
+    {
+      "id": "Q428110",
+      "label": "Chairman of the National Assembly of Vietnam",
+      "title": "Chairman of the National Assembly of Vietnam",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2006-06-26",
+        "P582": "2011-07-23"
+      }
     }
   ],
   "Q10833804": [
@@ -1444,9 +1447,24 @@
   ],
   "Q7833292": [
     {
-      "id": "Q17593571",
-      "label": "member of the National Assembly of Vietnam",
-      "title": "member of the National Assembly of Vietnam"
+      "id": "Q866680",
+      "label": "President of Vietnam",
+      "title": "President of Vietnam",
+      "description": "De jure Head of State of Vietnam",
+      "qualifiers": {
+        "P580": "2016-04-02",
+        "P1412": "Vietnamese",
+        "P1365": "Truong Tan Sang"
+      }
+    },
+    {
+      "id": "Q16481261",
+      "label": "Q16481261",
+      "title": "Q16481261",
+      "qualifiers": {
+        "P580": "2011-08-03",
+        "P582": "2016-04-08"
+      }
     }
   ],
   "Q10833783": [
@@ -1972,13 +1990,6 @@
     }
   ],
   "Q10840102": [
-    {
-      "id": "Q17593571",
-      "label": "member of the National Assembly of Vietnam",
-      "title": "member of the National Assembly of Vietnam"
-    }
-  ],
-  "Q10842165": [
     {
       "id": "Q17593571",
       "label": "member of the National Assembly of Vietnam",
@@ -2637,13 +2648,6 @@
     }
   ],
   "Q10799833": [
-    {
-      "id": "Q17593571",
-      "label": "member of the National Assembly of Vietnam",
-      "title": "member of the National Assembly of Vietnam"
-    }
-  ],
-  "Q10841566": [
     {
       "id": "Q17593571",
       "label": "member of the National Assembly of Vietnam",
