@@ -9812,6 +9812,7 @@
       ]
     },
     {
+      "birth_date": "1963-10-10",
       "contact_details": [
         {
           "type": "email",
@@ -9829,15 +9830,49 @@
         {
           "identifier": "5830473",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21290195",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/72912.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/72912.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Celso_Pansera_em_janeiro_de_2016.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Celso_Pansera"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Celso_Pansera"
         }
       ],
       "name": "CELSO PANSERA",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Celso Pansera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Celso Pansera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Celso Pansera",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195905&tipo=0"
@@ -10604,6 +10639,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Clarissa_Garotinho"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Clarissa_Garotinho"
         }
@@ -10977,6 +11016,7 @@
       ]
     },
     {
+      "birth_date": "1973-12-21",
       "contact_details": [
         {
           "type": "email",
@@ -10989,20 +11029,73 @@
       ],
       "email": "dep.cristianebrasil@camara.leg.br",
       "gender": "female",
+      "given_name": "Cristiane",
       "id": "f361f3c6-7e66-4b6f-a164-7c66dcd085df",
       "identifiers": [
         {
           "identifier": "5830347",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19944807",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/93472.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/93472.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Plenário_do_Congresso_(20885253871).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Cristiane_Brasil"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cristiane_Brasil"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Cristiane_Brasil"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/cristiane.brasil"
         }
       ],
       "name": "CRISTIANE BRASIL",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Cristiane Brasil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cristiane Brasil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cristiane Brasil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Cristiane Brasil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Cristiane Brasil",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195784&tipo=0"
@@ -17095,13 +17188,37 @@
       "email": "dep.fabianohorta@camara.leg.br",
       "gender": "male",
       "id": "0a3535d4-e6ac-491f-95f4-889e248753a6",
+      "identifiers": [
+        {
+          "identifier": "Q27839461",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/146829.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/146829.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fabiano_Horta"
+        }
+      ],
       "name": "FABIANO HORTA",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Fabiano Horta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Fabiano Horta",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195909&tipo=0"
@@ -18070,6 +18187,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141434.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/DEP.wIK.jpg"
         }
       ],
       "links": [
@@ -22179,13 +22299,41 @@
     {
       "gender": "male",
       "id": "a448f0ad-4aef-46c7-b157-75edab70be30",
+      "identifiers": [
+        {
+          "identifier": "Q27836036",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160590.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160590.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Hélio_Batista_dos_Santos"
+        }
+      ],
       "name": "HÉLIO SANTOS",
+      "other_names": [
+        {
+          "name": "Hélio Batista dos Santos",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Hélio Batista dos Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Hélio Batista dos Santos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=189075&tipo=0"
@@ -22866,6 +23014,10 @@
         {
           "identifier": "5830526",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23905404",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/4931.jpg",
@@ -22874,11 +23026,39 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/4931.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Izalci_Lucas"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Izalci_Lucas"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/izalci"
+        }
+      ],
       "name": "IZALCI LUCAS",
       "other_names": [
         {
           "name": "IZALCI",
           "note": "alternate"
+        },
+        {
+          "name": "Izalci Lucas Ferreira",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Izalci Lucas Ferreira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Izalci Lucas Ferreira",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -35825,6 +36005,10 @@
         {
           "identifier": "5830483",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27862793",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178827.jpg",
@@ -35833,7 +36017,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178827.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Max_Filho"
+        }
+      ],
       "name": "MAX FILHO",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Max Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Max Filho",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195388&tipo=0"
@@ -42798,6 +43000,10 @@
         {
           "identifier": "5830683",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27862804",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160639.jpg",
@@ -42806,7 +43012,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160639.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Dorinha_Rezende"
+        }
+      ],
       "name": "PROFESSORA DORINHA SEABRA REZENDE",
+      "other_names": [
+        {
+          "name": "Dorinha Rezende",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Dorinha Rezende",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Dorinha Rezende",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=189192&tipo=0"
@@ -52385,6 +52613,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160622.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vicentecandido.jpg"
         }
       ],
       "links": [
@@ -53082,6 +53313,10 @@
         {
           "identifier": "5830640",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27839470",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178869.jpg",
@@ -53090,7 +53325,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178869.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Vitor_Valim"
+        }
+      ],
       "name": "VITOR VALIM",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Vitor Valim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vitor Valim",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195829&tipo=0"
