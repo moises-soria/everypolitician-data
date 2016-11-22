@@ -4523,6 +4523,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/GenereuxBernard"
+        },
+        {
+          "note": "website",
+          "url": "http://www.bernardgenereux.ca/about/biography/"
         }
       ],
       "name": "Bernard Généreux",
@@ -5095,7 +5099,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Bill_Blair_(police_chief)"
+          "url": "https://en.wikipedia.org/wiki/Bill_Blair_(police_officer)"
         },
         {
           "note": "twitter",
@@ -20354,6 +20358,39 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "9ea16fcb-3938-4d8c-91c4-240f37857943",
+      "identifiers": [
+        {
+          "identifier": "94305",
+          "scheme": "represent"
+        },
+        {
+          "identifier": "Q27663754",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Glen_Motz"
+        }
+      ],
+      "name": "Glen Motz",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Glen Motz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Glen Motz",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1969-10-23",
       "family_name": "THIBEAULT",
       "gender": "male",
@@ -26876,6 +26913,11 @@
         },
         {
           "lang": "fr",
+          "name": "Jody Wilson-Raybould",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Jody Wilson-Raybould",
           "note": "multilingual"
         },
@@ -42320,6 +42362,11 @@
           "lang": "fr",
           "name": "Nathaniel Erskine-Smith",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nathaniel Erskine-Smith",
+          "note": "multilingual"
         }
       ]
     },
@@ -47179,6 +47226,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Phil_McColeman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Phil_McColeman"
         },
         {
           "note": "facebook",
@@ -59041,6 +59092,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Terry_Duguid"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Terry_Duguid"
         },
@@ -62686,6 +62741,629 @@
     },
     {
       "classification": "party",
+      "id": "independent",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "无党籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
       "id": "liberal",
       "identifiers": [
         {
@@ -63093,7 +63771,7 @@
         },
         {
           "lang": "nl",
-          "name": "New Democratic Party of Canada",
+          "name": "New Democratic Party",
           "note": "multilingual"
         },
         {
@@ -63308,12 +63986,17 @@
         },
         {
           "lang": "nl",
-          "name": "New Democratic Party",
+          "name": "New Democratic Party of Canada",
           "note": "multilingual"
         },
         {
           "lang": "nl",
           "name": "Nieuwe Democratische Partij van Canada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "NDP",
           "note": "multilingual"
         },
         {
@@ -63379,6 +64062,55 @@
         {
           "lang": "zh-cn",
           "name": "新民主党",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "strength_in_democracy",
+      "identifiers": [
+        {
+          "identifier": "Q18338405",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.forcesetdemocratie.org/"
+        }
+      ],
+      "name": "Strength in Democracy",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Forces et Démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Strength in Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Forces et Démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Forces et Démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "加拿大民主与力量党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Forces et Démocratie",
           "note": "multilingual"
         }
       ]
@@ -63615,7 +64347,7 @@
     {
       "area_id": "area/alberta_(edmonton—st._albert)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "09a66bcf-886d-4ba1-a121-2224db68d1d8",
       "role": "member"
@@ -63889,7 +64621,7 @@
     {
       "area_id": "area/british_columbia_(nanaimo—alberni)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "19766d21-4f4b-4131-ac47-49623230c584",
       "role": "member"
@@ -64195,7 +64927,7 @@
     {
       "area_id": "area/quebec_(saint-maurice—champlain)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "25ea20cd-a3cf-4589-80f9-4a59776ed981",
       "role": "member"
@@ -64331,7 +65063,7 @@
     {
       "area_id": "area/quebec_(saint-léonard—saint-michel)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "2c6331b3-3233-4faa-9995-b6f760538f39",
       "role": "member"
@@ -65225,7 +65957,7 @@
     {
       "area_id": "area/quebec_(repentigny)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "strength_in_democracy",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "55023916-a4cc-477a-99c5-b4c3cb29d7ae",
       "role": "member"
@@ -65668,7 +66400,7 @@
     {
       "area_id": "area/quebec_(montcalm)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "692164a2-cbe5-4250-8178-a36dfc6371ca",
       "role": "member"
@@ -65676,7 +66408,7 @@
     {
       "area_id": "area/ontario_(thunder_bay—superior_north)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "green_party",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "69292acd-8be9-4a61-b4a6-584f6ed7fc5f",
       "role": "member"
@@ -65933,7 +66665,7 @@
     {
       "area_id": "area/the_north_(nunavut)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "7401da7f-0c23-4295-a6eb-19860d1e1eb9",
       "role": "member"
@@ -66626,6 +67358,14 @@
       "start_date": "2011-08-22"
     },
     {
+      "area_id": "area/alberta_(medicine_hat—cardston—warner)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
+      "person_id": "9ea16fcb-3938-4d8c-91c4-240f37857943",
+      "role": "member"
+    },
+    {
       "area_id": "area/ontario_(ottawa_west—nepean)",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
@@ -66701,7 +67441,7 @@
     {
       "area_id": "area/quebec_(haute-gaspésie—la_mitis—matane—matapédia)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "bloc_québécois",
+      "on_behalf_of_id": "strength_in_democracy",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "a47c4ff2-541a-42a6-9f56-fd199c298e50",
       "role": "member"
@@ -67110,7 +67850,7 @@
     {
       "area_id": "area/quebec_(richmond—arthabaska)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "bloc_québécois",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "b7007740-2b4a-427a-80aa-b34de92ed1b4",
       "role": "member"
@@ -67166,7 +67906,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(avalon)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "bb339676-688e-44cf-89c0-a9bb12ff84db",
       "role": "member"
@@ -67223,7 +67963,7 @@
     {
       "area_id": "area/quebec_(verchères—les_patriotes)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "bc9b8d17-b4e9-4a00-a9b7-19b9f76d49c6",
       "role": "member"
@@ -67394,7 +68134,7 @@
     {
       "area_id": "area/ontario_(mississauga—brampton_south)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "c66ef461-4e32-45c5-8395-d7c8f5ae2616",
       "role": "member"
@@ -68256,7 +68996,7 @@
     {
       "area_id": "area/ontario_(peterborough)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "e539e184-343d-418e-acf6-ecb961ae54dd",
       "role": "member",
@@ -68459,7 +69199,7 @@
     {
       "area_id": "area/quebec_(ahuntsic)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "bloc_québécois",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "f11e49dc-fab9-4aac-9fea-2cca465280e9",
       "role": "member"
@@ -68603,7 +69343,7 @@
     {
       "area_id": "area/quebec_(jonquière—alma)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "bloc_québécois",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "f74a3f50-b91f-4e8b-8fd1-5943f1bdbc66",
       "role": "member"
