@@ -12098,7 +12098,25 @@
     {
       "classification": "party",
       "id": "party/hk_first",
-      "name": "HK First"
+      "identifiers": [
+        {
+          "identifier": "Q22099170",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "HK First",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "香港本土",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hong Kong First",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
