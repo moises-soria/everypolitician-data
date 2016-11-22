@@ -9380,11 +9380,11 @@
         "slug": "Riksdag",
         "sources_directory": "data/Sweden/Riksdag/sources",
         "popolo": "data/Sweden/Riksdag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c6868dad6a596ce2d000df75798636a7070fc0c3/data/Sweden/Riksdag/ep-popolo-v1.0.json",
         "names": "data/Sweden/Riksdag/names.csv",
-        "lastmod": "1479194385",
+        "lastmod": "1479809083",
         "person_count": 1621,
-        "sha": "377d13f810169f0e9d67f0caa3cc6bb6910d01df",
+        "sha": "c6868dad6a596ce2d000df75798636a7070fc0c3",
         "legislative_periods": [
           {
             "end_date": "2018-09-24",
@@ -9393,7 +9393,7 @@
             "start_date": "2014-09-29",
             "slug": "2014",
             "csv": "data/Sweden/Riksdag/term-2014.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-2014.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3be24313cd0ae3e5f869b22aa4b152c4ccc62401/data/Sweden/Riksdag/term-2014.csv"
           },
           {
             "end_date": "2014-09-29",
@@ -9438,7 +9438,7 @@
             "start_date": "1994-10-03",
             "slug": "1994",
             "csv": "data/Sweden/Riksdag/term-1994.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-1994.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3be24313cd0ae3e5f869b22aa4b152c4ccc62401/data/Sweden/Riksdag/term-1994.csv"
           },
           {
             "end_date": "1994-10-03",
@@ -9495,7 +9495,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-1976.csv"
           }
         ],
-        "statement_count": 100075,
+        "statement_count": 100108,
         "type": "unicameral legislature"
       }
     ]
