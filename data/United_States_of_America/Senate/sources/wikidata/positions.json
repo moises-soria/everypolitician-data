@@ -463,6 +463,11 @@
       "id": "Q17502533",
       "label": "member of the Ohio House of Representatives",
       "title": "member of the Ohio House of Representatives"
+    },
+    {
+      "id": "Q20065429",
+      "label": "member of the State Senate of Ohio",
+      "title": "member of the State Senate of Ohio"
     }
   ],
   "Q19673": [
@@ -1940,7 +1945,11 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2011-01-03",
+        "P1365": "George Voinovich"
+      }
     },
     {
       "id": "Q13218630",
@@ -2898,9 +2907,9 @@
       "qualifiers": {
         "P580": "1989-01-03",
         "P582": "2001-01-03",
-        "P2715": "United States Senate election in Washington, 1988",
         "P1365": "Daniel J. Evans",
-        "P1366": "Maria Cantwell"
+        "P1366": "Maria Cantwell",
+        "P2715": "United States Senate election in Washington, 1988"
       }
     },
     {
@@ -3211,7 +3220,11 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2011-01-03",
+        "P1365": "Kit Bond"
+      }
     },
     {
       "id": "Q13218630",
@@ -4805,7 +4818,8 @@
       "title": "United States Senator",
       "description": "member of the United States Senate",
       "qualifiers": {
-        "P580": "2013-01-03"
+        "P580": "2013-01-03",
+        "P1365": "Daniel Akaka"
       }
     },
     {
@@ -4818,6 +4832,19 @@
       "id": "Q19319643",
       "label": "Member of the Hawaii House of Representatives",
       "title": "Member of the Hawaii House of Representatives"
+    },
+    {
+      "id": "Q912560",
+      "label": "Lieutenant Governor of Hawaii",
+      "title": "Lieutenant Governor of Hawaii",
+      "description": "lieutenant governor",
+      "qualifiers": {
+        "P580": "1994-12-02",
+        "P582": "2002-12-02",
+        "P1365": "Ben Cayetano",
+        "P1366": "James Aiona",
+        "P1545": "9"
+      }
     }
   ],
   "Q22260": [
@@ -4899,13 +4926,30 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2009-01-03",
+        "P1365": "Pete Domenici"
+      }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q4818643",
+      "label": "Attorney General of New Mexico",
+      "title": "Attorney General of New Mexico",
+      "description": "attorney general for the U.S. state of New Mexico",
+      "qualifiers": {
+        "P580": "1991-01-01",
+        "P582": "1999-01-01",
+        "P1365": "Hal Stratton",
+        "P1366": "Patricia A. Madrid",
+        "P1545": "28"
+      }
     }
   ],
   "Q319111": [
