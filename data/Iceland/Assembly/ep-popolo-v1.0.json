@@ -760,6 +760,10 @@
           "url": "https://ru.wikipedia.org/wiki/Бьярни_Бенедиктссон_(младший)"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/布亞尼·本尼迪克特松_(1970年生)"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/bjarni.benediktsson.5"
         },
@@ -8136,6 +8140,10 @@
           "url": "https://sv.wikipedia.org/wiki/Katrín_Jakobsdóttir"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/卡特林·亞科布斯多蒂爾"
+        },
+        {
           "note": "wikipedia",
           "url": "Katrín Jakobsdóttir"
         }
@@ -8565,7 +8573,7 @@
       ]
     },
     {
-      "birth_date": "1958",
+      "birth_date": "1953-11-02",
       "gender": "male",
       "given_name": "Kjartan",
       "id": "b063674e-06f1-4026-8c70-00302fd1d76e",
@@ -8575,26 +8583,24 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "0000 0000 5335 7696",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "52606022",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q6419303",
+          "identifier": "Q13607417",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kjartan_Olafsson_(Sj.)_Island.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kjartan_Olafsson_(Sj.)_Island.jpg"
         }
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Kjartan_Ólafsson"
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kjartan_Ólafsson_(politician)"
         },
         {
           "note": "Wikipedia (is)",
-          "url": "https://is.wikipedia.org/wiki/Kjartan_Ólafsson_(tónlistarmaður)"
+          "url": "https://is.wikipedia.org/wiki/Kjartan_Ólafsson_(f._1953)"
         },
         {
           "note": "wikipedia",
@@ -8603,11 +8609,6 @@
       ],
       "name": "Kjartan Ólafsson",
       "other_names": [
-        {
-          "lang": "de",
-          "name": "Kjartan Ólafsson",
-          "note": "multilingual"
-        },
         {
           "lang": "en",
           "name": "Kjartan Ólafsson",
@@ -17502,6 +17503,10 @@
           "url": "https://ko.wikipedia.org/wiki/오타르_프로페"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Óttarr_Proppé"
+        },
+        {
           "note": "wikipedia",
           "url": "Óttarr Proppé"
         }
@@ -24863,7 +24868,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1979-12",
+      "end_date": "1979-12-03",
       "id": "Q2737260",
       "identifiers": [
         {
@@ -24872,7 +24877,7 @@
         }
       ],
       "name": "1979 Icelandic parliamentary election",
-      "start_date": "1979-12"
+      "start_date": "1979-12-02"
     },
     {
       "classification": "general election",
