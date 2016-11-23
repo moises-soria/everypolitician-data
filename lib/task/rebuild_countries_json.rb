@@ -25,6 +25,10 @@ module Task
       JSON.parse(countries_file.read, symbolize_names: true)
     end
 
+    def existing_data_as_hash
+      existing_data.map { |e| [ e[:name], e ] }.to_h
+    end
+
     def all_countries
       EveryPolitician.countries
     end
@@ -52,7 +56,7 @@ module Task
     end
 
     def updated_data
-      data = existing_data.map { |e| [ e[:name], e ] }.to_h
+      data = existing_data_as_hash
 
       countries.each do |c|
         country = Everypolitician::Country::Metadata.new(
