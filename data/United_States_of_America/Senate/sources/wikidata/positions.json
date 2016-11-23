@@ -1512,7 +1512,13 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1981-01-02",
+        "P582": "1987-01-03",
+        "P1365": "Donald Stewart",
+        "P1366": "Richard Shelby"
+      }
     }
   ],
   "Q978350": [
@@ -2232,7 +2238,13 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1965-11-12",
+        "P582": "1983-01-03",
+        "P1365": "Harry F. Byrd",
+        "P1366": "Paul S. Trible, Jr."
+      }
     },
     {
       "id": "Q18604340",
@@ -2406,13 +2418,24 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1997-01-03",
+        "P582": "2003-01-03",
+        "P1365": "Bill Bradley",
+        "P1366": "Frank Lautenberg"
+      }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1983-01-03",
+        "P582": "1997-01-03",
+        "P768": "New Jersey's 9th congressional district"
+      }
     }
   ],
   "Q555735": [
@@ -5308,7 +5331,21 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1977-01-03",
+        "P582": "1995-01-03"
+      }
+    },
+    {
+      "id": "Q7889282",
+      "label": "United States Ambassador to China",
+      "title": "United States Ambassador to China",
+      "qualifiers": {
+        "P580": "1996-02-14",
+        "P582": "1999-07-01",
+        "P1545": "6"
+      }
     }
   ],
   "Q155985": [
