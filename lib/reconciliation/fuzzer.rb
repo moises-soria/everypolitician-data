@@ -8,7 +8,6 @@ require 'unicode_utils'
 
 module Reconciliation
   class Fuzzer
-    attr_reader :fuzzer
     attr_reader :existing_rows
     attr_reader :incoming_rows
     attr_reader :instructions
