@@ -1924,7 +1924,8 @@
         "P580": "1963-05-21",
         "P582": "1973-05-24",
         "P1365": "Yitzhak Ben-Zvi",
-        "P1366": "Ephraim Katzir"
+        "P1366": "Ephraim Katzir",
+        "P1545": "3"
       }
     },
     {
@@ -4327,7 +4328,8 @@
         "P580": "1993",
         "P582": "2000",
         "P1365": "Chaim Herzog",
-        "P1366": "Moshe Katsav"
+        "P1366": "Moshe Katsav",
+        "P1545": "7"
       }
     },
     {
@@ -14761,7 +14763,8 @@
       "title": "Knesset member",
       "description": "member of Israeli parliament",
       "qualifiers": {
-        "P580": "2015-03-31"
+        "P580": "2015-03-31",
+        "P582": "2016-11-02"
       }
     }
   ],
@@ -17033,6 +17036,30 @@
       "qualifiers": {
         "P580": "1981-07-20",
         "P582": "1985-02-05"
+      }
+    }
+  ],
+  "Q2906666": [
+    {
+      "id": "Q4047513",
+      "label": "Knesset member",
+      "title": "Knesset member",
+      "description": "member of Israeli parliament",
+      "qualifiers": {
+        "P580": "2006-04-17",
+        "P582": "2009-02-24"
+      }
+    }
+  ],
+  "Q2778041": [
+    {
+      "id": "Q4047513",
+      "label": "Knesset member",
+      "title": "Knesset member",
+      "description": "member of Israeli parliament",
+      "qualifiers": {
+        "P580": "1949-02-14",
+        "P582": "1951-08-20"
       }
     }
   ]
