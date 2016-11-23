@@ -52,7 +52,7 @@ module Task
     end
 
     def updated_data
-      data = existing_data
+      data = existing_data.map { |e| [ e[:name], e ] }.to_h
 
       countries.each do |c|
         country = Everypolitician::Country::Metadata.new(
@@ -61,10 +61,10 @@ module Task
           dirs:            c.legislatures.map { |l| 'data/' + l.directory },
           commit_metadata: commit_metadata
         ).stanza
-        data[data.find_index { |c| c[:name] == country[:name] }] = country
+        data[c[:name]] = country
       end
 
-      data
+      data.values
     end
   end
 end
