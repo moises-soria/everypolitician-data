@@ -20,18 +20,46 @@
       "id": "Q4818607",
       "label": "Attorney-General of Australia",
       "title": "Attorney-General of Australia",
-      "description": "First law officer of the Crown and chief law officer of the Commonwealth of Australia"
+      "description": "First law officer of the Crown and chief law officer of the Commonwealth of Australia",
+      "qualifiers": {
+        "P580": "2013-09-18",
+        "P1365": "Mark Dreyfus"
+      }
     },
     {
       "id": "Q6865994",
       "label": "Minister for the Arts",
-      "title": "Minister for the Arts"
+      "title": "Minister for the Arts",
+      "qualifiers": {
+        "P580": "2013-09-18",
+        "P582": "2015-09-21",
+        "P1365": "Rod Kemp",
+        "P1366": "Mitch Fifield"
+      }
     },
     {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
       "description": "Representative"
+    },
+    {
+      "id": "Q17009655",
+      "label": "Leader of the Government in the Senate",
+      "title": "Leader of the Government in the Senate",
+      "qualifiers": {
+        "P580": "2015-09-20",
+        "P1365": "Eric Abetz"
+      }
+    },
+    {
+      "id": "Q11122003",
+      "label": "Vice-President of the Executive Council",
+      "title": "Vice-President of the Executive Council",
+      "qualifiers": {
+        "P580": "2013-09-18",
+        "P1365": "Tony Burke"
+      }
     }
   ],
   "Q6370069": [
@@ -1178,13 +1206,26 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1990-07-01",
+        "P582": "1997-10-15",
+        "P1365": "Michael Macklin",
+        "P1366": "Andrew Bartlett"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P580": "1998-10-03",
+        "P582": "2001-11-10",
+        "P768": "Dickson",
+        "P1365": "Tony Smith",
+        "P1366": "Peter Dutton"
+      }
     }
   ],
   "Q7498881": [
@@ -1458,13 +1499,25 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Western Australia",
+        "P580": "1973-07-01",
+        "P582": "1990-02-27",
+        "P1366": "Ian Campbell"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Pearce",
+        "P580": "1990-03-24",
+        "P582": "1993-02-08",
+        "P1366": "Judi Moylan"
+      }
     }
   ],
   "Q6828506": [
@@ -2195,7 +2248,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "2002-02-26",
+        "P582": "2011-06-30",
+        "P1365": "Brian Gibson"
+      }
     },
     {
       "id": "Q19007285",
@@ -3045,7 +3103,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1983-03-05",
+        "P582": "2014-06-30"
+      }
     }
   ],
   "Q5235713": [
