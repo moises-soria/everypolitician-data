@@ -1330,6 +1330,94 @@
       ]
     },
     {
+      "birth_date": "1958-01-15",
+      "gender": "male",
+      "given_name": "Božidar",
+      "id": "136c9198-bf2e-4a63-be36-9ba3866d4175",
+      "identifiers": [
+        {
+          "identifier": "Q1560823",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Božidar_Kalmeta.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Božidar_Kalmeta.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Božidar_Kalmeta"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Božidar_Kalmeta"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Božidar_Kalmeta"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Bozhidar_Kallmeta"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Божидар_Калмета"
+        }
+      ],
+      "name": "Božidar Kalmeta",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Božidar Kalmeta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Božidar Kalmeta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Božidar Kalmeta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Božidar Kalmeta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Božidar Kalmeta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Božidar Kalmeta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Bozhidar Kallmeta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Божидар Калмета",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6304"
+        }
+      ]
+    },
+    {
       "birth_date": "1949-09-30",
       "gender": "male",
       "given_name": "Božo",
@@ -3136,6 +3224,11 @@
         },
         {
           "lang": "hr",
+          "name": "Drago Prgomet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Drago Prgomet",
           "note": "multilingual"
         },
@@ -7465,6 +7558,16 @@
       ]
     },
     {
+      "birth_date": "1970-10-25",
+      "id": "5d85ad5b-3d01-4700-971c-1430f76840b7",
+      "name": "Milijan Brkić",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6206"
+        }
+      ]
+    },
+    {
       "birth_date": "1959-04-04",
       "gender": "male",
       "id": "95c9a1c6-1ff6-4173-883b-180396d49cd7",
@@ -8041,7 +8144,7 @@
       ]
     },
     {
-      "birth_date": "1975-10-04",
+      "birth_date": "1975-09-04",
       "gender": "male",
       "id": "4a3cac7f-bab1-4d07-80ff-b5f6bd231e25",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44487",
@@ -9761,7 +9864,7 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19568"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kukuriku.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Silvano_Hrelja_20130325.jpg"
         }
       ],
       "links": [
@@ -16532,6 +16635,14 @@
       "start_date": "2012-01-18"
     },
     {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "136c9198-bf2e-4a63-be36-9ba3866d4175",
+      "role": "member"
+    },
+    {
       "area_id": "area/4th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
@@ -17288,6 +17399,14 @@
       "on_behalf_of_id": "party/hns",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "5d57d36c-35f0-4c70-b271-24a4e84af7f0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "5d85ad5b-3d01-4700-971c-1430f76840b7",
       "role": "member"
     },
     {
