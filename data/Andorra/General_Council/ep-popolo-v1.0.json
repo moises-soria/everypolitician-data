@@ -34,6 +34,29 @@
       ]
     },
     {
+      "birth_date": "1964-09-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "antoni.misse@parlament.ad"
+        }
+      ],
+      "email": "antoni.misse@parlament.ad",
+      "id": "e1a5df73-39ef-4518-8f4c-729d34ef83ea",
+      "image": "++resource++plonetheme.consellgeneral.images/hemicicle/d10.jpg",
+      "images": [
+        {
+          "url": "++resource++plonetheme.consellgeneral.images/hemicicle/d10.jpg"
+        }
+      ],
+      "name": "Antoni Missé Montserrat",
+      "sources": [
+        {
+          "url": "http://www.consellgeneral.ad/ca/composicio-actual/consellers-generals/antoni-misse-montserrat"
+        }
+      ]
+    },
+    {
       "birth_date": "1978-06-06",
       "contact_details": [
         {
@@ -1630,6 +1653,14 @@
       "on_behalf_of_id": "party/liberal",
       "organization_id": "2cbf8397-a80d-40ef-8b64-b633a56468d7",
       "person_id": "dbb2389e-db6d-4c1a-94a5-96f3a6165abe",
+      "role": "member"
+    },
+    {
+      "area_id": "area/circumscripció_parroquial_d'ordino",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/demòcrata",
+      "organization_id": "2cbf8397-a80d-40ef-8b64-b633a56468d7",
+      "person_id": "e1a5df73-39ef-4518-8f4c-729d34ef83ea",
       "role": "member"
     },
     {
