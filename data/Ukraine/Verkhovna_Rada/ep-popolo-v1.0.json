@@ -8357,6 +8357,7 @@
       "patronymic_name": "Іванович"
     },
     {
+      "birth_date": "1983-03-02",
       "family_name": "Данілін",
       "given_name": "Владислав",
       "id": "16b2af38-1f85-4359-aec8-94b02887e4a4",
@@ -8364,6 +8365,10 @@
         {
           "identifier": "20121",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q27910160",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/nf79.jpg",
@@ -8372,7 +8377,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/nf79.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Данілін_Владислав_Юрійович"
+        }
+      ],
       "name": "Данілін Владислав Юрійович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Данілін Владислав Юрійович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Юрійович"
     },
     {
@@ -13038,12 +13056,17 @@
     },
     {
       "family_name": "Констанкевич",
+      "gender": "female",
       "given_name": "Ірина",
       "id": "16715574-db3c-49bf-bb16-e3aacd13e10c",
       "identifiers": [
         {
           "identifier": "20103",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q27910161",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d23_2.jpg",
@@ -13052,7 +13075,20 @@
           "url": "http://static.rada.gov.ua/dep_img8/d23_2.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Констанкевич_Ірина_Мирославівна"
+        }
+      ],
       "name": "Констанкевич Ірина Мирославівна",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Констанкевич Ірина Мирославівна",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Мирославівна"
     },
     {
@@ -31624,13 +31660,19 @@
       "patronymic_name": "Аронович"
     },
     {
+      "birth_date": "1980-12-04",
       "family_name": "Шевченко",
+      "gender": "male",
       "given_name": "Віктор",
       "id": "f75e4346-07f4-435d-b12b-fba7dcc44cc0",
       "identifiers": [
         {
           "identifier": "20104",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q27910158",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d85_2.jpg",
@@ -31639,7 +31681,25 @@
           "url": "http://static.rada.gov.ua/dep_img8/d85_2.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Шевченко_Віктор_Леонідович"
+        }
+      ],
       "name": "Шевченко Віктор Леонідович",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Victor Shevchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Шевченко Віктор Леонідович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Леонідович"
     },
     {
