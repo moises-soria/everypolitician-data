@@ -249,6 +249,16 @@
       "title": "Mayor of Piraeus"
     }
   ],
+  "Q20127736": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens B"
+      }
+    }
+  ],
   "Q12873648": [
     {
       "id": "Q18915989",
@@ -546,7 +556,8 @@
       "label": "Member of the Hellenic Parliament",
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
-        "P580": "2015"
+        "P580": "2015",
+        "P768": "Q18749440"
       }
     }
   ],
@@ -2878,6 +2889,13 @@
       }
     }
   ],
+  "Q19204760": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament"
+    }
+  ],
   "Q19753355": [
     {
       "id": "Q18915989",
@@ -4105,7 +4123,9 @@
       "label": "Member of the Hellenic Parliament",
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
-        "P768": "Evrytania"
+        "P768": "Evrytania",
+        "P580": "1989-06-18",
+        "P582": "1989-09-26"
       }
     }
   ],
@@ -4559,6 +4579,35 @@
       "description": "Greek government minister"
     }
   ],
+  "Q9267349": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Athens A"
+      }
+    },
+    {
+      "id": "Q23836175",
+      "label": "Q23836175",
+      "title": "Q23836175"
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Thessaloniki A"
+      }
+    }
+  ],
   "Q18572849": [
     {
       "id": "Q18915989",
@@ -4640,6 +4689,16 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Thessaloniki A"
+      }
+    }
+  ],
+  "Q19827963": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q12876830"
       }
     }
   ],
@@ -7277,6 +7336,16 @@
       "label": "Q23639069",
       "title": "Q23639069",
       "description": "undersecretary to a ministry of the Greek government"
+    }
+  ],
+  "Q15925968": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q16331127"
+      }
     }
   ],
   "Q18978105": [
