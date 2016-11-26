@@ -60,6 +60,11 @@
       {
         "id": "Q11634582",
         "name": "Senior Vice Minister of Finance"
+      },
+      {
+        "id": "Q11525354",
+        "name": "Governor of Tokyo",
+        "description": null
       }
     ],
     "party": [
@@ -70,6 +75,28 @@
     ],
     "other": [
 
+    ],
+    "cabinet": [
+      {
+        "id": "Q842359",
+        "name": "Minister of Education, Culture, Sports, Science and Technology of Japan",
+        "description": "position"
+      },
+      {
+        "id": "Q841962",
+        "name": "Minister of Health, Labour and Welfare",
+        "description": "ministry in the government of Japan"
+      },
+      {
+        "id": "Q1578065",
+        "name": "Minister of Internal Affairs and Communications",
+        "description": "position"
+      },
+      {
+        "id": "Q1104488",
+        "name": "Minister of the Environment",
+        "description": "in Japan"
+      }
     ]
   },
   "unknown": {
@@ -78,36 +105,6 @@
         "id": "Q1623534",
         "name": "Governor (Japan)",
         "description": "highest ranking executive of a prefecture",
-        "count": 1
-      },
-      {
-        "id": "Q11525354",
-        "name": "Governor of Tokyo",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q842359",
-        "name": "Minister of Education, Culture, Sports, Science and Technology of Japan",
-        "description": "position",
-        "count": 10
-      },
-      {
-        "id": "Q841962",
-        "name": "Minister of Health, Labour and Welfare",
-        "description": "ministry in the government of Japan",
-        "count": 4
-      },
-      {
-        "id": "Q1578065",
-        "name": "Minister of Internal Affairs and Communications",
-        "description": "position",
-        "count": 8
-      },
-      {
-        "id": "Q1104488",
-        "name": "Minister of the Environment",
-        "description": "in Japan",
         "count": 1
       },
       {
