@@ -1777,6 +1777,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/261393/upload_ref_binary/261393.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/261393/upload_ref_binary/261393.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -2158,10 +2164,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BU8/upload_ref_binary/bu8.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BU8/upload_ref_binary/BU8.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BU8/upload_ref_binary/bu8.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BU8/upload_ref_binary/BU8.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Andrew_Leigh_MP.jpg"
@@ -2373,6 +2379,10 @@
         {
           "identifier": "/m/01s349",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "n78002838",
+          "scheme": "lcauth"
         },
         {
           "identifier": "10510",
@@ -2954,6 +2964,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "nr2005000802",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "10727",
           "scheme": "openaustralia"
         },
@@ -2970,10 +2984,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C2T/upload_ref_binary/c2t.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C2T/upload_ref_binary/C2T.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C2T/upload_ref_binary/c2t.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C2T/upload_ref_binary/C2T.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Andrew_Wilkie_2.jpg"
@@ -6597,6 +6611,10 @@
         {
           "identifier": "0000 0000 6406 1524",
           "scheme": "isni"
+        },
+        {
+          "identifier": "no2003065456",
+          "scheme": "lcauth"
         },
         {
           "identifier": "10314",
@@ -20866,6 +20884,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "n96077522",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "10698",
           "scheme": "openaustralia"
         },
@@ -21376,7 +21398,7 @@
         },
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:John_Howard"
+          "url": "https://commons.wikipedia.org/wiki/John_Howard"
         },
         {
           "note": "Wikipedia (cs)",
@@ -23389,6 +23411,12 @@
         {
           "identifier": "Q25753048",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/18661/upload_ref_binary/18661.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/18661/upload_ref_binary/18661.jpg"
         }
       ],
       "links": [
@@ -35589,6 +35617,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n00028929",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "10053",
           "scheme": "openaustralia"
         },
@@ -37929,6 +37961,10 @@
         {
           "identifier": "504569",
           "scheme": "fast"
+        },
+        {
+          "identifier": "no2004009928",
+          "scheme": "lcauth"
         },
         {
           "identifier": "10012",
@@ -40740,6 +40776,12 @@
         {
           "identifier": "Q25324881",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265980/upload_ref_binary/265980.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265980/upload_ref_binary/265980.jpg"
         }
       ],
       "links": [
@@ -47506,6 +47548,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "n00109992",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "10226",
           "scheme": "openaustralia"
         },
@@ -51568,6 +51614,16 @@
         {
           "lang": "ko",
           "name": "기독교민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Call to Australia Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fred Nile Group",
           "note": "multilingual"
         }
       ]
