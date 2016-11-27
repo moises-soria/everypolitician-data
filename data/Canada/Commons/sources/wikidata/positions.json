@@ -694,6 +694,20 @@
       "title": "Dean of the House"
     }
   ],
+  "Q19428900": [
+    {
+      "id": "Q15964890",
+      "label": "member of the House of Commons of Canada",
+      "title": "member of the House of Commons of Canada",
+      "description": "representative elected by the canadian voters"
+    },
+    {
+      "id": "Q17763739",
+      "label": "minister of justice",
+      "title": "minister of justice",
+      "description": "justice minister of a state"
+    }
+  ],
   "Q3187235": [
     {
       "id": "Q15964890",
@@ -4119,6 +4133,17 @@
       "label": "Minister of Small Business and Tourism",
       "title": "Minister of Small Business and Tourism",
       "description": "Canadian minister"
+    },
+    {
+      "id": "Q3251837",
+      "label": "Minister of Canadian Heritage",
+      "title": "Minister of Canadian Heritage",
+      "qualifiers": {
+        "P580": "2011-06-21",
+        "P582": "2013-10-28",
+        "P1365": "Michael Chong",
+        "P1366": "Gord Brown"
+      }
     }
   ],
   "Q7297216": [
