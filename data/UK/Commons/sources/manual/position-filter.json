@@ -554,6 +554,21 @@
       {
         "id": "Q1937160",
         "name": "minister without portfolio"
+      },
+      {
+        "id": "Q17110513",
+        "name": "Minister for Security and Immigration",
+        "description": null
+      },
+      {
+        "id": "Q25991521",
+        "name": "Minister of State for Higher Education",
+        "description": "UK minister of state"
+      },
+      {
+        "id": "Q26205903",
+        "name": "Under-Secretary of State for Culture, Media and Sport",
+        "description": "UK parliamentary under-secretary"
       }
     ],
     "party": [
@@ -820,6 +835,16 @@
       {
         "id": "Q22981805",
         "name": "Vice-President of Sinn Féin"
+      },
+      {
+        "id": "Q6540616",
+        "name": "Liberal Democrat Frontbench Team",
+        "description": null
+      },
+      {
+        "id": "Q23649291",
+        "name": "Shadow Secretary of State for Communities and Local Government",
+        "description": null
       }
     ],
     "other": [
@@ -1031,7 +1056,15 @@
       {
         "id": "Q23729452",
         "name": "deputy First Minister"
+      },
+      {
+        "id": "Q27037814",
+        "name": "President of the Board of Trade",
+        "description": "head of the Board of Trade, a committee of the Privy Council of the United Kingdom"
       }
+    ],
+    "cabinet": [
+
     ]
   },
   "unknown": {
@@ -1103,34 +1136,16 @@
         "count": 1
       },
       {
-        "id": "Q6540616",
-        "name": "Liberal Democrat Frontbench Team",
-        "description": null,
-        "count": 7
-      },
-      {
         "id": "Q24060535",
         "name": "Liberal Democrat Home Affairs spokesman",
         "description": null,
         "count": 2
       },
       {
-        "id": "Q17110513",
-        "name": "Minister for Security and Immigration",
-        "description": null,
-        "count": 1
-      },
-      {
         "id": "Q2632935",
         "name": "Minister of State",
         "description": "junior minister, who is assigned to assist a specific cabinet minister",
         "count": 2
-      },
-      {
-        "id": "Q25991521",
-        "name": "Minister of State for Higher Education",
-        "description": "UK minister of state",
-        "count": 1
       },
       {
         "id": "Q2579210",
@@ -1145,27 +1160,9 @@
         "count": 1
       },
       {
-        "id": "Q27037814",
-        "name": "President of the Board of Trade",
-        "description": "head of the Board of Trade, a committee of the Privy Council of the United Kingdom",
-        "count": 1
-      },
-      {
         "id": "Q7257298",
         "name": "Public Accounts Committee",
         "description": "select committee of the British House of Commons",
-        "count": 1
-      },
-      {
-        "id": "Q23649291",
-        "name": "Shadow Secretary of State for Communities and Local Government",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q26205903",
-        "name": "Under-Secretary of State for Culture, Media and Sport",
-        "description": "UK parliamentary under-secretary",
         "count": 1
       },
       {
