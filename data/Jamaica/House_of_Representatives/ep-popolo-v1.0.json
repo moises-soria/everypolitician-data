@@ -31,6 +31,12 @@
     },
     {
       "birth_date": "1972-07-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "andrewholnessjm"
+        }
+      ],
       "gender": "male",
       "given_name": "Andrew",
       "id": "3eeb8130-3b7e-4e63-9dc0-3459527c4719",
@@ -42,6 +48,10 @@
         {
           "identifier": "/m/05ztpm6",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm5238197",
+          "scheme": "imdb"
         },
         {
           "identifier": "Q505200",
@@ -119,6 +129,10 @@
           "url": "https://pl.wikipedia.org/wiki/Andrew_Holness"
         },
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Andrew_Holness"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Холнесс,_Эндрю"
         },
@@ -133,6 +147,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/安德鲁·霍尼斯"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/andrewholnessjm"
         }
       ],
       "name": "Andrew Holness",
@@ -3476,6 +3494,10 @@
         {
           "identifier": "/m/011nqlzs",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "n82004376",
+          "scheme": "lcauth"
         },
         {
           "identifier": "05712700X",
