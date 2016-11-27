@@ -11,7 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/openpolis.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/openpolis-scraper",
@@ -23,7 +23,7 @@
         "incoming_field": "name",
         "existing_field": "name",
         "term_match": true,
-        "reconciliation_file": "reconciliation/data.csv"
+        "reconciliation_file": "reconciliation/openpolis.csv"
       }
     },
     {
