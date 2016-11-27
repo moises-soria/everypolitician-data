@@ -11499,15 +11499,14 @@
   ],
   "Q168606": [
     {
-      "id": "Q2632935",
-      "label": "Minister of State",
-      "title": "Minister of State (of Cabinet Office)",
-      "description": "junior minister, who is assigned to assist a specific cabinet minister",
+      "id": "Q27920184",
+      "label": "Minister of State for Third Sector",
+      "title": "Minister of State for Third Sector",
+      "description": "UK minister of state",
       "qualifiers": {
         "P580": "2009-06-08",
         "P582": "2010-05-11",
-        "P1365": "Kevin Brennan",
-        "P642": "Cabinet Office"
+        "P1365": "Kevin Brennan"
       }
     },
     {
@@ -22009,6 +22008,12 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q27920184",
+      "label": "Minister of State for Third Sector",
+      "title": "Minister of State for Third Sector",
+      "description": "UK minister of state"
     }
   ],
   "Q333721": [
