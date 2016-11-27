@@ -49,47 +49,6 @@
     ],
     "executive": [
       {
-        "id": "Q21113166",
-        "name": "Minister of City Affairs"
-      },
-      {
-        "id": "Q12436652",
-        "name": "Minister of Culture"
-      },
-      {
-        "id": "Q20203208",
-        "name": "Minister of Foreign Affairs and International Development"
-      },
-      {
-        "id": "Q3251880",
-        "name": "Minister of Health"
-      },
-      {
-        "id": "Q17553783",
-        "name": "Minister of Justice",
-        "description": "French cabinet position"
-      },
-      {
-        "id": "Q16059954",
-        "name": "Minister of National Education"
-      },
-      {
-        "id": "Q1408517",
-        "name": "Minister of Social Affairs"
-      },
-      {
-        "id": "Q20202948",
-        "name": "Minister of the Economy, Finances and Industry"
-      },
-      {
-        "id": "Q20203006",
-        "name": "Minister of the Interior"
-      },
-      {
-        "id": "Q2726949",
-        "name": "Ministry of Higher Education and Research"
-      },
-      {
         "id": "Q191954",
         "name": "President of the French Republic",
         "description": "head of state of France"
@@ -178,6 +137,43 @@
         "description": "French cabinet minister"
       },
       {
+        "id": "Q21113166",
+        "name": "Minister of City Affairs"
+      },
+      {
+        "id": "Q12436652",
+        "name": "Minister of Culture"
+      },
+      {
+        "id": "Q20203208",
+        "name": "Minister of Foreign Affairs and International Development"
+      },
+      {
+        "id": "Q3251880",
+        "name": "Minister of Health"
+      },
+      {
+        "id": "Q17553783",
+        "name": "Minister of Justice",
+        "description": "French cabinet position"
+      },
+      {
+        "id": "Q16059954",
+        "name": "Minister of National Education"
+      },
+      {
+        "id": "Q1408517",
+        "name": "Minister of Social Affairs"
+      },
+      {
+        "id": "Q20202948",
+        "name": "Minister of the Economy, Finances and Industry"
+      },
+      {
+        "id": "Q20203006",
+        "name": "Minister of the Interior"
+      },
+      {
         "id": "Q3251870",
         "name": "Minister of Youth Affairs and Sports",
         "description": "Wikimedia list article"
@@ -213,6 +209,12 @@
       {
         "id": "Q2602778",
         "name": "Ministry of Ecology, Sustainable Development and Energy",
+        "description": null,
+        "count": 1
+      },
+      {
+        "id": "Q2726949",
+        "name": "Ministry of Higher Education and Research",
         "description": null,
         "count": 1
       },
