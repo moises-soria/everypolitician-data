@@ -129,40 +129,8 @@
     ],
     "executive": [
       {
-        "id": "Q56022",
-        "name": "Chancellor of Germany"
-      },
-      {
         "id": "Q4970706",
         "name": "Federal Chancellor of Germany"
-      },
-      {
-        "id": "Q518564",
-        "name": "Federal Minister for Special Affairs of Germany"
-      },
-      {
-        "id": "Q22575092",
-        "name": "Federal Minister of Finance"
-      },
-      {
-        "id": "Q22575628",
-        "name": "Federal Minister of the Interior"
-      },
-      {
-        "id": "Q2006176",
-        "name": "Minister for Foreign Affairs"
-      },
-      {
-        "id": "Q23016036",
-        "name": "Minister of Defence"
-      },
-      {
-        "id": "Q1692885",
-        "name": "Minister of Federal Affairs, Europe and Media of North Rhine-Westphalia"
-      },
-      {
-        "id": "Q3099723",
-        "name": "Minister-President"
       },
       {
         "id": "Q896829",
@@ -175,12 +143,22 @@
       {
         "id": "Q504272",
         "name": "Vice-Chancellor of Germany"
+      },
+      {
+        "id": "Q449319",
+        "name": "Public Prosecutor General",
+        "description": "federal prosecutor of Germany"
       }
     ],
     "party": [
       {
         "id": "Q1307072",
         "name": "Chief Whip"
+      },
+      {
+        "id": "Q25360395",
+        "name": "President of the Party of European Socialists",
+        "description": "EU party leader"
       }
     ],
     "other": [
@@ -307,17 +285,58 @@
       {
         "id": "Q167662",
         "name": "Secretary General of NATO"
+      },
+      {
+        "id": "Q26205432",
+        "name": "Ambassador of Germany to Bulgaria",
+        "description": null
+      }
+    ],
+    "cabinet": [
+      {
+        "id": "Q56022",
+        "name": "Chancellor of Germany",
+        "description": "head of government of Germany"
+      },
+      {
+        "id": "Q518564",
+        "name": "Federal Minister for Special Affairs of Germany",
+        "description": "Minister in the government of Germany without particular portfolio"
+      },
+      {
+        "id": "Q22575092",
+        "name": "Federal Minister of Finance",
+        "description": null
+      },
+      {
+        "id": "Q22575628",
+        "name": "Federal Minister of the Interior",
+        "description": null
+      },
+      {
+        "id": "Q2006176",
+        "name": "Minister for Foreign Affairs",
+        "description": "head of the Federal Foreign Office in Germany"
+      },
+      {
+        "id": "Q23016036",
+        "name": "Minister of Defence",
+        "description": "German cabinet position"
+      },
+      {
+        "id": "Q1692885",
+        "name": "Minister of Federal Affairs, Europe and Media of North Rhine-Westphalia",
+        "description": null
+      },
+      {
+        "id": "Q3099723",
+        "name": "Minister-President",
+        "description": "political office, head of the executive branch of a sovereign country or federal state"
       }
     ]
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q26205432",
-        "name": "Ambassador of Germany to Bulgaria",
-        "description": null,
-        "count": 1
-      },
       {
         "id": "Q544178",
         "name": "Attaché",
@@ -328,7 +347,7 @@
         "id": "Q248352",
         "name": "Bundesminister",
         "description": "cabinet office in the government of Germany",
-        "count": 64
+        "count": 63
       },
       {
         "id": "Q316598",
@@ -454,18 +473,6 @@
         "id": "Q15303678",
         "name": "President by age",
         "description": "oldest member of the german Bundestag",
-        "count": 1
-      },
-      {
-        "id": "Q25360395",
-        "name": "President of the Party of European Socialists",
-        "description": "EU party leader",
-        "count": 1
-      },
-      {
-        "id": "Q449319",
-        "name": "Public Prosecutor General",
-        "description": "federal prosecutor of Germany",
         "count": 1
       },
       {
@@ -658,7 +665,7 @@
         "id": "Q30185",
         "name": "mayor",
         "description": "head of municipal government such as a town or city",
-        "count": 346
+        "count": 345
       },
       {
         "id": "Q486839",
