@@ -693,7 +693,12 @@
     {
       "id": "Q16556694",
       "label": "member of the Lok Sabha",
-      "title": "member of the Lok Sabha"
+      "title": "member of the Lok Sabha",
+      "qualifiers": {
+        "P580": "2009",
+        "P768": "Thiruvananthapuram",
+        "P1365": "Pannyan Raveendran"
+      }
     }
   ],
   "Q15456220": [
@@ -2375,7 +2380,8 @@
       "label": "member of the Lok Sabha",
       "title": "member of the Lok Sabha",
       "qualifiers": {
-        "P768": "Hajipur"
+        "P768": "Hajipur",
+        "P1545": "16"
       }
     },
     {
@@ -2940,12 +2946,28 @@
     {
       "id": "Q16556694",
       "label": "member of the Lok Sabha",
-      "title": "member of the Lok Sabha"
+      "title": "member of the Lok Sabha",
+      "qualifiers": {
+        "P580": "2014",
+        "P582": "2004",
+        "P768": "Saran",
+        "P1365": "Lalu Prasad Yadav",
+        "P1366": "Lalu Prasad Yadav"
+      }
     },
     {
       "id": "Q17324844",
       "label": "member of the Rajya Sabha",
       "title": "member of the Rajya Sabha"
+    },
+    {
+      "id": "Q24457068",
+      "label": "Member of the Bihar Legislative Assembly",
+      "title": "Member of the Bihar Legislative Assembly",
+      "qualifiers": {
+        "P580": "1994",
+        "P582": "1995"
+      }
     }
   ],
   "Q6713205": [
@@ -3294,6 +3316,12 @@
       "id": "Q17324844",
       "label": "member of the Rajya Sabha",
       "title": "member of the Rajya Sabha"
+    },
+    {
+      "id": "Q6866301",
+      "label": "Minister of Railways",
+      "title": "Minister of Railways",
+      "description": "head of the Ministry of Railways in India"
     }
   ],
   "Q16937372": [
