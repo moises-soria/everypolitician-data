@@ -11292,7 +11292,7 @@
       "id": "Q17763739",
       "label": "minister of justice",
       "title": "minister of justice",
-      "description": "Justice minister of a state"
+      "description": "justice minister of a state"
     },
     {
       "id": "Q21030356",
@@ -13416,6 +13416,18 @@
       "label": "Member of the Grand National Assembly of Turkey",
       "title": "Member of the Grand National Assembly of Turkey",
       "description": "Turkish MP"
+    },
+    {
+      "id": "Q2430415",
+      "label": "Prime Minister of Turkey",
+      "title": "Prime Minister of Turkey",
+      "description": "head of government of Turkey",
+      "qualifiers": {
+        "P580": "1965-02-20",
+        "P582": "1965-10-27",
+        "P1365": "İsmet İnönü",
+        "P1366": "Süleyman Demirel"
+      }
     }
   ],
   "Q6058512": [
@@ -29097,7 +29109,8 @@
         "P580": "1989-11-09",
         "P582": "1993-04-17",
         "P1365": "Kenan Evren",
-        "P1366": "Süleyman Demirel"
+        "P1366": "Süleyman Demirel",
+        "P1545": "8"
       }
     },
     {
@@ -29107,7 +29120,8 @@
       "qualifiers": {
         "P580": "1980-09-20",
         "P582": "1982-07-14",
-        "P1365": "Turhan Feyzioğlu"
+        "P1365": "Turhan Feyzioğlu",
+        "P1366": "Kaya Erdem"
       }
     },
     {
@@ -30026,13 +30040,30 @@
       "id": "Q2430415",
       "label": "Prime Minister of Turkey",
       "title": "Prime Minister of Turkey",
-      "description": "head of government of Turkey"
+      "description": "head of government of Turkey",
+      "qualifiers": {
+        "P580": "1993-06-25",
+        "P582": "1996-03-06",
+        "P1365": "Süleyman Demirel",
+        "P1366": "Mesut Yılmaz"
+      }
     },
     {
       "id": "Q21030356",
       "label": "Member of the Grand National Assembly of Turkey",
       "title": "Member of the Grand National Assembly of Turkey",
       "description": "Turkish MP"
+    },
+    {
+      "id": "Q5261074",
+      "label": "Deputy Prime Minister of Turkey",
+      "title": "Deputy Prime Minister of Turkey",
+      "qualifiers": {
+        "P580": "1996-06-28",
+        "P582": "1997-06-30",
+        "P1365": "Nahit Menteşe",
+        "P1366": "İsmet Sezgin"
+      }
     }
   ],
   "Q6038351": [
