@@ -30,50 +30,24 @@
         "id": "Q23906822",
         "name": "member of the Regional Council of Réunion",
         "description": null
+      },
+      {
+        "id": "Q17619252",
+        "name": "Senator of Belgium",
+        "description": "member of the Belgian Senate"
+      },
+      {
+        "id": "Q2994376",
+        "name": "Vendée councillor",
+        "description": "Wikimedia disambiguation page"
+      },
+      {
+        "id": "Q15705021",
+        "name": "member of the Chamber of Representatives of Belgium",
+        "description": "member of the lower house of the federal parliament of Belgium"
       }
     ],
     "executive": [
-      {
-        "id": "Q21113166",
-        "name": "Minister of City Affairs"
-      },
-      {
-        "id": "Q12436652",
-        "name": "Minister of Culture"
-      },
-      {
-        "id": "Q20203208",
-        "name": "Minister of Foreign Affairs and International Development"
-      },
-      {
-        "id": "Q3251880",
-        "name": "Minister of Health"
-      },
-      {
-        "id": "Q17553783",
-        "name": "Minister of Justice",
-        "description": "French cabinet position"
-      },
-      {
-        "id": "Q16059954",
-        "name": "Minister of National Education"
-      },
-      {
-        "id": "Q1408517",
-        "name": "Minister of Social Affairs"
-      },
-      {
-        "id": "Q20202948",
-        "name": "Minister of the Economy, Finances and Industry"
-      },
-      {
-        "id": "Q20203006",
-        "name": "Minister of the Interior"
-      },
-      {
-        "id": "Q2726949",
-        "name": "Ministry of Higher Education and Research"
-      },
       {
         "id": "Q191954",
         "name": "President of the French Republic",
@@ -139,6 +113,70 @@
         "id": "Q23719260",
         "name": "mayor of Saint-Denis",
         "description": "mayor in Réunion"
+      },
+      {
+        "id": "Q20054152",
+        "name": "Managing Director of the International Monetary Fund",
+        "description": null
+      },
+      {
+        "id": "Q27898073",
+        "name": "Mayor of Bordeaux",
+        "description": null
+      },
+      {
+        "id": "Q3253694",
+        "name": "President of the Government of New Caledonia",
+        "description": null
+      }
+    ],
+    "cabinet": [
+      {
+        "id": "Q25398921",
+        "name": "Minister of Higher Education",
+        "description": "French cabinet minister"
+      },
+      {
+        "id": "Q21113166",
+        "name": "Minister of City Affairs"
+      },
+      {
+        "id": "Q12436652",
+        "name": "Minister of Culture"
+      },
+      {
+        "id": "Q20203208",
+        "name": "Minister of Foreign Affairs and International Development"
+      },
+      {
+        "id": "Q3251880",
+        "name": "Minister of Health"
+      },
+      {
+        "id": "Q17553783",
+        "name": "Minister of Justice",
+        "description": "French cabinet position"
+      },
+      {
+        "id": "Q16059954",
+        "name": "Minister of National Education"
+      },
+      {
+        "id": "Q1408517",
+        "name": "Minister of Social Affairs"
+      },
+      {
+        "id": "Q20202948",
+        "name": "Minister of the Economy, Finances and Industry"
+      },
+      {
+        "id": "Q20203006",
+        "name": "Minister of the Interior"
+      },
+      {
+        "id": "Q3251870",
+        "name": "Minister of Youth Affairs and Sports",
+        "description": "Wikimedia list article"
       }
     ]
   },
@@ -163,38 +201,20 @@
         "count": 1
       },
       {
-        "id": "Q20054152",
-        "name": "Managing Director of the International Monetary Fund",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q27898073",
-        "name": "Mayor of Bordeaux",
-        "description": null,
-        "count": 3
-      },
-      {
         "id": "Q16543547",
         "name": "Member of the Departmental Council",
         "description": "elected member of the local assembly of a French department",
         "count": 1
       },
       {
-        "id": "Q25398921",
-        "name": "Minister of Higher Education",
-        "description": "French cabinet minister",
-        "count": 2
-      },
-      {
-        "id": "Q3251870",
-        "name": "Minister of Youth Affairs and Sports",
-        "description": "Wikimedia list article",
+        "id": "Q2602778",
+        "name": "Ministry of Ecology, Sustainable Development and Energy",
+        "description": null,
         "count": 1
       },
       {
-        "id": "Q2602778",
-        "name": "Ministry of Ecology, Sustainable Development and Energy",
+        "id": "Q2726949",
+        "name": "Ministry of Higher Education and Research",
         "description": null,
         "count": 1
       },
@@ -211,12 +231,6 @@
         "count": 1
       },
       {
-        "id": "Q3253694",
-        "name": "President of the Government of New Caledonia",
-        "description": null,
-        "count": 1
-      },
-      {
         "id": "Q23090514",
         "name": "Q23090514",
         "description": null,
@@ -226,18 +240,6 @@
         "id": "Q26266362",
         "name": "Q26266362",
         "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q17619252",
-        "name": "Senator of Belgium",
-        "description": "member of the Belgian Senate",
-        "count": 1
-      },
-      {
-        "id": "Q2994376",
-        "name": "Vendée councillor",
-        "description": "Wikimedia disambiguation page",
         "count": 1
       },
       {
@@ -281,12 +283,6 @@
         "name": "mayor of the borough",
         "description": null,
         "count": 6
-      },
-      {
-        "id": "Q15705021",
-        "name": "member of the Chamber of Representatives of Belgium",
-        "description": "member of the lower house of the federal parliament of Belgium",
-        "count": 1
       },
       {
         "id": "Q83307",
