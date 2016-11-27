@@ -2269,25 +2269,82 @@
       "id": "Q4818607",
       "label": "Attorney-General of Australia",
       "title": "Attorney-General of Australia",
-      "description": "First law officer of the Crown and chief law officer of the Commonwealth of Australia"
+      "description": "First law officer of the Crown and chief law officer of the Commonwealth of Australia",
+      "qualifiers": {
+        "P580": "1983-03-11",
+        "P582": "1984-12-13",
+        "P1365": "Peter Durack",
+        "P1366": "Lionel Bowen"
+      }
     },
     {
       "id": "Q2660943",
       "label": "Minister for Foreign Affairs",
       "title": "Minister for Foreign Affairs",
-      "description": "Australian ministerial position, responsible for overseeing Department of Foreign Affairs and Trade"
+      "description": "Australian ministerial position, responsible for overseeing Department of Foreign Affairs and Trade",
+      "qualifiers": {
+        "P580": "1988-09-02",
+        "P582": "1996-03-11",
+        "P1365": "Bill Hayden",
+        "P1366": "Alexander Downer"
+      }
     },
     {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1978-07-01",
+        "P582": "1996-03-02",
+        "P1366": "Stephen Conroy"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P580": "1996-03-02",
+        "P582": "1999-09-30",
+        "P1365": "Michael Duffy",
+        "P1366": "Anthony Byrne"
+      }
+    },
+    {
+      "id": "Q17009655",
+      "label": "Leader of the Government in the Senate",
+      "title": "Leader of the Government in the Senate",
+      "qualifiers": {
+        "P580": "1993-03-24",
+        "P582": "1996-03-11",
+        "P1365": "John Button",
+        "P1366": "Robert Hill"
+      }
+    },
+    {
+      "id": "Q6865888",
+      "label": "Minister for Infrastructure and Transport",
+      "title": "Minister for Infrastructure and Transport",
+      "qualifiers": {
+        "P580": "1987-07-24",
+        "P582": "1988-09-02",
+        "P1365": "Peter Morris",
+        "P1366": "Ralph Willis"
+      }
+    },
+    {
+      "id": "Q6865883",
+      "label": "Minister for Industry and Innovation",
+      "title": "Minister for Industry and Innovation",
+      "description": "portfolio in the Government of Australia",
+      "qualifiers": {
+        "P580": "1984-12-13",
+        "P582": "1987-07-24",
+        "P1365": "Peter Walsh",
+        "P1366": "John Kerin"
+      }
     }
   ],
   "Q4861362": [
