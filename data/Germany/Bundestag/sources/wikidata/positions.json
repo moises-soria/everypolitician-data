@@ -1776,7 +1776,10 @@
       "id": "Q30185",
       "label": "mayor",
       "title": "mayor",
-      "description": "head of municipal government such as a town or city"
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P768": "Q1560735"
+      }
     }
   ],
   "Q1515619": [
@@ -6091,12 +6094,28 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "1976-12-14",
+        "P582": "2005-10-18"
+      }
     },
     {
       "id": "Q19360355",
       "label": "Member of the Hamburg Parliament",
       "title": "Member of the Hamburg Parliament"
+    },
+    {
+      "id": "Q23016036",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence",
+      "description": "German cabinet position",
+      "qualifiers": {
+        "P580": "1992-04-01",
+        "P582": "1998-10-26",
+        "P1365": "Gerhard Stoltenberg",
+        "P1366": "Rudolf Scharping"
+      }
     }
   ],
   "Q2576988": [
@@ -11563,10 +11582,10 @@
       "description": "German legislator between 1919 and 1933"
     },
     {
-      "id": "Q30185",
-      "label": "mayor",
-      "title": "mayor",
-      "description": "head of municipal government such as a town or city"
+      "id": "Q641159",
+      "label": "Governing Mayor of Berlin",
+      "title": "Governing Mayor of Berlin",
+      "description": "head of government presiding over the Berlin Senate"
     },
     {
       "id": "Q18327335",
@@ -20321,7 +20340,8 @@
         "P580": "1988-07-01",
         "P582": "1994-08-13",
         "P1365": "Peter Carington, 6th Baron Carrington",
-        "P1366": "Sergio Balanzino"
+        "P1366": "Sergio Balanzino",
+        "P1545": "7"
       }
     },
     {
@@ -30067,6 +30087,18 @@
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament"
+    },
+    {
+      "id": "Q504272",
+      "label": "Vice-Chancellor of Germany",
+      "title": "Vice-Chancellor of Germany",
+      "description": "position",
+      "qualifiers": {
+        "P580": "1993-01-21",
+        "P582": "1998-10-26",
+        "P1365": "Jürgen Möllemann",
+        "P1366": "Joschka Fischer"
+      }
     }
   ],
   "Q69115": [
@@ -40734,7 +40766,9 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
-        "P580": "2009-10-27"
+        "P580": "2009-10-27",
+        "P582": "",
+        "P768": "Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I"
       }
     },
     {
@@ -40746,16 +40780,6 @@
         "P580": "2013-12-17",
         "P1365": "Guido Westerwelle",
         "P361": "Third Merkel cabinet"
-      }
-    },
-    {
-      "id": "Q248352",
-      "label": "Bundesminister",
-      "title": "Bundesminister",
-      "description": "cabinet office in the government of Germany",
-      "qualifiers": {
-        "P580": "2013-12-17",
-        "P488": "Foreign Office"
       }
     }
   ],
@@ -41349,14 +41373,6 @@
       "id": "Q18327335",
       "label": "Member of the Abgeordnetenhaus of Berlin",
       "title": "Member of the Abgeordnetenhaus of Berlin"
-    }
-  ],
-  "Q15851939": [
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
     }
   ],
   "Q15114982": [
