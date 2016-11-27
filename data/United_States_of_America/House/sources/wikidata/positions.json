@@ -241,7 +241,13 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1953-08-01",
+        "P582": "1994-03-29",
+        "P1365": "Garrett L. Withers",
+        "P1366": "Ron Lewis"
+      }
     }
   ],
   "Q2165572": [
@@ -257,7 +263,11 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2013-01-03",
+        "P1365": "Dan Lungren"
+      }
     }
   ],
   "Q6376887": [
@@ -977,7 +987,11 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "2009-01-02",
+        "P1365": "Rod Blagojevich"
+      }
     },
     {
       "id": "Q1760078",
@@ -1830,6 +1844,26 @@
       "label": "member of the Illinois House of Representatives",
       "title": "member of the Illinois House of Representatives",
       "description": "political office in Illinois, USA"
+    },
+    {
+      "id": "Q5255561",
+      "label": "Democratic Caucus Chairman of the United States House of Representatives",
+      "title": "Democratic Caucus Chairman of the United States House of Representatives",
+      "qualifiers": {
+        "P580": "1967-01-03",
+        "P582": "1971-01-03",
+        "P1365": "Eugene James Keogh",
+        "P1366": "Olin Earl Teague"
+      }
+    },
+    {
+      "id": "Q20058778",
+      "label": "member of the State Senate of Illinois",
+      "title": "member of the State Senate of Illinois",
+      "qualifiers": {
+        "P580": "1954",
+        "P582": "1959"
+      }
     }
   ],
   "Q5723703": [
@@ -1982,7 +2016,27 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1969-01-03",
+        "P582": "1989-01-03",
+        "P768": "New Mexico's 1st congressional district",
+        "P1365": "Thomas G. Morris",
+        "P1366": "Steven Schiff"
+      }
+    },
+    {
+      "id": "Q2287650",
+      "label": "United States Secretary of the Interior",
+      "title": "United States Secretary of the Interior",
+      "description": "head of the Department of the Interior in the United States government",
+      "qualifiers": {
+        "P580": "1989-02-03",
+        "P582": "1993-01-20",
+        "P1365": "Donald P. Hodel",
+        "P1366": "Bruce Babbitt",
+        "P1545": "46"
+      }
     }
   ],
   "Q1166592": [
@@ -2246,7 +2300,10 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P768": "Pennsylvania's 7th congressional district"
+      }
     }
   ],
   "Q339046": [
@@ -2335,7 +2392,11 @@
     {
       "id": "Q17487661",
       "label": "Member of the Mississippi House of Representatives",
-      "title": "Member of the Mississippi House of Representatives"
+      "title": "Member of the Mississippi House of Representatives",
+      "qualifiers": {
+        "P580": "1931",
+        "P582": "1932"
+      }
     },
     {
       "id": "Q5246680",
@@ -2345,7 +2406,8 @@
         "P580": "1979-01-03",
         "P582": "1995-01-03",
         "P1365": "George H. Mahon",
-        "P1366": "John Dingell, Jr."
+        "P1366": "John Dingell, Jr.",
+        "P1545": "42"
       }
     }
   ],
@@ -3260,13 +3322,30 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2009-01-03",
+        "P1365": "Pete Domenici"
+      }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q4818643",
+      "label": "Attorney General of New Mexico",
+      "title": "Attorney General of New Mexico",
+      "description": "attorney general for the U.S. state of New Mexico",
+      "qualifiers": {
+        "P580": "1991-01-01",
+        "P582": "1999-01-01",
+        "P1365": "Hal Stratton",
+        "P1366": "Patricia A. Madrid",
+        "P1545": "28"
+      }
     }
   ],
   "Q1164657": [
@@ -3544,7 +3623,27 @@
     {
       "id": "Q20198851",
       "label": "Governor of Florida",
-      "title": "Governor of Florida"
+      "title": "Governor of Florida",
+      "qualifiers": {
+        "P580": "1998-12-12",
+        "P582": "1999-01-05",
+        "P1365": "Lawton Chiles",
+        "P1366": "Jeb Bush",
+        "P1545": "42"
+      }
+    },
+    {
+      "id": "Q913797",
+      "label": "Lieutenant Governor of Florida",
+      "title": "Lieutenant Governor of Florida",
+      "description": "position",
+      "qualifiers": {
+        "P580": "1991-01-08",
+        "P582": "1998-12-12",
+        "P1365": "Bobby Brantley",
+        "P1366": "Frank Brogan",
+        "P1545": "14"
+      }
     }
   ],
   "Q1363468": [
@@ -3629,7 +3728,11 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2011-01-03",
+        "P1365": "Kit Bond"
+      }
     },
     {
       "id": "Q13218630",
@@ -4072,9 +4175,12 @@
       "title": "Governor of Ohio",
       "description": "the governor of Ohio",
       "qualifiers": {
+        "P102": "Democratic Party",
         "P580": "2007-01-08",
         "P582": "2011-01-10",
-        "P102": "Democratic Party",
+        "P1365": "Bob Taft",
+        "P1366": "John Kasich",
+        "P1545": "68",
         "P2715": "Ohio gubernatorial election, 2006"
       }
     }
@@ -4329,7 +4435,25 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1977-01-03",
+        "P582": "1995-01-03",
+        "P1365": "Garner E. Shriver",
+        "P1366": "Todd Tiahrt"
+      }
+    },
+    {
+      "id": "Q1029955",
+      "label": "United States Secretary of Agriculture",
+      "title": "United States Secretary of Agriculture",
+      "description": "position",
+      "qualifiers": {
+        "P580": "1995-03-30",
+        "P582": "2001-01-19",
+        "P1365": "Mike Espy",
+        "P1366": "Ann Veneman"
+      }
     }
   ],
   "Q1658089": [
@@ -4625,7 +4749,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1991-01-03",
+        "P582": "2009-01-03",
+        "P768": "Ohio's 7th congressional district"
+      }
     }
   ],
   "Q862056": [
@@ -4891,7 +5020,10 @@
       "description": "position",
       "qualifiers": {
         "P580": "2011-07-01",
-        "P582": "2013-02-27"
+        "P582": "2013-02-27",
+        "P1365": "Robert Gates",
+        "P1366": "Chuck Hagel",
+        "P1545": "23"
       }
     },
     {
@@ -4902,7 +5034,21 @@
       "qualifiers": {
         "P580": "1994-07-17",
         "P582": "1997-01-20",
-        "P1366": "Erskine Bowles"
+        "P1365": "Mack McLarty",
+        "P1366": "Erskine Bowles",
+        "P1545": "18"
+      }
+    },
+    {
+      "id": "Q27656",
+      "label": "Director of the Central Intelligence Agency",
+      "title": "Director of the Central Intelligence Agency",
+      "description": "head of the Central Intelligence Agency",
+      "qualifiers": {
+        "P580": "2009-02-13",
+        "P582": "2011-06-30",
+        "P1365": "Michael Hayden",
+        "P1366": "Michael Morell"
       }
     }
   ],
@@ -7379,6 +7525,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q18195558",
+      "label": "member of the State Senate of Mississippi",
+      "title": "member of the State Senate of Mississippi"
     }
   ],
   "Q461512": [
@@ -7520,9 +7671,10 @@
       "description": "position",
       "qualifiers": {
         "P580": "2011-01-03",
-        "P1365": "Nancy Pelosi",
         "P582": "2015-10-29",
-        "P1366": "Paul Ryan"
+        "P1365": "Nancy Pelosi",
+        "P1366": "Paul Ryan",
+        "P1545": "53"
       }
     },
     {
@@ -7756,7 +7908,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "2015-01-03",
+        "P580": "1993-01-03",
+        "P768": "Georgia's 1st congressional district"
+      }
     },
     {
       "id": "Q17548315",
@@ -8139,7 +8296,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1993-01-03",
+        "P582": "1999-01-03",
+        "P768": "Ohio's 11th congressional district"
+      }
     }
   ],
   "Q506639": [
@@ -8428,12 +8590,27 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1979-01-03",
+        "P582": "2002-09-09",
+        "P768": "Ohio's 3rd congressional district"
+      }
     },
     {
       "id": "Q17502533",
       "label": "member of the Ohio House of Representatives",
       "title": "member of the Ohio House of Representatives"
+    },
+    {
+      "id": "Q20065429",
+      "label": "member of the State Senate of Ohio",
+      "title": "member of the State Senate of Ohio",
+      "qualifiers": {
+        "P580": "1973-01-03",
+        "P582": "1979-01-01",
+        "P768": "Ohio's 6th senatorial district"
+      }
     }
   ],
   "Q1909500": [
@@ -9080,7 +9257,14 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1977-01-03",
+        "P582": "1993-01-03",
+        "P1365": "James G. O'Hara",
+        "P1366": "Sander M. Levin",
+        "P1545": "12"
+      }
     },
     {
       "id": "Q18654736",
@@ -9791,6 +9975,17 @@
         "P1365": "Adam Putnam",
         "P1366": "Jeb Hensarling"
       }
+    },
+    {
+      "id": "Q140686",
+      "label": "chairperson",
+      "title": "chairperson (of presidential transition of Donald Trump)",
+      "description": "highest officer of an organized group",
+      "qualifiers": {
+        "P642": "presidential transition of Donald Trump",
+        "P580": "2016-11-11",
+        "P1365": "Chris Christie"
+      }
     }
   ],
   "Q7791100": [
@@ -10117,7 +10312,20 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1987-01-03",
+        "P582": "1990-10-24",
+        "P768": "Ohio's 8th congressional district"
+      }
+    },
+    {
+      "id": "Q20065429",
+      "label": "member of the State Senate of Ohio",
+      "title": "member of the State Senate of Ohio",
+      "qualifiers": {
+        "P768": "Ohio's 4th senatorial district"
+      }
     }
   ],
   "Q1235731": [
@@ -10380,7 +10588,22 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1989-01-03",
+        "P582": "2007-09-05",
+        "P768": "Ohio's 5th congressional district"
+      }
+    },
+    {
+      "id": "Q20065429",
+      "label": "member of the State Senate of Ohio",
+      "title": "member of the State Senate of Ohio",
+      "qualifiers": {
+        "P580": "1967-01-03",
+        "P582": "1988-12-31",
+        "P768": "Ohio's 2nd senatorial district"
+      }
     }
   ],
   "Q2637741": [
@@ -10426,6 +10649,17 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q1837627",
+      "label": "United States Ambassador to the Holy See",
+      "title": "United States Ambassador to the Holy See",
+      "qualifiers": {
+        "P580": "1997-12-16",
+        "P582": "2001-03-01",
+        "P1365": "Raymond Flynn",
+        "P1366": "Jim Nicholson"
+      }
     }
   ],
   "Q2085648": [
@@ -10470,7 +10704,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1995-01-03",
+        "P582": "2006-11-03",
+        "P768": "Ohio's 18th congressional district"
+      }
     },
     {
       "id": "Q17502533",
@@ -10653,7 +10892,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1997-01-03",
+        "P582": "2009-01-03",
+        "P768": "Mississippi's 3rd congressional district"
+      }
     }
   ],
   "Q358726": [
@@ -11371,7 +11615,25 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1985-01-03",
+        "P582": "2003-01-03",
+        "P768": "Texas's 26th congressional district",
+        "P1365": "Tom Vandergriff",
+        "P1366": "Michael C. Burgess"
+      }
+    },
+    {
+      "id": "Q7314581",
+      "label": "Republican Conference Chairman of the United States House of Representatives",
+      "title": "Republican Conference Chairman of the United States House of Representatives",
+      "qualifiers": {
+        "P580": "1993-01-03",
+        "P582": "1995-01-03",
+        "P1365": "Jerry Lewis",
+        "P1366": "John Boehner"
+      }
     }
   ],
   "Q1689138": [
@@ -12134,7 +12396,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1981-06-25",
+        "P582": "2007-01-03",
+        "P768": "Ohio's 4th congressional district"
+      }
     },
     {
       "id": "Q17502533",
@@ -12475,7 +12742,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1983-01-03",
+        "P768": "Ohio's 9th congressional district",
+        "P1365": "Ed Weber"
+      }
     }
   ],
   "Q82476": [
@@ -13294,7 +13566,8 @@
       "title": "United States Senator",
       "description": "member of the United States Senate",
       "qualifiers": {
-        "P580": "2013-01-03"
+        "P580": "2013-01-03",
+        "P1365": "Daniel Akaka"
       }
     },
     {
@@ -13307,6 +13580,19 @@
       "id": "Q19319643",
       "label": "Member of the Hawaii House of Representatives",
       "title": "Member of the Hawaii House of Representatives"
+    },
+    {
+      "id": "Q912560",
+      "label": "Lieutenant Governor of Hawaii",
+      "title": "Lieutenant Governor of Hawaii",
+      "description": "lieutenant governor",
+      "qualifiers": {
+        "P580": "1994-12-02",
+        "P582": "2002-12-02",
+        "P1365": "Ben Cayetano",
+        "P1366": "James Aiona",
+        "P1545": "9"
+      }
     }
   ],
   "Q542676": [
@@ -13576,7 +13862,8 @@
       "qualifiers": {
         "P580": "1993-01-03",
         "P582": "2013-01-03",
-        "P768": "New York's 26th congressional district"
+        "P768": "New York's 26th congressional district",
+        "P1545": "26"
       }
     },
     {
@@ -13932,7 +14219,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2002-02-15",
+        "P582": "2013-01-03",
+        "P768": "Oklahoma's 1st congressional district"
+      }
     },
     {
       "id": "Q18925362",
@@ -14406,6 +14698,17 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q4809014",
+      "label": "Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs",
+      "title": "Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs",
+      "qualifiers": {
+        "P580": "1977-03-28",
+        "P582": "1978-05-01",
+        "P1365": "Frederick Irving",
+        "P1366": "Thomas R. Pickering"
+      }
     }
   ],
   "Q1857141": [
@@ -16003,7 +16306,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1983-01-03",
+        "P582": "1993-01-31",
+        "P768": "Ohio's 2nd congressional district"
+      }
     }
   ],
   "Q1607589": [
@@ -16109,7 +16417,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P768": "Ohio's 14th congressional district",
+        "P1365": "John F. Seiberling",
+        "P1366": "Steve LaTourette"
+      }
     },
     {
       "id": "Q17502533",
@@ -16325,7 +16638,11 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1997-01-03",
+        "P768": "North Carolina's 4th congressional district"
+      }
     }
   ],
   "Q553335": [
@@ -16489,6 +16806,17 @@
         "P582": "1989-01-21",
         "P1365": "William Schneider, Jr.",
         "P1366": "Reginald Bartholomew"
+      }
+    },
+    {
+      "id": "Q5176626",
+      "label": "Counselor of the United States Department of State",
+      "title": "Counselor of the United States Department of State",
+      "qualifiers": {
+        "P580": "1983-03-23",
+        "P582": "1987-03-24",
+        "P1365": "James L. Buckley",
+        "P1366": "Max Kampelman"
       }
     }
   ],
@@ -16727,7 +17055,25 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1979-01-03",
+        "P582": "1991-09-11",
+        "P1365": "Robert N.C. Nix, Sr.",
+        "P1366": "Lucien E. Blackwell",
+        "P1545": "2"
+      }
+    },
+    {
+      "id": "Q5255561",
+      "label": "Democratic Caucus Chairman of the United States House of Representatives",
+      "title": "Democratic Caucus Chairman of the United States House of Representatives",
+      "qualifiers": {
+        "P580": "1989-01-03",
+        "P582": "1989-06-15",
+        "P1365": "Dick Gephardt",
+        "P1366": "Steny Hoyer"
+      }
     }
   ],
   "Q505236": [
@@ -17026,7 +17372,33 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2001-01-03",
+        "P582": "2005-01-03",
+        "P768": "Oklahoma's 2nd congressional district"
+      }
+    },
+    {
+      "id": "Q7883165",
+      "label": "Under Secretary of Defense for Personnel and Readiness",
+      "title": "Under Secretary of Defense for Personnel and Readiness",
+      "qualifiers": {
+        "P580": "2015-04-02",
+        "P582": "2016-04-08",
+        "P1365": "Jessica Wright"
+      }
+    },
+    {
+      "id": "Q7892254",
+      "label": "United States Under Secretary of the Army",
+      "title": "United States Under Secretary of the Army",
+      "qualifiers": {
+        "P580": "2014-03-28",
+        "P582": "2015-06-30",
+        "P1365": "Joseph W. Westphal",
+        "P1366": "Eric Fanning"
+      }
     }
   ],
   "Q973330": [
@@ -17975,13 +18347,24 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1997-01-03",
+        "P582": "2003-01-03",
+        "P1365": "Bill Bradley",
+        "P1366": "Frank Lautenberg"
+      }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1983-01-03",
+        "P582": "1997-01-03",
+        "P768": "New Jersey's 9th congressional district"
+      }
     }
   ],
   "Q616850": [
@@ -18378,7 +18761,19 @@
         "P580": "1989-06-06",
         "P582": "1995-01-03",
         "P1365": "Jim Wright",
-        "P1366": "Newt Gingrich"
+        "P1366": "Newt Gingrich",
+        "P1545": "49"
+      }
+    },
+    {
+      "id": "Q7889318",
+      "label": "United States Ambassador to Japan",
+      "title": "United States Ambassador to Japan",
+      "qualifiers": {
+        "P580": "1997-11-19",
+        "P582": "2001-04-01",
+        "P1365": "Walter Mondale",
+        "P1366": "Howard Baker"
       }
     }
   ],
@@ -18866,6 +19261,16 @@
       "id": "Q19319643",
       "label": "Member of the Hawaii House of Representatives",
       "title": "Member of the Hawaii House of Representatives"
+    },
+    {
+      "id": "Q15623718",
+      "label": "Administrator of the Small Business Administration",
+      "title": "Administrator of the Small Business Administration",
+      "qualifiers": {
+        "P580": "1991-04-16",
+        "P582": "1993-01-20",
+        "P1545": "17"
+      }
     }
   ],
   "Q524440": [
@@ -18902,7 +19307,11 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2011-01-03",
+        "P1365": "George Voinovich"
+      }
     },
     {
       "id": "Q13218630",
@@ -19258,7 +19667,11 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2011-01-03",
+        "P768": "New Mexico's 2nd congressional district"
+      }
     },
     {
       "id": "Q17631457",
