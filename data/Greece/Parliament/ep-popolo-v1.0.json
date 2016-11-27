@@ -47894,6 +47894,7 @@
       ]
     },
     {
+      "birth_date": "1960-03-07",
       "contact_details": [
         {
           "type": "email",
@@ -47907,6 +47908,14 @@
         {
           "identifier": "1cbffa4e-9f13-412f-9260-a434013ca542",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1cbffa4e-9f13-412f-9260-a434013ca542",
+          "scheme": "hellenic_parliament"
+        },
+        {
+          "identifier": "Q20995485",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/woman_20.jpg",
@@ -47915,11 +47924,36 @@
           "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/woman_20.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κατερίνα_Παπανάτσιου"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ekateríni_Papanátsiou"
+        }
+      ],
       "name": "Papanatsiou Aikaterini",
       "other_names": [
         {
           "lang": "el",
+          "name": "Κατερίνα Παπανάτσιου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
           "name": "Παπανάτσιου Στέργιου Αικατερίνη",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ekateríni Papanátsiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ekateríni Papanátsiou",
           "note": "multilingual"
         }
       ],
