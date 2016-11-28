@@ -12,13 +12,13 @@ def fetch_term(q)
   data = {
     id:         name[/^(\d+)/, 1],
     name:       name,
-    start_date: t.P580.to_s,
-    end_date:   t.P582.to_s,
+    start_date: %w(P580 P571).map { |p| t.send(p).to_s }.reject(&:empty?).first,
+    end_date:   %w(P582 P576).map { |p| t.send(p).to_s }.reject(&:empty?).first,
     wikidata:   q,
   }
   puts data.values.to_csv
 
-  if prev = t.P155
+  if prev = t.P155 || t.P1365
     fetch_term(prev.value.id)
   end
 end
