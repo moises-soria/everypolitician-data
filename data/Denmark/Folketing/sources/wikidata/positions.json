@@ -124,6 +124,24 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    },
+    {
+      "id": "Q27924193",
+      "label": "Q27924193",
+      "title": "Q27924193",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Karen Ellemann"
+      }
+    },
+    {
+      "id": "Q17618153",
+      "label": "Economy minister",
+      "title": "Economy minister",
+      "description": "Minister responsible for economic affairs of a State",
+      "qualifiers": {
+        "P580": "2016-11-28"
+      }
     }
   ],
   "Q12321346": [
@@ -436,7 +454,21 @@
       "title": "Defence Minister of Denmark",
       "qualifiers": {
         "P580": "2015-09-30",
-        "P1365": "Carl Holst"
+        "P1365": "Carl Holst",
+        "P582": "2016-11-28",
+        "P1366": "Claus Hjort Frederiksen"
+      }
+    },
+    {
+      "id": "Q11991832",
+      "label": "Minister for Nordic Co-operation",
+      "title": "Minister for Nordic Co-operation",
+      "description": "Danish minister",
+      "qualifiers": {
+        "P580": "2015-11-30",
+        "P1365": "Carl Holst",
+        "P582": "2016-11-28",
+        "P1366": "Karen Ellemann"
       }
     }
   ],
@@ -447,6 +479,16 @@
       "title": "member of the Folketing",
       "qualifiers": {
         "P580": "2011-09-15"
+      }
+    },
+    {
+      "id": "Q3273722",
+      "label": "health minister",
+      "title": "health minister",
+      "description": "minister in charge of health matters",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Karen Ellemann"
       }
     }
   ],
@@ -848,6 +890,16 @@
       "description": "person who has been elected to the European Parliament"
     }
   ],
+  "Q12339343": [
+    {
+      "id": "Q27923951",
+      "label": "Q27923951",
+      "title": "Q27923951",
+      "qualifiers": {
+        "P580": "2016-11-28"
+      }
+    }
+  ],
   "Q12324714": [
     {
       "id": "Q12311817",
@@ -1005,8 +1057,16 @@
       "title": "Justice Minister of Denmark",
       "qualifiers": {
         "P580": "2015-06-28",
-        "P1365": "Mette Frederiksen"
+        "P1365": "Mette Frederiksen",
+        "P582": "2016-11-28",
+        "P1366": "Søren Pape Poulsen"
       }
+    },
+    {
+      "id": "Q12312037",
+      "label": "Education and Research Minister",
+      "title": "Education and Research Minister",
+      "description": "Minister in the Danish cabinet"
     }
   ],
   "Q20200020": [
@@ -1094,6 +1154,15 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    },
+    {
+      "id": "Q4115952",
+      "label": "commerce minister",
+      "title": "commerce minister",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Troels Lund Poulsen"
+      }
     }
   ],
   "Q12330081": [
@@ -1456,6 +1525,23 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    },
+    {
+      "id": "Q4115952",
+      "label": "commerce minister",
+      "title": "commerce minister",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P582": "2016-11-28",
+        "P1365": "Henrik Sass Larsen",
+        "P1366": "Brian Mikkelsen"
+      }
+    },
+    {
+      "id": "Q12303322",
+      "label": "minister of Labour",
+      "title": "minister of Labour",
+      "description": "Cabinet minister in a country"
     }
   ],
   "Q12301821": [
@@ -1523,9 +1609,20 @@
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
-      "title": "member of the Folketing",
+      "title": "member of the Folketing (of Liberal Alliance)",
       "qualifiers": {
-        "P580": "2011-09-15"
+        "P580": "2011-09-15",
+        "P642": "Liberal Alliance"
+      }
+    },
+    {
+      "id": "Q27923963",
+      "label": "Q27923963",
+      "title": "Q27923963 (of Liberal Alliance)",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Bertel Haarder",
+        "P642": "Liberal Alliance"
       }
     }
   ],
@@ -1674,6 +1771,12 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    },
+    {
+      "id": "Q17763739",
+      "label": "minister of justice",
+      "title": "minister of justice",
+      "description": "justice minister of a state"
     }
   ],
   "Q12319515": [
@@ -1875,7 +1978,13 @@
     {
       "id": "Q6865812",
       "label": "Minister for Ecclesiastical Affairs of Denmark",
-      "title": "Minister for Ecclesiastical Affairs of Denmark"
+      "title": "Minister for Ecclesiastical Affairs of Denmark",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P582": "2016-11-28",
+        "P1365": "Marianne Jelved",
+        "P1366": "Mette Bock"
+      }
     },
     {
       "id": "Q18913275",
@@ -1887,6 +1996,17 @@
         "P582": "2011-10-03",
         "P1365": "Jakob Axel Nielsen",
         "P1366": "Astrid Krag"
+      }
+    },
+    {
+      "id": "Q27923963",
+      "label": "Q27923963",
+      "title": "Q27923963",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P582": "2016-11-28",
+        "P1365": "Marianne Jelved",
+        "P1366": "Mette Bock"
       }
     }
   ],
@@ -2094,6 +2214,15 @@
         "P580": "2015-06-28",
         "P1365": "Martin Lidegaard"
       }
+    },
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "title": "Finance Minister of Denmark",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Claus Hjort Frederiksen"
+      }
     }
   ],
   "Q2978598": [
@@ -2102,7 +2231,10 @@
       "label": "Finance Minister of Denmark",
       "title": "Finance Minister of Denmark",
       "qualifiers": {
-        "P580": "2015-06-28"
+        "P580": "2015-06-28",
+        "P582": "2016-11-28",
+        "P1366": "Kristian Jensen",
+        "P1365": "Bjarne Corydon"
       }
     },
     {
@@ -2111,8 +2243,26 @@
       "title": "Finance Minister of Denmark",
       "qualifiers": {
         "P580": "2009-04-07",
-        "P582": "2011-10-03"
+        "P582": "2011-10-03",
+        "P1365": "Lars Løkke Rasmussen",
+        "P1366": "Bjarne Corydon"
       }
+    },
+    {
+      "id": "Q2518691",
+      "label": "defence minister",
+      "title": "defence minister",
+      "description": "minister in charge of defence affairs",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Peter Christensen"
+      }
+    },
+    {
+      "id": "Q11781520",
+      "label": "Q11781520",
+      "title": "Q11781520",
+      "description": "Wikimedia list article"
     }
   ],
   "Q558865": [
@@ -2725,6 +2875,15 @@
         "P580": "2001-11-20",
         "P582": "2004-06-30"
       }
+    },
+    {
+      "id": "Q6866144",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Minister of Foreign Affairs for Denmark",
+      "qualifiers": {
+        "P580": "2016-11-28"
+      }
     }
   ],
   "Q12333237": [
@@ -3209,7 +3368,27 @@
       "description": "Danish cabinet minister",
       "qualifiers": {
         "P580": "2015-06-28",
-        "P1365": "Nick Hækkerup"
+        "P1365": "Nick Hækkerup",
+        "P582": "2016-11-28",
+        "P1366": "Ellen Trane Nørby"
+      }
+    },
+    {
+      "id": "Q27923951",
+      "label": "Q27923951",
+      "title": "Q27923951",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P582": "2016-11-28",
+        "P1366": "Thyra Frank"
+      }
+    },
+    {
+      "id": "Q27924167",
+      "label": "Q27924167",
+      "title": "Q27924167",
+      "qualifiers": {
+        "P580": "2016-11-28"
       }
     }
   ],
@@ -3267,9 +3446,20 @@
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
-      "title": "member of the Folketing",
+      "title": "member of the Folketing (of Liberal Alliance)",
       "qualifiers": {
-        "P580": "2011-09-15"
+        "P580": "2011-09-15",
+        "P642": "Liberal Alliance"
+      }
+    },
+    {
+      "id": "Q4018482",
+      "label": "education minister",
+      "title": "education minister",
+      "description": "minister in charge of education matters",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Ellen Trane Nørby"
       }
     }
   ],
@@ -3320,6 +3510,50 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    }
+  ],
+  "Q3042869": [
+    {
+      "id": "Q3273722",
+      "label": "health minister",
+      "title": "health minister",
+      "description": "minister in charge of health matters",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P1365": "Manu Sareen",
+        "P582": "2016-11-28",
+        "P1366": "Mai Mercado"
+      }
+    },
+    {
+      "id": "Q27924182",
+      "label": "Q27924182",
+      "title": "Q27924182",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Ellen Trane Nørby"
+      }
+    },
+    {
+      "id": "Q11991832",
+      "label": "Minister for Nordic Co-operation",
+      "title": "Minister for Nordic Co-operation",
+      "description": "Danish minister",
+      "qualifiers": {
+        "P580": "2016-11-28",
+        "P1365": "Peter Christensen"
+      }
+    },
+    {
+      "id": "Q27924193",
+      "label": "Q27924193",
+      "title": "Q27924193",
+      "qualifiers": {
+        "P580": "2015-06-25",
+        "P1365": "Morten Østergaard",
+        "P582": "2016-11-28",
+        "P1366": "Simon Emil Ammitzbøll"
+      }
     }
   ],
   "Q1926743": [
@@ -3377,6 +3611,29 @@
       "id": "Q12311817",
       "label": "member of the Folketing",
       "title": "member of the Folketing"
+    },
+    {
+      "id": "Q4018482",
+      "label": "education minister",
+      "title": "education minister",
+      "description": "minister in charge of education matters",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P1365": "Christine Antorini",
+        "P582": "2016-11-28",
+        "P1366": "Merete Riisager"
+      }
+    },
+    {
+      "id": "Q27924182",
+      "label": "Q27924182",
+      "title": "Q27924182",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P1365": "Manu Sareen",
+        "P582": "2016-11-28",
+        "P1366": "Karen Ellemann"
+      }
     }
   ],
   "Q20188888": [
