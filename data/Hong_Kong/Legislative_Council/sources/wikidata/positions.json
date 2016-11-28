@@ -11,7 +11,54 @@
       "title": "member of the Legislative Council",
       "description": "member of the Hong Kong legislature",
       "qualifiers": {
-        "P580": "1998-07-01"
+        "P580": "1998-07-01",
+        "P582": "2004-09-30",
+        "P768": "Commercial (First)"
+      }
+    },
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2004-10-01",
+        "P582": "2008-09-30",
+        "P768": "New Territories East"
+      }
+    },
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2012-10-01",
+        "P582": "2016-09-30",
+        "P768": "New Territories East"
+      }
+    }
+  ],
+  "Q3479098": [
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2012-10-01",
+        "P768": "Kowloon East"
+      }
+    },
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2008-10-01",
+        "P582": "2012-09-30",
+        "P768": "Tourism"
       }
     }
   ],
@@ -54,6 +101,30 @@
       }
     }
   ],
+  "Q701670": [
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2000-07-01",
+        "P582": "2010-01-28",
+        "P768": "New Territories West"
+      }
+    },
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2010-05-17",
+        "P582": "2016-09-30",
+        "P768": "New Territories West"
+      }
+    }
+  ],
   "Q6720732": [
     {
       "id": "Q13416334",
@@ -89,7 +160,9 @@
       "title": "member of the Legislative Council",
       "description": "member of the Hong Kong legislature",
       "qualifiers": {
-        "P580": "1998-07-01"
+        "P580": "1998-07-01",
+        "P582": "2016-09-30",
+        "P768": "New Territories East"
       }
     }
   ],
@@ -158,7 +231,9 @@
       "title": "member of the Legislative Council",
       "description": "member of the Hong Kong legislature",
       "qualifiers": {
-        "P580": "1998-07-01"
+        "P580": "1998-07-01",
+        "P582": "2016-09-30",
+        "P768": "New Territories West"
       }
     }
   ],
@@ -177,7 +252,11 @@
     {
       "id": "Q13416334",
       "label": "member of the Provisional Legislative Council",
-      "title": "member of the Provisional Legislative Council"
+      "title": "member of the Provisional Legislative Council",
+      "qualifiers": {
+        "P580": "1996-12-21",
+        "P582": "1998-06-30"
+      }
     },
     {
       "id": "Q27908372",
@@ -185,7 +264,9 @@
       "title": "member of the Legislative Council",
       "description": "member of the Hong Kong legislature",
       "qualifiers": {
-        "P580": "1998-07-01"
+        "P580": "1998-07-01",
+        "P582": "2016-09-30",
+        "P768": "New Territories West"
       }
     }
   ],
@@ -226,7 +307,11 @@
     {
       "id": "Q13416334",
       "label": "member of the Provisional Legislative Council",
-      "title": "member of the Provisional Legislative Council"
+      "title": "member of the Provisional Legislative Council",
+      "qualifiers": {
+        "P580": "1996-12-21",
+        "P582": "1998-09-30"
+      }
     },
     {
       "id": "Q27908372",
@@ -234,7 +319,20 @@
       "title": "member of the Legislative Council",
       "description": "member of the Hong Kong legislature",
       "qualifiers": {
-        "P580": "1998-07-01"
+        "P580": "1998-07-01",
+        "P582": "2008-09-30",
+        "P768": "Kowloon East"
+      }
+    },
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2012-10-01",
+        "P582": "2016-09-30",
+        "P768": "District Council (Second)"
       }
     }
   ],
@@ -315,7 +413,9 @@
       "title": "President of the Legislative Council of Hong Kong",
       "qualifiers": {
         "P580": "2008-10-08",
-        "P1365": "Rita Fan"
+        "P1365": "Rita Fan",
+        "P582": "2016-09-30",
+        "P1366": "Andrew Leung"
       }
     },
     {
@@ -329,7 +429,20 @@
       "title": "member of the Legislative Council",
       "description": "member of the Hong Kong legislature",
       "qualifiers": {
-        "P580": "1998-07-01"
+        "P580": "1998-07-01",
+        "P582": "2008-09-30",
+        "P768": "Kowloon West"
+      }
+    },
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2008-10-01",
+        "P582": "2016-09-30",
+        "P768": "Hong Kong Island"
       }
     }
   ],
