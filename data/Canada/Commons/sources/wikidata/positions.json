@@ -702,10 +702,14 @@
       "description": "representative elected by the canadian voters"
     },
     {
-      "id": "Q17763739",
-      "label": "minister of justice",
-      "title": "minister of justice",
-      "description": "justice minister of a state"
+      "id": "Q3315120",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "description": "minister responsible for the Department of Justice and is also Attorney General of Canada",
+      "qualifiers": {
+        "P580": "2015-11-04",
+        "P1365": "Peter MacKay"
+      }
     }
   ],
   "Q3187235": [
