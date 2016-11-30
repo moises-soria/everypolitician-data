@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/morocco-house-of-representatives",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, name AS name__en FROM data ORDER BY id"
       },
       "source": "http://www.chambredesrepresentants.ma",
       "type": "membership"
