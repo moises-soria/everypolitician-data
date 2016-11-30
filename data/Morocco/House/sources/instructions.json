@@ -25,8 +25,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
+        "incoming_field": "name__ar",
+        "existing_field": "name__ar",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
