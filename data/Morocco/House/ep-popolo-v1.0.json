@@ -4206,29 +4206,87 @@
       ]
     },
     {
+      "birth_date": "1954-09-25",
+      "gender": "male",
+      "given_name": "Driss",
       "id": "4761f263-69ee-491d-bbdb-77e933966a53",
       "identifiers": [
         {
           "identifier": "dlachguar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3039498",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_151.jpg?itok=GWPg7UkJ",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_151.jpg?itok=GWPg7UkJ"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Driss-lachguar.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/إدريس_لشكر"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Driss_Lachgar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Driss_Lachgar"
         }
       ],
       "name": "Driss LACHGUAR",
       "other_names": [
+        {
+          "name": "Driss Lachgar",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "ادريس لشكر",
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Driss Lachgar",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Driss LACHGUAR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Driss Lachgar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Driss Lachgar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Driss Lachgar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Driss Lachgar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Driss Lachgar",
           "note": "multilingual"
         }
       ],
@@ -5567,11 +5625,22 @@
       ]
     },
     {
+      "birth_date": "1953-08-17",
+      "gender": "male",
+      "given_name": "Hamid",
       "id": "6f4b7dfe-f402-412a-9be7-21fec52614ac",
       "identifiers": [
         {
           "identifier": "hchabat",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "212930512",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2821052",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_317.jpg?itok=iiZM2wM7",
@@ -5580,16 +5649,49 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_317.jpg?itok=iiZM2wM7"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/حميد_شباط"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hamid_Chabat"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Abdelhamid_Chabat"
+        }
+      ],
       "name": "Hamid CHABAT",
       "other_names": [
+        {
+          "name": "Abdelhamid Chabat",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "حميد شباط",
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Hamid Chabat",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Hamid CHABAT",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdelhamid Chabat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hamid Chabat",
           "note": "multilingual"
         }
       ],
