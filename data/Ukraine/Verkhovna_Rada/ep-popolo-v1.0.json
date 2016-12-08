@@ -7374,6 +7374,11 @@
       "name": "Грановський Олександр Михайлович",
       "other_names": [
         {
+          "lang": "ru",
+          "name": "Александр Михайлович Грановский",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Грановський Олександр Михайлович",
           "note": "multilingual"
@@ -35667,11 +35672,21 @@
     },
     {
       "area_id": "67",
+      "end_date": "2016-12-06",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2619",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "013de6fa-209a-40a1-83fe-76634096438e",
       "role": "member"
+    },
+    {
+      "area_id": "67",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "013de6fa-209a-40a1-83fe-76634096438e",
+      "role": "member",
+      "start_date": "2016-12-07"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
