@@ -229,6 +229,11 @@
       {
         "id": "Q17602055",
         "name": "member of the Wisconsin State Senate"
+      },
+      {
+        "id": "Q20065429",
+        "name": "member of the State Senate of Ohio",
+        "description": null
       }
     ],
     "executive": [
@@ -591,35 +596,34 @@
       {
         "id": "Q786242",
         "name": "White House Chief of Staff"
-      }
-    ]
-  },
-  "unknown": {
-    "unknown": [
+      },
       {
         "id": "Q4708496",
         "name": "Alaska Attorney General",
-        "description": "attorney general for the U.S. state of Alaska",
-        "count": 1
+        "description": "attorney general for the U.S. state of Alaska"
       },
       {
         "id": "Q912560",
         "name": "Lieutenant Governor of Hawaii",
-        "description": "lieutenant governor",
-        "count": 1
+        "description": "lieutenant governor"
       },
       {
         "id": "Q1853534",
         "name": "Lieutenant Governor of Montana",
-        "description": null,
-        "count": 1
+        "description": null
       },
       {
         "id": "Q20899061",
         "name": "Mayor of Newark",
-        "description": "Mayor of a  town in New Jersey",
-        "count": 1
-      },
+        "description": "Mayor of a  town in New Jersey"
+      }
+    ],
+    "cabinet": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
       {
         "id": "Q758225",
         "name": "attorney at law",
@@ -649,12 +653,6 @@
         "name": "intern",
         "description": "occupation",
         "count": 2
-      },
-      {
-        "id": "Q20065429",
-        "name": "member of the State Senate of Ohio",
-        "description": null,
-        "count": 1
       },
       {
         "id": "Q7140693",
