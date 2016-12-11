@@ -10,7 +10,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/taiwan-legislative-yuan",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.ly.gov.tw/",
       "type": "membership",
