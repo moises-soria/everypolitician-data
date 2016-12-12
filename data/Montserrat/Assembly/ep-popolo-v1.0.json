@@ -17,12 +17,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/023/medium/Claude_Hogan.jpg?1410310688"
         }
       ],
-      "name": "Claude Hogan",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Claude Hogan"
     },
     {
       "id": "986530b7-11ff-431f-9dd7-ecab70e38518",
@@ -38,12 +33,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/024/medium/David_Osborne.jpg?1410310789"
         }
       ],
-      "name": "David Osborne",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "David Osborne"
     },
     {
       "id": "c0a72df6-8a6b-451f-85a3-da04853ccc2f",
@@ -59,12 +49,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/021/medium/Delmaude_Ryan.jpg?1410310870"
         }
       ],
-      "name": "Delmaude Ryan",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Delmaude Ryan"
     },
     {
       "id": "30b303c1-8748-4197-93e1-78997b8f8dce",
@@ -80,12 +65,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/020/medium/Donaldson_Romeo.jpg?1410310886"
         }
       ],
-      "name": "Donaldson Romeo",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Donaldson Romeo"
     },
     {
       "id": "c685d391-9f05-46d5-b76e-8dc2beda2b98",
@@ -101,12 +81,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/025/medium/Dr_Ingrid_Buffonge.jpg?1410310931"
         }
       ],
-      "name": "Dr. Ingrid Buffonge",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Dr. Ingrid Buffonge"
     },
     {
       "id": "55908d51-2198-4dd1-9c71-65311389d021",
@@ -122,12 +97,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/026/medium/Gregory_Willock.jpg?1410311361"
         }
       ],
-      "name": "Gregory Willock",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Gregory Willock"
     },
     {
       "id": "6cca81fc-7f33-4d49-9faa-7ea46a354a2c",
@@ -143,12 +113,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/017/medium/2014-08-21-MCAP-Ballot_Images_TAYLORE.jpg?1410311167"
         }
       ],
-      "name": "Joseph Farrell",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Joseph Farrell"
     },
     {
       "id": "c22088e8-1123-4a2c-86dd-c97f6983afd9",
@@ -164,12 +129,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/022/medium/Paul_Lewis.jpg?1410311797"
         }
       ],
-      "name": "Paul Lewis",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Paul Lewis"
     },
     {
       "id": "89a6eff5-afa9-4d57-bec6-1b517580206f",
@@ -185,12 +145,7 @@
           "url": "http://s3.amazonaws.com/election-2014/candidates/avatars/000/000/015/medium/2014-08-21-MCAP-Ballot_Images_MEADER.jpg?1410311835"
         }
       ],
-      "name": "Reuben T. Meade",
-      "sources": [
-        {
-          "url": "http://www.elections.ms/"
-        }
-      ]
+      "name": "Reuben T. Meade"
     }
   ],
   "organizations": [
@@ -266,63 +221,108 @@
       "on_behalf_of_id": "party/pdm",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "18d43b9d-d5c0-4bf7-9a45-7f49cc84981d",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "30b303c1-8748-4197-93e1-78997b8f8dce",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "55908d51-2198-4dd1-9c71-65311389d021",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/mcap",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "6cca81fc-7f33-4d49-9faa-7ea46a354a2c",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/mcap",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "89a6eff5-afa9-4d57-bec6-1b517580206f",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "986530b7-11ff-431f-9dd7-ecab70e38518",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "c0a72df6-8a6b-451f-85a3-da04853ccc2f",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "c22088e8-1123-4a2c-86dd-c97f6983afd9",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "84a76356-d0c5-41de-b64b-457723b88aa4",
       "person_id": "c685d391-9f05-46d5-b76e-8dc2beda2b98",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.elections.ms/"
+        }
+      ]
     }
   ],
   "events": [
