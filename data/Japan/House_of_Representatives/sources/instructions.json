@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/japan",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm",
       "type": "membership"
@@ -31,7 +31,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/japan",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY id"
       }
     },
     {
