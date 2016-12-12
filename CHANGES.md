@@ -1,5 +1,10 @@
 ﻿# This file documents substantial changes to the format of data files
 
+2016-12-12
+
+Information on 'sources' is now provided on `Membership` rather than
+`Person` records.
+
 2016-09-23
 
 * Wikidata references are no longer at the top level of legislative
