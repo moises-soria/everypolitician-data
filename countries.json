@@ -6318,11 +6318,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Mongolia/Assembly/sources",
         "popolo": "data/Mongolia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95f1342f9d5d6bfa5ed98ff45cb24fc3d323acff/data/Mongolia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e239339da30267f30ab18ff2bd0f8143da747a6f/data/Mongolia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Mongolia/Assembly/names.csv",
-        "lastmod": "1481546990",
+        "lastmod": "1481563050",
         "person_count": 117,
-        "sha": "95f1342f9d5d6bfa5ed98ff45cb24fc3d323acff",
+        "sha": "e239339da30267f30ab18ff2bd0f8143da747a6f",
         "legislative_periods": [
           {
             "end_date": "2016-06-28",
@@ -6331,7 +6331,7 @@
             "start_date": "2012-06-28",
             "slug": "2012",
             "csv": "data/Mongolia/Assembly/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/21dc073cee0ee1f61ddc499abad8004e73d879dc/data/Mongolia/Assembly/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e239339da30267f30ab18ff2bd0f8143da747a6f/data/Mongolia/Assembly/term-2012.csv"
           },
           {
             "end_date": "2012-06-28",
@@ -6343,7 +6343,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8043a092cb5985d613ededcd3c1a9dbb6528c7d4/data/Mongolia/Assembly/term-2008.csv"
           }
         ],
-        "statement_count": 5087,
+        "statement_count": 5055,
         "type": "unicameral legislature"
       }
     ]
