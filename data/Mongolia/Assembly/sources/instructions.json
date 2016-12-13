@@ -4,8 +4,8 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/mongolia-khurai-wp",
-        "query": "SELECT * FROM data"
+        "scraper": "everypolitician-scrapers/mongolia-khurai-wp-multiple-terms",
+        "query": "SELECT * FROM data WHERE term in (2008, 2012)"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
