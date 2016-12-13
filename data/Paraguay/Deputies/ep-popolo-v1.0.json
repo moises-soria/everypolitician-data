@@ -2402,7 +2402,20 @@
     {
       "classification": "party",
       "id": "AP",
-      "name": "AP"
+      "identifiers": [
+        {
+          "identifier": "Q17002008",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "AP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Avanza País",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
