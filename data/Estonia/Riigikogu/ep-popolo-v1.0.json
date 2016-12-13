@@ -463,6 +463,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Ain Lutsepp",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Айн Лутсепп",
           "note": "multilingual"
@@ -996,6 +1001,14 @@
           "url": "https://pl.wikipedia.org/wiki/Andres_Anvelt"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Инкубатор:Анвельт,_Андрес"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Andres_Anvelt"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/100000095936669"
         },
@@ -1043,6 +1056,11 @@
         },
         {
           "lang": "pl",
+          "name": "Andres Anvelt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Andres Anvelt",
           "note": "multilingual"
         }
@@ -2940,6 +2958,13 @@
     },
     {
       "birth_date": "1963-04-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "barbi.pilvre@riigikogu.ee"
+        }
+      ],
+      "email": "barbi.pilvre@riigikogu.ee",
       "gender": "female",
       "id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
       "identifiers": [
@@ -2964,7 +2989,7 @@
           "url": "https://et.wikipedia.org/wiki/Barbi_Pilvre"
         }
       ],
-      "name": "Barbi-Jenny Pilvre-Sorgard",
+      "name": "Barbi Pilvre",
       "other_names": [
         {
           "name": "Barbi Pilvre",
@@ -3728,6 +3753,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
+      "name": "Eevi Paasmäe"
     },
     {
       "birth_date": "1953-09-05",
@@ -6303,6 +6332,44 @@
       ]
     },
     {
+      "birth_date": "1954-06-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "helmut.hallemaa@riigikogu.ee"
+        }
+      ],
+      "email": "helmut.hallemaa@riigikogu.ee",
+      "gender": "male",
+      "given_name": "Helmut",
+      "id": "24974763-c61d-4a42-9da1-ac8beb834dfa",
+      "identifiers": [
+        {
+          "identifier": "Q16407871",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Helmut_Hallemaa"
+        }
+      ],
+      "name": "Helmut Hallemaa",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Helmut Hallemaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Helmut Hallemaa",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1960-02-16",
       "contact_details": [
         {
@@ -6740,6 +6807,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Indrek_Saar"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Indrek_Saar"
         },
         {
           "note": "twitter",
@@ -9411,6 +9482,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1120411025",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "87b36dbb-08e9-4048-91eb-6df699c6e27e",
           "scheme": "riigikogu"
         },
@@ -9434,12 +9509,20 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Jüri_Ratas"
         },
         {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιούρι_Ράτας"
         },
         {
           "note": "Wikipedia (en)",
@@ -9458,12 +9541,36 @@
           "url": "https://fr.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
+          "note": "Wikipedia (hsb)",
+          "url": "https://hsb.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ユリ・ラタス"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/위리_라타스"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Georgius_Ratas"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Jiri_Ratass"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
           "note": "Wikipedia (no)",
@@ -9474,8 +9581,24 @@
           "url": "https://pl.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Ратас,_Юри"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Юрі_Ратас"
         },
         {
           "note": "Wikipedia (zh)",
@@ -9509,7 +9632,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Γιούρι Ράτας",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Jüri Ratas",
           "note": "multilingual"
         },
@@ -9539,6 +9677,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hsb",
+          "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "Jüri Ratas",
           "note": "multilingual"
@@ -9554,13 +9697,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ユリ・ラタス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "위리 라타스",
+          "note": "multilingual"
+        },
+        {
           "lang": "la",
-          "name": "Jüri Ratas",
+          "name": "Georgius Ratas",
           "note": "multilingual"
         },
         {
           "lang": "lt",
           "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Jiri Ratass",
           "note": "multilingual"
         },
         {
@@ -9611,6 +9769,21 @@
         {
           "lang": "sv",
           "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Юрі Ратас",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尤里·拉塔斯",
           "note": "multilingual"
         }
       ]
@@ -9717,6 +9890,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Kadri Simson",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Kadri Simson",
           "note": "multilingual"
@@ -9754,12 +9932,24 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Kaia_Iva"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Kaia_Iva"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kaia_Iva"
         },
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Kaia_Iva"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Kaia_Iva"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Kaia_Iva"
         },
         {
           "note": "twitter",
@@ -9769,12 +9959,22 @@
       "name": "Kaia Iva",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Kaia Iva",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Kaia Iva",
           "note": "multilingual"
         },
         {
           "lang": "et",
+          "name": "Kaia Iva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Kaia Iva",
           "note": "multilingual"
         }
@@ -12656,6 +12856,85 @@
       ]
     },
     {
+      "birth_date": "1977-03-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "liisa.oviir@riigikogu.ee"
+        }
+      ],
+      "email": "liisa.oviir@riigikogu.ee",
+      "gender": "female",
+      "given_name": "Liisa",
+      "id": "cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
+      "identifiers": [
+        {
+          "identifier": "Q21009735",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Liisa_Oviir"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Liisa_Oviir"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Liisa_Oviir"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Liisa_Oviir"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Liisa_Oviir"
+        }
+      ],
+      "name": "Liisa Oviir",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Liisa Oviir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liisa Oviir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Liisa Oviir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Liisa Oviir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liisa Oviir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liisa Oviir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Liisa Oviir",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1969-09-03",
       "contact_details": [
         {
@@ -12865,6 +13144,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Репс,_Майлис"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mailis_Reps"
         }
       ],
       "name": "Mailis Reps",
@@ -13180,6 +13463,10 @@
         {
           "identifier": "411480",
           "scheme": "fast"
+        },
+        {
+          "identifier": "no98034690",
+          "scheme": "lcauth"
         },
         {
           "identifier": "3c54682c-4050-471a-bd09-27481a034f82",
@@ -13645,6 +13932,10 @@
           "url": "https://ru.wikipedia.org/wiki/Тсахкна,_Маргус"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Margus_Tsahkna"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Tsahkna"
         }
@@ -13672,6 +13963,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Margus Tsahkna",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Margus Tsahkna",
           "note": "multilingual"
@@ -13679,6 +13975,11 @@
         {
           "lang": "ru",
           "name": "Маргус Тсахкна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Margus Tsahkna",
           "note": "multilingual"
         }
       ]
@@ -14365,6 +14666,11 @@
         },
         {
           "lang": "fr",
+          "name": "Maris Lauri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Maris Lauri",
           "note": "multilingual"
         },
@@ -16099,6 +16405,10 @@
           "url": "https://et.wikipedia.org/wiki/Martin_Repinski"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Martin_Repinski"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/100001896969458"
         }
@@ -16106,7 +16416,17 @@
       "name": "Martin Repinski",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Martin Repinski",
+          "note": "multilingual"
+        },
+        {
           "lang": "et",
+          "name": "Martin Repinski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Martin Repinski",
           "note": "multilingual"
         }
@@ -16191,6 +16511,11 @@
         },
         {
           "lang": "fr",
+          "name": "Mati Raidma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Mati Raidma",
           "note": "multilingual"
         },
@@ -16315,6 +16640,10 @@
           "url": "https://et.wikipedia.org/wiki/Mihhail_Korb"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mihhail_Korb"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/mihhail.korb"
         }
@@ -16322,7 +16651,17 @@
       "name": "Mihhail Korb",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Mihhail Korb",
+          "note": "multilingual"
+        },
+        {
           "lang": "et",
+          "name": "Mihhail Korb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Mihhail Korb",
           "note": "multilingual"
         }
@@ -16416,6 +16755,11 @@
         },
         {
           "lang": "lt",
+          "name": "Mihhail Kõlvart",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Mihhail Kõlvart",
           "note": "multilingual"
         },
@@ -18734,6 +19078,11 @@
           "lang": "it",
           "name": "Raivo Aeg",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raivo Aeg",
+          "note": "multilingual"
         }
       ]
     },
@@ -20023,6 +20372,14 @@
           "url": "https://ru.wikipedia.org/wiki/Миксер,_Свен"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sven_Mikser"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sven_Mikser"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Свен_Міксер"
         },
@@ -20163,6 +20520,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Sven Mikser",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Свен Міксер",
           "note": "multilingual"
@@ -20223,6 +20585,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Сестер,_Свен"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sven_Sester"
         }
       ],
       "name": "Sven Sester",
@@ -20270,6 +20636,11 @@
         {
           "lang": "ru",
           "name": "Свен Сестер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sven Sester",
           "note": "multilingual"
         }
       ]
@@ -20416,7 +20787,7 @@
         },
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/타비_로이바스"
+          "url": "https://ko.wikipedia.org/wiki/타비_러이바스"
         },
         {
           "note": "Wikipedia (la)",
@@ -21059,6 +21430,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Tarmo_Tamm_(Põlva)"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tarmo_Tamm"
+        },
+        {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Tarmo_Tamm_(1953)"
         },
@@ -21069,6 +21444,11 @@
       ],
       "name": "Tarmo Tamm",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Tarmo Tamm",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Tarmo Tamm",
@@ -21240,6 +21620,48 @@
         {
           "lang": "it",
           "name": "Tiit Tammsaar",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1979-06-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tiit.terik@riigikogu.ee"
+        }
+      ],
+      "email": "tiit.terik@riigikogu.ee",
+      "gender": "male",
+      "id": "71bd38d5-bc6d-4819-bcba-0234ab7f694f",
+      "identifiers": [
+        {
+          "identifier": "Q12376941",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Tiit_Terik"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tiit_Terik"
+        }
+      ],
+      "name": "Tiit Terik",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Tiit Terik",
           "note": "multilingual"
         }
       ]
@@ -21672,6 +22094,17 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "toomas.vainaste@riigikogu.ee"
+        }
+      ],
+      "email": "toomas.vainaste@riigikogu.ee",
+      "id": "354ef3a8-150a-4226-9442-c8fcf780dfc0",
+      "name": "Toomas Väinaste"
     },
     {
       "birth_date": "1970-10-29",
@@ -23065,6 +23498,10 @@
           "url": "https://ru.wikipedia.org/wiki/Рейнсалу,_Урмас"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Urmas_Reinsalu"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Урмас_Рейнсалу"
         }
@@ -23809,6 +24246,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Valeri Korb",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Valeri Korb",
           "note": "multilingual"
@@ -24219,6 +24661,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "5603c46f-d8f8-41d6-9957-472c68f34c27",
+      "name": "Vladimir Arhipov"
     },
     {
       "birth_date": "1945-09-25",
@@ -25111,6 +25557,11 @@
         {
           "lang": "ko",
           "name": "에스토니아 중앙당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Цэнтрысцкая партыя Эстоніі",
           "note": "multilingual"
         },
         {
@@ -26990,6 +27441,20 @@
       ]
     },
     {
+      "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "03d7b8ee-b3b7-4548-a696-fd243ef706d3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/b9feb51b-6b6c-4ca0-b6c2-de0d0fd89aa8/Hannes-Hanso"
+        }
+      ],
+      "start_date": "2016-11-23"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27120,6 +27585,15 @@
       "start_date": "2014-03-27"
     },
     {
+      "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
+      "role": "member",
+      "start_date": "2016-11-24"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27133,6 +27607,7 @@
     },
     {
       "area_id": "area/tartu_linn",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27204,6 +27679,7 @@
     },
     {
       "area_id": "area/järva-_ja_viljandimaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27337,6 +27813,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/jõgeva-_ja_tartumaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "173df2d0-3584-4a91-bd88-abd1799f83d6",
+      "role": "member",
+      "start_date": "2016-11-23"
+    },
+    {
       "area_id": "area/harju-_ja_raplamaa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "EVA",
@@ -27420,6 +27905,7 @@
     },
     {
       "area_id": "area/ida-virumaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27527,6 +28013,7 @@
     },
     {
       "area_id": "area/jõgeva-_ja_tartumaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27538,6 +28025,15 @@
         }
       ],
       "start_date": "2015-04-09"
+    },
+    {
+      "area_id": "area/järva-_ja_viljandimaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "24974763-c61d-4a42-9da1-ac8beb834dfa",
+      "role": "member",
+      "start_date": "2016-11-24"
     },
     {
       "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
@@ -27651,6 +28147,7 @@
     },
     {
       "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27748,6 +28245,14 @@
       ]
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "354ef3a8-150a-4226-9442-c8fcf780dfc0",
+      "role": "member",
+      "start_date": "2016-11-24"
+    },
+    {
       "end_date": "2013-11-12",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "SDE",
@@ -27785,6 +28290,15 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
       "role": "member"
+    },
+    {
+      "area_id": "area/võru-,_valga-_ja_põlvamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
+      "role": "member",
+      "start_date": "2016-11-23"
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -27954,6 +28468,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "4ab03025-d72c-4b06-94b9-e23ec9d32e3a",
+      "role": "member",
+      "start_date": "2016-11-23"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28051,6 +28574,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/järva-_ja_viljandimaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "508adc11-672e-401d-bf60-7912e9ebf6fc",
+      "role": "member",
+      "start_date": "2016-11-23"
+    },
+    {
       "end_date": "2011-04-05",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "IRL",
@@ -28089,6 +28621,14 @@
         }
       ],
       "start_date": "2015-09-01"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "5603c46f-d8f8-41d6-9957-472c68f34c27",
+      "role": "member",
+      "start_date": "2016-11-24"
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -28164,6 +28704,14 @@
       ]
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
+      "role": "member",
+      "start_date": "2016-11-24"
+    },
+    {
       "area_id": "area/harju-_ja_raplamaa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
@@ -28198,6 +28746,7 @@
     },
     {
       "area_id": "area/järva-_ja_viljandimaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28265,6 +28814,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/harju-_ja_raplamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "6b71eefc-413d-4db6-88f0-d7ff845ebaf1",
+      "role": "member",
+      "start_date": "2016-11-23"
+    },
+    {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "IRL",
@@ -28318,6 +28876,15 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "7140a07c-80cb-4625-b86f-d7be4d44c146",
       "role": "member"
+    },
+    {
+      "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "71bd38d5-bc6d-4819-bcba-0234ab7f694f",
+      "role": "member",
+      "start_date": "2016-11-24"
     },
     {
       "end_date": "2011-04-01",
@@ -28374,6 +28941,7 @@
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28522,6 +29090,20 @@
         }
       ],
       "start_date": "2015-04-09"
+    },
+    {
+      "area_id": "area/harju-_ja_raplamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "7d2af5ac-8100-4f0d-867d-787735a96723",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/312dba1d-041b-4add-a41e-cebf0346434e/Hardi-Volmer"
+        }
+      ],
+      "start_date": "2016-11-24"
     },
     {
       "area_id": "area/jõgeva-_ja_tartumaa",
@@ -28697,6 +29279,7 @@
     },
     {
       "area_id": "area/pärnumaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28722,6 +29305,7 @@
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28768,6 +29352,7 @@
     },
     {
       "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28882,6 +29467,7 @@
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29380,6 +29966,15 @@
       "start_date": "2015-09-15"
     },
     {
+      "area_id": "area/harju-_ja_raplamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
+      "role": "member",
+      "start_date": "2016-11-24"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29439,6 +30034,7 @@
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29791,6 +30387,7 @@
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29843,6 +30440,7 @@
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29869,6 +30467,7 @@
     },
     {
       "area_id": "area/järva-_ja_viljandimaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29939,6 +30538,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "e6279173-c122-46a0-a4e1-0155c8df817c",
+      "role": "member",
+      "start_date": "2016-11-23"
+    },
+    {
       "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
       "end_date": "2016-09-12",
       "legislative_period_id": "term/13",
@@ -29951,6 +30559,20 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/315ea785-8f59-40e5-a158-3de8b908572f/Maris-Lauri"
         }
       ]
+    },
+    {
+      "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "e8cd9094-5cf9-4b4e-89bb-b1b60119cef3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/315ea785-8f59-40e5-a158-3de8b908572f/Maris-Lauri"
+        }
+      ],
+      "start_date": "2016-11-23"
     },
     {
       "end_date": "2011-04-05",
@@ -30147,6 +30769,7 @@
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
+      "end_date": "2016-11-23",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
