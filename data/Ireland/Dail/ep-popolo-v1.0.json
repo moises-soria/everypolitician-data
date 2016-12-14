@@ -27486,57 +27486,755 @@
   "areas": [
     {
       "id": "area/carlow-kilkenny",
+      "identifiers": [
+        {
+          "identifier": "Q3913273",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Carlow-Kilkenny",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Carlow-Kilkenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carlow–Kilkenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ceatharlach–Cill Chainnigh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "卡洛-基爾肯尼",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/cavan-monaghan",
+      "identifiers": [
+        {
+          "identifier": "Q2701743",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cavan-Monaghan",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Cavan-Monaghan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cavan–Monaghan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cabhán–Muineachán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Yn Cavan-Muinaghan (rheynn-reihys Dáil Éireann)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/clare",
+      "identifiers": [
+        {
+          "identifier": "Q2570782",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Clare",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cláir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "克萊爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クレア",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_at",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr_el",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Clare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Clare",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/cork_east",
+      "identifiers": [
+        {
+          "identifier": "Q16951667",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cork East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Cork East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Oirthear Chorcaí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東科克",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Cork East",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/cork_north_central",
+      "identifiers": [
+        {
+          "identifier": "Q2357143",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cork North Central",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Cork North Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cork North–Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Corcaigh Lár-Thuaisceart",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中-北科克",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/cork_north_west",
+      "identifiers": [
+        {
+          "identifier": "Q3147235",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cork North West",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Cork North West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cork North–West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Corcaigh Thiar Thuaidh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西-北科克",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/cork_south_central",
+      "identifiers": [
+        {
+          "identifier": "Q2635304",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cork South Central",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Cork South Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cork South–Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Corcaigh Lár-Dheisceart",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中-南科克",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/cork_south_west",
+      "identifiers": [
+        {
+          "identifier": "Q2746787",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cork South West",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Cork South West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cork South–West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Corcaigh Thiar Theas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西-南科克",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/donegal",
+      "identifiers": [
+        {
+          "identifier": "Q5295599",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Donegal",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Donegal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Dún na nGall",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/donegal_north_east",
+      "identifiers": [
+        {
+          "identifier": "Q2566127",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Donegal North East",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Donegal North East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Donegal North–East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "多尼戈爾東北",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Doon ny Ghoal Hiar Hwoaie (rheynn-reihys Dáil Éireann)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/donegal_south_west",
+      "identifiers": [
+        {
+          "identifier": "Q2669879",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Donegal South West",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Donegal South West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Donegal South–West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "多尼戈爾西南",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Doon ny Ghoal Heear Yiass (rheynn-reihys Dáil Éireann)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -27546,217 +28244,1261 @@
     },
     {
       "id": "area/dublin_bay_south",
+      "identifiers": [
+        {
+          "identifier": "Q5310820",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin Bay South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin Bay North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cuan Bhaile Átha Cliath Thuas",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_central",
+      "identifiers": [
+        {
+          "identifier": "Q2622823",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin Central",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Dublin Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dublin Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Lár",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_fingal",
+      "identifiers": [
+        {
+          "identifier": "Q20620587",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin Fingal",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin Fingal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Fine Gall Bhaile Átha Cliath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_mid_west",
+      "identifiers": [
+        {
+          "identifier": "Q2641881",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin Mid West",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Dublin Mid West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dublin Mid–West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Iarthar Láir Baile Átha Cliath",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中西都柏林",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dublin Mid–West",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_north",
+      "identifiers": [
+        {
+          "identifier": "Q5310945",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin North",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北都柏林",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ダブリン北",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_north_central",
+      "identifiers": [
+        {
+          "identifier": "Q2913560",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin North Central",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Dublin North Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dublin North–Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Lár-Thuaisceart",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_north_east",
+      "identifiers": [
+        {
+          "identifier": "Q2336579",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin North East",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Dublin North East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dublin North–East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Thoir Thuaidh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東北都柏林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_north_west",
+      "identifiers": [
+        {
+          "identifier": "Q2531985",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin North West",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Dublin North West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dublin North–West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Iar-Thuaisceart",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西北都柏林",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dublin North–West",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_rathdown",
+      "identifiers": [
+        {
+          "identifier": "Q5310953",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin Rathdown",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin Rathdown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ráth an Dúin Bhaile Átha Cliath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_south",
+      "identifiers": [
+        {
+          "identifier": "Q4429557",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin South",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Dublin South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dublin South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "南都柏林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_south_central",
+      "identifiers": [
+        {
+          "identifier": "Q5310969",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin South Central",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin South–Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Lár-Dheisceart",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中南都柏林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_south_east",
+      "identifiers": [
+        {
+          "identifier": "Q5310970",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin South East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin South–East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Oir-Dheisceart",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_south_west",
+      "identifiers": [
+        {
+          "identifier": "Q5310971",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin South West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin South–West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Thiar Theas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西南都柏林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dublin_west",
+      "identifiers": [
+        {
+          "identifier": "Q5310999",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dublin West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Baile Átha Cliath Thiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西都柏林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dún_laoghaire",
+      "identifiers": [
+        {
+          "identifier": "Q5320426",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dún Laoghaire",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dún Laoghaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Dún Laoghaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鄧萊里",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "敦勞費爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "敦劳费尔",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/galway_east",
+      "identifiers": [
+        {
+          "identifier": "Q4568022",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Galway East",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Galway East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Galway East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Oirthear na Gaillimhe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東戈爾韋",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ゴールウェイ・イースト",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/galway_west",
+      "identifiers": [
+        {
+          "identifier": "Q2251639",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Galway West",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Galway West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Galway West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Iarthar na Gaillimhe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西戈爾韋",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "西戈爾韋",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kerry",
+      "identifiers": [
+        {
+          "identifier": "Q6394444",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kerry",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kerry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ciarraí",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kerry_north-west_limerick",
+      "identifiers": [
+        {
+          "identifier": "Q6394603",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kerry North-West Limerick",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kerry North–West Limerick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西凱里-北利默里克",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kerry_south",
+      "identifiers": [
+        {
+          "identifier": "Q2408892",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kerry South",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Kerry South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kerry South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "南凱里",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kildare_north",
+      "identifiers": [
+        {
+          "identifier": "Q6406731",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kildare North",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kildare North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cill Dara Thuas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北基爾代爾",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kildare_south",
+      "identifiers": [
+        {
+          "identifier": "Q17088606",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kildare South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kildare South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cill Dara Theas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "南基爾代爾",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/laois",
+      "identifiers": [
+        {
+          "identifier": "Q6487881",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Laois",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Laois",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Laois",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/laois-offaly",
+      "identifiers": [
+        {
+          "identifier": "Q6487896",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Laois-Offaly",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Laois–Offaly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "萊伊什 - 奧法利",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/limerick",
+      "identifiers": [
+        {
+          "identifier": "Q6549238",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Limerick",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Limerick constituency",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "利默里克",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/limerick_city",
+      "identifiers": [
+        {
+          "identifier": "Q6549243",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Limerick City",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Limerick City",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cathair Luimneach",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "利默里克市",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/limerick_county",
+      "identifiers": [
+        {
+          "identifier": "Q6549251",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Limerick County",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Limerick County",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Contae Luimnigh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/longford-westmeath",
+      "identifiers": [
+        {
+          "identifier": "Q6673850",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Longford-Westmeath",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Longford–Westmeath",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Longfort–Iarmhí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "朗福德-西米斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Longford–Westmeath",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "朗福德–韋斯特米思",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "朗福德–韦斯特米思",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/louth",
+      "identifiers": [
+        {
+          "identifier": "Q6689841",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Louth",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Louth",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Lú",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "勞斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лу",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/mayo",
+      "identifiers": [
+        {
+          "identifier": "Q1869725",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mayo",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Mayo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mayo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Maigh Eo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "梅奧",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/meath_east",
+      "identifiers": [
+        {
+          "identifier": "Q1929591",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Meath East",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Meath East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Meath East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Oirthear na Mí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東米斯",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/meath_west",
+      "identifiers": [
+        {
+          "identifier": "Q2040462",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Meath West",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Meath West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Meath West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Iarthar na Mí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西米斯",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/offaly",
+      "identifiers": [
+        {
+          "identifier": "Q7079018",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Offaly",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Offaly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Uíbh Fhailí",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/roscommon-galway",
+      "identifiers": [
+        {
+          "identifier": "Q7367587",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Roscommon-Galway",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Roscommon–Galway",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ros Comáin–Gaillimh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/roscommon-south_leitrim",
+      "identifiers": [
+        {
+          "identifier": "Q7367589",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Roscommon-South Leitrim",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Roscommon–South Leitrim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ros Comáin–Liatroim Theas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "羅斯康芒- 南利特里姆",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/sligo-leitrim",
+      "identifiers": [
+        {
+          "identifier": "Q7540532",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Sligo-Leitrim",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sligo–Leitrim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Sligeach–Liatroim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sligo–Leitrim",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/sligo-north_leitrim",
+      "identifiers": [
+        {
+          "identifier": "Q7540535",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Sligo-North Leitrim",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sligo–North Leitrim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Sligeach–Liatroim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "斯萊戈- 北利特里姆",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tipperary",
+      "identifiers": [
+        {
+          "identifier": "Q7808886",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tipperary",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tipperary",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Tiobraid Árann",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tipperary_north",
+      "identifiers": [
+        {
+          "identifier": "Q3083080",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tipperary North",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Tipperary North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tipperary North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北蒂珀雷里",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tipperary North",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tipperary_south",
+      "identifiers": [
+        {
+          "identifier": "Q2739535",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tipperary South",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Tipperary South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tipperary South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "南蒂珀雷里",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/waterford",
+      "identifiers": [
+        {
+          "identifier": "Q2109423",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Waterford",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Waterford",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Waterford",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Port Láirge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "瓦特福",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wexford",
+      "identifiers": [
+        {
+          "identifier": "Q3458611",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wexford",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Wexford",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Wexford",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Loch Garman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "韋克斯福德",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wicklow",
+      "identifiers": [
+        {
+          "identifier": "Q2380581",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wicklow",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Wicklow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Wicklow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cill Mhantáin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "威克洛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ウィックロー選挙区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wicklow",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
