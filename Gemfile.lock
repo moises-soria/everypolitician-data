@@ -37,6 +37,12 @@ GIT
       require_all
 
 GIT
+  remote: https://github.com/everypolitician/field_serializer.git
+  revision: 07e89a97eebe4e85ec23f46e04c7e061ac0fe166
+  specs:
+    field_serializer (0.3.0)
+
+GIT
   remote: https://github.com/everypolitician/twitter_username_extractor.git
   revision: cc0aebc0ac8724f2d32ffba8426489ca7b1d92dd
   specs:
@@ -184,6 +190,7 @@ DEPENDENCIES
   everypolitician-popolo!
   everypolitician-pull_request!
   facebook_username_extractor (~> 0.2.0)
+  field_serializer!
   flog
   fuzzy_match
   json
