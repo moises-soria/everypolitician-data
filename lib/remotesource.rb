@@ -12,7 +12,6 @@ class RemoteSource
     return RemoteSource::OCD.new(i)                if c[:from] == 'ocd'
     return RemoteSource::Wikidata::Election.new(i) if c[:from] == 'election-wikidata'
     return RemoteSource::Wikidata::Group.new(i)    if c[:from] == 'group-wikidata'
-    return RemoteSource::Wikidata::Area.new(i)     if c[:from] == 'area-wikidata'
     return RemoteSource::Wikidata::Raw.new(i)      if c[:from] == 'wikidata-raw'
     return RemoteSource::GenderBalance.new(i)      if c[:from] == 'gender-balance'
     raise "Don't know how to fetch #{i[:file]}"
@@ -126,9 +125,6 @@ class RemoteSource::Wikidata < RemoteSource
   def write
     File.write(i(:file), JSON.pretty_generate(processed_wikidata))
   end
-end
-
-class RemoteSource::Wikidata::Area < RemoteSource::Wikidata
 end
 
 class RemoteSource::Wikidata::Group < RemoteSource::Wikidata

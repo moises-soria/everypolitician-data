@@ -58,11 +58,15 @@
       }
     },
     {
-      "file": "wikidata/areas.json",
-      "type": "area-wikidata",
+      "file": "morph/areas.csv",
       "create": {
-        "from": "area-wikidata",
-        "source": "manual/area_wikidata.csv"
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/estonia-constituencies",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "area-wikidata",
+      "merge": {
+        "reconciliation_file": "reconciliation/areas.csv"
       }
     },
     {
