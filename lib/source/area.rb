@@ -25,10 +25,10 @@ module Source
       end
 
       field :other_names do
-        area.keys.select { |k| k.to_s.start_with? 'name__' }.map do |k|
+        area.select { |k, v| v && k.to_s.start_with?('name__') }.map do |k, v|
           {
             lang: k.to_s[/name__(\w+)/, 1],
-            name: area[k],
+            name: v,
             note: 'multilingual',
             # TODO: credit the source
             # source: 'wikidata',
