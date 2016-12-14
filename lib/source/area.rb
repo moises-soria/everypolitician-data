@@ -47,6 +47,10 @@ module Source
       }
     end
 
+    def reconciliation_file
+      Pathname.new('sources/') + i(:merge)[:reconciliation_file]
+    end
+
     private
 
     def area_data
@@ -54,11 +58,8 @@ module Source
               .reject { |a| a[:id].nil? }
     end
 
-    def reconciliation_file
-      'sources/' + i(:merge)[:reconciliation_file]
-    end
-
     def reconciliation_data
+      raise 'Area reconciliation file missing' unless reconciliation_file.exist?
       @rd ||= ::CSV.table(reconciliation_file).map do |r|
         [r[:wikidata], r[:id]]
       end.to_h
