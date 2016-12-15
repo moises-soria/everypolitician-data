@@ -4371,14 +4371,52 @@
         }
       ],
       "email": "isabelle.massoma@assnat.cm",
+      "gender": "female",
+      "given_name": "Isabelle",
       "id": "70632bcc-5eee-404d-b7c1-91894d33ea2c",
       "identifiers": [
         {
           "identifier": "656",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27778301",
+          "scheme": "wikidata"
         }
       ],
-      "name": "EBANDA Isabelle née MASSOMA"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/IsabelleEbanda33.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/IsabelleEbanda33.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Isabelle_Ebanda"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Isabelle_Ebanda"
+        }
+      ],
+      "name": "EBANDA Isabelle née MASSOMA",
+      "other_names": [
+        {
+          "name": "Isabelle Ebanda",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Isabelle Ebanda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Isabelle Ebanda",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-03-11",
@@ -7560,6 +7598,10 @@
         {
           "identifier": "431892",
           "scheme": "fast"
+        },
+        {
+          "identifier": "n98901734",
+          "scheme": "lcauth"
         },
         {
           "identifier": "17696956X",
