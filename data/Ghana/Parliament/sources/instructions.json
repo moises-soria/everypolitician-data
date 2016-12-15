@@ -13,7 +13,8 @@
     {
       "file": "manual/members-term-6.csv",
       "source": "http://www.parliament.gh",
-      "type": "membership"
+      "type": "membership",
+      "reuse_ids": false
     },
     {
       "file": "morph/wikidata.csv",
