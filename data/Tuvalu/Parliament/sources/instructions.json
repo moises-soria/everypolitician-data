@@ -25,12 +25,7 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/tuvalu-parliament-wikipedia",
-        "query": "SELECT * FROM terms ORDER BY id"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
