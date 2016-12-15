@@ -24,6 +24,25 @@
       }
     ],
     "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ],
+    "cabinet": [
+      {
+        "id": "Q2114150",
+        "name": "Lantråd",
+        "description": "head of government of Åland"
+      },
+      {
+        "id": "Q4112587",
+        "name": "Vice lantråd",
+        "description": "deputy head of state of the Åland Islands"
+      },
       {
         "id": "Q25712439",
         "name": "Minister of Education and Culture",
@@ -31,34 +50,14 @@
       },
       {
         "id": "Q23375654",
-        "name": "Minister of Finance"
-      },
-      {
-        "id": "Q20167466",
-        "name": "Premier of the Åland Islands"
+        "name": "Minister of Finance",
+        "description": "Åland Islands cabinet position"
       }
-    ],
-    "party": [
-
-    ],
-    "other": [
-
     ]
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q2114150",
-        "name": "Lantråd",
-        "description": "head of government of Åland",
-        "count": 4
-      },
-      {
-        "id": "Q4112587",
-        "name": "Vice lantråd",
-        "description": "deputy head of state of the Åland Islands",
-        "count": 1
-      }
+
     ]
   }
 }
