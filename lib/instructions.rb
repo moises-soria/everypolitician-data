@@ -1,4 +1,5 @@
 require_relative 'source'
+require 'json5'
 
 class Instructions
   def initialize(path)
@@ -22,7 +23,7 @@ class Instructions
   attr_reader :path
 
   def data
-    @data = JSON.parse(path.read, symbolize_names: true)
+    @data ||= JSON.parse(JSON5.parse(path.read).to_json, symbolize_names: true)
   end
 
   def raw_sources
