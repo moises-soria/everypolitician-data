@@ -26,13 +26,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
+      "file": "manual/terms.csv",
       "type": "term",
-      "create": {
-        "from": "morph",
-        "scraper": "struan/japan",
-        "query": "SELECT * FROM terms ORDER BY id"
-      }
     },
     {
       "file": "gender-balance/results.csv",
