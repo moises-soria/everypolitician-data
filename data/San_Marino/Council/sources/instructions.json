@@ -31,14 +31,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
+      "file": "manual/terms.csv",
       "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "tmtmtmtm/san_marino_council",
-        "query": "SELECT * FROM terms ORDER BY id"
-      }
     },
     {
       "file": "gender-balance/results.csv",
