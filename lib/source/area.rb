@@ -16,12 +16,7 @@ module Source
       end
 
       field :identifiers do
-        [
-          {
-            identifier: area[:id],
-            scheme:     'wikidata',
-          },
-        ]
+        [other_identifiers, wikidata_identifier].flatten.compact
       end
 
       field :other_names do
@@ -39,6 +34,22 @@ module Source
       private
 
       attr_reader :area, :reconciliation_data
+
+      def wikidata_identifier
+        {
+          identifier: area[:id],
+          scheme:     'wikidata',
+        }
+      end
+
+      def other_identifiers
+        area.select { |k, v| v && k.to_s.start_with?('identifier__') }.map do |k,v|
+          {
+            identifier: v,
+            scheme: k.to_s.sub('identifier__',''),
+          }
+        end
+      end
     end
 
     def to_popolo
