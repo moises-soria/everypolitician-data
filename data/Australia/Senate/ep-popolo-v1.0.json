@@ -12858,6 +12858,12 @@
     },
     {
       "birth_date": "1972-04-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Louise_Pratt"
+        }
+      ],
       "family_name": "Pratt",
       "gender": "female",
       "given_name": "Louise",
@@ -12891,6 +12897,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Louise_Pratt_shark_rally_crop.png"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/742593719958835200/LiH09Wqx.jpg"
         }
       ],
       "links": [
@@ -12901,6 +12910,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Louise_Pratt"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Louise_Pratt"
         }
       ],
       "name": "Louise Pratt",
