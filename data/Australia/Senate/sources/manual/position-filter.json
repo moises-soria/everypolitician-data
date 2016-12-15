@@ -73,96 +73,6 @@
     ],
     "executive": [
       {
-        "id": "Q6865745",
-        "name": "Minister for Agriculture, Fisheries and Forestry"
-      },
-      {
-        "id": "Q11796917",
-        "name": "Minister for Broadband, Communications and the Digital Economy (Australia)"
-      },
-      {
-        "id": "Q3315112",
-        "name": "Minister for Defence"
-      },
-      {
-        "id": "Q6865784",
-        "name": "Minister for Defence Materiel"
-      },
-      {
-        "id": "Q6865787",
-        "name": "Minister for Defence Science and Personnel"
-      },
-      {
-        "id": "Q6865809",
-        "name": "Minister for Employment and Workplace Relations"
-      },
-      {
-        "id": "Q6865833",
-        "name": "Minister for Finance"
-      },
-      {
-        "id": "Q2660943",
-        "name": "Minister for Foreign Affairs"
-      },
-      {
-        "id": "Q6865857",
-        "name": "Minister for Health"
-      },
-      {
-        "id": "Q6865874",
-        "name": "Minister for Human Services"
-      },
-      {
-        "id": "Q11796950",
-        "name": "Minister for Immigration and Border Protection"
-      },
-      {
-        "id": "Q6865883",
-        "name": "Minister for Industry and Innovation"
-      },
-      {
-        "id": "Q6865888",
-        "name": "Minister for Infrastructure and Transport"
-      },
-      {
-        "id": "Q6865898",
-        "name": "Minister for Justice"
-      },
-      {
-        "id": "Q25514686",
-        "name": "Minister for Justice and Consumer Affairs",
-        "description": "Australian minister"
-      },
-      {
-        "id": "Q6865821",
-        "name": "Minister for Social Services"
-      },
-      {
-        "id": "Q11796981",
-        "name": "Minister for Sport"
-      },
-      {
-        "id": "Q11796986",
-        "name": "Minister for Sustainability, Environment, Water, Population and Communities (Australia)"
-      },
-      {
-        "id": "Q6865979",
-        "name": "Minister for Trade"
-      },
-      {
-        "id": "Q6865985",
-        "name": "Minister for Veterans' Affairs"
-      },
-      {
-        "id": "Q6865994",
-        "name": "Minister for the Arts"
-      },
-      {
-        "id": "Q7574624",
-        "name": "Special Minister of State",
-        "description": null
-      },
-      {
         "id": "Q2390270",
         "name": "Treasurer of Australia"
       }
@@ -199,6 +109,138 @@
       {
         "id": "Q11122003",
         "name": "Vice-President of the Executive Council"
+      },
+      {
+        "id": "Q27230596",
+        "name": "Premier of South Australia",
+        "description": "head of government for the state of South Australia, Australia"
+      }
+    ],
+    "cabinet": [
+      {
+        "id": "Q6865868",
+        "name": "Minister for Home Affairs",
+        "description": "Australian ministerial position"
+      },
+      {
+        "id": "Q17007714",
+        "name": "Minister for Indigenous Affairs",
+        "description": null
+      },
+      {
+        "id": "Q6865964",
+        "name": "Minister for Resources and Energy",
+        "description": null
+      },
+      {
+        "id": "Q6865745",
+        "name": "Minister for Agriculture, Fisheries and Forestry",
+        "description": "Australian Minister for Agriculture, Fisheries and Forestry"
+      },
+      {
+        "id": "Q11796917",
+        "name": "Minister for Broadband, Communications and the Digital Economy (Australia)",
+        "description": null
+      },
+      {
+        "id": "Q3315112",
+        "name": "Minister for Defence",
+        "description": "defence minister of Australia"
+      },
+      {
+        "id": "Q6865784",
+        "name": "Minister for Defence Materiel",
+        "description": "Australian cabinet position"
+      },
+      {
+        "id": "Q6865787",
+        "name": "Minister for Defence Science and Personnel",
+        "description": null
+      },
+      {
+        "id": "Q6865809",
+        "name": "Minister for Employment and Workplace Relations",
+        "description": null
+      },
+      {
+        "id": "Q6865833",
+        "name": "Minister for Finance",
+        "description": "Australian minister"
+      },
+      {
+        "id": "Q2660943",
+        "name": "Minister for Foreign Affairs",
+        "description": "Australian ministerial position, responsible for overseeing Department of Foreign Affairs and Trade"
+      },
+      {
+        "id": "Q6865857",
+        "name": "Minister for Health",
+        "description": "portfolio in the Government of Australia"
+      },
+      {
+        "id": "Q6865874",
+        "name": "Minister for Human Services",
+        "description": null
+      },
+      {
+        "id": "Q11796950",
+        "name": "Minister for Immigration and Border Protection",
+        "description": null
+      },
+      {
+        "id": "Q6865883",
+        "name": "Minister for Industry and Innovation",
+        "description": "portfolio in the Government of Australia"
+      },
+      {
+        "id": "Q6865888",
+        "name": "Minister for Infrastructure and Transport",
+        "description": null
+      },
+      {
+        "id": "Q6865898",
+        "name": "Minister for Justice",
+        "description": "Australian Minister"
+      },
+      {
+        "id": "Q25514686",
+        "name": "Minister for Justice and Consumer Affairs",
+        "description": "Australian minister"
+      },
+      {
+        "id": "Q6865821",
+        "name": "Minister for Social Services",
+        "description": "Australian government minister"
+      },
+      {
+        "id": "Q11796981",
+        "name": "Minister for Sport",
+        "description": "Australian cabinet position"
+      },
+      {
+        "id": "Q11796986",
+        "name": "Minister for Sustainability, Environment, Water, Population and Communities (Australia)",
+        "description": null
+      },
+      {
+        "id": "Q6865979",
+        "name": "Minister for Trade",
+        "description": null
+      },
+      {
+        "id": "Q6865985",
+        "name": "Minister for Veterans' Affairs",
+        "description": null
+      },
+      {
+        "id": "Q6865994",
+        "name": "Minister for the Arts",
+        "description": null
+      },
+      {
+        "id": "Q7574624",
+        "name": "Special Minister of State",
+        "description": null
       }
     ]
   },
@@ -208,30 +250,6 @@
         "id": "Q781486",
         "name": "Australian Greens",
         "description": "Australian political party",
-        "count": 1
-      },
-      {
-        "id": "Q6865868",
-        "name": "Minister for Home Affairs",
-        "description": "Australian ministerial position",
-        "count": 1
-      },
-      {
-        "id": "Q17007714",
-        "name": "Minister for Indigenous Affairs",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q6865964",
-        "name": "Minister for Resources and Energy",
-        "description": null,
-        "count": 1
-      },
-      {
-        "id": "Q27230596",
-        "name": "Premier of South Australia",
-        "description": "head of government for the state of South Australia, Australia",
         "count": 1
       },
       {
