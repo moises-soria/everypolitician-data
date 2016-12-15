@@ -37584,6 +37584,10 @@
         {
           "identifier": "5830457",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27999267",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160517.jpg",
@@ -37592,7 +37596,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160517.jpg"
         }
       ],
-      "name": "PAULO FOLETTO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Paulo_Foletto"
+        }
+      ],
+      "name": "PAULO FOLETTO",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Paulo Foletto",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-02-14",
