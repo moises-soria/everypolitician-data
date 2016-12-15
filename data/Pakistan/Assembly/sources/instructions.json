@@ -26,14 +26,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
+      "file": "manual/terms.csv",
       "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "tmtmtmtm/pakistan-national-assembly",
-        "query": "SELECT * FROM terms"
-      }
     },
     {
       "file": "wikidata/groups.json",

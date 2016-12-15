@@ -26,12 +26,7 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/luxembourg-chamber-of-deputies",
-        "query": "SELECT * FROM terms ORDER BY id"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
