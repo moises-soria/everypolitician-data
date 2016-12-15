@@ -70,9 +70,9 @@ class GroupLookup < WikidataLookup
   def other_fields_for(result)
     {
       links: links(result),
-      image: logo(result),
+      image: logo(result).to_s,
       srgb:  colour(result),
-    }.reject { |_, v| v.nil? }
+    }.reject { |_, v| v.to_s.empty? }
   end
 
   def logo(result)
