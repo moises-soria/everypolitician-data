@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/norfolk-island-assembly",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://www.norfolkisland.gov.nf/legislativeassembly/legislativeassembly.html",
       "type": "membership"
