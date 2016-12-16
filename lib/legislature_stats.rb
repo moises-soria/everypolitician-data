@@ -30,9 +30,18 @@ class StatsFile
   attr_reader :popolo, :position_filter
 
   def people_stats
+    current = popolo.latest_term.memberships.map(&:person).uniq
     {
-      count:    people.count,
-      wikidata: people_wikidata_partition.first.count,
+      count:       people.count,
+      wikidata:    people_wikidata_partition.first.count,
+      latest_term: {
+        count:    current.count,
+        contacts: {
+          email:    current.select(&:email).count,
+          facebook: current.select(&:facebook).count,
+          twitter:  current.select(&:twitter).count,
+        },
+      },
     }
   end
 
@@ -94,4 +103,3 @@ class StatsFile
     posns[:include][:cabinet].count rescue 0
   end
 end
-
