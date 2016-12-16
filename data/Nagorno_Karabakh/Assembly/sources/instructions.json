@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/nagorno-karabakh-national-assembly",
-        "query": "SELECT id, name, faction, faction, * FROM data"
+        "query": "SELECT id, name, faction, faction, * FROM data ORDER BY id"
       },
       "source": "http://nankr.am/",
       "type": "membership"
