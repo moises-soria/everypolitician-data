@@ -46,7 +46,7 @@
       "create": {
         "from": "morph",
         "scraper": "mhl/uk-ynmp-2015-winners",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "person",
       "source": "https://yournextmp.com/",
