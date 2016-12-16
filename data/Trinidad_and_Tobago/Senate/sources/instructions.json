@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "jennahowe/trinidad_and_tobago",
-        "query": "SELECT *, 11 AS term FROM senate"
+        "query": "SELECT *, 11 AS term FROM senate ORDER BY id"
       },
       "source": "http://ttparliament.org",
       "type": "membership"
