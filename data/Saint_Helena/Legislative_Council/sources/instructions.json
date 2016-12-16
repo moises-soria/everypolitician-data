@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/saint-helena-election-2013",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Saint_Helena_general_election,_2013",
       "type": "membership"
