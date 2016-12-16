@@ -14,7 +14,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/uk-parliament-members",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "person",
       "source": "http://data.parliament.uk",
