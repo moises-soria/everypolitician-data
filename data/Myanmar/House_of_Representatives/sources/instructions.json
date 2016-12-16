@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/myanmar-house-of-representatives",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.pyithuhluttaw.gov.mm/?q=representatives",
       "type": "membership"

@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/sark-chief-pleas-wikipedia",
-        "query": "SELECT *, 'None' AS party FROM data"
+        "query": "SELECT *, 'None' AS party FROM data ORDER BY name, term DESC"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"

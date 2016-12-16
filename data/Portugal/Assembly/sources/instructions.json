@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/portugal-democratica-scraper",
-        "query": "SELECT id, name, photo, email, twitter, identifier__parlamento FROM data GROUP BY id"
+        "query": "SELECT id, name, photo, email, twitter, identifier__parlamento FROM data GROUP BY id ORDER BY id"
       },
       "source": "http://demo.cratica.org/",
       "type": "person",

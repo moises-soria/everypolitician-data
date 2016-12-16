@@ -14,7 +14,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/uk-parliament-members",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "person",
       "source": "http://data.parliament.uk",
@@ -28,7 +28,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-gov-uk-mps",
-        "query": "SELECT *, REPLACE(name, ' MP','') AS name FROM data"
+        "query": "SELECT *, REPLACE(name, ' MP','') AS name FROM data ORDER BY id"
       },
       "type": "person",
       "source": "https://twitter.com/gov/lists/uk-mps",
@@ -46,7 +46,7 @@
       "create": {
         "from": "morph",
         "scraper": "mhl/uk-ynmp-2015-winners",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "person",
       "source": "https://yournextmp.com/",

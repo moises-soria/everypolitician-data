@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/nauru-parliament",
-        "query": "SELECT *, party as faction FROM data"
+        "query": "SELECT *, party as faction FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Parliament_of_Nauru",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/nauru-2016-results",
-        "query": "SELECT *, 22 AS term FROM data"
+        "query": "SELECT *, 22 AS term FROM data ORDER BY name"
       },
       "source": "http://www.naurugov.nr/government-information-office/",
       "merge": {
