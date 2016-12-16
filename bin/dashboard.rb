@@ -24,6 +24,7 @@ data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
   now = DateTime.now.to_date
   last_build = Time.at(l.lastmod.to_i).to_date
 
+  latest = stats[:people][:latest_term]
   {
     posn:                (ordering[l.country.slug.downcase] || 999) + 1,
     country:             l.country.name,
@@ -38,7 +39,10 @@ data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
     elections:           stats[:elections][:count],
     latest_term:         l.legislative_periods.first.raw_data[:start_date],
     latest_election:     stats[:elections][:latest],
-    executive_positions: stats[:positions][:executive],
+    email:               latest[:contacts][:email].to_f / latest[:count].to_f,
+    twitter:             latest[:contacts][:twitter].to_f / latest[:count].to_f,
+    facebook:            latest[:contacts][:facebook].to_f / latest[:count].to_f,
+    cabinet:             stats[:positions][:cabinet],
   }
 end.flatten
 
