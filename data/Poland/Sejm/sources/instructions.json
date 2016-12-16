@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/poland-sejm-wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id, term DESC"
       },
       "source": "https://pl.wikipedia.org/wiki/Sejm_Rzeczypospolitej_Polskiej",
       "type": "membership"
