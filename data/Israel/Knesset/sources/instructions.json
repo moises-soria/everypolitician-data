@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/israel-knesset-members",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id, term DESC"
       },
       "source": "http://www.knesset.gov.il",
       "type": "membership"
@@ -47,7 +47,7 @@
         "file": "morph/terms.csv",
         "from": "morph",
         "scraper": "tmtmtmtm/israel-knesset-members",
-        "query": "SELECT * FROM terms"
+        "query": "SELECT * FROM terms ORDER BY start_date"
       }
     },
     {
