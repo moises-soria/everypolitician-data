@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/haiti-deputies-2011",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://www.haiti-reference.com",
       "type": "membership"
