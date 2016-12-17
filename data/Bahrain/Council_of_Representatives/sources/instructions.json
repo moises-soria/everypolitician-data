@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/bahrain-council-of-representatives",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.nuwab.gov.bh/CouncilMembers/Pages/default.aspx",
       "type": "membership"
