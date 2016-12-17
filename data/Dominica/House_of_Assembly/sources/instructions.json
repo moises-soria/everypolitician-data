@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/dominica-election-2014",
-        "query": "SELECT * FROM data WHERE winner = 'yes'"
+        "query": "SELECT * FROM data WHERE winner = 'yes' ORDER BY id"
       },
       "source": "http://electoraloffice.gov.dm/",
       "type": "membership"
