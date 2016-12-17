@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/micronesia-congress",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name, term DESC"
       },
       "source": "http://www.fsmcongress.fm",
       "type": "membership"

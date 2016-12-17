@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/guam-parliament",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name, term DESC"
       },
       "source": "http://www.guamlegislature.com",
       "type": "membership"

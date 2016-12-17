@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/mali-psephos",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://psephos.adam-carr.net/countries/m/mali/mali20131.txt",
       "type": "membership"

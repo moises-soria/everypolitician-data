@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/comoros-legislative-election-2015",
-        "query": "SELECT *, 2015 as TERM FROM data"
+        "query": "SELECT *, 2015 as TERM FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Comorian_legislative_election,_2015",
       "type": "membership"
