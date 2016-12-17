@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/kiribati-parliament",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://www.parliament.gov.ki",
       "type": "membership"
