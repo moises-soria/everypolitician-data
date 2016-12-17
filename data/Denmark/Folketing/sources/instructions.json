@@ -2,7 +2,6 @@
   "sources": [
     {
       "file": "manual/members.csv",
-      "query": "SELECT * FROM data",
       "source": "http://www.thedanishparliament.dk",
       "type": "membership"
     },
@@ -11,7 +10,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/denmark-folketing",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.thedanishparliament.dk",
       "type": "membership"
