@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "lizconlan/anguilla-election-centre",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY name, term DESC"
       },
       "source": "http://www.caribbeanelections.com/ai/election2015",
       "type": "membership"
