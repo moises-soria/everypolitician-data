@@ -118,13 +118,16 @@ namespace :term_csvs do
     end
     (new_map[:unknown] ||= {})[:unknown] = unknown
     POSITION_FILTER.write(JSON.pretty_generate(new_map))
-
-    if unknown && ENV['GENERATE_POSITION_INTERFACE']
-      html = Position::Filter::HTML.new(new_map).html
-      POSITION_HTML.write(html)
-      FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
-      warn "open #{POSITION_HTML}".yellow
-      warn "pbpaste | bundle exec ruby #{POSITION_LEARNER} #{POSITION_FILTER}".yellow
-    end
   end
 end
+
+desc 'Generate the position filter interface'
+task :generate_position_interface do
+  new_map = PositionMap.new(pathname: POSITION_FILTER).to_json
+  html = Position::Filter::HTML.new(new_map).html
+  POSITION_HTML.write(html)
+  FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
+  warn "open #{POSITION_HTML}".yellow
+  warn "pbpaste | bundle exec ruby #{POSITION_LEARNER} #{POSITION_FILTER}".yellow
+end
+
