@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/openpolis-scraper",
-        "query": "SELECT * FROM data WHERE house = 'Senate'"
+        "query": "SELECT * FROM data WHERE house = 'Senate' ORDER BY id"
       },
       "source": "http://politici.openpolis.it",
       "type": "membership"
