@@ -6690,11 +6690,6 @@
         }
       ],
       "email": "inara.luigas@riigikogu.ee",
-      "id": "028d3a1b-0bad-4b42-bf99-3e412f303158",
-      "name": "Inara Luigas"
-    },
-    {
-      "birth_date": "1959-01-13",
       "gender": "female",
       "id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
       "identifiers": [
@@ -27534,15 +27529,6 @@
       ]
     },
     {
-      "area_id": "area/võru-,_valga-_ja_põlvamaa",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "SDE",
-      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
-      "person_id": "028d3a1b-0bad-4b42-bf99-3e412f303158",
-      "role": "member",
-      "start_date": "2016-11-25"
-    },
-    {
       "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
       "end_date": "2015-09-14",
       "legislative_period_id": "term/13",
@@ -29985,6 +29971,15 @@
       "person_id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
       "role": "member",
       "start_date": "2012-04-09"
+    },
+    {
+      "area_id": "area/võru-,_valga-_ja_põlvamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
+      "role": "member",
+      "start_date": "2016-11-25"
     },
     {
       "end_date": "2011-04-01",
