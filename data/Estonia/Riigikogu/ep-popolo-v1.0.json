@@ -380,6 +380,41 @@
       ]
     },
     {
+      "birth_date": "1961-11-10",
+      "gender": "female",
+      "id": "2ff6f13d-b5e0-4948-811a-b60281e6f653",
+      "identifiers": [
+        {
+          "identifier": "Q16407380",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Maatee_Aet.IMG_2928.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Maatee_Aet.IMG_2928.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aet_Maatee"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Aet_Maatee"
+        }
+      ],
+      "name": "Aet Maatee",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Aet Maatee",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1954-05-06",
       "contact_details": [
         {
@@ -643,6 +678,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
+      "name": "Alar Nääme"
     },
     {
       "birth_date": "1971-10-25",
@@ -959,8 +998,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no2015148603",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "d29b95db-3b4d-43de-802d-652c32199211",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "419144782712140221516",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q13234758",
@@ -993,6 +1040,10 @@
           "url": "https://et.wikipedia.org/wiki/Andres_Anvelt"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Andres_Anvelt"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Andres_Anvelt"
         },
@@ -1002,7 +1053,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Инкубатор:Анвельт,_Андрес"
+          "url": "https://ru.wikipedia.org/wiki/Анвельт,_Андрес"
         },
         {
           "note": "Wikipedia (sv)",
@@ -1030,7 +1081,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Andres Anvelt",
+          "note": "multilingual"
+        },
+        {
           "lang": "et",
+          "name": "Andres Anvelt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Andres Anvelt",
           "note": "multilingual"
         },
@@ -1055,8 +1116,23 @@
           "note": "multilingual"
         },
         {
+          "lang": "oc",
+          "name": "Andres Anvelt",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Andres Anvelt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andres Anvelt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Анвельт, Андрес",
           "note": "multilingual"
         },
         {
@@ -2957,6 +3033,43 @@
       ]
     },
     {
+      "birth_date": "1953-08-26",
+      "gender": "male",
+      "given_name": "Arvo",
+      "id": "695cff26-9439-4391-bf17-f60856aa9331",
+      "identifiers": [
+        {
+          "identifier": "Q16404003",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarapuu,_Arvo.IMG_5545.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarapuu,_Arvo.IMG_5545.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Arvo_Sarapuu"
+        }
+      ],
+      "name": "Arvo Sarapuu",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Arvo Sarapuu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Arvo Sarapuu",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1963-04-19",
       "contact_details": [
         {
@@ -4012,10 +4125,6 @@
         }
       ],
       "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Einar_Vallbaum"
-        },
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Einar_Vallbaum"
@@ -6579,6 +6688,18 @@
       ]
     },
     {
+      "birth_date": "1973-03-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "igor.kravtsenko@riigikogu.ee"
+        }
+      ],
+      "email": "igor.kravtsenko@riigikogu.ee",
+      "id": "a1e48234-395a-4d6c-b2f8-777db773c5d1",
+      "name": "Igor Kravtšenko"
+    },
+    {
       "birth_date": "1969-03-13",
       "contact_details": [
         {
@@ -6657,6 +6778,13 @@
     },
     {
       "birth_date": "1959-01-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "inara.luigas@riigikogu.ee"
+        }
+      ],
+      "email": "inara.luigas@riigikogu.ee",
       "gender": "female",
       "id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
       "identifiers": [
@@ -15051,6 +15179,10 @@
           "url": "https://et.wikipedia.org/wiki/Marko_Pomerants"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Marko_Pomerants"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Marko_Pomerants"
         },
@@ -15194,6 +15326,18 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "birth_date": "1974-06-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marko.sorin@riigikogu.ee"
+        }
+      ],
+      "email": "marko.sorin@riigikogu.ee",
+      "id": "7543bb1d-1f30-49dc-985e-de023d6235ca",
+      "name": "Marko Šorin"
     },
     {
       "birth_date": "1949-10-31",
@@ -16436,6 +16580,10 @@
           "url": "https://pl.wikipedia.org/wiki/Martin_Repinski"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Martin_Repinski"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/100001896969458"
         }
@@ -16454,6 +16602,11 @@
         },
         {
           "lang": "pl",
+          "name": "Martin Repinski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Martin Repinski",
           "note": "multilingual"
         }
@@ -21474,6 +21627,10 @@
           "url": "https://et.wikipedia.org/wiki/Tarmo_Tamm_(1953)"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tarmo_Tamm"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/tarmotamm"
         }
@@ -21492,6 +21649,11 @@
         },
         {
           "lang": "et",
+          "name": "Tarmo Tamm",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Tarmo Tamm",
           "note": "multilingual"
         }
@@ -21812,6 +21974,18 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "birth_date": "1949-03-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "toomas.paur@riigikogu.ee"
+        }
+      ],
+      "email": "toomas.paur@riigikogu.ee",
+      "id": "114fbc7c-a136-4547-bbc3-8a573c913724",
+      "name": "Toomas Paur"
     },
     {
       "birth_date": "1967-04-26",
@@ -27402,6 +27576,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -27706,6 +27885,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/võru-,_valga-_ja_põlvamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "114fbc7c-a136-4547-bbc3-8a573c913724",
+      "role": "member",
+      "start_date": "2016-12-11"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -27956,6 +28144,20 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/ce3f9ed0-083c-4d0f-b45a-096610012b5f/Martin-Repinski"
         }
       ]
+    },
+    {
+      "area_id": "area/ida-virumaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "1d3c8a79-3acc-438b-b4d4-cc1cb5f74408",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/ce3f9ed0-083c-4d0f-b45a-096610012b5f/Martin-Repinski"
+        }
+      ],
+      "start_date": "2016-12-10"
     },
     {
       "legislative_period_id": "term/12",
@@ -28224,6 +28426,15 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/8940964b-6bfd-482d-a4f5-53f2cccb149d/Priit-Sibul"
         }
       ]
+    },
+    {
+      "end_date": "2016-11-25",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "2ff6f13d-b5e0-4948-811a-b60281e6f653",
+      "role": "member",
+      "start_date": "2016-11-24"
     },
     {
       "end_date": "2014-03-26",
@@ -28663,6 +28874,7 @@
       "start_date": "2015-09-01"
     },
     {
+      "end_date": "2016-11-24",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28744,6 +28956,7 @@
       ]
     },
     {
+      "end_date": "2016-12-09",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28837,6 +29050,15 @@
       ]
     },
     {
+      "end_date": "2016-12-06",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "695cff26-9439-4391-bf17-f60856aa9331",
+      "role": "member",
+      "start_date": "2016-12-05"
+    },
+    {
       "end_date": "2012-12-11",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "RE",
@@ -28898,6 +29120,7 @@
     },
     {
       "area_id": "area/pärnumaa",
+      "end_date": "2016-11-24",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "SDE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -28995,6 +29218,15 @@
       "start_date": "2015-04-09"
     },
     {
+      "area_id": "area/pärnumaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "7543bb1d-1f30-49dc-985e-de023d6235ca",
+      "role": "member",
+      "start_date": "2016-11-24"
+    },
+    {
       "end_date": "2012-04-11",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "IRL",
@@ -29073,6 +29305,14 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/ccf992ae-380e-46a9-97e7-8fa4da648262/Andres-Herkel"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
+      "role": "member",
+      "start_date": "2016-12-10"
     },
     {
       "end_date": "2014-03-26",
@@ -29527,6 +29767,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "a1e48234-395a-4d6c-b2f8-777db773c5d1",
+      "role": "member",
+      "start_date": "2016-12-06"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29702,6 +29951,7 @@
     },
     {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
+      "end_date": "2016-12-10",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -29838,6 +30088,15 @@
       "person_id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
       "role": "member",
       "start_date": "2012-04-09"
+    },
+    {
+      "area_id": "area/võru-,_valga-_ja_põlvamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
+      "role": "member",
+      "start_date": "2016-11-25"
     },
     {
       "end_date": "2011-04-01",
@@ -30884,6 +31143,7 @@
     },
     {
       "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "end_date": "2016-12-05",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
