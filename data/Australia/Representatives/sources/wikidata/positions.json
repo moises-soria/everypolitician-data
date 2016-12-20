@@ -142,7 +142,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Kingston",
+        "P580": "2004-10-09",
+        "P582": "2007-11-24",
+        "P1365": "David Cox",
+        "P1366": "Amanda Rishworth"
+      }
     }
   ],
   "Q6759700": [
@@ -384,7 +391,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Hasluck",
+        "P580": "2010-08-21",
+        "P1365": "Sharryn Jackson"
+      }
     }
   ],
   "Q5026394": [
@@ -520,7 +532,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Tangney",
+        "P580": "2016-07-02",
+        "P1365": "Dennis Jensen"
+      }
     }
   ],
   "Q16216756": [
@@ -1023,7 +1040,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Fairfax",
+        "P580": "2013-09-07",
+        "P582": "2016-05-09",
+        "P1365": "Alex Somlyay",
+        "P1366": "Ted O'Brien"
+      }
     }
   ],
   "Q6249252": [
@@ -1505,7 +1529,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Richmond",
+        "P580": "1996-03-02",
+        "P582": "2004-10-09",
+        "P1365": "Neville Newell",
+        "P1366": "Justine Elliot"
+      }
     }
   ],
   "Q7507904": [
@@ -2160,7 +2191,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Durack",
+        "P580": "2013-09-07",
+        "P1365": "Barry Haase"
+      }
     }
   ],
   "Q1826293": [
@@ -3194,7 +3230,27 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Gilmore",
+        "P580": "1984-12-01",
+        "P582": "1993-03-13",
+        "P1365": "",
+        "P1366": "Peter Knott"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Hume",
+        "P580": "1993-03-13",
+        "P582": "1998-08-31",
+        "P1365": "Wal Fife",
+        "P1366": "Alby Schultz"
+      }
     }
   ],
   "Q4757071": [
@@ -3462,7 +3518,9 @@
       "qualifiers": {
         "P768": "Tangney",
         "P580": "2004-10-09",
-        "P1365": "Daryl Williams"
+        "P1365": "Daryl Williams",
+        "P582": "2016-07-02",
+        "P1366": "Ben Morton"
       }
     }
   ],
@@ -3888,7 +3946,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Dobell",
+        "P580": "2001-11-10",
+        "P582": "2007-11-24",
+        "P1365": "Michael Lee",
+        "P1366": "Craig Thomson"
+      }
     }
   ],
   "Q25753048": [
@@ -4085,7 +4150,8 @@
       "description": "elected representative in the Australian federal lower house of parliament",
       "qualifiers": {
         "P580": "2016-07-02",
-        "P768": "Bruce"
+        "P768": "Bruce",
+        "P1365": "Alan Griffin"
       }
     }
   ],
@@ -4121,7 +4187,8 @@
       "description": "elected representative in the Australian federal lower house of parliament",
       "qualifiers": {
         "P580": "2016-07-02",
-        "P768": "Fremantle"
+        "P768": "Fremantle",
+        "P1365": "Melissa Parke"
       }
     }
   ],
@@ -4886,7 +4953,32 @@
       "title": "Member of the Australian House of Representatives",
       "description": "elected representative in the Australian federal lower house of parliament",
       "qualifiers": {
-        "P768": "Kalgoorlie"
+        "P768": "Kalgoorlie",
+        "P580": "1998-10-03",
+        "P582": "2010-08-21",
+        "P1365": "Graeme Campbell"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Durack",
+        "P580": "2010-08-21",
+        "P582": "2013-08-05",
+        "P1366": "Melissa Price"
+      }
+    },
+    {
+      "id": "Q28034226",
+      "label": "Administrator of the Indian Ocean Territories",
+      "title": "Administrator of the Indian Ocean Territories",
+      "description": "government administrator of Christmas and Cocos (Keeling) Islands",
+      "qualifiers": {
+        "P580": "2014-10-05",
+        "P1365": "Jon Stanhope"
       }
     }
   ],
@@ -5617,7 +5709,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Holt",
+        "P580": "1980-10-18",
+        "P582": "1996-01-21",
+        "P1365": "William Yates",
+        "P1366": "Gareth Evans"
+      }
     }
   ],
   "Q528907": [
@@ -7311,7 +7410,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "O'Connor",
+        "P580": "2013-09-07",
+        "P1365": "Tony Crook"
+      }
     }
   ],
   "Q7150487": [
