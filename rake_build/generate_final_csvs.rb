@@ -38,11 +38,8 @@ namespace :term_csvs do
   end
 
   task name_list: :top_identifiers do
-    # TODO: switch to using @popolo here
-    names = @json[:persons].flat_map do |p|
-      nameset = Set.new([p[:name]])
-      nameset.merge (p[:other_names] || []).map { |n| n[:name] }
-      nameset.map { |n| [n, p[:id].split('/').last] }
+    names = @popolo.persons.flat_map do |p|
+      Set.new([p.name]).merge(p.other_names.map { |n| n[:name] }).map { |n| [n, p.id] }
     end.uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| [name.downcase, id] }
 
     filename = 'names.csv'
