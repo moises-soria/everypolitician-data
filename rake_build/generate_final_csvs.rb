@@ -51,20 +51,16 @@ namespace :term_csvs do
 
   desc 'Add some final reporting information'
   task reports: :term_tables do
-    # TODO: switch to using @popolo here
-    wikidata_persons = @json[:persons].partition { |p| (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' } }
-    wikidata_parties = @json[:organizations].select { |o| o[:classification] == 'party' }
-                                            .reject { |p| p[:name].downcase == 'unknown' }
-                                            .partition do |p|
-      (p[:identifiers] || []).find { |i| i[:scheme] == 'wikidata' }
-    end
+    wikidata_persons = @popolo.persons.partition(&:wikidata)
+    wikidata_parties = @popolo.organizations.where(classification: 'party').partition(&:wikidata)
+
     matched, unmatched = wikidata_persons.map(&:count)
     warn "Persons matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_persons.last.shuffle.take(10).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
+    wikidata_persons.last.shuffle.take(10).each { |p| warn "  No wikidata: #{p.name} (#{p.id})" } unless matched.zero?
 
     matched, unmatched = wikidata_parties.map(&:count)
     warn "Parties matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p[:name]} (#{p[:id]})" } unless matched.zero?
+    wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p.name} (#{p.id})" } unless matched.zero?
   end
 
   desc 'Build the Positions file'
