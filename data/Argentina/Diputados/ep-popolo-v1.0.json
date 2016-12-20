@@ -5382,6 +5382,12 @@
     },
     {
       "birth_date": "1965-09-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MonzoEmilio"
+        }
+      ],
       "gender": "male",
       "given_name": "Emilio",
       "id": "4f649f1e-3e30-4105-b421-d6216b7abb5a",
@@ -5401,6 +5407,14 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Emilio_Monzó"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/emilio.monzo.79"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MonzoEmilio"
         }
       ],
       "name": "Emilio Monzo",
@@ -6839,10 +6853,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/785850928331096064/srSrcAl-.jpg",
+      "image": "https://pbs.twimg.com/profile_images/807243048308670464/giW2R21L.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/785850928331096064/srSrcAl-.jpg"
+          "url": "https://pbs.twimg.com/profile_images/807243048308670464/giW2R21L.jpg"
         }
       ],
       "links": [
@@ -10739,6 +10753,11 @@
       "sort_name": "Diaz Roig, Juan Carlos"
     },
     {
+      "id": "778d577e-ab47-4e4f-b302-9842174b38d1",
+      "name": "Juan Carlos Giordano",
+      "sort_name": "Giordano, Juan Carlos"
+    },
+    {
       "gender": "male",
       "given_name": "Juan",
       "id": "8af15ec8-a878-4142-b51d-86da29044047",
@@ -10805,7 +10824,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Facundo_posa_junto_a_dos_niños.JPG"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/798189318225403905/9xS8XY0o.jpg"
+          "url": "https://pbs.twimg.com/profile_images/805558981578096641/wJru8GbP.jpg"
         }
       ],
       "links": [
@@ -11774,10 +11793,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/796407955809828868/eAGFhka_.jpg",
+      "image": "https://pbs.twimg.com/profile_images/809476990591967232/t0o1f9pr.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/796407955809828868/eAGFhka_.jpg"
+          "url": "https://pbs.twimg.com/profile_images/809476990591967232/t0o1f9pr.jpg"
         }
       ],
       "links": [
@@ -14377,6 +14396,7 @@
       "sort_name": "Burgos, Maria Gabriela"
     },
     {
+      "family_name": "Villar",
       "gender": "female",
       "given_name": "María",
       "id": "c3b7cccb-0c35-4f62-95d3-86ae1930a385",
@@ -15012,10 +15032,10 @@
       ],
       "gender": "male",
       "id": "79752c1d-5fb2-487d-8a24-c702377243ec",
-      "image": "https://pbs.twimg.com/profile_images/773600471747616768/ioyq4Dqo.jpg",
+      "image": "https://pbs.twimg.com/profile_images/804449629198761984/OJpRHUo6.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/773600471747616768/ioyq4Dqo.jpg"
+          "url": "https://pbs.twimg.com/profile_images/804449629198761984/OJpRHUo6.jpg"
         }
       ],
       "links": [
@@ -16416,6 +16436,10 @@
       "given_name": "Néstor",
       "id": "6279958b-5e1d-49d8-b35a-807e0ffe1439",
       "identifiers": [
+        {
+          "identifier": "299296024",
+          "scheme": "nta"
+        },
         {
           "identifier": "280577151",
           "scheme": "viaf"
@@ -18108,7 +18132,9 @@
           "value": "UrrozPaula"
         }
       ],
+      "family_name": "Marcela",
       "gender": "female",
+      "given_name": "Paula",
       "id": "8f90c523-635c-4bd5-9eaa-fde8a1c28313",
       "identifiers": [
         {
@@ -18697,6 +18723,11 @@
       ],
       "name": "RUBEN DARIO SCIUTTO",
       "sort_name": "SCIUTTO, RUBEN DARIO"
+    },
+    {
+      "id": "0bb8a087-bd18-4cfa-89ba-4265fc84aede",
+      "name": "Ramon Alberto Tovares",
+      "sort_name": "Tovares, Ramon Alberto"
     },
     {
       "gender": "male",
@@ -21103,10 +21134,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/666045566737063943/UzGYrj0N.jpg",
+      "image": "https://pbs.twimg.com/profile_images/809108906823847938/6Qy8NJy4.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/666045566737063943/UzGYrj0N.jpg"
+          "url": "https://pbs.twimg.com/profile_images/809108906823847938/6Qy8NJy4.jpg"
         }
       ],
       "links": [
@@ -21875,6 +21906,11 @@
     },
     {
       "classification": "party",
+      "id": "party/izquierda_socialista_-_frente_de_izquierda",
+      "name": "IZQUIERDA SOCIALISTA - FRENTE DE IZQUIERDA"
+    },
+    {
+      "classification": "party",
       "id": "party/juntos_por_argentina",
       "name": "JUNTOS POR ARGENTINA"
     },
@@ -22349,6 +22385,11 @@
         {
           "lang": "ja",
           "name": "アルゼンチン社会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist Party (Argentina)",
           "note": "multilingual"
         }
       ]
@@ -22944,6 +22985,19 @@
       "sources": [
         {
           "url": "http://www.hcdn.gob.ar/diputados/mortizcorrea/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/san_juan",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
+      "person_id": "0bb8a087-bd18-4cfa-89ba-4265fc84aede",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/rtovares/"
         }
       ]
     },
@@ -25219,6 +25273,19 @@
         }
       ],
       "start_date": "2015-12-10"
+    },
+    {
+      "area_id": "area/buenos_aires",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/izquierda_socialista_-_frente_de_izquierda",
+      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
+      "person_id": "778d577e-ab47-4e4f-b302-9842174b38d1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/jgiordano/"
+        }
+      ]
     },
     {
       "area_id": "area/jujuy",
