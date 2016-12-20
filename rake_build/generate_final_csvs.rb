@@ -19,22 +19,16 @@ namespace :term_csvs do
   end
 
   task top_identifiers: :term_tables do
-    # TODO: switch to using @popolo here
-    @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true)
-    top_identifiers = @json[:persons].map { |p| (p[:identifiers] || []).map { |i| i[:scheme] } }.flatten
-                                     .reject { |i| i == 'everypolitician_legacy' }
-                                     .group_by { |i| i }
-                                     .sort_by { |_i, is| -is.count }
-                                     .take(5)
-                                     .map { |i, is| [i, is.count] }
-
-    if top_identifiers.any?
-      warn "\nTop identifiers:"
-      top_identifiers.each do |i, c|
-        warn "  #{c} x #{i}"
-      end
-      warn "\n"
-    end
+    top_identifiers = @popolo.persons.flat_map(&:identifiers).map { |i| i[:scheme] }
+                             .reject { |i| i == 'everypolitician_legacy' }
+                             .group_by { |i| i }
+                             .sort_by { |_, is| -is.count }
+                             .take(5)
+                             .map { |i, is| [i, is.count] }
+    next unless top_identifiers.any?
+    warn "\nTop identifiers:"
+    top_identifiers.each { |i, c| warn "  #{c} x #{i}" }
+    warn "\n"
   end
 
   task name_list: :top_identifiers do
