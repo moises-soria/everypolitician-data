@@ -7,6 +7,8 @@ Lint/AssignmentInCondition:
 Lint/Debugger:
   Enabled: false
 
+Metrics/LineLength:
+  Max: 120
 
 Performance/Casecmp:
   Enabled: false
