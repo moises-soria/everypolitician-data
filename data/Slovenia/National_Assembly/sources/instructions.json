@@ -14,7 +14,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "chrismytton/slovenia-national-assembly-wikidata",
+        "scraper": "everypolitician-scrapers/slovenia-national-assembly-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
