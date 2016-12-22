@@ -30,7 +30,7 @@ class StatsFile
   attr_reader :popolo, :position_filter
 
   def people_stats
-    current = popolo.latest_term.memberships.map(&:person).uniq
+    current = popolo.latest_term.memberships.map(&:person).uniq(&:id)
     {
       count:       people.count,
       wikidata:    people_wikidata_partition.first.count,
