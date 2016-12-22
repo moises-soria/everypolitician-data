@@ -694,13 +694,24 @@
       "id": "Q19007285",
       "label": "Member of the Tasmanian House of Assembly",
       "title": "Member of the Tasmanian House of Assembly",
-      "description": "political office in Tasmania, Australia"
+      "description": "political office in Tasmania, Australia",
+      "qualifiers": {
+        "P580": "1980-02-16",
+        "P582": "1982-12-23",
+        "P768": "Denison"
+      }
     },
     {
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Tasmania",
+        "P580": "1985-07-01",
+        "P582": "1990-03-01",
+        "P1366": "Robert Bell"
+      }
     }
   ],
   "Q16206062": [
@@ -1429,7 +1440,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Victoria",
+        "P580": "1990-07-01",
+        "P582": "1996-06-30"
+      }
     }
   ],
   "Q6307377": [
@@ -1633,7 +1649,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P580": "2002-07-01",
+        "P582": "2008-06-30"
+      }
     }
   ],
   "Q4800293": [
