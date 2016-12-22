@@ -4501,6 +4501,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Gina de Venecia",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Джина де Венисия",
           "note": "multilingual"
@@ -7336,12 +7341,17 @@
       "name": "Lagdameo, Antonio Jr. F."
     },
     {
+      "birth_date": "1975-07-25",
       "gender": "female",
       "id": "4ccff38c-6ca8-409f-9075-01e32681ac13",
       "identifiers": [
         {
           "identifier": "lagdameo-m",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27922208",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/lagdameo-m.jpg",
@@ -7350,7 +7360,24 @@
           "url": "http://www.congress.gov.ph/members/images/16th/lagdameo-m.jpg"
         }
       ],
-      "name": "Lagdameo, Monique Yazmin Q."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Monique_Lagdameo"
+        }
+      ],
+      "name": "Lagdameo, Monique Yazmin Q.",
+      "other_names": [
+        {
+          "name": "Monique Lagdameo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Monique Lagdameo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1942-05-01",
@@ -7876,6 +7903,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo"
+        },
+        {
+          "note": "Wikipedia (enwikinews)",
+          "url": "https://enwikinews.wikipedia.org/wiki/Category:Gloria_Macapagal-Arroyo"
         },
         {
           "note": "Wikipedia (enwikiquote)",
@@ -10277,6 +10308,10 @@
         {
           "identifier": "349/000351293",
           "scheme": "nndb"
+        },
+        {
+          "identifier": "person/manny-pacquiao",
+          "scheme": "nyt_topic"
         },
         {
           "identifier": "151511376",
@@ -14355,11 +14390,16 @@
       "name": "Tupas, Raul \"Boboy\" C."
     },
     {
+      "gender": "female",
       "id": "f4a85adc-b179-4b95-803c-14f89fd6acc7",
       "identifiers": [
         {
           "identifier": "turabin-hataman",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16886227",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/turabin-hataman.jpg",
@@ -14368,7 +14408,29 @@
           "url": "http://www.congress.gov.ph/members/images/16th/turabin-hataman.jpg"
         }
       ],
-      "name": "Turabin-Hataman, Sitti Djalia A."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sitti_Djalia_Turabin"
+        }
+      ],
+      "name": "Turabin-Hataman, Sitti Djalia A.",
+      "other_names": [
+        {
+          "name": "Sitti Djalia Turabin",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sitti Djalia Turabin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sitti Djalia Turabin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "f995fa5b-0e2f-44c3-983d-9c6891a2db5d",
@@ -15311,6 +15373,11 @@
         },
         {
           "lang": "it",
+          "name": "Carlos Isagani Zarate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Carlos Isagani Zarate",
           "note": "multilingual"
         }
