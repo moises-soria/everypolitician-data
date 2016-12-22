@@ -24684,6 +24684,7 @@
       ],
       "email": "kiril.tsochev@parliament.bg",
       "gender": "male",
+      "given_name": "Kiril",
       "id": "1c7f2c06-6e61-4149-bab2-e715027cec20",
       "identifiers": [
         {
@@ -24693,6 +24694,10 @@
         {
           "identifier": "2469",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12283075",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2469.png",
@@ -24701,16 +24706,51 @@
           "url": "http://www.parliament.bg/images/Assembly/2469.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Кирил_Цочев"
+        }
+      ],
       "name": "КИРИЛ ПЕТРОВ ЦОЧЕВ",
       "other_names": [
+        {
+          "name": "Кирил Цочев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "КИРИЛ ПЕТРОВ ЦОЧЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Кирил Цочев",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "KIRIL PETROV TZOTCHEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kiril Petrov Tzotchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kiril Tsotsjev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kiril Petrov Tzotchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kiril Tsotsjev",
           "note": "multilingual"
         }
       ]
