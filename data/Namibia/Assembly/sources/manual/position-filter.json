@@ -19,25 +19,13 @@
     ],
     "executive": [
       {
-        "id": "Q24256544",
-        "name": "Minister of Foreign Affairs of Namibia"
-      },
-      {
-        "id": "Q6866209",
-        "name": "Minister of Information and Broadcasting"
-      },
-      {
-        "id": "Q25434578",
-        "name": "Minister of Trade and Industry",
-        "description": "Namibian cabinet position"
-      },
-      {
-        "id": "Q19056347",
+        "id": "Q647198",
         "name": "President of Namibia"
       },
       {
-        "id": "Q1333976",
-        "name": "Prime Minister of Namibia"
+        "id": "Q647198",
+        "name": "President of the Republic of Namibia",
+        "description": null
       }
     ],
     "party": [
@@ -47,6 +35,28 @@
       {
         "id": "Q1161813",
         "name": "President of the United Nations General Assembly"
+      }
+    ],
+    "cabinet": [
+      {
+        "id": "Q24256544",
+        "name": "Minister of Foreign Affairs of Namibia",
+        "description": "cabinet position in Namibia"
+      },
+      {
+        "id": "Q6866209",
+        "name": "Minister of Information and Broadcasting",
+        "description": "in India"
+      },
+      {
+        "id": "Q25434578",
+        "name": "Minister of Trade and Industry",
+        "description": "Namibian cabinet position"
+      },
+      {
+        "id": "Q1333976",
+        "name": "Prime Minister of Namibia",
+        "description": "position"
       }
     ]
   },
@@ -69,12 +79,6 @@
         "name": "Ministry of Labour",
         "description": "Ministry of Labour in the government of state",
         "count": 1
-      },
-      {
-        "id": "Q647198",
-        "name": "President of the Republic of Namibia",
-        "description": null,
-        "count": 2
       },
       {
         "id": "Q2518691",
