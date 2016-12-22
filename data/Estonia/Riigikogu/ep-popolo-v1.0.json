@@ -6930,6 +6930,10 @@
           "url": "https://et.wikipedia.org/wiki/Indrek_Saar"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Indrek_Saar"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Indrek_Saar"
         },
@@ -10090,6 +10094,10 @@
           "url": "https://et.wikipedia.org/wiki/Kaia_Iva"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Kaia_Iva"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kaia_Iva"
         },
@@ -10116,6 +10124,11 @@
         },
         {
           "lang": "et",
+          "name": "Kaia Iva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Kaia Iva",
           "note": "multilingual"
         },
@@ -13285,6 +13298,10 @@
           "url": "https://et.wikipedia.org/wiki/Mailis_Reps"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Mailis_Reps"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mailis_Reps"
         },
@@ -14071,6 +14088,10 @@
           "url": "https://etwikiquote.wikipedia.org/wiki/Margus_Tsahkna"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Margus_Tsahkna"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Margus_Tsahkna"
         },
@@ -14105,6 +14126,11 @@
         },
         {
           "lang": "et",
+          "name": "Margus Tsahkna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Margus Tsahkna",
           "note": "multilingual"
         },
@@ -15757,6 +15783,10 @@
           "url": "https://sv.wikipedia.org/wiki/Mart_Laar"
         },
         {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Mart_Laar"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Март_Лаар"
         },
@@ -16820,6 +16850,10 @@
           "url": "https://et.wikipedia.org/wiki/Mihhail_Korb"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Mihhail_Korb"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Mihhail_Korb"
         },
@@ -16841,6 +16875,11 @@
         },
         {
           "lang": "et",
+          "name": "Mihhail Korb",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Mihhail Korb",
           "note": "multilingual"
         },
@@ -20764,6 +20803,10 @@
           "url": "https://et.wikipedia.org/wiki/Sven_Sester"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Sven_Sester"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Sven_Sester"
         },
@@ -20799,6 +20842,11 @@
         },
         {
           "lang": "et",
+          "name": "Sven Sester",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Sven Sester",
           "note": "multilingual"
         },
@@ -22874,6 +22922,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Urmas_Klaas"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Urmas_Klaas"
         }
       ],
       "name": "Urmas Klaas",
@@ -27576,11 +27628,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
     }
   ],
   "meta": {
@@ -28430,7 +28477,7 @@
     {
       "end_date": "2016-11-25",
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "SDE",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "2ff6f13d-b5e0-4948-811a-b60281e6f653",
       "role": "member",
@@ -29050,9 +29097,10 @@
       ]
     },
     {
+      "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
       "end_date": "2016-12-06",
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "695cff26-9439-4391-bf17-f60856aa9331",
       "role": "member",
@@ -29307,8 +29355,9 @@
       ]
     },
     {
+      "area_id": "area/võru-,_valga-_ja_põlvamaa",
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
       "role": "member",
