@@ -3459,6 +3459,10 @@
       ]
     },
     {
+      "id": "c99fa6ac-0d73-4765-9eff-9513e92b4bec",
+      "name": "Bill Bowman"
+    },
+    {
       "birth_date": "1956-03-30",
       "gender": "male",
       "given_name": "Bill",
@@ -34232,6 +34236,15 @@
       "role": "member"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/10721",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
+      "person_id": "c99fa6ac-0d73-4765-9eff-9513e92b4bec",
+      "role": "member",
+      "start_date": "2016-12-21"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
@@ -34667,6 +34680,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-12-07",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "conservative",
       "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
