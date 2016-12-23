@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/canada-house-of-commons-wikipedia",
-        "query": "SELECT *, LOWER(REPLACE(name, ' ', '-')) AS id, NULL as source FROM data ORDER BY name"
+        "query": "SELECT *, LOWER(REPLACE(name, ' ', '-')) AS id FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
