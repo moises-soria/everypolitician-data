@@ -3459,8 +3459,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "c99fa6ac-0d73-4765-9eff-9513e92b4bec",
-      "name": "Bill Bowman"
+      "identifiers": [
+        {
+          "identifier": "Q28020296",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bill_Bowman_(Scottish_politician)"
+        }
+      ],
+      "name": "Bill Bowman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bill Bowman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-03-30",
