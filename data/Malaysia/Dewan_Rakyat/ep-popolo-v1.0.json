@@ -8282,18 +8282,68 @@
       "name": "Bojeng Andot"
     },
     {
+      "birth_date": "1972-03-11",
+      "gender": "male",
       "id": "7c66122a-3677-43ef-93d3-b52fbbea52df",
+      "identifiers": [
+        {
+          "identifier": "Q16213886",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Budiman_Zohdi_Picture.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Budiman_Zohdi_Picture.png"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Budiman_Mohd_Zohdi"
         },
         {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Budiman_Mohd_Zohdi"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Budiman_Mohd_Zohdi"
         }
       ],
-      "name": "Budiman Mohd Zohdi"
+      "name": "Budiman Mohd Zohdi",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Budiman Mohd Zohdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Budiman Mohd Zohdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Budiman Mohd Zohdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Budiman Mohd Zohdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Budiman Mohd Zohdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Budiman Mohd Zohdi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "a7265a9e-6ea1-483d-b8e6-5222ca23b255",
@@ -18835,11 +18885,19 @@
       "name": "K. Kumaran"
     },
     {
+      "birth_date": "1937",
+      "death_date": "2001",
+      "gender": "male",
+      "given_name": "K.",
       "id": "db069efa-cbb7-4491-af22-28d3436349f7",
       "identifiers": [
         {
           "identifier": "k._pathamanaban",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6323788",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -18852,7 +18910,44 @@
           "url": "http://en.wikipedia.org/wiki/K._Pathmanaban"
         }
       ],
-      "name": "K. Pathmanaban"
+      "name": "K. Pathmanaban",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "K. Pathmanaban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "K. Pathmanaban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "K. Pathmanaban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "K. Pathmanaban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "K. Pathmanaban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "K. Pathmanaban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "K. Pathmanaban",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "459991a0-0481-40a0-b979-bb10eae2ecf0",
