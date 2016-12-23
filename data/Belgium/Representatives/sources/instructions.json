@@ -4,7 +4,7 @@
       "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/belgium-represenatives-wikipedia",
+        "scraper": "everypolitician-scrapers/belgium-representatives-wikipedia",
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://nl.wikipedia.org/",
