@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/saint-lucia-assembly-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','-') AS id, null AS source FROM data ORDER BY id"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','-') AS id FROM data ORDER BY id"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
