@@ -8420,11 +8420,18 @@
       ]
     },
     {
+      "birth_date": "1953-08-22",
+      "gender": "male",
+      "given_name": "Mustapha",
       "id": "2474599c-74e1-4177-84fe-bec0f72c9ade",
       "identifiers": [
         {
           "identifier": "mmansouri",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3328975",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_94.jpg?itok=eImXQxOv",
@@ -8433,11 +8440,55 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_94.jpg?itok=eImXQxOv"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/مصطفى_المنصوري"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mustapha_Mansouri"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mustapha_Mansouri"
+        }
+      ],
       "name": "Mustapha MANSOURI",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "مصطفى المنصوري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mustapha Mansouri",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Mustapha MANSOURI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mustapha Mansouri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mustapha Mansouri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mustapha Mansouri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mustapha Mansouri",
           "note": "multilingual"
         }
       ]
