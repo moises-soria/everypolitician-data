@@ -1654,6 +1654,12 @@
     },
     {
       "birth_date": "1965-07-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AlisonHarrisMSP"
+        }
+      ],
       "gender": "female",
       "given_name": "Alison",
       "id": "16e2407b-c800-43b9-a994-fb32c34644a6",
@@ -1661,6 +1667,12 @@
         {
           "identifier": "Q24039903",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://pbs.twimg.com/profile_images/765829552664879104/E2dm6sgX.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/765829552664879104/E2dm6sgX.jpg"
         }
       ],
       "links": [
@@ -1671,10 +1683,18 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Alison_Harris"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlisonHarrisMSP"
         }
       ],
       "name": "Alison Harris",
       "other_names": [
+        {
+          "name": "Alison Harris MSP",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Alison Harris",
@@ -3454,6 +3474,30 @@
         {
           "lang": "nl",
           "name": "Bill Aitken",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c99fa6ac-0d73-4765-9eff-9513e92b4bec",
+      "identifiers": [
+        {
+          "identifier": "Q28020296",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bill_Bowman_(Scottish_politician)"
+        }
+      ],
+      "name": "Bill Bowman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bill Bowman",
           "note": "multilingual"
         }
       ]
@@ -34232,6 +34276,15 @@
       "role": "member"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/10721",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
+      "person_id": "c99fa6ac-0d73-4765-9eff-9513e92b4bec",
+      "role": "member",
+      "start_date": "2016-12-21"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
@@ -34667,6 +34720,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-12-07",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "conservative",
       "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
