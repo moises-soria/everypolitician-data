@@ -24,7 +24,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/philippines-house-of-representatives-wikidata",
+        "scraper": "everypolitician-scrapers/philippines-house-of-representatives-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
