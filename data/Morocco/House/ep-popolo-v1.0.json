@@ -4386,6 +4386,8 @@
       ]
     },
     {
+      "family_name": "Tahiri",
+      "given_name": "Badr",
       "id": "9ea74d29-505a-470c-9025-cddcde2a65c3",
       "identifiers": [
         {
@@ -4411,7 +4413,8 @@
           "name": "Bader TAHIRI",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Tahiri Badr"
     },
     {
       "family_name": "Filali",
@@ -4432,25 +4435,6 @@
         }
       ],
       "sort_name": "Filali Badia"
-    },
-    {
-      "family_name": "Tahiri",
-      "given_name": "Badr",
-      "id": "0f1c708e-09ca-4765-8056-d3e0071eff3a",
-      "name": "Badr Tahiri",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "بدر طاهري",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Badr Tahiri",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Tahiri Badr"
     },
     {
       "family_name": "Touami",
@@ -7522,25 +7506,6 @@
       ]
     },
     {
-      "family_name": "Bourkalan",
-      "given_name": "Hassan",
-      "id": "7be730e8-4a96-48ec-a701-3c14757d5a78",
-      "name": "Hassan Bourkalan",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "حسن بوركالن",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Hassan Bourkalan",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Bourkalan Hassan"
-    },
-    {
       "id": "2368f4e1-abf3-431c-b2f8-af5119d523b0",
       "identifiers": [
         {
@@ -7879,6 +7844,8 @@
       "sort_name": "Lemhajri Hicham"
     },
     {
+      "family_name": "Saanan",
+      "given_name": "Hicham",
       "id": "dc58ea28-f81b-4874-bfbf-c757e2846f62",
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-296-1460370673_0.jpg?itok=2YpsLg-Y",
       "images": [
@@ -7896,24 +7863,6 @@
         {
           "lang": "en",
           "name": "Hicham SAANANE",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "family_name": "Saanan",
-      "given_name": "Hicham",
-      "id": "a2deb81d-6354-46e9-8978-9a4646977282",
-      "name": "Hicham Saanan",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "هشام سعنان",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Hicham Saanan",
           "note": "multilingual"
         }
       ],
@@ -10753,6 +10702,8 @@
       "sort_name": "Fadili Mohamed"
     },
     {
+      "family_name": "Khayyi El Khamlichi",
+      "given_name": "Mohamed",
       "id": "9b1274c4-fb17-491a-8255-cf911f57009e",
       "identifiers": [
         {
@@ -10778,7 +10729,8 @@
           "name": "Mohamed GHAYI",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Khayyi El Khamlichi Mohamed"
     },
     {
       "family_name": "Ghalem",
@@ -11123,25 +11075,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "family_name": "Khayyi El Khamlichi",
-      "given_name": "Mohamed",
-      "id": "1d06b023-72b1-4ba5-baaf-fbc236e8418c",
-      "name": "Mohamed Khayyi El Khamlichi",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "محمد خيي الخمليشي",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mohamed Khayyi El Khamlichi",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Khayyi El Khamlichi Mohamed"
     },
     {
       "family_name": "Krimen",
@@ -17194,6 +17127,8 @@
       ]
     },
     {
+      "family_name": "Bourkalan",
+      "given_name": "Hassan",
       "id": "8ad1bf02-a502-4f1e-b29f-a34132249984",
       "identifiers": [
         {
@@ -17219,7 +17154,8 @@
           "name": "حسن بوركالن",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Bourkalan Hassan"
     }
   ],
   "organizations": [
@@ -19976,14 +19912,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/meknes",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "RNI",
-      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
-      "person_id": "0f1c708e-09ca-4765-8056-d3e0071eff3a",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/group_of_the_national_rally_of_independents",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
@@ -20426,14 +20354,6 @@
           "url": "http://www.chambredesrepresentants.ma/en/m/obnitto-2011-2016-2011-2016"
         }
       ]
-    },
-    {
-      "area_id": "area/tanger-assilah",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "PJD",
-      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
-      "person_id": "1d06b023-72b1-4ba5-baaf-fbc236e8418c",
-      "role": "member"
     },
     {
       "area_id": "area/sidi_ifni",
@@ -23496,14 +23416,6 @@
       ]
     },
     {
-      "area_id": "area/tinghir",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "PAM",
-      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
-      "person_id": "7be730e8-4a96-48ec-a701-3c14757d5a78",
-      "role": "member"
-    },
-    {
       "area_id": "area/meknes",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "PJD",
@@ -23974,6 +23886,14 @@
           "url": "http://www.chambredesrepresentants.ma/en/m/jafif-2011-2016"
         }
       ]
+    },
+    {
+      "area_id": "area/tinghir",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "PAM",
+      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
+      "person_id": "8ad1bf02-a502-4f1e-b29f-a34132249984",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24516,6 +24436,14 @@
       ]
     },
     {
+      "area_id": "area/tanger-assilah",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "PJD",
+      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
+      "person_id": "9b1274c4-fb17-491a-8255-cf911f57009e",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/group_of_justice_and_development",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
@@ -24661,6 +24589,14 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9ea53942-6add-4963-a3b2-b9bb5e4ed603",
+      "role": "member"
+    },
+    {
+      "area_id": "area/meknes",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "RNI",
+      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
+      "person_id": "9ea74d29-505a-470c-9025-cddcde2a65c3",
       "role": "member"
     },
     {
@@ -24826,14 +24762,6 @@
           "url": "http://www.chambredesrepresentants.ma/en/m/mzerdali-2011-2016"
         }
       ]
-    },
-    {
-      "area_id": "area/safi",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "PI",
-      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
-      "person_id": "a2deb81d-6354-46e9-8978-9a4646977282",
-      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -26430,6 +26358,14 @@
           "url": "http://www.chambredesrepresentants.ma/en/m/mabouelfaraj-2011-2016"
         }
       ]
+    },
+    {
+      "area_id": "area/safi",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "PI",
+      "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
+      "person_id": "dc58ea28-f81b-4874-bfbf-c757e2846f62",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
