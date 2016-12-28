@@ -20,7 +20,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/morocco-house-of-representatives-2016",
-        "query": "SELECT *, name AS name__en, 10 AS term FROM data ORDER BY id"
+        "query": "SELECT *, name AS name__fr, 10 AS term FROM data ORDER BY id"
       },
       "source": "http://nouabook.ma",
       "type": "membership",
