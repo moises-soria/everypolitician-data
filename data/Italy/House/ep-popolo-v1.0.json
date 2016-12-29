@@ -92597,9 +92597,15 @@
     {
       "classification": "legislative period",
       "id": "term/17",
-      "name": "XVII Legislatura",
+      "identifiers": [
+        {
+          "identifier": "Q5487948",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "17th Legislature",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
-      "start_date": "2013-03-19"
+      "start_date": "2013-03-15"
     }
   ],
   "areas": [
