@@ -54,8 +54,9 @@ class StatsFile
 
   def term_stats
     {
-      count:  popolo.terms.count,
-      latest: popolo.latest_term.start_date,
+      count:    popolo.terms.count,
+      latest:   popolo.latest_term.start_date,
+      wikidata: popolo.terms.partition(&:wikidata).first.count,
     }
   end
 
