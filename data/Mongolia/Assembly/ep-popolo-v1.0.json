@@ -2437,12 +2437,36 @@
       ]
     },
     {
+      "birth_date": "1979",
+      "gender": "male",
       "id": "49c51242-2150-4c07-b910-bb03c6ebd358",
+      "identifiers": [
+        {
+          "identifier": "Q19662980",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jamyangiin_Mönkhbat"
+        }
+      ],
       "name": "Jamyangiin Mönkhbat",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Jamyangiin Mönkhbat",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Жамъянгийн Мөнхбат",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jamyangiin Mönkhbat",
           "note": "multilingual"
         }
       ]
@@ -6783,18 +6807,44 @@
       "sort_name": "Tsevelmaa BAYARSAIKHAN"
     },
     {
+      "gender": "male",
       "id": "279bd36d-e972-4231-aa93-d4001ffd11d4",
       "identifiers": [
         {
           "identifier": "tsogtyn_batbayar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7849825",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tsogtyn_Batbayar"
         }
       ],
       "name": "Tsogtyn Batbayar",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Tsogtyn Batbayar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tsogtyn Batbayar",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Цогтын Батбаяр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tsogtyn Batbayar",
           "note": "multilingual"
         }
       ]
