@@ -10666,13 +10666,14 @@
         "slug": "House",
         "sources_directory": "data/United_States_of_America/House/sources",
         "popolo": "data/United_States_of_America/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/791a14d424462979a881a0f7e2a63ecf0ea07658/data/United_States_of_America/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b4d68cd5ecb6cc3f74b727fcfa0168848a69bad6/data/United_States_of_America/House/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/House/names.csv",
-        "lastmod": "1480243856",
+        "lastmod": "1483436395",
         "person_count": 1587,
-        "sha": "791a14d424462979a881a0f7e2a63ecf0ea07658",
+        "sha": "b4d68cd5ecb6cc3f74b727fcfa0168848a69bad6",
         "legislative_periods": [
           {
+            "end_date": "2017-01-03",
             "id": "term/114",
             "name": "114th Congress",
             "start_date": "2015-01-06",
@@ -10714,7 +10715,7 @@
             "start_date": "2007-01-06",
             "slug": "110",
             "csv": "data/United_States_of_America/House/term-110.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a5a304faea1d5c832fa23b0b3be35ccc192ccbad/data/United_States_of_America/House/term-110.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2db2853b5faf7c75ece51eb9b1a27ef178398453/data/United_States_of_America/House/term-110.csv"
           },
           {
             "end_date": "2007-01-03",
@@ -10723,7 +10724,7 @@
             "start_date": "2005-01-06",
             "slug": "109",
             "csv": "data/United_States_of_America/House/term-109.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a5a304faea1d5c832fa23b0b3be35ccc192ccbad/data/United_States_of_America/House/term-109.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2db2853b5faf7c75ece51eb9b1a27ef178398453/data/United_States_of_America/House/term-109.csv"
           },
           {
             "end_date": "2005-01-03",
@@ -10732,7 +10733,7 @@
             "start_date": "2003-01-06",
             "slug": "108",
             "csv": "data/United_States_of_America/House/term-108.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a5a304faea1d5c832fa23b0b3be35ccc192ccbad/data/United_States_of_America/House/term-108.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2db2853b5faf7c75ece51eb9b1a27ef178398453/data/United_States_of_America/House/term-108.csv"
           },
           {
             "end_date": "2003-01-03",
@@ -10834,7 +10835,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e1e29b4ce73abd90fc42b573dc1d02abd23ca396/data/United_States_of_America/House/term-97.csv"
           }
         ],
-        "statement_count": 229861,
+        "statement_count": 234657,
         "type": "lower house"
       },
       {
