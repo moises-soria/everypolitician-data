@@ -8890,22 +8890,23 @@
         "slug": "Estates",
         "sources_directory": "data/Sint_Maarten/Estates/sources",
         "popolo": "data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b41cedd005afaf7426f62dc3974745b6daf020b1/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4e2a386eaf8fd3724194d0b3ef2825b7b2b00fff/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
         "names": "data/Sint_Maarten/Estates/names.csv",
-        "lastmod": "1481563844",
+        "lastmod": "1483473399",
         "person_count": 17,
-        "sha": "b41cedd005afaf7426f62dc3974745b6daf020b1",
+        "sha": "4e2a386eaf8fd3724194d0b3ef2825b7b2b00fff",
         "legislative_periods": [
           {
+            "end_date": "2016-10-31",
             "id": "term/2",
             "name": "2nd Estates",
-            "start_date": "2014",
+            "start_date": "2014-10-10",
             "slug": "2",
             "csv": "data/Sint_Maarten/Estates/term-2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b56da29f5f8e1330780869ae0013095adcb413cc/data/Sint_Maarten/Estates/term-2.csv"
           }
         ],
-        "statement_count": 788,
+        "statement_count": 789,
         "type": "unicameral legislature"
       }
     ]
