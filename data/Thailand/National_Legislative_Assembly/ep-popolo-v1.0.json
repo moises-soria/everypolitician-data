@@ -527,6 +527,10 @@
         {
           "identifier": "17",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28058490",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7009.JPG",
@@ -535,7 +539,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7009.JPG"
         }
       ],
-      "name": "จอม รุ่งสว่าง"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/จอม_รุ่งสว่าง"
+        }
+      ],
+      "name": "จอม รุ่งสว่าง",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "จอม รุ่งสว่าง",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2197,15 +2214,92 @@
       "name": "ปรีชา วัชราภัย"
     },
     {
+      "birth_date": "1955-12-09",
+      "gender": "male",
       "honorific_prefix": "พลตำรวจเอก",
       "id": "ff06086d-c7f7-48b3-9f05-7d0f23bfd26d",
+      "identifiers": [
+        {
+          "identifier": "Q3739908",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//8526.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//8526.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Pongsapat_Pongcharoen.jpg"
         }
       ],
-      "name": "พงศพัศ พงษ์เจริญ"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pongsapat_Pongcharoen"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/พงศพัศ_พงษ์เจริญ"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蓬沙帕"
+        }
+      ],
+      "name": "พงศพัศ พงษ์เจริญ",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pongsapat Pongcharoen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pongsapat Pongcharoen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pongsapat Pongcharoen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pongsapat Pongcharoen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pongsapat Pongcharoen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พงศพัศ พงษ์เจริญ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "蓬沙帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "蓬沙帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蓬沙帕",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "蓬沙帕",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -3237,6 +3331,10 @@
         {
           "identifier": "130",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28058551",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7179.JPG",
@@ -3245,7 +3343,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7179.JPG"
         }
       ],
-      "name": "วีระศักดิ์ ฟูตระกูล"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/วีระศักดิ์_ฟูตระกูล"
+        }
+      ],
+      "name": "วีระศักดิ์ ฟูตระกูล",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "วีระศักดิ์ ฟูตระกูล",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4263,6 +4374,10 @@
         {
           "identifier": "172",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28058514",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//8624.JPG",
@@ -4271,7 +4386,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//8624.JPG"
         }
       ],
-      "name": "สุรพงษ์ สุวรรณอัตถ์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สุรพงษ์_สุวรรณอัตถ์"
+        }
+      ],
+      "name": "สุรพงษ์ สุวรรณอัตถ์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สุรพงษ์ สุวรรณอัตถ์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
