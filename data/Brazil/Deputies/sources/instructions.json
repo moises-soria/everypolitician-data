@@ -36,7 +36,7 @@
       "type": "wikidata",
       "merge": {
         "incoming_field": "name",
-        "existing_field": "name",
+        "existing_field": "fullname",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
