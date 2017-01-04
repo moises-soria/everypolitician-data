@@ -300,6 +300,10 @@
         {
           "identifier": "131339",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26776688",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/f9b/f9b745d07c95dc2252c2e38b3e97be2c.jpg",
@@ -308,7 +312,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/f9b/f9b745d07c95dc2252c2e38b3e97be2c.jpg"
         }
       ],
-      "name": "Агаев Ваха Абуевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Агаев,_Ваха_Абуевич"
+        }
+      ],
+      "name": "Агаев Ваха Абуевич",
+      "other_names": [
+        {
+          "name": "Агаев, Ваха Абуевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Агаев, Ваха Абуевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-03-04",
@@ -366,14 +387,41 @@
     },
     {
       "birth_date": "1963-01-27",
+      "gender": "male",
       "id": "cd4b360d-8cf6-46d5-825f-ba2139459c35",
+      "identifiers": [
+        {
+          "identifier": "Q21856783",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/f5f/f5f7a98c609f8f760f42b65f21866077.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/f5f/f5f7a98c609f8f760f42b65f21866077.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Aduchiev_bator_kanurovich.jpg"
         }
       ],
-      "name": "Адучиев Батор Канурович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Адучиев,_Батор_Канурович"
+        }
+      ],
+      "name": "Адучиев Батор Канурович",
+      "other_names": [
+        {
+          "name": "Адучиев, Батор Канурович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Адучиев, Батор Канурович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-08-16",
@@ -1607,23 +1655,55 @@
     },
     {
       "birth_date": "1950-05-15",
+      "gender": "female",
       "id": "cc4da987-5322-4ee2-b11d-1b50205ab7a1",
+      "identifiers": [
+        {
+          "identifier": "Q24351453",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/e4f/e4f4d831a9afac9d622230e364c5fde4.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/e4f/e4f4d831a9afac9d622230e364c5fde4.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/ЛидияАнтонова.jpg"
         }
       ],
-      "name": "Антонова Лидия Николаевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Антонова,_Лидия_Николаевна"
+        }
+      ],
+      "name": "Антонова Лидия Николаевна",
+      "other_names": [
+        {
+          "name": "Антонова, Лидия Николаевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Антонова, Лидия Николаевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1942-12-19",
       "gender": "male",
+      "given_name": "Nicholas",
       "id": "8bba1734-15f6-4928-8d0f-41f6695d7324",
       "identifiers": [
         {
           "identifier": "865595",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4067585",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/f7e/f7ed0de38005e5d66f092b5174473d4e.jpg",
@@ -1632,7 +1712,61 @@
           "url": "http://www.duma.gov.ru/upload/iblock/f7e/f7ed0de38005e5d66f092b5174473d4e.jpg"
         }
       ],
-      "name": "Антошкин Николай Тимофеевич"
+      "links": [
+        {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Антошкин_Николай_Тимофеевич"
+        },
+        {
+          "note": "Wikipedia (cv)",
+          "url": "https://cv.wikipedia.org/wiki/Антошкин_Николай_Тимофеевич"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikolay_Antoshkin"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Антошкин,_Николай_Тимофеевич"
+        }
+      ],
+      "name": "Антошкин Николай Тимофеевич",
+      "other_names": [
+        {
+          "name": "Антошкин, Николай Тимофеевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ba",
+          "name": "Антошкин Николай Тимофеевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolay Antoshkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolaj Antosjkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolay Timofeevitsj Antosjkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikolaj Antosjkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Антошкин, Николай Тимофеевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-03-11",
@@ -2328,14 +2462,51 @@
     },
     {
       "birth_date": "1977-08-28",
+      "gender": "male",
       "id": "b5403427-401a-49e2-8c96-8b10e12dd7ae",
+      "identifiers": [
+        {
+          "identifier": "Q27507127",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/5ad/5ad788cb14299adc72cf14b1620ff632.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/5ad/5ad788cb14299adc72cf14b1620ff632.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ruslan_Balbek.jpg"
         }
       ],
-      "name": "Бальбек Руслан Исмаилович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бальбек,_Руслан_Исмаилович"
+        }
+      ],
+      "name": "Бальбек Руслан Исмаилович",
+      "other_names": [
+        {
+          "name": "Бальбек, Руслан Исмаилович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ruslan Balbek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ruslan Balbek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Бальбек, Руслан Исмаилович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-07-09",
@@ -2580,25 +2751,81 @@
     },
     {
       "birth_date": "1972-10-20",
+      "gender": "male",
       "id": "14f6d80d-bf64-42e6-b945-952f24808012",
+      "identifiers": [
+        {
+          "identifier": "Q4079782",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/f12/f1206fe0cec842886f41aea689404efb.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/f12/f1206fe0cec842886f41aea689404efb.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Бахарев_К.М..jpg"
         }
       ],
-      "name": "Бахарев Константин Михайлович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бахарев,_Константин_Михайлович"
+        }
+      ],
+      "name": "Бахарев Константин Михайлович",
+      "other_names": [
+        {
+          "name": "Бахарев, Константин Михайлович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Бахарев, Константин Михайлович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Костянтин Михайлович Бахарєв",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-08-12",
+      "gender": "male",
       "id": "83de3870-e33c-493d-bc59-a35567b47ef0",
+      "identifiers": [
+        {
+          "identifier": "Q18741219",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/746/7464f9855a87d2e198c56f62057ae7fd.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/746/7464f9855a87d2e198c56f62057ae7fd.jpg"
         }
       ],
-      "name": "Бахметьев Виталий Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бахметьев,_Виталий_Викторович"
+        }
+      ],
+      "name": "Бахметьев Виталий Викторович",
+      "other_names": [
+        {
+          "name": "Бахметьев, Виталий Викторович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Бахметьев, Виталий Викторович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-03-20",
@@ -2680,15 +2907,39 @@
         {
           "identifier": "455773",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24491682",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/500/500e4ace19b91ba8df450b020d93d784.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/500/500e4ace19b91ba8df450b020d93d784.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ирина_Белых1.jpg"
         }
       ],
-      "name": "Белых Ирина Викторовна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Белых,_Ирина_Викторовна"
+        }
+      ],
+      "name": "Белых Ирина Викторовна",
+      "other_names": [
+        {
+          "name": "Белых, Ирина Викторовна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Белых, Ирина Викторовна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "9741c45f-e80c-479a-bf46-fc463941d054",
@@ -4592,12 +4843,22 @@
       ]
     },
     {
+      "birth_date": "1958-03-28",
       "gender": "male",
+      "given_name": "Nicholas",
       "id": "38d22f53-6441-44d5-b33a-479b9e7b8d08",
       "identifiers": [
         {
+          "identifier": "414",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "131350",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4104665",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/10c/10c3f68aeac11008f1e4fee9cffc9e2c.jpg",
@@ -4606,7 +4867,48 @@
           "url": "http://www.duma.gov.ru/upload/iblock/10c/10c3f68aeac11008f1e4fee9cffc9e2c.jpg"
         }
       ],
-      "name": "Васильев Николай Иванович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Васильев,_Николай_Иванович_(политик)"
+        },
+        {
+          "note": "website",
+          "url": "http://www.mkkprf.ru/vasilev.html"
+        }
+      ],
+      "name": "Васильев Николай Иванович",
+      "other_names": [
+        {
+          "name": "Васильев, Николай Иванович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolay Vasilyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolaj Vasiljev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolay Ivanovitsj Vasilev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikolaj Vasiljev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Васильев, Николай Иванович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-05-01",
@@ -4702,14 +5004,48 @@
     },
     {
       "birth_date": "1966-01-09",
+      "gender": "male",
       "id": "4ddabf09-96d8-436d-9d68-64acd55e9d24",
+      "identifiers": [
+        {
+          "identifier": "Q4106917",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/f76/f7685dc5e3dd1b99028cd195eb6c9e14.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/f76/f7685dc5e3dd1b99028cd195eb6c9e14.jpg"
         }
       ],
-      "name": "Веллер Алексей Борисович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Веллер,_Алексей_Борисович"
+        }
+      ],
+      "name": "Веллер Алексей Борисович",
+      "other_names": [
+        {
+          "name": "Веллер, Алексей Борисович",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Αλεξέι Μπορίσοβιτς Μπέλερ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Alexei Borisovici Weller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Веллер, Алексей Борисович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-08-05",
@@ -4724,14 +5060,52 @@
     },
     {
       "birth_date": "1995-06-27",
+      "gender": "male",
       "id": "035ac4de-203a-4e83-81e9-58d2c3d6647a",
+      "identifiers": [
+        {
+          "identifier": "Q27049394",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/ae7/ae73837efc18d2a9333c7f1a8bd70de0.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/ae7/ae73837efc18d2a9333c7f1a8bd70de0.jpg"
         }
       ],
-      "name": "Власов Василий Максимович"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vasily_Vlasov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Власов,_Василий_Максимович"
+        }
+      ],
+      "name": "Власов Василий Максимович",
+      "other_names": [
+        {
+          "name": "Власов, Василий Максимович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Vasily Vlasov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vasily Vlasov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Власов, Василий Максимович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-08-19",
@@ -4791,14 +5165,177 @@
     },
     {
       "birth_date": "1980-05-09",
+      "gender": "male",
+      "given_name": "Alexei",
       "id": "4564a5da-4b98-4a7a-a693-b259f7a0c0f5",
+      "identifiers": [
+        {
+          "identifier": "/m/0bspnx",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q714637",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/5ae/5ae1e1efa597a70eabf2f38a5f1ad23d.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/5ae/5ae1e1efa597a70eabf2f38a5f1ad23d.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Aleksey_Voyevoda_24_February_2014.jpeg"
         }
       ],
-      "name": "Воевода Алексей Иванович"
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Аляксей_Іванавіч_Ваявода"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aleksey_Voevoda"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Alexei_Iwanowitsch_Wojewoda"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alexey_Voyevoda"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Aleksey_Voyevoda"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Aleksej_Voevoda"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/アレクセイ・ヴォエヴォダ"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/알렉세이_보예보다"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Aleksej_Vojevoda"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Aleksej_Vojevoda"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Aleksiej_Wojewoda"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Воевода,_Алексей_Иванович"
+        },
+        {
+          "note": "Wikipedia (ruwikiquote)",
+          "url": "https://ruwikiquote.wikipedia.org/wiki/Алексей_Иванович_Воевода"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Aleksej_Vojevoda"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Воєвода_Олексій_Іванович"
+        }
+      ],
+      "name": "Воевода Алексей Иванович",
+      "other_names": [
+        {
+          "name": "Алексей Иванович Воевода",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Аляксей Іванавіч Ваявода",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alexei Iwanowitsch Wojewoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alexey Voyevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alexey Voyevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alekseï Voïevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Aleksej Ivanovič Voevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アレクセイ・ヴォエヴォダ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "알렉세이 보에보다",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Aleksej Vojevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aleksej Vojevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Aleksej Vojevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Aleksiej Wojewoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Алексей Иванович Воевода",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Aleksej Vojevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "alexy voevoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Воєвода Олексій Іванович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -5178,14 +5715,38 @@
     },
     {
       "birth_date": "1962-01-04",
+      "gender": "female",
       "id": "858ef95a-e36a-431a-abed-90a931b7b725",
+      "identifiers": [
+        {
+          "identifier": "Q27230990",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/13e/13e52674626f936c7cd524d60bd36ef7.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/13e/13e52674626f936c7cd524d60bd36ef7.jpg"
         }
       ],
-      "name": "Воронина Татьяна Евгеньевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Воронина,_Татьяна_Евгеньевна"
+        }
+      ],
+      "name": "Воронина Татьяна Евгеньевна",
+      "other_names": [
+        {
+          "name": "Воронина, Татьяна Евгеньевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Воронина, Татьяна Евгеньевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-04-04",
@@ -5844,6 +6405,10 @@
         {
           "identifier": "684654",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18405293",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/b52/b526ad452d2097b4c50bdb7fa401a637.jpg",
@@ -5852,7 +6417,39 @@
           "url": "http://www.duma.gov.ru/upload/iblock/b52/b526ad452d2097b4c50bdb7fa401a637.jpg"
         }
       ],
-      "name": "Ганзя Вера Анатольевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ганзя,_Вера_Анатольевна"
+        }
+      ],
+      "name": "Ганзя Вера Анатольевна",
+      "other_names": [
+        {
+          "name": "Ганзя, Вера Анатольевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Vera Ganzya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vera Ganzia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vera Ganzia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ганзя, Вера Анатольевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-01-19",
@@ -6670,12 +7267,18 @@
       ]
     },
     {
+      "birth_date": "1951-11-29",
       "gender": "male",
+      "given_name": "Viktor",
       "id": "1aa83e1b-77d9-4d31-999e-f67c3801d38f",
       "identifiers": [
         {
           "identifier": "131354",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4143217",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/a43/a4361ed7bd71208999c2ee0e07b77bf7.jpg",
@@ -6684,7 +7287,44 @@
           "url": "http://www.duma.gov.ru/upload/iblock/a43/a4361ed7bd71208999c2ee0e07b77bf7.jpg"
         }
       ],
-      "name": "Гончаров Виктор Иванович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гончаров,_Виктор_Иванович"
+        }
+      ],
+      "name": "Гончаров Виктор Иванович",
+      "other_names": [
+        {
+          "name": "Гончаров, Виктор Иванович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Viktor Goncharov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Viktor Gontsjarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Viktor Ivanovitsj Gontsjarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Viktor Gontsjarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гончаров, Виктор Иванович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1982-01-22",
@@ -7140,32 +7780,95 @@
     },
     {
       "birth_date": "1948-11-11",
+      "gender": "male",
       "id": "96412bdd-a96d-4d3b-a19f-035cb368dc88",
+      "identifiers": [
+        {
+          "identifier": "Q4151809",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/50b/50bcd2e016eef35f0dd3b2e5bfdff68b.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/50b/50bcd2e016eef35f0dd3b2e5bfdff68b.jpg"
         }
       ],
-      "name": "Гулевский Михаил Владимирович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гулевский,_Михаил_Владимирович"
+        }
+      ],
+      "name": "Гулевский Михаил Владимирович",
+      "other_names": [
+        {
+          "name": "Гулевский, Михаил Владимирович",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Michail Vladimirovitsj Goelevskiy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гулевский, Михаил Владимирович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-05-20",
       "gender": "female",
+      "given_name": "Irina",
       "id": "bdbada5f-7b54-46d8-8910-31cb108577c5",
       "identifiers": [
         {
           "identifier": "782892",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15918851",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/143/14358a27ab14aab0f2c7b0e18b0defa9.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/143/14358a27ab14aab0f2c7b0e18b0defa9.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Irina_Guseva_02.JPG"
         }
       ],
-      "name": "Гусева Ирина Михайловна"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Irina_Guseva"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гусева,_Ирина_Михайловна"
+        }
+      ],
+      "name": "Гусева Ирина Михайловна",
+      "other_names": [
+        {
+          "name": "Гусева, Ирина Михайловна",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Irina Guseva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гусева, Ирина Михайловна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-03-27",
@@ -7230,25 +7933,73 @@
     },
     {
       "birth_date": "1971-03-28",
+      "gender": "male",
       "id": "82f265c3-ab25-4422-a5a0-fb596084b0d1",
+      "identifiers": [
+        {
+          "identifier": "Q27230996",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/630/63013b04083b22cc61e44e4ec8ccf1b0.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/630/63013b04083b22cc61e44e4ec8ccf1b0.jpg"
         }
       ],
-      "name": "Дамдинов Алдар Валерьевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дамдинов,_Алдар_Валерьевич"
+        }
+      ],
+      "name": "Дамдинов Алдар Валерьевич",
+      "other_names": [
+        {
+          "name": "Дамдинов, Алдар Валерьевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Дамдинов, Алдар Валерьевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-08-13",
+      "gender": "female",
       "id": "a5644578-fb0d-46a9-a672-8dc98b701c01",
+      "identifiers": [
+        {
+          "identifier": "Q19295729",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/6fd/6fdace7ee888efa8b625fe0e3f3f084f.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/6fd/6fdace7ee888efa8b625fe0e3f3f084f.jpg"
         }
       ],
-      "name": "Данчикова Галина Иннокентьевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Данчикова,_Галина_Иннокентьевна"
+        }
+      ],
+      "name": "Данчикова Галина Иннокентьевна",
+      "other_names": [
+        {
+          "name": "Данчикова, Галина Иннокентьевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Данчикова, Галина Иннокентьевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1981-07-10",
@@ -7657,14 +8408,59 @@
     },
     {
       "birth_date": "1954-05-11",
+      "gender": "male",
+      "given_name": "Viktor",
       "id": "a6e7d9be-b8b2-4c5e-95ad-cd053a3ae2c6",
+      "identifiers": [
+        {
+          "identifier": "Q4159092",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/3ac/3ac5767de959969c77e4be736c103b0c.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/3ac/3ac5767de959969c77e4be736c103b0c.jpg"
         }
       ],
-      "name": "Дерябкин Виктор Ефимович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дерябкин,_Виктор_Ефимович"
+        }
+      ],
+      "name": "Дерябкин Виктор Ефимович",
+      "other_names": [
+        {
+          "name": "Дерябкин, Виктор Ефимович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Viktor Deryabkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Viktor Derjabkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Viktor Efimovitsj Derjabkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Viktor Derjabkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дерябкин, Виктор Ефимович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-08-10",
@@ -8189,14 +8985,168 @@
     },
     {
       "birth_date": "1966-03-07",
+      "gender": "male",
+      "given_name": "Uladzimir",
       "id": "687c248b-cf2a-441e-a5ec-ac0b502a3752",
+      "identifiers": [
+        {
+          "identifier": "/m/027vcwk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q729257",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/e37/e37cc7340dca5ada6a876344b51aa477.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/e37/e37cc7340dca5ada6a876344b51aa477.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Drachev2013.jpg"
         }
       ],
-      "name": "Драчев Владимир Петрович"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vladimir_Dratchev"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wladimir_Petrowitsch_Dratschow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vladimir_Drachev"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Vladímir_Drachov"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Vladimir_Dratšov"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Vladimir_Dratšov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vladimir_Dratchev"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Vladimir_Dračëv"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Vladimir_Dratsjov"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Vladimir_Dratsjov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Władimir_Draczow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Драчёв,_Владимир_Петрович"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Vladimir_Dratjov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Драчов_Володимир_Петрович"
+        }
+      ],
+      "name": "Драчев Владимир Петрович",
+      "other_names": [
+        {
+          "name": "Драчёв, Владимир Петрович",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Уладзімер Пятровіч Драчоў",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wladimir Petrowitsch Dratschow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vladimir Dratchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vladimir Drachov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Vladimir Dratšov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vladimir Dratšov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vladimir Dratchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vladimir Dračëv",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vladimir Dratsjov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vladimir Dratchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vladimir Dratsjov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Władimir Draczow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Драчёв, Владимир Петрович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vladimir Dratjov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Драчов Володимир Петрович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -8228,14 +9178,53 @@
     },
     {
       "birth_date": "1948-08-03",
+      "gender": "male",
+      "given_name": "Vladimir",
       "id": "ce6c0948-f6ab-4047-960f-e247e1ae710a",
+      "identifiers": [
+        {
+          "identifier": "Q4172979",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/327/327881c541eb12eae181cc7f0313e63e.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/327/327881c541eb12eae181cc7f0313e63e.jpg"
         }
       ],
-      "name": "Евланов Владимир Лазаревич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Евланов,_Владимир_Лазаревич"
+        },
+        {
+          "note": "Wikipedia (vep)",
+          "url": "https://vep.wikipedia.org/wiki/Jevlanov_Vladimir"
+        }
+      ],
+      "name": "Евланов Владимир Лазаревич",
+      "other_names": [
+        {
+          "name": "Евланов, Владимир Лазаревич",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Βλαντίμιρ Λαζάρεβιτς Γιεβλάνοβ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Евланов, Владимир Лазаревич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vep",
+          "name": "Jevlanov Vladimir",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-07-02",
@@ -10466,14 +11455,102 @@
     },
     {
       "birth_date": "1969-01-11",
+      "gender": "male",
       "id": "fdab1352-88e7-4f36-82b9-8f102ff3ab5e",
+      "identifiers": [
+        {
+          "identifier": "Q3801862",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/866/866d82681871ff99064456b5e83fec2d.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/866/866d82681871ff99064456b5e83fec2d.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Irek_Zinnurov.jpg"
         }
       ],
-      "name": "Зиннуров Ирек Хайдарович"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Irek_Zinnurov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Irek_Zinnurov"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Irek_Zinnurov"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Irek_Zinnurov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Зиннуров,_Ирек_Хайдарович"
+        }
+      ],
+      "name": "Зиннуров Ирек Хайдарович",
+      "other_names": [
+        {
+          "name": "Зиннуров, Ирек Хайдарович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Irek Zinnourov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Irek Zinnurov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Irek Zinnurov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Irek Hajdarovics Zinnurov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Irek Chajdarovič Zinnurov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Irek Zinnurov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irek Haydarovitsj Zinnoerov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Irek Zinnurov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Irek Zinnourov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Зиннуров, Ирек Хайдарович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-06-07",
@@ -11644,14 +12721,38 @@
     },
     {
       "birth_date": "1973-04-26",
+      "gender": "male",
       "id": "b214f72f-2e5d-4686-b55f-04d60d585f43",
+      "identifiers": [
+        {
+          "identifier": "Q4198786",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/6ea/6eae73421d0b2cd6eff304c52b410379.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/6ea/6eae73421d0b2cd6eff304c52b410379.jpg"
         }
       ],
-      "name": "Изотов Алексей Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Изотов,_Алексей_Николаевич"
+        }
+      ],
+      "name": "Изотов Алексей Николаевич",
+      "other_names": [
+        {
+          "name": "Изотов, Алексей Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Изотов, Алексей Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-04-26",
@@ -12503,14 +13604,42 @@
     },
     {
       "birth_date": "1966-12-17",
+      "gender": "male",
       "id": "a83cdafa-3c73-462d-91b3-0221d7e7607c",
+      "identifiers": [
+        {
+          "identifier": "541",
+          "scheme": "declarator"
+        },
+        {
+          "identifier": "Q16661684",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/98d/98dd6ea4fdfb76c2363abc2a377966a4.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/98d/98dd6ea4fdfb76c2363abc2a377966a4.jpg"
         }
       ],
-      "name": "Карамышев Виктор Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Карамышев,_Виктор_Николаевич"
+        }
+      ],
+      "name": "Карамышев Виктор Николаевич",
+      "other_names": [
+        {
+          "name": "Карамышев, Виктор Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Карамышев, Виктор Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-09-05",
@@ -14688,14 +15817,38 @@
     },
     {
       "birth_date": "1959-08-26",
+      "gender": "male",
       "id": "c8666976-aa82-4823-ab6c-4251746e1908",
+      "identifiers": [
+        {
+          "identifier": "Q24010208",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/cb0/cb0e2c57066b59a63d3206d2a4963e4f.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/cb0/cb0e2c57066b59a63d3206d2a4963e4f.jpg"
         }
       ],
-      "name": "Кобилев Алексей Геннадьевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кобилев,_Алексей_Геннадьевич"
+        }
+      ],
+      "name": "Кобилев Алексей Геннадьевич",
+      "other_names": [
+        {
+          "name": "Кобилев, Алексей Геннадьевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Кобилев, Алексей Геннадьевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-08-06",
@@ -15050,14 +16203,38 @@
     },
     {
       "birth_date": "1981-08-03",
+      "gender": "male",
       "id": "8d42a1fe-7157-46fe-97f9-57277048f8e6",
+      "identifiers": [
+        {
+          "identifier": "Q4226535",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/e01/e01873bb52d3dc48b8fb330b95c3af74.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/e01/e01873bb52d3dc48b8fb330b95c3af74.jpg"
         }
       ],
-      "name": "Козенко Андрей Дмитриевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Козенко,_Андрей_Дмитриевич"
+        }
+      ],
+      "name": "Козенко Андрей Дмитриевич",
+      "other_names": [
+        {
+          "name": "Козенко, Андрей Дмитриевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Козенко, Андрей Дмитриевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-05-05",
@@ -15095,6 +16272,10 @@
         {
           "identifier": "131102",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27136229",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/b10/b106682f81c9f2597a6e4d51cf53f361.jpg",
@@ -15103,7 +16284,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/b10/b106682f81c9f2597a6e4d51cf53f361.jpg"
         }
       ],
-      "name": "Колесников Олег Алексеевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Колесников,_Олег_Алексеевич"
+        }
+      ],
+      "name": "Колесников Олег Алексеевич",
+      "other_names": [
+        {
+          "name": "Колесников, Олег Алексеевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Колесников, Олег Алексеевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-12-19",
@@ -15610,25 +16808,92 @@
     },
     {
       "birth_date": "1963-08-29",
+      "gender": "male",
       "id": "3d80cde4-ecc0-4267-a312-3e1dbf7ed133",
+      "identifiers": [
+        {
+          "identifier": "Q16666414",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/312/312f5c7dec8e4329f4fb1b9745a39265.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/312/312f5c7dec8e4329f4fb1b9745a39265.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Evgeniy_Kosyanenko_2014.jpg"
         }
       ],
-      "name": "Косяненко Евгений Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Косяненко,_Евгений_Викторович"
+        }
+      ],
+      "name": "Косяненко Евгений Викторович",
+      "other_names": [
+        {
+          "name": "Косяненко, Евгений Викторович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Evgeniy Kosyanenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jevgenij Kosianenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jevgenij Kosianenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Косяненко, Евгений Викторович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-03-11",
+      "gender": "male",
+      "given_name": "Sergei",
       "id": "2877f347-05af-4bba-b52b-f8a38b55e79b",
+      "identifiers": [
+        {
+          "identifier": "Q4236030",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/b71/b7184b64df30d30a22be5ce958aa7aca.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/b71/b7184b64df30d30a22be5ce958aa7aca.jpg"
         }
       ],
-      "name": "Коткин Сергей Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Коткин,_Сергей_Николаевич"
+        }
+      ],
+      "name": "Коткин Сергей Николаевич",
+      "other_names": [
+        {
+          "name": "Коткин, Сергей Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Коткин, Сергей Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -17622,14 +18887,43 @@
     },
     {
       "birth_date": "1955-12-11",
+      "gender": "male",
+      "given_name": "Ivan",
       "id": "0a0b7e26-2efb-4672-bbe0-48352c528e85",
+      "identifiers": [
+        {
+          "identifier": "1818",
+          "scheme": "declarator"
+        },
+        {
+          "identifier": "Q4266544",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/224/224a12b103fe7c59a4e3c2264e74bd10.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/224/224a12b103fe7c59a4e3c2264e74bd10.jpg"
         }
       ],
-      "name": "Лоор Иван Иванович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Лоор,_Иван_Иванович"
+        }
+      ],
+      "name": "Лоор Иван Иванович",
+      "other_names": [
+        {
+          "name": "Лоор, Иван Иванович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Лоор, Иван Иванович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-09-19",
@@ -17926,14 +19220,38 @@
     },
     {
       "birth_date": "1971-11-21",
+      "gender": "male",
       "id": "a98991f7-675d-4f09-b763-b62d86b4ddf7",
+      "identifiers": [
+        {
+          "identifier": "Q19910548",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/522/52287da75d0f21816a0cf0b2837ed4a5.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/522/52287da75d0f21816a0cf0b2837ed4a5.jpg"
         }
       ],
-      "name": "Любимов Николай Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Любимов,_Николай_Викторович"
+        }
+      ],
+      "name": "Любимов Николай Викторович",
+      "other_names": [
+        {
+          "name": "Любимов, Николай Викторович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Любимов, Николай Викторович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-09-03",
@@ -18036,14 +19354,45 @@
       "name": "Макаров Николай Иванович"
     },
     {
+      "birth_date": "1939-03-21",
+      "gender": "male",
+      "given_name": "Nicholas",
       "id": "7a17ecb7-3f55-4c61-b1ea-6ec5d6e9943f",
+      "identifiers": [
+        {
+          "identifier": "Q4275420",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
       "images": [
         {
           "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
         }
       ],
-      "name": "Макаровец Николай Александрович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Макаровец,_Николай_Александрович"
+        }
+      ],
+      "name": "Макаровец Николай Александрович",
+      "other_names": [
+        {
+          "name": "Макаровец, Николай Александрович",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolay Aleksandrovitsj Makarovets",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Макаровец, Николай Александрович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-09-30",
@@ -18826,14 +20175,57 @@
     },
     {
       "birth_date": "1963-01-03",
+      "gender": "male",
+      "given_name": "Vladimir",
       "id": "a26c2d94-4de8-4830-866c-6df005601db3",
+      "identifiers": [
+        {
+          "identifier": "Q15072277",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/77e/77e63f04d4b40cf3e173afd190e1a44e.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/77e/77e63f04d4b40cf3e173afd190e1a44e.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Melnik_V_Hero.jpeg"
         }
       ],
-      "name": "Мельник Владимир Иванович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мельник,_Владимир_Иванович"
+        }
+      ],
+      "name": "Мельник Владимир Иванович",
+      "other_names": [
+        {
+          "name": "Мельник, Владимир Иванович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Vladimir Melnik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vladimir Melnik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vladimir Melnik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мельник, Владимир Иванович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-08-07",
@@ -21532,14 +22924,55 @@
     },
     {
       "birth_date": "1966-06-09",
+      "family_name": "Novikov",
+      "gender": "male",
+      "given_name": "Vladimir",
       "id": "29ea4a25-421f-413d-b94e-a578a0cd72c2",
+      "identifiers": [
+        {
+          "identifier": "Q15076569",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/76f/76f050e660e788c71b7f3965f2bc6163.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/76f/76f050e660e788c71b7f3965f2bc6163.jpg"
         }
       ],
-      "name": "Новиков Владимир Михайлович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Новиков,_Владимир_Михайлович_(политик)"
+        }
+      ],
+      "name": "Новиков Владимир Михайлович",
+      "other_names": [
+        {
+          "name": "Новиков, Владимир Михайлович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Vladimir Novikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vladimir Novikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vladimir Novikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Новиков, Владимир Михайлович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-09-12",
@@ -22106,14 +23539,164 @@
     },
     {
       "birth_date": "1950-11-20",
+      "family_name": "Onishchenko",
+      "gender": "male",
+      "given_name": "Dzyanis",
       "id": "e55c51dc-5362-4c4b-bd3c-713d91c0f04a",
+      "identifiers": [
+        {
+          "identifier": "1885",
+          "scheme": "declarator"
+        },
+        {
+          "identifier": "/m/027m3jv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 3833 906X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n98046415",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "41154565",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2384738",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/3df/3df3e2bdbd3178b9fae49bb5c4f6df0a.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/3df/3df3e2bdbd3178b9fae49bb5c4f6df0a.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/32nd_G8_Summit-1.jpg"
         }
       ],
-      "name": "Онищенко Геннадий Григорьевич"
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Генадзь_Рыгоравіч_Анішчанка"
+        },
+        {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Генадзь_Анішчанка"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gennadiy_Onishchenko"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Gennadi_Grigorjewitsch_Onischtschenko"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gennady_Onishchenko"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Gennadi_Oništšenko"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ゲンナジー・オニシチェンコ"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Онищенко,_Геннадий_Григорьевич"
+        },
+        {
+          "note": "Wikipedia (ruwikiquote)",
+          "url": "https://ruwikiquote.wikipedia.org/wiki/Геннадий_Григорьевич_Онищенко"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Онищенко_Геннадій_Григорович"
+        }
+      ],
+      "name": "Онищенко Геннадий Григорьевич",
+      "other_names": [
+        {
+          "name": "Онищенко, Геннадий Григорьевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Генадзь Рыгоравіч Анішчанка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Генадзь Анішчанка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Gennadiy Onishchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gennadiy Onishchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gennadiy Onishchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Gennadi Oništšenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gennadiy Onishchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gennadiy Onishchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ゲンナジー・オニシチェンコ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Gennadij Onisjtsjenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gennadiy Grigorevitsj Onisjtsjenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Gennadij Onisjtsjenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Онищенко, Геннадий Григорьевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Онищенко Геннадій Григорович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1981-03-09",
@@ -22373,14 +23956,60 @@
     },
     {
       "birth_date": "1987-09-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Parfenov_Denis"
+        }
+      ],
+      "gender": "male",
       "id": "45c38b8d-a393-47cf-aed2-0199603b0e4c",
+      "identifiers": [
+        {
+          "identifier": "parfenov_denis",
+          "scheme": "vkontakte"
+        },
+        {
+          "identifier": "Q27122240",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/12e/12eb4eb2954bf3ad3ee912b66c202114.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/12e/12eb4eb2954bf3ad3ee912b66c202114.jpg"
         }
       ],
-      "name": "Парфенов Денис Андреевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Парфёнов,_Денис_Андреевич"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/denis.parfenov.1"
+        },
+        {
+          "note": "instagram",
+          "url": "redman_cifom"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Parfenov_Denis"
+        }
+      ],
+      "name": "Парфенов Денис Андреевич",
+      "other_names": [
+        {
+          "name": "Парфёнов, Денис Андреевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Парфёнов, Денис Андреевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -22584,14 +24213,38 @@
     },
     {
       "birth_date": "1979-04-03",
+      "gender": "male",
       "id": "1319aae3-164e-428f-9e0b-92eb37ff470f",
+      "identifiers": [
+        {
+          "identifier": "Q4351475",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/3e3/3e33899c511fb21a2a61fc521a2fdf14.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/3e3/3e33899c511fb21a2a61fc521a2fdf14.jpg"
         }
       ],
-      "name": "Перминов Дмитрий Сергеевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Перминов,_Дмитрий_Сергеевич"
+        }
+      ],
+      "name": "Перминов Дмитрий Сергеевич",
+      "other_names": [
+        {
+          "name": "Перминов, Дмитрий Сергеевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Перминов, Дмитрий Сергеевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "f5c10671-410b-427c-a693-332ce59ece1f",
@@ -23103,6 +24756,10 @@
         {
           "identifier": "131153",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26255752",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/a1e/a1eb017abefeffd786eec8f055207b17.jpg",
@@ -23111,7 +24768,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/a1e/a1eb017abefeffd786eec8f055207b17.jpg"
         }
       ],
-      "name": "Пинский Виктор Витальевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пинский,_Виктор_Витальевич"
+        }
+      ],
+      "name": "Пинский Виктор Витальевич",
+      "other_names": [
+        {
+          "name": "Пинский, Виктор Витальевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Пинский, Виктор Витальевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-11-08",
@@ -23999,14 +25673,57 @@
     },
     {
       "birth_date": "1963-05-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "OPushkina"
+        }
+      ],
+      "gender": "female",
       "id": "5621b310-eb36-47ac-bcda-c7c7bb477141",
+      "identifiers": [
+        {
+          "identifier": "Q4384732",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/1be/1be6ca4ea9958ea65d60160faffd2320.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/1be/1be6ca4ea9958ea65d60160faffd2320.jpg"
         }
       ],
-      "name": "Пушкина Оксана Викторовна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пушкина,_Оксана_Викторовна"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/OPushkina"
+        },
+        {
+          "note": "website",
+          "url": "http://www.oksanapushkina.ru/"
+        }
+      ],
+      "name": "Пушкина Оксана Викторовна",
+      "other_names": [
+        {
+          "name": "Пушкина, Оксана Викторовна",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Oksana Viktorovna Poesjkina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пушкина, Оксана Викторовна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-08-10",
@@ -26625,14 +28342,354 @@
     },
     {
       "birth_date": "1975-03-11",
+      "gender": "male",
       "id": "d29b7ca1-8981-4d3c-a972-ad34c62c3e02",
+      "identifiers": [
+        {
+          "identifier": "/m/0ggvhs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q313452",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/d81/d81949933198ed6831df8851fad52488.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/d81/d81949933198ed6831df8851fad52488.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Buwaisar_Saytiev.jpg"
         }
       ],
-      "name": "Сайтиев Бувайса Хамидович"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Buvaisar_Saitiev"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بوفايسار_سايتيف"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Buvaysar_Saytiyev"
+        },
+        {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Бувайсар_Сайтыеў"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Бувайсар_Сайтиев"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Buvaisar_Saitíev"
+        },
+        {
+          "note": "Wikipedia (ce)",
+          "url": "https://ce.wikipedia.org/wiki/Сайтиев,_Бувайсар_Хамидович"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Buwaisar_Saytiev"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Buvajsar_Sajtijev"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Buvajsar_Sajtiev"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Buwaissar_Chamidowitsch_Saitijew"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Buvaisar_Saitiev"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Buvajsar_Sajtijev"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Buvaisar_Saitíyev"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Buvaissar_Saitijev"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/بووایسار_سایتیف"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Buvaisar_Saitijev"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Buvaysar_Saytiev"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/בובאיסר_סאיטייב"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Բուվայսար_Սայտիև"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Buvajsar_Sajtiev"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ブバイサ・サイティエフ"
+        },
+        {
+          "note": "Wikipedia (kk)",
+          "url": "https://kk.wikipedia.org/wiki/Бувайсар_Сайтиев"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Buvaisar_Saitiev"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Buvaisars_Saitijevs"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Бувайсар_Сайтиев"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Buvajsar_Sajtijev"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Buwajsar_Sajtijew"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сайтиев,_Бувайсар_Хамидович"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Buvajsar_Sajtijev"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Buvaysa_Saytiyev"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Сайтієв_Бувайсар_Хамідович"
+        }
+      ],
+      "name": "Сайтиев Бувайса Хамидович",
+      "other_names": [
+        {
+          "name": "Сайтиев, Бувайсар Хамидович",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Buvaisar Saitiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "بوفايسار سايتيف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Buvaysar Saytiyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Бувайсар Сайтыеў",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Бувайсар Сайтиев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Buvaisar Saitíev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ce",
+          "name": "Сайт КIант Бувайса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Buvajsa Sajtyjev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Buvajsar Sajtiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Buwaisar Chamidowitsch Saitijew",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Buvaisar Saitiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Buvajsar Sajtijev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Buvaisar Saitiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Buvaissar Saitijev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "بووایسار سایتیف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Buvaisar Saitijev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bouvaïssar Saïtiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "בובאיסר סאיטייב",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Բուվայսար Սայտիև",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Buvaisar Saitiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ブバイサ・サイティエフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Бувайсар Сайтиев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-arab",
+          "name": "بۋۆايسار سايتىييەۆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-cn",
+          "name": "بۋۆايسار سايتىييەۆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-cyrl",
+          "name": "Бувайсар Сайтиев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-kz",
+          "name": "Бувайсар Сайтиев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-latn",
+          "name": "Bwvaýsar Saýtïyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-tr",
+          "name": "Bwvaýsar Saýtïyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Buvaisar Saitiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Buvaisars Saitijevs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бувайсар Сайтиев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Buvajsar Sajtijev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Buvaisar Saitiev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Buwajsa Sajtijew",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сайтиев, Бувайсар Хамидович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Buvajsar Sajtijev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Buvaysa Saytiyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сайтієв Бувайсар Хамідович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -26664,14 +28721,76 @@
     },
     {
       "birth_date": "1966-07-13",
+      "gender": "male",
+      "given_name": "Igor",
       "id": "dca23445-1631-4df7-948f-cae997b2e15e",
+      "identifiers": [
+        {
+          "identifier": "Q4408077",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/9e5/9e522ddd46879d547d43a21ee73e601f.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/9e5/9e522ddd46879d547d43a21ee73e601f.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sapko.jpg"
         }
       ],
-      "name": "Сапко Игорь Вячеславович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сапко,_Игорь_Вячеславович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/sapkoperm"
+        }
+      ],
+      "name": "Сапко Игорь Вячеславович",
+      "other_names": [
+        {
+          "name": "Сапко, Игорь Вячеславович",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Igor Vyacheslavovich Sapko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Igor Vyacheslavovich Sapko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Igor Vyacheslavovich Sapko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Igor Vyacheslavovich Sapko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Igor Vyacheslavovich Sapko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Igor Vyacheslavovich Sapko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сапко, Игорь Вячеславович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-08-05",
@@ -27941,14 +30060,242 @@
     },
     {
       "birth_date": "1976-04-22",
+      "gender": "female",
+      "given_name": "Elena",
       "id": "aa2f7fd9-755a-4721-9d5a-c58948714fd2",
+      "identifiers": [
+        {
+          "identifier": "/m/0260j3m",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3492123",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/fe5/fe500895eeb98d0f147f7e1748929aa2.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/fe5/fe500895eeb98d0f147f7e1748929aa2.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Yelena_Serova_2012.jpg"
         }
       ],
-      "name": "Серова Елена Олеговна"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yelena_Serova"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jelena_Serovová"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jelena_Olegowna_Serowa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yelena_Serova"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Yelena_Serova"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/یلنا_سرووا"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jelena_Serova"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Elena_Serova"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Jelena_Olegovna_Szerova"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Elena_Serova"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Jeļena_Serova"
+        },
+        {
+          "note": "Wikipedia (nds)",
+          "url": "https://nds.wikipedia.org/wiki/Jelena_Olegowna_Serowa"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jelena_Sierowa"
+        },
+        {
+          "note": "Wikipedia (ps)",
+          "url": "https://ps.wikipedia.org/wiki/یلېنا_سېرووا"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Yelena_Serova"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Серова,_Елена_Олеговна"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Jelena_Olegovna_Serovová"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Јелена_Серова"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jelena_Serova"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Сєрова_Олена_Олегівна"
+        }
+      ],
+      "name": "Серова Елена Олеговна",
+      "other_names": [
+        {
+          "name": "Серова, Елена Олеговна",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Jelena Serovová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jelena Olegowna Serowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "یلنا سرووا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jelena Olegovna Szerova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Elena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エレナ・セロヴァ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Jeļena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Jelena Olegowna Serowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jelena Sierowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ps",
+          "name": "یلېنا سېرووا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Yelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Серова, Елена Олеговна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Jelena Olegovna Serovová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Јелена Серова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Јелена Серова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Jelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jelena Serova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сєрова Олена Олегівна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-07-31",
@@ -28220,14 +30567,44 @@
     },
     {
       "birth_date": "1948-08-09",
+      "gender": "male",
+      "given_name": "Vladimir",
       "id": "d0e1013f-da54-4a1a-8eae-0c08e6aaecce",
+      "identifiers": [
+        {
+          "identifier": "Q4420607",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/57d/57d28f1614c44a33c30dae7303e47b04.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/57d/57d28f1614c44a33c30dae7303e47b04.jpg"
         }
       ],
-      "name": "Синяговский Владимир Ильич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Синяговский,_Владимир_Ильич"
+        }
+      ],
+      "name": "Синяговский Владимир Ильич",
+      "other_names": [
+        {
+          "name": "Синяговский, Владимир Ильич",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Βλαντίμιρ Ίλιτς Σινιαγκόφσκι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Синяговский, Владимир Ильич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -28259,14 +30636,38 @@
     },
     {
       "birth_date": "1952-05-17",
+      "gender": "male",
       "id": "229c89ff-782d-4385-bd59-be2c7527c4ad",
+      "identifiers": [
+        {
+          "identifier": "Q22919647",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/c92/c92463c21d92b23a19bf95280f4cb694.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/c92/c92463c21d92b23a19bf95280f4cb694.jpg"
         }
       ],
-      "name": "Скляр Геннадий Иванович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Скляр,_Геннадий_Иванович"
+        }
+      ],
+      "name": "Скляр Геннадий Иванович",
+      "other_names": [
+        {
+          "name": "Скляр, Геннадий Иванович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Скляр, Геннадий Иванович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-09-25",
@@ -28723,14 +31124,43 @@
     },
     {
       "birth_date": "1952-12-01",
+      "family_name": "Smirnov",
+      "gender": "male",
       "id": "928d40cb-b824-4670-ba60-6ac08e61fdc4",
+      "identifiers": [
+        {
+          "identifier": "1161",
+          "scheme": "declarator"
+        },
+        {
+          "identifier": "Q4424776",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/3a2/3a24c2545dcd1f2650339b6fc2251549.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/3a2/3a24c2545dcd1f2650339b6fc2251549.jpg"
         }
       ],
-      "name": "Смирнов Юрий Валентинович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Смирнов,_Юрий_Валентинович"
+        }
+      ],
+      "name": "Смирнов Юрий Валентинович",
+      "other_names": [
+        {
+          "name": "Смирнов, Юрий Валентинович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Смирнов, Юрий Валентинович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-02-10",
@@ -28984,21 +31414,46 @@
       ]
     },
     {
+      "birth_date": "1956-06-15",
       "gender": "female",
       "id": "665f424e-848e-4c2e-99b1-a54eeee1f83f",
       "identifiers": [
         {
           "identifier": "131187",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24010622",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/a63/a6396177ee59c0af17426c3de1681d45.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/a63/a6396177ee59c0af17426c3de1681d45.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sokolova_i_v_deputat_2016.jpg"
         }
       ],
-      "name": "Соколова Ирина Валерьевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Соколова,_Ирина_Валерьевна"
+        }
+      ],
+      "name": "Соколова Ирина Валерьевна",
+      "other_names": [
+        {
+          "name": "Соколова, Ирина Валерьевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Соколова, Ирина Валерьевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-04-04",
@@ -29111,14 +31566,54 @@
     },
     {
       "birth_date": "1958-08-31",
+      "gender": "male",
+      "given_name": "Igor",
       "id": "84b7f5f7-8948-4866-9bec-90df58692e2b",
+      "identifiers": [
+        {
+          "identifier": "Q16701684",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/6e1/6e1ec0375ada647cdf48a493a74257aa.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/6e1/6e1ec0375ada647cdf48a493a74257aa.jpg"
         }
       ],
-      "name": "Станкевич Игорь Валентинович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Станкевич,_Игорь_Валентинович"
+        }
+      ],
+      "name": "Станкевич Игорь Валентинович",
+      "other_names": [
+        {
+          "name": "Станкевич, Игорь Валентинович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Igor Stankevich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Igor Stankevitsj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Igor Stankevitsj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Станкевич, Игорь Валентинович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-01-28",
@@ -29582,24 +32077,278 @@
       "birth_date": "1973-06-21",
       "gender": "male",
       "id": "4caeb56c-1521-4aaa-bf3c-7f8b4bd25678",
+      "identifiers": [
+        {
+          "identifier": "Q27230970",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/272/27228662adcc7552dc1c0c0dbc3079b3.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/272/27228662adcc7552dc1c0c0dbc3079b3.jpg"
         }
       ],
-      "name": "Сысоев Владимир Владимирович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сысоев,_Владимир_Владимирович"
+        }
+      ],
+      "name": "Сысоев Владимир Владимирович",
+      "other_names": [
+        {
+          "name": "Сысоев, Владимир Владимирович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Сысоев, Владимир Владимирович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-07-20",
+      "gender": "male",
+      "given_name": "Artur",
       "id": "4809b2ed-5985-4558-bc78-b27e26a3ec05",
+      "identifiers": [
+        {
+          "identifier": "/m/07rqbv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q503151",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/70c/70cfef6b8dc2f06f39de2bb3e2140e0e.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/70c/70cfef6b8dc2f06f39de2bb3e2140e0e.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Stamps_of_Uzbekistan,_2006-010.jpg"
         }
       ],
-      "name": "Таймазов Артур Борисович"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ارتور_تايمازوف"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Artur_Tajmazov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/آرتور_تایمازوف"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Artur_Taimazov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/アルトゥール・タイマゾフ"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/아르투르_타이마조프"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Артур_Таймазов"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Artur_Taymazov"
+        },
+        {
+          "note": "Wikipedia (os)",
+          "url": "https://os.wikipedia.org/wiki/Таймазты_Артур"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Artur_Tajmazow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Таймазов,_Артур_Борисович"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Артур_Тајмазов"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Artur_Tajmazov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Таймазов_Артур_Борисович"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Artur_Taymazov"
+        }
+      ],
+      "name": "Таймазов Артур Борисович",
+      "other_names": [
+        {
+          "name": "Таймазов, Артур Борисович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "ارتور تايمازوف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Artur Tajmazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "آرتور تایمازوف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Artur Taimazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アルトゥール・タイマゾフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "아르투르 타이마조프",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Артур Таймазов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Таймазты Артур",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Artur Tajmazow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Таймазов, Артур Борисович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Артур Тајмазов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Артур Тајмазов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Artur Tajmazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Artur Tajmazov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Таймазов Артур Борисович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Artur Taymazov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-02-12",
@@ -30995,6 +33744,10 @@
         {
           "identifier": "131195",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27230932",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/9d1/9d15a82a3f086cbccbadd3743f215f3d.jpg",
@@ -31003,18 +33756,92 @@
           "url": "http://www.duma.gov.ru/upload/iblock/9d1/9d15a82a3f086cbccbadd3743f215f3d.jpg"
         }
       ],
-      "name": "Ткачев Алексей Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ткачёв,_Алексей_Николаевич"
+        }
+      ],
+      "name": "Ткачев Алексей Николаевич",
+      "other_names": [
+        {
+          "name": "Ткачёв, Алексей Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Ткачёв, Алексей Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-06-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "petr_tolstoy"
+        }
+      ],
+      "gender": "male",
       "id": "79e022be-36d6-4e9c-98c4-165d38b085c5",
+      "identifiers": [
+        {
+          "identifier": "Q4459965",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/cfa/cfaec62ca829a248b18b3cf32d72728e.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/cfa/cfaec62ca829a248b18b3cf32d72728e.jpg"
         }
       ],
-      "name": "Толстой Петр Олегович"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pyotr_Olegovich_Tolstoy"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Толстой,_Пётр_Олегович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Толстой_Петро_Олегович"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/petr_tolstoy"
+        }
+      ],
+      "name": "Толстой Петр Олегович",
+      "other_names": [
+        {
+          "name": "Толстой, Пётр Олегович",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Pyotr Olegovich Tolstoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pjotr Olegovitsj Tolstoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Толстой, Пётр Олегович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Толстой Петро Олегович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1985-12-09",
@@ -32163,14 +34990,234 @@
     },
     {
       "birth_date": "1958-04-20",
+      "gender": "male",
+      "given_name": "Viacheslav",
       "id": "611be0e3-f6f2-4460-8e53-56a4cff4a30a",
+      "identifiers": [
+        {
+          "identifier": "1179",
+          "scheme": "declarator"
+        },
+        {
+          "identifier": "426098",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01x5c5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "121444384",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no98125714",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "01000001926",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "79451912",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q553302",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/c08/c083f4e2a4c473c9dc984d1dfcd62bb4.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/c08/c083f4e2a4c473c9dc984d1dfcd62bb4.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Viacheslav_Fetisov.jpg"
         }
       ],
-      "name": "Фетисов Вячеслав Александрович"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فايتشيسلاف_فيتيسوف"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Viacheslav_Alexandrovich_Fetisov"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Vjačeslav_Fetisov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wjatscheslaw_Alexandrowitsch_Fetissow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Viacheslav_Fetisov"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Vjatšeslav_Fetisov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Viatcheslav_Fetissov"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ויאצ'סלב_פטיסוב"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Վյաչեսլավ_Ֆետիսով"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Vjačeslav_Fetisov"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Vjačeslavs_Fetisovs"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Vjatsjeslav_Fetisov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Wiaczesław_Fietisow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Фетисов,_Вячеслав_Александрович"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Vjačeslav_Fetisov"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Vjatjeslav_Fetisov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Фетісов_В'ячеслав_Олександрович"
+        }
+      ],
+      "name": "Фетисов Вячеслав Александрович",
+      "other_names": [
+        {
+          "name": "Фетисов, Вячеслав Александрович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "فايتشيسلاف فيتيسوف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Vjačeslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wjatscheslaw Alexandrowitsch Fetissow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Viacheslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Viacheslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vjatšeslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Viatcheslav Fetissov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ויאצ'סלב פטיסוב",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Վյաչեսլավ Ֆետիսով",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vjačeslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Vjačeslavs Fetisovs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vjatsjeslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Viacheslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vjatsjeslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wiaczesław Fietisow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Фетисов, Вячеслав Александрович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Vjačeslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vjatjeslav Fetisov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Фетісов В'ячеслав Олександрович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "维亚切斯拉夫·费迪索夫",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "維亞切斯拉夫·費迪索夫",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -32283,13 +35330,17 @@
       "name": "Фролова Тамара Ивановна"
     },
     {
-      "birth_date": "1970-02-12",
+      "birth_date": "1970-01-12",
       "gender": "male",
       "id": "474be04e-7da1-4dfc-8712-22221fa481e7",
       "identifiers": [
         {
           "identifier": "131217",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26776800",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/682/682a1c50001a6bedd3a4db100dbd9f29.jpg",
@@ -32298,7 +35349,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/682/682a1c50001a6bedd3a4db100dbd9f29.jpg"
         }
       ],
-      "name": "Фургал Сергей Иванович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Фургал,_Сергей_Иванович"
+        }
+      ],
+      "name": "Фургал Сергей Иванович",
+      "other_names": [
+        {
+          "name": "Фургал, Сергей Иванович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Фургал, Сергей Иванович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-06-22",
@@ -32620,25 +35688,73 @@
     },
     {
       "birth_date": "1956-06-10",
+      "gender": "male",
       "id": "245d91d5-cc8b-4cae-b54f-2ee63e47c1d1",
+      "identifiers": [
+        {
+          "identifier": "Q27231073",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/c00/c005638b488d0774aea139c16028e049.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/c00/c005638b488d0774aea139c16028e049.jpg"
         }
       ],
-      "name": "Харсиев Алихан Анатольевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Харсиев,_Алихан_Анатольевич"
+        }
+      ],
+      "name": "Харсиев Алихан Анатольевич",
+      "other_names": [
+        {
+          "name": "Харсиев, Алихан Анатольевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Харсиев, Алихан Анатольевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-12-10",
+      "gender": "male",
       "id": "e033d24f-8ab7-4c86-b832-5e6c622070a0",
+      "identifiers": [
+        {
+          "identifier": "Q18170426",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/3a5/3a556e810d3bb6fa5dd8efbeb636457d.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/3a5/3a556e810d3bb6fa5dd8efbeb636457d.jpg"
         }
       ],
-      "name": "Хасанов Мурат Русланович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хасанов,_Мурат_Русланович"
+        }
+      ],
+      "name": "Хасанов Мурат Русланович",
+      "other_names": [
+        {
+          "name": "Хасанов, Мурат Русланович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Хасанов, Мурат Русланович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-10-26",
@@ -32939,14 +36055,38 @@
     },
     {
       "birth_date": "1957-11-06",
+      "gender": "male",
       "id": "8a0262ae-a464-46fb-830b-17cd81a61d16",
+      "identifiers": [
+        {
+          "identifier": "Q19916135",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/b6a/b6a1a63aab5dd308058db958d622fa49.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/b6a/b6a1a63aab5dd308058db958d622fa49.jpg"
         }
       ],
-      "name": "Хохлов Алексей Алексеевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хохлов,_Алексей_Алексеевич"
+        }
+      ],
+      "name": "Хохлов Алексей Алексеевич",
+      "other_names": [
+        {
+          "name": "Хохлов, Алексей Алексеевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Хохлов, Алексей Алексеевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-01-28",
@@ -33082,11 +36222,20 @@
     {
       "birth_date": "1953-07-02",
       "gender": "male",
+      "given_name": "Valentin",
       "id": "d240a88c-e8f7-4198-8919-149471b87424",
       "identifiers": [
         {
+          "identifier": "280",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "223320",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4506723",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/040/04023b7e9a5876f02f50bf074be711b2.jpg",
@@ -33095,7 +36244,44 @@
           "url": "http://www.duma.gov.ru/upload/iblock/040/04023b7e9a5876f02f50bf074be711b2.jpg"
         }
       ],
-      "name": "Чайка Валентин Васильевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чайка,_Валентин_Васильевич"
+        }
+      ],
+      "name": "Чайка Валентин Васильевич",
+      "other_names": [
+        {
+          "name": "Чайка, Валентин Васильевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Valentin Chayka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Valentin Tsjajka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Valentin Vasilevitsj Tsjayka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Valentin Tsjajka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чайка, Валентин Васильевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -33128,14 +36314,174 @@
     },
     {
       "birth_date": "1967-01-30",
+      "gender": "male",
+      "given_name": "Sergej",
       "id": "2677efeb-042b-4191-be24-db4efacd17fa",
+      "identifiers": [
+        {
+          "identifier": "/m/0c7zp7",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q550670",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/f18/f18f58876ecb2e797cb44a08d777338f.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/f18/f18f58876ecb2e797cb44a08d777338f.jpg"
         }
       ],
-      "name": "Чепиков Сергей Владимирович"
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Serguei_Txépikov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sergei_Wladimirowitsch_Tschepikow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sergei_Tchepikov"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Serguéi_Chépikov"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sergei_Tšepikov"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Sergei_Tšepikov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sergey_Chepikov"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sergej_Čepikov"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Sergej_Tsjepikov"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Sergej_Tsjepikov"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sergej_Tsjepikov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Siergiej_Czepikow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чепиков,_Сергей_Владимирович"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sergej_Tjepikov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Чепіков_Сергій_Володимирович"
+        }
+      ],
+      "name": "Чепиков Сергей Владимирович",
+      "other_names": [
+        {
+          "name": "Чепиков, Сергей Владимирович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Sergey Tchepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sergei Wladimirowitsch Tschepikow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sergey Tchepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sergey Tchepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sergei Tšepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sergei Tšepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sergueï Tchepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sergej Čepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "სერგეი ჩეპიკოვი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sergej Tsjepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sergej Tsjepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sergej Tsjepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Siergiej Czepikow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чепиков, Сергей Владимирович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sergej Tjepikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Чепіков Сергій Володимирович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1944-10-24",
@@ -33422,14 +36768,52 @@
     },
     {
       "birth_date": "1950-03-06",
+      "gender": "male",
       "id": "039a263f-af63-4a6b-827a-edbb09430d4b",
+      "identifiers": [
+        {
+          "identifier": "m-chernyshev",
+          "scheme": "livejournal"
+        },
+        {
+          "identifier": "Q4514356",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/876/876c5e074eb063efa4982dbdfd345b9a.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/876/876c5e074eb063efa4982dbdfd345b9a.jpg"
         }
       ],
-      "name": "Чернышев Михаил Анатольевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чернышёв,_Михаил_Анатольевич"
+        }
+      ],
+      "name": "Чернышев Михаил Анатольевич",
+      "other_names": [
+        {
+          "name": "Чернышёв, Михаил Анатольевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Michail Anatolevitsj Tsjernisjjov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Mihail Anatolevici Cernîșiov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чернышёв, Михаил Анатольевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1991-06-25",
@@ -33525,6 +36909,10 @@
         {
           "identifier": "131212",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26255449",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/d97/d976ec3f98afd87d525e0a41b43908ce.jpg",
@@ -33533,7 +36921,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/d97/d976ec3f98afd87d525e0a41b43908ce.jpg"
         }
       ],
-      "name": "Чижов Сергей Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чижов,_Сергей_Викторович"
+        }
+      ],
+      "name": "Чижов Сергей Викторович",
+      "other_names": [
+        {
+          "name": "Чижов, Сергей Викторович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Чижов, Сергей Викторович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1932-01-25",
@@ -33734,11 +37139,20 @@
     {
       "birth_date": "1965-12-09",
       "gender": "male",
+      "given_name": "Sergei",
       "id": "045aab92-efc3-4b6d-bcf2-36557ce5ac97",
       "identifiers": [
         {
+          "identifier": "635",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "131213",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15714548",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/7d8/7d801aaa1dfe651c4496f34b1e566a1f.jpg",
@@ -33747,7 +37161,34 @@
           "url": "http://www.duma.gov.ru/upload/iblock/7d8/7d801aaa1dfe651c4496f34b1e566a1f.jpg"
         }
       ],
-      "name": "Чиндяскин Сергей Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чиндяскин,_Сергей_Викторович"
+        }
+      ],
+      "name": "Чиндяскин Сергей Викторович",
+      "other_names": [
+        {
+          "name": "Чиндяскин, Сергей Викторович",
+          "note": "alternate"
+        },
+        {
+          "lang": "nb",
+          "name": "Sergej Tsjindjaskin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sergej Tsjindjaskin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чиндяскин, Сергей Викторович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1982-03-06",
@@ -34167,14 +37608,136 @@
     },
     {
       "birth_date": "1980-05-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "shargunov"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Sergei",
       "id": "6bbf7cce-1c8a-492d-b327-b92ffa08c7d2",
+      "identifiers": [
+        {
+          "identifier": "137805144",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nr2003009640",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "shargunov",
+          "scheme": "livejournal"
+        },
+        {
+          "identifier": "083859357",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "199947089",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "id5355252",
+          "scheme": "vkontakte"
+        },
+        {
+          "identifier": "Q2272536",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/b83/b8310ab09d97cebdcff08e9ddbd160e3.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/b83/b8310ab09d97cebdcff08e9ddbd160e3.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sergei_Shargunov.jpg"
         }
       ],
-      "name": "Шаргунов Сергей Александрович"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sergey_Shargunov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sergei_Alexandrowitsch_Schargunow"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Siergiej_Szargunow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шаргунов,_Сергей_Александрович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/shargunov"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/shargunov"
+        },
+        {
+          "note": "website",
+          "url": "http://shargunov.com/"
+        }
+      ],
+      "name": "Шаргунов Сергей Александрович",
+      "other_names": [
+        {
+          "name": "Шаргунов, Сергей Александрович",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sergei Alexandrowitsch Schargunow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sergey Shargunov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sergei Alexandrowitsch Schargunow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sergei Alexandrowitsch Schargunow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sergej Sjargunov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sergey Aleksandrovitsj Sjargoenov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sergej Sjargunov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Siergiej Szargunow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шаргунов, Сергей Александрович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -34266,14 +37829,114 @@
     },
     {
       "birth_date": "1972-03-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "OlegShein"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Oleg",
       "id": "a955e57a-5f75-45ef-b333-92b34ffa2b33",
+      "identifiers": [
+        {
+          "identifier": "112",
+          "scheme": "declarator"
+        },
+        {
+          "identifier": "/g/120vb6c0",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "oleg-shein",
+          "scheme": "livejournal"
+        },
+        {
+          "identifier": "id13075311",
+          "scheme": "vkontakte"
+        },
+        {
+          "identifier": "Q1517429",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
       "images": [
         {
           "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Oleg_shein.JPG"
         }
       ],
-      "name": "Шеин Олег Васильевич"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Oleg_Shein"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Oleg_Wassiljewitsch_Schein"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oleg_Shein"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шеин,_Олег_Васильевич"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/oleg.shein.1"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/OlegShein"
+        }
+      ],
+      "name": "Шеин Олег Васильевич",
+      "other_names": [
+        {
+          "name": "Шеин, Олег Васильевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Oleg Wassiljewitsch Schein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oleg Shein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oleg Wassiljewitsch Schein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Oleg Sjein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oleg Vasilevitsj Sjein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Oleg Sjein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шеин, Олег Васильевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-05-23",
@@ -34774,14 +38437,60 @@
     },
     {
       "birth_date": "1955-12-20",
+      "gender": "male",
       "id": "cdd0c4c9-ccd9-4ebe-88c7-dfbaac71e82c",
+      "identifiers": [
+        {
+          "identifier": "829",
+          "scheme": "declarator"
+        },
+        {
+          "identifier": "Q4527170",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/efc/efc5b6758b9d2d4cd726e0658ff25624.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/efc/efc5b6758b9d2d4cd726e0658ff25624.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Шубин_Игорь_Николаевич.jpg"
         }
       ],
-      "name": "Шубин Игорь Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шубин,_Игорь_Николаевич"
+        }
+      ],
+      "name": "Шубин Игорь Николаевич",
+      "other_names": [
+        {
+          "name": "Шубин, Игорь Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Igor Shubin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Igor Sjubin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Igor Sjubin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шубин, Игорь Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-12-05",
@@ -34938,14 +38647,42 @@
     },
     {
       "birth_date": "1975-09-20",
+      "gender": "male",
       "id": "ac3ef30b-e6b0-49ee-ba20-f357fd32bae9",
+      "identifiers": [
+        {
+          "identifier": "Q27758432",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/7b8/7b8e1c137cb28cb8dbff4345b6731c78.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/7b8/7b8e1c137cb28cb8dbff4345b6731c78.jpg"
         }
       ],
-      "name": "Щапов Михаил Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Щапов,_Михаил_Викторович"
+        },
+        {
+          "note": "website",
+          "url": "LiveJournal"
+        }
+      ],
+      "name": "Щапов Михаил Викторович",
+      "other_names": [
+        {
+          "name": "Щапов, Михаил Викторович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Щапов, Михаил Викторович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -35140,14 +38877,41 @@
     },
     {
       "birth_date": "1985-03-11",
+      "gender": "female",
       "id": "447aafec-917c-400d-a9e0-a632ebcb8fb2",
+      "identifiers": [
+        {
+          "identifier": "Q4534450",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/048/04890dce8eb0ded47f2e6706ae40af93.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/048/04890dce8eb0ded47f2e6706ae40af93.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Inga_Yumasheva.jpg"
         }
       ],
-      "name": "Юмашева Инга Альбертовна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Юмашева,_Инга_Альбертовна"
+        }
+      ],
+      "name": "Юмашева Инга Альбертовна",
+      "other_names": [
+        {
+          "name": "Юмашева, Инга Альбертовна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Юмашева, Инга Альбертовна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
