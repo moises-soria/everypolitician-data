@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/brasil-deputados-scraper",
-        "query": "SELECT * FROM data WHERE term = 55"
+        "query": "SELECT *, NULL as term FROM data WHERE term = 55 ORDER BY id"
       },
       "source": "http://www.camara.gov.br",
       "type": "person",
