@@ -1107,14 +1107,7 @@
       "name": "Benjamin Komla Kpodo"
     },
     {
-      "gender": "male",
-      "id": "f6323b2c-ee57-4cc0-91f8-0ead43f38466",
-      "identifiers": [
-        {
-          "identifier": "411",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "ec1e28a9-4510-4095-9e8b-0774f8f5def2",
       "name": "Benson Tongo Baba"
     },
     {
@@ -1153,6 +1146,24 @@
       "name": "Bernice Adiku Heloo (Mrs) (Dr)"
     },
     {
+      "birth_date": "1965-07-02",
+      "gender": "male",
+      "id": "9ca6acb3-3f70-4805-9d5f-3294c53d0a7d",
+      "identifiers": [
+        {
+          "identifier": "336",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gh/userfiles/mps/112_DANQUAH_JOSEPH_BOAKYE_A.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/112_DANQUAH_JOSEPH_BOAKYE_A.jpg"
+        }
+      ],
+      "name": "Boakye Danquah Adu"
+    },
+    {
       "birth_date": "1959-06-09",
       "gender": "male",
       "id": "d25b9e2e-8136-42f4-924a-214340fb4d20",
@@ -1189,14 +1200,7 @@
       "name": "Bright Edward Kodzo Demordzi"
     },
     {
-      "gender": "male",
-      "id": "bcc66c18-cbe0-4bba-bc27-38dcca7e2bee",
-      "identifiers": [
-        {
-          "identifier": "34",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "1ccf81de-0949-4232-8c7d-9f6421123834",
       "image": "http://www.parliament.gh/userfiles/mps/Hon_Acheampong_Bryan.jpg",
       "images": [
         {
@@ -3350,6 +3354,24 @@
       ]
     },
     {
+      "birth_date": "1959-10-01",
+      "gender": "male",
+      "id": "e9525e6b-2a4c-44b1-89b9-b81583a40a8d",
+      "identifiers": [
+        {
+          "identifier": "177",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gh/userfiles/mps/215_GYETUAH_JOHN.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/215_GYETUAH_JOHN.jpg"
+        }
+      ],
+      "name": "John Gyetuah"
+    },
+    {
       "birth_date": "1956-11-03",
       "gender": "male",
       "id": "ba6a9216-e54c-47e6-b313-a4c4bb1ae752",
@@ -5373,6 +5395,24 @@
       "name": "Peter Nortsu-Kotoe"
     },
     {
+      "birth_date": "1954-05-09",
+      "gender": "male",
+      "id": "bcc66c18-cbe0-4bba-bc27-38dcca7e2bee",
+      "identifiers": [
+        {
+          "identifier": "34",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gh/userfiles/mps/273_PEPERA_PETER_WIAFE.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/273_PEPERA_PETER_WIAFE.jpg"
+        }
+      ],
+      "name": "Peter Wiafe Pepera"
+    },
+    {
       "birth_date": "1969-11-18",
       "gender": "male",
       "id": "bb65838d-5d86-4bf6-a9c9-2b2097e3ce04",
@@ -5527,6 +5567,31 @@
         }
       ],
       "name": "Robert Kwasi Amoah"
+    },
+    {
+      "birth_date": "1953-11-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rnd_moso2@yahoo.com"
+        }
+      ],
+      "email": "rnd_moso2@yahoo.com",
+      "gender": "male",
+      "id": "f6323b2c-ee57-4cc0-91f8-0ead43f38466",
+      "identifiers": [
+        {
+          "identifier": "411",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gh/userfiles/mps/22_MOSOORE_ROBERT_N_D_1.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/22_MOSOORE_ROBERT_N_D_1.jpg"
+        }
+      ],
+      "name": "Robert Nachinab Doameng Mosore"
     },
     {
       "birth_date": "1970-04-01",
@@ -7344,6 +7409,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/abetifi,_eastern",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/new_patriotic_party",
+      "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
+      "person_id": "1ccf81de-0949-4232-8c7d-9f6421123834",
+      "role": "member"
+    },
+    {
       "area_id": "area/south_dayi,_volta_region",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/national_democratic_congress",
@@ -8448,6 +8521,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/abuakwa_north,_eastern",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/new_patriotic_party",
+      "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
+      "person_id": "9ca6acb3-3f70-4805-9d5f-3294c53d0a7d",
+      "role": "member"
+    },
+    {
       "area_id": "area/atwima_mponua,_ashanti",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/new_patriotic_party",
@@ -9144,11 +9225,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/amenfi_west,_western",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/national_democratic_congress",
+      "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
+      "person_id": "e9525e6b-2a4c-44b1-89b9-b81583a40a8d",
+      "role": "member"
+    },
+    {
       "area_id": "area/sene,_brong_ahafo",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/national_democratic_congress",
       "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
       "person_id": "e9d18587-2c14-428d-89d5-b44651acf81c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/talensi,_upper_east",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/national_democratic_congress",
+      "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
+      "person_id": "ec1e28a9-4510-4095-9e8b-0774f8f5def2",
       "role": "member"
     },
     {
@@ -9226,7 +9323,7 @@
     {
       "area_id": "area/talensi,_upper_east",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/national_democratic_congress",
+      "on_behalf_of_id": "party/new_patriotic_party",
       "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
       "person_id": "f6323b2c-ee57-4cc0-91f8-0ead43f38466",
       "role": "member"
