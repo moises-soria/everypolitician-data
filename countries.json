@@ -10853,19 +10853,20 @@
         "slug": "Senate",
         "sources_directory": "data/United_States_of_America/Senate/sources",
         "popolo": "data/United_States_of_America/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3cd869824d207cb25b0ace9eea9768afb6b78c00/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/Senate/names.csv",
-        "lastmod": "1483418603",
+        "lastmod": "1483515916",
         "person_count": 310,
-        "sha": "3cd869824d207cb25b0ace9eea9768afb6b78c00",
+        "sha": "201c3abdcb6221d3409c44edcc1492bf54f17188",
         "legislative_periods": [
           {
+            "end_date": "2017-01-03",
             "id": "term/114",
             "name": "114th Congress",
             "start_date": "2015-01-06",
             "slug": "114",
             "csv": "data/United_States_of_America/Senate/term-114.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3cd869824d207cb25b0ace9eea9768afb6b78c00/data/United_States_of_America/Senate/term-114.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-114.csv"
           },
           {
             "end_date": "2015-01-03",
@@ -10874,7 +10875,7 @@
             "start_date": "2013-01-06",
             "slug": "113",
             "csv": "data/United_States_of_America/Senate/term-113.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b3587f13e137ce4bff91a4e8f96939358edea98b/data/United_States_of_America/Senate/term-113.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-113.csv"
           },
           {
             "end_date": "2013-01-03",
@@ -10883,7 +10884,7 @@
             "start_date": "2011-01-06",
             "slug": "112",
             "csv": "data/United_States_of_America/Senate/term-112.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b3587f13e137ce4bff91a4e8f96939358edea98b/data/United_States_of_America/Senate/term-112.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-112.csv"
           },
           {
             "end_date": "2011-01-03",
@@ -10892,7 +10893,7 @@
             "start_date": "2009-01-06",
             "slug": "111",
             "csv": "data/United_States_of_America/Senate/term-111.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70e834cd873f8843df923e17a559cca6f6ab961b/data/United_States_of_America/Senate/term-111.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-111.csv"
           },
           {
             "end_date": "2009-01-03",
@@ -10901,7 +10902,7 @@
             "start_date": "2007-01-06",
             "slug": "110",
             "csv": "data/United_States_of_America/Senate/term-110.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70e834cd873f8843df923e17a559cca6f6ab961b/data/United_States_of_America/Senate/term-110.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-110.csv"
           },
           {
             "end_date": "2007-01-03",
@@ -10910,7 +10911,7 @@
             "start_date": "2005-01-06",
             "slug": "109",
             "csv": "data/United_States_of_America/Senate/term-109.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70e834cd873f8843df923e17a559cca6f6ab961b/data/United_States_of_America/Senate/term-109.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-109.csv"
           },
           {
             "end_date": "2005-01-03",
@@ -10919,7 +10920,7 @@
             "start_date": "2003-01-06",
             "slug": "108",
             "csv": "data/United_States_of_America/Senate/term-108.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/551432f62cbbf425fb1d4cc793fd1301a9b7cbb2/data/United_States_of_America/Senate/term-108.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-108.csv"
           },
           {
             "end_date": "2003-01-03",
@@ -10928,7 +10929,7 @@
             "start_date": "2001-01-06",
             "slug": "107",
             "csv": "data/United_States_of_America/Senate/term-107.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/551432f62cbbf425fb1d4cc793fd1301a9b7cbb2/data/United_States_of_America/Senate/term-107.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-107.csv"
           },
           {
             "end_date": "2001-01-03",
@@ -10937,7 +10938,7 @@
             "start_date": "1999-01-06",
             "slug": "106",
             "csv": "data/United_States_of_America/Senate/term-106.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/992381eaff858f67106b27d753d360d038d6af5c/data/United_States_of_America/Senate/term-106.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-106.csv"
           },
           {
             "end_date": "1999-01-03",
@@ -10946,7 +10947,7 @@
             "start_date": "1997-01-06",
             "slug": "105",
             "csv": "data/United_States_of_America/Senate/term-105.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/551432f62cbbf425fb1d4cc793fd1301a9b7cbb2/data/United_States_of_America/Senate/term-105.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-105.csv"
           },
           {
             "end_date": "1997-01-03",
@@ -10955,7 +10956,7 @@
             "start_date": "1995-01-06",
             "slug": "104",
             "csv": "data/United_States_of_America/Senate/term-104.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/992381eaff858f67106b27d753d360d038d6af5c/data/United_States_of_America/Senate/term-104.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-104.csv"
           },
           {
             "end_date": "1995-01-03",
@@ -10964,7 +10965,7 @@
             "start_date": "1993-01-06",
             "slug": "103",
             "csv": "data/United_States_of_America/Senate/term-103.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/992381eaff858f67106b27d753d360d038d6af5c/data/United_States_of_America/Senate/term-103.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-103.csv"
           },
           {
             "end_date": "1993-01-03",
@@ -10973,7 +10974,7 @@
             "start_date": "1991-01-06",
             "slug": "102",
             "csv": "data/United_States_of_America/Senate/term-102.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/992381eaff858f67106b27d753d360d038d6af5c/data/United_States_of_America/Senate/term-102.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-102.csv"
           },
           {
             "end_date": "1991-01-03",
@@ -10982,7 +10983,7 @@
             "start_date": "1989-01-06",
             "slug": "101",
             "csv": "data/United_States_of_America/Senate/term-101.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/992381eaff858f67106b27d753d360d038d6af5c/data/United_States_of_America/Senate/term-101.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-101.csv"
           },
           {
             "end_date": "1989-01-03",
@@ -10991,7 +10992,7 @@
             "start_date": "1987-01-06",
             "slug": "100",
             "csv": "data/United_States_of_America/Senate/term-100.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/551432f62cbbf425fb1d4cc793fd1301a9b7cbb2/data/United_States_of_America/Senate/term-100.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/201c3abdcb6221d3409c44edcc1492bf54f17188/data/United_States_of_America/Senate/term-100.csv"
           },
           {
             "end_date": "1987-01-03",
@@ -11000,7 +11001,7 @@
             "start_date": "1985-01-06",
             "slug": "99",
             "csv": "data/United_States_of_America/Senate/term-99.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/992381eaff858f67106b27d753d360d038d6af5c/data/United_States_of_America/Senate/term-99.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3e321b01374efb4306a920fc8383f7afb834e4c6/data/United_States_of_America/Senate/term-99.csv"
           },
           {
             "end_date": "1983-01-03",
@@ -11018,10 +11019,10 @@
             "start_date": "1981-01-06",
             "slug": "97",
             "csv": "data/United_States_of_America/Senate/term-97.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/992381eaff858f67106b27d753d360d038d6af5c/data/United_States_of_America/Senate/term-97.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3e321b01374efb4306a920fc8383f7afb834e4c6/data/United_States_of_America/Senate/term-97.csv"
           }
         ],
-        "statement_count": 72590,
+        "statement_count": 71873,
         "type": "upper house"
       }
     ]
