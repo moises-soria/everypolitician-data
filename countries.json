@@ -1303,11 +1303,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Brazil/Deputies/sources",
         "popolo": "data/Brazil/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b3ddd72ae1b72057c51e0224257f42bfebc048f/data/Brazil/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ec4a5b86e6f895bdd3237848d4cc61bd2e2263ea/data/Brazil/Deputies/ep-popolo-v1.0.json",
         "names": "data/Brazil/Deputies/names.csv",
-        "lastmod": "1483534577",
+        "lastmod": "1483535841",
         "person_count": 934,
-        "sha": "2b3ddd72ae1b72057c51e0224257f42bfebc048f",
+        "sha": "ec4a5b86e6f895bdd3237848d4cc61bd2e2263ea",
         "legislative_periods": [
           {
             "id": "term/55",
@@ -1315,7 +1315,7 @@
             "start_date": "2015-02-01",
             "slug": "55",
             "csv": "data/Brazil/Deputies/term-55.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b3ddd72ae1b72057c51e0224257f42bfebc048f/data/Brazil/Deputies/term-55.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ec4a5b86e6f895bdd3237848d4cc61bd2e2263ea/data/Brazil/Deputies/term-55.csv"
           },
           {
             "end_date": "2015",
@@ -1327,7 +1327,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b3ddd72ae1b72057c51e0224257f42bfebc048f/data/Brazil/Deputies/term-54.csv"
           }
         ],
-        "statement_count": 44282,
+        "statement_count": 45766,
         "type": "lower house"
       }
     ]
