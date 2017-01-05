@@ -18,6 +18,9 @@ Style/AlignHash:
   EnforcedHashRocketStyle: table
   EnforcedColonStyle: table
 
+Style/AndOr:
+  Enabled: false
+
 Style/ClassAndModuleCamelCase:
   Enabled: false
 
