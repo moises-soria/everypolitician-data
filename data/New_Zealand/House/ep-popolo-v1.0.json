@@ -1220,6 +1220,7 @@
       "sort_name": "Stewart, Barbara"
     },
     {
+      "birth_date": "1956-10-18",
       "contact_details": [
         {
           "type": "email",
@@ -1231,7 +1232,14 @@
         }
       ],
       "email": "barry.coates@parliament.govt.nz",
+      "gender": "male",
       "id": "ec3eda9b-60c0-4c93-81c0-1269eac4467e",
+      "identifiers": [
+        {
+          "identifier": "Q26845632",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg",
       "images": [
         {
@@ -1239,6 +1247,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Barry_Coates"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/barrycoatesnz"
@@ -1249,10 +1261,22 @@
         }
       ],
       "name": "Barry Coates",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Barry Coates",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Barry Coates",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Coates, Barry"
     },
     {
-      "birth_date": "1961",
+      "birth_date": "1961-12-30",
       "contact_details": [
         {
           "type": "email",
@@ -1269,36 +1293,8 @@
       "id": "6a93d08c-85ee-43f0-9226-d516257a348b",
       "identifiers": [
         {
-          "identifier": "14567536w",
-          "scheme": "bnf"
-        },
-        {
           "identifier": "51MP321",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/01zbvl",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "0000 0001 0916 195X",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "00849269",
-          "scheme": "ndl"
-        },
-        {
-          "identifier": "236695959",
-          "scheme": "nta"
-        },
-        {
-          "identifier": "080825672",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "74095192",
-          "scheme": "viaf"
         },
         {
           "identifier": "Q4384608",
@@ -1311,37 +1307,165 @@
           "url": "https://www.parliament.nz/media/1286/english-bill5.C1fwxA.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bill_English.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bill_English_September_2016.jpg"
         }
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بيل_انجليش"
+        },
+        {
+          "note": "Wikipedia (azb)",
+          "url": "https://azb.wikipedia.org/wiki/بیل_اینقلیش"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/বিল_ইংলিশ"
+        },
+        {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Bill_English"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bill_English"
         },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bill_English"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/بیل_اینگلیش"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Bill_English"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Bill_English_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ביל_אינגליש"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Bill_English_(politikus)"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Բիլ_Ինգլիշ"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Bill_English"
         },
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/ビル・イングリッシュ"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/빌_잉글리시"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Gulielmus_English"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (mi)",
+          "url": "https://mi.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/बिल_इंग्लिश"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Bill_English"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Инглиш,_Билл"
         },
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Bill_English"
         },
         {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Bill_English"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Білл_Інгліш"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Bill_English"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/比爾·英格利希"
         },
         {
           "note": "facebook",
@@ -1355,7 +1479,37 @@
       "name": "Bill English",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "بيل انجليش",
+          "note": "multilingual"
+        },
+        {
+          "lang": "azb",
+          "name": "بیل اینقلیش",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "বিল ইংলিশ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
           "name": "Bill English",
           "note": "multilingual"
         },
@@ -1365,7 +1519,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "de-ch",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Bill English",
           "note": "multilingual"
         },
@@ -1375,12 +1544,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "fa",
+          "name": "بیل اینگلیش",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Bill English",
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "ביל אינגליש",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Բիլ Ինգլիշ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Bill English",
           "note": "multilingual"
         },
@@ -1390,7 +1589,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "ko",
+          "name": "빌 잉글리시",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Gulielmus English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mi",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "बिल इंग्लिश",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
           "name": "Bill English",
           "note": "multilingual"
         },
@@ -1400,13 +1634,58 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Билл Инглиш",
+          "note": "multilingual"
+        },
+        {
           "lang": "sco",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
           "name": "Bill English",
           "note": "multilingual"
         },
         {
           "lang": "tr",
           "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Білл Інгліш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "比爾·英格利希",
           "note": "multilingual"
         },
         {
@@ -2706,6 +2985,10 @@
           "url": "https://ca.wikipedia.org/wiki/Chris_Finlayson"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Chris_Finlayson"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Chris_Finlayson"
         },
@@ -3674,6 +3957,11 @@
         },
         {
           "lang": "it",
+          "name": "Darroch Ball",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Darroch Ball",
           "note": "multilingual"
         }
@@ -7703,7 +7991,7 @@
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/James_Shaw"
+          "url": "https://fr.wikipedia.org/wiki/James_Shaw_(homme_politique)"
         },
         {
           "note": "Wikipedia (zh)",
@@ -7732,6 +8020,11 @@
         },
         {
           "lang": "fr",
+          "name": "James Shaw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "James Shaw",
           "note": "multilingual"
         },
@@ -8041,6 +8334,9 @@
       "images": [
         {
           "url": "https://www.parliament.nz/media/2216/salesa-jenny.C25Xcw.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jenny_Salesa.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/446929052733952000/ie93rLIS.jpeg"
@@ -8548,6 +8844,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "nb98023998",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "68422109",
           "scheme": "viaf"
         },
@@ -8894,8 +9194,16 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0000 4853 5443",
+          "scheme": "isni"
+        },
+        {
           "identifier": "no2007123911",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "53784101",
+          "scheme": "nla"
         },
         {
           "identifier": "947/000178413",
@@ -8920,7 +9228,7 @@
           "url": "https://www.parliament.nz/media/2003/key-john.C2pLGA.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/John_Key_headshot.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/John_Key_February_2015.jpg"
         }
       ],
       "links": [
@@ -9130,7 +9438,7 @@
         },
         {
           "note": "Wikipedia (ta)",
-          "url": "https://ta.wikipedia.org/wiki/ஜோன்_கீ"
+          "url": "https://ta.wikipedia.org/wiki/ஜான்_கீ"
         },
         {
           "note": "Wikipedia (th)",
@@ -9142,7 +9450,7 @@
         },
         {
           "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Джон_Кей"
+          "url": "https://uk.wikipedia.org/wiki/Джон_Кі"
         },
         {
           "note": "Wikipedia (uz)",
@@ -9226,6 +9534,11 @@
         },
         {
           "lang": "en",
+          "name": "John Key",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
           "name": "John Key",
           "note": "multilingual"
         },
@@ -9385,6 +9698,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt-br",
+          "name": "John Key",
+          "note": "multilingual"
+        },
+        {
           "lang": "qu",
           "name": "John Key",
           "note": "multilingual"
@@ -9426,7 +9744,7 @@
         },
         {
           "lang": "ta",
-          "name": "ஜோன் கீ",
+          "name": "ஜான் கீ",
           "note": "multilingual"
         },
         {
@@ -9534,6 +9852,10 @@
           "url": "https://sco.wikipedia.org/wiki/Jonathan_Coleman"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/乔纳森·科尔曼"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/jonathan.coleman.56"
         },
@@ -9591,6 +9913,11 @@
         {
           "lang": "sco",
           "name": "Jonathan Coleman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "乔纳森·科尔曼",
           "note": "multilingual"
         }
       ],
@@ -9775,6 +10102,10 @@
           "url": "https://sco.wikipedia.org/wiki/Judith_Collins"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/朱迪思·科林斯"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/judithcollinsmp"
         },
@@ -9821,8 +10152,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Коллинз, Джудит",
+          "note": "multilingual"
+        },
+        {
           "lang": "sco",
           "name": "Judith Collins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "朱迪思·科林斯",
           "note": "multilingual"
         }
       ],
@@ -10102,7 +10443,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Kanwal_Singh_Bakshi"
+          "url": "https://en.wikipedia.org/wiki/Kanwaljit_Singh_Bakshi"
         },
         {
           "note": "facebook",
@@ -10746,6 +11087,10 @@
         {
           "identifier": "51MP3091",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nm0264389",
+          "scheme": "imdb"
         },
         {
           "identifier": "Q6437165",
@@ -12008,6 +12353,11 @@
           "lang": "en",
           "name": "Marama Davidson",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marama Davidson",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Davidson, Marama"
@@ -12613,6 +12963,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Maryan_Street"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Maryan_Street"
         },
@@ -12793,6 +13147,11 @@
         },
         {
           "lang": "it",
+          "name": "Maureen Pugh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Maureen Pugh",
           "note": "multilingual"
         }
@@ -14103,7 +14462,7 @@
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Nick_Smith_(neuseeländischer_Politiker)"
+          "url": "https://de.wikipedia.org/wiki/Nick_Smith_(Politiker,_1964)"
         },
         {
           "note": "Wikipedia (en)",
@@ -15088,6 +15447,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Paul_Swain_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Paul_Swain_(cropped).jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -15480,6 +15845,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "212647",
+          "scheme": "nlg"
+        },
+        {
           "identifier": "069380368",
           "scheme": "nta"
         },
@@ -15575,6 +15944,10 @@
         {
           "identifier": "/m/0237q8",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "no2005035442",
+          "scheme": "lcauth"
         },
         {
           "identifier": "26794239",
@@ -16430,6 +16803,11 @@
           "lang": "en",
           "name": "Ria Bond",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ria Bond",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Bond, Ria"
@@ -16831,6 +17209,10 @@
         {
           "identifier": "1678583",
           "scheme": "fast"
+        },
+        {
+          "identifier": "no2007071212",
+          "scheme": "lcauth"
         },
         {
           "identifier": "53929304",
@@ -17614,6 +17996,11 @@
           "lang": "en",
           "name": "Sarah Dowie",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sarah Dowie",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Dowie, Sarah"
@@ -17889,7 +18276,102 @@
           "note": "alternate"
         },
         {
+          "lang": "af",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "as",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ay",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "dsb",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eml",
           "name": "Shane Reti",
           "note": "multilingual"
         },
@@ -17899,12 +18381,342 @@
           "note": "multilingual"
         },
         {
+          "lang": "en-ca",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Shane Reti",
           "note": "multilingual"
         },
         {
+          "lang": "frp",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hsb",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ht",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jv",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "su",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Shane Reti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
           "name": "Shane Reti",
           "note": "multilingual"
         }
@@ -18283,6 +19095,11 @@
         {
           "lang": "fr",
           "name": "Steve Chadwick",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סטפני צ'דוויק",
           "note": "multilingual"
         },
         {
@@ -19010,6 +19827,10 @@
         {
           "identifier": "/m/02y3jj",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "n2003128935",
+          "scheme": "lcauth"
         },
         {
           "identifier": "14153216",
@@ -20688,7 +21509,131 @@
     {
       "classification": "party",
       "id": "party/act_party",
-      "name": "Act Party"
+      "identifiers": [
+        {
+          "identifier": "Q288838",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.act.org.nz/"
+        }
+      ],
+      "name": "Act Party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "ACT New Zealand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "ACT New Zealand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "紐西蘭行動黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "ACT Nova Zelanda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "ACT New Zealand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "뉴질랜드 행동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "ACT Nuova Zelanda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "ACT New Zealand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "ACT New Zealand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ACTニュージーランド",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "ACT Nueva Zelanda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "ACT New Zealand Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "ACT Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Association of Consumers and Taxpayers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Act New Zealand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "ACT New Zealand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "ACT Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit ACT",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Act Nova Zelanda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Act",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Assosciació de Consumidors i Pagadors d'Impostos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Association of Consumers and Taxpayers",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -20780,6 +21725,11 @@
         {
           "lang": "ru",
           "name": "Зелёная партия Аотеароа - Новой Зеландии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Zelena stranka Aotearoe Novog Zelanda",
           "note": "multilingual"
         },
         {
@@ -20952,6 +21902,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sh",
+          "name": "Zelena stranka Aotearoe Novog Zelanda",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Values Party",
           "note": "multilingual"
@@ -21118,6 +22073,11 @@
         {
           "lang": "ru",
           "name": "Зелёная партия Аотеароа - Новой Зеландии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Zelena stranka Aotearoe Novog Zelanda",
           "note": "multilingual"
         },
         {
@@ -21514,6 +22474,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mk",
+          "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -21817,6 +22782,11 @@
           "lang": "sr",
           "name": "ванстраначки политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -21913,7 +22883,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/New_Zealand_Labour_logo_2011.svg",
       "links": [
         {
           "note": "website",
@@ -22058,6 +23027,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sh",
+          "name": "Laburistička stranka Novog Zelanda",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "纽西兰劳工党",
           "note": "multilingual"
@@ -22138,7 +23112,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/New_Zealand_Labour_logo_2011.svg",
       "links": [
         {
           "note": "website",
@@ -22280,6 +23253,11 @@
         {
           "lang": "pt",
           "name": "Partido Trabalhista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Laburistička stranka Novog Zelanda",
           "note": "multilingual"
         },
         {
@@ -22962,6 +23940,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Նոր Զելանդիայի ազգային կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Nacionalna stranka Novog Zelanda",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "National Party of New Zealand",
           "note": "multilingual"
@@ -23126,6 +24114,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Նոր Զելանդիայի ազգային կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Nacionalna stranka Novog Zelanda",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "National Party of New Zealand",
           "note": "multilingual"
@@ -23240,7 +24238,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/New_Zealand_Labour_logo_2011.svg",
       "links": [
         {
           "note": "website",
@@ -23382,6 +24379,11 @@
         {
           "lang": "pt",
           "name": "Partido Trabalhista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Laburistička stranka Novog Zelanda",
           "note": "multilingual"
         },
         {
@@ -23611,6 +24613,16 @@
         {
           "lang": "ro",
           "name": "Partidul Național din Noua Zeelandă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նոր Զելանդիայի ազգային կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Nacionalna stranka Novog Zelanda",
           "note": "multilingual"
         },
         {
