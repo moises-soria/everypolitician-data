@@ -12547,12 +12547,18 @@
       "name": "KANDA Kenji"
     },
     {
+      "birth_date": "1949-10-04",
       "gender": "male",
+      "given_name": "Katsutoshi",
       "id": "66df2a96-7a52-4042-bb02-63cb5a1add33",
       "identifiers": [
         {
           "identifier": "kaneda_katsutoshi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11647681",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/134.jpg/$File/134.jpg",
@@ -12561,7 +12567,75 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/134.jpg/$File/134.jpg"
         }
       ],
-      "name": "KANEDA Katsutoshi"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Katsutoshi_Kaneda"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/金田勝年"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/가네다_가쓰토시"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/金田勝年"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/kaneda.katsutoshi"
+        }
+      ],
+      "name": "KANEDA Katsutoshi",
+      "other_names": [
+        {
+          "name": "Katsutoshi Kaneda",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Katsutoshi Kaneda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Katsutoshi Kaneda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Katsutoshi Kaneda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "金田勝年",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "かねだ かつとし",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "가네다 가쓰토시",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Канэда, Кацутоси",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金田勝年",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -32407,6 +32481,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Takashi_Tanihata"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Takashi_Tanihata"
         },
@@ -37324,6 +37402,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mk",
+          "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -37626,6 +37709,11 @@
         {
           "lang": "sr",
           "name": "ванстраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
           "note": "multilingual"
         }
       ]
