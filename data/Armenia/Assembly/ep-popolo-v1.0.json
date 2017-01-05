@@ -1372,6 +1372,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Artashes_Geghamyan"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Artashes_Geghamyan"
         },
@@ -1948,6 +1952,10 @@
         {
           "identifier": "1096",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20511000",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1096",
@@ -1956,11 +1964,36 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1096"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Էլինար_Վարդանյան"
+        }
+      ],
       "name": "Elinar Vardanyan",
       "other_names": [
         {
+          "name": "Էլինար Վարդանյան",
+          "note": "alternate"
+        },
+        {
           "lang": "am",
           "name": "Էլինար Սուրիկի Վարդանյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alderman Vardanyan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Էլինար Վարդանյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alderman Vardanyan",
           "note": "multilingual"
         },
         {
@@ -3629,17 +3662,38 @@
       "birth_date": "1980-04-28",
       "gender": "male",
       "id": "50004c2f-c6dd-4db2-aeb3-ad054090b61d",
+      "identifiers": [
+        {
+          "identifier": "Q24037095",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1153",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1153"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Կարեն_Շահմուրադյան"
+        }
+      ],
       "name": "Karen Shakhmuradyan",
       "other_names": [
         {
+          "name": "Կարեն Շահմուրադյան",
+          "note": "alternate"
+        },
+        {
           "lang": "am",
           "name": "Կարեն Ռաֆաելի Շախմուրադյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Կարեն Շահմուրադյան",
           "note": "multilingual"
         },
         {
@@ -6188,6 +6242,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Stepan_Demirchyan"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Stepan_Demirchyan"
         },
         {
           "note": "Wikipedia (fr)",
@@ -10736,7 +10794,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2017",
+      "end_date": "2017-04-02",
       "id": "Q16823577",
       "identifiers": [
         {
@@ -10745,7 +10803,7 @@
         }
       ],
       "name": "Armenian parliamentary election, 2017",
-      "start_date": "2017"
+      "start_date": "2017-04-02"
     }
   ],
   "areas": [
