@@ -4,10 +4,15 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "struan/japan",
+        "scraper": "everypolitician-scrapers/japan",
         "query": "SELECT * FROM data ORDER BY name"
       },
-      "source": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm",
+      "source": "http://www.shugiin.go.jp",
+      "type": "membership"
+    },
+    {
+      "file": "manual/official-vanished.csv",
+      "source": "http://www.shugiin.go.jp",
       "type": "membership"
     },
     {
