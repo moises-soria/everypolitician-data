@@ -73,11 +73,18 @@
       ]
     },
     {
+      "birth_date": "1950",
+      "gender": "male",
+      "given_name": "Adnan",
       "id": "8c21f999-b584-434e-9943-44d433fc95d8",
       "identifiers": [
         {
           "identifier": "1895",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4683924",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.kna.kw/newsimages2/adnan_sayyed_=_=_adnan%20abdul%20samad.jpg",
@@ -86,11 +93,55 @@
           "url": "http://www.kna.kw/newsimages2/adnan_sayyed_=_=_adnan%20abdul%20samad.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/عدنان_عبد_الصمد"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Adnan_Zahid_Abdulsamad"
+        }
+      ],
       "name": "Adnan AbdulSamad",
       "other_names": [
         {
+          "name": "عدنان عبد الصمد",
+          "note": "alternate"
+        },
+        {
           "lang": "ar",
           "name": "عدنان سيد عبد الصمد أحمد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "عدنان عبد الصمد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Adnan Zahid Abdulsamad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Adnan Zahid Abdulsamad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Adnan Zahid Abdulsamad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Adnan Zahid Abdulsamad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Adnan Zahid Abdulsamad",
           "note": "multilingual"
         }
       ]
@@ -952,11 +1003,34 @@
       ]
     },
     {
+      "birth_date": "1949",
+      "death_date": "2015-12-22",
+      "gender": "male",
       "id": "599eef29-1889-41bf-bf6e-d89849a13c55",
       "identifiers": [
         {
+          "identifier": "000900019",
+          "scheme": "egaxa"
+        },
+        {
           "identifier": "1942",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 8195 325X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n88248465",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "6499284",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12247922",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.kna.kw/images/member_14_/alfadel.jpg",
@@ -965,11 +1039,60 @@
           "url": "http://www.kna.kw/images/member_14_/alfadel.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نبيل_الفضل"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nabil_Al_Fadl"
+        }
+      ],
       "name": "Nabeel Al Fadel",
       "other_names": [
         {
+          "name": "نبيل الفضل",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نبيل الفضل",
+          "note": "multilingual"
+        },
+        {
           "lang": "ar",
           "name": "نبيل نوري الفضل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nabil Al Fadl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nabil Al Fadl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nabil Al Fadl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Nabil Al Fadl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nabil Al Fadl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Набиль аль-Фадль",
           "note": "multilingual"
         }
       ]
@@ -1614,6 +1737,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mk",
+          "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -1916,6 +2044,11 @@
         {
           "lang": "sr",
           "name": "ванстраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
           "note": "multilingual"
         }
       ]
