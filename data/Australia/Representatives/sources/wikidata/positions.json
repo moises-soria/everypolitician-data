@@ -8285,7 +8285,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Maribyrnong",
+        "P580": "2007-12-03",
+        "P1365": "Bob Sercombe"
+      }
     }
   ],
   "Q5230005": [
