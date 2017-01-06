@@ -53,6 +53,14 @@
       "description": "member of the lower house of the Russian parliament"
     }
   ],
+  "Q15714548": [
+    {
+      "id": "Q17276321",
+      "label": "member of the State Duma",
+      "title": "member of the State Duma",
+      "description": "member of the lower house of the Russian parliament"
+    }
+  ],
   "Q182452": [
     {
       "id": "Q17276321",
@@ -180,6 +188,15 @@
       "label": "member of the State Duma",
       "title": "member of the State Duma",
       "description": "member of the lower house of the Russian parliament"
+    },
+    {
+      "id": "Q4376663",
+      "label": "Chairman of the State Duma",
+      "title": "Chairman of the State Duma",
+      "description": "presiding officer of the lower house of the Russian parliament",
+      "qualifiers": {
+        "P580": "2016-12-05"
+      }
     }
   ],
   "Q4368820": [
@@ -416,6 +433,14 @@
       "description": "member of the lower house of the Russian parliament"
     }
   ],
+  "Q4236030": [
+    {
+      "id": "Q19399742",
+      "label": "member of the Federation Council of Russia",
+      "title": "member of the Federation Council of Russia",
+      "description": "member of the upper house of the Federal Assembly of Russia"
+    }
+  ],
   "Q4299728": [
     {
       "id": "Q17276321",
@@ -557,6 +582,14 @@
     }
   ],
   "Q15072844": [
+    {
+      "id": "Q17276321",
+      "label": "member of the State Duma",
+      "title": "member of the State Duma",
+      "description": "member of the lower house of the Russian parliament"
+    }
+  ],
+  "Q4104665": [
     {
       "id": "Q17276321",
       "label": "member of the State Duma",
@@ -948,6 +981,14 @@
       "description": "member of the lower house of the Russian parliament"
     }
   ],
+  "Q553302": [
+    {
+      "id": "Q19399742",
+      "label": "member of the Federation Council of Russia",
+      "title": "member of the Federation Council of Russia",
+      "description": "member of the upper house of the Federal Assembly of Russia"
+    }
+  ],
   "Q4321122": [
     {
       "id": "Q17276321",
@@ -981,6 +1022,14 @@
     }
   ],
   "Q15064315": [
+    {
+      "id": "Q17276321",
+      "label": "member of the State Duma",
+      "title": "member of the State Duma",
+      "description": "member of the lower house of the Russian parliament"
+    }
+  ],
+  "Q18405293": [
     {
       "id": "Q17276321",
       "label": "member of the State Duma",
@@ -1345,6 +1394,14 @@
       "description": "member of the upper house of the Federal Assembly of Russia"
     }
   ],
+  "Q4424776": [
+    {
+      "id": "Q19399742",
+      "label": "member of the Federation Council of Russia",
+      "title": "member of the Federation Council of Russia",
+      "description": "member of the upper house of the Federal Assembly of Russia"
+    }
+  ],
   "Q4064792": [
     {
       "id": "Q17276321",
@@ -1481,6 +1538,7 @@
       "id": "Q4488944",
       "label": "Kremlin Chief of Staff",
       "title": "Kremlin Chief of Staff",
+      "description": "Wikimedia list article",
       "qualifiers": {
         "P580": "2008-05-12",
         "P582": "2011-12-20",
@@ -1661,12 +1719,28 @@
       "description": "member of the lower house of the Russian parliament"
     }
   ],
+  "Q1517429": [
+    {
+      "id": "Q17276321",
+      "label": "member of the State Duma",
+      "title": "member of the State Duma",
+      "description": "member of the lower house of the Russian parliament"
+    }
+  ],
   "Q4403533": [
     {
       "id": "Q17276321",
       "label": "member of the State Duma",
       "title": "member of the State Duma",
       "description": "member of the lower house of the Russian parliament"
+    }
+  ],
+  "Q27758432": [
+    {
+      "id": "Q486839",
+      "label": "member of parliament",
+      "title": "member of parliament",
+      "description": "representative of the voters to a parliament"
     }
   ],
   "Q4179057": [
@@ -2026,6 +2100,14 @@
       "description": "member of the lower house of the Russian parliament"
     }
   ],
+  "Q4527170": [
+    {
+      "id": "Q19399742",
+      "label": "member of the Federation Council of Russia",
+      "title": "member of the Federation Council of Russia",
+      "description": "member of the upper house of the Federal Assembly of Russia"
+    }
+  ],
   "Q4167730": [
     {
       "id": "Q17276321",
@@ -2083,6 +2165,14 @@
     }
   ],
   "Q4085247": [
+    {
+      "id": "Q17276321",
+      "label": "member of the State Duma",
+      "title": "member of the State Duma",
+      "description": "member of the lower house of the Russian parliament"
+    }
+  ],
+  "Q4506723": [
     {
       "id": "Q17276321",
       "label": "member of the State Duma",
@@ -2182,6 +2272,14 @@
       "label": "member of the State Duma",
       "title": "member of the State Duma",
       "description": "member of the lower house of the Russian parliament"
+    }
+  ],
+  "Q4408077": [
+    {
+      "id": "Q4147440",
+      "label": "mayor of Perm",
+      "title": "mayor of Perm",
+      "description": "head of municipal government in Perm, Russia"
     }
   ],
   "Q4402418": [
@@ -2285,7 +2383,24 @@
       "id": "Q17276321",
       "label": "member of the State Duma",
       "title": "member of the State Duma",
-      "description": "member of the lower house of the Russian parliament"
+      "description": "member of the lower house of the Russian parliament",
+      "qualifiers": {
+        "P580": "1999",
+        "P582": "2007",
+        "P768": "Novosibirsk Oblast",
+        "P94": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Emblem_gosduma.svg"
+      }
+    },
+    {
+      "id": "Q17276321",
+      "label": "member of the State Duma",
+      "title": "member of the State Duma",
+      "description": "member of the lower house of the Russian parliament",
+      "qualifiers": {
+        "P580": "2007",
+        "P768": "Stavropol Krai",
+        "P94": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Emblem_gosduma.svg"
+      }
     }
   ],
   "Q822805": [
