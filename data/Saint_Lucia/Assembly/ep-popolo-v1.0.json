@@ -4,14 +4,165 @@
   ],
   "persons": [
     {
+      "gender": "male",
+      "given_name": "Allen",
       "id": "a6167883-c2a9-433f-a686-626b1da3ccc8",
+      "identifiers": [
+        {
+          "identifier": "Q16203640",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Allen_Chastanet_2016.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Allen_Chastanet_2016.jpg"
+        }
+      ],
       "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Άλεν_Τσάστνετ"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Allen_Michael_Chastanet"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Allen_Chastanet"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/艾倫·切斯特尼"
         }
       ],
-      "name": "Allen Chastanet"
+      "name": "Allen Chastanet",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Άλεν Τσάστνετ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アレン・チャスタネット",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Allen Michael Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Allen Chastanet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "艾倫·切斯特尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "艾伦·切斯特尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "艾倫·切斯特尼",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -273,14 +424,33 @@
       ]
     },
     {
+      "gender": "male",
       "id": "19ea1e52-0beb-48da-8203-6dcba348739d",
+      "identifiers": [
+        {
+          "identifier": "Q24851870",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Dominic_Fedee"
         }
       ],
-      "name": "Dominic Fedee"
+      "name": "Dominic Fedee",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dominic Fedee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dominic Fedee",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968",
@@ -1590,14 +1760,45 @@
       ]
     },
     {
+      "birth_date": "1969-01-08",
+      "gender": "female",
+      "given_name": "Sarah",
       "id": "13a7a205-7300-435e-a54d-8fe2bb3720bb",
+      "identifiers": [
+        {
+          "identifier": "Q16201615",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sarah_Flood-Beaubrun"
         }
       ],
-      "name": "Sarah Flood-Beaubrun"
+      "name": "Sarah Flood-Beaubrun",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sarah Flood-Beaubrun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sarah Flood-Beaubrun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sarah Flood-Beaubrun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sarah Flood-Beaubrun",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c7641a41-b84c-401a-a7e5-78ccef916248",
