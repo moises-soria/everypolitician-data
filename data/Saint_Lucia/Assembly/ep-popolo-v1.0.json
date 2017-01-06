@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "a6167883-c2a9-433f-a686-626b1da3ccc8",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Allen_Chastanet"
+        }
+      ],
+      "name": "Allen Chastanet"
+    },
+    {
       "gender": "male",
       "given_name": "Alva",
       "id": "12616f17-a530-4e0b-8833-24e0f9307f41",
@@ -237,6 +247,10 @@
       ]
     },
     {
+      "id": "f0c13d51-3086-4b11-8ca5-96f330087a35",
+      "name": "Bradley Felix"
+    },
+    {
       "id": "c9778f3d-b290-4181-ade8-5ea4276be1bb",
       "identifiers": [
         {
@@ -257,6 +271,16 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "id": "19ea1e52-0beb-48da-8203-6dcba348739d",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dominic_Fedee"
+        }
+      ],
+      "name": "Dominic Fedee"
     },
     {
       "birth_date": "1968",
@@ -386,6 +410,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "eeffda6a-45a1-421a-9af7-cd64df14aec2",
+      "name": "Ernest Hilaire"
     },
     {
       "gender": "male",
@@ -666,6 +694,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "82468a41-e5ec-448b-9200-b97db8b91438",
+      "name": "Herold Stanislas"
     },
     {
       "gender": "female",
@@ -1023,6 +1055,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "4b50c692-7689-47ae-92ed-7b5e08734609",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lenard_Montoute"
+        }
+      ],
+      "name": "Lenard Montoute"
     },
     {
       "birth_date": "1962",
@@ -1546,6 +1588,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "13a7a205-7300-435e-a54d-8fe2bb3720bb",
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sarah_Flood-Beaubrun"
+        }
+      ],
+      "name": "Sarah Flood-Beaubrun"
     },
     {
       "id": "c7641a41-b84c-401a-a7e5-78ccef916248",
@@ -2578,6 +2630,19 @@
   "memberships": [
     {
       "area_id": "ocd-division/country:lc/constituency:micoud-north",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "0f20e992-3086-498a-8822-9b676fb2c284",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:micoud-north",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "UWP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
@@ -2604,7 +2669,7 @@
     },
     {
       "area_id": "ocd-division/country:lc/constituency:laborie",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/10",
       "on_behalf_of_id": "SLP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "12616f17-a530-4e0b-8833-24e0f9307f41",
@@ -2612,6 +2677,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:laborie",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "SLP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "12616f17-a530-4e0b-8833-24e0f9307f41",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2630,6 +2708,19 @@
     },
     {
       "area_id": "ocd-division/country:lc/constituency:castries-central",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "13a7a205-7300-435e-a54d-8fe2bb3720bb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:castries-central",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "UWP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
@@ -2637,7 +2728,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2655,6 +2746,19 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:lc/constituency:anse-la-raye-and-canaries",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "19ea1e52-0beb-48da-8203-6dcba348739d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:lc/constituency:dennery-north",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "UWP",
@@ -2663,7 +2767,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2676,7 +2780,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2702,6 +2806,19 @@
       "role": "member",
       "sources": [
         {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:castries-south-east",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "35cd64a2-cfcc-4738-b55a-f672bbd7a7ae",
+      "role": "member",
+      "sources": [
+        {
           "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
         }
       ]
@@ -2715,7 +2832,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2741,7 +2858,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2767,6 +2884,19 @@
       "role": "member",
       "sources": [
         {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:gros-islet",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "4b50c692-7689-47ae-92ed-7b5e08734609",
+      "role": "member",
+      "sources": [
+        {
           "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
         }
       ]
@@ -2780,7 +2910,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2812,7 +2942,7 @@
     },
     {
       "area_id": "ocd-division/country:lc/constituency:castries-north",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/10",
       "on_behalf_of_id": "UWP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "70863a98-11b0-4a68-99b1-8b078073d8f6",
@@ -2820,6 +2950,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:castries-north",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "70863a98-11b0-4a68-99b1-8b078073d8f6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2845,6 +2988,19 @@
       "role": "member",
       "sources": [
         {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:soufriere",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "82468a41-e5ec-448b-9200-b97db8b91438",
+      "role": "member",
+      "sources": [
+        {
           "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
         }
       ]
@@ -2858,7 +3014,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2876,8 +3032,21 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:lc/constituency:micoud-south",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "a6167883-c2a9-433f-a686-626b1da3ccc8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:lc/constituency:babonneau",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/10",
       "on_behalf_of_id": "UWP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "aaef6752-97de-456f-9aab-0df1254579ac",
@@ -2889,8 +3058,21 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:lc/constituency:castries-east",
+      "area_id": "ocd-division/country:lc/constituency:babonneau",
       "legislative_period_id": "term/8",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "aaef6752-97de-456f-9aab-0df1254579ac",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:castries-east",
+      "legislative_period_id": "term/10",
       "on_behalf_of_id": "SLP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "b41d4508-05c6-4dfd-aa74-d9be66b78193",
@@ -2903,10 +3085,36 @@
     },
     {
       "area_id": "ocd-division/country:lc/constituency:castries-east",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "SLP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "b41d4508-05c6-4dfd-aa74-d9be66b78193",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:castries-east",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "SLP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "b41d4508-05c6-4dfd-aa74-d9be66b78193",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:dennery-north",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "SLP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "c7641a41-b84c-401a-a7e5-78ccef916248",
       "role": "member",
       "sources": [
         {
@@ -2942,7 +3150,7 @@
     },
     {
       "area_id": "ocd-division/country:lc/constituency:vieux-fort-south",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/10",
       "on_behalf_of_id": "SLP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "dffb337e-3830-41f8-ae34-bdfee0212bd8",
@@ -2950,6 +3158,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:vieux-fort-south",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "SLP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "dffb337e-3830-41f8-ae34-bdfee0212bd8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2968,7 +3189,7 @@
     },
     {
       "area_id": "ocd-division/country:lc/constituency:vieux-fort-north",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/10",
       "on_behalf_of_id": "SLP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "ec2beedf-1cfe-40e1-bcdd-0b6cab088645",
@@ -2976,6 +3197,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:vieux-fort-north",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "SLP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "ec2beedf-1cfe-40e1-bcdd-0b6cab088645",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
         }
       ]
     },
@@ -2993,8 +3227,21 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:lc/constituency:castries-south",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "SLP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "eeffda6a-45a1-421a-9af7-cd64df14aec2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:lc/constituency:dennery-south",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/10",
       "on_behalf_of_id": "UWP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "f00d2be7-f8f9-4c9c-bc79-41c9d9f102a1",
@@ -3007,10 +3254,36 @@
     },
     {
       "area_id": "ocd-division/country:lc/constituency:dennery-south",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "f00d2be7-f8f9-4c9c-bc79-41c9d9f102a1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=House_of_Assembly_of_Saint_Lucia&oldid=705345669"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:dennery-south",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "UWP",
       "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "person_id": "f00d2be7-f8f9-4c9c-bc79-41c9d9f102a1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Assembly_of_Saint_Lucia"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:lc/constituency:choiseul",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "UWP",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
+      "person_id": "f0c13d51-3086-4b11-8ca5-96f330087a35",
       "role": "member",
       "sources": [
         {
@@ -3268,6 +3541,13 @@
         }
       ],
       "name": "Saint Lucian general election, 2016",
+      "start_date": "2016-06-06"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/10",
+      "name": "10th Parliament",
+      "organization_id": "71f00d4b-5a10-4759-b679-57a45609bac5",
       "start_date": "2016-06-06"
     }
   ],
