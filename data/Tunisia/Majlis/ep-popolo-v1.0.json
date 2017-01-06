@@ -981,12 +981,17 @@
       "name": "Ammar Amroussia"
     },
     {
+      "birth_date": "1963",
       "gender": "female",
       "id": "c5193da3-50c1-4d37-8216-7547bcb2b2d1",
       "identifiers": [
         {
           "identifier": "153",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28055867",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Aroua_Ben%20Abbas.png",
@@ -995,7 +1000,34 @@
           "url": "http://majles.marsad.tn/2014/uploads/images/Aroua_Ben%20Abbas.png"
         }
       ],
-      "name": "Aroua Ben Abbas"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أروى_بن_عباس"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aroua_Ben_Abbas"
+        }
+      ],
+      "name": "Aroua Ben Abbas",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أروى بن عباس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Aroua Ben Abbas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aroua Ben Abbas",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -1032,12 +1064,17 @@
       "name": "Aymen Aloui"
     },
     {
+      "birth_date": "1959-07-07",
       "gender": "male",
       "id": "d393a287-f9c2-4f8e-b498-f9d102b55205",
       "identifiers": [
         {
           "identifier": "200",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28055870",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Badreddine_Abdelkefi.png",
@@ -1046,7 +1083,34 @@
           "url": "http://majles.marsad.tn/2014/uploads/images/Badreddine_Abdelkefi.png"
         }
       ],
-      "name": "Badreddine Abdelkefi"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بدر_الدين_عبد_الكافي"
+        }
+      ],
+      "name": "Badreddine Abdelkefi",
+      "other_names": [
+        {
+          "name": "Badreddine Abdelkafi",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "بدر الدين عبد الكافي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Badreddine Abdelkafi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Badreddine Abdelkafi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -2071,6 +2135,11 @@
           "lang": "fr",
           "name": "Houcine Jaziri",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Houcine Jaziri",
+          "note": "multilingual"
         }
       ]
     },
@@ -2408,7 +2477,14 @@
     },
     {
       "birth_date": "1977-09-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "iyeddahmani"
+        }
+      ],
       "gender": "male",
+      "given_name": "Ayad",
       "id": "df0bc02d-f7ed-4671-8f32-5ac3103b9121",
       "identifiers": [
         {
@@ -2441,6 +2517,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Iyed_Dahmani"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/iyeddahmani"
         }
       ],
       "name": "Iyad Dahmani",
@@ -2461,6 +2541,11 @@
         },
         {
           "lang": "fr",
+          "name": "Iyed Dahmani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Iyed Dahmani",
           "note": "multilingual"
         }
@@ -2625,15 +2710,52 @@
       "name": "Karim Helali"
     },
     {
+      "birth_date": "1982",
       "gender": "female",
       "id": "51f25ba6-cb43-4cf1-bf1a-fe2b4ef2fcd7",
+      "identifiers": [
+        {
+          "identifier": "Q28045699",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://majles.marsad.tn/2014/uploads/images/photo_1.png",
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/photo_1.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Karima_Taggaz.jpg"
         }
       ],
-      "name": "Karima Taggaz"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كريمة_التقاز"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Karima_Taggaz"
+        }
+      ],
+      "name": "Karima Taggaz",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "كريمة التقاز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Karima Taggaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Karima Taggaz",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2642,6 +2764,10 @@
         {
           "identifier": "177",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27758476",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Khaled_Chouket.png",
@@ -2650,7 +2776,25 @@
           "url": "http://majles.marsad.tn/2014/uploads/images/Khaled_Chouket.png"
         }
       ],
-      "name": "Khaled Chouket"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Khaled_Chouket"
+        }
+      ],
+      "name": "Khaled Chouket",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Khaled Chouket",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Khaled Chouket",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1988-05-19",
@@ -2670,18 +2814,21 @@
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/Khaoula_Ben%20Aicha.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/O7B1769.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Khaoula_Ben_Aicha"
+          "url": "https://fr.wikipedia.org/wiki/Khaoula_Ben_Aïcha"
         }
       ],
       "name": "Khawla Ben Aicha",
       "other_names": [
         {
-          "name": "Khaoula Ben Aicha",
+          "name": "Khaoula Ben Aïcha",
           "note": "alternate"
         },
         {
@@ -2696,7 +2843,7 @@
         },
         {
           "lang": "fr",
-          "name": "Khaoula Ben Aicha",
+          "name": "Khaoula Ben Aïcha",
           "note": "multilingual"
         },
         {
@@ -3664,6 +3811,11 @@
           "lang": "fr",
           "name": "Mohamed Frikha",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohamed Frikha",
+          "note": "multilingual"
         }
       ]
     },
@@ -4010,6 +4162,11 @@
         },
         {
           "lang": "it",
+          "name": "Moncef Sellami",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Moncef Sellami",
           "note": "multilingual"
         }
@@ -4360,6 +4517,11 @@
         },
         {
           "lang": "fr",
+          "name": "Naoufel Jammali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Naoufel Jammali",
           "note": "multilingual"
         }
@@ -4907,6 +5069,11 @@
           "lang": "fr",
           "name": "Ridha Charfeddine",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ridha Charfeddine",
+          "note": "multilingual"
         }
       ]
     },
@@ -5065,12 +5232,22 @@
       "name": "Sabrine Goubantini",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Sabrine Goubantini",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Sabrine Goubantini",
           "note": "multilingual"
         },
         {
           "lang": "it",
+          "name": "Sabrine Goubantini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Sabrine Goubantini",
           "note": "multilingual"
         }
@@ -5706,6 +5883,11 @@
           "lang": "fr",
           "name": "Souhail Alouini",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Souhail Alouini",
+          "note": "multilingual"
         }
       ]
     },
@@ -6120,6 +6302,11 @@
         },
         {
           "lang": "it",
+          "name": "Zied Ladhari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Zied Ladhari",
           "note": "multilingual"
         }
