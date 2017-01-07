@@ -4,7 +4,7 @@
       "file": "morph/official-LXII.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/mexico-diputados",
+        "scraper": "everypolitician-scrapers/mexico-diputados",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://sitl.diputados.gob.mx/LXII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
