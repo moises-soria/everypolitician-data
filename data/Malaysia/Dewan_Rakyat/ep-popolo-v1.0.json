@@ -6141,14 +6141,63 @@
       "name": "Ali Ahmad"
     },
     {
+      "birth_date": "1939",
+      "death_date": "2014-03-10",
+      "gender": "male",
       "id": "1407cb2a-5324-4048-bed4-60128d0d3002",
       "identifiers": [
         {
           "identifier": "alias_md._ali",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16198914",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Alias Md. Ali"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alias_Ali"
+        }
+      ],
+      "name": "Alias Md. Ali",
+      "other_names": [
+        {
+          "name": "Alias Ali",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "Alias Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alias Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alias Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alias Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alias Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alias Ali",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1981",
@@ -14241,11 +14290,17 @@
       "name": "Hashim Jahaya"
     },
     {
+      "birth_date": "1939-08-01",
+      "gender": "male",
       "id": "8c86f737-1ca8-4e05-8a1f-881ee3ba6d3d",
       "identifiers": [
         {
           "identifier": "hashim_jasin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6840382",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -14254,11 +14309,36 @@
           "url": "https://en.wikipedia.org/wiki/Hashim_Jasin"
         },
         {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Hashim_Jasin"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/哈欣雅欣"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Hashim_Jasin"
         }
       ],
-      "name": "Hashim Jasin"
+      "name": "Hashim Jasin",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hashim Jasin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Hashim Jasin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哈欣雅欣",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "3203025b-8bf3-4865-900f-b72142c89e63",
