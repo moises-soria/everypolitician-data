@@ -2,11 +2,6 @@
   "sources": [
     {
       "file": "morph/official-2012.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/belize-national-assembly",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
       "source": "http://nationalassembly.gov.bz/",
       "type": "membership"
     },
