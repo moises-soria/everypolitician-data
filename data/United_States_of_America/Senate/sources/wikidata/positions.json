@@ -150,6 +150,14 @@
       "title": "member of the State Senate of Idaho"
     }
   ],
+  "Q10853588": [
+    {
+      "id": "Q3406489",
+      "label": "California Attorney General",
+      "title": "California Attorney General",
+      "description": "Attorney General of California, United States"
+    }
+  ],
   "Q614868": [
     {
       "id": "Q13217683",
@@ -1272,6 +1280,22 @@
       }
     }
   ],
+  "Q24053": [
+    {
+      "id": "Q19264592",
+      "label": "member of the State Senate of New Hampshire",
+      "title": "member of the State Senate of New Hampshire"
+    },
+    {
+      "id": "Q5589687",
+      "label": "Governor of New Hampshire",
+      "title": "Governor of New Hampshire",
+      "qualifiers": {
+        "P580": "2013-01-03",
+        "P582": "2017-01-02"
+      }
+    }
+  ],
   "Q319129": [
     {
       "id": "Q13217683",
@@ -1343,6 +1367,14 @@
         "P1365": "Tom Gallagher",
         "P1366": "Tom Gallagher"
       }
+    }
+  ],
+  "Q3036410": [
+    {
+      "id": "Q13218630",
+      "label": "United States representative",
+      "title": "United States representative",
+      "description": "elected representative in the US"
     }
   ],
   "Q553349": [
@@ -2879,7 +2911,10 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2011-01-03"
+      }
     },
     {
       "id": "Q3773741",
@@ -3222,6 +3257,14 @@
         "P1365": "Ransome Judson Williams",
         "P1366": "James F. Byrnes"
       }
+    }
+  ],
+  "Q25483": [
+    {
+      "id": "Q13218630",
+      "label": "United States representative",
+      "title": "United States representative",
+      "description": "elected representative in the US"
     }
   ],
   "Q13475242": [
@@ -3986,6 +4029,14 @@
         "P580": "1998-07-01",
         "P582": "2001-09-10"
       }
+    }
+  ],
+  "Q1077819": [
+    {
+      "id": "Q13218630",
+      "label": "United States representative",
+      "title": "United States representative",
+      "description": "elected representative in the US"
     }
   ],
   "Q289396": [
