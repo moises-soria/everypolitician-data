@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-2015.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/belize-national-assembly",
+        "query": "SELECT *, 2015 AS term FROM data ORDER BY name"
+      },
+      "source": "http://nationalassembly.gov.bz/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-2015.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
@@ -20,6 +35,7 @@
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
+
     {
       "file": "manual/terms.csv",
       "type": "term"
