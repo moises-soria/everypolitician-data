@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official-2012.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/belize-national-assembly",
