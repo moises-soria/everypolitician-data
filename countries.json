@@ -1085,12 +1085,20 @@
         "slug": "Representatives",
         "sources_directory": "data/Belize/Representatives/sources",
         "popolo": "data/Belize/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/945ad1d20e64da9b2881ace1042718f7270cc4f0/data/Belize/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9f4f60c2c9ee6be008f46e1d645c2c1973312ad1/data/Belize/Representatives/ep-popolo-v1.0.json",
         "names": "data/Belize/Representatives/names.csv",
-        "lastmod": "1483883209",
-        "person_count": 27,
-        "sha": "945ad1d20e64da9b2881ace1042718f7270cc4f0",
+        "lastmod": "1483883705",
+        "person_count": 40,
+        "sha": "9f4f60c2c9ee6be008f46e1d645c2c1973312ad1",
         "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015-11-05",
+            "slug": "2015",
+            "csv": "data/Belize/Representatives/term-2015.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9f4f60c2c9ee6be008f46e1d645c2c1973312ad1/data/Belize/Representatives/term-2015.csv"
+          },
           {
             "end_date": "2015-11-04",
             "id": "term/2012",
@@ -1101,7 +1109,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/945ad1d20e64da9b2881ace1042718f7270cc4f0/data/Belize/Representatives/term-2012.csv"
           }
         ],
-        "statement_count": 1255,
+        "statement_count": 1608,
         "type": "lower house"
       }
     ]
