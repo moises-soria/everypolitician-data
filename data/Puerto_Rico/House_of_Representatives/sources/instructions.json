@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official30.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/puerto-rico-representantes",
+        "query": "SELECT *, 30 AS term FROM data ORDER BY id"
+      },
+      "source": "http://www.tucamarapr.org/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official30.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
