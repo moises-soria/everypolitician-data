@@ -1,4 +1,16 @@
 {
+  "Q24456217": [
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2016-06-04",
+        "P1365": "Reinhard Grindel"
+      }
+    }
+  ],
   "Q1258931": [
     {
       "id": "Q1939555",
@@ -1146,7 +1158,7 @@
       "description": "highest officer of an organized group",
       "qualifiers": {
         "P642": "Q1750151",
-        "P156": "Jens Beutel",
+        "P1366": "Jens Beutel",
         "P582": "2003"
       }
     }
@@ -4370,7 +4382,10 @@
     {
       "id": "Q17781726",
       "label": "member of the Landtag of North Rhine-Westphalia",
-      "title": "member of the Landtag of North Rhine-Westphalia"
+      "title": "member of the Landtag of North Rhine-Westphalia",
+      "qualifiers": {
+        "P580": "2010-06-09"
+      }
     }
   ],
   "Q1444160": [
@@ -4744,7 +4759,10 @@
     {
       "id": "Q18130478",
       "label": "Member of the Landtag of Saarland",
-      "title": "Member of the Landtag of Saarland"
+      "title": "Member of the Landtag of Saarland",
+      "qualifiers": {
+        "P2937": "15. legislative term of the Landtag of the Saarland"
+      }
     }
   ],
   "Q107018": [
@@ -5783,10 +5801,10 @@
   ],
   "Q61386": [
     {
-      "id": "Q248352",
-      "label": "Bundesminister",
-      "title": "Bundesminister",
-      "description": "cabinet office in the government of Germany",
+      "id": "Q27921377",
+      "label": "Minister of Transportation",
+      "title": "Minister of Transportation",
+      "description": "German cabinet position",
       "qualifiers": {
         "P488": "Federal Ministry of Transport and Digital Infrastructure",
         "P580": "2005-11-22",
@@ -8800,10 +8818,10 @@
   ],
   "Q64525": [
     {
-      "id": "Q248352",
-      "label": "Bundesminister",
-      "title": "Bundesminister",
-      "description": "cabinet office in the government of Germany",
+      "id": "Q27921377",
+      "label": "Minister of Transportation",
+      "title": "Minister of Transportation",
+      "description": "German cabinet position",
       "qualifiers": {
         "P488": "Federal Ministry of Transport and Digital Infrastructure",
         "P580": "2009-10-28",
@@ -12379,7 +12397,10 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
     },
     {
       "id": "Q17334379",
@@ -12842,7 +12863,10 @@
     {
       "id": "Q18130478",
       "label": "Member of the Landtag of Saarland",
-      "title": "Member of the Landtag of Saarland"
+      "title": "Member of the Landtag of Saarland",
+      "qualifiers": {
+        "P2937": "15. legislative term of the Landtag of the Saarland"
+      }
     },
     {
       "id": "Q3099723",
@@ -15276,6 +15300,11 @@
       "label": "mayor",
       "title": "mayor",
       "description": "head of municipal government such as a town or city"
+    },
+    {
+      "id": "Q17586301",
+      "label": "Member of the Landtag of Bavaria",
+      "title": "Member of the Landtag of Bavaria"
     }
   ],
   "Q1394531": [
@@ -16505,7 +16534,35 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "1949-09-15",
+        "P582": "1953",
+        "P1365": "Theodor Heuss",
+        "P794": "Q1309494"
+      }
+    },
+    {
+      "id": "Q28148158",
+      "label": "Ambassador of Germany to El Salvador",
+      "title": "Ambassador of Germany to El Salvador",
+      "qualifiers": {
+        "P580": "1972",
+        "P582": "1974",
+        "P1366": "Erich Adam Huesch"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "1955-09-29",
+        "P582": "1957",
+        "P1365": "Karl Georg Pfleiderer",
+        "P794": "Q1309494"
+      }
     }
   ],
   "Q101701": [
@@ -21442,7 +21499,22 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Q1008676",
+        "P2715": "German federal election, 2013"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
     }
   ],
   "Q2562973": [
@@ -22546,7 +22618,8 @@
       "description": "deputy of the German parliament",
       "qualifiers": {
         "P580": "2013-10-22",
-        "P582": "2016-08-31"
+        "P582": "2016-09-01",
+        "P1366": "Jürgen Coße"
       }
     },
     {
@@ -23676,7 +23749,7 @@
       "title": "Secretary of State",
       "description": "minister or senior civil servant in the government of a state",
       "qualifiers": {
-        "P276": "Foreign Office",
+        "P276": "Federal Foreign Office",
         "P580": "1966-12-12",
         "P582": "1967-10-27"
       }
@@ -25393,7 +25466,10 @@
     {
       "id": "Q18130478",
       "label": "Member of the Landtag of Saarland",
-      "title": "Member of the Landtag of Saarland"
+      "title": "Member of the Landtag of Saarland",
+      "qualifiers": {
+        "P2937": "15. legislative term of the Landtag of the Saarland"
+      }
     }
   ],
   "Q1617898": [
@@ -27874,18 +27950,7 @@
       "qualifiers": {
         "P580": "2013-12-17",
         "P1365": "Angela Merkel",
-        "P805": "Third Merkel cabinet",
-        "P1366": "",
-        "P582": ""
-      }
-    },
-    {
-      "id": "Q1939555",
-      "label": "member of the German Bundestag",
-      "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament",
-      "qualifiers": {
-        "P580": "2013-10-22"
+        "P805": "Third Merkel cabinet"
       }
     },
     {
@@ -27971,7 +28036,8 @@
       "description": "deputy of the German parliament",
       "qualifiers": {
         "P580": "2009-10-27",
-        "P582": "2013-10-22"
+        "P582": "2013-10-22",
+        "P2937": "17th German Bundestag"
       }
     },
     {
@@ -28000,6 +28066,16 @@
         "P361": "Cabinet Kohl IV",
         "P1365": "Hannelore Rönsch",
         "P1366": "Claudia Nolte"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P2937": "18th German Bundestag"
       }
     }
   ],
@@ -29677,7 +29753,11 @@
     {
       "id": "Q17781726",
       "label": "member of the Landtag of North Rhine-Westphalia",
-      "title": "member of the Landtag of North Rhine-Westphalia"
+      "title": "member of the Landtag of North Rhine-Westphalia",
+      "qualifiers": {
+        "P580": "2000-06-02",
+        "P582": "2012-03-14"
+      }
     }
   ],
   "Q290708": [
@@ -30623,6 +30703,34 @@
         "P580": "1967",
         "P582": "1969"
       }
+    },
+    {
+      "id": "Q28070543",
+      "label": "Ambassador of Germany to Jordan",
+      "title": "Ambassador of Germany to Jordan",
+      "qualifiers": {
+        "P580": "1963",
+        "P582": "1965"
+      }
+    },
+    {
+      "id": "Q28148169",
+      "label": "Ambassador of Germany to Guatemala",
+      "title": "Ambassador of Germany to Guatemala",
+      "qualifiers": {
+        "P580": "1969",
+        "P582": "1970"
+      }
+    },
+    {
+      "id": "Q28150667",
+      "label": "Ambassador of Germany to Haiti",
+      "title": "Ambassador of Germany to Haiti",
+      "qualifiers": {
+        "P580": "1967",
+        "P582": "1969",
+        "P1366": "Erich Adam Huesch"
+      }
     }
   ],
   "Q1788194": [
@@ -31012,7 +31120,9 @@
       "qualifiers": {
         "P580": "2013-10-22",
         "P768": "Q1008565",
-        "P2715": "German federal election, 2013"
+        "P2715": "German federal election, 2013",
+        "P582": "2016-06-04",
+        "P1366": "Q24456217"
       }
     },
     {
@@ -32631,12 +32741,19 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2001-11-01"
+      }
     },
     {
       "id": "Q19731005",
       "label": "Parliamentary Secretary in Germany",
-      "title": "Parliamentary Secretary in Germany"
+      "title": "Parliamentary Secretary in Germany",
+      "qualifiers": {
+        "P580": "2013-12",
+        "P276": "Ministry of Labour and Social Affairs of Germany"
+      }
     }
   ],
   "Q2544393": [
@@ -34629,7 +34746,10 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2005"
+      }
     }
   ],
   "Q1913446": [
@@ -37473,6 +37593,12 @@
       "id": "Q19731005",
       "label": "Parliamentary Secretary in Germany",
       "title": "Parliamentary Secretary in Germany"
+    },
+    {
+      "id": "Q27921377",
+      "label": "Minister of Transportation",
+      "title": "Minister of Transportation",
+      "description": "German cabinet position"
     }
   ],
   "Q107360": [
@@ -37643,10 +37769,10 @@
   ],
   "Q58609": [
     {
-      "id": "Q248352",
-      "label": "Bundesminister",
-      "title": "Bundesminister",
-      "description": "cabinet office in the government of Germany",
+      "id": "Q27921377",
+      "label": "Minister of Transportation",
+      "title": "Minister of Transportation",
+      "description": "German cabinet position",
       "qualifiers": {
         "P488": "Federal Ministry of Transport and Digital Infrastructure",
         "P580": "1998-10-27",
@@ -39101,7 +39227,30 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2005-10-18",
+        "P582": "2009-10-27"
+      }
     }
   ],
   "Q1464946": [
@@ -39853,6 +40002,16 @@
       "qualifiers": {
         "P580": "1994-11-10",
         "P582": "1998-10-26"
+      }
+    },
+    {
+      "id": "Q1307072",
+      "label": "Chief Whip",
+      "title": "Chief Whip",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2002",
+        "P582": "2013"
       }
     }
   ],
@@ -41664,7 +41823,9 @@
       "title": "member of the German Bundestag",
       "description": "deputy of the German parliament",
       "qualifiers": {
-        "P580": "2013-10-22"
+        "P580": "2013-10-22",
+        "P582": "2016-11-26",
+        "P1366": "Mathias Edwin Höschel"
       }
     },
     {
@@ -42061,9 +42222,10 @@
   ],
   "Q69145": [
     {
-      "id": "Q12339722",
-      "label": "transport minister",
-      "title": "transport minister"
+      "id": "Q27921377",
+      "label": "Minister of Transportation",
+      "title": "Minister of Transportation",
+      "description": "German cabinet position"
     },
     {
       "id": "Q1939555",
@@ -43027,7 +43189,10 @@
     {
       "id": "Q18130478",
       "label": "Member of the Landtag of Saarland",
-      "title": "Member of the Landtag of Saarland"
+      "title": "Member of the Landtag of Saarland",
+      "qualifiers": {
+        "P2937": "15. legislative term of the Landtag of the Saarland"
+      }
     }
   ],
   "Q98108": [
@@ -45451,7 +45616,10 @@
     {
       "id": "Q18130478",
       "label": "Member of the Landtag of Saarland",
-      "title": "Member of the Landtag of Saarland"
+      "title": "Member of the Landtag of Saarland",
+      "qualifiers": {
+        "P2937": "15. legislative term of the Landtag of the Saarland"
+      }
     }
   ],
   "Q107989": [
@@ -46092,6 +46260,16 @@
         "P580": "1953",
         "P582": "1958",
         "P1366": "Josef Löns"
+      }
+    },
+    {
+      "id": "Q27990083",
+      "label": "Ambassador of Germany to Australia",
+      "title": "Ambassador of Germany to Australia",
+      "qualifiers": {
+        "P580": "1958",
+        "P582": "1962",
+        "P1366": "Joachim Friedrich Ritter"
       }
     }
   ],
@@ -47058,7 +47236,52 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Mannheim (electoral district)",
+        "P2715": "German federal election, 2013"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "2002-10-17",
+        "P582": "2005-10-18"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "1994-11-10",
+        "P582": "1998-10-26"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "title": "member of the German Bundestag",
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "1990-12-20",
+        "P582": "1994-11-10"
+      }
     }
   ],
   "Q113994": [
@@ -48920,17 +49143,45 @@
       "id": "Q1939555",
       "label": "member of the German Bundestag",
       "title": "member of the German Bundestag",
-      "description": "deputy of the German parliament"
+      "description": "deputy of the German parliament",
+      "qualifiers": {
+        "P580": "1976",
+        "P582": "1990"
+      }
     },
     {
       "id": "Q17586301",
       "label": "Member of the Landtag of Bavaria",
-      "title": "Member of the Landtag of Bavaria"
+      "title": "Member of the Landtag of Bavaria",
+      "qualifiers": {
+        "P580": "1950",
+        "P582": "1966"
+      }
     },
     {
       "id": "Q19731005",
       "label": "Parliamentary Secretary in Germany",
       "title": "Parliamentary Secretary in Germany"
+    },
+    {
+      "id": "Q2325058",
+      "label": "German Minister of State",
+      "title": "German Minister of State",
+      "description": "high-ranking German government representative",
+      "qualifiers": {
+        "P580": "1976",
+        "P582": "1982",
+        "P276": "Federal Foreign Office"
+      }
+    },
+    {
+      "id": "Q17586301",
+      "label": "Member of the Landtag of Bavaria",
+      "title": "Member of the Landtag of Bavaria",
+      "qualifiers": {
+        "P580": "1970",
+        "P582": "1976"
+      }
     }
   ],
   "Q561949": [
@@ -50683,7 +50934,10 @@
     {
       "id": "Q18130478",
       "label": "Member of the Landtag of Saarland",
-      "title": "Member of the Landtag of Saarland"
+      "title": "Member of the Landtag of Saarland",
+      "qualifiers": {
+        "P2937": "15. legislative term of the Landtag of the Saarland"
+      }
     }
   ],
   "Q1363060": [
@@ -51062,7 +51316,11 @@
     {
       "id": "Q17781726",
       "label": "member of the Landtag of North Rhine-Westphalia",
-      "title": "member of the Landtag of North Rhine-Westphalia"
+      "title": "member of the Landtag of North Rhine-Westphalia",
+      "qualifiers": {
+        "P580": "1946-10-02",
+        "P582": "1950-06-17"
+      }
     },
     {
       "id": "Q30185",
