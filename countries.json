@@ -7970,23 +7970,32 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Puerto_Rico/House_of_Representatives/sources",
         "popolo": "data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/23cc79f26fb62920b30952e3706f073b8aafccc5/data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/955282f2d27d6ad0eb3c361d7baa16524664f16f/data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Puerto_Rico/House_of_Representatives/names.csv",
-        "lastmod": "1483397579",
-        "person_count": 53,
-        "sha": "23cc79f26fb62920b30952e3706f073b8aafccc5",
+        "lastmod": "1483956282",
+        "person_count": 74,
+        "sha": "955282f2d27d6ad0eb3c361d7baa16524664f16f",
         "legislative_periods": [
+          {
+            "end_date": "2020-01-01",
+            "id": "term/30",
+            "name": "30th House of Representatives of Puerto Rico",
+            "start_date": "2017-01-02",
+            "slug": "30",
+            "csv": "data/Puerto_Rico/House_of_Representatives/term-30.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d407d253b79ba863423127e521226b680c3f0785/data/Puerto_Rico/House_of_Representatives/term-30.csv"
+          },
           {
             "end_date": "2017-01-08",
             "id": "term/29",
-            "name": "29th House of Representatives",
+            "name": "29th House of Representatives of Puerto Rico",
             "start_date": "2013-01-14",
             "slug": "29",
             "csv": "data/Puerto_Rico/House_of_Representatives/term-29.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09e3423798ad623c84b82c3deb3cc0ea2113f67e/data/Puerto_Rico/House_of_Representatives/term-29.csv"
           }
         ],
-        "statement_count": 3240,
+        "statement_count": 4777,
         "type": "lower house"
       }
     ]
