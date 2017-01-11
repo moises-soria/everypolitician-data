@@ -57,64 +57,50 @@ namespace :term_csvs do
     wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p.name} (#{p.id})" } unless matched.zero?
   end
 
-  desc 'Build the Positions file'
+  desc 'Build the Cabinet file'
   task positions: ['ep-popolo-v1.0.json'] do
-    next unless POSITION_RAW.file?
-    warn "Creating #{POSITION_CSV}"
-    p39s = WikidataPositionFile.new(pathname: POSITION_RAW)
-    position_map = PositionMap.new(pathname: POSITION_FILTER)
+    src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
 
-    people_with_wikidata = @popolo.persons.select(&:wikidata)
-    all_positions = people_with_wikidata.flat_map do |p|
-      p39s.positions_for(p)
-    end
+    data = src.filtered(position_map: PositionMap.new(pathname: POSITION_FILTER))
+    members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
-    # Write positions.csv
     csv_headers = %w(id name position start_date end_date type).to_csv
-    csv_data = all_positions.select { |posn| position_map.include_ids.include? posn.id }.map do |posn|
-      [posn.person.id, posn.person.name, posn.label, posn.start_date, posn.end_date, position_map.type(posn.id)].to_csv
+    csv_data = data.map do |r|
+      member = members[r[:id]].first
+      if r[:start_date].to_s.empty? && r[:end_date].to_s.empty?
+        warn "  ☇ No dates for #{member.name} (#{member.wikidata}) as #{r[:label]}"
+      end
+      [ member.id, member.name, r[:label], r[:start_date], r[:end_date], 'cabinet' ].to_csv
     end
 
     POSITION_CSV.dirname.mkpath
     POSITION_CSV.write(csv_headers + csv_data.join)
 
-    # Warn about Cabinet members missing dates
-    all_positions.select  { |posn| position_map.cabinet_ids.include? posn.id }
-                 .select  { |posn| posn.start_date.to_s.empty? && posn.end_date.to_s.empty? }
-                 .sort_by(&:label)
-                 .each do |posn|
-      warn "  ☇ No dates for #{posn.person.name} (#{posn.person.wikidata}) as #{posn.label}"
-    end
-
-    # Warn about unknown positions
-    unknown_posns = all_positions.reject { |p| position_map.known_ids.include?(p.id) }
-    grouped_posns = unknown_posns.group_by(&:id)
-    grouped_posns.sort_by { |_, ups| ups.count }.each do |id, ups|
-      warn "  Unknown position (x#{ups.count}): #{id} #{ups.first.label} — e.g. #{ups.first.person.wikidata}"
-    end
-
-    # Rebuild the position filter, with counts on unknowns
-    new_map = position_map.to_json
-    unknown = grouped_posns.sort_by { |_, us| us.first.label.to_s }.map do |id, us|
-      {
-        id:          id,
-        name:        us.first.label,
-        description: us.first.description,
-        count:       us.count,
-      }
-    end
-    (new_map[:unknown] ||= {})[:unknown] = unknown
-    POSITION_FILTER.write(JSON.pretty_generate(new_map))
+    # TODO: Warn about uncategorised positions
   end
 end
 
 desc 'Generate the position filter interface'
 task :generate_position_interface do
-  new_map = PositionMap.new(pathname: POSITION_FILTER).to_json
-  html = Position::Filter::HTML.new(new_map).html
-  POSITION_HTML.write(html)
-  FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
-  warn "open #{POSITION_HTML}".yellow
-  warn "pbpaste | bundle exec ruby #{POSITION_LEARNER} #{POSITION_FILTER}".yellow
+  raise "Not implemented yet"
+  # Rebuild the position filter, with counts on unknowns
+  # new_map = position_map.to_json
+  # unknown = grouped_posns.sort_by { |_, us| us.first.label.to_s }.map do |id, us|
+    # {
+      # id:          id,
+      # name:        us.first.label,
+      # description: us.first.description,
+      # count:       us.count,
+    # }
+  # end
+  # (new_map[:unknown] ||= {})[:unknown] = unknown
+  # POSITION_FILTER.write(JSON.pretty_generate(new_map))
+
+  # new_map = PositionMap.new(pathname: POSITION_FILTER).to_json
+  # html = Position::Filter::HTML.new(new_map).html
+  # POSITION_HTML.write(html)
+  # FileUtils.copy('../../../templates/position-filter.js', 'sources/manual/.position-filter.js')
+  # warn "open #{POSITION_HTML}".yellow
+  # warn "pbpaste | bundle exec ruby #{POSITION_LEARNER} #{POSITION_FILTER}".yellow
 end
 
