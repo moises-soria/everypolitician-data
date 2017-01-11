@@ -61,7 +61,7 @@ namespace :term_csvs do
   task positions: ['ep-popolo-v1.0.json'] do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
 
-    data = src.filtered(position_map: PositionMap.new(pathname: POSITION_FILTER))
+    data = src.filtered(position_map: POSITION_FILTER_CSV)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
     csv_headers = %w(id name position start_date end_date type).to_csv
@@ -80,22 +80,25 @@ namespace :term_csvs do
   end
 end
 
+desc 'Convert the old JSON position filter to a CSV'
+task :convert_position_filter do
+  # for now, simply convert the old JSON file to a new CSV one
+  src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
+  map = PositionMap.new(pathname: POSITION_FILTER)
+
+  csv_headers = %w(id label type).to_csv
+  csv_data = src.as_table.group_by { |r| r[:position] }.map do |id, ps|
+    [id, ps.first[:label], map.type(id) || 'unknown']
+  end.sort_by { |d| [d[2], d[1].downcase] }.map(&:to_csv)
+
+  POSITION_FILTER_CSV.dirname.mkpath
+  POSITION_FILTER_CSV.write(csv_headers + csv_data.join)
+end
+
 desc 'Generate the position filter interface'
 task :generate_position_interface do
-  raise "Not implemented yet"
-  # Rebuild the position filter, with counts on unknowns
-  # new_map = position_map.to_json
-  # unknown = grouped_posns.sort_by { |_, us| us.first.label.to_s }.map do |id, us|
-    # {
-      # id:          id,
-      # name:        us.first.label,
-      # description: us.first.description,
-      # count:       us.count,
-    # }
-  # end
-  # (new_map[:unknown] ||= {})[:unknown] = unknown
-  # POSITION_FILTER.write(JSON.pretty_generate(new_map))
-
+  abort "not implemented yet"
+  # TODO make the HTML interface to this again.
   # new_map = PositionMap.new(pathname: POSITION_FILTER).to_json
   # html = Position::Filter::HTML.new(new_map).html
   # POSITION_HTML.write(html)
