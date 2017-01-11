@@ -69,31 +69,15 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :ensure_term
 
-  def terms_from_csv
-    termfiles = Dir.glob('sources/**/terms.csv')
-    raise 'No terms.csv' if termfiles.count.zero?
-    raise "Too many terms.csv [#{termfiles}]" if termfiles.count > 1
-
-    CSV.read(termfiles.first, headers: true).reject(&:empty?).map do |row|
-      {
-        id:              row['id'][/\//] ? row['id'] : "term/#{row['id']}",
-        name:            row['name'],
-        start_date:      row['start_date'],
-        end_date:        row['end_date'],
-        identifiers:     row['wikidata'].to_s.empty? ? [] : [{
-          scheme:     'wikidata',
-          identifier: row['wikidata']
-        }],
-        classification:  'legislative period',
-        organization_id: @legislature[:id],
-      }.reject { |_, v| v.nil? || v.empty? }
-    end
-  end
-
   task ensure_term: :ensure_legislature do
+    terms = @INSTRUCTIONS.sources_of_type('term')
+            .flat_map { |src| src.to_popolo[:events] }
+            .each { |t| t[:organization_id] = @legislature[:id] }
+            .group_by { |t| t[:id] }
+
     @json[:events].each do |e|
-      (csv_term = terms_from_csv.find { |t| t[:id] == e[:id] }) || abort("No term information for #{e[:id]}")
-      e.merge! csv_term
+      csv_terms = terms[e[:id]] or abort "No term information for #{e[:id]}"
+      e.merge! csv_terms.first
     end
   end
 
