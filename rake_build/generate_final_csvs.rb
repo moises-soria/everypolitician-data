@@ -61,7 +61,7 @@ namespace :term_csvs do
   task positions: ['ep-popolo-v1.0.json'] do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
 
-    data = src.filtered(position_map: PositionMap.new(pathname: POSITION_FILTER))
+    data = src.filtered(position_map: POSITION_FILTER_CSV)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
     csv_headers = %w(id name position start_date end_date type).to_csv
