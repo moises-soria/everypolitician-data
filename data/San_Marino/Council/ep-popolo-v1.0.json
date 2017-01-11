@@ -898,12 +898,17 @@
     {
       "birth_date": "1950-10-14",
       "family_name": "Michelotti",
+      "gender": "male",
       "given_name": "Augusto",
       "id": "a5027bda-97d0-4b5a-9014-3497e4a6b7dd",
       "identifiers": [
         {
           "identifier": "17009037",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28114206",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016590_17000062_Michelotti_Augus.jpg",
@@ -912,7 +917,25 @@
           "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016590_17000062_Michelotti_Augus.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Augusto_Michelotti"
+        }
+      ],
       "name": "Augusto Michelotti",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Augusto Michelotti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Augusto Michelotti",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Michelotti, Augusto"
     },
     {
@@ -1884,6 +1907,10 @@
         {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Gianfranco_Terenzi"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Gianfranco_Terenzi"
         },
         {
           "note": "Wikipedia (pl)",
@@ -3218,12 +3245,17 @@
     {
       "birth_date": "1969-02-05",
       "family_name": "Podeschi",
+      "gender": "male",
       "given_name": "Marco",
       "id": "5f7e7440-aeec-4c3a-8014-3f6294e4c67e",
       "identifiers": [
         {
           "identifier": "17016603",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28147133",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016576_17000062_marcopodeschi.jpg",
@@ -3232,7 +3264,20 @@
           "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016576_17000062_marcopodeschi.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Marco_Podeschi"
+        }
+      ],
       "name": "Marco Podeschi",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Marco Podeschi",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Podeschi, Marco"
     },
     {
