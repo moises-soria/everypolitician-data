@@ -67,33 +67,17 @@ namespace :transform do
   #---------------------------------------------------------------------
   # Merge with terms.csv
   #---------------------------------------------------------------------
-  task write: :ensure_term
+  task write: :merge_termfile
 
-  def terms_from_csv
-    termfiles = Dir.glob('sources/**/terms.csv')
-    raise 'No terms.csv' if termfiles.count.zero?
-    raise "Too many terms.csv [#{termfiles}]" if termfiles.count > 1
+  task merge_termfile: :ensure_legislature do
+    terms = @INSTRUCTIONS.sources_of_type('term')
+            .flat_map { |src| src.to_popolo[:events] }
+            .each { |t| t[:organization_id] = @legislature[:id] }
+            .group_by { |t| t[:id] }
 
-    CSV.read(termfiles.first, headers: true).reject(&:empty?).map do |row|
-      {
-        id:              row['id'][/\//] ? row['id'] : "term/#{row['id']}",
-        name:            row['name'],
-        start_date:      row['start_date'],
-        end_date:        row['end_date'],
-        identifiers:     row['wikidata'].to_s.empty? ? [] : [{
-          scheme:     'wikidata',
-          identifier: row['wikidata']
-        }],
-        classification:  'legislative period',
-        organization_id: @legislature[:id],
-      }.reject { |_, v| v.nil? || v.empty? }
-    end
-  end
-
-  task ensure_term: :ensure_legislature do
     @json[:events].each do |e|
-      (csv_term = terms_from_csv.find { |t| t[:id] == e[:id] }) || abort("No term information for #{e[:id]}")
-      e.merge! csv_term
+      csv_terms = terms[e[:id]] or abort "No term information for #{e[:id]}"
+      e.merge! csv_terms.first
     end
   end
 
@@ -102,7 +86,7 @@ namespace :transform do
   #   and ensure they're within the term
   #---------------------------------------------------------------------
   task write: :tidy_memberships
-  task tidy_memberships: :ensure_term do
+  task tidy_memberships: :merge_termfile do
     @json[:memberships].each do |m|
       (e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] }) || abort("#{m[:legislative_period_id]} is not a term")
 
