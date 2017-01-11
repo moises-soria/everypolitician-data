@@ -10419,22 +10419,23 @@
         "slug": "Assembly",
         "sources_directory": "data/Turks_and_Caicos_Islands/Assembly/sources",
         "popolo": "data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/05990096e31acabf8aa3866d11157835df93b506/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e53362a8992d0168628e30692d9911144f26e7bd/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json",
         "names": "data/Turks_and_Caicos_Islands/Assembly/names.csv",
-        "lastmod": "1481774447",
+        "lastmod": "1484127174",
         "person_count": 18,
-        "sha": "05990096e31acabf8aa3866d11157835df93b506",
+        "sha": "e53362a8992d0168628e30692d9911144f26e7bd",
         "legislative_periods": [
           {
+            "end_date": "2016-12-14",
             "id": "term/2012",
-            "name": "1st Assembly",
-            "start_date": "2012",
+            "name": "2nd Assembly",
+            "start_date": "2012-11-09",
             "slug": "2012",
             "csv": "data/Turks_and_Caicos_Islands/Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/05990096e31acabf8aa3866d11157835df93b506/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 583,
+        "statement_count": 591,
         "type": "unicameral legislature"
       }
     ]
