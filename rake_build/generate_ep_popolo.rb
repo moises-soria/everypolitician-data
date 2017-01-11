@@ -67,9 +67,9 @@ namespace :transform do
   #---------------------------------------------------------------------
   # Merge with terms.csv
   #---------------------------------------------------------------------
-  task write: :ensure_term
+  task write: :merge_termfile
 
-  task ensure_term: :ensure_legislature do
+  task merge_termfile: :ensure_legislature do
     terms = @INSTRUCTIONS.sources_of_type('term')
             .flat_map { |src| src.to_popolo[:events] }
             .each { |t| t[:organization_id] = @legislature[:id] }
@@ -86,7 +86,7 @@ namespace :transform do
   #   and ensure they're within the term
   #---------------------------------------------------------------------
   task write: :tidy_memberships
-  task tidy_memberships: :ensure_term do
+  task tidy_memberships: :merge_termfile do
     @json[:memberships].each do |m|
       (e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] }) || abort("#{m[:legislative_period_id]} is not a term")
 
