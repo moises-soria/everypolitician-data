@@ -86,10 +86,10 @@ task :convert_position_filter do
   src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
   map = PositionMap.new(pathname: POSITION_FILTER)
 
-  csv_headers = %w(id label type).to_csv
+  csv_headers = %w(id label description, type).to_csv
   csv_data = src.as_table.group_by { |r| r[:position] }.map do |id, ps|
-    [id, ps.first[:label], map.type(id) || 'unknown']
-  end.sort_by { |d| [d[2], d[1].downcase] }.map(&:to_csv)
+    [id, ps.first[:label], ps.first[:description], map.type(id) || 'unknown']
+  end.sort_by { |d| [d[3].to_s, d[1].downcase] }.map(&:to_csv)
 
   POSITION_FILTER_CSV.dirname.mkpath
   POSITION_FILTER_CSV.write(csv_headers + csv_data.join)
