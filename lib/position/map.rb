@@ -1,6 +1,7 @@
-# TODO: move this to its own file
 class PositionMap
-  # Which Wikidata Positions we're interested in, and how to group them
+  # old JSON version of file listing the Wikidata Positions we're interested in
+  # This has been superseded by a CSV version. To convert to that use:
+  #    bundle exec rake convert_position_filter
 
   def initialize(pathname:)
     @pathname = pathname
