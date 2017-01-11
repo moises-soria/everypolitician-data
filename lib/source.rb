@@ -13,6 +13,7 @@ module Source
       'ocd-names'          => Source::OCD::Names,
       'area-wikidata'      => Source::Area,
       'gender'             => Source::Gender,
+      'wikidata-cabinet'   => Source::Cabinet,
       'wikidata-positions' => Source::Positions::Old,
       'wikidata-elections' => Source::Elections,
       'term'               => Source::Term,
