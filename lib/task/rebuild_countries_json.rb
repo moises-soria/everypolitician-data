@@ -30,7 +30,7 @@ module Task
     end
 
     def all_countries
-      EveryPolitician.countries
+      Everypolitician::Index.new(index_url: 'countries.json').countries
     end
 
     def matching
