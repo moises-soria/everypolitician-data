@@ -5862,22 +5862,22 @@
       "name": "All Progressives Grand Alliance"
     },
     {
-      "classification": "party",
-      "id": "LP",
-      "name": "Labour Party"
-    },
-    {
       "classification": "legislature",
       "id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "identifiers": [
         {
-          "identifier": "Q2635070",
+          "identifier": "Q665693",
           "scheme": "wikidata"
         }
       ],
-      "name": "National Assembly",
+      "name": "House of Representatives",
       "seats": 360,
-      "type": "unicameral legislature"
+      "type": "lower house"
+    },
+    {
+      "classification": "party",
+      "id": "LP",
+      "name": "Labour Party"
     },
     {
       "classification": "party",
