@@ -18423,8 +18423,9 @@
         }
       ],
       "email": "Francois-Philippe.Champagne@parl.gc.ca",
+      "family_name": "Champagne",
       "gender": "male",
-      "given_name": "François",
+      "given_name": "François-Philippe",
       "id": "a94766b3-7901-45f6-9e40-7259aaa0a7ab",
       "identifiers": [
         {
@@ -18444,6 +18445,9 @@
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ChampagneFrançoisPhilippe_Lib.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Francois-Philippe_Champagne_2011.jpg"
         }
       ],
       "links": [
@@ -18472,12 +18476,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "François-Philippe Champagne",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "François-Philippe Champagne",
           "note": "multilingual"
         },
         {
           "lang": "nl",
+          "name": "François-Philippe Champagne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
           "name": "François-Philippe Champagne",
           "note": "multilingual"
         }
@@ -30460,6 +30474,10 @@
           "url": "https://lb.wikipedia.org/wiki/Justin_Trudeau"
         },
         {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Justin_Trudeau"
         },
@@ -31390,6 +31408,7 @@
         }
       ],
       "email": "Karina.Gould@parl.gc.ca",
+      "family_name": "Gould",
       "gender": "female",
       "given_name": "Karina",
       "id": "d2384df6-1918-47be-b272-9d2ba4ed28f0",
@@ -31435,7 +31454,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Karina Gould",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Karina Gould",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Karina Gould",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
           "name": "Karina Gould",
           "note": "multilingual"
         }
@@ -62874,7 +62908,7 @@
       "other_names": [
         {
           "lang": "zh-hans",
-          "name": "加拿大新民主党",
+          "name": "新民主党",
           "note": "multilingual"
         },
         {
@@ -62884,22 +62918,22 @@
         },
         {
           "lang": "zh-hk",
-          "name": "加拿大新民主黨",
+          "name": "新民主黨",
           "note": "multilingual"
         },
         {
           "lang": "zh-cn",
-          "name": "加拿大新民主党",
+          "name": "新民主党",
           "note": "multilingual"
         },
         {
           "lang": "zh-sg",
-          "name": "加拿大新民主党",
+          "name": "新民主党",
           "note": "multilingual"
         },
         {
           "lang": "zh-tw",
-          "name": "加拿大新民主黨",
+          "name": "新民主黨",
           "note": "multilingual"
         },
         {
@@ -63064,7 +63098,7 @@
         },
         {
           "lang": "zh",
-          "name": "加拿大新民主党",
+          "name": "新民主党",
           "note": "multilingual"
         },
         {
@@ -63085,6 +63119,16 @@
         {
           "lang": "kk",
           "name": "Жаңа демократиялық партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "新民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "新民主党",
           "note": "multilingual"
         },
         {
@@ -63280,11 +63324,6 @@
         {
           "lang": "en",
           "name": "Dippers",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "新民主党",
           "note": "multilingual"
         }
       ]
