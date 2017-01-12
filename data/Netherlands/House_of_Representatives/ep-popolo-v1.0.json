@@ -4712,8 +4712,123 @@
       "sort_name": "Roemer, E.G.M."
     },
     {
+      "birth_date": "1981-11-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "e.unver@tweedekamer.nl"
+        }
+      ],
+      "email": "e.unver@tweedekamer.nl",
+      "family_name": "Ünver",
+      "gender": "male",
+      "given_name": "Emre",
       "id": "637c2a84-e5b2-4649-adf8-d16dbaafa989",
-      "name": "Emre Ünver"
+      "identifiers": [
+        {
+          "identifier": "vk9ymatekwq5",
+          "scheme": "parlement"
+        },
+        {
+          "identifier": "Q28008940",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8358.jpg?itok=d36x4hdG",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8358.jpg?itok=d36x4hdG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emre_Ünver"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Emre_Ünver"
+        }
+      ],
+      "name": "Emre Ünver",
+      "other_names": [
+        {
+          "lang": "br",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ty",
+          "name": "Emre Ünver",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Ünver, E."
     },
     {
       "birth_date": "1969-09-19",
@@ -9232,6 +9347,10 @@
       ],
       "name": "Jacques Monasch",
       "other_names": [
+        {
+          "name": "Jacques S Monasch",
+          "note": "alternate"
+        },
         {
           "name": "Jacques S Monasch",
           "note": "alternate"
@@ -30224,7 +30343,12 @@
       "on_behalf_of_id": "party/pvda",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "637c2a84-e5b2-4649-adf8-d16dbaafa989",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/%C3%BCnver-e-pvda"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/2012",
@@ -31407,7 +31531,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/monasch-js-pvda"
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/monasch-js-monasch"
         }
       ]
     },
@@ -31419,7 +31543,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/monasch-js-pvda"
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/monasch-js-monasch"
         }
       ],
       "start_date": "2016-11-07"
