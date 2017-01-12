@@ -2257,11 +2257,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Cook_Islands/Parliament/sources",
         "popolo": "data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5d670047e162cd0bf5c303022358010409608612/data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2de544896ca43427b609b7a3f69f0d5c0f321705/data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
         "names": "data/Cook_Islands/Parliament/names.csv",
-        "lastmod": "1478241430",
-        "person_count": 48,
-        "sha": "5d670047e162cd0bf5c303022358010409608612",
+        "lastmod": "1484233221",
+        "person_count": 49,
+        "sha": "2de544896ca43427b609b7a3f69f0d5c0f321705",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -2278,7 +2278,7 @@
             "start_date": "2011-02-18",
             "slug": "13",
             "csv": "data/Cook_Islands/Parliament/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8967442eb4df41fa7caf4b368384d9f67f85ceea/data/Cook_Islands/Parliament/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2de544896ca43427b609b7a3f69f0d5c0f321705/data/Cook_Islands/Parliament/term-13.csv"
           },
           {
             "end_date": "2010-09-24",
@@ -2290,7 +2290,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e53b65b967e1f0aef92f6eeeed517224483d1f3b/data/Cook_Islands/Parliament/term-12.csv"
           }
         ],
-        "statement_count": 2349,
+        "statement_count": 2363,
         "type": "unicameral legislature"
       }
     ]
