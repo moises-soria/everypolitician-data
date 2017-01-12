@@ -40,12 +40,7 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/australia-openaustralia",
-        "query": "SELECT * FROM terms ORDER BY start_date"
-      },
+      "file": "manual/terms.csv",
       "type": "term"
     },
     {
