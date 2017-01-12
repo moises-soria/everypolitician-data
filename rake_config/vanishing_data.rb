@@ -64,7 +64,7 @@ desc 'report on vanishing data from a given file'
 namespace :missing_data do
   # TODO: add a parallel task for the idmap files
   task :memberships, [:filename] do |_, args|
-    wanted = sources.find { |s| s.filename.include? args[:filename] } ||
+    wanted = @SOURCES.find { |s| s.filename.to_s.include? args[:filename] } ||
              abort("No suitable source matching '#{args[:filename]}'")
     source = SourceHistory.new(wanted)
     vanished = source.vanishing_data
