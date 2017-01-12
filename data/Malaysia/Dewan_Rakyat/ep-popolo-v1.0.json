@@ -4580,6 +4580,7 @@
     },
     {
       "birth_date": "1944-01-27",
+      "death_date": "2017-01-11",
       "gender": "male",
       "id": "b3fbf131-6fcc-4bfb-8864-ff2f514a9a09",
       "identifiers": [
@@ -4600,6 +4601,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Adenan_Satem"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Adenan_Satem"
         },
@@ -4610,6 +4615,10 @@
         {
           "note": "Wikipedia (ms)",
           "url": "https://ms.wikipedia.org/wiki/Adenan_Satem"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Adenan_Satem"
         },
         {
           "note": "wikipedia",
@@ -14376,6 +14385,16 @@
         {
           "identifier": "hassan_ahmad",
           "scheme": "everypolitician_legacy"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hassan_Ahmad"
+        },
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Hassan_Ahmad"
         }
       ],
       "name": "Hassan Ahmad"
