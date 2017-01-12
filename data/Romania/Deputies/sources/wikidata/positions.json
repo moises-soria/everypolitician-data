@@ -28,7 +28,11 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P768": "Teleorman County"
+      }
     },
     {
       "id": "Q17278763",
@@ -39,6 +43,41 @@
         "P580": "2015-07-22",
         "P1365": "Victor Ponta"
       }
+    },
+    {
+      "id": "Q21503762",
+      "label": "Minister of Development and Administration",
+      "title": "Minister of Development and Administration",
+      "description": "Member of the Government of Romania",
+      "qualifiers": {
+        "P580": "2012-12-21",
+        "P582": "2014-12-17",
+        "P1365": "Eduard Hellvig",
+        "P1366": "Sevil Shhaideh"
+      }
+    },
+    {
+      "id": "Q21504201",
+      "label": "Minister of Internal Affairs",
+      "title": "Minister of Internal Affairs",
+      "description": "Member of the Government of Romania",
+      "qualifiers": {
+        "P580": "2009-01-20",
+        "P582": "2009-02-11",
+        "P1365": "Gabriel Oprea",
+        "P1366": "Dan Nica"
+      }
+    },
+    {
+      "id": "Q28154029",
+      "label": "Chairperson of Teleorman County Council",
+      "title": "Chairperson of Teleorman County Council",
+      "description": "position in the County Council of Teleorman County, Romania",
+      "qualifiers": {
+        "P580": "2000",
+        "P582": "2012",
+        "P1366": "Adrian-Ionuț Gâdea"
+      }
     }
   ],
   "Q18545145": [
@@ -48,6 +87,16 @@
       "title": "member of the Chamber of Deputies of Romania",
       "qualifiers": {
         "P580": "2004-12-20",
+        "P768": "Bacău County",
+        "P582": "2008-07-24"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
         "P768": "Bacău County"
       }
     }
@@ -126,7 +175,43 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "1990-06-18",
+        "P582": "1990-07-31",
+        "P1366": "Dorina Mihăilescu",
+        "P768": "Bucharest"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "1992-10-21",
+        "P768": "Constanța County",
+        "P582": "2004-12-16"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Tulcea County",
+        "P582": "2008-12-18"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P582": "2016-12-20",
+        "P768": "Argeș County"
+      }
     }
   ],
   "Q21747074": [
@@ -198,14 +283,34 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Sălaj County"
+      }
+    },
+    {
+      "id": "Q19938957",
+      "label": "member of the Senate of Romania",
+      "title": "member of the Senate of Romania",
+      "description": "member of the upper house of the Parliament of Romania",
+      "qualifiers": {
+        "P580": "1992-10-21",
+        "P582": "2004-12-16",
+        "P768": "Sălaj County"
+      }
     }
   ],
   "Q7933409": [
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "1996-11-22",
+        "P582": "2014-10-21",
+        "P768": "Bacău County"
+      }
     }
   ],
   "Q9141249": [
@@ -308,6 +413,17 @@
       }
     }
   ],
+  "Q21179163": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P768": "Teleorman County"
+      }
+    }
+  ],
   "Q12720043": [
     {
       "id": "Q17556530",
@@ -407,6 +523,17 @@
       "description": "member of the upper house of the Parliament of Romania"
     }
   ],
+  "Q21746965": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P768": "Vâlcea County"
+      }
+    }
+  ],
   "Q12731154": [
     {
       "id": "Q17556530",
@@ -463,21 +590,13 @@
   ],
   "Q1957518": [
     {
-      "id": "Q15304810",
-      "label": "Prime Minister of Romania",
-      "title": "Prime Minister of Romania",
-      "description": "head of the Government of Romania",
-      "qualifiers": {
-        "P580": "2004-12-21",
-        "P582": "2004-12-28",
-        "P1365": "Adrian Năstase",
-        "P1366": "Călin Popescu-Tăriceanu"
-      }
-    },
-    {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Suceava County"
+      }
     }
   ],
   "Q21179421": [
@@ -506,6 +625,17 @@
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania"
+    }
+  ],
+  "Q18548014": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P768": "Vaslui County"
+      }
     }
   ],
   "Q18549337": [
@@ -753,6 +883,18 @@
       }
     }
   ],
+  "Q21179323": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Arad County"
+      }
+    }
+  ],
   "Q12729178": [
     {
       "id": "Q5097072",
@@ -837,11 +979,27 @@
       }
     }
   ],
+  "Q21179389": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Argeș County"
+      }
+    }
+  ],
   "Q12731213": [
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Turks of Romania"
+      }
     }
   ],
   "Q21179350": [
@@ -855,11 +1013,49 @@
       }
     }
   ],
+  "Q18538540": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "1996-11-22",
+        "P582": "2000-11-15",
+        "P768": "Arad County"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P582": "2016-12-20",
+        "P768": "Arad County"
+      }
+    }
+  ],
   "Q6095518": [
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Sălaj County"
+      }
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor (of Zalău)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P642": "Zalău",
+        "P580": "2000",
+        "P582": "2004",
+        "P1366": "Sandu Victor Radu Căpîlnașiu"
+      }
     }
   ],
   "Q21179344": [
@@ -870,6 +1066,17 @@
       "qualifiers": {
         "P580": "2012-12-19",
         "P768": "Cluj County"
+      }
+    }
+  ],
+  "Q21179161": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P768": "Suceava County"
       }
     }
   ],
@@ -1011,6 +1218,18 @@
       }
     }
   ],
+  "Q21179199": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Arad County"
+      }
+    }
+  ],
   "Q18537580": [
     {
       "id": "Q21504092",
@@ -1068,6 +1287,18 @@
         "P582": "2015-11-17",
         "P1365": "Constantin Niță",
         "P1366": "Costin Grigore Borc"
+      }
+    }
+  ],
+  "Q21179298": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Bacău County"
       }
     }
   ],
@@ -1178,6 +1409,18 @@
       "title": "member of the Chamber of Deputies of Romania"
     }
   ],
+  "Q21179417": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Arad County"
+      }
+    }
+  ],
   "Q18539136": [
     {
       "id": "Q17556530",
@@ -1233,6 +1476,17 @@
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania"
+    }
+  ],
+  "Q18540897": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2000-12-11",
+        "P768": "Lipovans"
+      }
     }
   ],
   "Q11791098": [
@@ -1368,7 +1622,7 @@
         "P580": "2016-06-13",
         "P582": "2016-12-20",
         "P1365": "Valeriu Zgonea",
-        "P1366": "Nicolae-Liviu Dragnea"
+        "P1366": "Liviu Dragnea"
       }
     },
     {
@@ -1407,7 +1661,13 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2000-12-11",
+        "P582": "2016-12-20",
+        "P1366": "Iulius Marian Firczak",
+        "P768": "Ruthenians in Romania"
+      }
     }
   ],
   "Q12737868": [
@@ -1476,6 +1736,17 @@
         "P580": "2017-01-04",
         "P1365": "Dacian Cioloș",
         "P35": "Klaus Iohannis"
+      }
+    }
+  ],
+  "Q21179147": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P768": "Teleorman County"
       }
     }
   ],
@@ -1572,6 +1843,17 @@
       }
     }
   ],
+  "Q21179248": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P768": "Tulcea County"
+      }
+    }
+  ],
   "Q16217237": [
     {
       "id": "Q17556530",
@@ -1621,7 +1903,7 @@
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania",
       "qualifiers": {
-        "P580": "2008",
+        "P580": "2008-12-19",
         "P768": "Vrancea County"
       }
     },
@@ -1631,8 +1913,8 @@
       "title": "member of the Senate of Romania",
       "description": "member of the upper house of the Parliament of Romania",
       "qualifiers": {
-        "P580": "2004-02-17",
-        "P582": "2008",
+        "P580": "2004-12-17",
+        "P582": "2008-12-18",
         "P768": "Vrancea County"
       }
     },
@@ -1675,14 +1957,46 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "1996-10-21",
+        "P768": "Armenians of Romania"
+      }
+    }
+  ],
+  "Q21179184": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Alba County"
+      }
     }
   ],
   "Q12726307": [
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "1997-06-10",
+        "P1365": "Costin Georgescu",
+        "P582": "2004-12-10",
+        "P768": "Alba County"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Alba County"
+      }
     }
   ],
   "Q749944": [
@@ -1800,6 +2114,17 @@
       }
     }
   ],
+  "Q18539611": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20"
+      }
+    }
+  ],
   "Q3104827": [
     {
       "id": "Q17556530",
@@ -1848,6 +2173,30 @@
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania"
+    }
+  ],
+  "Q21747047": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P582": "2016-12-20",
+        "P768": "Alba County"
+      }
+    }
+  ],
+  "Q21747031": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P582": "2016-12-20",
+        "P768": "Alba County"
+      }
     }
   ],
   "Q16879979": [
@@ -1995,7 +2344,7 @@
         "P580": "2010-02-21",
         "P1365": "Mircea Geoană",
         "P582": "2015-07-16",
-        "P1366": "Nicolae-Liviu Dragnea"
+        "P1366": "Liviu Dragnea"
       }
     },
     {
@@ -2052,7 +2401,11 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Sibiu County"
+      }
     }
   ],
   "Q21747073": [
@@ -2232,13 +2585,51 @@
       "qualifiers": {
         "P580": "2006-05-23",
         "P582": "2008-12-22",
-        "P1366": "Victor Ponta"
+        "P1366": "Victor Ponta",
+        "P1365": "Bogdan Olteanu"
       }
     },
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P582": "2016-12-20",
+        "P768": "Dolj County"
+      }
+    },
+    {
+      "id": "Q28194202",
+      "label": "minister-delegate for the business community",
+      "title": "minister-delegate for the business community",
+      "description": "member of some Romanian governments",
+      "qualifiers": {
+        "P580": "2012-08-07",
+        "P582": "2012-12-20",
+        "P1366": "Maria Grapini"
+      }
+    },
+    {
+      "id": "Q21504202",
+      "label": "Minister-delegate for the relation with Parliament",
+      "title": "Minister-delegate for the relation with Parliament",
+      "description": "Member of the Government of Romania",
+      "qualifiers": {
+        "P580": "2012-12-21",
+        "P582": "2014-03-05",
+        "P1366": "Eugen Nicolicea",
+        "P1365": "Dan Șova"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2016-12-21",
+        "P768": "Romanian diaspora"
+      }
     }
   ],
   "Q12727117": [
@@ -2248,11 +2639,48 @@
       "title": "member of the Chamber of Deputies of Romania"
     }
   ],
+  "Q18548077": [
+    {
+      "id": "Q19938957",
+      "label": "member of the Senate of Romania",
+      "title": "member of the Senate of Romania",
+      "description": "member of the upper house of the Parliament of Romania",
+      "qualifiers": {
+        "P580": "2016-12-21",
+        "P768": "Suceava County"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2000-12-11",
+        "P582": "2016-12-20",
+        "P768": "Suceava County"
+      }
+    }
+  ],
   "Q4726709": [
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P768": "Bucharest",
+        "P582": "2016-12-20"
+      }
+    },
+    {
+      "id": "Q19938957",
+      "label": "member of the Senate of Romania",
+      "title": "member of the Senate of Romania",
+      "description": "member of the upper house of the Parliament of Romania",
+      "qualifiers": {
+        "P580": "2016-12-21",
+        "P768": "Timiș County"
+      }
     }
   ],
   "Q3625704": [
@@ -2285,6 +2713,17 @@
       "qualifiers": {
         "P580": "1990-06-18",
         "P768": "Covasna County"
+      }
+    }
+  ],
+  "Q21179243": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P768": "Croats of Romania"
       }
     }
   ],
@@ -2343,6 +2782,27 @@
       "qualifiers": {
         "P580": "2016-12-20",
         "P768": "Hunedoara County"
+      }
+    }
+  ],
+  "Q21179201": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20"
+      }
+    },
+    {
+      "id": "Q19938957",
+      "label": "member of the Senate of Romania",
+      "title": "member of the Senate of Romania",
+      "description": "member of the upper house of the Parliament of Romania",
+      "qualifiers": {
+        "P580": "2016-12-21",
+        "P768": "Timiș County"
       }
     }
   ],
@@ -2410,6 +2870,28 @@
       }
     }
   ],
+  "Q21746972": [
+    {
+      "id": "Q19938957",
+      "label": "member of the Senate of Romania",
+      "title": "member of the Senate of Romania",
+      "description": "member of the upper house of the Parliament of Romania",
+      "qualifiers": {
+        "P580": "2016-12-21",
+        "P768": "Sibiu County"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P582": "2016-12-20",
+        "P768": "Sibiu County"
+      }
+    }
+  ],
   "Q12744039": [
     {
       "id": "Q17556530",
@@ -2437,7 +2919,21 @@
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania",
       "qualifiers": {
-        "P580": "2008"
+        "P580": "2008-12-19",
+        "P582": "2016-12-20",
+        "P768": "Arad County"
+      }
+    },
+    {
+      "id": "Q21504145",
+      "label": "Minister of Labor, Family and Social Protection",
+      "title": "Minister of Labor, Family and Social Protection",
+      "description": "Member of the Government of Romania",
+      "qualifiers": {
+        "P580": "2012-02-27",
+        "P582": "2012-05-07",
+        "P1365": "Sulfina Barbu",
+        "P1366": "Mariana Câmpeanu"
       }
     }
   ],
@@ -2528,15 +3024,27 @@
       }
     }
   ],
+  "Q12720574": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2016-12-19",
+        "P768": "Vaslui County"
+      }
+    }
+  ],
   "Q5556492": [
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania",
       "qualifiers": {
-        "P580": "2002",
+        "P580": "2002-04-16",
         "P1365": "Iohan-Peter Babiaș",
-        "P768": "Poles in Romania"
+        "P768": "Poles in Romania",
+        "P582": "2016-12-20"
       }
     }
   ],
@@ -2664,7 +3172,25 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-09-08",
+        "P768": "Greeks in Romania",
+        "P1365": "Q12741138"
+      }
+    }
+  ],
+  "Q21179296": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Ukrainians of Romania",
+        "P1366": "Nicolae-Miroslav Petrețchi"
+      }
     }
   ],
   "Q6061837": [
@@ -2672,6 +3198,29 @@
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania"
+    }
+  ],
+  "Q21179220": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-07-01",
+        "P768": "Argeș County"
+      }
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor (of Ștefănești)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P642": "Ștefănești",
+        "P580": "2016",
+        "P1365": "Mihail Dorin Bărbuceanu"
+      }
     }
   ],
   "Q14395581": [
@@ -2698,8 +3247,19 @@
       "label": "member of the Chamber of Deputies of Romania",
       "title": "member of the Chamber of Deputies of Romania",
       "qualifiers": {
-        "P580": "2016-12-19",
+        "P580": "2012-12-19",
         "P768": "Bacău County"
+      }
+    }
+  ],
+  "Q18547732": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P768": "Timiș County"
       }
     }
   ],
@@ -3019,6 +3579,18 @@
         "P582": "2012-04-27",
         "P1365": "Theodor Paleologu",
         "P1366": "Mircea Diaconu"
+      }
+    }
+  ],
+  "Q21179332": [
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2015-05-12",
+        "P768": "Argeș County"
       }
     }
   ],
