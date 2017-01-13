@@ -614,8 +614,33 @@
     },
     {
       "birth_date": "1962-09-13",
+      "gender": "male",
       "id": "2474d178-2397-4e8f-abd0-adc59494e159",
-      "name": "Aivar Rosenberg"
+      "identifiers": [
+        {
+          "identifier": "Q18753049",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Aivar_Rosenberg"
+        }
+      ],
+      "name": "Aivar Rosenberg",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aivar Rosenberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Aivar Rosenberg",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-11-22",
@@ -11180,8 +11205,184 @@
     },
     {
       "birth_date": "1956-11-29",
+      "gender": "female",
+      "given_name": "Katrin",
       "id": "39eea09b-e99c-42cb-b19b-ca0400076b1a",
-      "name": "Katrin Saks"
+      "identifiers": [
+        {
+          "identifier": "37200",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/03m5m8z",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "135949564",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2008115773",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "5186",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "164315364",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q535426",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Katrinsaks.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Katrinsaks.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Katrin_Saks"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Katrin_Saks"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Katrin_Saks"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Katrin_Saks"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Katrin_Saks"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Katrin_Saks"
+        }
+      ],
+      "name": "Katrin Saks",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Katrin Saks",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-03-03",
@@ -17106,8 +17307,198 @@
     },
     {
       "birth_date": "1952-09-02",
+      "gender": "male",
       "id": "27d0adba-ae78-49f3-9348-24df60add19e",
-      "name": "Mihhail Lotman"
+      "identifiers": [
+        {
+          "identifier": "16652521w",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "20e05398-5de3-454e-aaff-d508ff4703aa",
+          "scheme": "etis_ee"
+        },
+        {
+          "identifier": "/m/027zbtj",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "076610764",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "9130609",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2012757",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lotman,_Mihhail.IMG_3151.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lotman,_Mihhail.IMG_3151.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mihhail_Lotman"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mihhail_Lotman"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Mihhail_Lotman"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Mihhail_Lotman"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/미하일_로트만"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Лотман,_Михаил_Юрьевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Міхаїл_Лотман"
+        }
+      ],
+      "name": "Mihhail Lotman",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "미하일 로트만",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лотман, Михаил Юрьевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Міхаїл Лотман",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-09-15",
@@ -21898,8 +22289,28 @@
         }
       ],
       "email": "tiina.kangro@riigikogu.ee",
+      "gender": "female",
       "id": "2ef163b7-4c24-4991-813f-9188119bd632",
-      "name": "Tiina Kangro"
+      "identifiers": [
+        {
+          "identifier": "Q20528288",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tiina_Kangro"
+        }
+      ],
+      "name": "Tiina Kangro",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Tiina Kangro",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-10-01",
@@ -25748,8 +26159,312 @@
     },
     {
       "birth_date": "1953-05-06",
+      "gender": "female",
+      "given_name": "Ülle",
       "id": "5683b57d-b38b-4d9c-9484-6707a2e32ef5",
-      "name": "Ülle Rajasalu"
+      "identifiers": [
+        {
+          "identifier": "Q8079458",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ülle_Rajasalu"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Ülle_Rajasalu"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ülle_Rajasalu"
+        }
+      ],
+      "name": "Ülle Rajasalu",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Ülle Rajasalu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-05-11",
