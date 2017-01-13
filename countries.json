@@ -523,11 +523,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Armenia/Assembly/sources",
         "popolo": "data/Armenia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e8fd77437cdde4ebfa231d690d4ed249268c356a/data/Armenia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5c8baf9a46d78dd916de98f412ad4c16184a5968/data/Armenia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Armenia/Assembly/names.csv",
-        "lastmod": "1483806700",
+        "lastmod": "1484308808",
         "person_count": 132,
-        "sha": "e8fd77437cdde4ebfa231d690d4ed249268c356a",
+        "sha": "5c8baf9a46d78dd916de98f412ad4c16184a5968",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -535,10 +535,10 @@
             "start_date": "2012-05-31",
             "slug": "5",
             "csv": "data/Armenia/Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b7150a708772d17f5129685b0d339901ec57693/data/Armenia/Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5c8baf9a46d78dd916de98f412ad4c16184a5968/data/Armenia/Assembly/term-5.csv"
           }
         ],
-        "statement_count": 5903,
+        "statement_count": 5897,
         "type": "unicameral legislature"
       }
     ]
