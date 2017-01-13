@@ -613,6 +613,11 @@
       ]
     },
     {
+      "birth_date": "1962-09-13",
+      "id": "2474d178-2397-4e8f-abd0-adc59494e159",
+      "name": "Aivar Rosenberg"
+    },
+    {
       "birth_date": "1964-11-22",
       "contact_details": [
         {
@@ -11174,6 +11179,11 @@
       ]
     },
     {
+      "birth_date": "1956-11-29",
+      "id": "39eea09b-e99c-42cb-b19b-ca0400076b1a",
+      "name": "Katrin Saks"
+    },
+    {
       "birth_date": "1976-03-03",
       "contact_details": [
         {
@@ -17095,6 +17105,11 @@
       ]
     },
     {
+      "birth_date": "1952-09-02",
+      "id": "27d0adba-ae78-49f3-9348-24df60add19e",
+      "name": "Mihhail Lotman"
+    },
+    {
       "birth_date": "1961-09-15",
       "contact_details": [
         {
@@ -21875,6 +21890,18 @@
       ]
     },
     {
+      "birth_date": "1961-04-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tiina.kangro@riigikogu.ee"
+        }
+      ],
+      "email": "tiina.kangro@riigikogu.ee",
+      "id": "2ef163b7-4c24-4991-813f-9188119bd632",
+      "name": "Tiina Kangro"
+    },
+    {
       "birth_date": "1955-10-01",
       "gender": "female",
       "id": "ccb289cc-8b57-45e9-aefd-99ef6946a8a1",
@@ -25720,6 +25747,11 @@
       ]
     },
     {
+      "birth_date": "1953-05-06",
+      "id": "5683b57d-b38b-4d9c-9484-6707a2e32ef5",
+      "name": "Ülle Rajasalu"
+    },
+    {
       "birth_date": "1957-05-11",
       "gender": "male",
       "id": "31c1ce3e-dace-4ab8-8cb0-f4257947b976",
@@ -28449,6 +28481,14 @@
       "start_date": "2015-04-09"
     },
     {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "2474d178-2397-4e8f-abd0-adc59494e159",
+      "role": "member",
+      "start_date": "2014-04-09"
+    },
+    {
       "area_id": "area/järva-_ja_viljandimaa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
@@ -28515,6 +28555,15 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "275f82b8-b436-4a60-9067-06e8a2e0fc86",
       "role": "member"
+    },
+    {
+      "end_date": "2013-01-23",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "IRL",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "27d0adba-ae78-49f3-9348-24df60add19e",
+      "role": "member",
+      "start_date": "2013-01-22"
     },
     {
       "legislative_period_id": "term/12",
@@ -28606,6 +28655,15 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/8940964b-6bfd-482d-a4f5-53f2cccb149d/Priit-Sibul"
         }
       ]
+    },
+    {
+      "area_id": "area/harju-_ja_raplamaa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "IRL",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "2ef163b7-4c24-4991-813f-9188119bd632",
+      "role": "member",
+      "start_date": "2016-12-16"
     },
     {
       "end_date": "2016-11-25",
@@ -28730,6 +28788,15 @@
       "person_id": "3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
       "role": "member",
       "start_date": "2016-11-23"
+    },
+    {
+      "end_date": "2014-03-28",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "SDE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "39eea09b-e99c-42cb-b19b-ca0400076b1a",
+      "role": "member",
+      "start_date": "2014-03-27"
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -29061,6 +29128,15 @@
       "person_id": "5603c46f-d8f8-41d6-9957-472c68f34c27",
       "role": "member",
       "start_date": "2016-11-24"
+    },
+    {
+      "end_date": "2011-04-07",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "RE",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "5683b57d-b38b-4d9c-9484-6707a2e32ef5",
+      "role": "member",
+      "start_date": "2011-04-06"
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -29616,6 +29692,7 @@
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "end_date": "2016-12-15",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "IRL",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
