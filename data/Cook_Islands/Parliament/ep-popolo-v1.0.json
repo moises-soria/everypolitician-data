@@ -1568,6 +1568,10 @@
       "name": "Selina Napa"
     },
     {
+      "id": "4a9dcd4c-4e01-444a-be2b-4828a04fbc52",
+      "name": "Tai Ravarua"
+    },
+    {
       "birth_date": "1949",
       "gender": "male",
       "id": "6c8d3c61-259a-4b02-ad46-855d13f14f83",
@@ -2923,6 +2927,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mk",
+          "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -3226,6 +3235,11 @@
           "lang": "sr",
           "name": "ванстраначки политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -3487,6 +3501,14 @@
       "on_behalf_of_id": "party/cip",
       "organization_id": "a1a85685-7d9a-4b03-a581-720f77e13a38",
       "person_id": "49f12138-60dc-4f12-9ad5-8ffa918148ed",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pukapuka-nassau",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "a1a85685-7d9a-4b03-a581-720f77e13a38",
+      "person_id": "4a9dcd4c-4e01-444a-be2b-4828a04fbc52",
       "role": "member"
     },
     {
