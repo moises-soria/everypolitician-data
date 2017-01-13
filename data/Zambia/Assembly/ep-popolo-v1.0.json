@@ -4078,6 +4078,10 @@
         {
           "identifier": "238",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27899009",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Victoria%20Kalima.JPG?itok=OQY5LyJG",
@@ -4086,7 +4090,20 @@
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Victoria%20Kalima.JPG?itok=OQY5LyJG"
         }
       ],
-      "name": "Victoria Kalima"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Kalima"
+        }
+      ],
+      "name": "Victoria Kalima",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Victoria Kalima",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-12-05",
