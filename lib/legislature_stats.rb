@@ -6,10 +6,10 @@ class StatsFile
   # as JSON and writing out to the `stats.json` for that house.
 
   # @param popolo [EveryPolitician::Popolo]
-  # @param position_filter [Pathname]
-  def initialize(popolo:, position_filter:)
+  # @param position_file [Pathname]
+  def initialize(popolo:, position_file:)
     @popolo = popolo
-    @position_filter = position_filter
+    @position_file = position_file
   end
 
   # Re-generated statistics for this legislature
@@ -27,7 +27,7 @@ class StatsFile
 
   private
 
-  attr_reader :popolo, :position_filter
+  attr_reader :popolo, :position_file
 
   def people_stats
     current = popolo.latest_term.memberships.map(&:person).uniq(&:id)
@@ -99,8 +99,8 @@ class StatsFile
   end
 
   def cabinet_positions
-    return 0 unless position_filter.file?
-    posns = JSON.parse(position_filter.read, symbolize_names: true)
-    posns[:include][:cabinet].count rescue 0
+    return 0 unless position_file.file?
+    posns = CSV.table(position_file)
+    posns.select { |r| r[:type] == 'cabinet' }.count rescue 0
   end
 end
