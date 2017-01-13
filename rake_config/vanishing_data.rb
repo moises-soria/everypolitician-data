@@ -26,13 +26,17 @@ end
 
 class SourceHistory
   # Given a Source file, look at the prior version in git history and
-  # provide access to information that has vanished since then
+  # provide access to information that has changed since then
   def initialize(source)
     @source = source
   end
 
-  def vanishing_data
-    old.rows(*vanishing_ids)
+  def removed_data
+    old.rows(*removed_ids)
+  end
+
+  def added_data
+    cur.rows(*added_ids)
   end
 
   private
@@ -55,20 +59,40 @@ class SourceHistory
     @cur ||= SourceCSV.new(source.pathname.read)
   end
 
-  def vanishing_ids
+  def added_ids
+    cur.ids - old.ids
+  end
+
+  def removed_ids
     old.ids - cur.ids
   end
 end
 
-desc 'report on vanishing data from a given file'
-namespace :missing_data do
-  # TODO: add a parallel task for the idmap files
-  task :memberships, [:filename] do |_, args|
-    wanted = @SOURCES.find { |s| s.filename.to_s.include? args[:filename] } ||
-             abort("No suitable source matching '#{args[:filename]}'")
-    source = SourceHistory.new(wanted)
-    vanished = source.vanishing_data
-    puts vanished.first.headers.join(',')
-    puts vanished
+namespace :changing_sources do
+  def history(filename)
+    wanted = @SOURCES.find { |s| s.filename.to_s.include? filename }
+    abort "No suitable source matching '#{filename}'" if wanted.nil?
+    SourceHistory.new(wanted)
+  end
+
+  desc 'report on vanished rows from a given source'
+  task :removed_rows, [:filename] do |t, args|
+    # TODO: add a parallel task for the idmap files
+    abort "Usage: rake #{t}[source]" if args[:filename].to_s.empty?
+    source = history(args[:filename])
+    changed = source.removed_data
+    abort 'No rows removed' if changed.empty?
+    puts changed.first.headers.join(',')
+    puts changed
+  end
+
+  desc 'report on added rows to a given source'
+  task :added_rows, [:filename] do |t, args|
+    abort "Usage: rake #{t}[source]" if args[:filename].to_s.empty?
+    source = history(args[:filename])
+    changed = source.added_data
+    abort 'No rows added' if changed.empty?
+    puts changed.first.headers.join(',')
+    puts changed
   end
 end
