@@ -948,7 +948,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Farrer",
+        "P580": "2001-11-10",
+        "P1365": "Tim Fischer"
+      }
     },
     {
       "id": "Q6865857",
@@ -3198,7 +3203,8 @@
       "qualifiers": {
         "P580": "2004-10-09",
         "P582": "",
-        "P768": "Wentworth"
+        "P768": "Wentworth",
+        "P1365": "Peter King"
       }
     },
     {
@@ -3233,7 +3239,8 @@
       "qualifiers": {
         "P580": "2015-09-15",
         "P1365": "Tony Abbott",
-        "P2098": "Warren Truss"
+        "P2098": "Warren Truss",
+        "P1545": "29"
       }
     }
   ],
@@ -4247,7 +4254,8 @@
         "P580": "1991-12-20",
         "P582": "1996-03-11",
         "P1365": "Bob Hawke",
-        "P1366": "John Howard"
+        "P1366": "John Howard",
+        "P1545": "24"
       }
     },
     {
@@ -6108,7 +6116,8 @@
         "P580": "2007-12-03",
         "P582": "2010-06-24",
         "P1365": "John Howard",
-        "P1366": "Julia Gillard"
+        "P1366": "Julia Gillard",
+        "P1545": "26"
       }
     },
     {
@@ -7252,7 +7261,8 @@
         "P580": "1996-03-11",
         "P582": "2007-12-03",
         "P1365": "Paul Keating",
-        "P1366": "Kevin Rudd"
+        "P1366": "Kevin Rudd",
+        "P1545": "25"
       }
     },
     {
@@ -7431,7 +7441,8 @@
         "P582": "2013-06-27",
         "P580": "2010-06-24",
         "P1365": "Kevin Rudd",
-        "P1366": "Kevin Rudd"
+        "P1366": "Kevin Rudd",
+        "P1545": "27"
       }
     },
     {
