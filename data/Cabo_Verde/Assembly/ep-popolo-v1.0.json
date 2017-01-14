@@ -170,6 +170,16 @@
       "name": "Anilda Ineida Monteiro Tavares"
     },
     {
+      "id": "b9e80098-5aa0-44c8-abec-d8b714c2aeb1",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=414",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=414"
+        }
+      ],
+      "name": "António Alberto Mendes Fernandes"
+    },
+    {
       "id": "c7d86897-c43e-4faa-b2d2-3361e6547107",
       "identifiers": [
         {
@@ -1164,6 +1174,16 @@
       "name": "João Baptista Correia Pereira"
     },
     {
+      "id": "5696f75b-3aad-4448-b51e-29ad64eb3e5c",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=413",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=413"
+        }
+      ],
+      "name": "João Carlos Cabral Varela Semedo"
+    },
+    {
       "id": "f001c26b-c08d-4c23-bc6a-a59a5c69476a",
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=314",
       "images": [
@@ -1350,6 +1370,16 @@
       "name": "Maria Fernanda Mendes Varela"
     },
     {
+      "id": "a9278755-a76c-4638-9b79-2da4bedeba4d",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=410",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=410"
+        }
+      ],
+      "name": "Maria Roberto Nascimento"
+    },
+    {
       "id": "94a55e74-1c84-476d-a53c-26041a657a1e",
       "identifiers": [
         {
@@ -1380,6 +1410,16 @@
         }
       ],
       "name": "Miguel Pedro Sousa Monteiro"
+    },
+    {
+      "id": "f68cf17a-0c77-4e1d-826d-c43fb3dfe890",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=409",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=409"
+        }
+      ],
+      "name": "Milton Nascimento de Sena Paiva"
     },
     {
       "id": "c7b22fef-e971-40c6-a693-1642f48c7b70",
@@ -2078,6 +2118,11 @@
           "lang": "ja",
           "name": "民主独立カーボベルデ連合",
           "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió Capverdiana Independent i Democràtica",
+          "note": "multilingual"
         }
       ]
     },
@@ -2636,6 +2681,19 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=309"
+        }
+      ]
+    },
+    {
+      "area_id": "area/santiago_sul",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "MPD",
+      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
+      "person_id": "5696f75b-3aad-4448-b51e-29ad64eb3e5c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=413"
         }
       ]
     },
@@ -3212,6 +3270,19 @@
       ]
     },
     {
+      "area_id": "area/santo_antão",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "MPD",
+      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
+      "person_id": "a9278755-a76c-4638-9b79-2da4bedeba4d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=410"
+        }
+      ]
+    },
+    {
       "area_id": "area/américa",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "PAICV",
@@ -3350,6 +3421,18 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=318"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
+      "person_id": "b9e80098-5aa0-44c8-abec-d8b714c2aeb1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=414"
         }
       ]
     },
@@ -3883,6 +3966,19 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=216"
+        }
+      ]
+    },
+    {
+      "area_id": "area/santiago_sul",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "MPD",
+      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
+      "person_id": "f68cf17a-0c77-4e1d-826d-c43fb3dfe890",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=409"
         }
       ]
     },
