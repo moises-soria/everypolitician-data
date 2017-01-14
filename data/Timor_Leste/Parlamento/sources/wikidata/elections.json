@@ -33,6 +33,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "zh",
+        "name": "2001年東帝汶議會選舉",
+        "note": "multilingual"
+      },
+      {
         "lang": "de",
         "name": "Parlamentswahlen 2001",
         "note": "multilingual"
@@ -71,7 +76,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives est-timoraises de 2012",
+        "name": "élections législatives est-timoraises de 2012",
         "note": "multilingual"
       },
       {
@@ -92,6 +97,11 @@
       {
         "lang": "zh",
         "name": "2012年東帝汶國會選舉",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "2012年东帝汶國會選舉",
         "note": "multilingual"
       }
     ],
@@ -181,10 +191,16 @@
         "lang": "en",
         "name": "East Timorese parliamentary election, 2017",
         "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahlen in Osttimor 2017",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "2017"
-    ]
+      "2017-07"
+    ],
+    "follows": "East Timorese parliamentary election, 2012"
   }
 }
