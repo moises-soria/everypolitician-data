@@ -11992,6 +11992,11 @@
           "lang": "fr",
           "name": "Jorge Morales Adriasola",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jorge Morales Adriasola",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Morales"
@@ -13079,6 +13084,10 @@
         {
           "identifier": "817",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04gv1_9",
+          "scheme": "freebase"
         },
         {
           "identifier": "0000 0000 8100 5532",
@@ -17424,6 +17433,11 @@
         {
           "lang": "hr",
           "name": "Miodrag Arturo Marinović Solo de Zaldívar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Miodrag Marinovic",
           "note": "multilingual"
         }
       ],
@@ -31970,6 +31984,19 @@
       "name": "Legislativo 2014-2018",
       "organization_id": "5e07982c-0efe-41a8-8899-3b5edc94f112",
       "start_date": "2014-03-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2017-11-19",
+      "id": "Q25040872",
+      "identifiers": [
+        {
+          "identifier": "Q25040872",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Chilean general election, 2017",
+      "start_date": "2017-11-19"
     }
   ],
   "areas": [
