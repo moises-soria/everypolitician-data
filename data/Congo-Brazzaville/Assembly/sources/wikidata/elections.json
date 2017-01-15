@@ -73,7 +73,8 @@
     ],
     "dates": [
       "2012-07-15"
-    ]
+    ],
+    "followed_by": "Republic of the Congo parliamentary election, 2017"
   },
   "Q7165752": {
     "identifiers": [
@@ -241,5 +242,24 @@
     "dates": [
       "2002"
     ]
+  },
+  "Q28331321": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q28331321"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Republic of the Congo parliamentary election, 2017",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2017-07-15"
+    ],
+    "follows": "Republic of the Congo parliamentary election, 2012"
   }
 }

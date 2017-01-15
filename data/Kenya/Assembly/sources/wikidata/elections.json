@@ -177,7 +177,7 @@
       },
       {
         "lang": "en",
-        "name": "Kenyan general election",
+        "name": "Kenyan general election, 1992",
         "note": "multilingual"
       },
       {
@@ -288,6 +288,7 @@
     "dates": [
       "2013-03-04"
     ],
+    "followed_by": "Kenyan general election, 2017",
     "office": "President of Kenya"
   },
   "Q6392885": {
@@ -366,7 +367,7 @@
     "dates": [
       "1997"
     ],
-    "follows": "Kenyan general election",
+    "follows": "Kenyan general election, 1992",
     "office": "President of Kenya",
     "successful_candidates": [
       "Daniel arap Moi"
@@ -515,5 +516,24 @@
     "dates": [
       "1944-09"
     ]
+  },
+  "Q28128006": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q28128006"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Kenyan general election, 2017",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2017-08-08"
+    ],
+    "follows": "Kenyan general election 2013"
   }
 }
