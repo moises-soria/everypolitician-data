@@ -8637,14 +8637,6 @@
       "description": "Turkish MP"
     }
   ],
-  "Q12808292": [
-    {
-      "id": "Q21030356",
-      "label": "Member of the Grand National Assembly of Turkey",
-      "title": "Member of the Grand National Assembly of Turkey",
-      "description": "Turkish MP"
-    }
-  ],
   "Q6079087": [
     {
       "id": "Q21030356",
@@ -18660,7 +18652,8 @@
       "title": "President of Turkey",
       "qualifiers": {
         "P580": "2014-08-28",
-        "P1365": "Abdullah Gül"
+        "P1365": "Abdullah Gül",
+        "P94": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Seal_of_Prime_Ministry_of_the_Republic_of_Turkey.svg"
       }
     },
     {
@@ -18672,7 +18665,8 @@
         "P580": "2003-03-14",
         "P582": "2014-08-28",
         "P1365": "Abdullah Gül",
-        "P1366": "Ahmet Davutoğlu"
+        "P1366": "Ahmet Davutoğlu",
+        "P94": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Seal_of_Prime_Ministry_of_the_Republic_of_Turkey.svg"
       }
     },
     {
@@ -19843,7 +19837,11 @@
     {
       "id": "Q1922067",
       "label": "President of Turkey",
-      "title": "President of Turkey"
+      "title": "President of Turkey",
+      "qualifiers": {
+        "P580": "1920-05-03",
+        "P582": "1921-01-24"
+      }
     },
     {
       "id": "Q21030356",
@@ -21274,8 +21272,8 @@
     },
     {
       "id": "Q27481020",
-      "label": "Q27481020",
-      "title": "Q27481020"
+      "label": "Member of the State Duma of the Russian Empire",
+      "title": "Member of the State Duma of the Russian Empire"
     },
     {
       "id": "Q27491113",
