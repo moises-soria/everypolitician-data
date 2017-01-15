@@ -51,7 +51,8 @@
     ],
     "dates": [
       "2014-11-22"
-    ]
+    ],
+    "followed_by": "Alderney general election, 2016"
   },
   "Q23585756": {
     "identifiers": [
@@ -88,5 +89,24 @@
     "dates": [
       "2012"
     ]
+  },
+  "Q28316961": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q28316961"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Alderney general election, 2016",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2016-11-26"
+    ],
+    "follows": "Alderney general election, 2014"
   }
 }
