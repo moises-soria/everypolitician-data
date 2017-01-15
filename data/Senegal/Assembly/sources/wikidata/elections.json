@@ -9,7 +9,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1968",
+        "name": "élections législatives sénégalaises de 1968",
         "note": "multilingual"
       },
       {
@@ -40,7 +40,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1963",
+        "name": "élections législatives sénégalaises de 1963",
         "note": "multilingual"
       },
       {
@@ -63,7 +63,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1973",
+        "name": "élections législatives sénégalaises de 1973",
         "note": "multilingual"
       },
       {
@@ -94,7 +94,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1978",
+        "name": "élections législatives sénégalaises de 1978",
         "note": "multilingual"
       },
       {
@@ -125,7 +125,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1983",
+        "name": "élections législatives sénégalaises de 1983",
         "note": "multilingual"
       },
       {
@@ -161,7 +161,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1993",
+        "name": "élections législatives sénégalaises de 1993",
         "note": "multilingual"
       },
       {
@@ -184,7 +184,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1988",
+        "name": "élections législatives sénégalaises de 1988",
         "note": "multilingual"
       },
       {
@@ -230,7 +230,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 1998",
+        "name": "élections législatives sénégalaises de 1998",
         "note": "multilingual"
       },
       {
@@ -253,7 +253,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 2012",
+        "name": "élections législatives sénégalaises de 2012",
         "note": "multilingual"
       },
       {
@@ -280,7 +280,8 @@
     "dates": [
       "2012"
     ],
-    "follows": "Senegalese parliamentary election, 2007"
+    "follows": "Senegalese parliamentary election, 2007",
+    "followed_by": "Senegalese parliamentary election, 2017"
   },
   "Q3587251": {
     "identifiers": [
@@ -292,7 +293,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 2007",
+        "name": "élections législatives sénégalaises de 2007",
         "note": "multilingual"
       },
       {
@@ -332,7 +333,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives sénégalaises de 2001",
+        "name": "élections législatives sénégalaises de 2001",
         "note": "multilingual"
       },
       {
@@ -395,5 +396,24 @@
     "dates": [
       "1959"
     ]
+  },
+  "Q28330758": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q28330758"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Senegalese parliamentary election, 2017",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2017-07-02"
+    ],
+    "follows": "Senegalese parliamentary election, 2012"
   }
 }
