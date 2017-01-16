@@ -400,6 +400,7 @@
       "name": "Lovitta Foggo"
     },
     {
+      "birth_date": "1974-02-19",
       "contact_details": [
         {
           "type": "email",
@@ -408,20 +409,46 @@
       ],
       "email": "mbean@parliament.bm",
       "gender": "male",
+      "given_name": "Marc",
       "id": "81fd4be1-95c6-4d7c-baba-9d2143d9f040",
       "identifiers": [
         {
           "identifier": "Marc_Bean",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23772603",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/3151_EPIS_MINISTER_MARC_BEAN_VSR_009_5x7.jpg",
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/3151_EPIS_MINISTER_MARC_BEAN_VSR_009_5x7.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Marc_Bean_PC.png"
         }
       ],
-      "name": "Marc Bean"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marc_Bean"
+        }
+      ],
+      "name": "Marc Bean",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marc Bean",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marc Bean",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -748,20 +775,46 @@
       ],
       "email": "tmoniz@parliament.bm",
       "gender": "male",
+      "given_name": "Trevor",
       "id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
       "identifiers": [
         {
           "identifier": "Trevor_Moniz",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16732783",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/MONIZ%20TREVOR.jpg",
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/MONIZ%20TREVOR.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Trevor_Moniz.jpg"
         }
       ],
-      "name": "Trevor Moniz"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Trevor_Moniz"
+        }
+      ],
+      "name": "Trevor Moniz",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Trevor Moniz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Trevor Moniz",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1647,7 +1700,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.parliament.bm"
+      "http://www.parliament.bm",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
