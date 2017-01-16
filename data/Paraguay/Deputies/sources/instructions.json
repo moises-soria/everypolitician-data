@@ -1,5 +1,6 @@
 {
   "sources": [
+
     {
       "file": "morph/data.csv",
       "create": {
@@ -9,6 +10,12 @@
       },
       "source": "http://www.diputados.gov.py",
       "type": "membership"
+    },
+    {
+      "file": "archive/official-ceased.csv",
+      "source": "http://www.diputados.gov.py",
+      "type": "membership",
+      "reuse_ids": false
     },
     {
       "file": "manual/terms.csv",
