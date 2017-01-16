@@ -3097,13 +3097,24 @@
       "id": "Q18810377",
       "label": "Member of the New South Wales Legislative Council",
       "title": "Member of the New South Wales Legislative Council",
-      "description": "public office in New South Wales, Australia"
+      "description": "public office in New South Wales, Australia",
+      "qualifiers": {
+        "P580": "1988-03-19",
+        "P582": "1996-01-31"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Cook",
+        "P580": "1996-03-02",
+        "P582": "1998-08-31",
+        "P1365": "Don Dobie",
+        "P1366": "Bruce Baird"
+      }
     }
   ],
   "Q7340226": [
@@ -4331,7 +4342,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Adelaide",
+        "P580": "1993-03-13",
+        "P582": "2004-10-09",
+        "P1365": "Bob Catley",
+        "P1366": "Kate Ellis"
+      }
     }
   ],
   "Q908749": [
@@ -5420,7 +5438,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Grey",
+        "P580": "2007-11-24",
+        "P1365": "Barry Wakelin"
+      }
     }
   ],
   "Q6223436": [
@@ -5667,13 +5690,23 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "McEwen",
+        "P580": "2010-08-21",
+        "P1365": "Fran Bailey"
+      }
     },
     {
       "id": "Q19185341",
       "label": "Member of the Victorian Legislative Council",
       "title": "Member of the Victorian Legislative Council",
-      "description": "elected representative"
+      "description": "elected representative",
+      "qualifiers": {
+        "P768": "Central Highlands Province",
+        "P580": "2002-11-30",
+        "P582": "2006-11-24"
+      }
     }
   ],
   "Q25350560": [
@@ -7033,7 +7066,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Higgins",
+        "P580": "1975-12-13",
+        "P582": "1990-02-19",
+        "P1365": "John Gorton",
+        "P1366": "Peter Costello"
+      }
     }
   ],
   "Q7612647": [
@@ -8523,7 +8563,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Adelaide",
+        "P580": "2004-10-09",
+        "P1365": "Trish Worth"
+      }
     },
     {
       "id": "Q11796967",
