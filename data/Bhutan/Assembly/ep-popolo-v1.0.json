@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1965-03-17",
       "contact_details": [
         {
           "type": "email",
@@ -17,6 +18,10 @@
         {
           "identifier": "28",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16196076",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/choida-jamtsho.jpg",
@@ -25,7 +30,44 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/choida-jamtsho.jpg"
         }
       ],
-      "name": "Choida Jamtsho"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Choida_Jamtsho"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чойда_Джамцо"
+        }
+      ],
+      "name": "Choida Jamtsho",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Choida Jamtsho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Choida Jamtsho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Choida Jamtsho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Choida Jamtsho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чойда Джамцо",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -65,6 +107,10 @@
         {
           "identifier": "26",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21063384",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dechen-zangmo.jpg",
@@ -73,7 +119,25 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dechen-zangmo.jpg"
         }
       ],
-      "name": "Dechen Zangmo"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dechen_Zangmo"
+        }
+      ],
+      "name": "Dechen Zangmo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dechen Zangmo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dechen Zangmo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -113,6 +177,10 @@
         {
           "identifier": "47",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21063387",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dorji-wangdi.jpg",
@@ -121,9 +189,28 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dorji-wangdi.jpg"
         }
       ],
-      "name": "Dorji Wangdi"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dorji_Wangdi"
+        }
+      ],
+      "name": "Dorji Wangdi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dorji Wangdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dorji Wangdi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "email",
@@ -137,6 +224,14 @@
         {
           "identifier": "13",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "72132189",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q15952612",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/pema-gyamtsho.jpg",
@@ -145,7 +240,43 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/pema-gyamtsho.jpg"
         }
       ],
-      "name": "Dr. Pema Gyamtsho"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pema_Gyamtsho"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ペマ・ギャムツォ"
+        }
+      ],
+      "name": "Dr. Pema Gyamtsho",
+      "other_names": [
+        {
+          "name": "Pema Gyamtsho",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Pema Gyamtsho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pema Gyamtsho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ペマ・ギャムツォ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pema Gyamtsho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -161,6 +292,10 @@
         {
           "identifier": "40",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20676510",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dupthob.jpg",
@@ -169,7 +304,25 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dupthob.jpg"
         }
       ],
-      "name": "Dupthob"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dupthob"
+        }
+      ],
+      "name": "Dupthob",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dupthob",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dupthob",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -233,6 +386,10 @@
         {
           "identifier": "38",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21934258",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/jigme-wangchuk.jpg",
@@ -241,7 +398,60 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/jigme-wangchuk.jpg"
         }
       ],
-      "name": "Jigme Wangchuk"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jigme_Wangchuk"
+        }
+      ],
+      "name": "Jigme Wangchuk",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jigme Wangchuk",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -281,6 +491,10 @@
         {
           "identifier": "21",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21063382",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/karma-rangdol.jpg",
@@ -289,7 +503,25 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/karma-rangdol.jpg"
         }
       ],
-      "name": "Karma Rangdol"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Karma_Rangdol"
+        }
+      ],
+      "name": "Karma Rangdol",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Karma Rangdol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Karma Rangdol",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -340,6 +572,7 @@
       "name": "Kezang Wangmo"
     },
     {
+      "birth_date": "1950-11-24",
       "contact_details": [
         {
           "type": "email",
@@ -353,6 +586,14 @@
         {
           "identifier": "25",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03qcv_",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q441881",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/khando-wangchuk.jpg",
@@ -361,7 +602,161 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/khando-wangchuk.jpg"
         }
       ],
-      "name": "Khandu Wangchuk"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Λιόνπο_Χαντού_Βαντσούκ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Khandu_Wangchuck"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Lyonpo_Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Lyonpo_Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Вангчук,_Ханду"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Khandu_Wangchuk"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Ханду_Вангчук"
+        }
+      ],
+      "name": "Khandu Wangchuk",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λιόνπο Χαντού Βαντσούκ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lyonpo Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lyonpo Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "カンドゥ・ワンチュク",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Lyonpo Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lyonpo Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ханду Вангчук",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Khandu Wangchuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ханду Вангчук",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -372,11 +767,16 @@
       ],
       "email": "ktshering@nab.gov.bt",
       "gender": "male",
+      "given_name": "Kinga",
       "id": "602d0a26-eb66-484c-a27c-b9ba26860c66",
       "identifiers": [
         {
           "identifier": "35",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21063385",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/kinga-tshering.jpg",
@@ -385,7 +785,25 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/kinga-tshering.jpg"
         }
       ],
-      "name": "Kinga Tshering"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kinga_Tshering"
+        }
+      ],
+      "name": "Kinga Tshering",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kinga Tshering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kinga Tshering",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -460,10 +878,15 @@
       "name": "Lekey Dorji"
     },
     {
+      "birth_date": "1965-09-19",
       "contact_details": [
         {
           "type": "email",
           "value": "pm@nab.gov.bt"
+        },
+        {
+          "type": "twitter",
+          "value": "tsheringtobgay"
         }
       ],
       "email": "pm@nab.gov.bt",
@@ -473,15 +896,358 @@
         {
           "identifier": "1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0g5psh0",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nm5643898",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "Q7849613",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonchen-tshering-tobgay.jpg",
       "images": [
         {
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonchen-tshering-tobgay.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tshering_Tobgay.jpg"
         }
       ],
-      "name": "Lyonchhen Tshering Tobgay"
+      "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/শেরিং_তোবগে"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τσέρινγκ_Τομπγκάι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تشرینگ_توبگای"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/शेरिंग_तोबगे"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ツェリン・トブゲ"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ഷെറിങ്_തോബ്‌ഗെ"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/त्शेरिंग_तोब्गे"
+        },
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/छिरिङ_तोब्गे"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Тобгай,_Церинг"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Черинг_Тобгај"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/เชอริง_ต๊อบเกย์"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Церінг_Тобгай"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Tshering_Tobgay"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/策林·托傑"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/tsheringtobgay"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/tsheringtobgay"
+        }
+      ],
+      "name": "Lyonchhen Tshering Tobgay",
+      "other_names": [
+        {
+          "name": "Tshering Tobgay",
+          "note": "alternate"
+        },
+        {
+          "lang": "bn",
+          "name": "শেরিং তোবগে",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "dz",
+          "name": "ཚེ་རིང་སྟོབས་རྒྱས།",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τσέρινγκ Τομπγκάι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تشرینگ توبگای",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "शेरिंग तोबगे",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ツェリン・トブゲ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ഷെറിങ് തോബ്‌ഗെ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "त्शेरिंग तोब्गे",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "छिरिङ तोब्गे",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nov",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Тобгай, Церинг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Церинг Тобгај",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เชอริง ต๊อบเกย์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Церінг Тобгай",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Tshering Tobgay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "策林·托傑",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -785,6 +1551,10 @@
         {
           "identifier": "42",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21063386",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/nidup-zangpo.jpg",
@@ -793,7 +1563,25 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/nidup-zangpo.jpg"
         }
       ],
-      "name": "Nidup Zangpo"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nidup_Zangpo"
+        }
+      ],
+      "name": "Nidup Zangpo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nidup Zangpo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nidup Zangpo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -905,6 +1693,10 @@
         {
           "identifier": "23",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20677125",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/rinzin-gamtsho.jpg",
@@ -913,7 +1705,25 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/rinzin-gamtsho.jpg"
         }
       ],
-      "name": "Rinzin Jamtsho"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rinzin_Jamtsho"
+        }
+      ],
+      "name": "Rinzin Jamtsho",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rinzin Jamtsho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rinzin Jamtsho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1025,6 +1835,10 @@
         {
           "identifier": "22",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21063383",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/ugyen-wangdi.jpg",
@@ -1033,7 +1847,25 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/ugyen-wangdi.jpg"
         }
       ],
-      "name": "Ugyen Wangdi"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ugyen_Wangdi"
+        }
+      ],
+      "name": "Ugyen Wangdi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ugyen Wangdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ugyen Wangdi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1049,6 +1881,10 @@
         {
           "identifier": "37",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20983456",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/wangdi-norbu.jpg",
@@ -1057,9 +1893,28 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/wangdi-norbu.jpg"
         }
       ],
-      "name": "Wangdi Norbu"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wangdi_Norbu"
+        }
+      ],
+      "name": "Wangdi Norbu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wangdi Norbu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wangdi Norbu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1952-10-10",
       "contact_details": [
         {
           "type": "email",
@@ -1073,6 +1928,14 @@
         {
           "identifier": "36",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03qcth",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q864561",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/yeshey-zimba.jpg",
@@ -1081,7 +1944,130 @@
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/yeshey-zimba.jpg"
         }
       ],
-      "name": "Yeshey Zimba"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Lyonpo_Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Зимба,_Ешей"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Lyonpo_Yeshey_Zimba"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Єшей_Зімба"
+        }
+      ],
+      "name": "Yeshey Zimba",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イェシュイ・ジンバ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lyonpo Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Зимба, Ешей",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lyonpo Yeshey Zimba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Єшей Зімба",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1108,6 +2094,7 @@
       "name": "Yogesh Tamang"
     },
     {
+      "birth_date": "1950-02-02",
       "contact_details": [
         {
           "type": "email",
@@ -1121,15 +2108,40 @@
         {
           "identifier": "27",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20676499",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/zangley-dukpa.jpg",
       "images": [
         {
           "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/zangley-dukpa.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dr_Zangley_Dukpa_2012.jpg"
         }
       ],
-      "name": "Zangley Dukpa"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zangley_Dukpa"
+        }
+      ],
+      "name": "Zangley Dukpa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zangley Dukpa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zangley Dukpa",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -1392,7 +2404,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.nab.gov.bt"
+      "http://www.nab.gov.bt",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
