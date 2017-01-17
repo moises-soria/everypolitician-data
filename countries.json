@@ -1703,11 +1703,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Cabo_Verde/Assembly/sources",
         "popolo": "data/Cabo_Verde/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/31dbe6bbe7937fe28cc9f4a73cd5df79560017fe/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bdfcb57a3b23a37c438672f07bc4eb009f69786d/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json",
         "names": "data/Cabo_Verde/Assembly/names.csv",
-        "lastmod": "1481559270",
-        "person_count": 124,
-        "sha": "31dbe6bbe7937fe28cc9f4a73cd5df79560017fe",
+        "lastmod": "1484636790",
+        "person_count": 127,
+        "sha": "bdfcb57a3b23a37c438672f07bc4eb009f69786d",
         "legislative_periods": [
           {
             "id": "term/9",
@@ -1715,7 +1715,7 @@
             "start_date": "2016-04-20",
             "slug": "9",
             "csv": "data/Cabo_Verde/Assembly/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2131da66fb80e4d2b0f36265e820e5131e80eb9b/data/Cabo_Verde/Assembly/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bdfcb57a3b23a37c438672f07bc4eb009f69786d/data/Cabo_Verde/Assembly/term-9.csv"
           },
           {
             "end_date": "2016-03-20",
@@ -1727,7 +1727,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ee6e9a21286db34adc3b610673caf31bb09ceb76/data/Cabo_Verde/Assembly/term-8.csv"
           }
         ],
-        "statement_count": 2022,
+        "statement_count": 2064,
         "type": "unicameral legislature"
       }
     ]
