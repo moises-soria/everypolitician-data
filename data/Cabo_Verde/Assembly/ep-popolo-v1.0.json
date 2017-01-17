@@ -170,16 +170,6 @@
       "name": "Anilda Ineida Monteiro Tavares"
     },
     {
-      "id": "b9e80098-5aa0-44c8-abec-d8b714c2aeb1",
-      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=414",
-      "images": [
-        {
-          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=414"
-        }
-      ],
-      "name": "António Alberto Mendes Fernandes"
-    },
-    {
       "id": "c7d86897-c43e-4faa-b2d2-3361e6547107",
       "identifiers": [
         {
@@ -3425,18 +3415,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
-      "person_id": "b9e80098-5aa0-44c8-abec-d8b714c2aeb1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=414"
-        }
-      ]
-    },
-    {
       "area_id": "area/brava",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
@@ -3602,6 +3580,18 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=259"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
+      "person_id": "c7d86897-c43e-4faa-b2d2-3361e6547107",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=414"
         }
       ]
     },
