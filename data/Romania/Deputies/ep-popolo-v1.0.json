@@ -31095,14 +31095,14 @@
     {
       "birth_date": "1962-12-12",
       "gender": "male",
-      "id": "47a76caa-4851-43ef-b63f-f511198b5f57",
+      "id": "78932d3b-45c0-47b2-9c89-b6492441c781",
       "identifiers": [
         {
           "identifier": "33991",
           "scheme": "europarlmep"
         },
         {
-          "identifier": "416",
+          "identifier": "333",
           "scheme": "everypolitician_legacy"
         },
         {
@@ -31215,25 +31215,6 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Ovidiu Ioan SILAGHI"
-    },
-    {
-      "birth_date": "1962-12-12",
-      "gender": "male",
-      "id": "78932d3b-45c0-47b2-9c89-b6492441c781",
-      "identifiers": [
-        {
-          "identifier": "333",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.cdep.ro/parlamentari/l2012/Silaghi_Ovidiu_Ioan.jpg",
-      "images": [
-        {
-          "url": "http://www.cdep.ro/parlamentari/l2012/Silaghi_Ovidiu_Ioan.jpg"
-        }
-      ],
-      "name": "Silaghi Ovidiu Ioan",
       "sort_name": "Ovidiu Ioan SILAGHI"
     },
     {
@@ -39854,20 +39835,6 @@
       ]
     },
     {
-      "area_id": "32",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/alde",
-      "organization_id": "e9f403b8-1aa9-47c7-94d7-f0a5f6edb74b",
-      "person_id": "47a76caa-4851-43ef-b63f-f511198b5f57",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.cdep.ro/pls/parlam/structura2015.mp?idm=416&cam=2&leg=2012&idl=2"
-        }
-      ],
-      "start_date": "2014-06-11"
-    },
-    {
       "area_id": "19",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnl",
@@ -40904,6 +40871,20 @@
           "url": "http://www.cdep.ro/pls/parlam/structura2015.mp?idm=333&cam=2&leg=2012&idl=2"
         }
       ]
+    },
+    {
+      "area_id": "32",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/alde",
+      "organization_id": "e9f403b8-1aa9-47c7-94d7-f0a5f6edb74b",
+      "person_id": "78932d3b-45c0-47b2-9c89-b6492441c781",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.cdep.ro/pls/parlam/structura2015.mp?idm=416&cam=2&leg=2012&idl=2"
+        }
+      ],
+      "start_date": "2014-06-11"
     },
     {
       "area_id": "42",
