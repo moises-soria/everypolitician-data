@@ -146,6 +146,7 @@
     },
     {
       "birth_date": "1938-02-22",
+      "gender": "male",
       "id": "f9688075-5416-4f28-b0a8-b9b892cfeca7",
       "identifiers": [
         {
@@ -263,6 +264,7 @@
     },
     {
       "birth_date": "1955-09-14",
+      "gender": "female",
       "id": "3b9c3fdb-3942-46c8-9490-36b3f54f8864",
       "identifiers": [
         {
@@ -390,6 +392,10 @@
         {
           "identifier": "0000 0000 8489 7353",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n84202820",
+          "scheme": "lcauth"
         },
         {
           "identifier": "147166012",
@@ -597,6 +603,7 @@
     },
     {
       "birth_date": "1971-03-02",
+      "gender": "male",
       "id": "815d3591-3d63-4b61-b893-bd19be7971d5",
       "identifiers": [
         {
@@ -717,6 +724,7 @@
     },
     {
       "birth_date": "1952-07-15",
+      "gender": "male",
       "id": "52258ecf-2ad7-475f-a882-df53829794b8",
       "identifiers": [
         {
@@ -734,6 +742,7 @@
     },
     {
       "birth_date": "1944-11-16",
+      "gender": "male",
       "id": "1dcf77fb-3a5a-4d46-abff-8e7f3df351db",
       "identifiers": [
         {
@@ -827,6 +836,7 @@
     },
     {
       "birth_date": "1949-04-03",
+      "gender": "male",
       "id": "5946acf8-ae51-4b94-bebd-ba99661f391f",
       "identifiers": [
         {
@@ -1174,6 +1184,7 @@
     },
     {
       "birth_date": "1974-01-09",
+      "gender": "female",
       "id": "4a51c88d-ad3c-4237-88e9-52fa561fa924",
       "identifiers": [
         {
@@ -1699,6 +1710,7 @@
     },
     {
       "birth_date": "1952-04-04",
+      "gender": "female",
       "id": "a11942d9-9755-42f0-8ce5-d774a6c2562d",
       "identifiers": [
         {
@@ -2025,6 +2037,7 @@
     },
     {
       "birth_date": "1951-08-09",
+      "gender": "male",
       "id": "9899a433-eecb-4ba7-92f2-f19178b5902a",
       "identifiers": [
         {
@@ -2091,6 +2104,7 @@
     },
     {
       "birth_date": "1961-04-19",
+      "gender": "female",
       "id": "55e7938c-6489-4849-9720-d964196b2685",
       "identifiers": [
         {
@@ -2207,6 +2221,7 @@
     },
     {
       "birth_date": "1949-09-23",
+      "gender": "female",
       "id": "c092e452-1d2a-4fa4-a2e4-55a81c142759",
       "identifiers": [
         {
@@ -2224,6 +2239,7 @@
     },
     {
       "birth_date": "1956-03-30",
+      "gender": "female",
       "id": "240297f2-2710-4f19-be08-a4c588a5f639",
       "identifiers": [
         {
@@ -2275,6 +2291,7 @@
     },
     {
       "birth_date": "1967-08-16",
+      "gender": "female",
       "id": "15f77dea-46f1-46a4-b172-522b5bcae911",
       "identifiers": [
         {
@@ -2292,6 +2309,7 @@
     },
     {
       "birth_date": "1984-04-10",
+      "gender": "female",
       "id": "c086fa78-81b1-4bbc-adbd-caad1ae3c2e8",
       "identifiers": [
         {
@@ -2400,6 +2418,7 @@
     },
     {
       "birth_date": "1976-06-30",
+      "gender": "female",
       "id": "cf9df56e-5d2d-41b5-850d-78c22830d978",
       "identifiers": [
         {
@@ -2417,6 +2436,7 @@
     },
     {
       "birth_date": "1966-11-21",
+      "gender": "female",
       "id": "be5ccc9a-0530-4dee-b9aa-915d3a05624c",
       "identifiers": [
         {
@@ -2669,6 +2689,7 @@
     },
     {
       "birth_date": "1973-06-13",
+      "gender": "female",
       "id": "abea234c-7b9b-475e-bfc5-9f0d08dae965",
       "identifiers": [
         {
@@ -2805,6 +2826,7 @@
     },
     {
       "birth_date": "1961-05-05",
+      "gender": "male",
       "id": "d3583195-dda0-4ff6-b6d0-724aba94b915",
       "identifiers": [
         {
@@ -2915,6 +2937,7 @@
     },
     {
       "birth_date": "1959-12-04",
+      "gender": "male",
       "id": "a09546a8-7376-4e81-ad38-f7ee99fa0bd1",
       "identifiers": [
         {
@@ -3206,6 +3229,10 @@
           "url": "https://ca.wikipedia.org/wiki/António_Costa"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:António_Costa"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/António_Costa"
         },
@@ -3238,6 +3265,10 @@
           "url": "https://fa.wikipedia.org/wiki/آنتونیو_کوستا"
         },
         {
+          "note": "Wikipedia (fawikiquote)",
+          "url": "https://fawikiquote.wikipedia.org/wiki/آنتونیو_کوشتا"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/António_Costa"
         },
@@ -3248,6 +3279,10 @@
         {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/António_Costa"
+        },
+        {
+          "note": "Wikipedia (gom)",
+          "url": "https://gom.wikipedia.org/wiki/António_Costa"
         },
         {
           "note": "Wikipedia (he)",
@@ -3886,6 +3921,7 @@
     },
     {
       "birth_date": "1968-11-11",
+      "gender": "male",
       "id": "b8d809d0-b1fa-46cc-b01c-d921a0e207cd",
       "identifiers": [
         {
@@ -3986,9 +4022,15 @@
     },
     {
       "birth_date": "1949-04-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "antonioguterres"
+        }
+      ],
       "family_name": "Guterres",
       "gender": "male",
-      "given_name": "Antonio",
+      "given_name": "António",
       "id": "47053f4e-eca3-47ba-bc9f-07cb736934df",
       "identifiers": [
         {
@@ -4014,6 +4056,10 @@
         {
           "identifier": "n00025864",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "antonio-guterres",
+          "scheme": "ne_se"
         },
         {
           "identifier": "53834286",
@@ -4067,6 +4113,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (als)",
+          "url": "https://als.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/أنطونيو_غوتيريس"
         },
@@ -4085,6 +4135,10 @@
         {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Антоніу_Гутэрыш"
+        },
+        {
+          "note": "Wikipedia (bewikiquote)",
+          "url": "https://bewikiquote.wikipedia.org/wiki/Антоніу_Гутэрыш"
         },
         {
           "note": "Wikipedia (bg)",
@@ -4179,6 +4233,10 @@
           "url": "https://hr.wikipedia.org/wiki/António_Guterres"
         },
         {
+          "note": "Wikipedia (hsb)",
+          "url": "https://hsb.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/António_Guterres"
         },
@@ -4189,6 +4247,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/António_Guterres"
         },
         {
           "note": "Wikipedia (io)",
@@ -4207,12 +4269,20 @@
           "url": "https://ka.wikipedia.org/wiki/ანტონიუ_გუტერეში"
         },
         {
+          "note": "Wikipedia (kk)",
+          "url": "https://kk.wikipedia.org/wiki/Антониу_Гутерреш"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/안토니우_구테흐스"
         },
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Antonius_Guterres"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/António_Guterres"
         },
         {
           "note": "Wikipedia (lmo)",
@@ -4237,6 +4307,10 @@
         {
           "note": "Wikipedia (mr)",
           "url": "https://mr.wikipedia.org/wiki/अँतोनियो_गुतेरेस"
+        },
+        {
+          "note": "Wikipedia (nds)",
+          "url": "https://nds.wikipedia.org/wiki/António_Guterres"
         },
         {
           "note": "Wikipedia (nl)",
@@ -4303,6 +4377,14 @@
           "url": "https://simple.wikipedia.org/wiki/António_Guterres"
         },
         {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (sq)",
           "url": "https://sq.wikipedia.org/wiki/António_Guterres"
         },
@@ -4327,8 +4409,20 @@
           "url": "https://tr.wikipedia.org/wiki/António_Guterres"
         },
         {
+          "note": "Wikipedia (tt)",
+          "url": "https://tt.wikipedia.org/wiki/Антониу_Гутерреш"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Антоніу_Гутерреш"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/اینٹونیو_گوٹیریس"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/António_Guterres"
         },
         {
           "note": "Wikipedia (vi)",
@@ -4341,6 +4435,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/安东尼奥·古特雷斯"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/antonioguterres"
         }
       ],
       "name": "António Guterres",
@@ -4471,6 +4569,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "gsw",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
           "lang": "he",
           "name": "אנטוניו גואטרס",
           "note": "multilingual"
@@ -4486,6 +4589,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hsb",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "António Guterres",
           "note": "multilingual"
@@ -4497,6 +4605,11 @@
         },
         {
           "lang": "id",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
           "name": "António Guterres",
           "note": "multilingual"
         },
@@ -4521,6 +4634,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kk",
+          "name": "Антониу Гутерриш",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "안토니우 구테흐스",
           "note": "multilingual"
@@ -4528,6 +4646,11 @@
         {
           "lang": "la",
           "name": "Antonius Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "António Guterres",
           "note": "multilingual"
         },
         {
@@ -4567,6 +4690,11 @@
         },
         {
           "lang": "nb",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
           "name": "António Guterres",
           "note": "multilingual"
         },
@@ -4636,6 +4764,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "sk",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
           "lang": "sq",
           "name": "António Guterres",
           "note": "multilingual"
@@ -4666,8 +4804,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "Антониу Гутерреш",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Антоніу Гутерреш",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "António Guterres",
           "note": "multilingual"
         },
         {
@@ -4821,6 +4969,11 @@
         {
           "lang": "fr",
           "name": "António José Seguro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אנטוניו חוזה סגורו",
           "note": "multilingual"
         },
         {
@@ -4988,6 +5141,7 @@
     },
     {
       "birth_date": "1961-07-10",
+      "gender": "male",
       "id": "b4f63ae2-d997-4061-8332-3f7ecedd7352",
       "identifiers": [
         {
@@ -5074,6 +5228,7 @@
     },
     {
       "birth_date": "1952-12-09",
+      "gender": "male",
       "id": "66ed1a13-c5f3-4297-8115-9585611e00ac",
       "identifiers": [
         {
@@ -5236,6 +5391,11 @@
         },
         {
           "lang": "fr",
+          "name": "António Pires de Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "António Pires de Lima",
           "note": "multilingual"
         },
@@ -5467,6 +5627,7 @@
     },
     {
       "birth_date": "1958-11-18",
+      "gender": "male",
       "id": "ebdecb2e-6619-4d15-8174-5f2072c56a6e",
       "identifiers": [
         {
@@ -5601,6 +5762,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/António_Vitorino"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:António_Vitorino"
         },
         {
           "note": "Wikipedia (de)",
@@ -6052,6 +6217,7 @@
     },
     {
       "birth_date": "1955-02-07",
+      "gender": "male",
       "id": "c38dc3bb-c07b-4eed-a2ec-08f73e596a0e",
       "identifiers": [
         {
@@ -6103,6 +6269,7 @@
     },
     {
       "birth_date": "1949-10-22",
+      "gender": "male",
       "id": "b91c0aeb-5702-4e41-99a8-56a4cb44c021",
       "identifiers": [
         {
@@ -6627,6 +6794,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Assunção_Esteves"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Maria_da_Assunção_Esteves"
         },
@@ -6773,6 +6944,7 @@
     },
     {
       "birth_date": "1956-08-20",
+      "gender": "male",
       "id": "3a9d56cd-ecd3-4568-bf76-b05de9f22186",
       "identifiers": [
         {
@@ -6807,6 +6979,7 @@
     },
     {
       "birth_date": "1951-12-04",
+      "gender": "male",
       "id": "4c63181e-5249-4695-9674-af60027868ee",
       "identifiers": [
         {
@@ -6883,6 +7056,10 @@
           "url": "https://es.wikipedia.org/wiki/Barbosa_de_Melo"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/António_Barbosa_de_Melo"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/António_Barbosa_de_Melo"
         }
@@ -6916,6 +7093,11 @@
         },
         {
           "lang": "nl",
+          "name": "António Barbosa de Melo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "António Barbosa de Melo",
           "note": "multilingual"
         },
@@ -6973,6 +7155,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Basílio_Horta"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Basílio_Horta"
         },
@@ -7009,6 +7195,11 @@
         },
         {
           "lang": "hu",
+          "name": "Basílio Horta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Basílio Horta",
           "note": "multilingual"
         },
@@ -7072,6 +7263,7 @@
     },
     {
       "birth_date": "1971-09-15",
+      "gender": "male",
       "id": "884d8bf1-f30c-414a-ab67-88c92b6b6330",
       "identifiers": [
         {
@@ -7162,6 +7354,7 @@
     },
     {
       "birth_date": "1970-05-04",
+      "gender": "male",
       "id": "d077fcf2-9f14-4e18-9c5f-5deb80a4de12",
       "identifiers": [
         {
@@ -7259,6 +7452,11 @@
         },
         {
           "lang": "fr",
+          "name": "Jorge Braga de Macedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Jorge Braga de Macedo",
           "note": "multilingual"
         },
@@ -7424,6 +7622,7 @@
     },
     {
       "birth_date": "1983-01-16",
+      "gender": "male",
       "id": "34474847-73a6-4652-b723-473aedca5b45",
       "identifiers": [
         {
@@ -7441,6 +7640,7 @@
     },
     {
       "birth_date": "1978-01-30",
+      "gender": "male",
       "id": "20aeeb3e-cbc7-4207-86bb-48ac99f42400",
       "identifiers": [
         {
@@ -8019,6 +8219,7 @@
     },
     {
       "birth_date": "1953-09-03",
+      "gender": "male",
       "id": "2a8a6484-672c-47b9-8c25-5e18a1e55ba5",
       "identifiers": [
         {
@@ -8036,6 +8237,7 @@
     },
     {
       "birth_date": "1947-09-05",
+      "gender": "male",
       "id": "cde6953d-f1a5-48e2-b9b1-b4cdc07e7016",
       "identifiers": [
         {
@@ -8153,6 +8355,11 @@
         },
         {
           "lang": "nb",
+          "name": "Carlos Candal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Carlos Candal",
           "note": "multilingual"
         },
@@ -8814,6 +9021,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Carlos Cardoso Lage",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Carlos Lage",
           "note": "multilingual"
@@ -8866,6 +9078,7 @@
     },
     {
       "birth_date": "1965-06-06",
+      "gender": "male",
       "id": "d04c53ee-8770-4258-86e0-02eb766659fe",
       "identifiers": [
         {
@@ -8934,6 +9147,7 @@
     },
     {
       "birth_date": "1951-09-06",
+      "gender": "male",
       "id": "b415037b-1305-4dea-9785-94f1608be247",
       "identifiers": [
         {
@@ -9330,6 +9544,7 @@
     },
     {
       "birth_date": "1957-02-12",
+      "gender": "male",
       "id": "a7b74ef5-630c-49e3-b8a9-69e59133e7be",
       "identifiers": [
         {
@@ -9420,6 +9635,7 @@
     },
     {
       "birth_date": "1957-04-13",
+      "gender": "male",
       "id": "ddf09239-412e-46cb-b17b-281db85ba00a",
       "identifiers": [
         {
@@ -10032,6 +10248,7 @@
     },
     {
       "birth_date": "1963-04-11",
+      "gender": "male",
       "id": "112945bc-a6d5-4cb8-881b-ed6528d0be00",
       "identifiers": [
         {
@@ -10049,6 +10266,7 @@
     },
     {
       "birth_date": "1956-05-20",
+      "gender": "female",
       "id": "efde3226-384f-4542-8d94-b4ea0bfbcc30",
       "identifiers": [
         {
@@ -10149,6 +10367,7 @@
     },
     {
       "birth_date": "1951-09-10",
+      "gender": "female",
       "id": "7bf02e23-28fa-424b-b99a-d06ea8236f04",
       "identifiers": [
         {
@@ -10208,6 +10427,7 @@
     },
     {
       "birth_date": "1967-10-16",
+      "gender": "female",
       "id": "e4fc6468-5cab-40b0-a908-e0092a161242",
       "identifiers": [
         {
@@ -10225,6 +10445,7 @@
     },
     {
       "birth_date": "1982-04-08",
+      "gender": "female",
       "id": "7b575f31-fec0-40e0-885d-022ca7594646",
       "identifiers": [
         {
@@ -10284,6 +10505,7 @@
     },
     {
       "birth_date": "1955-06-07",
+      "gender": "female",
       "id": "d18af05a-e390-4e9d-85e0-adb96eecc8ef",
       "identifiers": [
         {
@@ -10318,6 +10540,7 @@
     },
     {
       "birth_date": "1956-12-31",
+      "gender": "female",
       "id": "a7018a4f-d78d-4ff9-8455-647145bc9a3b",
       "identifiers": [
         {
@@ -10501,6 +10724,7 @@
     },
     {
       "birth_date": "1953-05-14",
+      "gender": "male",
       "id": "e7a43f51-3861-42b2-81cd-e26a956b5088",
       "identifiers": [
         {
@@ -10754,6 +10978,7 @@
     },
     {
       "birth_date": "1939-06-20",
+      "gender": "female",
       "id": "63367638-e509-4adc-b5c9-d8b12f1d145e",
       "identifiers": [
         {
@@ -10897,6 +11122,7 @@
     },
     {
       "birth_date": "1979-07-04",
+      "gender": "male",
       "id": "276b7b59-48bb-4ac3-98f5-8673fb7c1f0e",
       "identifiers": [
         {
@@ -10914,6 +11140,7 @@
     },
     {
       "birth_date": "1975-12-24",
+      "gender": "male",
       "id": "abb94b36-5995-4e8c-a25e-0b9b517bb6f5",
       "identifiers": [
         {
@@ -11052,6 +11279,7 @@
     },
     {
       "birth_date": "1976-01-05",
+      "gender": "male",
       "id": "7ce2568f-60bf-465f-b236-bf3061d50d87",
       "identifiers": [
         {
@@ -11187,6 +11415,7 @@
     },
     {
       "birth_date": "1950-02-01",
+      "gender": "male",
       "id": "0adcfc27-9996-4e64-a78c-818e1a4e997c",
       "identifiers": [
         {
@@ -11513,6 +11742,7 @@
     },
     {
       "birth_date": "1979-02-23",
+      "gender": "male",
       "id": "71f1a548-75c8-43f4-b566-24a18c5ab431",
       "identifiers": [
         {
@@ -11612,6 +11842,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Domingos Duarte Lima",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Duarte Lima",
           "note": "multilingual"
@@ -11672,6 +11907,7 @@
     },
     {
       "birth_date": "1972-07-30",
+      "gender": "male",
       "id": "b70a2322-ccd7-4e08-89d2-6ffefcbefab2",
       "identifiers": [
         {
@@ -11786,7 +12022,7 @@
         },
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/José_Manuel_Durão_Barroso"
+          "url": "https://commons.wikipedia.org/wiki/Category:José_Manuel_Barroso"
         },
         {
           "note": "Wikipedia (cs)",
@@ -12649,6 +12885,10 @@
           "url": "https://de.wikipedia.org/wiki/Eduardo_Cabrita"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eduardo_Cabrita"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Eduardo_Cabrita"
         },
@@ -12661,6 +12901,11 @@
       "other_names": [
         {
           "lang": "de",
+          "name": "Eduardo Cabrita",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
           "name": "Eduardo Cabrita",
           "note": "multilingual"
         },
@@ -12749,10 +12994,14 @@
           "url": "http://demo.cratica.org/media/img/deputados/163.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ferro_Rodrigues.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ferro_Rodrigues_2016.png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Eduardo_Ferro_Rodrigues"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Eduardo_Ferro_Rodrigues"
@@ -13403,6 +13652,7 @@
     },
     {
       "birth_date": "1955-10-23",
+      "gender": "female",
       "id": "ed8202fa-9029-43fa-a50c-81c37b10aa2d",
       "identifiers": [
         {
@@ -13420,6 +13670,7 @@
     },
     {
       "birth_date": "1961-07-21",
+      "gender": "female",
       "id": "7ce4c89b-ed9b-48b5-931e-6bd320bc410a",
       "identifiers": [
         {
@@ -13437,6 +13688,7 @@
     },
     {
       "birth_date": "1950-03-16",
+      "gender": "female",
       "id": "0c98dfd6-e819-402b-a954-b095c9b5bab7",
       "identifiers": [
         {
@@ -13454,6 +13706,7 @@
     },
     {
       "birth_date": "1964-06-13",
+      "gender": "male",
       "id": "d5563aa0-76a2-4260-912c-a1986e4fd60c",
       "identifiers": [
         {
@@ -13613,6 +13866,7 @@
     },
     {
       "birth_date": "1961-04-18",
+      "gender": "female",
       "id": "cad9ac4d-9598-47ee-98e0-44bb712d32fe",
       "identifiers": [
         {
@@ -13824,6 +14078,7 @@
     },
     {
       "birth_date": "1949-09-19",
+      "gender": "male",
       "id": "10a2c3d0-baae-4a58-ad2b-d18420c30f68",
       "identifiers": [
         {
@@ -13841,6 +14096,7 @@
     },
     {
       "birth_date": "1962-07-20",
+      "gender": "male",
       "id": "1db8a5ea-d5c5-4db5-91c3-eb8c234e8342",
       "identifiers": [
         {
@@ -13875,6 +14131,7 @@
     },
     {
       "birth_date": "1956-05-10",
+      "gender": "male",
       "id": "336d2cf4-1e62-4b66-a44a-a06c78ba2220",
       "identifiers": [
         {
@@ -13994,6 +14251,11 @@
         },
         {
           "lang": "fr",
+          "name": "Fernando Gomes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Fernando Gomes",
           "note": "multilingual"
         },
@@ -14178,6 +14440,7 @@
     },
     {
       "birth_date": "1953-07-29",
+      "gender": "male",
       "id": "2feac818-81d8-42b0-872b-790107cb77c4",
       "identifiers": [
         {
@@ -14226,6 +14489,9 @@
         },
         {
           "url": "http://demo.cratica.org/media/img/deputados/1905.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flickr_-_europeanpeoplesparty_-_EPP_Summit_Meise_4_November_2004_(cropped).png"
         }
       ],
       "links": [
@@ -14262,6 +14528,11 @@
         },
         {
           "lang": "nb",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Fernando Negrão",
           "note": "multilingual"
         },
@@ -14606,6 +14877,7 @@
     },
     {
       "birth_date": "1962-04-23",
+      "gender": "male",
       "id": "ca819f75-8fc9-42cb-8bc9-e39c4be13780",
       "identifiers": [
         {
@@ -14748,6 +15020,7 @@
     },
     {
       "birth_date": "1960-05-27",
+      "gender": "male",
       "id": "b0ed5d6d-d1b9-48e5-a7a0-675ecbde8676",
       "identifiers": [
         {
@@ -15780,6 +16053,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "0000-0001-9661-6157",
+          "scheme": "orcid"
+        },
+        {
           "identifier": "1651",
           "scheme": "parlamento"
         },
@@ -15806,6 +16083,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Francisco_Louçã"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Francisco_Louçã"
@@ -16023,6 +16304,7 @@
     },
     {
       "birth_date": "1967-01-30",
+      "gender": "male",
       "id": "bec1ab65-06ac-47fb-80b7-4d7c628a392f",
       "identifiers": [
         {
@@ -16140,6 +16422,7 @@
     },
     {
       "birth_date": "1965-01-08",
+      "gender": "male",
       "id": "479b37fb-95f3-4fdd-b60f-2a7d8184645d",
       "identifiers": [
         {
@@ -16157,6 +16440,7 @@
     },
     {
       "birth_date": "1977-04-06",
+      "gender": "male",
       "id": "07ec0570-9913-4be7-8333-38afeb34ba64",
       "identifiers": [
         {
@@ -16462,6 +16746,7 @@
     },
     {
       "birth_date": "1963-02-09",
+      "gender": "female",
       "id": "70e22706-128b-4669-af37-5beeeb2d96c2",
       "identifiers": [
         {
@@ -16479,6 +16764,7 @@
     },
     {
       "birth_date": "1962-01-18",
+      "gender": "female",
       "id": "8f66c149-b37d-43e9-8d8e-110edc582614",
       "identifiers": [
         {
@@ -16782,6 +17068,7 @@
     },
     {
       "birth_date": "1971-05-09",
+      "gender": "male",
       "id": "fe632cf2-cc62-4d64-972f-f1566b18d931",
       "identifiers": [
         {
@@ -16799,6 +17086,7 @@
     },
     {
       "birth_date": "1955-03-08",
+      "gender": "male",
       "id": "25d27bfa-04d3-476b-9651-15c0d4d70b8e",
       "identifiers": [
         {
@@ -17335,6 +17623,7 @@
     },
     {
       "birth_date": "1960-10-29",
+      "gender": "female",
       "id": "985c6a28-9de6-4b6e-a11f-eb8a2f5be351",
       "identifiers": [
         {
@@ -17386,6 +17675,7 @@
     },
     {
       "birth_date": "1953-04-06",
+      "gender": "female",
       "id": "861a6c1c-fda1-4dc9-8188-f056eac6e4b5",
       "identifiers": [
         {
@@ -17454,6 +17744,7 @@
     },
     {
       "birth_date": "1952-09-30",
+      "gender": "female",
       "id": "63e04646-8b2b-4457-95f1-880b4dbccf99",
       "identifiers": [
         {
@@ -17687,6 +17978,7 @@
     },
     {
       "birth_date": "1965-06-22",
+      "gender": "female",
       "id": "5d4b1600-92cb-44ac-9607-a5d5350a82aa",
       "identifiers": [
         {
@@ -17821,6 +18113,7 @@
     },
     {
       "birth_date": "1950-10-30",
+      "gender": "male",
       "id": "0981de86-21a9-42bb-998a-1192bfa45f9c",
       "identifiers": [
         {
@@ -17838,6 +18131,7 @@
     },
     {
       "birth_date": "1943-04-19",
+      "gender": "male",
       "id": "cf49c622-eadd-44df-b383-fd30382e7d3c",
       "identifiers": [
         {
@@ -18008,6 +18302,7 @@
     },
     {
       "birth_date": "1961-03-13",
+      "gender": "male",
       "id": "444d9d15-5c0c-46ea-b413-8f9c8108d6bc",
       "identifiers": [
         {
@@ -18042,6 +18337,7 @@
     },
     {
       "birth_date": "1967-10-06",
+      "gender": "female",
       "id": "254abc45-9049-4ff3-a333-eb348dd853f3",
       "identifiers": [
         {
@@ -18093,6 +18389,11 @@
         },
         {
           "lang": "fr",
+          "name": "Hermínio Loureiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Hermínio Loureiro",
           "note": "multilingual"
         },
@@ -18215,6 +18516,7 @@
     },
     {
       "birth_date": "1946-03-05",
+      "gender": "male",
       "id": "27fb392e-13d0-41bd-b842-792d475bb788",
       "identifiers": [
         {
@@ -18257,6 +18559,7 @@
     },
     {
       "birth_date": "1973-06-12",
+      "gender": "male",
       "id": "35a14c58-31e0-4f17-9c3a-3894a25824fb",
       "identifiers": [
         {
@@ -18384,6 +18687,7 @@
     },
     {
       "birth_date": "1956-10-30",
+      "gender": "male",
       "id": "551944bd-30dc-4abd-ae6c-45a7ed3ab361",
       "identifiers": [
         {
@@ -18443,6 +18747,7 @@
     },
     {
       "birth_date": "1974-05-31",
+      "gender": "female",
       "id": "28a8abab-473d-46ba-b91a-36429731ae0b",
       "identifiers": [
         {
@@ -18527,6 +18832,7 @@
     },
     {
       "birth_date": "1945-12-07",
+      "gender": "female",
       "id": "e97b72fe-1a0b-498c-a8d9-16bf0e03a79f",
       "identifiers": [
         {
@@ -18602,6 +18908,7 @@
     },
     {
       "birth_date": "1966-01-05",
+      "gender": "female",
       "id": "095fe265-d94e-4d5e-8d1c-f2157d030446",
       "identifiers": [
         {
@@ -18651,6 +18958,7 @@
     },
     {
       "birth_date": "1952-08-18",
+      "gender": "female",
       "id": "400f7063-807b-4507-bb85-c96a5aec2a2d",
       "identifiers": [
         {
@@ -18668,6 +18976,7 @@
     },
     {
       "birth_date": "1953-02-10",
+      "gender": "female",
       "id": "c522458e-c6c2-4f94-b104-372cde30cbe4",
       "identifiers": [
         {
@@ -18881,6 +19190,7 @@
     },
     {
       "birth_date": "1946-08-14",
+      "gender": "female",
       "id": "704877a4-6cec-426b-a038-bc8076d27853",
       "identifiers": [
         {
@@ -18898,6 +19208,7 @@
     },
     {
       "birth_date": "1967-10-02",
+      "gender": "female",
       "id": "882cedd7-2e2e-4cc1-8102-e5462e9fdab6",
       "identifiers": [
         {
@@ -18915,6 +19226,7 @@
     },
     {
       "birth_date": "1975-03-05",
+      "gender": "female",
       "id": "5f86c494-a288-4838-bd24-33c9f4983375",
       "identifiers": [
         {
@@ -18931,6 +19243,7 @@
       "name": "Isabel Simões Pinto"
     },
     {
+      "gender": "female",
       "id": "cb482773-8ce4-48ee-b313-64a1655b2f87",
       "identifiers": [
         {
@@ -18965,6 +19278,7 @@
     },
     {
       "birth_date": "1956-05-16",
+      "gender": "male",
       "id": "c9ce4594-5602-4652-a694-c698b97e5f6c",
       "identifiers": [
         {
@@ -19007,6 +19321,7 @@
     },
     {
       "birth_date": "1951-09-16",
+      "gender": "female",
       "id": "1b818b79-7bd3-43a9-a7da-0e7b0ac211ac",
       "identifiers": [
         {
@@ -19075,6 +19390,7 @@
     },
     {
       "birth_date": "1946-02-07",
+      "gender": "female",
       "id": "a2511e68-8f56-4124-855a-0d7a08226fba",
       "identifiers": [
         {
@@ -19185,6 +19501,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jaime_Gama"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jaime_Gama"
@@ -19328,6 +19648,7 @@
     },
     {
       "birth_date": "1943-03-15",
+      "gender": "male",
       "id": "8289d6c1-6d15-4ee8-81dc-33f7d88ed5cb",
       "identifiers": [
         {
@@ -19524,6 +19845,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jerónimo_de_Sousa"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jerónimo_de_Sousa"
@@ -19773,6 +20098,7 @@
     },
     {
       "birth_date": "1954-12-25",
+      "gender": "male",
       "id": "88143ab3-68d0-4d7f-af82-8dabb354ae4f",
       "identifiers": [
         {
@@ -19807,6 +20133,7 @@
     },
     {
       "birth_date": "1950-12-22",
+      "gender": "male",
       "id": "ae58dade-c32f-40c5-bf57-4e0e06f4c80d",
       "identifiers": [
         {
@@ -19841,6 +20168,7 @@
     },
     {
       "birth_date": "1951-05-01",
+      "gender": "male",
       "id": "2c369c7c-38d9-4a3e-91c8-5fabd4bc09e8",
       "identifiers": [
         {
@@ -20054,6 +20382,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Joaquim Sarmento",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Joaquim Sarmento",
           "note": "multilingual"
@@ -20072,6 +20405,7 @@
     },
     {
       "birth_date": "1959-06-27",
+      "gender": "male",
       "id": "8696b853-a761-4cf0-be1e-4989ab3f4f0f",
       "identifiers": [
         {
@@ -20140,6 +20474,7 @@
     },
     {
       "birth_date": "1944-07-13",
+      "gender": "male",
       "id": "e3db31f0-de6e-40a0-a7ec-abe8fa752e46",
       "identifiers": [
         {
@@ -20157,6 +20492,7 @@
     },
     {
       "birth_date": "1975-06-16",
+      "gender": "male",
       "id": "e89f9534-1bce-48d2-a87d-a7ae3459ebdd",
       "identifiers": [
         {
@@ -20174,6 +20510,7 @@
     },
     {
       "birth_date": "1954-09-20",
+      "gender": "male",
       "id": "ec224fca-6292-44c2-ba37-9dddc0d0d846",
       "identifiers": [
         {
@@ -20255,6 +20592,7 @@
     },
     {
       "birth_date": "1954-07-17",
+      "gender": "male",
       "id": "a133ef18-7298-4859-be55-978fe654f4ce",
       "identifiers": [
         {
@@ -20272,6 +20610,7 @@
     },
     {
       "birth_date": "1953-10-25",
+      "gender": "male",
       "id": "a2032054-7516-4544-9fce-e7c02731dbd5",
       "identifiers": [
         {
@@ -20289,6 +20628,7 @@
     },
     {
       "birth_date": "1959-01-12",
+      "gender": "male",
       "id": "050f6cda-95bd-4cfe-aa16-6e8ea2b18943",
       "identifiers": [
         {
@@ -20719,6 +21059,7 @@
     },
     {
       "birth_date": "1973-02-15",
+      "gender": "male",
       "id": "3c886cbc-6ad9-4b7f-be60-21132ef22225",
       "identifiers": [
         {
@@ -20812,6 +21153,7 @@
     },
     {
       "birth_date": "1965-07-30",
+      "gender": "male",
       "id": "0c66a92f-9194-40f3-8fe6-a88b3fe3acf3",
       "identifiers": [
         {
@@ -20829,6 +21171,7 @@
     },
     {
       "birth_date": "1943-09-07",
+      "gender": "male",
       "id": "c5ad6536-8eff-4f05-ae6e-63812ae0fd22",
       "identifiers": [
         {
@@ -20846,6 +21189,7 @@
     },
     {
       "birth_date": "1971-07-02",
+      "gender": "male",
       "id": "83603427-1fa3-4dec-a6e2-a28990141ffa",
       "identifiers": [
         {
@@ -20880,6 +21224,7 @@
     },
     {
       "birth_date": "1966-10-28",
+      "gender": "male",
       "id": "42e559e5-09ec-4c05-b97c-fbc762ede1be",
       "identifiers": [
         {
@@ -20897,6 +21242,7 @@
     },
     {
       "birth_date": "1958-09-02",
+      "gender": "male",
       "id": "7e58d090-f069-488d-89ca-f918d3ea70d4",
       "identifiers": [
         {
@@ -20914,6 +21260,7 @@
     },
     {
       "birth_date": "1957-11-25",
+      "gender": "male",
       "id": "65eb221e-abb3-4014-b0c0-4a6f16a63ec2",
       "identifiers": [
         {
@@ -20931,6 +21278,7 @@
     },
     {
       "birth_date": "1963-04-01",
+      "gender": "male",
       "id": "d1e0333c-1f31-4820-912d-3883e2b79845",
       "identifiers": [
         {
@@ -21001,6 +21349,7 @@
     },
     {
       "birth_date": "1948-12-18",
+      "gender": "male",
       "id": "50454eae-a2cd-46ce-82d9-7c1ccda3426a",
       "identifiers": [
         {
@@ -21087,6 +21436,11 @@
         },
         {
           "lang": "fr",
+          "name": "José Barros Moura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "José Barros Moura",
           "note": "multilingual"
         },
@@ -21314,6 +21668,7 @@
     },
     {
       "birth_date": "1947-07-14",
+      "gender": "male",
       "id": "0141cd41-6d74-4fde-a5c8-bec89ec0cec0",
       "identifiers": [
         {
@@ -21331,6 +21686,7 @@
     },
     {
       "birth_date": "1954-01-25",
+      "gender": "male",
       "id": "f795facf-a538-449f-8747-f682dd1b1624",
       "identifiers": [
         {
@@ -21527,6 +21883,7 @@
     },
     {
       "birth_date": "1953-01-05",
+      "gender": "male",
       "id": "6c42531c-4546-40d1-9c0e-55273d602b57",
       "identifiers": [
         {
@@ -21750,6 +22107,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:José_Luís_Arnaut"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/José_Luís_Arnaut"
         },
@@ -21909,6 +22270,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:José_Magalhães"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/José_Magalhães"
         }
@@ -22019,6 +22384,7 @@
     },
     {
       "birth_date": "1959-04-06",
+      "gender": "male",
       "id": "6c035a0a-dadb-48ed-925a-c4c7b70ecbe1",
       "identifiers": [
         {
@@ -22138,6 +22504,9 @@
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=3998&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/José_Manuel_Pureza_01.jpg"
         }
       ],
       "links": [
@@ -22164,6 +22533,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "José Manuel Pureza",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
           "name": "José Manuel Pureza",
           "note": "multilingual"
@@ -22172,6 +22546,7 @@
     },
     {
       "birth_date": "1969-04-18",
+      "gender": "male",
       "id": "6e475cf7-3a61-463a-9d94-33dd41f5844f",
       "identifiers": [
         {
@@ -22189,6 +22564,7 @@
     },
     {
       "birth_date": "1960-07-13",
+      "gender": "male",
       "id": "8f09cd5b-d349-41a0-b046-c2cc8db530d9",
       "identifiers": [
         {
@@ -22257,6 +22633,7 @@
     },
     {
       "birth_date": "1973-02-05",
+      "gender": "male",
       "id": "a2a00afa-82a6-4eab-ba9b-f015ddd64799",
       "identifiers": [
         {
@@ -22274,6 +22651,7 @@
     },
     {
       "birth_date": "1960-12-31",
+      "gender": "male",
       "id": "5bf066f7-5fad-41da-b3a0-008843683050",
       "identifiers": [
         {
@@ -22498,6 +22876,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "José Niza",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "José Niza",
           "note": "multilingual"
@@ -22516,6 +22899,7 @@
     },
     {
       "birth_date": "1967-05-29",
+      "gender": "male",
       "id": "8079fdbf-bed5-4ecb-8157-1dcfe9d15795",
       "identifiers": [
         {
@@ -22710,6 +23094,7 @@
     },
     {
       "birth_date": "1972-09-17",
+      "gender": "male",
       "id": "cacd9951-0b94-4892-970b-ae0b5acb4e6f",
       "identifiers": [
         {
@@ -22727,6 +23112,7 @@
     },
     {
       "birth_date": "1959-05-12",
+      "gender": "male",
       "id": "1fb7b946-c13d-4edd-9531-d1a2287a887b",
       "identifiers": [
         {
@@ -22812,6 +23198,7 @@
     },
     {
       "birth_date": "1959-07-11",
+      "gender": "male",
       "id": "67687b27-eb8d-405b-a197-aae500f80226",
       "identifiers": [
         {
@@ -22846,6 +23233,7 @@
     },
     {
       "birth_date": "1971-08-21",
+      "gender": "male",
       "id": "9cf8c602-683a-451c-8b1b-28179ed02918",
       "identifiers": [
         {
@@ -23014,6 +23402,7 @@
     },
     {
       "birth_date": "1966-11-14",
+      "gender": "male",
       "id": "7823d5ef-54bd-4d91-9888-a27d96169e7b",
       "identifiers": [
         {
@@ -23100,6 +23489,7 @@
     },
     {
       "birth_date": "1948-01-17",
+      "gender": "male",
       "id": "b5c60684-9f71-4410-84f4-ebdceb54f62b",
       "identifiers": [
         {
@@ -23202,7 +23592,7 @@
         },
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/José_Sócrates"
+          "url": "https://commons.wikipedia.org/wiki/Category:José_Sócrates"
         },
         {
           "note": "Wikipedia (cs)",
@@ -23763,6 +24153,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Vera Jardim",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Vera Jardim",
           "note": "multilingual"
@@ -23786,6 +24181,7 @@
     },
     {
       "birth_date": "1954-03-18",
+      "gender": "male",
       "id": "e9c1e526-f097-4bea-960e-9b7361060395",
       "identifiers": [
         {
@@ -23860,6 +24256,7 @@
     },
     {
       "birth_date": "1957-02-16",
+      "gender": "female",
       "id": "23ceeb88-e16c-4638-a76f-2f5f42fbf1a1",
       "identifiers": [
         {
@@ -23944,6 +24341,7 @@
       "name": "João Benavente"
     },
     {
+      "gender": "male",
       "id": "3612f45c-6f9b-4a17-a70e-d75b9873d5df",
       "identifiers": [
         {
@@ -24258,6 +24656,7 @@
     },
     {
       "birth_date": "1937-05-22",
+      "gender": "male",
       "id": "60e3acfe-f2fb-46ee-a635-3509fb10bb22",
       "identifiers": [
         {
@@ -24679,6 +25078,7 @@
     },
     {
       "birth_date": "1974-08-18",
+      "gender": "male",
       "id": "7f14a963-ef65-4e17-af98-c75820685160",
       "identifiers": [
         {
@@ -24930,6 +25330,7 @@
     },
     {
       "birth_date": "1972-10-13",
+      "gender": "male",
       "id": "42653def-4270-432c-a6a5-defda892877c",
       "identifiers": [
         {
@@ -25133,6 +25534,7 @@
     },
     {
       "birth_date": "1974-02-12",
+      "gender": "male",
       "id": "e0e3cdc5-9106-42ef-b395-06ae1c2da7d2",
       "identifiers": [
         {
@@ -25150,6 +25552,7 @@
     },
     {
       "birth_date": "1948-06-26",
+      "gender": "male",
       "id": "3e207afe-4ef5-4730-bbfa-850d31847fb8",
       "identifiers": [
         {
@@ -25167,6 +25570,7 @@
     },
     {
       "birth_date": "1964-04-15",
+      "gender": "male",
       "id": "82ded801-3309-44a8-839f-407d676d9553",
       "identifiers": [
         {
@@ -25249,6 +25653,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:João_Soares"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/João_Soares"
@@ -25420,6 +25828,7 @@
     },
     {
       "birth_date": "1986-04-24",
+      "gender": "male",
       "id": "b8fd596f-7472-4e27-9730-fdb2156b6102",
       "identifiers": [
         {
@@ -25649,6 +26058,7 @@
     },
     {
       "birth_date": "1965-05-11",
+      "gender": "female",
       "id": "00485fd3-0d44-4e04-929f-09d2214f096b",
       "identifiers": [
         {
@@ -25735,6 +26145,7 @@
     },
     {
       "birth_date": "1957-04-12",
+      "gender": "male",
       "id": "baaf9e16-a79e-412a-ab6e-0e76556c27d9",
       "identifiers": [
         {
@@ -26017,6 +26428,7 @@
     },
     {
       "birth_date": "1947-03-02",
+      "gender": "female",
       "id": "1bb7a9f4-46b3-42d4-91c4-0c4a67d2ee05",
       "identifiers": [
         {
@@ -26295,6 +26707,7 @@
     },
     {
       "birth_date": "1968-02-10",
+      "gender": "female",
       "id": "f5bc5372-86b2-40c3-be4b-554ebf113888",
       "identifiers": [
         {
@@ -26482,6 +26895,7 @@
     },
     {
       "birth_date": "1942-05-30",
+      "gender": "male",
       "id": "fea80841-f9a2-4249-a6f9-50657d31a9e2",
       "identifiers": [
         {
@@ -26517,6 +26931,7 @@
     },
     {
       "birth_date": "1949-02-11",
+      "gender": "male",
       "id": "5c52bb31-f0dd-418a-94d9-efd44bfa5ce5",
       "identifiers": [
         {
@@ -26534,6 +26949,7 @@
     },
     {
       "birth_date": "1956-07-13",
+      "gender": "male",
       "id": "252a2530-1bef-4164-b50f-f3c52f716eb1",
       "identifiers": [
         {
@@ -26551,6 +26967,7 @@
     },
     {
       "birth_date": "1963-07-17",
+      "gender": "male",
       "id": "40812ae8-4e37-4fe0-a15d-9d9e8c69d4d5",
       "identifiers": [
         {
@@ -26738,6 +27155,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Luís_Filipe_Menezes"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Luís_Filipe_Menezes"
         },
@@ -26877,6 +27298,7 @@
     },
     {
       "birth_date": "1967-10-03",
+      "gender": "male",
       "id": "4159a0b9-5f1c-4bd7-956b-8edbab1cc3bf",
       "identifiers": [
         {
@@ -27211,6 +27633,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Luís Menezes",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Luís Menezes",
           "note": "multilingual"
@@ -27229,6 +27656,7 @@
     },
     {
       "birth_date": "1971-01-30",
+      "gender": "male",
       "id": "d24d7ac9-0eac-486b-9f9a-0d7f6ee70fc4",
       "identifiers": [
         {
@@ -27338,6 +27766,7 @@
     },
     {
       "birth_date": "1978-01-20",
+      "gender": "male",
       "id": "327d4493-c397-4733-af9b-91f5c4df28a9",
       "identifiers": [
         {
@@ -27440,6 +27869,7 @@
     },
     {
       "birth_date": "1957-08-20",
+      "gender": "male",
       "id": "f8f1dd35-0202-4882-8f6f-ef73de69ffef",
       "identifiers": [
         {
@@ -27616,6 +28046,7 @@
     },
     {
       "birth_date": "1966-02-05",
+      "gender": "male",
       "id": "c2f35078-ee12-4489-90c0-381b7e3882ab",
       "identifiers": [
         {
@@ -27727,6 +28158,7 @@
     },
     {
       "birth_date": "1951-10-05",
+      "gender": "male",
       "id": "f0098ff2-c47b-4c66-9774-297970168524",
       "identifiers": [
         {
@@ -27761,6 +28193,7 @@
     },
     {
       "birth_date": "1949-04-10",
+      "gender": "female",
       "id": "6fda6e93-d5ac-4902-9a76-3cd80a742fd9",
       "identifiers": [
         {
@@ -27795,6 +28228,7 @@
     },
     {
       "birth_date": "1973-09-03",
+      "gender": "female",
       "id": "4b99ed04-6225-480a-b4a8-eb92a242fd4d",
       "identifiers": [
         {
@@ -27914,6 +28348,7 @@
     },
     {
       "birth_date": "1950-03-26",
+      "gender": "male",
       "id": "93cdabc0-4400-4952-9f88-70fecd468d86",
       "identifiers": [
         {
@@ -28124,6 +28559,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Manuel_Alegre"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Manuel_Alegre"
         },
@@ -28165,7 +28604,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Алегри,_Мануэл"
+          "url": "https://ru.wikipedia.org/wiki/Алегре,_Мануэл"
         },
         {
           "note": "Wikipedia (simple)",
@@ -28349,6 +28788,7 @@
     },
     {
       "birth_date": "1951-12-18",
+      "gender": "male",
       "id": "89a262f5-559a-4dfb-b83f-898b80cd31d9",
       "identifiers": [
         {
@@ -28400,6 +28840,7 @@
     },
     {
       "birth_date": "1956-10-10",
+      "gender": "male",
       "id": "b35054cb-b2b3-4e08-b1d3-913dc57592d3",
       "identifiers": [
         {
@@ -28434,6 +28875,7 @@
     },
     {
       "birth_date": "1962-03-21",
+      "gender": "male",
       "id": "87377a99-3c76-4fd8-a810-ab5be5e87bb6",
       "identifiers": [
         {
@@ -28468,6 +28910,7 @@
     },
     {
       "birth_date": "1949-08-22",
+      "gender": "male",
       "id": "e290f1d4-97da-4862-bac0-42631b2dc728",
       "identifiers": [
         {
@@ -28591,6 +29034,7 @@
     },
     {
       "birth_date": "1963-11-08",
+      "gender": "male",
       "id": "ca63873c-8745-46f9-ab24-ddf6649c36e6",
       "identifiers": [
         {
@@ -28774,6 +29218,7 @@
     },
     {
       "birth_date": "1946-01-08",
+      "gender": "male",
       "id": "6bfff30e-3900-4ec9-9060-fa34eea40099",
       "identifiers": [
         {
@@ -28868,6 +29313,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Manuel Pizarro",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Manuel Pizarro",
           "note": "multilingual"
@@ -28957,6 +29407,11 @@
         },
         {
           "lang": "it",
+          "name": "Manuel Seabra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Manuel Seabra",
           "note": "multilingual"
         }
@@ -29348,6 +29803,7 @@
     },
     {
       "birth_date": "1945-03-26",
+      "gender": "female",
       "id": "6190086a-d89c-4238-ac3e-7fdc5371b9aa",
       "identifiers": [
         {
@@ -29452,6 +29908,7 @@
     },
     {
       "birth_date": "1976-04-05",
+      "gender": "male",
       "id": "7fcdfa99-c433-40f3-8a75-738868f0bbe1",
       "identifiers": [
         {
@@ -29510,6 +29967,7 @@
     },
     {
       "birth_date": "1954-03-02",
+      "gender": "female",
       "id": "8c03a520-aef9-46a9-8991-add035cbacc7",
       "identifiers": [
         {
@@ -29527,6 +29985,7 @@
     },
     {
       "birth_date": "1964-10-24",
+      "gender": "female",
       "id": "4978bb61-5f34-466d-aeef-d6e9e0cd5c76",
       "identifiers": [
         {
@@ -29595,6 +30054,7 @@
     },
     {
       "birth_date": "1952-03-12",
+      "gender": "female",
       "id": "44a85087-74b2-4e8d-bd9f-bc2e99e1f5fa",
       "identifiers": [
         {
@@ -29644,6 +30104,7 @@
     },
     {
       "birth_date": "1943-11-25",
+      "gender": "female",
       "id": "1f26891f-0dfa-4746-b178-acf91c886ef4",
       "identifiers": [
         {
@@ -29748,6 +30209,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Celeste Cardona",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Celeste Cardona",
           "note": "multilingual"
@@ -29784,6 +30250,7 @@
     },
     {
       "birth_date": "1947-04-11",
+      "gender": "female",
       "id": "d1bf36c5-d5fe-46a2-996b-78651cce078b",
       "identifiers": [
         {
@@ -29801,6 +30268,7 @@
     },
     {
       "birth_date": "1952-12-08",
+      "gender": "female",
       "id": "7b1e22a6-7f81-406b-aaaf-27e15209f57a",
       "identifiers": [
         {
@@ -29818,6 +30286,7 @@
     },
     {
       "birth_date": "1947-04-12",
+      "gender": "female",
       "id": "43d6b687-79a1-4ac8-8315-903ff977beea",
       "identifiers": [
         {
@@ -29936,6 +30405,7 @@
     },
     {
       "birth_date": "1966-05-07",
+      "gender": "female",
       "id": "4139fda1-ecb1-4b40-b251-100cb9872d40",
       "identifiers": [
         {
@@ -29953,6 +30423,7 @@
     },
     {
       "birth_date": "1955-05-07",
+      "gender": "female",
       "id": "0e4a90a9-3eab-4376-902a-f68a84672a9a",
       "identifiers": [
         {
@@ -29970,6 +30441,7 @@
     },
     {
       "birth_date": "1964-03-06",
+      "gender": "female",
       "id": "111b362d-e59c-4646-b595-072a6d145d26",
       "identifiers": [
         {
@@ -29987,6 +30459,7 @@
     },
     {
       "birth_date": "1971-03-01",
+      "gender": "female",
       "id": "49449196-fc15-4506-8092-9f206e66d9d3",
       "identifiers": [
         {
@@ -30063,6 +30536,7 @@
     },
     {
       "birth_date": "1948-07-06",
+      "gender": "female",
       "id": "6ff52940-88f3-49dd-8f76-9a4411dbff53",
       "identifiers": [
         {
@@ -30197,6 +30671,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Maria José Nogueira Pinto",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Maria José Nogueira Pinto",
           "note": "multilingual"
@@ -30215,6 +30694,7 @@
     },
     {
       "birth_date": "1972-04-08",
+      "gender": "female",
       "id": "26c516dd-9342-4ff1-b463-e3a2bf5ce813",
       "identifiers": [
         {
@@ -30291,6 +30771,7 @@
     },
     {
       "birth_date": "1954-10-25",
+      "gender": "female",
       "id": "4dc581f1-9eaa-46a5-99c7-2fedcc54b1c2",
       "identifiers": [
         {
@@ -30360,6 +30841,7 @@
     },
     {
       "birth_date": "1955-05-05",
+      "gender": "female",
       "id": "16efe2f3-c064-48db-b4f7-548967b57637",
       "identifiers": [
         {
@@ -30377,6 +30859,7 @@
     },
     {
       "birth_date": "1960-09-17",
+      "gender": "female",
       "id": "ba918a43-83e3-4f4d-9358-caab17f0427e",
       "identifiers": [
         {
@@ -30411,6 +30894,7 @@
     },
     {
       "birth_date": "1955-09-07",
+      "gender": "female",
       "id": "62406554-04fd-466f-9a6f-e57e00a25eed",
       "identifiers": [
         {
@@ -30453,6 +30937,7 @@
     },
     {
       "birth_date": "1949-06-21",
+      "gender": "female",
       "id": "bd28aa9c-3424-4be0-9b4a-42a9f732fdf2",
       "identifiers": [
         {
@@ -30796,6 +31281,7 @@
     },
     {
       "birth_date": "1958-11-05",
+      "gender": "female",
       "id": "c2ebb93e-3362-4c48-b31d-fffe85ea5251",
       "identifiers": [
         {
@@ -31001,6 +31487,7 @@
     },
     {
       "birth_date": "1977-03-05",
+      "gender": "female",
       "id": "643b5b6f-f0bf-43ea-b925-5b650dbe2e5b",
       "identifiers": [
         {
@@ -31018,6 +31505,7 @@
     },
     {
       "birth_date": "1969-05-29",
+      "gender": "female",
       "id": "9afd2024-1245-41fd-9d25-a4ec49ac291c",
       "identifiers": [
         {
@@ -31228,6 +31716,7 @@
     },
     {
       "birth_date": "1978-02-13",
+      "gender": "female",
       "id": "439ffa2a-c42a-41ef-94a8-0e2945e76887",
       "identifiers": [
         {
@@ -31347,6 +31836,7 @@
     },
     {
       "birth_date": "1943-07-08",
+      "gender": "female",
       "id": "17128e90-1992-42ce-b350-dbed0614f0c0",
       "identifiers": [
         {
@@ -31406,6 +31896,7 @@
     },
     {
       "birth_date": "1949-10-30",
+      "gender": "male",
       "id": "b36d821a-fa4e-405f-a14a-3b8a1a88c7ff",
       "identifiers": [
         {
@@ -31548,6 +32039,7 @@
     },
     {
       "birth_date": "1964-01-23",
+      "gender": "male",
       "id": "0b9d6563-ec79-496e-a56d-b2236840b6c0",
       "identifiers": [
         {
@@ -31673,6 +32165,7 @@
     },
     {
       "birth_date": "1970-08-07",
+      "gender": "male",
       "id": "64f19426-cd16-4637-8ca5-e4fa945ed092",
       "identifiers": [
         {
@@ -31690,6 +32183,7 @@
     },
     {
       "birth_date": "1944-01-01",
+      "gender": "male",
       "id": "6c06a903-7781-4f3e-b0e6-36500f060694",
       "identifiers": [
         {
@@ -31756,6 +32250,7 @@
     },
     {
       "birth_date": "1971-09-07",
+      "gender": "male",
       "id": "684f1e24-0c7e-4074-964f-2c129a4746ea",
       "identifiers": [
         {
@@ -31893,6 +32388,7 @@
     },
     {
       "birth_date": "1965-09-01",
+      "gender": "male",
       "id": "126d379a-807d-4809-9dfa-6c4319922592",
       "identifiers": [
         {
@@ -32117,6 +32613,7 @@
     },
     {
       "birth_date": "1934-04-21",
+      "gender": "male",
       "id": "fdf4ec3c-31a2-4bfe-97fb-6c337c948868",
       "identifiers": [
         {
@@ -32796,7 +33293,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mota_Amaral"
+          "url": "https://en.wikipedia.org/wiki/João_Bosco_Mota_Amaral"
         },
         {
           "note": "Wikipedia (fr)",
@@ -32970,6 +33467,7 @@
     },
     {
       "birth_date": "1940-11-19",
+      "gender": "male",
       "id": "c4619626-7a6e-4c42-87a1-b20e7c94b777",
       "identifiers": [
         {
@@ -33045,6 +33543,7 @@
     },
     {
       "birth_date": "1958-04-14",
+      "gender": "male",
       "id": "f87668ba-eac2-48fd-bc17-dcf63bf4f357",
       "identifiers": [
         {
@@ -33491,6 +33990,7 @@
     },
     {
       "birth_date": "1951-06-15",
+      "gender": "male",
       "id": "97491b27-0626-4e67-80e6-380428868002",
       "identifiers": [
         {
@@ -33696,6 +34196,7 @@
     },
     {
       "birth_date": "1975-03-31",
+      "gender": "male",
       "id": "6e39f4f8-c916-4fa4-aa18-9badb9efa3a0",
       "identifiers": [
         {
@@ -33713,6 +34214,7 @@
     },
     {
       "birth_date": "1978-01-01",
+      "gender": "male",
       "id": "62baf455-79e3-4ae1-be3f-5005e58f6186",
       "identifiers": [
         {
@@ -33924,6 +34426,7 @@
     },
     {
       "birth_date": "1971-10-10",
+      "gender": "male",
       "id": "b3df5917-b20c-463d-bb9a-c5d95d54b55b",
       "identifiers": [
         {
@@ -33941,6 +34444,7 @@
     },
     {
       "birth_date": "1961-01-31",
+      "gender": "male",
       "id": "c9733e98-c15c-436f-a50d-e63c366476e3",
       "identifiers": [
         {
@@ -34312,6 +34816,7 @@
     },
     {
       "birth_date": "1973-11-27",
+      "gender": "female",
       "id": "f604c3fa-a858-47ff-8bb1-d7a193741f69",
       "identifiers": [
         {
@@ -34552,6 +35057,7 @@
     },
     {
       "birth_date": "1960-11-10",
+      "gender": "female",
       "id": "acd50d12-76ec-4a7a-94c6-11841e0faaca",
       "identifiers": [
         {
@@ -34569,6 +35075,7 @@
     },
     {
       "birth_date": "1934-08-12",
+      "gender": "female",
       "id": "1e74523b-63d9-4f09-afba-9fe020f13351",
       "identifiers": [
         {
@@ -34586,6 +35093,7 @@
     },
     {
       "birth_date": "1946-08-10",
+      "gender": "male",
       "id": "ca87390d-ddbd-414d-9d92-6e5423656ccc",
       "identifiers": [
         {
@@ -34620,6 +35128,7 @@
     },
     {
       "birth_date": "1973-05-28",
+      "gender": "female",
       "id": "b7538142-243b-4926-8ff8-c82f3415b17c",
       "identifiers": [
         {
@@ -34780,6 +35289,7 @@
     },
     {
       "birth_date": "1961-11-24",
+      "gender": "female",
       "id": "efa0b4ce-21d8-4d9c-9ae8-f8ce117822cf",
       "identifiers": [
         {
@@ -34854,6 +35364,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Mário Patinha Antão",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Mário Patinha Antão",
           "note": "multilingual"
@@ -34889,6 +35404,7 @@
     },
     {
       "birth_date": "1970-11-07",
+      "gender": "female",
       "id": "a84d7063-b62a-4f34-8305-0fe46ba17f0e",
       "identifiers": [
         {
@@ -34906,6 +35422,7 @@
     },
     {
       "birth_date": "1966-08-16",
+      "gender": "female",
       "id": "6edb05dd-760f-465b-afd0-a21109e833ed",
       "identifiers": [
         {
@@ -34939,6 +35456,7 @@
     },
     {
       "birth_date": "1965-11-11",
+      "gender": "female",
       "id": "a22e4149-f860-4717-a89d-3e44ea8d50ab",
       "identifiers": [
         {
@@ -34998,6 +35516,7 @@
     },
     {
       "birth_date": "1970-03-05",
+      "gender": "female",
       "id": "795436c3-f09c-43f1-83e8-91b337f6422e",
       "identifiers": [
         {
@@ -35100,6 +35619,7 @@
     },
     {
       "birth_date": "1963-01-02",
+      "gender": "male",
       "id": "d5c799b0-53be-4748-bf60-3116673d8bcc",
       "identifiers": [
         {
@@ -35117,6 +35637,7 @@
     },
     {
       "birth_date": "1968-12-03",
+      "gender": "male",
       "id": "b956b011-4766-4b59-bb03-743af9d23eac",
       "identifiers": [
         {
@@ -35315,6 +35836,7 @@
     },
     {
       "birth_date": "1963-09-13",
+      "gender": "male",
       "id": "5736931f-cccc-41c6-9c88-9a7c50036266",
       "identifiers": [
         {
@@ -35332,6 +35854,7 @@
     },
     {
       "birth_date": "1964-03-16",
+      "gender": "male",
       "id": "b042c38f-6d1b-478b-8bd9-1068853db31d",
       "identifiers": [
         {
@@ -35437,6 +35960,7 @@
     },
     {
       "birth_date": "1958-04-27",
+      "gender": "male",
       "id": "8a8b22cb-71b2-4328-8203-5a7520ade994",
       "identifiers": [
         {
@@ -35501,6 +36025,10 @@
         {
           "identifier": "128406372",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1621740",
+          "scheme": "imdb"
         },
         {
           "identifier": "1352",
@@ -35855,6 +36383,7 @@
     },
     {
       "birth_date": "1951-06-19",
+      "gender": "male",
       "id": "277161f5-286d-4378-8dc7-66562c02cbf8",
       "identifiers": [
         {
@@ -36116,6 +36645,7 @@
     },
     {
       "birth_date": "1976-08-01",
+      "gender": "male",
       "id": "1d4cc001-92bf-4f6b-bde6-b47f82ec0120",
       "identifiers": [
         {
@@ -37072,6 +37602,7 @@
     },
     {
       "birth_date": "1979-07-27",
+      "gender": "male",
       "id": "54b34c2b-8771-4174-9b5b-fb516a504ee7",
       "identifiers": [
         {
@@ -37244,7 +37775,7 @@
         },
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Pedro_Santana_Lopes"
+          "url": "https://commons.wikipedia.org/wiki/Category:Pedro_Santana_Lopes"
         },
         {
           "note": "Wikipedia (cs)",
@@ -37513,6 +38044,7 @@
     },
     {
       "birth_date": "1962-08-15",
+      "gender": "male",
       "id": "2609baba-3a4e-4afb-adcc-cdfc0b8bc577",
       "identifiers": [
         {
@@ -37646,6 +38178,7 @@
     },
     {
       "birth_date": "1971-04-30",
+      "gender": "male",
       "id": "95a3ea05-9e9b-4e41-9189-68b0b7473146",
       "identifiers": [
         {
@@ -37874,6 +38407,7 @@
     },
     {
       "birth_date": "1958-09-08",
+      "gender": "female",
       "id": "81cae089-5bcf-4dd1-9b89-9cd73de80965",
       "identifiers": [
         {
@@ -38177,6 +38711,7 @@
     },
     {
       "birth_date": "1975-05-18",
+      "gender": "male",
       "id": "39fc72c4-98c1-41aa-a3a2-c10416738dbb",
       "identifiers": [
         {
@@ -38194,6 +38729,7 @@
     },
     {
       "birth_date": "1953-06-17",
+      "gender": "male",
       "id": "75560beb-61ba-4ba2-b16a-1b45c5b700d4",
       "identifiers": [
         {
@@ -38380,6 +38916,7 @@
     },
     {
       "birth_date": "1963-11-06",
+      "gender": "male",
       "id": "403253dc-bc28-4f17-992a-52f6d16434d5",
       "identifiers": [
         {
@@ -38474,6 +39011,7 @@
     },
     {
       "birth_date": "1959-03-03",
+      "gender": "male",
       "id": "3325f995-f465-45df-8fcf-0f03d1486ddc",
       "identifiers": [
         {
@@ -38491,6 +39029,7 @@
     },
     {
       "birth_date": "1957-09-13",
+      "gender": "male",
       "id": "11d20dfd-8327-4cb7-8807-c4409a7f3252",
       "identifiers": [
         {
@@ -38508,6 +39047,7 @@
     },
     {
       "birth_date": "1972-09-11",
+      "gender": "male",
       "id": "fc865508-0a1e-4413-b225-3bbe74d1e4ed",
       "identifiers": [
         {
@@ -38525,6 +39065,7 @@
     },
     {
       "birth_date": "1958-06-01",
+      "gender": "male",
       "id": "cef67f5f-a520-42e2-aa8e-f0d2256cd4af",
       "identifiers": [
         {
@@ -38542,6 +39083,7 @@
     },
     {
       "birth_date": "1984-11-04",
+      "gender": "male",
       "id": "258b5007-89c1-4188-8536-dedbb81d30a2",
       "identifiers": [
         {
@@ -38575,6 +39117,7 @@
     },
     {
       "birth_date": "1978-02-09",
+      "gender": "female",
       "id": "91047b3e-79d8-4334-a5f3-829fd9f5b0eb",
       "identifiers": [
         {
@@ -38592,6 +39135,7 @@
     },
     {
       "birth_date": "1974-07-28",
+      "gender": "female",
       "id": "0f3f257e-3715-4d9a-b220-eefa60cf8314",
       "identifiers": [
         {
@@ -38609,6 +39153,7 @@
     },
     {
       "birth_date": "1976-05-10",
+      "gender": "female",
       "id": "906035fd-b35c-4f70-9347-4115ce00b052",
       "identifiers": [
         {
@@ -38861,6 +39406,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "139347",
+          "scheme": "nlg"
+        },
+        {
           "identifier": "1719",
           "scheme": "parlamento"
         },
@@ -38923,6 +39472,7 @@
     },
     {
       "birth_date": "1955-12-22",
+      "gender": "female",
       "id": "04128000-77ec-40f8-bcdb-520e4504cf70",
       "identifiers": [
         {
@@ -38940,6 +39490,7 @@
     },
     {
       "birth_date": "1961-02-21",
+      "gender": "female",
       "id": "041d1824-849c-4fe7-9ac3-35ac5cb71c70",
       "identifiers": [
         {
@@ -38999,6 +39550,7 @@
     },
     {
       "birth_date": "1967-01-19",
+      "gender": "male",
       "id": "39c7b4b1-1864-463b-9997-088d93e55996",
       "identifiers": [
         {
@@ -39050,6 +39602,7 @@
     },
     {
       "birth_date": "1944-10-23",
+      "gender": "male",
       "id": "c4e9fd9c-d09f-48c9-8cc3-b79e5f53ab77",
       "identifiers": [
         {
@@ -39127,6 +39680,7 @@
     },
     {
       "birth_date": "1969-12-30",
+      "gender": "male",
       "id": "244c0028-b444-4319-9cfd-76f3d7aa5705",
       "identifiers": [
         {
@@ -39144,6 +39698,7 @@
     },
     {
       "birth_date": "1969-01-24",
+      "gender": "male",
       "id": "29f80939-91bc-4ff3-b67e-9e31e8cce835",
       "identifiers": [
         {
@@ -39204,6 +39759,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rui_Machete"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Rui_Machete"
@@ -39463,6 +40022,7 @@
     },
     {
       "birth_date": "1964-07-27",
+      "gender": "male",
       "id": "d629baf0-5733-4e0a-b5b0-72e2947834ad",
       "identifiers": [
         {
@@ -39480,6 +40040,7 @@
     },
     {
       "birth_date": "1964-10-23",
+      "gender": "male",
       "id": "2bb744b3-e5a6-4104-a28b-e0e4a97e488c",
       "identifiers": [
         {
@@ -39583,6 +40144,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Rui Rio",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Rui Rio",
           "note": "multilingual"
@@ -39640,6 +40206,7 @@
     },
     {
       "birth_date": "1948-04-14",
+      "gender": "male",
       "id": "53d263d4-47d0-441a-ac09-47bf50f7caec",
       "identifiers": [
         {
@@ -39733,6 +40300,7 @@
       "name": "Sandra Cunha"
     },
     {
+      "gender": "female",
       "id": "a7b17ba8-dabe-4df6-b80c-f59abd5b2897",
       "identifiers": [
         {
@@ -39775,6 +40343,7 @@
     },
     {
       "birth_date": "1951-09-01",
+      "gender": "male",
       "id": "b7744979-e718-4d78-bed4-8410aafc1ab2",
       "identifiers": [
         {
@@ -39874,6 +40443,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:José_Silva_Peneda"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/José_Albino_Silva_Peneda"
@@ -40178,9 +40751,16 @@
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1944&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Susana_Amador_-_September_2016_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Susana_Amador"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Susana_Amador"
@@ -40259,6 +40839,7 @@
     },
     {
       "birth_date": "2009-01-01",
+      "gender": "male",
       "id": "d12d67f4-81bb-4494-bf9d-a8e113b5527a",
       "identifiers": [
         {
@@ -40276,6 +40857,7 @@
     },
     {
       "birth_date": "1962-06-27",
+      "gender": "male",
       "id": "6b2e4d0c-2ba7-4312-bd54-fb2e407ae1b3",
       "identifiers": [
         {
@@ -40293,6 +40875,7 @@
     },
     {
       "birth_date": "1970-04-22",
+      "gender": "male",
       "id": "ee4d46b8-3258-4c9d-9254-91a439347c9a",
       "identifiers": [
         {
@@ -40352,6 +40935,7 @@
     },
     {
       "birth_date": "1970-08-22",
+      "gender": "male",
       "id": "c566a953-65e7-42cc-8be8-0c556dd065a3",
       "identifiers": [
         {
@@ -40435,6 +41019,7 @@
     },
     {
       "birth_date": "1971-12-10",
+      "gender": "female",
       "id": "db91cd67-7c9b-4c66-9cb7-0de45134b170",
       "identifiers": [
         {
@@ -40486,6 +41071,7 @@
     },
     {
       "birth_date": "1977-03-01",
+      "gender": "female",
       "id": "66f27d28-772a-41b0-9a6d-fa052827313c",
       "identifiers": [
         {
@@ -40590,6 +41176,11 @@
         },
         {
           "lang": "it",
+          "name": "Telmo Correia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Telmo Correia",
           "note": "multilingual"
         },
@@ -40788,6 +41379,7 @@
     },
     {
       "birth_date": "1970-06-21",
+      "gender": "female",
       "id": "dcbab79b-08eb-4b59-acf5-71c3aaa74450",
       "identifiers": [
         {
@@ -40805,6 +41397,7 @@
     },
     {
       "birth_date": "1966-07-17",
+      "gender": "female",
       "id": "0fdc8458-69ff-48fa-a230-7a09a4e054a0",
       "identifiers": [
         {
@@ -40864,6 +41457,7 @@
     },
     {
       "birth_date": "1957-10-18",
+      "gender": "female",
       "id": "5d44bdcd-fb2f-4fe0-a7f0-d2054d8139a5",
       "identifiers": [
         {
@@ -40952,6 +41546,7 @@
     },
     {
       "birth_date": "1939-08-23",
+      "gender": "female",
       "id": "d80b0f8a-5f2b-4f33-9d66-f0b519aaac78",
       "identifiers": [
         {
@@ -40986,6 +41581,7 @@
     },
     {
       "birth_date": "1953-08-30",
+      "gender": "female",
       "id": "9a36c09d-8860-40a5-ae80-26f354ea2693",
       "identifiers": [
         {
@@ -41080,6 +41676,7 @@
     },
     {
       "birth_date": "1952-11-27",
+      "gender": "male",
       "id": "c9734bbc-7396-427a-8d11-659fb89727a7",
       "identifiers": [
         {
@@ -41097,6 +41694,7 @@
     },
     {
       "birth_date": "1956-08-08",
+      "gender": "male",
       "id": "bf868989-5ee0-4dd1-b994-98fe22e793d7",
       "identifiers": [
         {
@@ -41171,6 +41769,7 @@
     },
     {
       "birth_date": "1952-04-27",
+      "gender": "male",
       "id": "e6231fd6-360b-4643-8c7d-e6699d58a863",
       "identifiers": [
         {
@@ -41275,6 +41874,11 @@
         },
         {
           "lang": "nb",
+          "name": "Vasco Pulido Valente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Vasco Pulido Valente",
           "note": "multilingual"
         },
@@ -41390,6 +41994,7 @@
     },
     {
       "birth_date": "1963-03-10",
+      "gender": "male",
       "id": "dc02b260-b1cb-4657-b3aa-d3711ac62793",
       "identifiers": [
         {
@@ -41466,6 +42071,7 @@
     },
     {
       "birth_date": "1943-10-23",
+      "gender": "male",
       "id": "09e024b7-8990-443d-8d2c-b1446dd789aa",
       "identifiers": [
         {
@@ -41543,6 +42149,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vital_Moreira"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Vital_Moreira"
@@ -41692,6 +42302,7 @@
     },
     {
       "birth_date": "1948-07-21",
+      "gender": "male",
       "id": "e566d303-56c4-42c1-ae47-aef49ed479c1",
       "identifiers": [
         {
@@ -41744,6 +42355,7 @@
     },
     {
       "birth_date": "1979-01-17",
+      "gender": "female",
       "id": "d3ac9b65-fb59-4c34-844b-2595aebff843",
       "identifiers": [
         {
@@ -41761,6 +42373,7 @@
     },
     {
       "birth_date": "1952-05-27",
+      "gender": "male",
       "id": "8ca6195c-94c7-4f6f-b921-4c61ee1e0ce8",
       "identifiers": [
         {
@@ -41892,6 +42505,7 @@
     },
     {
       "birth_date": "1950-03-10",
+      "gender": "male",
       "id": "9cea5396-aba2-4cd2-b629-c74cf3a42282",
       "identifiers": [
         {
@@ -41909,6 +42523,7 @@
     },
     {
       "birth_date": "1977-01-24",
+      "gender": "male",
       "id": "263c860f-54d4-43c8-9fad-6e926c1e176c",
       "identifiers": [
         {
@@ -41943,6 +42558,7 @@
     },
     {
       "birth_date": "1962-08-16",
+      "gender": "male",
       "id": "8c9aec34-3e78-4a47-97c3-80efca95838a",
       "identifiers": [
         {
@@ -42190,6 +42806,9 @@
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=9&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flickr_-_europeanpeoplesparty_-_EPP_Summit_Meise_4_November_2004_(cropped).png"
         }
       ],
       "links": [
@@ -42230,6 +42849,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Álvaro Barreto",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Álvaro Barreto",
           "note": "multilingual"
@@ -42248,6 +42872,7 @@
     },
     {
       "birth_date": "1959-12-25",
+      "gender": "male",
       "id": "dfc7ef34-eb15-4b24-85c5-3583c394302a",
       "identifiers": [
         {
@@ -42300,6 +42925,7 @@
     },
     {
       "birth_date": "1962-02-22",
+      "gender": "male",
       "id": "f3629f8d-0f79-422c-850e-c5633f9eaf41",
       "identifiers": [
         {
@@ -43928,6 +44554,11 @@
         {
           "lang": "hy",
           "name": "Սոցիալ-դեմոկրատական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الديمقراطي الاجتماعي",
           "note": "multilingual"
         },
         {
