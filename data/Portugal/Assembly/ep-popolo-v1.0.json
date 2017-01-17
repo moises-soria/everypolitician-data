@@ -7656,20 +7656,74 @@
     },
     {
       "birth_date": "2009-01-01",
+      "gender": "female",
+      "given_name": "Berta",
       "id": "1a0878d5-3b94-4908-8d50-5b4e88da0674",
       "identifiers": [
         {
+          "identifier": "0000 0000 7049 9418",
+          "scheme": "isni"
+        },
+        {
           "identifier": "6147",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "98701682",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16498018",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6147&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6147&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/BertaCabral.jpg"
         }
       ],
-      "name": "Berta Cabral"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Berta_Cabral"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Berta_Cabral"
+        }
+      ],
+      "name": "Berta Cabral",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Berta Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Berta Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Berta Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Berta Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Berta Cabral",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-08-24",
@@ -29589,20 +29643,79 @@
     },
     {
       "birth_date": "1968-04-28",
+      "gender": "male",
+      "given_name": "Manuel",
       "id": "fa33f6e9-bb82-4cbc-a20d-909fa19f00bb",
       "identifiers": [
         {
           "identifier": "5528",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q21582289",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5528&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5528&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Manuel_Caldeira_Cabral.JPG"
         }
       ],
-      "name": "Manuel Caldeira Cabral"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Manuel_Caldeira_Cabral"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Caldeira_Cabral"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Manuel_Caldeira_Cabral"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Manuel_Caldeira_Cabral"
+        }
+      ],
+      "name": "Manuel Caldeira Cabral",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Manuel Caldeira Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Manuel Caldeira Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Manuel Caldeira Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Manuel Caldeira Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Manuel Caldeira Cabral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Manuel Caldeira Cabral",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1929-07-08",
@@ -34567,11 +34680,29 @@
     },
     {
       "birth_date": "1966-12-09",
+      "gender": "male",
+      "given_name": "Mário",
       "id": "414b3c20-4faa-4a29-ba60-22bcbd4d652e",
       "identifiers": [
         {
+          "identifier": "171809963",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7729 7392",
+          "scheme": "isni"
+        },
+        {
           "identifier": "5829",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "19088653",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q21568721",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5829&type=deputado",
@@ -34580,7 +34711,75 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5829&type=deputado"
         }
       ],
-      "name": "Mário Centeno"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Mário_Centeno"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mário_Centeno"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mário_Centeno"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mário_Centeno"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Mário_Centeno"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mário_Centeno"
+        }
+      ],
+      "name": "Mário Centeno",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mário Centeno",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "bfbe6d16-d466-42b6-acd3-5b10f9e8eec3",
@@ -40793,11 +40992,16 @@
     },
     {
       "birth_date": "1982-11-11",
+      "gender": "female",
       "id": "c70d1643-c264-4202-9c2a-28a09c3ec4c6",
       "identifiers": [
         {
           "identifier": "6177",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q22807807",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6177&type=deputado",
@@ -40806,7 +41010,34 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6177&type=deputado"
         }
       ],
-      "name": "Rubina Berardo"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rubina_Berardo"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Rubina_Berardo"
+        }
+      ],
+      "name": "Rubina Berardo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rubina Berardo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rubina Berardo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Rubina Berardo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-09-16",
