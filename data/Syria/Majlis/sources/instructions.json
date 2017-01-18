@@ -11,6 +11,15 @@
       "type": "membership"
     },
     {
+      "file": "archive/term-2012-images.csv",
+      "type": "person",
+      "source": "http://parliament.gov.sy/",
+      "merge": {
+        "incoming_field": "id",
+        "existing_field": "id"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
