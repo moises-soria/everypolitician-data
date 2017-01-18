@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/nigeria-national-assembly",
+        "query": "SELECT * FROM data WHERE js_position = 'Sen' AND area != '' ORDER BY CAST(id AS int)"
+      },
+      "source": "http://www.nass.gov.ng/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "from": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
+    }
+  ]
+}
