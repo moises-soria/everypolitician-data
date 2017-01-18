@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1963",
       "contact_details": [
         {
           "type": "email",
@@ -12,20 +13,107 @@
       ],
       "email": "ccannionier@gov.bm",
       "gender": "male",
+      "given_name": "Craig",
       "id": "da919d3c-7428-4060-8210-3f891d64a165",
       "identifiers": [
         {
           "identifier": "Craig_Cannonier",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0pb8f9k",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1281098",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/3216HOACRAIGCANNON7EE40(1).jpg",
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/3216HOACRAIGCANNON7EE40(1).jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Craig_Cannonier.jpg"
         }
       ],
-      "name": "Craig Cannonier"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Craig_Cannonier"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κρεγκ_Κανονίερ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Craig_Cannonier"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Craig_Cannonier"
+        }
+      ],
+      "name": "Craig Cannonier",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κρεγκ Κανονίερ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Craig Cannonier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "克雷格·康隆尼",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -475,6 +563,7 @@
       "name": "Mark Pettingill"
     },
     {
+      "birth_date": "1958-06-18",
       "contact_details": [
         {
           "type": "email",
@@ -483,20 +572,98 @@
       ],
       "email": "mdunkley@parliament.bm",
       "gender": "male",
+      "given_name": "Michael",
       "id": "70b7b863-9aef-4e28-9294-8e976a71a724",
       "identifiers": [
         {
           "identifier": "Mr._Michael_Dunkle",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17626860",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/DUNKELY%20MICHAEL.jpg",
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/DUNKELY%20MICHAEL.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Michael_Dunkley_2015.jpg"
         }
       ],
-      "name": "Michael Dunkley"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Dunkley"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Michael_Dunkley"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Michael_Dunkley"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/邁克爾·鄧克利"
+        }
+      ],
+      "name": "Michael Dunkley",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Michael Dunkley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Michael Dunkley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Michael Dunkley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Michael Dunkley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マイケル・ダンクリー",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Michael Dunkley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Michael Dunkley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "邁克爾·鄧克利",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "迈克尔·邓克利",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "邁克爾·鄧克利",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -623,6 +790,7 @@
       "name": "Patricia Gordon Pamplin"
     },
     {
+      "birth_date": "1945-01-22",
       "contact_details": [
         {
           "type": "email",
@@ -631,11 +799,20 @@
       ],
       "email": "rhorton@parliament.bm",
       "gender": "male",
+      "given_name": "Randy",
       "id": "5c41d231-4ace-4aa6-a1c4-aeb65619a9b1",
       "identifiers": [
         {
           "identifier": "Randy_Horton",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/025y7xs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2616239",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/Horton.2006.jpg",
@@ -644,7 +821,109 @@
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/Horton.2006.jpg"
         }
       ],
-      "name": "Randolph Horton"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Randy_Horton"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Randy_Horton"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Randy_Horton"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Randy_Horton"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Randy_Horton"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хортон,_Рэнди"
+        }
+      ],
+      "name": "Randolph Horton",
+      "other_names": [
+        {
+          "name": "Randy Horton",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хортон, Рэнди",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Randy Horton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "蘭迪·霍頓",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
