@@ -31967,10 +31967,51 @@
       "gender": "male",
       "given_name": "Marcelo",
       "id": "6590adf2-76b1-4c18-8674-143a7a23cd6e",
+      "identifiers": [
+        {
+          "identifier": "XX1306808",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "14491256p",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0260760",
+          "scheme": "gnc"
+        },
+        {
+          "identifier": "122319281",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7823 6946",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no96036839",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "086122371",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "59963164",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11935262",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/107_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/107_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/El_Cambi_Real_És_Possible!_(22892640704).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/820886287569788928/iLGuERTM.jpg"
@@ -31978,11 +32019,71 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Marcelo_Expósito_Prieto"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Marcelo_Expósito"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Marcelo_Expósito"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marcelo_Expósito"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Marcelo_Expósito"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/mrenau"
+        },
+        {
+          "note": "website",
+          "url": "http://www.marceloexposito.net/"
         }
       ],
       "name": "Marcelo Expósito Prieto",
+      "other_names": [
+        {
+          "name": "Marcelo Expósito",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Marcelo Expósito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marcelo Expósito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marcelo Expósito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marcelo Expósito Prieto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Marcelo Expósito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marcelo Expósito",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Expósito Prieto, Marcelo"
     },
     {
