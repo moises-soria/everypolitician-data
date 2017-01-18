@@ -1023,13 +1023,14 @@
         "slug": "Chamber",
         "sources_directory": "data/Belarus/Chamber/sources",
         "popolo": "data/Belarus/Chamber/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b354d16bcc33b588dcf3ef5f2108c23defa16500/data/Belarus/Chamber/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/88c33d52c332797a42d9b4a836a24c6db6d90532/data/Belarus/Chamber/ep-popolo-v1.0.json",
         "names": "data/Belarus/Chamber/names.csv",
-        "lastmod": "1483433137",
+        "lastmod": "1484759182",
         "person_count": 109,
-        "sha": "b354d16bcc33b588dcf3ef5f2108c23defa16500",
+        "sha": "88c33d52c332797a42d9b4a836a24c6db6d90532",
         "legislative_periods": [
           {
+            "end_date": "2016-09-10",
             "id": "term/5",
             "name": "5th Convocation",
             "start_date": "2012-09-23",
@@ -1038,7 +1039,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/20f29b1769f4d04235d8be330169e7f9bd0d06a8/data/Belarus/Chamber/term-5.csv"
           }
         ],
-        "statement_count": 3479,
+        "statement_count": 3482,
         "type": "unicameral legislature"
       }
     ]
