@@ -1,13 +1,8 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/st-vincent-and-grenadines-elections",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
-      "source": "http://www.caribbeanelections.com/vc/default.asp",
+      "file": "archive/elections-2010.csv",
+      "source": "http://www.caribbeanelections.com/vc/",
       "type": "membership"
     },
     {
