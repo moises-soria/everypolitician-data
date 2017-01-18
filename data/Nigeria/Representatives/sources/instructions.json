@@ -4,8 +4,8 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/nigeria-national-assembly",
-        "query": "SELECT * FROM data WHERE constituency != ''"
+        "scraper": "everypolitician-scrapers/nigeria-national-assembly",
+        "query": "SELECT * FROM data WHERE js_position = 'Hon' AND area != '' AND NOT name LIKE '%Anonymous%Anonymous%'"
       },
       "source": "http://www.nass.gov.ng/",
       "type": "membership"
