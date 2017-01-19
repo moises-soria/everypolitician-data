@@ -700,7 +700,14 @@
       "name": "ANÍBAL JOÃO DA SILVA MELO"
     },
     {
-      "id": "51888a46-89b9-460f-bcb2-721dd824f4c2",
+      "gender": "male",
+      "id": "4d828576-8ad2-47dd-a586-73c1ea3ec65b",
+      "identifiers": [
+        {
+          "identifier": "armndo.neto",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=armando.neto&companyId=10132",
       "images": [
         {
@@ -2713,7 +2720,14 @@
       "name": "GILBERTO MANUEL PEREIRA"
     },
     {
-      "id": "1e46e6a6-2afe-47a2-bfee-91ff930accaa",
+      "gender": "female",
+      "id": "5f0a6e6a-63a8-4d6d-aac1-68f315f6d536",
+      "identifiers": [
+        {
+          "identifier": "graciana.caetano",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=23graciana.caetano&companyId=10132",
       "images": [
         {
@@ -3129,7 +3143,14 @@
       "name": "JOSEFINA PANDEINGE HALEINGE"
     },
     {
-      "id": "8043ac0c-9aad-48e0-b03d-83fe20428130",
+      "gender": "male",
+      "id": "fe99278b-34d0-44e0-9770-6b12fdb5a58c",
+      "identifiers": [
+        {
+          "identifier": "jose.uamahama",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=jose.uamuhana&companyId=10132",
       "images": [
         {
@@ -3391,7 +3412,13 @@
       "name": "JOÃO MANUEL FRANCISCO"
     },
     {
-      "id": "019cbe2c-30be-47f7-b3d8-e78377b104f5",
+      "id": "2a47cee0-2261-495b-92e1-0b36892c0ce4",
+      "identifiers": [
+        {
+          "identifier": "joao.ntiama",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=0joao.ntiama&companyId=10132",
       "images": [
         {
@@ -7351,14 +7378,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/zaire",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/unita",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "019cbe2c-30be-47f7-b3d8-e78377b104f5",
-      "role": "member"
-    },
-    {
       "area_id": "area/lunda_sul",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/mpla",
@@ -7503,14 +7522,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/cuanza_norte",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "1e46e6a6-2afe-47a2-bfee-91ff930accaa",
-      "role": "member"
-    },
-    {
       "area_id": "area/nacional",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/mpla",
@@ -7604,6 +7615,14 @@
       "on_behalf_of_id": "party/mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "295f5abc-2277-461c-a1bb-6658d9e8ff8e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/zaire",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "party/unita",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "2a47cee0-2261-495b-92e1-0b36892c0ce4",
       "role": "member"
     },
     {
@@ -7950,6 +7969,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "party/mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "4d828576-8ad2-47dd-a586-73c1ea3ec65b",
+      "role": "member"
+    },
+    {
       "area_id": "area/moxico",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/mpla",
@@ -7979,13 +8005,6 @@
       "on_behalf_of_id": "party/mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "4f6e76f5-6ce6-47d9-97c4-a9bfd3894910",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "51888a46-89b9-460f-bcb2-721dd824f4c2",
       "role": "member"
     },
     {
@@ -8042,6 +8061,14 @@
       "on_behalf_of_id": "party/prs",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "5dab2438-58c1-4c7e-9501-21a227b81e16",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cuanza_norte",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "party/mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "5f0a6e6a-63a8-4d6d-aac1-68f315f6d536",
       "role": "member"
     },
     {
@@ -8234,14 +8261,6 @@
       "on_behalf_of_id": "party/unita",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "7f6e2b8e-c412-47bd-9fbf-34a5e199894e",
-      "role": "member"
-    },
-    {
-      "area_id": "area/lunda_norte",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "8043ac0c-9aad-48e0-b03d-83fe20428130",
       "role": "member"
     },
     {
@@ -9097,6 +9116,14 @@
       "on_behalf_of_id": "party/mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "fa7e698e-fa35-4969-8c8d-c159c675a13a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lunda_norte",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "party/mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "fe99278b-34d0-44e0-9770-6b12fdb5a58c",
       "role": "member"
     }
   ],
