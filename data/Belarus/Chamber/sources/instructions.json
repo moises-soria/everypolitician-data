@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/belarus-house-of-representatives",
         "query": "SELECT *, 'unknown' as party_id FROM data ORDER BY id"
       },
-      "source": "http://nationalassembly.gov.bz",
+      "source": "http://house.gov.by/ru",
       "type": "membership"
     },
     {
