@@ -34039,11 +34039,16 @@
       "email": "GALATI_G@camera.it",
       "family_name": "GALATI",
       "gender": "male",
+      "given_name": "Giuseppe",
       "id": "5dbab353-8659-4054-8461-840c0af7bdba",
       "identifiers": [
         {
           "identifier": "50258",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28070590",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/050/258/original_d50258.jpg",
@@ -34057,11 +34062,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Giuseppe_Galati"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/GiuseppeGalati"
         }
       ],
-      "name": "GALATI Giuseppe"
+      "name": "GALATI Giuseppe",
+      "other_names": [
+        {
+          "name": "Giuseppe Galati",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Giuseppe Galati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Giuseppe Galati",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-07-18",
