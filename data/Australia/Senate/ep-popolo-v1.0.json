@@ -38209,42 +38209,4457 @@
   "areas": [
     {
       "id": "area/act",
+      "identifiers": [
+        {
+          "identifier": "2354197",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/0vh3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS01",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2177478",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "12542929t",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "261909586",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "4310638-9",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "1001989",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q3258",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "ACT",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Австралийская столичная территория",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Territoire de la capitale australienne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Australiese Hoofstadgebied",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Australisc Hēafodburg Landscipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "مقاطعة العاصمة الأسترالية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Avstraliya Paytaxt Ərazisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Аўстралійская сталічная тэрыторыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Австралийска столична територия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Tiriad Kêrbenn Aostralia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Teritorija australijskog glavnog grada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Territori de la Capital Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Teritorium hlavního města Austrálie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Tiriogaeth Prifddinas Awstralia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Επικράτεια Αυστραλιανής Πρωτεύουσας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Aŭstralia Ĉefurba Teritorio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Territorio de la Capital Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Austraalia pealinna ala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Australiako Hiriburuaren Lurraldea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "قلمرو پایتختی استرالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian pääkaupunkiterritorio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Críoch Phríomhchathair na hAstráile",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Territorio da Capital Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Thalloo Preeu-valjagh ny h-Austrail",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "טריטוריית הבירה האוסטרלית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "ऑस्ट्रेलियाई राजधानी क्षेत्र",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Teritorij australskog glavnog grada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ausztráliai fővárosi terület",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ավստրալիական մայրաքաղաքային տարածք",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Wilayah Ibu Kota Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Höfuðborgarsvæði Ástralíu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Territorio della Capitale Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア首都特別地域",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ფედერალური ტერიტორია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 수도 준주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Territorium Capitale Australianum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Australeschen Haaptstadterritoire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Tæritöio da-a Capitâ Australiæn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Australijos sostinės teritorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Austrālijas galvaspilsētas teritorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Австралиска престолнинска територија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Австралийн Нийслэлийн Нутаг Дэвсгэр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "ऑस्ट्रेलियन कॅपिटल टेरिटोरी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Wilayah Ibu Negara Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Territòri de la capitala australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Ostrielyan Kapitel Teritrii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australijskie Terytorium Stołeczne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Território da Capital Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Território da Capital Australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Territori da la chapitala australiana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Teritorija glavnog grada Australije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Teritórium austrálskeho hlavného mesta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Аустралијска престоничка територија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆத்திரேலியத் தலைநகர ஆட்புலம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ออสเตรเลียนแคพิทอลเทร์ริทอรี",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Avustralya Başkent Bölgesi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Австралійська столична територія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Lãnh thổ Thủ đô Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Teritoryo nga Kapital han Australya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亞首都特區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "澳洲首都地區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਆਸਟਰੇਲੀਆਈ ਰਾਜਧਾਨੀ ਰਾਜਖੇਤਰ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Àu-thai-li-â Sú-tû Liâng-thi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آسٹریلوی دارالحکومت علاقہ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Siú-to͘ Te̍k-pia̍t-khu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Аўстралійская сталічная тэрыторыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Australysk Haadstedsk Territoarium",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Ó̤-ciŭ Siū-dŭ Dĕk-kṳ̆",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "अस्ट्रेलियन राजधानी क्षेत्र",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "ناوچەی پایتەختی ئوسترالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Australian Capital Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Teritori Tupe Faavae a Ausetalia",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nsw",
+      "identifiers": [
+        {
+          "identifier": "2316593",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "Regional/Oceania/Australia/New_South_Wales/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "/m/05fly",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS02",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2155400",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "11937155q",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "138140762",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "4042010-3",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "Q3224",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "NSW",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Новый Южный Уэльс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouvelle-Galles du Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ace",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Nieu-Suid-Wallis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Nīwe Sūþwealas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "نيوساوث ويلز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Yeni Cənubi Uels",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Штат Новы Паўднёвы Уэльс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Нови Южен Уелс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নিউ সাউথ ওয়েল্স",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Sukembre Nevez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Novi Južni Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nova Gal·les del Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nový Jižní Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cv",
+          "name": "Çĕнĕ Кăнтăр Уэльс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "De Cymru Newydd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "diq",
+          "name": "Gallera Verociya Newi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νέα Νότια Ουαλία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Novsudkimrio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nueva Gales del Sur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Uus-Lõuna-Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Hegoaldeko Gales Berria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "نیو ساوت ولز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Uusi Etelä-Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Nova Gales do Sur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Bretyn Yiass Noa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ניו סאות' ויילס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "न्यू साउथ वेल्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Novi Južni Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Új-Dél-Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նոր Հարավային Ուելս",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Nýja Suður-Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nuovo Galles del Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ニューサウスウェールズ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jv",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ახალი სამხრეთი უელსი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "뉴사우스웨일스 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Nova Cambria Australis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Neuvo Galles do Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Naujasis Pietų Velsas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Jaundienvidvelsa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Нов Јужен Велс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Шинэ Өмнөд Вэльс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "न्यू साउथ वेल्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nieuw-Zuid-Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Nòva Galas del Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Ног Хуссар Уэльс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Nyuu Sauth Wiels",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nowa Południowa Walia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "نیو ساؤتہ ویلز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nova Gales do Sul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Nova Gales do Sul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Nova Valisa dal Sid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Noul Wales de Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sah",
+          "name": "Саҥа Соҕуруу Уэльс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "New Sooth Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Novi Južni Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nový Južný Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Novi Južni Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Нови Јужни Велс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நியூ சவுத் வேல்ஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "รัฐนิวเซาท์เวลส์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Bagong Timog Gales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Yeni Güney Galler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Новий Південний Уельс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Novo Gales del Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "新南威爾士州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "新南威爾士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ന്യൂ സൗത്ത് വെയ്ൽസ്",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Valesa Atsimo Vaovao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਨਿਊ ਸਾਊਥ ਵੇਲਜ਼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "نيو ساوث ويلز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Sîn Nàm Vî-ngì-sṳ̂-chû",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "نیو ساؤتھ ویلز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "新南威爾斯州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Sin Lâm Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Uellsi i Ri Jugor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lzh",
+          "name": "新南威爾斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Новы Паўднёвы Ўэйлз",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Tamurt n Yigaliyen n Wenẓul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Nij-Súd-Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Sĭng Nàng Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "न्यू साउथ वेल्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "新南威尔斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "نیو ساوت وێلز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "State of New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "New South Wales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Niu Saute Uelese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Yangi janubiy uels",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "New South Wales",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nt",
+      "identifiers": [
+        {
+          "identifier": "2316594",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "Regional/Oceania/Australia/Northern_Territory/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "/m/05ff6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS03",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2064513",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "123307653",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "153552537",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "4042588-5",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "7001829",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q3235",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "NT",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Северная территория",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Territoire du Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Noordelike Gebied",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Norþerne Landscipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "إقليم شمالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Şimal ərazisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Паўночная тэрыторыя, Аўстралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Северна територия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Tiriad an Hanternoz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Sjeverna teritorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Territori del Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Severní teritorium",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Tiriogaeth y Gogledd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Βόρεια Επικράτεια",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Norda Teritorio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Territorio del Norte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Põhjaterritoorium",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Iparraldeko Lurraldea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "قلمرو شمالی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Pohjoisterritorio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Críoch an Tuaiscirt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Roinn-a-Tuath",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Territorio do Norte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Thalloo yn Twoaie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "הטריטוריה הצפונית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "नॉर्थर्न टेरिटरी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Sjeverni teritorij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Északi terület",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Հյուսիսային տարածք",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Wilayah Utara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Norður-svæðið",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Territorio del Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ノーザンテリトリー",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ჩრდილოეთი ტერიტორია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "노던 준주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Territorium Septentrionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Nërdlechen Territoire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Tæritöio do Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Šiaurinė Teritorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Ziemeļu teritorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Северна Територија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Хойд Нутаг Дэвсгэр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "नॉर्दर्न टेरिटोरी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Wilayah Utara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Noordelijk Territorium",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nordterritoriet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Territòri del Nòrd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Цæгат территори",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Northan Teritrii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Terytorium Północne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "اتلا تھاں",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Território do Norte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Território do Norte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Territori dal Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Teritoriul de Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sah",
+          "name": "Аустралия хотугу территорията",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Northren Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Sjeverna teritorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Severné teritórium",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Северна територија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "வட ஆட்புலம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นอร์เทิร์นเทร์ริทอรี",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Hilagang Teritoryo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Kuzey Toprakları",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Північна територія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Lãnh thổ Bắc Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Amihanan nga Teritoryo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北領地",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "北領地",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nordterritoriet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਉੱਤਰੀ ਰਾਜਖੇਤਰ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "شمالی علاقہ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Pak Léng-tó͘",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Паўночная тэрыторыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Noardlik Territoarium",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Báe̤k Liāng-tū",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "北领地",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "خاکەکانی باکووری ئوسترالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Northern Territory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Teritori i Matu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "မြောက်ဩစတြေးလျပြည်နယ်",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Nordelik Territorium",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/queensland",
+      "identifiers": [
+        {
+          "identifier": "2316595",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "Regional/Oceania/Australia/Queensland/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "/m/0g39h",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS04",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2152274",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "12101327q",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "137190084",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "4103475-2",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "Q36074",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Queensland",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Квинсленд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ace",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Cwēneland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "كوينزلاند",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Kvinslend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Штат Квінслэнд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Куинсланд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "diq",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κουΐνσλαντ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Kvinslando",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کوئینزلند",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "קווינסלנד",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "क्वीन्सलैण्ड",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Քվինսլենդ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クイーンズランド州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jv",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კუინზლენდი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "퀸즐랜드 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Terra Reginae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Kvinslandas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Kvīnslenda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Квинсленд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Квийнслэнд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "क्वीन्सलंड",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Квинсленд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Kwiinsland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "کوینزلینڈ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sah",
+          "name": "Квинсленд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Квинсленд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "குயின்ஸ்லாந்து",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "รัฐควีนส์แลนด์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Квінсленд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "昆士蘭州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "昆士蘭",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਕਵੀਨਜ਼ਲੈਂਡ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Khûn-sṳ-làn-chû",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "کوئنزلینڈ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Кўінзлэнд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Queenslân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "क्विन्सल्याण्ड",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "昆士兰州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "کوینزلەند",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "State of Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Kuiniselani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "ကွင်းစလန်ပြည်နယ်",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಕ್ವೀನ್ಸ್‌ಲ್ಯಾಂಡ್‌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "昆士兰州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Квинсленд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "昆士蘭州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "ક્વીન્સલેન્ડ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gag",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zea",
+          "name": "Queensland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ug",
+          "name": "كۋېنسلاند",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/sa",
+      "identifiers": [
+        {
+          "identifier": "2316596",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "Regional/Oceania/Australia/South_Australia/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "/m/06mtq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS05",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2061327",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "147693495",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "14244-X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "Q35715",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "SA",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Южная Австралия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Australie-Méridionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Suid-Australië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Sūþaustralia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "جنوب أستراليا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Cənubi Avstraliya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Штат Паўднёвая Аўстралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Южна Австралия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Aostralia ar Su",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Južna Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Austràlia Meridional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Jižní Austrálie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "De Awstralia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "diq",
+          "name": "Awıstralya Veroci",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νότια Αυστραλία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Suda Aŭstralio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Australia Meridional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Lõuna-Austraalia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Hegoaldeko Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استرالیای جنوبی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Etelä-Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Deisceart na hAstráile",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Astràilia-a-Deas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Australia Meridional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Yn Austrail Yiass",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אוסטרליה הדרומית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "दक्षिण ऑस्ट्रेलिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Južna Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dél-Ausztrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Հարավային Ավստրալիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Australia Selatan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Suður-Ástralía",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Australia Meridionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "南オーストラリア州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "სამხრეთი ავსტრალია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "사우스오스트레일리아 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Australia Australis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Südaustralien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Australia do Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Pietų Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Dienvidaustrālija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Јужна Австралија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Өмнөд Австрали",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "साउथ ऑस्ट्रेलिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Australia Selatan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zuid-Australië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sør-Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Austràlia Meridionala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Хуссар Австрали",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Mauling Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Sowth Ostrielya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australia Południowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ساؤتھ آسٹریلیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Austrália Meridional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Austrália Meridional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Australia Meridiunala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Australia de Sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Sooth Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Južna Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Južná Austrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Južna Avstralija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Јужна Аустралија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Australia Kusini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "தெற்கு ஆஸ்திரேலியா",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "รัฐเซาท์ออสเตรเลีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Timog Australya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Güney Avustralya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Південна Австралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Nam Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "南澳大利亚州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "南澳洲",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sør-Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਸਾਊਥ ਆਸਟਰੇਲੀਆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Koonfur Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "جنوبی آسٹریلیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "南澳州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Lâm Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Australina Jugore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Паўднёвая Аўстралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Súd-Austraalje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Nàng Ó̤-ciŭ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "दक्षिण अस्ट्रेलिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "南澳大利亚州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "ئوسترالیای باشوور",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "State of South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Ausetalia i Saute",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "တောင်ဩစ‌တြေးလီးယားပြည်နယ်",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "南澳大利亚州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yi",
+          "name": "דרום אויסטראליע",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kw",
+          "name": "Soth Ostrali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Zuud-Australië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "South Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "南澳大利亞州",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tasmania",
+      "identifiers": [
+        {
+          "identifier": "2369652",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "Regional/Oceania/Australia/Tasmania/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "/m/07cfx",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS06",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2147291",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "119482872",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "123100758",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "4059099-9",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "7001992",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q34366",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tasmania",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Тасмания",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tasmanien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tasmanie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Tasmanië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "تسمانيا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Tasmaniya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Тасманія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Тасмания",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "তাসমানিয়া",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Tasmanija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Tasmània",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Tasmánie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tasmanien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Tasmanien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "diq",
+          "name": "Tazmaniya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τασμανία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Tasmanio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tasmaania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تاسمانی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "An Tasmáin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Yn Tasmaan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "טסמניה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "टासमानिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Tasmanija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Թասմանիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Tasmanía",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "タスマニア州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ტასმანია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "태즈메이니아 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Tasmanien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Tasmanija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Tasmanija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Тасманија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Тасмани",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "टास्मानिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tasmanië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Тасмани",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Tasmainya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "تسمانیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tasmânia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Tasmânia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sah",
+          "name": "Тасмания",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Tasmanie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Tasmanija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Tasmánia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Tasmanija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Тасманија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "Tasmanien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tasmanien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "தாசுமேனியா",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "รัฐแทสเมเนีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Tasmanya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Тасманія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "塔斯馬尼亞州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "塔斯曼尼亞省",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ടാസ്മേനിയ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਤਸਮਾਨੀਆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Tasmaniya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "تسمانیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "塔斯曼尼亞州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Тасманія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Tasmanya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Tasmaanje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ट्याज्मानिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "塔斯马尼亚",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "تاسمانیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "State of Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Tasmaniya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Tasmaanien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "szl",
+          "name": "Tasmańijo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bo",
+          "name": "ཐ་སི་མ་ནི་ཡཱ།",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "stato Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "တက်စ‌မေးနီးယားကျွန်း",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Тасмания",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಟ್ಯಾಸ್ಮೆನಿಯಾ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Tasmania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "塔斯马尼亚州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "or",
+          "name": "ଟାସମାନିଆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Tasmanie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yi",
+          "name": "טאסמאניע",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mrj",
+          "name": "Тасмани",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Тасмания",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Тасман аралы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Tasmanië",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/victoria",
+      "identifiers": [
+        {
+          "identifier": "2316741",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "Regional/Oceania/Australia/Victoria/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "/m/0chgr2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS07",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2145234",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "12034058b",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "316750596",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "4063452-8",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "Q36687",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Victoria",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Виктория",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "ولاية فيكتوريا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Viktoriya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Штат Вікторыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Виктория",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "diq",
+          "name": "Viktoriya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Βικτώρια",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Viktorio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ویکتوریا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Victoria, yn Austrail",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ויקטוריה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "विक्टोरिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Վիկտորիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ビクトリア州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jv",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ვიქტორია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "빅토리아 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Vitöia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Viktorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Viktorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Викторија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Викториа",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "व्हिक्टोरिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Delstaten Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Victòria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Виктори",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Wiktoreya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wiktoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "وکٹوریہ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vitória",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sah",
+          "name": "Виктория, Аустралия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Viktória",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Viktorija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Викторија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "விக்டோரியா",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "รัฐวิกตอเรีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Вікторія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "維多利亞州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "維多利亞州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਵਿਕਟੋਰੀਆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Vì-tô-li-â-chû",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "وکٹوریہ (آسٹریلیا)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "維多利亞州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Вікторыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "भिक्टोरिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "维克多利亚州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "ڤیکتۆریا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "State of Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Victoria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "ဝိတိုရိယ ပြည်နယ်",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "విక్టోరియా",
+          "note": "multilingual"
+        },
+        {
+          "lang": "xmf",
+          "name": "ვიქტორიაშ შტატი",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wa",
+      "identifiers": [
+        {
+          "identifier": "2316598",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "Regional/Oceania/Australia/Western_Australia/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "/m/0847q",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AS08",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "2058645",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "154702212",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "4079207-9",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "Q3206",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "WA",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Западная Австралия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Australie-Occidentale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Wes-Australië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Westerne Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "أستراليا الغربية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Qərbi Avstraliya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Штат Заходняя Аўстралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Западна Австралия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Zapadna Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Austràlia Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Západní Austrálie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gorllewin Awstralia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "diq",
+          "name": "Awıstralya Rocawani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δυτική Αυστραλία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Okcidenta Aŭstralio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Australia Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Lääne-Austraalia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Mendebaldeko Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استرالیای غربی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Länsi-Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Iarthar na hAstráile",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Astràilia-an-Iar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Australia Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gv",
+          "name": "Yn Austrail Heear",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אוסטרליה המערבית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "पश्चिमी ऑस्ट्रेलिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Zapadna Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nyugat-Ausztrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Արևմտյան Ավստրալիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Australia Barat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Vestur-Ástralía",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Australia Occidentale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "西オーストラリア州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "დასავლეთი ავსტრალია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "웨스턴오스트레일리아 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Australia Occidentalis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Westaustralien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Australia Oçidentâ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Vakarų Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Rietumaustrālija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Западна Австралија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Баруун Австрали",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "वेस्टर्न ऑस्ट्रेलिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Australia Barat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "West-Australië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vest-Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Austràlia Occidentala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Ныгуылæн Австрали",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "West Ostrielya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australia Zachodnia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "لیندا آسٹریلیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Austrália Ocidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Austrália Ocidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Australia Occidentala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Australia de Vest",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Wastren Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Zapadna Australija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Západná Austrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Zahodna Avstralija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Западна Аустралија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Australia ya Magharibi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "மேற்கு ஆஸ்திரேலியா",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "รัฐเวสเทิร์นออสเตรเลีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Kanlurang Australya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Batı Avustralya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Західна Австралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Tây Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西澳大利亚州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "西澳洲",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vest-Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਪੱਛਮੀ ਆਸਟਰੇਲੀਆ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Galbeed Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "ويسترن اوستراليا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "مغربی آسٹریلیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Se Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Заходняя Аўстралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "West-Austraalje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Să̤ Ó̤-ciŭ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "पश्चिमी अस्ट्रेलिया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "西澳大利亚州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "ئوسترالیای ڕۆژاوا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "State of Western Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Ausetalia i Sisifo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "အနောက်ဩစတြေးလျပြည်နယ်",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Wes-Australië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "西澳大利亞州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పశ్చిమ ఆస్ట్రేలియా",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
