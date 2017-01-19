@@ -26,6 +26,16 @@
       }
     },
     {
+      "file": "archive/official-images-ceased.csv",
+      "source": "http://www.govt.lc/house-of-assembly",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-images-ceased.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
