@@ -81,6 +81,11 @@
         "incoming_field": "uuid",
         "existing_field": "uuid"
       }
+    },
+    {
+      "file": "archive/official-ceased.csv",
+      "source": "http://www.dz-rs.si/",
+      "type": "membership"
     }
   ]
 }
