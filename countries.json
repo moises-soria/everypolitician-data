@@ -850,11 +850,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Azerbaijan/National_Assembly/sources",
         "popolo": "data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8df58afa2dbddfc88b267a7ff8c0f2824b900c61/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/adc0b83cbe6dd0fe169a487485901831ba7ba86b/data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Azerbaijan/National_Assembly/names.csv",
-        "lastmod": "1483679903",
+        "lastmod": "1484844102",
         "person_count": 152,
-        "sha": "8df58afa2dbddfc88b267a7ff8c0f2824b900c61",
+        "sha": "adc0b83cbe6dd0fe169a487485901831ba7ba86b",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -862,7 +862,7 @@
             "start_date": "2015-12-01",
             "slug": "5",
             "csv": "data/Azerbaijan/National_Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/66c83d8193b26742460558ef0e2fd71e296edb0d/data/Azerbaijan/National_Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/adc0b83cbe6dd0fe169a487485901831ba7ba86b/data/Azerbaijan/National_Assembly/term-5.csv"
           },
           {
             "end_date": "2015",
@@ -871,10 +871,10 @@
             "start_date": "2010",
             "slug": "4",
             "csv": "data/Azerbaijan/National_Assembly/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/66c83d8193b26742460558ef0e2fd71e296edb0d/data/Azerbaijan/National_Assembly/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/adc0b83cbe6dd0fe169a487485901831ba7ba86b/data/Azerbaijan/National_Assembly/term-4.csv"
           }
         ],
-        "statement_count": 5475,
+        "statement_count": 5482,
         "type": "unicameral legislature"
       }
     ]
