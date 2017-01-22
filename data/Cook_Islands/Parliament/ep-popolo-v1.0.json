@@ -4,283 +4,232 @@
   ],
   "persons": [
     {
-      "birth_date": "1951-05-09",
-      "death_date": "2012-08-15",
+      "family_name": "Brown",
       "gender": "male",
-      "given_name": "Albert",
-      "id": "66a1e202-ce02-4e9f-b712-1cb28418f0f7",
+      "given_name": "Mark",
+      "id": "0b08be51-b92b-4f82-bbd9-4d4ae4d30b94",
       "identifiers": [
         {
-          "identifier": "Q2831468",
+          "identifier": "Q6766871",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q2831468",
+          "identifier": "Q6766871",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Albert_(Peto)_Nicholas"
+          "url": "https://en.wikipedia.org/wiki/Mark_Brown_(Cook_Islands)"
+        }
+      ],
+      "name": "Mark Brown",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mark Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mark Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mark Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Марк Браун",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1961-12-05",
+      "gender": "male",
+      "id": "1237e70d-b750-4c03-964e-2919ddcd8514",
+      "identifiers": [
+        {
+          "identifier": "Q3391036",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391036",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terepai_Maoate_Jnr"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Albert_Peto_Nicholas"
+          "url": "https://fr.wikipedia.org/wiki/Terepai_(Junior)_Maoate"
         },
         {
           "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Albert_Nicholas"
+          "url": "https://gl.wikipedia.org/wiki/Terepai_Maoate_(fillo)"
         }
       ],
-      "name": "Albert (Peto) Nicholas",
+      "name": "Terepai Maoate Jnr",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Terepai Maoate Jnr",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
-          "name": "Albert (Peto) Nicholas",
+          "name": "Terepai Maoate Jnr",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Albert Peto Nicholas",
+          "name": "Terepai (Junior) Maoate",
           "note": "multilingual"
         },
         {
           "lang": "gl",
-          "name": "Albert Nicholas",
+          "name": "Terepai Maoate",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Albert",
+          "name": "Terepai Maoate Jnr",
           "note": "multilingual"
         }
       ]
     },
     {
-      "gender": "male",
-      "id": "6647e778-ebf0-4a40-8d0b-c21ef99e52ce",
-      "identifiers": [
-        {
-          "identifier": "albert_taaviri_kaitara_nicholas",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Albert Taaviri Kaitara Nicholas"
-    },
-    {
-      "birth_date": "1960-08-25",
-      "gender": "male",
-      "id": "f101fd6f-a65e-4d7c-9bc7-84733d3c8920",
-      "identifiers": [
-        {
-          "identifier": "Q3391394",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3391394",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Apii_Piho"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Tereapii_Piho"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Tereapii_Piho"
-        }
-      ],
-      "name": "Apii Piho",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Apii Piho",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Apii Piho",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tereapii Piho",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Tereapii Piho",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Apii Piho",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "阿皮伊·皮奧",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1959-12-02",
-      "gender": "male",
-      "id": "7f2f77b4-3aa0-491e-92a6-4e749fcd1101",
-      "identifiers": [
-        {
-          "identifier": "Q4812881",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4812881",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Atatoa_Herman"
-        }
-      ],
-      "name": "Atatoa Herman",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Atatoa Herman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Atatoa Herman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Atatoa Herman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Atatoa Herman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Atatoa Herman",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1952-02-26",
+      "birth_date": "1944-08-13",
       "gender": "female",
-      "id": "85c0143d-a28b-4d13-8fc0-b4e4ed20d414",
+      "id": "12d87f4e-760c-45ae-a72f-ec387fd1c381",
       "identifiers": [
         {
-          "identifier": "Q2362855",
+          "identifier": "Q3339268",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q2362855",
+          "identifier": "Q3339268",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Cassey_Eggelton"
+          "url": "https://en.wikipedia.org/wiki/Ngamau_Munokoa"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Cassey_Tereapii_Eggelton"
+          "url": "https://fr.wikipedia.org/wiki/Ngamau_Mere_Munokoa"
         },
         {
           "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Cassey_Eggelton"
+          "url": "https://gl.wikipedia.org/wiki/Ngamau_Munokoa"
         }
       ],
-      "name": "Cassey Eggelton",
+      "name": "Ngamau Munokoa",
       "other_names": [
         {
           "lang": "de",
-          "name": "Cassey Eggelton",
+          "name": "Ngamau Munokoa",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Cassey Eggelton",
+          "name": "Ngamau Munokoa",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Cassey Tereapii Eggelton",
+          "name": "Ngamau Mere Munokoa",
           "note": "multilingual"
         },
         {
           "lang": "gl",
-          "name": "Cassey Eggelton",
+          "name": "Ngamau Munokoa",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Cassey Eggelton",
+          "name": "Ngamau Munokoa",
           "note": "multilingual"
         }
       ]
     },
     {
+      "birth_date": "1949-09-08",
+      "death_date": "2012-04-13",
       "gender": "male",
-      "given_name": "George",
-      "id": "44cacb00-6ba7-4977-8604-140dc9386a6a",
+      "given_name": "Robert",
+      "id": "13620f66-7f7f-4eee-b1d6-c2deafe1a232",
       "identifiers": [
         {
-          "identifier": "Q5536264",
+          "identifier": "Q3324531",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q5536264",
+          "identifier": "/m/09rt9f9",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3324531",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/George_Angene"
+          "url": "https://en.wikipedia.org/wiki/Robert_Wigmore"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Robert_George_Wigmore"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Robert_Wigmore"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Robert_Wigmore"
         }
       ],
-      "name": "George Angene",
+      "name": "Robert Wigmore",
       "other_names": [
         {
           "lang": "de",
-          "name": "George Angene",
+          "name": "Robert Wigmore",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "George Angene",
+          "name": "Robert Wigmore",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "George Angene",
+          "name": "Robert George Wigmore",
           "note": "multilingual"
         },
         {
-          "lang": "it",
-          "name": "George Angene",
+          "lang": "gl",
+          "name": "Robert Wigmore",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "George Angene",
+          "name": "Robert Wigmore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Robert Wigmore",
           "note": "multilingual"
         }
       ]
@@ -450,14 +399,383 @@
     },
     {
       "gender": "male",
-      "id": "e4cecaf4-2435-47dd-b586-86d00a707125",
+      "id": "29caf39a-f9bf-464b-8155-3b557bbc6497",
       "identifiers": [
         {
-          "identifier": "james_beer",
+          "identifier": "Q7811397",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7811397",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Toanui_Isamaela"
+        }
+      ],
+      "name": "Toanui Isamaela",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Toanui Isamaela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Toanui Isamaela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Toanui Isamaela",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1951-05-21",
+      "gender": "male",
+      "given_name": "Nandi",
+      "id": "2f72b03e-28e0-4bef-8341-351436628e60",
+      "identifiers": [
+        {
+          "identifier": "Q3335628",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3335628",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nandi_Glassie"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nandi_Glassie"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Nandi_Glassie"
+        }
+      ],
+      "name": "Nandi Glassie",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1954-11-15",
+      "gender": "male",
+      "id": "31e3de08-57a2-4198-b971-6a1bf9271313",
+      "identifiers": [
+        {
+          "identifier": "Q3388338",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3388338",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Piho_Rua"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Piho_Rua"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Piho_Rua"
+        }
+      ],
+      "name": "Piho Rua",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1950-12-10",
+      "gender": "male",
+      "id": "3eea340f-e412-479d-a271-bdd9adf6e882",
+      "identifiers": [
+        {
+          "identifier": "Q3391992",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391992",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vai_Peua"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tamaiti_Vai_Peua"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Vai_Peua"
+        }
+      ],
+      "name": "Vai Peua",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tamaiti Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "440abfc8-699f-4da4-b438-d21fba223358",
+      "identifiers": [
+        {
+          "identifier": "selina_napa",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "James Beer"
+      "name": "Selina Napa"
+    },
+    {
+      "gender": "male",
+      "given_name": "George",
+      "id": "44cacb00-6ba7-4977-8604-140dc9386a6a",
+      "identifiers": [
+        {
+          "identifier": "Q5536264",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5536264",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Angene"
+        }
+      ],
+      "name": "George Angene",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Angene",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1958-03-21",
+      "gender": "male",
+      "id": "469ec8ce-e91a-4521-ad78-e2132b1b48b4",
+      "identifiers": [
+        {
+          "identifier": "Q3391007",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391007",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wilkie_Rasmussen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Wilkie_Rasmussen"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Wilkie_Rasmussen"
+        }
+      ],
+      "name": "Wilkie Rasmussen",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1950-11-13",
+      "gender": "male",
+      "given_name": "John",
+      "id": "4871ca79-b172-404f-83d2-1de2b47dc161",
+      "identifiers": [
+        {
+          "identifier": "Q3182561",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3182561",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Tangi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/John_Tangi"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/John_Tangi"
+        }
+      ],
+      "name": "John Tangi",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Tangi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-07-09",
@@ -663,339 +981,38 @@
       ]
     },
     {
-      "gender": "male",
-      "given_name": "John",
-      "id": "c522a9a8-37fb-45d4-8c0c-c137975d0ba9",
+      "gender": "female",
+      "given_name": "Rose",
+      "id": "49f12138-60dc-4f12-9ad5-8ffa918148ed",
       "identifiers": [
         {
-          "identifier": "Q6238703",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6238703",
+          "identifier": "Q24852044",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/John_Henry_(Cook_Islands_politician)"
+          "url": "https://en.wikipedia.org/wiki/Rose_Toki-Brown"
         }
       ],
-      "name": "John Henry",
+      "name": "Rose Toki-Brown",
       "other_names": [
         {
-          "lang": "de",
-          "name": "John Henry",
-          "note": "multilingual"
-        },
-        {
           "lang": "en",
-          "name": "John Henry",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "John Henry",
+          "name": "Rose Toki-Brown",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "John Henry",
+          "name": "Rose Toki-Brown",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1950-11-13",
-      "gender": "male",
-      "given_name": "John",
-      "id": "4871ca79-b172-404f-83d2-1de2b47dc161",
-      "identifiers": [
-        {
-          "identifier": "Q3182561",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3182561",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/John_Tangi"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/John_Tangi"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/John_Tangi"
-        }
-      ],
-      "name": "John Tangi",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "John Tangi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "John Tangi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "John Tangi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "John Tangi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "John Tangi",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "8473de5e-468a-4b41-bf6b-bbbc7fe1e456",
-      "identifiers": [
-        {
-          "identifier": "kareroa_wesley",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Kareroa Wesley"
-    },
-    {
-      "birth_date": "1950-10-30",
-      "death_date": "2015-02-13",
-      "gender": "male",
-      "id": "e72ffd64-ea18-486f-9489-73271d73a3cb",
-      "identifiers": [
-        {
-          "identifier": "Q3195600",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3195600",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Kete_Ioane"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Kete_Ioane"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Kete_Ioane"
-        }
-      ],
-      "name": "Kete Ioane",
-      "other_names": [
-        {
-          "lang": "cy",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Kete Ioane",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "ab30f3fb-8a6c-43a2-951d-ece79457ffa5",
-      "identifiers": [
-        {
-          "identifier": "keu_mataroa",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Keu Mataroa"
-    },
-    {
-      "gender": "male",
-      "id": "8ce97539-1008-4ba1-98fa-aeba3b8cf279",
-      "identifiers": [
-        {
-          "identifier": "Q6415093",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6415093",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Kiriau_Turepu"
-        }
-      ],
-      "name": "Kiriau Turepu",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Kiriau Turepu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Kiriau Turepu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Kiriau Turepu",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1939-04-28",
-      "gender": "male",
-      "id": "ed54f0a2-feb7-4a49-914f-07ffc65e0134",
-      "identifiers": [
-        {
-          "identifier": "Q3287254",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3287254",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mapu_Taia"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Mapu_Taia"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Mapu_Taia"
-        }
-      ],
-      "name": "Mapu Taia",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Mapu Taia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mapu Taia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mapu Taia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Mapu Taia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Mapu Taia",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "family_name": "Brown",
-      "gender": "male",
-      "given_name": "Mark",
-      "id": "0b08be51-b92b-4f82-bbd9-4d4ae4d30b94",
-      "identifiers": [
-        {
-          "identifier": "Q6766871",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6766871",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mark_Brown_(Cook_Islands)"
-        }
-      ],
-      "name": "Mark Brown",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Mark Brown",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mark Brown",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Mark Brown",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Марк Браун",
-          "note": "multilingual"
-        }
-      ]
+      "id": "4a9dcd4c-4e01-444a-be2b-4828a04fbc52",
+      "name": "Tai Ravarua"
     },
     {
       "birth_date": "1954-01-16",
@@ -1084,695 +1101,6 @@
       ]
     },
     {
-      "birth_date": "1961-06-20",
-      "gender": "male",
-      "given_name": "Moana",
-      "id": "8ccf56a1-b3d4-4782-bf68-753339caaf48",
-      "identifiers": [
-        {
-          "identifier": "Q6886399",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6886399",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Moana_Ioane"
-        }
-      ],
-      "name": "Moana Ioane",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Moana Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Moana Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Moana Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Moana Ioane",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Moana Ioane",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1951-05-21",
-      "gender": "male",
-      "given_name": "Nandi",
-      "id": "2f72b03e-28e0-4bef-8341-351436628e60",
-      "identifiers": [
-        {
-          "identifier": "Q3335628",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3335628",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Nandi_Glassie"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Nandi_Glassie"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Nandi_Glassie"
-        }
-      ],
-      "name": "Nandi Glassie",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Nandi Glassie",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Nandi Glassie",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Nandi Glassie",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Nandi Glassie",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Nandi Glassie",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1936-04-24",
-      "gender": "female",
-      "id": "be9c7d0c-ffda-4fce-8276-b1e2ddf7d5ba",
-      "identifiers": [
-        {
-          "identifier": "Q3284786",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3284786",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ngai_Tupa"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Mama_Ngai_Tupa"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Ngai_Tupa"
-        }
-      ],
-      "name": "Ngai Tupa",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Ngai Tupa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ngai Tupa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mama Ngai Tupa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Ngai Tupa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ngai Tupa",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1944-08-13",
-      "gender": "female",
-      "id": "12d87f4e-760c-45ae-a72f-ec387fd1c381",
-      "identifiers": [
-        {
-          "identifier": "Q3339268",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3339268",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ngamau_Munokoa"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Ngamau_Mere_Munokoa"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Ngamau_Munokoa"
-        }
-      ],
-      "name": "Ngamau Munokoa",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Ngamau Munokoa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ngamau Munokoa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ngamau Mere Munokoa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Ngamau Munokoa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ngamau Munokoa",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1946-07-02",
-      "gender": "male",
-      "given_name": "Norman",
-      "id": "81c97e86-f40a-4801-bf02-f65dd1425634",
-      "identifiers": [
-        {
-          "identifier": "Q3343780",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3343780",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Norman_George"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Norman_George"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Norman_George"
-        }
-      ],
-      "name": "Norman George",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Norman George",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Norman George",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Norman George",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Norman George",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Norman George",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1954-11-15",
-      "gender": "male",
-      "id": "31e3de08-57a2-4198-b971-6a1bf9271313",
-      "identifiers": [
-        {
-          "identifier": "Q3388338",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3388338",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Piho_Rua"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Piho_Rua"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Piho_Rua"
-        }
-      ],
-      "name": "Piho Rua",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Piho Rua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Piho Rua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Piho Rua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Piho Rua",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "death_date": "2012-10-18",
-      "gender": "male",
-      "id": "6a72d2bc-e26c-434f-9afc-0d28ad8791e0",
-      "identifiers": [
-        {
-          "identifier": "Q7259108",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7259108",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Pukeiti_Pukeiti"
-        }
-      ],
-      "name": "Pukeiti Pukeiti",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Pukeiti Pukeiti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Pukeiti Pukeiti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Pukeiti Pukeiti",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1949-09-08",
-      "death_date": "2012-04-13",
-      "gender": "male",
-      "given_name": "Robert",
-      "id": "13620f66-7f7f-4eee-b1d6-c2deafe1a232",
-      "identifiers": [
-        {
-          "identifier": "Q3324531",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/09rt9f9",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q3324531",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Robert_Wigmore"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Robert_George_Wigmore"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Robert_Wigmore"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Robert_Wigmore"
-        }
-      ],
-      "name": "Robert Wigmore",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Robert Wigmore",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Robert Wigmore",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Robert George Wigmore",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Robert Wigmore",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Robert Wigmore",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Robert Wigmore",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "given_name": "Rose",
-      "id": "49f12138-60dc-4f12-9ad5-8ffa918148ed",
-      "identifiers": [
-        {
-          "identifier": "Q24852044",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Rose_Toki-Brown"
-        }
-      ],
-      "name": "Rose Toki-Brown",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Rose Toki-Brown",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Rose Toki-Brown",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "440abfc8-699f-4da4-b438-d21fba223358",
-      "identifiers": [
-        {
-          "identifier": "selina_napa",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Selina Napa"
-    },
-    {
-      "id": "4a9dcd4c-4e01-444a-be2b-4828a04fbc52",
-      "name": "Tai Ravarua"
-    },
-    {
-      "birth_date": "1949",
-      "gender": "male",
-      "id": "6c8d3c61-259a-4b02-ad46-855d13f14f83",
-      "identifiers": [
-        {
-          "identifier": "Q7675846",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7675846",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tai_Tura"
-        }
-      ],
-      "name": "Tai Tura",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Tai Tura",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Tai Tura",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tai Tura",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Tai Tura",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Tai Tura",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "73e18486-7478-4cb3-a005-4433605ac358",
-      "identifiers": [
-        {
-          "identifier": "tamaiva_tuavera",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Tamaiva Tuavera"
-    },
-    {
-      "birth_date": "1949-09-08",
-      "gender": "male",
-      "id": "879c105b-3461-4cc5-aebb-daa8aaf78c9d",
-      "identifiers": [
-        {
-          "identifier": "Q3391011",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3391011",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tangata_Vavia"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Tangata_Mouauri_Vavia"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Tangata_Vavia"
-        }
-      ],
-      "name": "Tangata Vavia",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Tangata Vavia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Tangata Vavia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tangata Mouauri Vavia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Tangata Vavia",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "b725d6c3-e41c-4177-babd-13abe20a740f",
-      "identifiers": [
-        {
-          "identifier": "Q7688729",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7688729",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Taunga_Toka"
-        }
-      ],
-      "name": "Taunga Toka",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Taunga Toka",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Taunga Toka",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1959-07-30",
-      "gender": "male",
-      "id": "db852fe6-1f60-44e9-8663-4343c538e929",
-      "identifiers": [
-        {
-          "identifier": "Q3391017",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3391017",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Teariki_Heather"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Teariki_William_Heather"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Teariki_Heather"
-        }
-      ],
-      "name": "Teariki Heather",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Teariki Heather",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Teariki Heather",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Teariki William Heather",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Teariki Heather",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Teariki Heather",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1959-04-11",
       "gender": "male",
       "id": "6471d986-ab1a-48ff-9526-9b4536be5bfc",
@@ -1831,36 +1159,186 @@
     },
     {
       "gender": "male",
-      "id": "eb013ebb-2e16-4393-9be8-69b6a2209ae4",
+      "id": "6647e778-ebf0-4a40-8d0b-c21ef99e52ce",
       "identifiers": [
         {
-          "identifier": "Q7695346",
+          "identifier": "albert_taaviri_kaitara_nicholas",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Albert Taaviri Kaitara Nicholas"
+    },
+    {
+      "birth_date": "1951-05-09",
+      "death_date": "2012-08-15",
+      "gender": "male",
+      "given_name": "Albert",
+      "id": "66a1e202-ce02-4e9f-b712-1cb28418f0f7",
+      "identifiers": [
+        {
+          "identifier": "Q2831468",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q7695346",
+          "identifier": "Q2831468",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tekii_Lazaro"
+          "url": "https://en.wikipedia.org/wiki/Albert_(Peto)_Nicholas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Albert_Peto_Nicholas"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Albert_Nicholas"
         }
       ],
-      "name": "Tekii Lazaro",
+      "name": "Albert (Peto) Nicholas",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Albert (Peto) Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Albert Peto Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Albert Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Albert",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "death_date": "2012-10-18",
+      "gender": "male",
+      "id": "6a72d2bc-e26c-434f-9afc-0d28ad8791e0",
+      "identifiers": [
+        {
+          "identifier": "Q7259108",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7259108",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pukeiti_Pukeiti"
+        }
+      ],
+      "name": "Pukeiti Pukeiti",
       "other_names": [
         {
           "lang": "de",
-          "name": "Tekii Lazaro",
+          "name": "Pukeiti Pukeiti",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Tekii Lazaro",
+          "name": "Pukeiti Pukeiti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pukeiti Pukeiti",
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "6c01f67b-df60-4a4f-b5b9-fab87989fb2b",
+      "identifiers": [
+        {
+          "identifier": "willie_john",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Willie John"
+    },
+    {
+      "birth_date": "1949",
+      "gender": "male",
+      "id": "6c8d3c61-259a-4b02-ad46-855d13f14f83",
+      "identifiers": [
+        {
+          "identifier": "Q7675846",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7675846",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tai_Tura"
+        }
+      ],
+      "name": "Tai Tura",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "71512d8a-163d-4e9b-84e4-6a1935784c67",
+      "identifiers": [
+        {
+          "identifier": "toka_hagai",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Toka Hagai"
+    },
+    {
+      "id": "73e18486-7478-4cb3-a005-4433605ac358",
+      "identifiers": [
+        {
+          "identifier": "tamaiva_tuavera",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tamaiva Tuavera"
     },
     {
       "birth_date": "1934-09-01",
@@ -1972,121 +1450,6 @@
       ]
     },
     {
-      "birth_date": "1961-12-05",
-      "gender": "male",
-      "id": "1237e70d-b750-4c03-964e-2919ddcd8514",
-      "identifiers": [
-        {
-          "identifier": "Q3391036",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3391036",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Terepai_Maoate_Jnr"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Terepai_(Junior)_Maoate"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Terepai_Maoate_(fillo)"
-        }
-      ],
-      "name": "Terepai Maoate Jnr",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Terepai Maoate Jnr",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Terepai Maoate Jnr",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Terepai (Junior) Maoate",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Terepai Maoate",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Terepai Maoate Jnr",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "29caf39a-f9bf-464b-8155-3b557bbc6497",
-      "identifiers": [
-        {
-          "identifier": "Q7811397",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7811397",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Toanui_Isamaela"
-        }
-      ],
-      "name": "Toanui Isamaela",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Toanui Isamaela",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Toanui Isamaela",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Toanui Isamaela",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "71512d8a-163d-4e9b-84e4-6a1935784c67",
-      "identifiers": [
-        {
-          "identifier": "toka_hagai",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Toka Hagai"
-    },
-    {
-      "id": "8f07b545-0b6e-4ab6-ae97-3e2b62c644ba",
-      "identifiers": [
-        {
-          "identifier": "tokorua_pareina",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Tokorua Pareina"
-    },
-    {
       "birth_date": "1945-08-04",
       "gender": "male",
       "given_name": "Tom",
@@ -2173,6 +1536,330 @@
       ]
     },
     {
+      "birth_date": "1959-12-02",
+      "gender": "male",
+      "id": "7f2f77b4-3aa0-491e-92a6-4e749fcd1101",
+      "identifiers": [
+        {
+          "identifier": "Q4812881",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4812881",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Atatoa_Herman"
+        }
+      ],
+      "name": "Atatoa Herman",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1946-07-02",
+      "gender": "male",
+      "given_name": "Norman",
+      "id": "81c97e86-f40a-4801-bf02-f65dd1425634",
+      "identifiers": [
+        {
+          "identifier": "Q3343780",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3343780",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Norman_George"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Norman_George"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Norman_George"
+        }
+      ],
+      "name": "Norman George",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Norman George",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "8473de5e-468a-4b41-bf6b-bbbc7fe1e456",
+      "identifiers": [
+        {
+          "identifier": "kareroa_wesley",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kareroa Wesley"
+    },
+    {
+      "birth_date": "1952-02-26",
+      "gender": "female",
+      "id": "85c0143d-a28b-4d13-8fc0-b4e4ed20d414",
+      "identifiers": [
+        {
+          "identifier": "Q2362855",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2362855",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cassey_Eggelton"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cassey_Tereapii_Eggelton"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Cassey_Eggelton"
+        }
+      ],
+      "name": "Cassey Eggelton",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cassey Tereapii Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1949-09-08",
+      "gender": "male",
+      "id": "879c105b-3461-4cc5-aebb-daa8aaf78c9d",
+      "identifiers": [
+        {
+          "identifier": "Q3391011",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391011",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tangata_Vavia"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tangata_Mouauri_Vavia"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tangata_Vavia"
+        }
+      ],
+      "name": "Tangata Vavia",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tangata Vavia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tangata Vavia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tangata Mouauri Vavia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tangata Vavia",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1961-06-20",
+      "gender": "male",
+      "given_name": "Moana",
+      "id": "8ccf56a1-b3d4-4782-bf68-753339caaf48",
+      "identifiers": [
+        {
+          "identifier": "Q6886399",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6886399",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Moana_Ioane"
+        }
+      ],
+      "name": "Moana Ioane",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "8ce97539-1008-4ba1-98fa-aeba3b8cf279",
+      "identifiers": [
+        {
+          "identifier": "Q6415093",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6415093",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kiriau_Turepu"
+        }
+      ],
+      "name": "Kiriau Turepu",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Kiriau Turepu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kiriau Turepu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kiriau Turepu",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "8f07b545-0b6e-4ab6-ae97-3e2b62c644ba",
+      "identifiers": [
+        {
+          "identifier": "tokorua_pareina",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tokorua Pareina"
+    },
+    {
       "id": "90956a68-cca9-4f24-be62-06338765b4c9",
       "identifiers": [
         {
@@ -2183,115 +1870,212 @@
       "name": "Tuakeu Tangatapoto"
     },
     {
-      "birth_date": "1950-12-10",
-      "gender": "male",
-      "id": "3eea340f-e412-479d-a271-bdd9adf6e882",
+      "id": "ab30f3fb-8a6c-43a2-951d-ece79457ffa5",
       "identifiers": [
         {
-          "identifier": "Q3391992",
+          "identifier": "keu_mataroa",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Keu Mataroa"
+    },
+    {
+      "gender": "male",
+      "id": "b725d6c3-e41c-4177-babd-13abe20a740f",
+      "identifiers": [
+        {
+          "identifier": "Q7688729",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q3391992",
+          "identifier": "Q7688729",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Vai_Peua"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Tamaiti_Vai_Peua"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Vai_Peua"
+          "url": "https://en.wikipedia.org/wiki/Taunga_Toka"
         }
       ],
-      "name": "Vai Peua",
+      "name": "Taunga Toka",
       "other_names": [
         {
           "lang": "de",
-          "name": "Vai Peua",
+          "name": "Taunga Toka",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Vai Peua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tamaiti Vai Peua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Vai Peua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Vai Peua",
+          "name": "Taunga Toka",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1958-03-21",
+      "birth_date": "1962-12-08",
       "gender": "male",
-      "id": "469ec8ce-e91a-4521-ad78-e2132b1b48b4",
+      "id": "b96cbc5c-e261-4c18-9340-2dcf9f43c0bc",
       "identifiers": [
         {
-          "identifier": "Q3391007",
+          "identifier": "Q3390985",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q3391007",
+          "identifier": "Q3390985",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Wilkie_Rasmussen"
+          "url": "https://en.wikipedia.org/wiki/Winton_Pickering"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Wilkie_Rasmussen"
+          "url": "https://fr.wikipedia.org/wiki/Winton_Brian_Pickering"
         },
         {
           "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Wilkie_Rasmussen"
+          "url": "https://gl.wikipedia.org/wiki/Winton_Pickering"
         }
       ],
-      "name": "Wilkie Rasmussen",
+      "name": "Winton Pickering",
       "other_names": [
         {
           "lang": "de",
-          "name": "Wilkie Rasmussen",
+          "name": "Winton Pickering",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Wilkie Rasmussen",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Winton Pickering",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Wilkie Rasmussen",
+          "name": "Winton Brian Pickering",
           "note": "multilingual"
         },
         {
           "lang": "gl",
-          "name": "Wilkie Rasmussen",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Winton Pickering",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Wilkie Rasmussen",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1936-04-24",
+      "gender": "female",
+      "id": "be9c7d0c-ffda-4fce-8276-b1e2ddf7d5ba",
+      "identifiers": [
+        {
+          "identifier": "Q3284786",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3284786",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngai_Tupa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mama_Ngai_Tupa"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Ngai_Tupa"
+        }
+      ],
+      "name": "Ngai Tupa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mama Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "given_name": "John",
+      "id": "c522a9a8-37fb-45d4-8c0c-c137975d0ba9",
+      "identifiers": [
+        {
+          "identifier": "Q6238703",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6238703",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Henry_(Cook_Islands_politician)"
+        }
+      ],
+      "name": "John Henry",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "John Henry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Henry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Henry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Henry",
           "note": "multilingual"
         }
       ]
@@ -2379,6 +2163,180 @@
       ]
     },
     {
+      "birth_date": "1959-07-30",
+      "gender": "male",
+      "id": "db852fe6-1f60-44e9-8663-4343c538e929",
+      "identifiers": [
+        {
+          "identifier": "Q3391017",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391017",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Teariki_Heather"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Teariki_William_Heather"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Teariki_Heather"
+        }
+      ],
+      "name": "Teariki Heather",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Teariki William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "e4cecaf4-2435-47dd-b586-86d00a707125",
+      "identifiers": [
+        {
+          "identifier": "james_beer",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "James Beer"
+    },
+    {
+      "birth_date": "1950-10-30",
+      "death_date": "2015-02-13",
+      "gender": "male",
+      "id": "e72ffd64-ea18-486f-9489-73271d73a3cb",
+      "identifiers": [
+        {
+          "identifier": "Q3195600",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3195600",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kete_Ioane"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kete_Ioane"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Kete_Ioane"
+        }
+      ],
+      "name": "Kete Ioane",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "eb013ebb-2e16-4393-9be8-69b6a2209ae4",
+      "identifiers": [
+        {
+          "identifier": "Q7695346",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7695346",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tekii_Lazaro"
+        }
+      ],
+      "name": "Tekii Lazaro",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tekii Lazaro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tekii Lazaro",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "ec3a5431-4b56-4b39-8b78-2a54d35ac169",
       "identifiers": [
@@ -2390,78 +2348,120 @@
       "name": "William William Heather"
     },
     {
-      "id": "6c01f67b-df60-4a4f-b5b9-fab87989fb2b",
-      "identifiers": [
-        {
-          "identifier": "willie_john",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Willie John"
-    },
-    {
-      "birth_date": "1962-12-08",
+      "birth_date": "1939-04-28",
       "gender": "male",
-      "id": "b96cbc5c-e261-4c18-9340-2dcf9f43c0bc",
+      "id": "ed54f0a2-feb7-4a49-914f-07ffc65e0134",
       "identifiers": [
         {
-          "identifier": "Q3390985",
+          "identifier": "Q3287254",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q3390985",
+          "identifier": "Q3287254",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Winton_Pickering"
+          "url": "https://en.wikipedia.org/wiki/Mapu_Taia"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Winton_Brian_Pickering"
+          "url": "https://fr.wikipedia.org/wiki/Mapu_Taia"
         },
         {
           "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Winton_Pickering"
+          "url": "https://gl.wikipedia.org/wiki/Mapu_Taia"
         }
       ],
-      "name": "Winton Pickering",
+      "name": "Mapu Taia",
       "other_names": [
         {
           "lang": "de",
-          "name": "Winton Pickering",
+          "name": "Mapu Taia",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Winton Pickering",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Winton Pickering",
+          "name": "Mapu Taia",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Winton Brian Pickering",
+          "name": "Mapu Taia",
           "note": "multilingual"
         },
         {
           "lang": "gl",
-          "name": "Winton Pickering",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Winton Pickering",
+          "name": "Mapu Taia",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Winton Pickering",
+          "name": "Mapu Taia",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1960-08-25",
+      "gender": "male",
+      "id": "f101fd6f-a65e-4d7c-9bc7-84733d3c8920",
+      "identifiers": [
+        {
+          "identifier": "Q3391394",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391394",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Apii_Piho"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tereapii_Piho"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tereapii_Piho"
+        }
+      ],
+      "name": "Apii Piho",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Apii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Apii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tereapii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tereapii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Apii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿皮伊·皮奧",
           "note": "multilingual"
         }
       ]
