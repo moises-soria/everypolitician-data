@@ -4,88 +4,21 @@
   ],
   "persons": [
     {
-      "gender": "male",
-      "id": "f083d6c9-ac91-4a5e-92ee-03007fb83316",
+      "gender": "female",
+      "id": "0a93b26d-ebc5-44f5-b4fa-935ae209620f",
       "identifiers": [
         {
-          "identifier": "210",
+          "identifier": "127",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/09f/avidzba-f.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/d1a/gamisonia-e.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/09f/avidzba-f.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/d1a/gamisonia-e.jpg"
         }
       ],
-      "name": "Авидзба Фазилбей Лизберович"
-    },
-    {
-      "gender": "male",
-      "id": "9bfa5581-1a45-4e1d-92f2-416073b8903b",
-      "identifiers": [
-        {
-          "identifier": "213",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/684/agrba_s.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/684/agrba_s.jpg"
-        }
-      ],
-      "name": "Агрба Валерий Владимирович"
-    },
-    {
-      "gender": "male",
-      "id": "6dbb9c99-b942-4864-9058-6d272ead480f",
-      "identifiers": [
-        {
-          "identifier": "212",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/f17/agrba_g.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/f17/agrba_g.jpg"
-        }
-      ],
-      "name": "Агрба Георгий Резикович"
-    },
-    {
-      "gender": "male",
-      "id": "cf26fae7-206f-4e1d-94c1-601ffd657e3e",
-      "image": "http://www.parlamentra.org/upload/iblock/0bf/IMG_4528.JPG",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/0bf/IMG_4528.JPG"
-        }
-      ],
-      "name": "Агрба Тенгиз Алмасханович"
-    },
-    {
-      "gender": "male",
-      "id": "bdbf812d-51a4-4005-b1ea-d6e499b00827",
-      "image": "http://www.parlamentra.org/upload/iblock/ce1/IMG_0875.JPG",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/ce1/IMG_0875.JPG"
-        }
-      ],
-      "name": "Ардзинба Тайфун Наимович"
-    },
-    {
-      "gender": "male",
-      "id": "a3cd203c-c624-4764-8299-af7fdc3da091",
-      "image": "http://www.parlamentra.org/upload/iblock/8a1/%D0%90%D1%80%D1%88%D0%B1%D0%B0%20%D0%94.%D0%94.%2010.03.11%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.JPG",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/8a1/%D0%90%D1%80%D1%88%D0%B1%D0%B0%20%D0%94.%D0%94.%2010.03.11%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.JPG"
-        }
-      ],
-      "name": "Аршба Даури Джумкович"
+      "name": "Гамисония Эмма Алексеевна"
     },
     {
       "gender": "male",
@@ -105,209 +38,55 @@
       "name": "Барганджия Гурам Юрьевич"
     },
     {
-      "birth_date": "1953-08-26",
       "gender": "male",
-      "given_name": "Valeri",
-      "id": "da988bab-32d4-46c0-bb7b-5c6a6eb129e7",
+      "id": "0b515281-445d-49dd-9044-d886d85f0970",
       "identifiers": [
         {
-          "identifier": "46",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4080376",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/b85/%D1%80%D0%B0%D0%BC.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/b85/%D1%80%D0%B0%D0%BC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Бганба_Валерий_Рамшухович.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (cs)",
-          "url": "https://cs.wikipedia.org/wiki/Valerij_Bganba"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Valeri_Bganba"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Valeri_Bganba"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Valeri_Bganba"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Walerij_Bganba"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Бганба,_Валерий_Рамшухович"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Valeri_Bganba"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/瓦列里·拉姆舒霍维奇·布甘巴"
-        }
-      ],
-      "name": "Бганба Валерий Рамшухович",
-      "other_names": [
-        {
-          "name": "Valeri Bganba",
-          "note": "alternate"
-        },
-        {
-          "lang": "cs",
-          "name": "Valerij Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Valeri Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Valeri Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Valeri Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Valeri Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Valeri Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "バレリ・ブガンバ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Valeri Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Walerij Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Бганба, Валерий Рамшухович",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Valeri Bganba",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "瓦列里·拉姆舒霍维奇·布甘巴",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "dfd04751-2201-401b-8bfa-821cd770e85f",
-      "identifiers": [
-        {
-          "identifier": "207",
+          "identifier": "157",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/482/akhra.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/244/chamagua-l.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/482/akhra.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/244/chamagua-l.jpg"
         }
       ],
-      "name": "Бжания Ахра Юрьевич"
+      "name": "Чамагуа Леонид Михайлович"
     },
     {
       "gender": "male",
-      "id": "6337b323-9e9b-4e52-af90-69cf4c6a6ea3",
+      "id": "12d1a33c-daa4-496c-965a-4cd4749eda78",
       "identifiers": [
         {
-          "identifier": "146",
+          "identifier": "130",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/48b/galustyan.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/c3b/tsvijba.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/48b/galustyan.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/c3b/tsvijba.jpg"
         }
       ],
-      "name": "Галустян Левон Миружанович"
-    },
-    {
-      "gender": "female",
-      "id": "0a93b26d-ebc5-44f5-b4fa-935ae209620f",
-      "identifiers": [
-        {
-          "identifier": "127",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/d1a/gamisonia-e.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/d1a/gamisonia-e.jpg"
-        }
-      ],
-      "name": "Гамисония Эмма Алексеевна"
+      "name": "Цвижба Отари Шотович"
     },
     {
       "gender": "male",
-      "id": "5a2d3e3d-48b3-47cb-818b-e9c237c9d99e",
+      "id": "15a55ab3-c81c-4f5f-ae75-ea5446dd5ef6",
       "identifiers": [
         {
-          "identifier": "153",
+          "identifier": "138",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/100/gubaz-b.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/30b/yazichba.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/100/gubaz-b.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/30b/yazichba.jpg"
         }
       ],
-      "name": "Губаз Беслан Шутикович"
-    },
-    {
-      "gender": "male",
-      "id": "ca5bdcb4-e1d5-4f04-918d-545745828b71",
-      "image": "http://www.parlamentra.org/upload/iblock/f31/guliya_temur.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/f31/guliya_temur.jpg"
-        }
-      ],
-      "name": "Гулия Темур Лесикович"
+      "name": "Язычба Заур Гайдарович"
     },
     {
       "gender": "male",
@@ -328,159 +107,6 @@
     },
     {
       "gender": "male",
-      "id": "f32622c4-c84c-4cec-aa0b-dcd4ef4b0175",
-      "identifiers": [
-        {
-          "identifier": "209",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/84a/gurgulia.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/84a/gurgulia.jpg"
-        }
-      ],
-      "name": "Гургулия Апполон Алмасханович"
-    },
-    {
-      "gender": "male",
-      "id": "85da6221-b5ce-463c-b26c-430f7df2cb2f",
-      "identifiers": [
-        {
-          "identifier": "1294",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/c71/3543764745.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/c71/3543764745.jpg"
-        }
-      ],
-      "name": "Джапуа Алмас Северьянович"
-    },
-    {
-      "gender": "male",
-      "id": "f50701bc-38f5-472e-be81-5fa97d7b312a",
-      "identifiers": [
-        {
-          "identifier": "206",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/090/zukhba.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/090/zukhba.jpg"
-        }
-      ],
-      "name": "Зухба Юрий Зауриевич"
-    },
-    {
-      "gender": "male",
-      "id": "8f9829b2-5bd4-4798-9fa5-fe870e62e903",
-      "identifiers": [
-        {
-          "identifier": "163",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/6e9/kvarchia-v.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/6e9/kvarchia-v.jpg"
-        }
-      ],
-      "name": "Кварчия Валерий Ермейович"
-    },
-    {
-      "gender": "male",
-      "id": "8516ad33-85c5-4124-bacf-89fe1d1c20bb",
-      "identifiers": [
-        {
-          "identifier": "144",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/122/kvarchia-k.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/122/kvarchia-k.jpg"
-        }
-      ],
-      "name": "Кварчия Кан Валерьевич"
-    },
-    {
-      "gender": "male",
-      "id": "723a010f-0e8e-41ad-96da-69949ce7d304",
-      "identifiers": [
-        {
-          "identifier": "155",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/715/kvekveskiri-a.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/715/kvekveskiri-a.jpg"
-        }
-      ],
-      "name": "Квеквескири Ахра Вячеславович"
-    },
-    {
-      "gender": "male",
-      "id": "97e42249-660a-4cd0-83e5-e2742e9c4fcc",
-      "identifiers": [
-        {
-          "identifier": "205",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/06c/kvitsinia-n.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/06c/kvitsinia-n.jpg"
-        }
-      ],
-      "name": "Квициния Нодик Юрьевич"
-    },
-    {
-      "gender": "male",
-      "id": "fa7a20a6-b7d6-4ed3-af39-fda60b04fc8c",
-      "identifiers": [
-        {
-          "identifier": "160",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/140/kvitsinia-2.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/140/kvitsinia-2.jpg"
-        }
-      ],
-      "name": "Квициния Темур Паатович"
-    },
-    {
-      "gender": "male",
-      "id": "a1979edc-782c-40d9-b0bd-c4e07f8460b9",
-      "identifiers": [
-        {
-          "identifier": "142",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/9d6/kobakhia-a.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/9d6/kobakhia-a.jpg"
-        }
-      ],
-      "name": "Кобахия Аслан Алексеевич"
-    },
-    {
-      "gender": "male",
       "id": "2c306a40-360f-4a67-b76e-f3803b2737db",
       "identifiers": [
         {
@@ -495,40 +121,6 @@
         }
       ],
       "name": "Кокоскерия Анзор Херсонович"
-    },
-    {
-      "gender": "male",
-      "id": "ba72a067-d4af-46ce-8aab-0b7f77d251e6",
-      "identifiers": [
-        {
-          "identifier": "129",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/e5e/kosian-v.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/e5e/kosian-v.jpg"
-        }
-      ],
-      "name": "Косян Вагаршак Арамович"
-    },
-    {
-      "gender": "male",
-      "id": "e6630cd3-7a92-44e7-99b5-1fef16e663a3",
-      "identifiers": [
-        {
-          "identifier": "152",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamentra.org/upload/iblock/e96/pachulia-a.jpg",
-      "images": [
-        {
-          "url": "http://www.parlamentra.org/upload/iblock/e96/pachulia-a.jpg"
-        }
-      ],
-      "name": "Пачулия Ахра Георгиевич"
     },
     {
       "gender": "male",
@@ -597,71 +189,167 @@
     },
     {
       "gender": "male",
-      "id": "a2e034a4-d4a2-4b89-b718-8e5b0fb27448",
+      "id": "5a2d3e3d-48b3-47cb-818b-e9c237c9d99e",
       "identifiers": [
         {
-          "identifier": "149",
+          "identifier": "153",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/11e/kharazia-s.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/100/gubaz-b.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/11e/kharazia-s.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/100/gubaz-b.jpg"
         }
       ],
-      "name": "Харазия Саид Геннадиевич"
+      "name": "Губаз Беслан Шутикович"
     },
     {
       "gender": "male",
-      "id": "12d1a33c-daa4-496c-965a-4cd4749eda78",
+      "id": "6337b323-9e9b-4e52-af90-69cf4c6a6ea3",
       "identifiers": [
         {
-          "identifier": "130",
+          "identifier": "146",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/c3b/tsvijba.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/48b/galustyan.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/c3b/tsvijba.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/48b/galustyan.jpg"
         }
       ],
-      "name": "Цвижба Отари Шотович"
+      "name": "Галустян Левон Миружанович"
     },
     {
       "gender": "male",
-      "id": "a0f3107d-2a06-4ca3-8db8-afe79fd5868e",
+      "id": "6dbb9c99-b942-4864-9058-6d272ead480f",
       "identifiers": [
         {
-          "identifier": "161",
+          "identifier": "212",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/ede/tsvinaria-b.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/f17/agrba_g.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/ede/tsvinaria-b.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/f17/agrba_g.jpg"
         }
       ],
-      "name": "Цвинария Беслан Константинович"
+      "name": "Агрба Георгий Резикович"
     },
     {
       "gender": "male",
-      "id": "0b515281-445d-49dd-9044-d886d85f0970",
+      "id": "723a010f-0e8e-41ad-96da-69949ce7d304",
       "identifiers": [
         {
-          "identifier": "157",
+          "identifier": "155",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/244/chamagua-l.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/715/kvekveskiri-a.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/244/chamagua-l.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/715/kvekveskiri-a.jpg"
         }
       ],
-      "name": "Чамагуа Леонид Михайлович"
+      "name": "Квеквескири Ахра Вячеславович"
+    },
+    {
+      "gender": "male",
+      "id": "8516ad33-85c5-4124-bacf-89fe1d1c20bb",
+      "identifiers": [
+        {
+          "identifier": "144",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/122/kvarchia-k.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/122/kvarchia-k.jpg"
+        }
+      ],
+      "name": "Кварчия Кан Валерьевич"
+    },
+    {
+      "gender": "male",
+      "id": "85da6221-b5ce-463c-b26c-430f7df2cb2f",
+      "identifiers": [
+        {
+          "identifier": "1294",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/c71/3543764745.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/c71/3543764745.jpg"
+        }
+      ],
+      "name": "Джапуа Алмас Северьянович"
+    },
+    {
+      "gender": "male",
+      "id": "8f9829b2-5bd4-4798-9fa5-fe870e62e903",
+      "identifiers": [
+        {
+          "identifier": "163",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/6e9/kvarchia-v.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/6e9/kvarchia-v.jpg"
+        }
+      ],
+      "name": "Кварчия Валерий Ермейович"
+    },
+    {
+      "gender": "male",
+      "id": "97e42249-660a-4cd0-83e5-e2742e9c4fcc",
+      "identifiers": [
+        {
+          "identifier": "205",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/06c/kvitsinia-n.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/06c/kvitsinia-n.jpg"
+        }
+      ],
+      "name": "Квициния Нодик Юрьевич"
+    },
+    {
+      "gender": "male",
+      "id": "98e8f81e-6607-4888-98ca-d26683240cf1",
+      "image": "http://www.parlamentra.org/upload/iblock/0ad/%D0%AF%D0%B9%D0%BB%D1%8F%D0%BD.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/0ad/%D0%AF%D0%B9%D0%BB%D1%8F%D0%BD.jpg"
+        }
+      ],
+      "name": "Яйлян Роберт Айгазович"
+    },
+    {
+      "gender": "male",
+      "id": "9bfa5581-1a45-4e1d-92f2-416073b8903b",
+      "identifiers": [
+        {
+          "identifier": "213",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/684/agrba_s.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/684/agrba_s.jpg"
+        }
+      ],
+      "name": "Агрба Валерий Владимирович"
     },
     {
       "birth_date": "1951-03-15",
@@ -825,31 +513,343 @@
     },
     {
       "gender": "male",
-      "id": "15a55ab3-c81c-4f5f-ae75-ea5446dd5ef6",
+      "id": "a0f3107d-2a06-4ca3-8db8-afe79fd5868e",
       "identifiers": [
         {
-          "identifier": "138",
+          "identifier": "161",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamentra.org/upload/iblock/30b/yazichba.jpg",
+      "image": "http://www.parlamentra.org/upload/iblock/ede/tsvinaria-b.jpg",
       "images": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/30b/yazichba.jpg"
+          "url": "http://www.parlamentra.org/upload/iblock/ede/tsvinaria-b.jpg"
         }
       ],
-      "name": "Язычба Заур Гайдарович"
+      "name": "Цвинария Беслан Константинович"
     },
     {
       "gender": "male",
-      "id": "98e8f81e-6607-4888-98ca-d26683240cf1",
-      "image": "http://www.parlamentra.org/upload/iblock/0ad/%D0%AF%D0%B9%D0%BB%D1%8F%D0%BD.jpg",
-      "images": [
+      "id": "a1979edc-782c-40d9-b0bd-c4e07f8460b9",
+      "identifiers": [
         {
-          "url": "http://www.parlamentra.org/upload/iblock/0ad/%D0%AF%D0%B9%D0%BB%D1%8F%D0%BD.jpg"
+          "identifier": "142",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Яйлян Роберт Айгазович"
+      "image": "http://www.parlamentra.org/upload/iblock/9d6/kobakhia-a.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/9d6/kobakhia-a.jpg"
+        }
+      ],
+      "name": "Кобахия Аслан Алексеевич"
+    },
+    {
+      "gender": "male",
+      "id": "a2e034a4-d4a2-4b89-b718-8e5b0fb27448",
+      "identifiers": [
+        {
+          "identifier": "149",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/11e/kharazia-s.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/11e/kharazia-s.jpg"
+        }
+      ],
+      "name": "Харазия Саид Геннадиевич"
+    },
+    {
+      "gender": "male",
+      "id": "a3cd203c-c624-4764-8299-af7fdc3da091",
+      "image": "http://www.parlamentra.org/upload/iblock/8a1/%D0%90%D1%80%D1%88%D0%B1%D0%B0%20%D0%94.%D0%94.%2010.03.11%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.JPG",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/8a1/%D0%90%D1%80%D1%88%D0%B1%D0%B0%20%D0%94.%D0%94.%2010.03.11%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.JPG"
+        }
+      ],
+      "name": "Аршба Даури Джумкович"
+    },
+    {
+      "gender": "male",
+      "id": "ba72a067-d4af-46ce-8aab-0b7f77d251e6",
+      "identifiers": [
+        {
+          "identifier": "129",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/e5e/kosian-v.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/e5e/kosian-v.jpg"
+        }
+      ],
+      "name": "Косян Вагаршак Арамович"
+    },
+    {
+      "gender": "male",
+      "id": "bdbf812d-51a4-4005-b1ea-d6e499b00827",
+      "image": "http://www.parlamentra.org/upload/iblock/ce1/IMG_0875.JPG",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/ce1/IMG_0875.JPG"
+        }
+      ],
+      "name": "Ардзинба Тайфун Наимович"
+    },
+    {
+      "gender": "male",
+      "id": "ca5bdcb4-e1d5-4f04-918d-545745828b71",
+      "image": "http://www.parlamentra.org/upload/iblock/f31/guliya_temur.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/f31/guliya_temur.jpg"
+        }
+      ],
+      "name": "Гулия Темур Лесикович"
+    },
+    {
+      "gender": "male",
+      "id": "cf26fae7-206f-4e1d-94c1-601ffd657e3e",
+      "image": "http://www.parlamentra.org/upload/iblock/0bf/IMG_4528.JPG",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/0bf/IMG_4528.JPG"
+        }
+      ],
+      "name": "Агрба Тенгиз Алмасханович"
+    },
+    {
+      "birth_date": "1953-08-26",
+      "gender": "male",
+      "given_name": "Valeri",
+      "id": "da988bab-32d4-46c0-bb7b-5c6a6eb129e7",
+      "identifiers": [
+        {
+          "identifier": "46",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4080376",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/b85/%D1%80%D0%B0%D0%BC.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/b85/%D1%80%D0%B0%D0%BC.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Бганба_Валерий_Рамшухович.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Valerij_Bganba"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Valeri_Bganba"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Valeri_Bganba"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Valeri_Bganba"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Walerij_Bganba"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бганба,_Валерий_Рамшухович"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Valeri_Bganba"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/瓦列里·拉姆舒霍维奇·布甘巴"
+        }
+      ],
+      "name": "Бганба Валерий Рамшухович",
+      "other_names": [
+        {
+          "name": "Valeri Bganba",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Valerij Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Valeri Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Valeri Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Valeri Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Valeri Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Valeri Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "バレリ・ブガンバ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Valeri Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Walerij Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Бганба, Валерий Рамшухович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Valeri Bganba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "瓦列里·拉姆舒霍维奇·布甘巴",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "dfd04751-2201-401b-8bfa-821cd770e85f",
+      "identifiers": [
+        {
+          "identifier": "207",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/482/akhra.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/482/akhra.jpg"
+        }
+      ],
+      "name": "Бжания Ахра Юрьевич"
+    },
+    {
+      "gender": "male",
+      "id": "e6630cd3-7a92-44e7-99b5-1fef16e663a3",
+      "identifiers": [
+        {
+          "identifier": "152",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/e96/pachulia-a.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/e96/pachulia-a.jpg"
+        }
+      ],
+      "name": "Пачулия Ахра Георгиевич"
+    },
+    {
+      "gender": "male",
+      "id": "f083d6c9-ac91-4a5e-92ee-03007fb83316",
+      "identifiers": [
+        {
+          "identifier": "210",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/09f/avidzba-f.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/09f/avidzba-f.jpg"
+        }
+      ],
+      "name": "Авидзба Фазилбей Лизберович"
+    },
+    {
+      "gender": "male",
+      "id": "f32622c4-c84c-4cec-aa0b-dcd4ef4b0175",
+      "identifiers": [
+        {
+          "identifier": "209",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/84a/gurgulia.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/84a/gurgulia.jpg"
+        }
+      ],
+      "name": "Гургулия Апполон Алмасханович"
+    },
+    {
+      "gender": "male",
+      "id": "f50701bc-38f5-472e-be81-5fa97d7b312a",
+      "identifiers": [
+        {
+          "identifier": "206",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/090/zukhba.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/090/zukhba.jpg"
+        }
+      ],
+      "name": "Зухба Юрий Зауриевич"
+    },
+    {
+      "gender": "male",
+      "id": "fa7a20a6-b7d6-4ed3-af39-fda60b04fc8c",
+      "identifiers": [
+        {
+          "identifier": "160",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamentra.org/upload/iblock/140/kvitsinia-2.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/140/kvitsinia-2.jpg"
+        }
+      ],
+      "name": "Квициния Темур Паатович"
     }
   ],
   "organizations": [
