@@ -4,175 +4,784 @@
   ],
   "persons": [
     {
-      "birth_date": "1964-01-19",
+      "birth_date": "1960-05-09",
       "contact_details": [
         {
           "type": "email",
-          "value": "carina.aaltonen@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 405 645 102"
+          "value": "anders.eriksson@lagtinget.ax"
         }
       ],
-      "email": "carina.aaltonen@lagtinget.ax",
-      "gender": "female",
-      "given_name": "Carina",
-      "id": "e3aab23e-a883-4763-be0d-92e5936024e2",
+      "email": "anders.eriksson@lagtinget.ax",
+      "family_name": "Eriksson",
+      "gender": "male",
+      "given_name": "Anders",
+      "id": "069c61d9-e17f-46aa-aba9-1b255e3166e5",
       "identifiers": [
         {
-          "identifier": "47",
+          "identifier": "70",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q4934081",
+          "identifier": "Q5715984",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/aaltonen_carina.jpg",
+      "image": "http://www.lagtinget.ax/files/AndersEriksson.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/aaltonen_carina.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Nordiska_radets_session_i_Helsingfors_(3)_(crop).jpg"
+          "url": "http://www.lagtinget.ax/files/AndersEriksson.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Carina_Aaltonen"
+          "url": "https://fi.wikipedia.org/wiki/Anders_Eriksson_(poliitikko)"
         },
         {
           "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Carina_Aaltonen"
+          "url": "https://sv.wikipedia.org/wiki/Anders_Eriksson_(åländsk_politiker)"
         }
       ],
-      "name": "Aaltonen Carina",
+      "name": "Eriksson Anders",
       "other_names": [
         {
-          "name": "Carina Aaltonen",
+          "name": "Anders Eriksson",
           "note": "alternate"
         },
         {
-          "lang": "de",
-          "name": "Carina Aaltonen",
-          "note": "multilingual"
-        },
-        {
           "lang": "en",
-          "name": "Carina Aaltonen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Carina Aaltonen",
+          "name": "Anders Eriksson",
           "note": "multilingual"
         },
         {
           "lang": "fi",
-          "name": "Carina Aaltonen",
+          "name": "Anders Eriksson",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Carina Aaltonen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Carina Aaltonen",
+          "name": "Anders Eriksson",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Carina Aaltonen",
+          "name": "Anders Eriksson",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Carina Aaltonen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "卡琳娜·阿爾托寧",
+          "name": "Anders Eriksson",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1968-09-15",
+      "birth_date": "1966-02-02",
       "contact_details": [
         {
           "type": "email",
-          "value": "tony.asumaa@lagtinget.ax"
+          "value": "katrin.sjogrenoch@lagtinget.ax"
+        },
+        {
+          "type": "twitter",
+          "value": "ksjgren"
         }
       ],
-      "email": "tony.asumaa@lagtinget.ax",
-      "gender": "male",
-      "id": "f4f995ae-126c-468f-8f26-deec1e26adc2",
+      "email": "katrin.sjogrenoch@lagtinget.ax",
+      "gender": "female",
+      "given_name": "Katrin",
+      "id": "10995076-8cb9-43a8-b1e0-ed1af900ed70",
       "identifiers": [
         {
-          "identifier": "372",
+          "identifier": "68",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2269243",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/asumaa_tony.jpg",
+      "image": "http://www.lagtinget.ax/files/sjogren_katrin.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/asumaa_tony.jpg"
+          "url": "http://www.lagtinget.ax/files/sjogren_katrin.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Katrin_Sjogren_vid_Nordiska_Radets_session_pa_Island_2010-11-04.jpg"
         }
       ],
-      "name": "Asumaa Tony"
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Κατρίν_Σιόγκρεν"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Katrin_Sjögren"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/カトリン・シェーグレン"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шёгрен,_Катрин"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Katrin_Sjögren"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/凱撒琳·舍格倫"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ksjgren"
+        }
+      ],
+      "name": "Sjögren Katrin",
+      "other_names": [
+        {
+          "name": "Katrin Sjögren",
+          "note": "alternate"
+        },
+        {
+          "lang": "el",
+          "name": "Κατρίν Σιόγκρεν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "カトリン・シェーグレン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шёгрен, Катрин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Katrin Sjögren",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "凱撒琳·舍格倫",
+          "note": "multilingual"
+        }
+      ]
     },
     {
-      "birth_date": "1953-06-22",
+      "birth_date": "1943-08-09",
       "contact_details": [
         {
           "type": "email",
-          "value": "christian.beijar@lagtinget.ax"
+          "value": "roger.jansson@lagtinget.ax"
         }
       ],
-      "email": "christian.beijar@lagtinget.ax",
+      "email": "roger.jansson@lagtinget.ax",
+      "family_name": "Jansson",
       "gender": "male",
-      "id": "58aff53c-e322-40e3-a8d2-49b672ae500c",
+      "given_name": "Roger",
+      "id": "1ab91134-5837-430d-855d-6acfdce78d86",
       "identifiers": [
         {
-          "identifier": "373",
+          "identifier": "780",
+          "scheme": "eduskunta"
+        },
+        {
+          "identifier": "69",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/034bw6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2356536",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/beijar_christian.jpg",
+      "image": "http://www.lagtinget.ax/files/jansson_roger.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/beijar_christian.jpg"
+          "url": "http://www.lagtinget.ax/files/jansson_roger.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Roger_Jansson.jpg"
         }
       ],
-      "name": "Beijar Christian"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roger_Jansson"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Roger_Jansson"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ロジャー・ヤンソン"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Янссон,_Рогер"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Roger_Jansson"
+        }
+      ],
+      "name": "Jansson Roger",
+      "other_names": [
+        {
+          "name": "Roger Jansson",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ロジャー・ヤンソン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Янссон, Рогер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Roger Jansson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
-      "birth_date": "1957",
+      "birth_date": "1969-03-11",
       "contact_details": [
         {
           "type": "email",
-          "value": "bert.haggblom@lagtinget.ax"
+          "value": "annette.holmberg-jansson@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 457 526 7477"
+          "value": "+358 457 313 4429"
         }
       ],
-      "email": "bert.haggblom@lagtinget.ax",
+      "email": "annette.holmberg-jansson@lagtinget.ax",
+      "gender": "female",
+      "id": "212c44f3-e91d-48ad-9476-ad3ea8998ab6",
+      "identifiers": [
+        {
+          "identifier": "642",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Holmberg-Jansson Annette"
+    },
+    {
+      "birth_date": "1944-02-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roger.slotte@lagtinget.ax"
+        }
+      ],
+      "email": "roger.slotte@lagtinget.ax",
       "gender": "male",
-      "id": "e787fced-a0c8-4c97-9c02-82198ff4a1c3",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8967m_mini.jpg",
+      "given_name": "Roger",
+      "id": "25ac9df5-73ca-446b-8bc3-d91b80b7909b",
+      "identifiers": [
+        {
+          "identifier": "87",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2160406",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/slotte_roger.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8967m_mini.jpg"
+          "url": "http://www.lagtinget.ax/files/slotte_roger.jpg"
         }
       ],
-      "name": "Bert Häggblom"
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Roger_Slotte"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Roger_Slotte"
+        }
+      ],
+      "name": "Slotte Roger",
+      "other_names": [
+        {
+          "name": "Roger Slotte",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Roger Slotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Roger Slotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Roger Slotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Roger Slotte",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1979-06-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "john.hilander@lagtinget.ax"
+        }
+      ],
+      "email": "john.hilander@lagtinget.ax",
+      "gender": "male",
+      "id": "294b101b-1db4-469e-9684-f3124f9cd061",
+      "identifiers": [
+        {
+          "identifier": "218",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/hillander_copy2.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/hillander_copy2.jpg"
+        }
+      ],
+      "name": "Hilander John"
+    },
+    {
+      "birth_date": "1962-07-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "veronica.thornroos@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 405 003 374"
+        }
+      ],
+      "email": "veronica.thornroos@lagtinget.ax",
+      "gender": "female",
+      "given_name": "Veronica",
+      "id": "2c5d2e49-268b-49a6-990c-d77d14c2f5ad",
+      "identifiers": [
+        {
+          "identifier": "Q4982779",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Veronica_Thornroos_vid_Nordiska_radets_session_i_Reykjavik_2010.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Veronica_Thörnroos"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Veronica_Thörnroos"
+        }
+      ],
+      "name": "Veronica Thörnroos",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Veronica Thörnroos",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1972-12-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "petri.carlsson@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 405 671 291"
+        }
+      ],
+      "email": "petri.carlsson@lagtinget.ax",
+      "gender": "male",
+      "id": "2d97597a-4313-4ee9-a5bc-762c2608b4f9",
+      "identifiers": [
+        {
+          "identifier": "422",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/petri_carlsson.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/petri_carlsson.jpg"
+        }
+      ],
+      "name": "Carlsson Petri"
+    },
+    {
+      "birth_date": "1972",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tony.wikstrom@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 405 873 417"
+        }
+      ],
+      "email": "tony.wikstrom@lagtinget.ax",
+      "gender": "male",
+      "id": "2f82348b-7b10-40d0-8d5a-6cac08845895",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9134m.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9134m.jpg"
+        }
+      ],
+      "name": "Tony Wikström"
+    },
+    {
+      "birth_date": "1945-12-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "barbro.sundback@lagtinget.ax"
+        }
+      ],
+      "email": "barbro.sundback@lagtinget.ax",
+      "gender": "female",
+      "given_name": "Barbro",
+      "id": "3392297b-d394-4b04-a858-3738b2931335",
+      "identifiers": [
+        {
+          "identifier": "67",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "287123537",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2270143",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/sundback_barbro.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/sundback_barbro.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Barbro_Sundback"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Barbro_Sundback"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Barbro_Sundback"
+        }
+      ],
+      "name": "Sundback Barbro",
+      "other_names": [
+        {
+          "name": "Barbro Sundback",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Barbro Sundback",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Barbro Sundback",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Barbro Sundback",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Barbro Sundback",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Barbro Sundback",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1955",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tage.silander@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 400 626 400"
+        }
+      ],
+      "email": "tage.silander@lagtinget.ax",
+      "gender": "male",
+      "id": "3608c81b-d668-4c5e-9e9e-c5a5633c603f",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9179m.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9179m.jpg"
+        }
+      ],
+      "name": "Tage Silander"
+    },
+    {
+      "birth_date": "1963-04-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "britt.lundberg@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 457 526 7450"
+        }
+      ],
+      "email": "britt.lundberg@lagtinget.ax",
+      "family_name": "Lundberg",
+      "gender": "female",
+      "given_name": "Britt",
+      "id": "36915827-7b54-4f98-8f0a-a54db2a41136",
+      "identifiers": [
+        {
+          "identifier": "63",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/050yfq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2160390",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Britt_Lundberg"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Britt_Lundberg"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Britt_Lundberg"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Britt_Lundberg"
+        }
+      ],
+      "name": "Lundberg Britt",
+      "other_names": [
+        {
+          "name": "Britt Lundberg",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Britt Lundberg",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1939-08-17",
@@ -298,316 +907,297 @@
       ]
     },
     {
-      "birth_date": "1972-12-28",
+      "birth_date": "1992-03-08",
       "contact_details": [
         {
           "type": "email",
-          "value": "petri.carlsson@lagtinget.ax"
+          "value": "axel.jonsson@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 405 671 291"
+          "value": "+358 457 3427 222"
         }
       ],
-      "email": "petri.carlsson@lagtinget.ax",
+      "email": "axel.jonsson@lagtinget.ax",
       "gender": "male",
-      "id": "2d97597a-4313-4ee9-a5bc-762c2608b4f9",
+      "id": "4116682f-f3c3-4514-a891-b9fe8afa245f",
       "identifiers": [
         {
-          "identifier": "422",
+          "identifier": "376",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/petri_carlsson.jpg",
+      "image": "http://www.lagtinget.ax/files/jonsson_axel.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/petri_carlsson.jpg"
+          "url": "http://www.lagtinget.ax/files/jonsson_axel.jpg"
         }
       ],
-      "name": "Carlsson Petri"
+      "name": "Jonsson Axel"
     },
     {
-      "birth_date": "1946-03-14",
+      "birth_date": "1973-12-06",
       "contact_details": [
         {
           "type": "email",
-          "value": "ulla-britt.dahl@lagtinget.ax"
+          "value": "danne.sundman@lagtinget.ax"
         }
       ],
-      "email": "ulla-britt.dahl@lagtinget.ax",
-      "family_name": "Dahl",
-      "gender": "female",
-      "given_name": "Ulla-Britt",
-      "id": "e57828f1-e51a-41ea-a61b-7fc1b92e2b37",
-      "identifiers": [
-        {
-          "identifier": "109",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q11899437",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/dahl_ulla_britt.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/dahl_ulla_britt.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Ulla-Britt_Dahl"
-        }
-      ],
-      "name": "Dahl Ulla-Britt",
-      "other_names": [
-        {
-          "name": "Ulla-Britt Dahl",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Ulla-Britt Dahl",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Ulla-Britt Dahl",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ulla-Britt Dahl",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Ulla-Britt Dahl",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ulla-Britt Dahl",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1975-07-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johan.ehn@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 405 435 392"
-        },
-        {
-          "type": "twitter",
-          "value": "ehnjohan"
-        }
-      ],
-      "email": "johan.ehn@lagtinget.ax",
+      "email": "danne.sundman@lagtinget.ax",
       "gender": "male",
-      "given_name": "Johan",
-      "id": "a539ff7e-cc05-4dfe-b068-a5969a0d9538",
+      "id": "4519dd08-5c45-4324-a257-591aaa03c3e8",
       "identifiers": [
         {
-          "identifier": "79",
+          "identifier": "74",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/0wy1x7l",
+          "identifier": "/m/036ndb",
           "scheme": "freebase"
         },
         {
-          "identifier": "Q2378990",
+          "identifier": "Q2269658",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/ehn_johan.jpg",
+      "image": "http://www.lagtinget.ax/files/sundman_danne.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/ehn_johan.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Johan_Ehn_talar_vid_Nordiska_Radets_session_i_Helsingfors_2008-10-27.jpg"
+          "url": "http://www.lagtinget.ax/files/sundman_danne.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Johan_Ehn"
+          "url": "https://en.wikipedia.org/wiki/Danne_Sundman"
         },
         {
           "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Johan_Ehn"
+          "url": "https://fi.wikipedia.org/wiki/Danne_Sundman"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Johan_Ehn"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/ヨハン・エン"
+          "url": "https://fr.wikipedia.org/wiki/Danne_Sundman"
         },
         {
           "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Johan_Ehn"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/ehnjohan"
+          "url": "https://sv.wikipedia.org/wiki/Dan-Anders_Sundman"
         }
       ],
-      "name": "Ehn Johan",
+      "name": "Sundman Danne",
       "other_names": [
         {
-          "name": "Johan Ehn",
+          "name": "Dan-Anders Sundman",
           "note": "alternate"
         },
         {
           "lang": "de",
-          "name": "Johan Ehn",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Johan Ehn",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Johan Ehn",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
           "lang": "fi",
-          "name": "Johan Ehn",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Johan Ehn",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
           "lang": "hu",
-          "name": "Johan Ehn",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
-          "lang": "ja",
-          "name": "ヨハン・エン",
+          "lang": "it",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Johan Ehn",
+          "name": "Danne Sundman",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Johan Ehn",
+          "name": "Dan-Anders Sundman",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1950-02-08",
+      "birth_date": "1952-03-29",
       "contact_details": [
         {
           "type": "email",
-          "value": "brage.eklund@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 400 861 769"
+          "value": "jan.salmen@lagtinget.ax"
         }
       ],
-      "email": "brage.eklund@lagtinget.ax",
+      "email": "jan.salmen@lagtinget.ax",
       "gender": "male",
-      "id": "7877e36d-a18b-4e99-b6bb-74aac77286d3",
+      "given_name": "Jan",
+      "id": "5049236d-df09-43ab-a843-b9c910603479",
       "identifiers": [
         {
-          "identifier": "374",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/eklund_brage.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/eklund_brage.jpg"
-        }
-      ],
-      "name": "Eklund Brage"
-    },
-    {
-      "birth_date": "1947-03-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "raija-liisa.eklow@lagtinget.ax"
-        }
-      ],
-      "email": "raija-liisa.eklow@lagtinget.ax",
-      "gender": "female",
-      "id": "7bcba90d-f015-4ea3-9243-eb1619719f61",
-      "identifiers": [
-        {
-          "identifier": "80",
+          "identifier": "111",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q16171417",
+          "identifier": "Q16990321",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/eklow_raija_liisa.jpg",
+      "image": "http://www.lagtinget.ax/files/salmen_jan.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/eklow_raija_liisa.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Raija-Liisa_Eklow_(lib),_aland,_under_Nordiska_radets_session_i_Kopenhamn_2006.jpg"
+          "url": "http://www.lagtinget.ax/files/salmen_jan.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Raija-Liisa_Eklöw"
+          "url": "https://fi.wikipedia.org/wiki/Jan_Salmén"
         }
       ],
-      "name": "Eklöw Raija-Liisa",
+      "name": "Salmén Jan",
       "other_names": [
         {
-          "name": "Raija-Liisa Eklöw",
+          "name": "Jan Salmén",
           "note": "alternate"
         },
         {
           "lang": "en",
-          "name": "Raija-Liisa Eklöw",
+          "name": "Jan Salmén",
           "note": "multilingual"
         },
         {
           "lang": "fi",
-          "name": "Raija-Liisa Eklöw",
+          "name": "Jan Salmén",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Raija-Liisa Eklöw",
+          "name": "Jan Salmén",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Raija-Liisa Eklöw",
+          "name": "Jan Salmén",
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "birth_date": "1961",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mikael.staffas@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 400 539 510"
+        }
+      ],
+      "email": "mikael.staffas@lagtinget.ax",
+      "gender": "male",
+      "id": "56e2d431-f22d-4f47-83b4-3bb88c61d7bb",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9582.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9582.jpg"
+        }
+      ],
+      "name": "Mikael Staffas"
+    },
+    {
+      "birth_date": "1968-01-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gote.wine@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 405 169 639"
+        }
+      ],
+      "email": "gote.wine@lagtinget.ax",
+      "gender": "male",
+      "id": "58467ee7-696f-4c46-91c8-7ac4110e9d32",
+      "identifiers": [
+        {
+          "identifier": "379",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/GteWin.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/GteWin.jpg"
+        }
+      ],
+      "name": "Winé Göte"
+    },
+    {
+      "birth_date": "1953-06-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "christian.beijar@lagtinget.ax"
+        }
+      ],
+      "email": "christian.beijar@lagtinget.ax",
+      "gender": "male",
+      "id": "58aff53c-e322-40e3-a8d2-49b672ae500c",
+      "identifiers": [
+        {
+          "identifier": "373",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/beijar_christian.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/beijar_christian.jpg"
+        }
+      ],
+      "name": "Beijar Christian"
+    },
+    {
+      "birth_date": "1955",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "stephan.toivonen@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 400 560 056"
+        }
+      ],
+      "email": "stephan.toivonen@lagtinget.ax",
+      "gender": "male",
+      "id": "5ac098ff-5814-4362-b699-3304097997dc",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9158m.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9158m.jpg"
+        }
+      ],
+      "name": "Stephan Toivonen"
     },
     {
       "birth_date": "1947-01-18",
@@ -681,216 +1271,6 @@
         {
           "lang": "sv",
           "name": "Torbjörn Eliasson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1957-01-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anders.englund@agtinget.ax"
-        }
-      ],
-      "email": "anders.englund@agtinget.ax",
-      "family_name": "Englund",
-      "gender": "male",
-      "given_name": "Anders",
-      "id": "dd1cba32-c84c-4563-88a0-cb724a62ffce",
-      "identifiers": [
-        {
-          "identifier": "72",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2160399",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Anders_Englund"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Anders_Englund"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Anders_Englund"
-        }
-      ],
-      "name": "Englund Anders",
-      "other_names": [
-        {
-          "name": "Anders Englund",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Anders Englund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Anders Englund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Anders Englund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Anders Englund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Anders Englund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Anders Englund",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1960-05-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anders.eriksson@lagtinget.ax"
-        }
-      ],
-      "email": "anders.eriksson@lagtinget.ax",
-      "family_name": "Eriksson",
-      "gender": "male",
-      "given_name": "Anders",
-      "id": "069c61d9-e17f-46aa-aba9-1b255e3166e5",
-      "identifiers": [
-        {
-          "identifier": "70",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5715984",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/AndersEriksson.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/AndersEriksson.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Anders_Eriksson_(poliitikko)"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Anders_Eriksson_(åländsk_politiker)"
-        }
-      ],
-      "name": "Eriksson Anders",
-      "other_names": [
-        {
-          "name": "Anders Eriksson",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Anders Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Anders Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Anders Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Anders Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Anders Eriksson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1959-10-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sirpa.eriksson@lagtinget.ax."
-        }
-      ],
-      "email": "sirpa.eriksson@lagtinget.ax.",
-      "family_name": "Eriksson",
-      "gender": "female",
-      "given_name": "Sirpa",
-      "id": "9fbcb798-95de-44a8-ae21-b8c42eb21f27",
-      "identifiers": [
-        {
-          "identifier": "107",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q11893732",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/eriksson_sirpa.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/eriksson_sirpa.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Sirpa_Eriksson"
-        }
-      ],
-      "name": "Eriksson Sirpa",
-      "other_names": [
-        {
-          "name": "Sirpa Eriksson",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Sirpa Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Sirpa Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Sirpa Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sirpa Eriksson",
           "note": "multilingual"
         }
       ]
@@ -1046,97 +1426,473 @@
       ]
     },
     {
-      "birth_date": "1944-02-16",
+      "birth_date": "1955-05-06",
       "contact_details": [
         {
           "type": "email",
-          "value": "olof.erland@lagtinget.ax"
+          "value": "margaret.lundberg@lagtinget.ax"
         }
       ],
-      "email": "olof.erland@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Olof",
-      "id": "d7a8d7c9-9019-4db4-8039-0941b7ab9e1a",
+      "email": "margaret.lundberg@lagtinget.ax",
+      "family_name": "Lundberg",
+      "gender": "female",
+      "given_name": "Margaret",
+      "id": "73c20499-0d12-4409-b430-1ae222d6bc4c",
       "identifiers": [
         {
-          "identifier": "83",
+          "identifier": "110",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q4354820",
+          "identifier": "Q11880849",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/erland_olof.jpg",
+      "image": "http://www.lagtinget.ax/files/lundberg_margaret.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/erland_olof.jpg"
+          "url": "http://www.lagtinget.ax/files/lundberg_margaret.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Margaret_Lundberg"
+        }
+      ],
+      "name": "Lundberg Margaret",
+      "other_names": [
+        {
+          "name": "Margaret Lundberg",
+          "note": "alternate"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Oloferland2.jpg"
+          "lang": "en",
+          "name": "Margaret Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Margaret Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Margaret Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Margaret Lundberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Margaret Lundberg",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1944-06-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "leo.sjostrand@lagtinget.ax"
+        }
+      ],
+      "email": "leo.sjostrand@lagtinget.ax",
+      "family_name": "Sjöstrand",
+      "gender": "male",
+      "given_name": "Leo",
+      "id": "74f795c8-c159-4c18-b2e5-bfbf58502c29",
+      "identifiers": [
+        {
+          "identifier": "86",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16983862",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/sjostrand_leo.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/sjostrand_leo.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Leo_Sjöstrand"
+        }
+      ],
+      "name": "Sjöstrand Leo",
+      "other_names": [
+        {
+          "name": "Leo Sjöstrand",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Leo Sjöstrand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Leo Sjöstrand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Leo Sjöstrand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Leo Sjöstrand",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1950-02-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "brage.eklund@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 400 861 769"
+        }
+      ],
+      "email": "brage.eklund@lagtinget.ax",
+      "gender": "male",
+      "id": "7877e36d-a18b-4e99-b6bb-74aac77286d3",
+      "identifiers": [
+        {
+          "identifier": "374",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/eklund_brage.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/eklund_brage.jpg"
+        }
+      ],
+      "name": "Eklund Brage"
+    },
+    {
+      "birth_date": "1947-03-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "raija-liisa.eklow@lagtinget.ax"
+        }
+      ],
+      "email": "raija-liisa.eklow@lagtinget.ax",
+      "gender": "female",
+      "id": "7bcba90d-f015-4ea3-9243-eb1619719f61",
+      "identifiers": [
+        {
+          "identifier": "80",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16171417",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/eklow_raija_liisa.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/eklow_raija_liisa.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Raija-Liisa_Eklow_(lib),_aland,_under_Nordiska_radets_session_i_Kopenhamn_2006.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Raija-Liisa_Eklöw"
+        }
+      ],
+      "name": "Eklöw Raija-Liisa",
+      "other_names": [
+        {
+          "name": "Raija-Liisa Eklöw",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Raija-Liisa Eklöw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Raija-Liisa Eklöw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Raija-Liisa Eklöw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raija-Liisa Eklöw",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1957-11-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roger.nordlund@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 457 522 1605"
+        }
+      ],
+      "email": "roger.nordlund@lagtinget.ax",
+      "gender": "male",
+      "given_name": "Roger",
+      "id": "7e3b4661-2fe0-4f15-9970-86b98701dee1",
+      "identifiers": [
+        {
+          "identifier": "66",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02m760",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q713308",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/nordlund_roger.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/nordlund_roger.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Roger_Nordlund,_alands_landskapsregering.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Roger_Nordlund"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roger_Nordlund"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Roger_Nordlund"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Roger_Nordlund"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ロジャー・ノードランド"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Нордлунд,_Рогер"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Roger_Nordlund"
+        }
+      ],
+      "name": "Nordlund Roger",
+      "other_names": [
+        {
+          "name": "Roger Nordlund",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ロジャー・ノードランド",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Нордлунд, Рогер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Roger Nordlund",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-03-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jorgen.strand@lagtinget.ax"
+        }
+      ],
+      "email": "jorgen.strand@lagtinget.ax",
+      "family_name": "Strand",
+      "gender": "male",
+      "given_name": "Jörgen",
+      "id": "7efe27f8-e3a4-4ac2-8daf-f49bdca45ab9",
+      "identifiers": [
+        {
+          "identifier": "89",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02mgr6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q4354530",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/strand_jorgen.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/strand_jorgen.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Olof_Erland"
+          "url": "https://en.wikipedia.org/wiki/Jörgen_Strand"
         },
         {
           "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Olof_Erland"
+          "url": "https://fi.wikipedia.org/wiki/Jörgen_Strand"
         },
         {
           "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Olof_Erland"
+          "url": "https://sv.wikipedia.org/wiki/Jörgen_Strand"
         }
       ],
-      "name": "Erland Olof",
+      "name": "Strand Jörgen",
       "other_names": [
         {
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "alternate"
         },
         {
           "lang": "de",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         },
         {
           "lang": "fi",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         },
         {
           "lang": "hu",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Olof Erland",
+          "name": "Jörgen Strand",
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "birth_date": "1969",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mikael.lindholm@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 400 783 086"
+        }
+      ],
+      "email": "mikael.lindholm@lagtinget.ax",
+      "gender": "male",
+      "id": "85f603f2-090d-4096-9c01-fd20b05caa56",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9003m.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9003m.jpg"
+        }
+      ],
+      "name": "Mikael Lindholm"
     },
     {
       "birth_date": "1940-08-16",
@@ -1164,27 +1920,811 @@
       "name": "Fogelström Karl-Johan"
     },
     {
-      "birth_date": "1978",
+      "birth_date": "1964-10-12",
       "contact_details": [
         {
           "type": "email",
-          "value": "fredrik.fredlund@lagtinget.ax"
+          "value": "mats.peramaa@lagtinget.ax"
+        }
+      ],
+      "email": "mats.peramaa@lagtinget.ax",
+      "gender": "male",
+      "given_name": "Mats",
+      "id": "884b6d85-564f-4f43-9e37-d5306e241cc5",
+      "identifiers": [
+        {
+          "identifier": "77",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2269253",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/peramaa_mats.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/peramaa_mats.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mats_Perämaa"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mats_Perämaa"
+        }
+      ],
+      "name": "Perämaa Mats",
+      "other_names": [
+        {
+          "name": "Mats Perämaa",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mats Perämaa",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1960-07-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roger.eriksson@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 408 129 782"
+          "value": "+358 405 942 754"
         }
       ],
-      "email": "fredrik.fredlund@lagtinget.ax",
+      "email": "roger.eriksson@lagtinget.ax",
       "gender": "male",
-      "id": "ff7b67a7-d3bf-4179-801d-7005059524e6",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8847m.jpg",
+      "given_name": "Roger",
+      "id": "91e57380-374c-4173-b318-ac2fb765a5fc",
+      "identifiers": [
+        {
+          "identifier": "Q5717272",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8847m.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Roger_Eriksson_vid_Nordiska_Radets_session_i_Stockholm_2009.jpg"
         }
       ],
-      "name": "Fredrik Fredlund"
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Roger_Eriksson"
+        }
+      ],
+      "name": "Roger Eriksson",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Roger Eriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Roger Eriksson",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-10-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "harry.jansson@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 457 313 5296"
+        }
+      ],
+      "email": "harry.jansson@lagtinget.ax",
+      "gender": "male",
+      "given_name": "Harry",
+      "id": "9969d9d7-ab81-4ab0-bd80-35e4c21d5b22",
+      "identifiers": [
+        {
+          "identifier": "81",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2160820",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/jansson_harry.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/jansson_harry.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Harry_Jansson_BSPC_19_Mariehamn_aland.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Harry_Jansson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Harry_Jansson"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ハリー・ヤンソン"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Harry_Jansson"
+        }
+      ],
+      "name": "Jansson Harry",
+      "other_names": [
+        {
+          "name": "Harry Jansson",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Harry Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Harry Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Harry Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ハリー・ヤンソン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Harry Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Harry Jansson",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1944-06-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gunnar.jansson@lagtinget.ax"
+        }
+      ],
+      "email": "gunnar.jansson@lagtinget.ax",
+      "family_name": "Jansson",
+      "gender": "male",
+      "given_name": "Gunnar",
+      "id": "9dbf37cd-1a94-47f5-93ac-b7de0e34083b",
+      "identifiers": [
+        {
+          "identifier": "16650720m",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "148",
+          "scheme": "eduskunta"
+        },
+        {
+          "identifier": "62",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "162787971",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2270153",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/jansson_gunnar.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/jansson_gunnar.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gunnarjansson.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Gunnar_Jansson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gunnar_Jansson_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Gunnar_Jansson"
+        }
+      ],
+      "name": "Jansson Gunnar",
+      "other_names": [
+        {
+          "name": "Gunnar Jansson",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gunnar Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Gunnar Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gunnar Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gunnar Jansson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Gunnar Jansson",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-10-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sirpa.eriksson@lagtinget.ax."
+        }
+      ],
+      "email": "sirpa.eriksson@lagtinget.ax.",
+      "family_name": "Eriksson",
+      "gender": "female",
+      "given_name": "Sirpa",
+      "id": "9fbcb798-95de-44a8-ae21-b8c42eb21f27",
+      "identifiers": [
+        {
+          "identifier": "107",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11893732",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/eriksson_sirpa.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/eriksson_sirpa.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Sirpa_Eriksson"
+        }
+      ],
+      "name": "Eriksson Sirpa",
+      "other_names": [
+        {
+          "name": "Sirpa Eriksson",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Sirpa Eriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sirpa Eriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sirpa Eriksson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sirpa Eriksson",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1973-05-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fredrik.karlstrom@lagtinget.ax"
+        }
+      ],
+      "email": "fredrik.karlstrom@lagtinget.ax",
+      "family_name": "Karlström",
+      "gender": "male",
+      "given_name": "Fredrik",
+      "id": "a4194905-b544-441b-a58f-7d92681398cf",
+      "identifiers": [
+        {
+          "identifier": "82",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3371504",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/karlstrom_fredrik.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/karlstrom_fredrik.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fredrik_Karlström.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Fredrik_Karlström"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Fredrik_Karlström"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Fredrik_Karlström"
+        }
+      ],
+      "name": "Karlström Fredrik",
+      "other_names": [
+        {
+          "name": "Fredrik Karlström",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Fredrik Karlström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fredrik Karlström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Fredrik Karlström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fredrik Karlström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Fredrik Karlström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fredrik Karlström",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Fredrik Karlström",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1973-06-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mika.nordberg@lagtinget.ax"
+        }
+      ],
+      "email": "mika.nordberg@lagtinget.ax",
+      "gender": "male",
+      "given_name": "Mika",
+      "id": "a41f0372-a0b2-422a-b9f5-a04698a8205e",
+      "identifiers": [
+        {
+          "identifier": "90",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11882586",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/nordberg_mika.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/nordberg_mika.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Mika_Nordberg"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mika_Nordberg"
+        }
+      ],
+      "name": "Nordberg Mika",
+      "other_names": [
+        {
+          "name": "Mika Nordberg",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mika Nordberg",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1975-07-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "johan.ehn@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 405 435 392"
+        },
+        {
+          "type": "twitter",
+          "value": "ehnjohan"
+        }
+      ],
+      "email": "johan.ehn@lagtinget.ax",
+      "gender": "male",
+      "given_name": "Johan",
+      "id": "a539ff7e-cc05-4dfe-b068-a5969a0d9538",
+      "identifiers": [
+        {
+          "identifier": "79",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0wy1x7l",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2378990",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/ehn_johan.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/ehn_johan.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Johan_Ehn_talar_vid_Nordiska_Radets_session_i_Helsingfors_2008-10-27.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Johan_Ehn"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Johan_Ehn"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Johan_Ehn"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ヨハン・エン"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Johan_Ehn"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ehnjohan"
+        }
+      ],
+      "name": "Ehn Johan",
+      "other_names": [
+        {
+          "name": "Johan Ehn",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヨハン・エン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Johan Ehn",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1965-01-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jorgen.pettersson@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 457 313 5640"
+        }
+      ],
+      "email": "jorgen.pettersson@lagtinget.ax",
+      "gender": "male",
+      "id": "acdcf89a-6477-4afd-a65e-9989bd2a1af4",
+      "identifiers": [
+        {
+          "identifier": "377",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/pettersson_gorgen.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/pettersson_gorgen.jpg"
+        }
+      ],
+      "name": "Pettersson Jörgen"
+    },
+    {
+      "birth_date": "1981",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ingrid.johansson@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 407 597 081"
+        }
+      ],
+      "email": "ingrid.johansson@lagtinget.ax",
+      "gender": "female",
+      "id": "b0a68ca9-8969-4d4b-b13d-8cc932256edb",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8976m.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8976m.jpg"
+        }
+      ],
+      "name": "Ingrid Johansson"
+    },
+    {
+      "birth_date": "1953-06-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "runar.karlsson@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 457 5221 609"
+        }
+      ],
+      "email": "runar.karlsson@lagtinget.ax",
+      "family_name": "Karlsson",
+      "gender": "male",
+      "given_name": "Runar",
+      "id": "b7892b68-4297-47ca-a4fa-00f343925655",
+      "identifiers": [
+        {
+          "identifier": "75",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/036ncm",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2160284",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/karlsson_runar.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/karlsson_runar.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Runar_Karlsson_talar_vid_Nordiska_Radets_session_i_Helsingfors_2008-10-27.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Runar_Karlsson"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Runar_Karlsson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Runar_Karlsson"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Runar_Karlsson"
+        }
+      ],
+      "name": "Karlsson Runar",
+      "other_names": [
+        {
+          "name": "Runar Karlsson",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Runar Karlsson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-09-07",
@@ -1330,705 +2870,89 @@
       ]
     },
     {
-      "birth_date": "1979-06-21",
+      "birth_date": "1969",
       "contact_details": [
         {
           "type": "email",
-          "value": "john.hilander@lagtinget.ax"
-        }
-      ],
-      "email": "john.hilander@lagtinget.ax",
-      "gender": "male",
-      "id": "294b101b-1db4-469e-9684-f3124f9cd061",
-      "identifiers": [
-        {
-          "identifier": "218",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/hillander_copy2.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/hillander_copy2.jpg"
-        }
-      ],
-      "name": "Hilander John"
-    },
-    {
-      "birth_date": "1966-02-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "igge.holmberg@lagtinget.ax"
+          "value": "pernilla.soderlund@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 405 898 300"
+          "value": "+358 457 526 7252"
         }
       ],
-      "email": "igge.holmberg@lagtinget.ax",
-      "gender": "male",
-      "id": "d65f8266-9315-47be-9c64-0f54625c6ddf",
-      "identifiers": [
-        {
-          "identifier": "375",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/holmberg_mikael.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/holmberg_mikael.jpg"
-        }
-      ],
-      "name": "Holmberg Igge"
-    },
-    {
-      "birth_date": "1969-03-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "annette.holmberg-jansson@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 313 4429"
-        }
-      ],
-      "email": "annette.holmberg-jansson@lagtinget.ax",
+      "email": "pernilla.soderlund@lagtinget.ax",
       "gender": "female",
-      "id": "212c44f3-e91d-48ad-9476-ad3ea8998ab6",
-      "identifiers": [
-        {
-          "identifier": "642",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Holmberg-Jansson Annette"
-    },
-    {
-      "birth_date": "1981",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ingrid.johansson@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 407 597 081"
-        }
-      ],
-      "email": "ingrid.johansson@lagtinget.ax",
-      "gender": "female",
-      "id": "b0a68ca9-8969-4d4b-b13d-8cc932256edb",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8976m.jpg",
+      "id": "bc2cf02e-a16f-42ba-ad65-bbb99c5e052b",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9145m.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8976m.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9145m.jpg"
         }
       ],
-      "name": "Ingrid Johansson"
+      "name": "Pernilla Söderlund"
     },
     {
-      "birth_date": "1944-06-25",
+      "birth_date": "1955-05-14",
       "contact_details": [
         {
           "type": "email",
-          "value": "gunnar.jansson@lagtinget.ax"
+          "value": "ake.mattson@lagtinget.ax"
         }
       ],
-      "email": "gunnar.jansson@lagtinget.ax",
-      "family_name": "Jansson",
+      "email": "ake.mattson@lagtinget.ax",
       "gender": "male",
-      "given_name": "Gunnar",
-      "id": "9dbf37cd-1a94-47f5-93ac-b7de0e34083b",
+      "given_name": "Åke",
+      "id": "c074f156-4e82-43ea-a999-2333b7b0f75c",
       "identifiers": [
         {
-          "identifier": "16650720m",
-          "scheme": "bnf"
-        },
-        {
-          "identifier": "148",
-          "scheme": "eduskunta"
-        },
-        {
-          "identifier": "62",
+          "identifier": "71",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "162787971",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q2270153",
+          "identifier": "Q11903305",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/jansson_gunnar.jpg",
+      "image": "http://www.lagtinget.ax/files/mattsson_ake.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/jansson_gunnar.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gunnarjansson.jpg"
+          "url": "http://www.lagtinget.ax/files/mattsson_ake.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Gunnar_Jansson"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Gunnar_Jansson_(homme_politique)"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Gunnar_Jansson"
+          "url": "https://fi.wikipedia.org/wiki/Åke_Mattsson"
         }
       ],
-      "name": "Jansson Gunnar",
+      "name": "Mattsson Åke",
       "other_names": [
         {
-          "name": "Gunnar Jansson",
+          "name": "Åke Mattsson",
           "note": "alternate"
         },
         {
           "lang": "en",
-          "name": "Gunnar Jansson",
+          "name": "Åke Mattsson",
           "note": "multilingual"
         },
         {
           "lang": "fi",
-          "name": "Gunnar Jansson",
+          "name": "Åke Mattsson",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Gunnar Jansson",
+          "name": "Åke Mattsson",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Gunnar Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Gunnar Jansson",
+          "name": "Åke Mattsson",
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "birth_date": "1959-10-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "harry.jansson@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 313 5296"
-        }
-      ],
-      "email": "harry.jansson@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Harry",
-      "id": "9969d9d7-ab81-4ab0-bd80-35e4c21d5b22",
-      "identifiers": [
-        {
-          "identifier": "81",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2160820",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/jansson_harry.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/jansson_harry.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Harry_Jansson_BSPC_19_Mariehamn_aland.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Harry_Jansson"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Harry_Jansson"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/ハリー・ヤンソン"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Harry_Jansson"
-        }
-      ],
-      "name": "Jansson Harry",
-      "other_names": [
-        {
-          "name": "Harry Jansson",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Harry Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Harry Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Harry Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ハリー・ヤンソン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Harry Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Harry Jansson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1943-08-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roger.jansson@lagtinget.ax"
-        }
-      ],
-      "email": "roger.jansson@lagtinget.ax",
-      "family_name": "Jansson",
-      "gender": "male",
-      "given_name": "Roger",
-      "id": "1ab91134-5837-430d-855d-6acfdce78d86",
-      "identifiers": [
-        {
-          "identifier": "780",
-          "scheme": "eduskunta"
-        },
-        {
-          "identifier": "69",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/034bw6",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q2356536",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/jansson_roger.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/jansson_roger.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Roger_Jansson.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Roger_Jansson"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Roger_Jansson"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/ロジャー・ヤンソン"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Янссон,_Рогер"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Roger_Jansson"
-        }
-      ],
-      "name": "Jansson Roger",
-      "other_names": [
-        {
-          "name": "Roger Jansson",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ロジャー・ヤンソン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Янссон, Рогер",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Roger Jansson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1967",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "john.holmberg@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 400 289 999"
-        }
-      ],
-      "email": "john.holmberg@lagtinget.ax",
-      "gender": "male",
-      "id": "f105a4a0-5fef-4be7-ab73-9376923491a7",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8979m.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8979m.jpg"
-        }
-      ],
-      "name": "John Holmberg"
-    },
-    {
-      "birth_date": "1992-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "axel.jonsson@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 3427 222"
-        }
-      ],
-      "email": "axel.jonsson@lagtinget.ax",
-      "gender": "male",
-      "id": "4116682f-f3c3-4514-a891-b9fe8afa245f",
-      "identifiers": [
-        {
-          "identifier": "376",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/jonsson_axel.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/jonsson_axel.jpg"
-        }
-      ],
-      "name": "Jonsson Axel"
-    },
-    {
-      "birth_date": "1953-06-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "runar.karlsson@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 5221 609"
-        }
-      ],
-      "email": "runar.karlsson@lagtinget.ax",
-      "family_name": "Karlsson",
-      "gender": "male",
-      "given_name": "Runar",
-      "id": "b7892b68-4297-47ca-a4fa-00f343925655",
-      "identifiers": [
-        {
-          "identifier": "75",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/036ncm",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q2160284",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/karlsson_runar.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/karlsson_runar.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Runar_Karlsson_talar_vid_Nordiska_Radets_session_i_Helsingfors_2008-10-27.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Runar_Karlsson"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Runar_Karlsson"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Runar_Karlsson"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Runar_Karlsson"
-        }
-      ],
-      "name": "Karlsson Runar",
-      "other_names": [
-        {
-          "name": "Runar Karlsson",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Runar Karlsson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1973-05-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fredrik.karlstrom@lagtinget.ax"
-        }
-      ],
-      "email": "fredrik.karlstrom@lagtinget.ax",
-      "family_name": "Karlström",
-      "gender": "male",
-      "given_name": "Fredrik",
-      "id": "a4194905-b544-441b-a58f-7d92681398cf",
-      "identifiers": [
-        {
-          "identifier": "82",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3371504",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/karlstrom_fredrik.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/karlstrom_fredrik.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fredrik_Karlström.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Fredrik_Karlström"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Fredrik_Karlström"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Fredrik_Karlström"
-        }
-      ],
-      "name": "Karlström Fredrik",
-      "other_names": [
-        {
-          "name": "Fredrik Karlström",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Fredrik Karlström",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Fredrik Karlström",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Fredrik Karlström",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Fredrik Karlström",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Fredrik Karlström",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Fredrik Karlström",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Fredrik Karlström",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1975-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sara.kemetter@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 505 897 569"
-        }
-      ],
-      "email": "sara.kemetter@lagtinget.ax",
-      "gender": "female",
-      "id": "e3c01d19-cdd8-407c-b52f-95eea87f2307",
-      "identifiers": [
-        {
-          "identifier": "424",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/kemetter_sara.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/kemetter_sara.jpg"
-        }
-      ],
-      "name": "Kemetter Sara"
-    },
-    {
-      "birth_date": "1946",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lars.haggblom@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 382 8380"
-        }
-      ],
-      "email": "lars.haggblom@lagtinget.ax",
-      "gender": "male",
-      "id": "eaaac66c-4f27-4be1-ab50-a1332d4ec7d7",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8842m.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8842m.jpg"
-        }
-      ],
-      "name": "Lars Häggblom"
     },
     {
       "birth_date": "1962-03-29",
@@ -2137,6 +3061,449 @@
       ]
     },
     {
+      "birth_date": "1949-07-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jan-erik.mattsson@lagtinget.ax"
+        }
+      ],
+      "email": "jan-erik.mattsson@lagtinget.ax",
+      "gender": "male",
+      "id": "c2e677f9-7320-45b6-88a4-32ef42ff1acc",
+      "identifiers": [
+        {
+          "identifier": "91",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5979988",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/mattsson_jan_erik.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/mattsson_jan_erik.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jan-Erik_Mattsson"
+        }
+      ],
+      "name": "Mattsson Jan-Erik",
+      "other_names": [
+        {
+          "name": "Jan-Erik Mattsson",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Jan-Erik Mattsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jan-Erik Mattsson",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1966-02-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "igge.holmberg@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 405 898 300"
+        }
+      ],
+      "email": "igge.holmberg@lagtinget.ax",
+      "gender": "male",
+      "id": "d65f8266-9315-47be-9c64-0f54625c6ddf",
+      "identifiers": [
+        {
+          "identifier": "375",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/holmberg_mikael.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/holmberg_mikael.jpg"
+        }
+      ],
+      "name": "Holmberg Igge"
+    },
+    {
+      "birth_date": "1944-02-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "olof.erland@lagtinget.ax"
+        }
+      ],
+      "email": "olof.erland@lagtinget.ax",
+      "gender": "male",
+      "given_name": "Olof",
+      "id": "d7a8d7c9-9019-4db4-8039-0941b7ab9e1a",
+      "identifiers": [
+        {
+          "identifier": "83",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4354820",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/erland_olof.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/erland_olof.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Oloferland2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olof_Erland"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Olof_Erland"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Olof_Erland"
+        }
+      ],
+      "name": "Erland Olof",
+      "other_names": [
+        {
+          "name": "Olof Erland",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Olof Erland",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1957-01-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anders.englund@agtinget.ax"
+        }
+      ],
+      "email": "anders.englund@agtinget.ax",
+      "family_name": "Englund",
+      "gender": "male",
+      "given_name": "Anders",
+      "id": "dd1cba32-c84c-4563-88a0-cb724a62ffce",
+      "identifiers": [
+        {
+          "identifier": "72",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2160399",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Anders_Englund"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Anders_Englund"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Anders_Englund"
+        }
+      ],
+      "name": "Englund Anders",
+      "other_names": [
+        {
+          "name": "Anders Englund",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Anders Englund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anders Englund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Anders Englund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anders Englund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anders Englund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Anders Englund",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1964-01-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "carina.aaltonen@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 405 645 102"
+        }
+      ],
+      "email": "carina.aaltonen@lagtinget.ax",
+      "gender": "female",
+      "given_name": "Carina",
+      "id": "e3aab23e-a883-4763-be0d-92e5936024e2",
+      "identifiers": [
+        {
+          "identifier": "47",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4934081",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/aaltonen_carina.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/aaltonen_carina.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Nordiska_radets_session_i_Helsingfors_(3)_(crop).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Carina_Aaltonen"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Carina_Aaltonen"
+        }
+      ],
+      "name": "Aaltonen Carina",
+      "other_names": [
+        {
+          "name": "Carina Aaltonen",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Carina Aaltonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "卡琳娜·阿爾托寧",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1975-09-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sara.kemetter@lagtinget.ax"
+        },
+        {
+          "type": "phone",
+          "value": "+358 505 897 569"
+        }
+      ],
+      "email": "sara.kemetter@lagtinget.ax",
+      "gender": "female",
+      "id": "e3c01d19-cdd8-407c-b52f-95eea87f2307",
+      "identifiers": [
+        {
+          "identifier": "424",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/kemetter_sara.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/kemetter_sara.jpg"
+        }
+      ],
+      "name": "Kemetter Sara"
+    },
+    {
+      "birth_date": "1946-03-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ulla-britt.dahl@lagtinget.ax"
+        }
+      ],
+      "email": "ulla-britt.dahl@lagtinget.ax",
+      "family_name": "Dahl",
+      "gender": "female",
+      "given_name": "Ulla-Britt",
+      "id": "e57828f1-e51a-41ea-a61b-7fc1b92e2b37",
+      "identifiers": [
+        {
+          "identifier": "109",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11899437",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lagtinget.ax/files/dahl_ulla_britt.jpg",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/dahl_ulla_britt.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ulla-Britt_Dahl"
+        }
+      ],
+      "name": "Dahl Ulla-Britt",
+      "other_names": [
+        {
+          "name": "Ulla-Britt Dahl",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ulla-Britt Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ulla-Britt Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ulla-Britt Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ulla-Britt Dahl",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ulla-Britt Dahl",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1956-06-20",
       "contact_details": [
         {
@@ -2200,910 +3567,50 @@
       ]
     },
     {
-      "birth_date": "1963-04-19",
+      "birth_date": "1957",
       "contact_details": [
         {
           "type": "email",
-          "value": "britt.lundberg@lagtinget.ax"
+          "value": "bert.haggblom@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 457 526 7450"
+          "value": "+358 457 526 7477"
         }
       ],
-      "email": "britt.lundberg@lagtinget.ax",
-      "family_name": "Lundberg",
-      "gender": "female",
-      "given_name": "Britt",
-      "id": "36915827-7b54-4f98-8f0a-a54db2a41136",
-      "identifiers": [
-        {
-          "identifier": "63",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/050yfq",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q2160390",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Britt_Lundberg"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Britt_Lundberg"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Britt_Lundberg"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Britt_Lundberg"
-        }
-      ],
-      "name": "Lundberg Britt",
-      "other_names": [
-        {
-          "name": "Britt Lundberg",
-          "note": "alternate"
-        },
-        {
-          "lang": "da",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fo",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "is",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "kl",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Britt Lundberg",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955-05-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "margaret.lundberg@lagtinget.ax"
-        }
-      ],
-      "email": "margaret.lundberg@lagtinget.ax",
-      "family_name": "Lundberg",
-      "gender": "female",
-      "given_name": "Margaret",
-      "id": "73c20499-0d12-4409-b430-1ae222d6bc4c",
-      "identifiers": [
-        {
-          "identifier": "110",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q11880849",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/lundberg_margaret.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/lundberg_margaret.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Margaret_Lundberg"
-        }
-      ],
-      "name": "Lundberg Margaret",
-      "other_names": [
-        {
-          "name": "Margaret Lundberg",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Margaret Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Margaret Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Margaret Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Margaret Lundberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Margaret Lundberg",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1949-07-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jan-erik.mattsson@lagtinget.ax"
-        }
-      ],
-      "email": "jan-erik.mattsson@lagtinget.ax",
+      "email": "bert.haggblom@lagtinget.ax",
       "gender": "male",
-      "id": "c2e677f9-7320-45b6-88a4-32ef42ff1acc",
-      "identifiers": [
-        {
-          "identifier": "91",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5979988",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/mattsson_jan_erik.jpg",
+      "id": "e787fced-a0c8-4c97-9c02-82198ff4a1c3",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8967m_mini.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/mattsson_jan_erik.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8967m_mini.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Jan-Erik_Mattsson"
-        }
-      ],
-      "name": "Mattsson Jan-Erik",
-      "other_names": [
-        {
-          "name": "Jan-Erik Mattsson",
-          "note": "alternate"
-        },
-        {
-          "lang": "nl",
-          "name": "Jan-Erik Mattsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Jan-Erik Mattsson",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Bert Häggblom"
     },
     {
-      "birth_date": "1955-05-14",
+      "birth_date": "1946",
       "contact_details": [
         {
           "type": "email",
-          "value": "ake.mattson@lagtinget.ax"
-        }
-      ],
-      "email": "ake.mattson@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Åke",
-      "id": "c074f156-4e82-43ea-a999-2333b7b0f75c",
-      "identifiers": [
-        {
-          "identifier": "71",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q11903305",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/mattsson_ake.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/mattsson_ake.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Åke_Mattsson"
-        }
-      ],
-      "name": "Mattsson Åke",
-      "other_names": [
-        {
-          "name": "Åke Mattsson",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Åke Mattsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Åke Mattsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Åke Mattsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Åke Mattsson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1969",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mikael.lindholm@lagtinget.ax"
+          "value": "lars.haggblom@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 400 783 086"
+          "value": "+358 457 382 8380"
         }
       ],
-      "email": "mikael.lindholm@lagtinget.ax",
+      "email": "lars.haggblom@lagtinget.ax",
       "gender": "male",
-      "id": "85f603f2-090d-4096-9c01-fd20b05caa56",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9003m.jpg",
+      "id": "eaaac66c-4f27-4be1-ab50-a1332d4ec7d7",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8842m.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9003m.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8842m.jpg"
         }
       ],
-      "name": "Mikael Lindholm"
-    },
-    {
-      "birth_date": "1961",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mikael.staffas@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 400 539 510"
-        }
-      ],
-      "email": "mikael.staffas@lagtinget.ax",
-      "gender": "male",
-      "id": "56e2d431-f22d-4f47-83b4-3bb88c61d7bb",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9582.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9582.jpg"
-        }
-      ],
-      "name": "Mikael Staffas"
-    },
-    {
-      "birth_date": "1973-06-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mika.nordberg@lagtinget.ax"
-        }
-      ],
-      "email": "mika.nordberg@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Mika",
-      "id": "a41f0372-a0b2-422a-b9f5-a04698a8205e",
-      "identifiers": [
-        {
-          "identifier": "90",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q11882586",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/nordberg_mika.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/nordberg_mika.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Mika_Nordberg"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Mika_Nordberg"
-        }
-      ],
-      "name": "Nordberg Mika",
-      "other_names": [
-        {
-          "name": "Mika Nordberg",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Mika Nordberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Mika Nordberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mika Nordberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Mika Nordberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Mika Nordberg",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1957-11-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roger.nordlund@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 522 1605"
-        }
-      ],
-      "email": "roger.nordlund@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Roger",
-      "id": "7e3b4661-2fe0-4f15-9970-86b98701dee1",
-      "identifiers": [
-        {
-          "identifier": "66",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/02m760",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q713308",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/nordlund_roger.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/nordlund_roger.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Roger_Nordlund,_alands_landskapsregering.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Roger_Nordlund"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Roger_Nordlund"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Roger_Nordlund"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Roger_Nordlund"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/ロジャー・ノードランド"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Нордлунд,_Рогер"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Roger_Nordlund"
-        }
-      ],
-      "name": "Nordlund Roger",
-      "other_names": [
-        {
-          "name": "Roger Nordlund",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ロジャー・ノードランド",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Нордлунд, Рогер",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Roger Nordlund",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1969",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pernilla.soderlund@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 526 7252"
-        }
-      ],
-      "email": "pernilla.soderlund@lagtinget.ax",
-      "gender": "female",
-      "id": "bc2cf02e-a16f-42ba-ad65-bbb99c5e052b",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9145m.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9145m.jpg"
-        }
-      ],
-      "name": "Pernilla Söderlund"
-    },
-    {
-      "birth_date": "1964-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mats.peramaa@lagtinget.ax"
-        }
-      ],
-      "email": "mats.peramaa@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Mats",
-      "id": "884b6d85-564f-4f43-9e37-d5306e241cc5",
-      "identifiers": [
-        {
-          "identifier": "77",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2269253",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/peramaa_mats.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/peramaa_mats.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Mats_Perämaa"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Mats_Perämaa"
-        }
-      ],
-      "name": "Perämaa Mats",
-      "other_names": [
-        {
-          "name": "Mats Perämaa",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Mats Perämaa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Mats Perämaa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mats Perämaa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Mats Perämaa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Mats Perämaa",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1965-01-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jorgen.pettersson@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 457 313 5640"
-        }
-      ],
-      "email": "jorgen.pettersson@lagtinget.ax",
-      "gender": "male",
-      "id": "acdcf89a-6477-4afd-a65e-9989bd2a1af4",
-      "identifiers": [
-        {
-          "identifier": "377",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/pettersson_gorgen.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/pettersson_gorgen.jpg"
-        }
-      ],
-      "name": "Pettersson Jörgen"
-    },
-    {
-      "birth_date": "1960-07-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roger.eriksson@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 405 942 754"
-        }
-      ],
-      "email": "roger.eriksson@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Roger",
-      "id": "91e57380-374c-4173-b318-ac2fb765a5fc",
-      "identifiers": [
-        {
-          "identifier": "Q5717272",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Roger_Eriksson_vid_Nordiska_Radets_session_i_Stockholm_2009.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Roger_Eriksson"
-        }
-      ],
-      "name": "Roger Eriksson",
-      "other_names": [
-        {
-          "lang": "nl",
-          "name": "Roger Eriksson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Roger Eriksson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1952-03-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jan.salmen@lagtinget.ax"
-        }
-      ],
-      "email": "jan.salmen@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Jan",
-      "id": "5049236d-df09-43ab-a843-b9c910603479",
-      "identifiers": [
-        {
-          "identifier": "111",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16990321",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/salmen_jan.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/salmen_jan.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Jan_Salmén"
-        }
-      ],
-      "name": "Salmén Jan",
-      "other_names": [
-        {
-          "name": "Jan Salmén",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Jan Salmén",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Jan Salmén",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Jan Salmén",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Jan Salmén",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1966-02-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "katrin.sjogrenoch@lagtinget.ax"
-        },
-        {
-          "type": "twitter",
-          "value": "ksjgren"
-        }
-      ],
-      "email": "katrin.sjogrenoch@lagtinget.ax",
-      "gender": "female",
-      "given_name": "Katrin",
-      "id": "10995076-8cb9-43a8-b1e0-ed1af900ed70",
-      "identifiers": [
-        {
-          "identifier": "68",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2269243",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/sjogren_katrin.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/sjogren_katrin.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Katrin_Sjogren_vid_Nordiska_Radets_session_pa_Island_2010-11-04.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Κατρίν_Σιόγκρεν"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Katrin_Sjögren"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/カトリン・シェーグレン"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Шёгрен,_Катрин"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Katrin_Sjögren"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/凱撒琳·舍格倫"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/ksjgren"
-        }
-      ],
-      "name": "Sjögren Katrin",
-      "other_names": [
-        {
-          "name": "Katrin Sjögren",
-          "note": "alternate"
-        },
-        {
-          "lang": "el",
-          "name": "Κατρίν Σιόγκρεν",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Katrin Sjögren",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Katrin Sjögren",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Katrin Sjögren",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "カトリン・シェーグレン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Katrin Sjögren",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Шёгрен, Катрин",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Katrin Sjögren",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "凱撒琳·舍格倫",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Lars Häggblom"
     },
     {
       "birth_date": "1943-12-16",
@@ -3179,330 +3686,52 @@
       ]
     },
     {
-      "birth_date": "1944-06-28",
+      "birth_date": "1967",
       "contact_details": [
         {
           "type": "email",
-          "value": "leo.sjostrand@lagtinget.ax"
-        }
-      ],
-      "email": "leo.sjostrand@lagtinget.ax",
-      "family_name": "Sjöstrand",
-      "gender": "male",
-      "given_name": "Leo",
-      "id": "74f795c8-c159-4c18-b2e5-bfbf58502c29",
-      "identifiers": [
-        {
-          "identifier": "86",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16983862",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/sjostrand_leo.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/sjostrand_leo.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Leo_Sjöstrand"
-        }
-      ],
-      "name": "Sjöstrand Leo",
-      "other_names": [
-        {
-          "name": "Leo Sjöstrand",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Leo Sjöstrand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Leo Sjöstrand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Leo Sjöstrand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Leo Sjöstrand",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1944-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roger.slotte@lagtinget.ax"
-        }
-      ],
-      "email": "roger.slotte@lagtinget.ax",
-      "gender": "male",
-      "given_name": "Roger",
-      "id": "25ac9df5-73ca-446b-8bc3-d91b80b7909b",
-      "identifiers": [
-        {
-          "identifier": "87",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2160406",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/slotte_roger.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/slotte_roger.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Roger_Slotte"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Roger_Slotte"
-        }
-      ],
-      "name": "Slotte Roger",
-      "other_names": [
-        {
-          "name": "Roger Slotte",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Roger Slotte",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Roger Slotte",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Roger Slotte",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Roger Slotte",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stephan.toivonen@lagtinget.ax"
+          "value": "john.holmberg@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 400 560 056"
+          "value": "+358 400 289 999"
         }
       ],
-      "email": "stephan.toivonen@lagtinget.ax",
+      "email": "john.holmberg@lagtinget.ax",
       "gender": "male",
-      "id": "5ac098ff-5814-4362-b699-3304097997dc",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9158m.jpg",
+      "id": "f105a4a0-5fef-4be7-ab73-9376923491a7",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8979m.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9158m.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8979m.jpg"
         }
       ],
-      "name": "Stephan Toivonen"
+      "name": "John Holmberg"
     },
     {
-      "birth_date": "1962-03-15",
+      "birth_date": "1968-09-15",
       "contact_details": [
         {
           "type": "email",
-          "value": "jorgen.strand@lagtinget.ax"
+          "value": "tony.asumaa@lagtinget.ax"
         }
       ],
-      "email": "jorgen.strand@lagtinget.ax",
-      "family_name": "Strand",
+      "email": "tony.asumaa@lagtinget.ax",
       "gender": "male",
-      "given_name": "Jörgen",
-      "id": "7efe27f8-e3a4-4ac2-8daf-f49bdca45ab9",
+      "id": "f4f995ae-126c-468f-8f26-deec1e26adc2",
       "identifiers": [
         {
-          "identifier": "89",
+          "identifier": "372",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/02mgr6",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q4354530",
-          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lagtinget.ax/files/strand_jorgen.jpg",
+      "image": "http://www.lagtinget.ax/files/asumaa_tony.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/strand_jorgen.jpg"
+          "url": "http://www.lagtinget.ax/files/asumaa_tony.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Jörgen_Strand"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Jörgen_Strand"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Jörgen_Strand"
-        }
-      ],
-      "name": "Strand Jörgen",
-      "other_names": [
-        {
-          "name": "Jörgen Strand",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Jörgen Strand",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1945-12-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "barbro.sundback@lagtinget.ax"
-        }
-      ],
-      "email": "barbro.sundback@lagtinget.ax",
-      "gender": "female",
-      "given_name": "Barbro",
-      "id": "3392297b-d394-4b04-a858-3738b2931335",
-      "identifiers": [
-        {
-          "identifier": "67",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "287123537",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q2270143",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/sundback_barbro.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/sundback_barbro.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Barbro_Sundback"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Barbro_Sundback"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Barbro_Sundback"
-        }
-      ],
-      "name": "Sundback Barbro",
-      "other_names": [
-        {
-          "name": "Barbro Sundback",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Barbro Sundback",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Barbro Sundback",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Barbro Sundback",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Barbro Sundback",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Barbro Sundback",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Asumaa Tony"
     },
     {
       "birth_date": "1951-09-15",
@@ -3584,256 +3813,27 @@
       ]
     },
     {
-      "birth_date": "1973-12-06",
+      "birth_date": "1978",
       "contact_details": [
         {
           "type": "email",
-          "value": "danne.sundman@lagtinget.ax"
-        }
-      ],
-      "email": "danne.sundman@lagtinget.ax",
-      "gender": "male",
-      "id": "4519dd08-5c45-4324-a257-591aaa03c3e8",
-      "identifiers": [
-        {
-          "identifier": "74",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/036ndb",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q2269658",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/sundman_danne.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/sundman_danne.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Danne_Sundman"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Danne_Sundman"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Danne_Sundman"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Dan-Anders_Sundman"
-        }
-      ],
-      "name": "Sundman Danne",
-      "other_names": [
-        {
-          "name": "Dan-Anders Sundman",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Danne Sundman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Dan-Anders Sundman",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tage.silander@lagtinget.ax"
+          "value": "fredrik.fredlund@lagtinget.ax"
         },
         {
           "type": "phone",
-          "value": "+358 400 626 400"
+          "value": "+358 408 129 782"
         }
       ],
-      "email": "tage.silander@lagtinget.ax",
+      "email": "fredrik.fredlund@lagtinget.ax",
       "gender": "male",
-      "id": "3608c81b-d668-4c5e-9e9e-c5a5633c603f",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9179m.jpg",
+      "id": "ff7b67a7-d3bf-4179-801d-7005059524e6",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8847m.jpg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9179m.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8847m.jpg"
         }
       ],
-      "name": "Tage Silander"
-    },
-    {
-      "birth_date": "1972",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tony.wikstrom@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 405 873 417"
-        }
-      ],
-      "email": "tony.wikstrom@lagtinget.ax",
-      "gender": "male",
-      "id": "2f82348b-7b10-40d0-8d5a-6cac08845895",
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9134m.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9134m.jpg"
-        }
-      ],
-      "name": "Tony Wikström"
-    },
-    {
-      "birth_date": "1962-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "veronica.thornroos@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 405 003 374"
-        }
-      ],
-      "email": "veronica.thornroos@lagtinget.ax",
-      "gender": "female",
-      "given_name": "Veronica",
-      "id": "2c5d2e49-268b-49a6-990c-d77d14c2f5ad",
-      "identifiers": [
-        {
-          "identifier": "Q4982779",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Veronica_Thornroos_vid_Nordiska_radets_session_i_Reykjavik_2010.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Veronica_Thörnroos"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Veronica_Thörnroos"
-        }
-      ],
-      "name": "Veronica Thörnroos",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Veronica Thörnroos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Veronica Thörnroos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Veronica Thörnroos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Veronica Thörnroos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Veronica Thörnroos",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Veronica Thörnroos",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1968-01-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gote.wine@lagtinget.ax"
-        },
-        {
-          "type": "phone",
-          "value": "+358 405 169 639"
-        }
-      ],
-      "email": "gote.wine@lagtinget.ax",
-      "gender": "male",
-      "id": "58467ee7-696f-4c46-91c8-7ac4110e9d32",
-      "identifiers": [
-        {
-          "identifier": "379",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.lagtinget.ax/files/GteWin.jpg",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/GteWin.jpg"
-        }
-      ],
-      "name": "Winé Göte"
+      "name": "Fredrik Fredlund"
     }
   ],
   "organizations": [

@@ -4,100 +4,26 @@
   ],
   "persons": [
     {
-      "id": "8dcba797-399f-4240-831a-8fc90fd8aca5",
-      "identifiers": [
-        {
-          "identifier": "alvera_maduro-caines",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Alvera Maduro-Caines"
-    },
-    {
       "gender": "male",
-      "id": "8db45da9-a003-4aeb-9e35-0c36e443ed5d",
+      "id": "024a0ef2-4f9f-4313-b8ea-1f908a89b57b",
       "identifiers": [
         {
-          "identifier": "andrew_a._fahie",
+          "identifier": "melvin_turnbull_jr.",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Andrew A. Fahie"
+      "name": "Melvin Turnbull Jr."
     },
     {
-      "gender": "male",
-      "id": "dc944068-7512-4f8f-8fe5-f7ac7aa4fd2c",
-      "identifiers": [
-        {
-          "identifier": "andrew_fahie",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Andrew Fahie"
-    },
-    {
-      "gender": "male",
-      "id": "aaea5f10-fbad-4b98-bf8d-752c43f218bf",
-      "identifiers": [
-        {
-          "identifier": "archibald_christian",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Archibald Christian"
-    },
-    {
-      "birth_date": "1951",
       "gender": "female",
-      "id": "defc1c6e-32e8-406c-a9e4-121591629935",
+      "id": "235920a6-cae7-4831-b318-876f0b88312f",
       "identifiers": [
         {
-          "identifier": "dancia_penn",
+          "identifier": "irene_penn-o'neal",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5215432",
-          "scheme": "wikidata"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Dancia_Penn"
-        }
-      ],
-      "name": "Dancia Penn-Sallah",
-      "other_names": [
-        {
-          "name": "Dancia Penn",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Dancia Penn",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Dancia Penn",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Dancia Penn",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Dancia Penn",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Dancia Penn",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Irene Penn-O'Neal"
     },
     {
       "id": "4843254c-d333-49ef-baf8-3d6b890edbef",
@@ -108,6 +34,16 @@
         }
       ],
       "name": "Delores Christopher"
+    },
+    {
+      "id": "63fe34ba-0afa-4a94-a867-9e32e0832d09",
+      "identifiers": [
+        {
+          "identifier": "kedrick_pickering",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kedrick Pickering"
     },
     {
       "gender": "male",
@@ -122,25 +58,99 @@
     },
     {
       "gender": "male",
-      "id": "e53b639d-9ab9-4e91-8ecc-7927c2229c08",
+      "id": "6a2779c4-c3b2-49c0-a01c-9f5efb87a0ee",
       "identifiers": [
         {
-          "identifier": "hubert_o'neal",
+          "identifier": "vernon_elroy_malone",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Hubert O'Neal"
+      "name": "Vernon Elroy Malone"
     },
     {
-      "gender": "female",
-      "id": "235920a6-cae7-4831-b318-876f0b88312f",
+      "gender": "male",
+      "given_name": "Omar",
+      "id": "81f88509-2663-4150-a8b7-7ee54f11e669",
       "identifiers": [
         {
-          "identifier": "irene_penn-o'neal",
+          "identifier": "omar_hodge",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16844111",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Omar_Hodge"
+        }
+      ],
+      "name": "Omar Wallace Hodge",
+      "other_names": [
+        {
+          "name": "Omar Hodge",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Omar Hodge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Omar Hodge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Omar Hodge",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "874b8f2b-5e30-461c-af74-6d89a60b430c",
+      "identifiers": [
+        {
+          "identifier": "mark_vanterpool",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Irene Penn-O'Neal"
+      "name": "Mark Vanterpool"
+    },
+    {
+      "gender": "male",
+      "id": "8db45da9-a003-4aeb-9e35-0c36e443ed5d",
+      "identifiers": [
+        {
+          "identifier": "andrew_a._fahie",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Andrew A. Fahie"
+    },
+    {
+      "id": "8dcba797-399f-4240-831a-8fc90fd8aca5",
+      "identifiers": [
+        {
+          "identifier": "alvera_maduro-caines",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Alvera Maduro-Caines"
+    },
+    {
+      "id": "8fb0fe41-5c98-4c1e-bec7-b206f84120c4",
+      "identifiers": [
+        {
+          "identifier": "marlon_penn",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Marlon Penn"
     },
     {
       "gender": "male",
@@ -227,57 +237,15 @@
       ]
     },
     {
-      "id": "63fe34ba-0afa-4a94-a867-9e32e0832d09",
-      "identifiers": [
-        {
-          "identifier": "kedrick_pickering",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Kedrick Pickering"
-    },
-    {
       "gender": "male",
-      "id": "e3a6a650-02a8-4f19-ab14-0e95b9b0149d",
+      "id": "aaea5f10-fbad-4b98-bf8d-752c43f218bf",
       "identifiers": [
         {
-          "identifier": "keith_l._flax",
+          "identifier": "archibald_christian",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Keith L. Flax"
-    },
-    {
-      "gender": "male",
-      "id": "874b8f2b-5e30-461c-af74-6d89a60b430c",
-      "identifiers": [
-        {
-          "identifier": "mark_vanterpool",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Mark Vanterpool"
-    },
-    {
-      "id": "8fb0fe41-5c98-4c1e-bec7-b206f84120c4",
-      "identifiers": [
-        {
-          "identifier": "marlon_penn",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Marlon Penn"
-    },
-    {
-      "gender": "male",
-      "id": "024a0ef2-4f9f-4313-b8ea-1f908a89b57b",
-      "identifiers": [
-        {
-          "identifier": "melvin_turnbull_jr.",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Melvin Turnbull Jr."
+      "name": "Archibald Christian"
     },
     {
       "birth_date": "1972-02-22",
@@ -310,49 +278,6 @@
         {
           "lang": "en",
           "name": "Myron Walwyn",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "given_name": "Omar",
-      "id": "81f88509-2663-4150-a8b7-7ee54f11e669",
-      "identifiers": [
-        {
-          "identifier": "omar_hodge",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16844111",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Omar_Hodge"
-        }
-      ],
-      "name": "Omar Wallace Hodge",
-      "other_names": [
-        {
-          "name": "Omar Hodge",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Omar Hodge",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Omar Hodge",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Omar Hodge",
           "note": "multilingual"
         }
       ]
@@ -464,6 +389,70 @@
         {
           "lang": "zh-hant",
           "name": "奧蘭多·史密斯",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "dc944068-7512-4f8f-8fe5-f7ac7aa4fd2c",
+      "identifiers": [
+        {
+          "identifier": "andrew_fahie",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Andrew Fahie"
+    },
+    {
+      "birth_date": "1951",
+      "gender": "female",
+      "id": "defc1c6e-32e8-406c-a9e4-121591629935",
+      "identifiers": [
+        {
+          "identifier": "dancia_penn",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5215432",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dancia_Penn"
+        }
+      ],
+      "name": "Dancia Penn-Sallah",
+      "other_names": [
+        {
+          "name": "Dancia Penn",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dancia Penn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dancia Penn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dancia Penn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dancia Penn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dancia Penn",
           "note": "multilingual"
         }
       ]
@@ -751,25 +740,25 @@
     },
     {
       "gender": "male",
-      "id": "f40dbe2a-00e0-40d1-91d5-a5c2a8f8b2e9",
+      "id": "e3a6a650-02a8-4f19-ab14-0e95b9b0149d",
       "identifiers": [
         {
-          "identifier": "ronnie_skelton",
+          "identifier": "keith_l._flax",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Ronnie Skelton"
+      "name": "Keith L. Flax"
     },
     {
       "gender": "male",
-      "id": "6a2779c4-c3b2-49c0-a01c-9f5efb87a0ee",
+      "id": "e53b639d-9ab9-4e91-8ecc-7927c2229c08",
       "identifiers": [
         {
-          "identifier": "vernon_elroy_malone",
+          "identifier": "hubert_o'neal",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Vernon Elroy Malone"
+      "name": "Hubert O'Neal"
     },
     {
       "gender": "male",
@@ -781,6 +770,17 @@
         }
       ],
       "name": "Vincent Gregory Scatliffe"
+    },
+    {
+      "gender": "male",
+      "id": "f40dbe2a-00e0-40d1-91d5-a5c2a8f8b2e9",
+      "identifiers": [
+        {
+          "identifier": "ronnie_skelton",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ronnie Skelton"
     }
   ],
   "organizations": [

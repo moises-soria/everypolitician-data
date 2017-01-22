@@ -4,260 +4,117 @@
   ],
   "persons": [
     {
-      "id": "dd11dc41-556c-4f00-8bcd-f0c23889c531",
+      "id": "017a8605-ef8a-4bb1-abfa-8bd99565dcb0",
       "identifiers": [
         {
-          "identifier": "aleksandar-nikoloski",
+          "identifier": "risto-mancev",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg"
         }
       ],
-      "name": "Aleksandar Nikoloski"
+      "name": "Risto Mancev"
     },
     {
-      "id": "d8eca104-e8a1-487d-a734-1e0988b130ae",
+      "id": "01c8ec58-bc48-47ed-b21c-12ffdddcca68",
       "identifiers": [
         {
-          "identifier": "aleksandar-stojkoski",
+          "identifier": "shpresa-hadri",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg"
         }
       ],
-      "name": "Aleksandar Stojkoski"
+      "name": "Shpresa Hadri"
     },
     {
-      "id": "31be7a64-8b23-4a10-844a-ef23bf410cc4",
+      "birth_date": "1952-12-25",
+      "gender": "male",
+      "id": "02df0c53-8b1f-4045-b46e-1a6845362508",
       "identifiers": [
         {
-          "identifier": "ali-ahmeti",
+          "identifier": "pavle-trajanov",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3403101",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg"
         }
       ],
-      "name": "Ali Ahmeti"
-    },
-    {
-      "id": "8756cf1a-8d61-4f38-8c55-384aa5946214",
-      "identifiers": [
+      "links": [
         {
-          "identifier": "alim-bilali",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg",
-      "images": [
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Павле_Траянов"
+        },
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg"
-        }
-      ],
-      "name": "Alim Bilali"
-    },
-    {
-      "id": "6316072d-5a99-4432-8ba0-568d84bb2c03",
-      "identifiers": [
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Pavle_Trajanov"
+        },
         {
-          "identifier": "amdi-bajram",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg",
-      "images": [
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Павле_Трајанов"
+        },
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg"
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Траянов,_Павле"
         }
       ],
-      "name": "Amdi Bajram"
-    },
-    {
-      "id": "b9f39c23-6276-45e5-8e1d-cbe1c3db44ce",
-      "identifiers": [
+      "name": "Pavle Trajanov",
+      "other_names": [
         {
-          "identifier": "andon-cibisev",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg",
-      "images": [
+          "name": "Павле Трајанов",
+          "note": "alternate"
+        },
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg"
-        }
-      ],
-      "name": "Andon Cibisev"
-    },
-    {
-      "id": "ebbe68a8-dc10-4002-acd3-56dd3cfea49c",
-      "identifiers": [
+          "lang": "bg",
+          "name": "Павле Траянов",
+          "note": "multilingual"
+        },
         {
-          "identifier": "ane-laskoska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg",
-      "images": [
+          "lang": "en",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg"
-        }
-      ],
-      "name": "Ane Laskoska"
-    },
-    {
-      "id": "851fa6cc-6dff-4f8b-8e65-3821b012f44e",
-      "identifiers": [
+          "lang": "ie",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
         {
-          "identifier": "antonijo-milososki",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg",
-      "images": [
+          "lang": "mk",
+          "name": "Павле Трајанов",
+          "note": "multilingual"
+        },
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg"
-        }
-      ],
-      "name": "Antonijo Milososki"
-    },
-    {
-      "id": "0a25e3b6-8a44-4bb5-829c-97614a87c4dd",
-      "identifiers": [
+          "lang": "nb",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
         {
-          "identifier": "artan-grubi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%2520sliki%252014-18/A.Grubi.jpg",
-      "images": [
+          "lang": "nn",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
         {
-          "url": "http://sobranie.mk/content/images/pratenici%2520sliki%252014-18/A.Grubi.jpg"
+          "lang": "ru",
+          "name": "Траянов, Павле",
+          "note": "multilingual"
         }
-      ],
-      "name": "Artan Grubi"
-    },
-    {
-      "id": "a3143a3c-a022-43de-bb0c-5d2531184477",
-      "identifiers": [
-        {
-          "identifier": "avdija-pepik",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg"
-        }
-      ],
-      "name": "Avdija Pepik"
-    },
-    {
-      "id": "2c112b5b-8b91-43dd-8ca5-aa8264a7059d",
-      "identifiers": [
-        {
-          "identifier": "bekim-fazliu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Bekim-Fazliu.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Bekim-Fazliu.jpg"
-        }
-      ],
-      "name": "Bekim Fazliu"
-    },
-    {
-      "id": "27fc3c43-5400-4889-a853-b86cc08e0e9b",
-      "identifiers": [
-        {
-          "identifier": "blagica-lasovska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagica-Lasovska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagica-Lasovska.jpg"
-        }
-      ],
-      "name": "Blagica Lasovska"
-    },
-    {
-      "id": "fc7412a1-acd0-40fe-98d2-64ce753aca21",
-      "identifiers": [
-        {
-          "identifier": "blagoja-despotovski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagoja-Despotovski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagoja-Despotovski.jpg"
-        }
-      ],
-      "name": "Blagoja Despotovski"
-    },
-    {
-      "id": "4b1526a9-6d6c-4b39-b127-9debb8314f7c",
-      "identifiers": [
-        {
-          "identifier": "blagorodna-bojadzieva",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg"
-        }
-      ],
-      "name": "Blagorodna Bojadzieva"
-    },
-    {
-      "id": "b0ef4a95-79fb-4243-9beb-1367fd4f255b",
-      "identifiers": [
-        {
-          "identifier": "chedomir-sazdovski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg"
-        }
-      ],
-      "name": "Chedomir Sazdovski"
-    },
-    {
-      "id": "fc6daa63-6136-44f1-a8ef-352f1a80a80d",
-      "identifiers": [
-        {
-          "identifier": "daniela-rangelova",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg"
-        }
-      ],
-      "name": "Daniela Rangelova"
+      ]
     },
     {
       "id": "046fad6d-206a-4848-8b1f-327894630cb9",
@@ -276,444 +133,20 @@
       "name": "Dimitar Stevanandzija"
     },
     {
-      "id": "b7ec31ee-6130-4919-ad5e-78bf8f7bfe36",
+      "id": "06a33f60-abba-408c-94d7-4a17dac91711",
       "identifiers": [
         {
-          "identifier": "dragan-cuklev",
+          "identifier": "redzailj-ismaili",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg"
         }
       ],
-      "name": "Dragan Cuklev"
-    },
-    {
-      "id": "8ac4af5c-cd6c-44a2-9c4f-78ae3bee62a5",
-      "identifiers": [
-        {
-          "identifier": "dragan-danev",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg"
-        }
-      ],
-      "name": "Dragan Danev"
-    },
-    {
-      "id": "0e0a1dd0-dd8a-4aad-8c9c-819d03bdae69",
-      "identifiers": [
-        {
-          "identifier": "ejup-rustemi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg"
-        }
-      ],
-      "name": "Ejup Rustemi"
-    },
-    {
-      "id": "f2b6e36a-f92a-4d3f-9599-a53ae789b021",
-      "identifiers": [
-        {
-          "identifier": "emil-dimitriev",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg"
-        }
-      ],
-      "name": "Emil Dimitriev"
-    },
-    {
-      "id": "71600864-6d7b-4faa-bd9a-faa89f06a4d8",
-      "identifiers": [
-        {
-          "identifier": "ermira-mehmeti",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg"
-        }
-      ],
-      "name": "Ermira Mehmeti"
-    },
-    {
-      "id": "a5b562ff-87c0-47f0-bcd4-a90cf91004df",
-      "identifiers": [
-        {
-          "identifier": "ernad-fejzula",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Ernad-Fejzula.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Ernad-Fejzula.jpg"
-        }
-      ],
-      "name": "Ernad Fejzula"
-    },
-    {
-      "id": "64384263-11f6-4928-a7fa-a18a33b68b92",
-      "identifiers": [
-        {
-          "identifier": "fatmir-imeroski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg"
-        }
-      ],
-      "name": "Fatmir Imeroski"
-    },
-    {
-      "id": "1379e9f8-4f2e-46ca-8f84-6651087132ab",
-      "identifiers": [
-        {
-          "identifier": "gazmend-aliji",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg"
-        }
-      ],
-      "name": "Gazmend Aliji"
-    },
-    {
-      "id": "e09704a6-4601-4898-b4c0-f991c79a4bcd",
-      "identifiers": [
-        {
-          "identifier": "gjoko-kamcev",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg"
-        }
-      ],
-      "name": "Gjoko Kamcev"
-    },
-    {
-      "id": "69d80493-08f8-401c-af92-e5b18b0a3a18",
-      "identifiers": [
-        {
-          "identifier": "gjorgji-kodzabasiev",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg"
-        }
-      ],
-      "name": "Gjorgji Kodzabasiev"
-    },
-    {
-      "id": "945e9702-ce37-4f29-b59f-8181437f14ef",
-      "identifiers": [
-        {
-          "identifier": "hazbi-ljika",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg"
-        }
-      ],
-      "name": "Hazbi LJika"
-    },
-    {
-      "id": "d482e080-b0ff-486b-b3cc-4b934804cd7f",
-      "identifiers": [
-        {
-          "identifier": "ilija-dimovski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg"
-        }
-      ],
-      "name": "Ilija Dimovski"
-    },
-    {
-      "birth_date": "1977-03-26",
-      "gender": "male",
-      "id": "e09bc82f-a3a9-406e-bcaa-b996a00bb620",
-      "identifiers": [
-        {
-          "identifier": "imer-aliu",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3408284",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Imer-Aliu.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Imer-Aliu.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Имер_Алиу"
-        },
-        {
-          "note": "Wikipedia (mk)",
-          "url": "https://mk.wikipedia.org/wiki/Имер_Алиу"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Имер_Алију"
-        }
-      ],
-      "name": "Imer Aliu",
-      "other_names": [
-        {
-          "name": "Имер Алиу",
-          "note": "alternate"
-        },
-        {
-          "lang": "bg",
-          "name": "Имер Алиу",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Imer Aliu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mk",
-          "name": "Имер Алиу",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Imer Aliu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Imer Aliu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Imer Aliu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Имер Алију",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-ec",
-          "name": "Имер Алију",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-el",
-          "name": "Imer Aliju",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "40172fe5-7606-483c-9a20-80eae9068781",
-      "identifiers": [
-        {
-          "identifier": "ivan-ivanov",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg"
-        }
-      ],
-      "name": "Ivan Ivanov"
-    },
-    {
-      "birth_date": "1962-02-15",
-      "gender": "male",
-      "given_name": "Ivan",
-      "id": "9c44a801-17a5-4c9d-8280-3a91dfda77a4",
-      "identifiers": [
-        {
-          "identifier": "ivan-stoilkovik",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12281220",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Stoilkovik.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Stoilkovik.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Иван_Стоилковиќ.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Иван_Стоилкович"
-        },
-        {
-          "note": "Wikipedia (mk)",
-          "url": "https://mk.wikipedia.org/wiki/Иван_Стоилковиќ"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Иван_Стоилковић"
-        }
-      ],
-      "name": "Ivan Stoilkovik",
-      "other_names": [
-        {
-          "name": "Иван Стоилковиќ",
-          "note": "alternate"
-        },
-        {
-          "lang": "bg",
-          "name": "Иван Стоилкович",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ivan Stoiljkovik",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mk",
-          "name": "Иван Стоилковиќ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Ivan Stoilkovikj",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ivan Stoiljkovik",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Ivan Stoilkovikj",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Иван Стоилковић",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "1358ca20-9245-47ed-aa2a-6ef38acc56a2",
-      "identifiers": [
-        {
-          "identifier": "jamin-sinani",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg"
-        }
-      ],
-      "name": "Jamin Sinani"
-    },
-    {
-      "id": "efa8539f-cb81-4188-a5c8-b68a2920fb6a",
-      "identifiers": [
-        {
-          "identifier": "jasminka-damceska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg"
-        }
-      ],
-      "name": "Jasminka Damceska"
-    },
-    {
-      "id": "210aae99-bec4-4ab2-9a8d-a4722b22d8e6",
-      "identifiers": [
-        {
-          "identifier": "kaltrina-azizi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg"
-        }
-      ],
-      "name": "Kaltrina Azizi"
-    },
-    {
-      "id": "b1b5ca60-2848-478e-8189-21ae7279f97b",
-      "identifiers": [
-        {
-          "identifier": "kenan-hasipi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg"
-        }
-      ],
-      "name": "Kenan Hasipi"
+      "name": "Redzailj Ismaili"
     },
     {
       "id": "076b1abc-b09e-4331-b3fe-6c9605b9cbea",
@@ -732,108 +165,324 @@
       "name": "Krsto Mukoski"
     },
     {
-      "id": "a89701d6-e9f8-4308-817e-cb7b5beaf574",
+      "id": "0a25e3b6-8a44-4bb5-829c-97614a87c4dd",
       "identifiers": [
         {
-          "identifier": "ljubica-buralieva",
+          "identifier": "artan-grubi",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%2520sliki%252014-18/A.Grubi.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%2520sliki%252014-18/A.Grubi.jpg"
         }
       ],
-      "name": "LJubica Buralieva"
+      "name": "Artan Grubi"
     },
     {
-      "id": "d6cb301e-2019-4400-ad11-5e7a9635c179",
+      "id": "0adb2b9d-b081-4165-9435-2fcb05d04fe2",
       "identifiers": [
         {
-          "identifier": "liljana-kuzmanovska",
+          "identifier": "selvije-saliu",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg"
         }
       ],
-      "name": "Liljana Kuzmanovska"
+      "name": "Selvije Saliu"
     },
     {
-      "birth_date": "1956-05-24",
-      "gender": "female",
-      "id": "878e7e2a-bc4b-4bde-a6b5-900484d2ae2b",
+      "id": "0bf5a867-e953-4eab-b3dd-4766f375bffd",
       "identifiers": [
         {
-          "identifier": "liljana-popovska",
+          "identifier": "zoran-ilioski",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6540258",
-          "scheme": "wikidata"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana--Popovska.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana--Popovska.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg"
         }
       ],
-      "links": [
+      "name": "Zoran Ilioski"
+    },
+    {
+      "id": "0e0a1dd0-dd8a-4aad-8c9c-819d03bdae69",
+      "identifiers": [
         {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Лиляна_Поповска"
-        },
-        {
-          "note": "Wikipedia (ie)",
-          "url": "https://ie.wikipedia.org/wiki/Liljana_Popovska"
-        },
-        {
-          "note": "Wikipedia (mk)",
-          "url": "https://mk.wikipedia.org/wiki/Лилјана_Поповска"
+          "identifier": "ejup-rustemi",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Liljana Popovska",
-      "other_names": [
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg",
+      "images": [
         {
-          "name": "Лилјана Поповска",
-          "note": "alternate"
-        },
-        {
-          "lang": "bg",
-          "name": "Лиляна Поповска",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Liljana Popovska",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ie",
-          "name": "Liljana Popovska",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mk",
-          "name": "Лилјана Поповска",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Liljana Popovska",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Liljana Popovska",
-          "note": "multilingual"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg"
         }
-      ]
+      ],
+      "name": "Ejup Rustemi"
+    },
+    {
+      "id": "0e716fd9-c094-4882-9dbd-f8726d8dd0c0",
+      "identifiers": [
+        {
+          "identifier": "xhevat-ademi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg"
+        }
+      ],
+      "name": "Xhevat Ademi"
+    },
+    {
+      "id": "1358ca20-9245-47ed-aa2a-6ef38acc56a2",
+      "identifiers": [
+        {
+          "identifier": "jamin-sinani",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg"
+        }
+      ],
+      "name": "Jamin Sinani"
+    },
+    {
+      "id": "1379e9f8-4f2e-46ca-8f84-6651087132ab",
+      "identifiers": [
+        {
+          "identifier": "gazmend-aliji",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg"
+        }
+      ],
+      "name": "Gazmend Aliji"
+    },
+    {
+      "id": "15914f41-dcd4-49b5-a5c6-e00d89f10f0e",
+      "identifiers": [
+        {
+          "identifier": "roza-topuzova-karevska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg"
+        }
+      ],
+      "name": "Roza Topuzova-Karevska"
+    },
+    {
+      "id": "1889ae1b-5584-44f9-b681-f2839095413a",
+      "identifiers": [
+        {
+          "identifier": "vjolca-mehmeti-nuredini",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg"
+        }
+      ],
+      "name": "Vjolca Mehmeti-Nuredini"
+    },
+    {
+      "id": "1a5135c6-98b2-4651-8ef0-6cfb3110f8ab",
+      "identifiers": [
+        {
+          "identifier": "olga-najdenovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg"
+        }
+      ],
+      "name": "Olga Najdenovska"
+    },
+    {
+      "id": "1b7560ed-6e71-4e61-a4f6-0c9e04b1bfc3",
+      "identifiers": [
+        {
+          "identifier": "vladimir-gjorchev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg"
+        }
+      ],
+      "name": "Vladimir Gjorchev"
+    },
+    {
+      "id": "1d0e8635-544d-4bd5-91f1-ceee7737f380",
+      "identifiers": [
+        {
+          "identifier": "marjanco-kolevski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg"
+        }
+      ],
+      "name": "Marjanco Kolevski"
+    },
+    {
+      "id": "1e34432e-f161-4fc3-a7c4-6b157d99c9d6",
+      "identifiers": [
+        {
+          "identifier": "silvana-boneva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Silvana-Boneva.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Silvana-Boneva.jpg"
+        }
+      ],
+      "name": "Silvana Boneva"
+    },
+    {
+      "id": "210aae99-bec4-4ab2-9a8d-a4722b22d8e6",
+      "identifiers": [
+        {
+          "identifier": "kaltrina-azizi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg"
+        }
+      ],
+      "name": "Kaltrina Azizi"
+    },
+    {
+      "id": "22d87c76-eeb2-4d5d-a195-3a67bbb68430",
+      "identifiers": [
+        {
+          "identifier": "stojan-milanov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Stojan-Milanov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Stojan-Milanov.jpg"
+        }
+      ],
+      "name": "Stojan Milanov"
+    },
+    {
+      "id": "25775e78-c9af-4e2d-95e0-17484fbc49fc",
+      "identifiers": [
+        {
+          "identifier": "nada-cipuseva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg"
+        }
+      ],
+      "name": "Nada Cipuseva"
+    },
+    {
+      "id": "259c83e9-dedf-4866-a06f-d5a9e0048124",
+      "identifiers": [
+        {
+          "identifier": "vesna-damcevska-ilievska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Dancevska-Ilievska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Dancevska-Ilievska.jpg"
+        }
+      ],
+      "name": "Vesna Damcevska-Ilievska"
+    },
+    {
+      "id": "27d438a2-6559-4548-9813-4d8f65d65378",
+      "identifiers": [
+        {
+          "identifier": "saso-vasilevski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg"
+        }
+      ],
+      "name": "Saso Vasilevski"
+    },
+    {
+      "id": "27fc3c43-5400-4889-a853-b86cc08e0e9b",
+      "identifiers": [
+        {
+          "identifier": "blagica-lasovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagica-Lasovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagica-Lasovska.jpg"
+        }
+      ],
+      "name": "Blagica Lasovska"
+    },
+    {
+      "id": "2c112b5b-8b91-43dd-8ca5-aa8264a7059d",
+      "identifiers": [
+        {
+          "identifier": "bekim-fazliu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Bekim-Fazliu.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Bekim-Fazliu.jpg"
+        }
+      ],
+      "name": "Bekim Fazliu"
     },
     {
       "id": "303d9624-01ad-4518-a8ad-ede754ffa358",
@@ -852,68 +501,20 @@
       "name": "Liljana Zaturoska"
     },
     {
-      "id": "fc155feb-4d9f-453a-bf28-8aba5f15f3c2",
+      "id": "31be7a64-8b23-4a10-844a-ef23bf410cc4",
       "identifiers": [
         {
-          "identifier": "ljupco-dimovski",
+          "identifier": "ali-ahmeti",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljupco-Dimovski.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljupco-Dimovski.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg"
         }
       ],
-      "name": "Ljupco Dimovski"
-    },
-    {
-      "id": "c2375d01-6636-4179-ab61-fef4b94dbc7f",
-      "identifiers": [
-        {
-          "identifier": "magdalena-manaskova",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg"
-        }
-      ],
-      "name": "Magdalena Manaskova"
-    },
-    {
-      "id": "9db6b4d0-142c-47d0-8cf7-14fd5c152f25",
-      "identifiers": [
-        {
-          "identifier": "marija-angelova",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg"
-        }
-      ],
-      "name": "Marija Angelova"
-    },
-    {
-      "id": "1d0e8635-544d-4bd5-91f1-ceee7737f380",
-      "identifiers": [
-        {
-          "identifier": "marjanco-kolevski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg"
-        }
-      ],
-      "name": "Marjanco Kolevski"
+      "name": "Ali Ahmeti"
     },
     {
       "birth_date": "1965-03-03",
@@ -1077,190 +678,20 @@
       ]
     },
     {
-      "id": "b0b8a1ca-3aad-410d-a26f-fc34435e5ec4",
+      "id": "40172fe5-7606-483c-9a20-80eae9068781",
       "identifiers": [
         {
-          "identifier": "meral-uzeiri-ferati",
+          "identifier": "ivan-ivanov",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Merail-Uzeiri-Ferati.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg",
       "images": [
         {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Merail-Uzeiri-Ferati.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg"
         }
       ],
-      "name": "Meral Uzeiri-Ferati"
-    },
-    {
-      "id": "71a34911-01f3-4073-a0d9-e64244e8e979",
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg"
-        }
-      ],
-      "name": "Mirjana Hadzievska"
-    },
-    {
-      "id": "9b86e4cd-c98f-4da9-a747-467309d61b7f",
-      "identifiers": [
-        {
-          "identifier": "mirsada-emini-asani",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg"
-        }
-      ],
-      "name": "Mirsada Emini Asani"
-    },
-    {
-      "id": "c45c9ab1-0f15-4d2e-83b4-098701b2e25d",
-      "identifiers": [
-        {
-          "identifier": "mirvan-dzemailji",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg"
-        }
-      ],
-      "name": "Mirvan DZemailji"
-    },
-    {
-      "id": "8272c80e-2691-4213-946d-ff6b365cf216",
-      "identifiers": [
-        {
-          "identifier": "momcilo-avramoski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg"
-        }
-      ],
-      "name": "Momcilo Avramoski"
-    },
-    {
-      "id": "8eebda6d-6375-47b1-81ee-3ed9919cf826",
-      "identifiers": [
-        {
-          "identifier": "musa-ibraimi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg"
-        }
-      ],
-      "name": "Musa Ibraimi"
-    },
-    {
-      "id": "25775e78-c9af-4e2d-95e0-17484fbc49fc",
-      "identifiers": [
-        {
-          "identifier": "nada-cipuseva",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg"
-        }
-      ],
-      "name": "Nada Cipuseva"
-    },
-    {
-      "id": "dff455c7-614c-4bc9-bc0f-b237a043e234",
-      "identifiers": [
-        {
-          "identifier": "nikola-micevski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg"
-        }
-      ],
-      "name": "Nikola Micevski"
-    },
-    {
-      "id": "70bf998c-6362-449c-bd50-ac8b9e3cea44",
-      "identifiers": [
-        {
-          "identifier": "nola-ismajloska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nola-Ismajloska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nola-Ismajloska.jpg"
-        }
-      ],
-      "name": "Nola Ismajloska-Starova"
-    },
-    {
-      "id": "d825ea85-2ce3-454c-b31e-a53417f6658b",
-      "identifiers": [
-        {
-          "identifier": "nora-aliti",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg"
-        }
-      ],
-      "name": "Nora Aliti"
-    },
-    {
-      "id": "1a5135c6-98b2-4651-8ef0-6cfb3110f8ab",
-      "identifiers": [
-        {
-          "identifier": "olga-najdenovska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg"
-        }
-      ],
-      "name": "Olga Najdenovska"
-    },
-    {
-      "id": "505e9fd9-df84-4b3c-9ae3-64fb3cb7b35e",
-      "identifiers": [
-        {
-          "identifier": "orhan-ibraim",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Orhan-Ibraim.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Orhan-Ibraim.jpg"
-        }
-      ],
-      "name": "Orhan Ibraim"
+      "name": "Ivan Ivanov"
     },
     {
       "id": "4300a503-09ea-4153-aebf-d4a3a695e7ab",
@@ -1277,391 +708,6 @@
         }
       ],
       "name": "Pavle Sazdov"
-    },
-    {
-      "birth_date": "1952-12-25",
-      "gender": "male",
-      "id": "02df0c53-8b1f-4045-b46e-1a6845362508",
-      "identifiers": [
-        {
-          "identifier": "pavle-trajanov",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3403101",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Павле_Траянов"
-        },
-        {
-          "note": "Wikipedia (ie)",
-          "url": "https://ie.wikipedia.org/wiki/Pavle_Trajanov"
-        },
-        {
-          "note": "Wikipedia (mk)",
-          "url": "https://mk.wikipedia.org/wiki/Павле_Трајанов"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Траянов,_Павле"
-        }
-      ],
-      "name": "Pavle Trajanov",
-      "other_names": [
-        {
-          "name": "Павле Трајанов",
-          "note": "alternate"
-        },
-        {
-          "lang": "bg",
-          "name": "Павле Траянов",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Pavle Trajanov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ie",
-          "name": "Pavle Trajanov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mk",
-          "name": "Павле Трајанов",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Pavle Trajanov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Pavle Trajanov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Траянов, Павле",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "78e2d2d6-3f18-4120-bd5b-55d83f29a7df",
-      "identifiers": [
-        {
-          "identifier": "rafis-aljiti",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg"
-        }
-      ],
-      "name": "Rafis Aljiti"
-    },
-    {
-      "id": "7fe7e6fa-89f5-4755-92c3-be60eebed75d",
-      "identifiers": [
-        {
-          "identifier": "ramiz-merko",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg"
-        }
-      ],
-      "name": "Ramiz Merko"
-    },
-    {
-      "id": "06a33f60-abba-408c-94d7-4a17dac91711",
-      "identifiers": [
-        {
-          "identifier": "redzailj-ismaili",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg"
-        }
-      ],
-      "name": "Redzailj Ismaili"
-    },
-    {
-      "id": "017a8605-ef8a-4bb1-abfa-8bd99565dcb0",
-      "identifiers": [
-        {
-          "identifier": "risto-mancev",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg"
-        }
-      ],
-      "name": "Risto Mancev"
-    },
-    {
-      "id": "85f3d047-8b8e-4f52-a724-0fb4f6365799",
-      "identifiers": [
-        {
-          "identifier": "romeo-trenov",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg"
-        }
-      ],
-      "name": "Romeo Trenov"
-    },
-    {
-      "id": "15914f41-dcd4-49b5-a5c6-e00d89f10f0e",
-      "identifiers": [
-        {
-          "identifier": "roza-topuzova-karevska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg"
-        }
-      ],
-      "name": "Roza Topuzova-Karevska"
-    },
-    {
-      "id": "c3095de7-ad1b-4842-a4fa-119b9aff31ee",
-      "identifiers": [
-        {
-          "identifier": "saso-akimoski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg"
-        }
-      ],
-      "name": "Saso Akimoski"
-    },
-    {
-      "id": "27d438a2-6559-4548-9813-4d8f65d65378",
-      "identifiers": [
-        {
-          "identifier": "saso-vasilevski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg"
-        }
-      ],
-      "name": "Saso Vasilevski"
-    },
-    {
-      "id": "0adb2b9d-b081-4165-9435-2fcb05d04fe2",
-      "identifiers": [
-        {
-          "identifier": "selvije-saliu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg"
-        }
-      ],
-      "name": "Selvije Saliu"
-    },
-    {
-      "id": "01c8ec58-bc48-47ed-b21c-12ffdddcca68",
-      "identifiers": [
-        {
-          "identifier": "shpresa-hadri",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg"
-        }
-      ],
-      "name": "Shpresa Hadri"
-    },
-    {
-      "id": "1e34432e-f161-4fc3-a7c4-6b157d99c9d6",
-      "identifiers": [
-        {
-          "identifier": "silvana-boneva",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Silvana-Boneva.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Silvana-Boneva.jpg"
-        }
-      ],
-      "name": "Silvana Boneva"
-    },
-    {
-      "id": "5fe3b602-f91c-44ee-96fb-6384f18f51c9",
-      "identifiers": [
-        {
-          "identifier": "slagjana-mitovska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg"
-        }
-      ],
-      "name": "Slagjana Mitovska"
-    },
-    {
-      "id": "6c3cb61d-bab9-4638-a0fb-54e36576bb3c",
-      "identifiers": [
-        {
-          "identifier": "slave-gosev",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Slave-Gosev.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Slave-Gosev.jpg"
-        }
-      ],
-      "name": "Slave Gosev"
-    },
-    {
-      "id": "9cda2f5c-8720-4ff6-9d5d-9bbc6dd356b3",
-      "identifiers": [
-        {
-          "identifier": "solza-grceva",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg"
-        }
-      ],
-      "name": "Solza Grceva"
-    },
-    {
-      "id": "9d3eeea1-a116-4089-8034-c1809d4cd7a7",
-      "identifiers": [
-        {
-          "identifier": "sonja-talevska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Sonja-Talevska.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Sonja-Talevska.jpg"
-        }
-      ],
-      "name": "Sonja Talevska"
-    },
-    {
-      "id": "22d87c76-eeb2-4d5d-a195-3a67bbb68430",
-      "identifiers": [
-        {
-          "identifier": "stojan-milanov",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Stojan-Milanov.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Stojan-Milanov.jpg"
-        }
-      ],
-      "name": "Stojan Milanov"
-    },
-    {
-      "id": "67b73831-ab21-41fc-9eee-173015df11a3",
-      "identifiers": [
-        {
-          "identifier": "suzana-sekulovska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Suzana-Sekulovska.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Suzana-Sekulovska.jpg"
-        }
-      ],
-      "name": "Suzana Sekulovska"
-    },
-    {
-      "id": "d328fb5c-06b6-43f3-86f3-ab5c7412eecb",
-      "identifiers": [
-        {
-          "identifier": "svetlana-jakimovska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg"
-        }
-      ],
-      "name": "Svetlana Jakimovska"
-    },
-    {
-      "id": "5a8847f0-430c-4602-af38-466167a20c78",
-      "identifiers": [
-        {
-          "identifier": "svetlana-karapetrova",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Svetlana-Karapetrova.jpg",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Svetlana-Karapetrova.jpg"
-        }
-      ],
-      "name": "Svetlana Karapetrova"
     },
     {
       "birth_date": "1962-04-15",
@@ -1764,100 +810,36 @@
       ]
     },
     {
-      "id": "b5c045b6-d7fa-4966-a2fb-79e5a23003cc",
+      "id": "4b1526a9-6d6c-4b39-b127-9debb8314f7c",
       "identifiers": [
         {
-          "identifier": "trajco-dimkov",
+          "identifier": "blagorodna-bojadzieva",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Trajco-Dimkov.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Trajco-Dimkov.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg"
         }
       ],
-      "name": "Trajco Dimkov"
+      "name": "Blagorodna Bojadzieva"
     },
     {
-      "id": "71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
+      "id": "505e9fd9-df84-4b3c-9ae3-64fb3cb7b35e",
       "identifiers": [
         {
-          "identifier": "vasil-pisev",
+          "identifier": "orhan-ibraim",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Orhan-Ibraim.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Orhan-Ibraim.jpg"
         }
       ],
-      "name": "Vasil Pisev"
-    },
-    {
-      "id": "d924a60b-31c8-4a65-9a34-67bbb40febe1",
-      "identifiers": [
-        {
-          "identifier": "vasko-naumovski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg"
-        }
-      ],
-      "name": "Vasko Naumovski"
-    },
-    {
-      "id": "259c83e9-dedf-4866-a06f-d5a9e0048124",
-      "identifiers": [
-        {
-          "identifier": "vesna-damcevska-ilievska",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Dancevska-Ilievska.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Dancevska-Ilievska.jpg"
-        }
-      ],
-      "name": "Vesna Damcevska-Ilievska"
-    },
-    {
-      "id": "f5a77e8a-5973-4d57-8981-2a3afeaf1efb",
-      "identifiers": [
-        {
-          "identifier": "vesna-pemova",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg"
-        }
-      ],
-      "name": "Vesna Pemova"
-    },
-    {
-      "id": "1889ae1b-5584-44f9-b681-f2839095413a",
-      "identifiers": [
-        {
-          "identifier": "vjolca-mehmeti-nuredini",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg"
-        }
-      ],
-      "name": "Vjolca Mehmeti-Nuredini"
+      "name": "Orhan Ibraim"
     },
     {
       "id": "53435cb4-2191-4c1b-8fd5-3db51d2b98a4",
@@ -1876,36 +858,727 @@
       "name": "Vladanka Avirovik"
     },
     {
-      "id": "1b7560ed-6e71-4e61-a4f6-0c9e04b1bfc3",
+      "id": "5a8847f0-430c-4602-af38-466167a20c78",
       "identifiers": [
         {
-          "identifier": "vladimir-gjorchev",
+          "identifier": "svetlana-karapetrova",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Svetlana-Karapetrova.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Svetlana-Karapetrova.jpg"
         }
       ],
-      "name": "Vladimir Gjorchev"
+      "name": "Svetlana Karapetrova"
     },
     {
-      "id": "0e716fd9-c094-4882-9dbd-f8726d8dd0c0",
+      "id": "5fe3b602-f91c-44ee-96fb-6384f18f51c9",
       "identifiers": [
         {
-          "identifier": "xhevat-ademi",
+          "identifier": "slagjana-mitovska",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg"
         }
       ],
-      "name": "Xhevat Ademi"
+      "name": "Slagjana Mitovska"
+    },
+    {
+      "id": "6316072d-5a99-4432-8ba0-568d84bb2c03",
+      "identifiers": [
+        {
+          "identifier": "amdi-bajram",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg"
+        }
+      ],
+      "name": "Amdi Bajram"
+    },
+    {
+      "id": "64384263-11f6-4928-a7fa-a18a33b68b92",
+      "identifiers": [
+        {
+          "identifier": "fatmir-imeroski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg"
+        }
+      ],
+      "name": "Fatmir Imeroski"
+    },
+    {
+      "id": "67b73831-ab21-41fc-9eee-173015df11a3",
+      "identifiers": [
+        {
+          "identifier": "suzana-sekulovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Suzana-Sekulovska.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Suzana-Sekulovska.jpg"
+        }
+      ],
+      "name": "Suzana Sekulovska"
+    },
+    {
+      "id": "69d80493-08f8-401c-af92-e5b18b0a3a18",
+      "identifiers": [
+        {
+          "identifier": "gjorgji-kodzabasiev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg"
+        }
+      ],
+      "name": "Gjorgji Kodzabasiev"
+    },
+    {
+      "id": "6c3cb61d-bab9-4638-a0fb-54e36576bb3c",
+      "identifiers": [
+        {
+          "identifier": "slave-gosev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Slave-Gosev.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Slave-Gosev.jpg"
+        }
+      ],
+      "name": "Slave Gosev"
+    },
+    {
+      "id": "70bf998c-6362-449c-bd50-ac8b9e3cea44",
+      "identifiers": [
+        {
+          "identifier": "nola-ismajloska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nola-Ismajloska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nola-Ismajloska.jpg"
+        }
+      ],
+      "name": "Nola Ismajloska-Starova"
+    },
+    {
+      "id": "71600864-6d7b-4faa-bd9a-faa89f06a4d8",
+      "identifiers": [
+        {
+          "identifier": "ermira-mehmeti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg"
+        }
+      ],
+      "name": "Ermira Mehmeti"
+    },
+    {
+      "id": "71a34911-01f3-4073-a0d9-e64244e8e979",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg"
+        }
+      ],
+      "name": "Mirjana Hadzievska"
+    },
+    {
+      "id": "71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
+      "identifiers": [
+        {
+          "identifier": "vasil-pisev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg"
+        }
+      ],
+      "name": "Vasil Pisev"
+    },
+    {
+      "id": "78e2d2d6-3f18-4120-bd5b-55d83f29a7df",
+      "identifiers": [
+        {
+          "identifier": "rafis-aljiti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg"
+        }
+      ],
+      "name": "Rafis Aljiti"
+    },
+    {
+      "id": "7fe7e6fa-89f5-4755-92c3-be60eebed75d",
+      "identifiers": [
+        {
+          "identifier": "ramiz-merko",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg"
+        }
+      ],
+      "name": "Ramiz Merko"
+    },
+    {
+      "id": "8272c80e-2691-4213-946d-ff6b365cf216",
+      "identifiers": [
+        {
+          "identifier": "momcilo-avramoski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg"
+        }
+      ],
+      "name": "Momcilo Avramoski"
+    },
+    {
+      "id": "851fa6cc-6dff-4f8b-8e65-3821b012f44e",
+      "identifiers": [
+        {
+          "identifier": "antonijo-milososki",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg"
+        }
+      ],
+      "name": "Antonijo Milososki"
+    },
+    {
+      "id": "85f3d047-8b8e-4f52-a724-0fb4f6365799",
+      "identifiers": [
+        {
+          "identifier": "romeo-trenov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg"
+        }
+      ],
+      "name": "Romeo Trenov"
+    },
+    {
+      "id": "8756cf1a-8d61-4f38-8c55-384aa5946214",
+      "identifiers": [
+        {
+          "identifier": "alim-bilali",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg"
+        }
+      ],
+      "name": "Alim Bilali"
+    },
+    {
+      "birth_date": "1956-05-24",
+      "gender": "female",
+      "id": "878e7e2a-bc4b-4bde-a6b5-900484d2ae2b",
+      "identifiers": [
+        {
+          "identifier": "liljana-popovska",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6540258",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana--Popovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana--Popovska.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Лиляна_Поповска"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Liljana_Popovska"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Лилјана_Поповска"
+        }
+      ],
+      "name": "Liljana Popovska",
+      "other_names": [
+        {
+          "name": "Лилјана Поповска",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Лиляна Поповска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Лилјана Поповска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "8ac4af5c-cd6c-44a2-9c4f-78ae3bee62a5",
+      "identifiers": [
+        {
+          "identifier": "dragan-danev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg"
+        }
+      ],
+      "name": "Dragan Danev"
+    },
+    {
+      "id": "8eebda6d-6375-47b1-81ee-3ed9919cf826",
+      "identifiers": [
+        {
+          "identifier": "musa-ibraimi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg"
+        }
+      ],
+      "name": "Musa Ibraimi"
+    },
+    {
+      "id": "945e9702-ce37-4f29-b59f-8181437f14ef",
+      "identifiers": [
+        {
+          "identifier": "hazbi-ljika",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg"
+        }
+      ],
+      "name": "Hazbi LJika"
+    },
+    {
+      "id": "9b86e4cd-c98f-4da9-a747-467309d61b7f",
+      "identifiers": [
+        {
+          "identifier": "mirsada-emini-asani",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg"
+        }
+      ],
+      "name": "Mirsada Emini Asani"
+    },
+    {
+      "birth_date": "1962-02-15",
+      "gender": "male",
+      "given_name": "Ivan",
+      "id": "9c44a801-17a5-4c9d-8280-3a91dfda77a4",
+      "identifiers": [
+        {
+          "identifier": "ivan-stoilkovik",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12281220",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Stoilkovik.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Stoilkovik.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Иван_Стоилковиќ.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Иван_Стоилкович"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Иван_Стоилковиќ"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Иван_Стоилковић"
+        }
+      ],
+      "name": "Ivan Stoilkovik",
+      "other_names": [
+        {
+          "name": "Иван Стоилковиќ",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Иван Стоилкович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivan Stoiljkovik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Иван Стоилковиќ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ivan Stoilkovikj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Stoiljkovik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ivan Stoilkovikj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Иван Стоилковић",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "9cda2f5c-8720-4ff6-9d5d-9bbc6dd356b3",
+      "identifiers": [
+        {
+          "identifier": "solza-grceva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg"
+        }
+      ],
+      "name": "Solza Grceva"
+    },
+    {
+      "id": "9d3eeea1-a116-4089-8034-c1809d4cd7a7",
+      "identifiers": [
+        {
+          "identifier": "sonja-talevska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Sonja-Talevska.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Sonja-Talevska.jpg"
+        }
+      ],
+      "name": "Sonja Talevska"
+    },
+    {
+      "id": "9db6b4d0-142c-47d0-8cf7-14fd5c152f25",
+      "identifiers": [
+        {
+          "identifier": "marija-angelova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg"
+        }
+      ],
+      "name": "Marija Angelova"
+    },
+    {
+      "id": "a3143a3c-a022-43de-bb0c-5d2531184477",
+      "identifiers": [
+        {
+          "identifier": "avdija-pepik",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg"
+        }
+      ],
+      "name": "Avdija Pepik"
+    },
+    {
+      "id": "a5b562ff-87c0-47f0-bcd4-a90cf91004df",
+      "identifiers": [
+        {
+          "identifier": "ernad-fejzula",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Ernad-Fejzula.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Ernad-Fejzula.jpg"
+        }
+      ],
+      "name": "Ernad Fejzula"
+    },
+    {
+      "id": "a89701d6-e9f8-4308-817e-cb7b5beaf574",
+      "identifiers": [
+        {
+          "identifier": "ljubica-buralieva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg"
+        }
+      ],
+      "name": "LJubica Buralieva"
+    },
+    {
+      "id": "b0b8a1ca-3aad-410d-a26f-fc34435e5ec4",
+      "identifiers": [
+        {
+          "identifier": "meral-uzeiri-ferati",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Merail-Uzeiri-Ferati.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Merail-Uzeiri-Ferati.jpg"
+        }
+      ],
+      "name": "Meral Uzeiri-Ferati"
+    },
+    {
+      "id": "b0ef4a95-79fb-4243-9beb-1367fd4f255b",
+      "identifiers": [
+        {
+          "identifier": "chedomir-sazdovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg"
+        }
+      ],
+      "name": "Chedomir Sazdovski"
+    },
+    {
+      "id": "b1b5ca60-2848-478e-8189-21ae7279f97b",
+      "identifiers": [
+        {
+          "identifier": "kenan-hasipi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg"
+        }
+      ],
+      "name": "Kenan Hasipi"
+    },
+    {
+      "id": "b5c045b6-d7fa-4966-a2fb-79e5a23003cc",
+      "identifiers": [
+        {
+          "identifier": "trajco-dimkov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Trajco-Dimkov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Trajco-Dimkov.jpg"
+        }
+      ],
+      "name": "Trajco Dimkov"
+    },
+    {
+      "id": "b7ec31ee-6130-4919-ad5e-78bf8f7bfe36",
+      "identifiers": [
+        {
+          "identifier": "dragan-cuklev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg"
+        }
+      ],
+      "name": "Dragan Cuklev"
+    },
+    {
+      "id": "b9f39c23-6276-45e5-8e1d-cbe1c3db44ce",
+      "identifiers": [
+        {
+          "identifier": "andon-cibisev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg"
+        }
+      ],
+      "name": "Andon Cibisev"
+    },
+    {
+      "id": "c2375d01-6636-4179-ab61-fef4b94dbc7f",
+      "identifiers": [
+        {
+          "identifier": "magdalena-manaskova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg"
+        }
+      ],
+      "name": "Magdalena Manaskova"
+    },
+    {
+      "id": "c3095de7-ad1b-4842-a4fa-119b9aff31ee",
+      "identifiers": [
+        {
+          "identifier": "saso-akimoski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg"
+        }
+      ],
+      "name": "Saso Akimoski"
+    },
+    {
+      "id": "c45c9ab1-0f15-4d2e-83b4-098701b2e25d",
+      "identifiers": [
+        {
+          "identifier": "mirvan-dzemailji",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg"
+        }
+      ],
+      "name": "Mirvan DZemailji"
     },
     {
       "id": "c77c4658-a5be-47c1-b8a1-bf93ea63247d",
@@ -1924,22 +1597,6 @@
       "name": "Zoran Gjorgjievski"
     },
     {
-      "id": "0bf5a867-e953-4eab-b3dd-4766f375bffd",
-      "identifiers": [
-        {
-          "identifier": "zoran-ilioski",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg",
-      "images": [
-        {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg"
-        }
-      ],
-      "name": "Zoran Ilioski"
-    },
-    {
       "id": "ca823796-7651-4e64-b61f-c2326763e530",
       "identifiers": [
         {
@@ -1954,6 +1611,349 @@
         }
       ],
       "name": "Zulfi Adili"
+    },
+    {
+      "id": "d328fb5c-06b6-43f3-86f3-ab5c7412eecb",
+      "identifiers": [
+        {
+          "identifier": "svetlana-jakimovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg"
+        }
+      ],
+      "name": "Svetlana Jakimovska"
+    },
+    {
+      "id": "d482e080-b0ff-486b-b3cc-4b934804cd7f",
+      "identifiers": [
+        {
+          "identifier": "ilija-dimovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg"
+        }
+      ],
+      "name": "Ilija Dimovski"
+    },
+    {
+      "id": "d6cb301e-2019-4400-ad11-5e7a9635c179",
+      "identifiers": [
+        {
+          "identifier": "liljana-kuzmanovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg"
+        }
+      ],
+      "name": "Liljana Kuzmanovska"
+    },
+    {
+      "id": "d825ea85-2ce3-454c-b31e-a53417f6658b",
+      "identifiers": [
+        {
+          "identifier": "nora-aliti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg"
+        }
+      ],
+      "name": "Nora Aliti"
+    },
+    {
+      "id": "d8eca104-e8a1-487d-a734-1e0988b130ae",
+      "identifiers": [
+        {
+          "identifier": "aleksandar-stojkoski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg"
+        }
+      ],
+      "name": "Aleksandar Stojkoski"
+    },
+    {
+      "id": "d924a60b-31c8-4a65-9a34-67bbb40febe1",
+      "identifiers": [
+        {
+          "identifier": "vasko-naumovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg"
+        }
+      ],
+      "name": "Vasko Naumovski"
+    },
+    {
+      "id": "dd11dc41-556c-4f00-8bcd-f0c23889c531",
+      "identifiers": [
+        {
+          "identifier": "aleksandar-nikoloski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg"
+        }
+      ],
+      "name": "Aleksandar Nikoloski"
+    },
+    {
+      "id": "dff455c7-614c-4bc9-bc0f-b237a043e234",
+      "identifiers": [
+        {
+          "identifier": "nikola-micevski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg"
+        }
+      ],
+      "name": "Nikola Micevski"
+    },
+    {
+      "id": "e09704a6-4601-4898-b4c0-f991c79a4bcd",
+      "identifiers": [
+        {
+          "identifier": "gjoko-kamcev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg"
+        }
+      ],
+      "name": "Gjoko Kamcev"
+    },
+    {
+      "birth_date": "1977-03-26",
+      "gender": "male",
+      "id": "e09bc82f-a3a9-406e-bcaa-b996a00bb620",
+      "identifiers": [
+        {
+          "identifier": "imer-aliu",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3408284",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Imer-Aliu.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Imer-Aliu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Имер_Алиу"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Имер_Алиу"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Имер_Алију"
+        }
+      ],
+      "name": "Imer Aliu",
+      "other_names": [
+        {
+          "name": "Имер Алиу",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Имер Алиу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Имер Алиу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Имер Алију",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Имер Алију",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Imer Aliju",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "ebbe68a8-dc10-4002-acd3-56dd3cfea49c",
+      "identifiers": [
+        {
+          "identifier": "ane-laskoska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg"
+        }
+      ],
+      "name": "Ane Laskoska"
+    },
+    {
+      "id": "efa8539f-cb81-4188-a5c8-b68a2920fb6a",
+      "identifiers": [
+        {
+          "identifier": "jasminka-damceska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg"
+        }
+      ],
+      "name": "Jasminka Damceska"
+    },
+    {
+      "id": "f2b6e36a-f92a-4d3f-9599-a53ae789b021",
+      "identifiers": [
+        {
+          "identifier": "emil-dimitriev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg"
+        }
+      ],
+      "name": "Emil Dimitriev"
+    },
+    {
+      "id": "f5a77e8a-5973-4d57-8981-2a3afeaf1efb",
+      "identifiers": [
+        {
+          "identifier": "vesna-pemova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg"
+        }
+      ],
+      "name": "Vesna Pemova"
+    },
+    {
+      "id": "fc155feb-4d9f-453a-bf28-8aba5f15f3c2",
+      "identifiers": [
+        {
+          "identifier": "ljupco-dimovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljupco-Dimovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljupco-Dimovski.jpg"
+        }
+      ],
+      "name": "Ljupco Dimovski"
+    },
+    {
+      "id": "fc6daa63-6136-44f1-a8ef-352f1a80a80d",
+      "identifiers": [
+        {
+          "identifier": "daniela-rangelova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg"
+        }
+      ],
+      "name": "Daniela Rangelova"
+    },
+    {
+      "id": "fc7412a1-acd0-40fe-98d2-64ce753aca21",
+      "identifiers": [
+        {
+          "identifier": "blagoja-despotovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagoja-Despotovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagoja-Despotovski.jpg"
+        }
+      ],
+      "name": "Blagoja Despotovski"
     }
   ],
   "organizations": [

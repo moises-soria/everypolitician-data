@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "0eaf5b8a-f15f-467c-a5a6-cdb10ffaadeb",
+      "identifiers": [
+        {
+          "identifier": "valérie_picotin-fontrose",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Valérie Picotin-Fontrose"
+    },
+    {
       "id": "170de1ab-9ec7-4ebb-997b-50bc02af38e0",
       "identifiers": [
         {
@@ -12,6 +22,175 @@
         }
       ],
       "name": "Alain Gros-Desormeaux"
+    },
+    {
+      "id": "1a96c748-498f-4062-bd11-6dc9c6889388",
+      "identifiers": [
+        {
+          "identifier": "louis_fleming",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Louis Fleming"
+    },
+    {
+      "id": "2950e03f-d946-4887-af09-4edef4be18ee",
+      "identifiers": [
+        {
+          "identifier": "josé_vilier",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "José Vilier"
+    },
+    {
+      "id": "2c2f6eb4-dd13-44b1-ac5c-11824fedea78",
+      "identifiers": [
+        {
+          "identifier": "claire_manuel-philips",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Claire Manuel-Philips"
+    },
+    {
+      "id": "31f286d0-4593-4c7c-8bac-8dfb37a632c6",
+      "identifiers": [
+        {
+          "identifier": "wendel_cocks",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Wendel Cocks"
+    },
+    {
+      "birth_date": "1958-01-20",
+      "gender": "male",
+      "given_name": "Guillaume",
+      "id": "47185f8e-a096-4021-a341-04afb853dc4f",
+      "identifiers": [
+        {
+          "identifier": "Q3119642",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "senateur/arnell_guillaume14261s",
+          "scheme": "senatdotfr"
+        },
+        {
+          "identifier": "Q3119642",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Guillaume_Arnell_2.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Guillaume_Arnell_2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Guillaume_Arnell"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Guillaume_Arnell"
+        }
+      ],
+      "name": "Guillaume Arnell",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Guillaume Arnell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Guillaume Arnell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Guillaume Arnell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Guillaume Arnell",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "484c9b71-1816-40e2-9ccf-b6303a491c34",
+      "identifiers": [
+        {
+          "identifier": "jean-philippe_richardson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jean-Philippe Richardson"
+    },
+    {
+      "id": "8354ebe6-1860-4938-b92f-cb7795f7b6ad",
+      "identifiers": [
+        {
+          "identifier": "jean-david_richardson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jean-David Richardson"
+    },
+    {
+      "id": "90df7acc-8df5-4983-8e48-e8c7767bfe03",
+      "identifiers": [
+        {
+          "identifier": "christophe_henocq",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Christophe Henocq"
+    },
+    {
+      "id": "916b2266-df29-4aff-a890-31378361f5ad",
+      "identifiers": [
+        {
+          "identifier": "jules_charville",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jules Charville"
+    },
+    {
+      "id": "934a21b8-57e4-468c-8809-6a467bcbe504",
+      "identifiers": [
+        {
+          "identifier": "jeanne_rogers-vanterpool",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jeanne Rogers-Vanterpool"
+    },
+    {
+      "id": "954b5510-9eeb-4340-8f16-23ed4f45efcc",
+      "identifiers": [
+        {
+          "identifier": "rolande_questel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Rolande Questel"
+    },
+    {
+      "id": "9e7a47d9-4858-470d-b4c1-14202f206840",
+      "identifiers": [
+        {
+          "identifier": "maud_ascent-gibbs",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Maud Ascent-Gibbs"
     },
     {
       "birth_date": "1949-10-09",
@@ -63,34 +242,34 @@
       ]
     },
     {
-      "id": "fa9d62a9-6273-4a0f-912d-4d798785bab4",
+      "id": "b8840f5f-1c6b-44c5-9967-94e9cacc2826",
       "identifiers": [
         {
-          "identifier": "antero_santos",
+          "identifier": "dominique_aubert",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Antero Santos"
+      "name": "Dominique Aubert"
     },
     {
-      "id": "90df7acc-8df5-4983-8e48-e8c7767bfe03",
+      "id": "bf37a063-b577-4596-855f-1e8fe8e9965d",
       "identifiers": [
         {
-          "identifier": "christophe_henocq",
+          "identifier": "rené-jean_duret",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Christophe Henocq"
+      "name": "René-Jean Duret"
     },
     {
-      "id": "2c2f6eb4-dd13-44b1-ac5c-11824fedea78",
+      "id": "c1707ef0-0ec1-41b5-bf0a-c97a8247a6f7",
       "identifiers": [
         {
-          "identifier": "claire_manuel-philips",
+          "identifier": "nadine_jermin-paines",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Claire Manuel-Philips"
+      "name": "Nadine Jermin-Paines"
     },
     {
       "birth_date": "1968-01-08",
@@ -216,165 +395,6 @@
       ]
     },
     {
-      "id": "b8840f5f-1c6b-44c5-9967-94e9cacc2826",
-      "identifiers": [
-        {
-          "identifier": "dominique_aubert",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Dominique Aubert"
-    },
-    {
-      "birth_date": "1958-01-20",
-      "gender": "male",
-      "given_name": "Guillaume",
-      "id": "47185f8e-a096-4021-a341-04afb853dc4f",
-      "identifiers": [
-        {
-          "identifier": "Q3119642",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "senateur/arnell_guillaume14261s",
-          "scheme": "senatdotfr"
-        },
-        {
-          "identifier": "Q3119642",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Guillaume_Arnell_2.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Guillaume_Arnell_2.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Guillaume_Arnell"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Guillaume_Arnell"
-        }
-      ],
-      "name": "Guillaume Arnell",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Guillaume Arnell",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Guillaume Arnell",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Guillaume Arnell",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Guillaume Arnell",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "8354ebe6-1860-4938-b92f-cb7795f7b6ad",
-      "identifiers": [
-        {
-          "identifier": "jean-david_richardson",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Jean-David Richardson"
-    },
-    {
-      "id": "484c9b71-1816-40e2-9ccf-b6303a491c34",
-      "identifiers": [
-        {
-          "identifier": "jean-philippe_richardson",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Jean-Philippe Richardson"
-    },
-    {
-      "id": "934a21b8-57e4-468c-8809-6a467bcbe504",
-      "identifiers": [
-        {
-          "identifier": "jeanne_rogers-vanterpool",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Jeanne Rogers-Vanterpool"
-    },
-    {
-      "id": "f316f637-08d8-4928-a5c2-884a913b8fd5",
-      "identifiers": [
-        {
-          "identifier": "josiane_carty-nettleford",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Josiane Carty-Nettleford"
-    },
-    {
-      "id": "2950e03f-d946-4887-af09-4edef4be18ee",
-      "identifiers": [
-        {
-          "identifier": "josé_vilier",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "José Vilier"
-    },
-    {
-      "id": "916b2266-df29-4aff-a890-31378361f5ad",
-      "identifiers": [
-        {
-          "identifier": "jules_charville",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Jules Charville"
-    },
-    {
-      "id": "1a96c748-498f-4062-bd11-6dc9c6889388",
-      "identifiers": [
-        {
-          "identifier": "louis_fleming",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Louis Fleming"
-    },
-    {
-      "id": "9e7a47d9-4858-470d-b4c1-14202f206840",
-      "identifiers": [
-        {
-          "identifier": "maud_ascent-gibbs",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Maud Ascent-Gibbs"
-    },
-    {
-      "id": "c1707ef0-0ec1-41b5-bf0a-c97a8247a6f7",
-      "identifiers": [
-        {
-          "identifier": "nadine_jermin-paines",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Nadine Jermin-Paines"
-    },
-    {
       "id": "d63c0610-b5ce-4cef-ace9-9a3605161fa6",
       "identifiers": [
         {
@@ -383,26 +403,6 @@
         }
       ],
       "name": "Ramona Connor"
-    },
-    {
-      "id": "bf37a063-b577-4596-855f-1e8fe8e9965d",
-      "identifiers": [
-        {
-          "identifier": "rené-jean_duret",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "René-Jean Duret"
-    },
-    {
-      "id": "954b5510-9eeb-4340-8f16-23ed4f45efcc",
-      "identifiers": [
-        {
-          "identifier": "rolande_questel",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Rolande Questel"
     },
     {
       "id": "edeae6c5-4e44-432b-a819-803dd47f934a",
@@ -415,24 +415,24 @@
       "name": "Rosette Gumbs-Lake"
     },
     {
-      "id": "0eaf5b8a-f15f-467c-a5a6-cdb10ffaadeb",
+      "id": "f316f637-08d8-4928-a5c2-884a913b8fd5",
       "identifiers": [
         {
-          "identifier": "valérie_picotin-fontrose",
+          "identifier": "josiane_carty-nettleford",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Valérie Picotin-Fontrose"
+      "name": "Josiane Carty-Nettleford"
     },
     {
-      "id": "31f286d0-4593-4c7c-8bac-8dfb37a632c6",
+      "id": "fa9d62a9-6273-4a0f-912d-4d798785bab4",
       "identifiers": [
         {
-          "identifier": "wendel_cocks",
+          "identifier": "antero_santos",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Wendel Cocks"
+      "name": "Antero Santos"
     }
   ],
   "organizations": [

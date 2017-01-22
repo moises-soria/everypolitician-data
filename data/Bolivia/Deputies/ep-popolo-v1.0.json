@@ -4,21 +4,157 @@
   ],
   "persons": [
     {
-      "gender": "female",
-      "id": "df80513c-820b-4301-83aa-a0df51215e1c",
+      "gender": "male",
+      "id": "000c9747-d61e-4f98-9ebd-b509c8054c3e",
       "identifiers": [
         {
-          "identifier": "arias.ca",
+          "identifier": "vaca.aa",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/arias.ca.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/vaca.aa.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/arias.ca.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/vaca.aa.jpg"
         }
       ],
-      "name": "Adriana Arias Calderón"
+      "name": "Avilio Vaca Achico"
+    },
+    {
+      "gender": "female",
+      "id": "061b8112-41b0-41e8-ba29-43ed39987782",
+      "identifiers": [
+        {
+          "identifier": "calcina.rm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/calcina.rm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/calcina.rm.jpg"
+        }
+      ],
+      "name": "Maria Eugenia Calcina Rivero"
+    },
+    {
+      "gender": "male",
+      "id": "071871e4-b31c-4469-b973-ddb9444dc879",
+      "identifiers": [
+        {
+          "identifier": "gomez.ll",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/gomez.ll.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/gomez.ll.jpg"
+        }
+      ],
+      "name": "Lucio Gomez Lojo"
+    },
+    {
+      "gender": "female",
+      "id": "0e84b7db-7713-42c7-962e-b10420f28569",
+      "identifiers": [
+        {
+          "identifier": "mallon.vc",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/mallon.vc.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/mallon.vc.jpg"
+        }
+      ],
+      "name": "Claudia Mallon Vargas"
+    },
+    {
+      "gender": "male",
+      "id": "0f33832d-a601-42dc-b1cc-3a55bc1c33cc",
+      "identifiers": [
+        {
+          "identifier": "paredes.ms",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/paredes.ms.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/paredes.ms.jpg"
+        }
+      ],
+      "name": "Santos Paredes Mamani"
+    },
+    {
+      "gender": "female",
+      "id": "11c6433b-6254-4299-a091-df5bfb835d60",
+      "identifiers": [
+        {
+          "identifier": "villca.cl",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/villca.cl.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/villca.cl.jpg"
+        }
+      ],
+      "name": "Lily Rosario Villca Calle"
+    },
+    {
+      "gender": "female",
+      "id": "15d4b8c2-211b-4197-937f-47c64ee3d58a",
+      "identifiers": [
+        {
+          "identifier": "torrez.sg",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/torrez.sg.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/torrez.sg.jpg"
+        }
+      ],
+      "name": "Ginna Maria Torrez Saracho"
+    },
+    {
+      "gender": "female",
+      "id": "169901dd-c6da-48bd-a180-1fc5f7175e72",
+      "identifiers": [
+        {
+          "identifier": "perez.rr",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/perez.rr.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/perez.rr.jpg"
+        }
+      ],
+      "name": "Romina Guadalupe Perez Ramos"
+    },
+    {
+      "gender": "female",
+      "id": "1a21eee6-9b28-41d6-a5b1-8e57d9c068df",
+      "identifiers": [
+        {
+          "identifier": "zambrana.ck",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/zambrana.ck.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/zambrana.ck.jpg"
+        }
+      ],
+      "name": "Kathya Scarlett Zambrana Cardona"
     },
     {
       "gender": "male",
@@ -39,37 +175,37 @@
     },
     {
       "gender": "female",
-      "id": "adbb1b08-c6f4-4bdb-adda-6b9e5401c48e",
+      "id": "20c2b026-9661-4ff0-82f9-056092aee530",
       "identifiers": [
         {
-          "identifier": "canqui.ca",
+          "identifier": "sandoval.fr",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/canqui.ca.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sandoval.fr.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/canqui.ca.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sandoval.fr.jpg"
         }
       ],
-      "name": "Alicia Canqui Condori"
+      "name": "Rose Marie Sandoval Farfan"
     },
     {
-      "gender": "female",
-      "id": "c704d985-7211-4c84-8731-4c276981859d",
+      "gender": "male",
+      "id": "2372b6e5-158f-44b6-b1e8-c0bee03c3c7c",
       "identifiers": [
         {
-          "identifier": "natte.ra",
+          "identifier": "feeney.pm",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/natte.ra.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/feeney.pm.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/natte.ra.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/feeney.pm.jpg"
         }
       ],
-      "name": "Alicia Natte Rosendi"
+      "name": "Miguel Angel Feeney Parada"
     },
     {
       "gender": "female",
@@ -90,788 +226,6 @@
     },
     {
       "gender": "male",
-      "id": "ab63683c-8b22-42b3-aee3-324e3bd6aa4f",
-      "identifiers": [
-        {
-          "identifier": "guzman.ca",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Beni/guzman.ca.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Beni/guzman.ca.jpg"
-        }
-      ],
-      "name": "Alvaro Rodrigo Guzman Collao"
-    },
-    {
-      "gender": "female",
-      "id": "32ca07e4-e5d3-4258-b507-2bb9c3810965",
-      "identifiers": [
-        {
-          "identifier": "costa.ba",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/costa.ba.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/costa.ba.jpg"
-        }
-      ],
-      "name": "Ana Jimena Costa Benavides"
-    },
-    {
-      "gender": "female",
-      "id": "7e39c760-74fb-4586-9624-a9eda3cd0634",
-      "identifiers": [
-        {
-          "identifier": "vidal.va",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Beni/vidal.va.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Beni/vidal.va.jpg"
-        }
-      ],
-      "name": "Ana Vidal Velasco"
-    },
-    {
-      "gender": "female",
-      "id": "86bffcf6-3eed-468d-808d-a304b5090672",
-      "identifiers": [
-        {
-          "identifier": "amurrio.pa",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/amurrio.pa.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/amurrio.pa.jpg"
-        }
-      ],
-      "name": "Anacleta Amurrio Paniagua"
-    },
-    {
-      "gender": "male",
-      "id": "84800dd2-21ca-4f8d-b526-9cbd22dbe8e2",
-      "identifiers": [
-        {
-          "identifier": "choque.ca",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/choque.ca.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/choque.ca.jpg"
-        }
-      ],
-      "name": "Aniceto Choque Chino"
-    },
-    {
-      "gender": "female",
-      "id": "f9efb2ec-e650-444b-b894-d7f186227a50",
-      "identifiers": [
-        {
-          "identifier": "torrez.da",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Pando/torrez.da.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Pando/torrez.da.jpg"
-        }
-      ],
-      "name": "Army Claudia Torrez Diez"
-    },
-    {
-      "gender": "male",
-      "id": "b4f2630f-5798-441e-82ec-d16462512912",
-      "identifiers": [
-        {
-          "identifier": "lazo.a",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/lazo.a.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/lazo.a.jpg"
-        }
-      ],
-      "name": "Ascencio Lazo"
-    },
-    {
-      "gender": "male",
-      "id": "000c9747-d61e-4f98-9ebd-b509c8054c3e",
-      "identifiers": [
-        {
-          "identifier": "vaca.aa",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/vaca.aa.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/vaca.aa.jpg"
-        }
-      ],
-      "name": "Avilio Vaca Achico"
-    },
-    {
-      "gender": "female",
-      "id": "f5f44f6e-1e63-4a1b-8cd9-701d5b365be8",
-      "identifiers": [
-        {
-          "identifier": "villarroel.qa",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/villarroel.qa.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/villarroel.qa.jpg"
-        }
-      ],
-      "name": "Ayda Luz Villarroel Quinteros"
-    },
-    {
-      "gender": "male",
-      "id": "7b23eaac-e8a5-4371-adfd-aa99e342f92e",
-      "identifiers": [
-        {
-          "identifier": "velasquez.sb",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/velasquez.sb.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/velasquez.sb.jpg"
-        }
-      ],
-      "name": "Bacilio Velasquez Salazar"
-    },
-    {
-      "gender": "female",
-      "id": "b79b5a88-f56a-4591-a81d-e74f031876da",
-      "identifiers": [
-        {
-          "identifier": "capobianco.sb",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/capobianco.sb.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/capobianco.sb.jpg"
-        }
-      ],
-      "name": "Beatriz Eliane Capobianco Sandoval"
-    },
-    {
-      "gender": "female",
-      "id": "53605ee9-68a3-475b-89f1-eb9231c4e91f",
-      "identifiers": [
-        {
-          "identifier": "suarez.bb",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/suarez.bb.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/suarez.bb.jpg"
-        }
-      ],
-      "name": "Benita Suarez Barba"
-    },
-    {
-      "gender": "male",
-      "id": "c46f2787-c871-4886-b597-557c94f3e21c",
-      "identifiers": [
-        {
-          "identifier": "gutierrez.sb",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.sb.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.sb.jpg"
-        }
-      ],
-      "name": "Bernard Osvaldo Gutierrez Sanz"
-    },
-    {
-      "gender": "female",
-      "id": "9070bb16-0fd5-4f95-9c55-525b072e13f8",
-      "identifiers": [
-        {
-          "identifier": "yaniquez.lb",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/yaniquez.lb.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/yaniquez.lb.jpg"
-        }
-      ],
-      "name": "Betty Beatriz Yañiquez Lozano"
-    },
-    {
-      "gender": "female",
-      "id": "cb83f414-26ed-4b5f-b408-31b5e68676a2",
-      "identifiers": [
-        {
-          "identifier": "quiroga.rb",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/quiroga.rb.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/quiroga.rb.jpg"
-        }
-      ],
-      "name": "Brigida Virginia Quiroga Ramos"
-    },
-    {
-      "gender": "female",
-      "id": "788123d5-6e04-4658-9395-d6edd9b7d357",
-      "identifiers": [
-        {
-          "identifier": "cruz.cc",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cruz.cc.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cruz.cc.jpg"
-        }
-      ],
-      "name": "Carmen Muriel Cruz Claros"
-    },
-    {
-      "gender": "female",
-      "id": "9b58056b-cb9f-4b1a-a5e9-cbf98b930916",
-      "identifiers": [
-        {
-          "identifier": "dominguez.ac",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/dominguez.ac.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/dominguez.ac.jpg"
-        }
-      ],
-      "name": "Carmen Rosa Dominguez Arias"
-    },
-    {
-      "gender": "female",
-      "id": "58dd3f30-6904-4770-8df7-481dfc4dd373",
-      "identifiers": [
-        {
-          "identifier": "montanio.rc",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/montanio.rc.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/montanio.rc.jpg"
-        }
-      ],
-      "name": "Carol Mireya Montaño Rocha"
-    },
-    {
-      "gender": "female",
-      "id": "d32f554b-bf29-4827-882c-f340b8c1f643",
-      "identifiers": [
-        {
-          "identifier": "bonilla.gc",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/bonilla.gc.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/bonilla.gc.jpg"
-        }
-      ],
-      "name": "Celia Andrea Bonilla Gemio"
-    },
-    {
-      "gender": "female",
-      "id": "cfb1f5a2-d906-4bfb-a1b0-f33c4b2a426e",
-      "identifiers": [
-        {
-          "identifier": "sequeiros.rc",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sequeiros.rc.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sequeiros.rc.jpg"
-        }
-      ],
-      "name": "Cinthia Sequeiros Rivero"
-    },
-    {
-      "gender": "female",
-      "id": "0e84b7db-7713-42c7-962e-b10420f28569",
-      "identifiers": [
-        {
-          "identifier": "mallon.vc",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/mallon.vc.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/mallon.vc.jpg"
-        }
-      ],
-      "name": "Claudia Mallon Vargas"
-    },
-    {
-      "gender": "female",
-      "id": "a9877bac-47ba-4389-8df7-2f87f4c3367d",
-      "identifiers": [
-        {
-          "identifier": "vargas.vc",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/vargas.vc.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/vargas.vc.jpg"
-        }
-      ],
-      "name": "Clery Vargas Villca"
-    },
-    {
-      "gender": "female",
-      "id": "537ef028-a59d-436f-8552-d68e09340a1e",
-      "identifiers": [
-        {
-          "identifier": "ortiz.c",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/ortiz.c.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/ortiz.c.jpg"
-        }
-      ],
-      "name": "Concepcion Ortiz"
-    },
-    {
-      "gender": "male",
-      "id": "d3111840-8f73-4975-9c19-36065c2bd3c4",
-      "identifiers": [
-        {
-          "identifier": "ramos.md",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/ramos.md.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/ramos.md.jpg"
-        }
-      ],
-      "name": "David Ramos Mamani"
-    },
-    {
-      "gender": "female",
-      "id": "75b6ef43-ea57-4340-965f-632f5055c356",
-      "identifiers": [
-        {
-          "identifier": "canaviri.cd",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/canaviri.cd.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/canaviri.cd.jpg"
-        }
-      ],
-      "name": "Delia Canaviri Condori"
-    },
-    {
-      "gender": "female",
-      "id": "7b8cdea0-538d-4407-a266-90f76bdd27a9",
-      "identifiers": [
-        {
-          "identifier": "araujo.dd",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Pando/araujo.dd.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Pando/araujo.dd.jpg"
-        }
-      ],
-      "name": "Dulce Maria Araujo Dominguez"
-    },
-    {
-      "gender": "male",
-      "id": "cb92a0b1-74de-43ba-934a-f2fc41f1ecaf",
-      "identifiers": [
-        {
-          "identifier": "cabrera.ce",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cabrera.ce.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cabrera.ce.jpg"
-        }
-      ],
-      "name": "Eddy Henrry Cabrera Carlo"
-    },
-    {
-      "gender": "male",
-      "id": "e8f0a932-fa90-42fb-b332-02887454bb69",
-      "identifiers": [
-        {
-          "identifier": "montanio.re",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/montanio.re.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/montanio.re.jpg"
-        }
-      ],
-      "name": "Edgar Montaño Rojas"
-    },
-    {
-      "gender": "male",
-      "id": "a1d5910c-f5f7-47b5-93f9-a7937a9a4dc7",
-      "identifiers": [
-        {
-          "identifier": "rendon.re",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/rendon.re.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/rendon.re.jpg"
-        }
-      ],
-      "name": "Edgar Rendon Rios"
-    },
-    {
-      "gender": "male",
-      "id": "a7c45fae-2287-4ef9-85eb-a250fc1c9b8b",
-      "identifiers": [
-        {
-          "identifier": "polo.ae",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/polo.ae.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/polo.ae.jpg"
-        }
-      ],
-      "name": "Edmundo Gaston Polo Ariñez"
-    },
-    {
-      "gender": "male",
-      "id": "3b9c5c23-81f5-47e8-9b94-067964f6aae4",
-      "identifiers": [
-        {
-          "identifier": "huallpa.je",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/huallpa.je.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/huallpa.je.jpg"
-        }
-      ],
-      "name": "Eleuterio Huallpa Janco"
-    },
-    {
-      "gender": "female",
-      "id": "38ddab55-49b7-4da3-ab21-b1767bd73c6e",
-      "identifiers": [
-        {
-          "identifier": "catari.me",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/catari.me.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/catari.me.jpg"
-        }
-      ],
-      "name": "Elisa Catari Méndez"
-    },
-    {
-      "gender": "female",
-      "id": "65bea909-3683-4d06-85cb-a8d53b18bb36",
-      "identifiers": [
-        {
-          "identifier": "rojas.oe",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/rojas.oe.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/rojas.oe.jpg"
-        }
-      ],
-      "name": "Elvira Silvana Rojas Orellana"
-    },
-    {
-      "gender": "male",
-      "id": "5103e0e5-5d30-4f6e-a7cf-1c9dacfb6dd2",
-      "identifiers": [
-        {
-          "identifier": "monron.oe",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg"
-        }
-      ],
-      "name": "Erik Morón Osinaga"
-    },
-    {
-      "gender": "male",
-      "id": "73731b2f-5814-4a23-9186-d7aee3685520",
-      "identifiers": [
-        {
-          "identifier": "lopez.fe",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/lopez.fe.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/lopez.fe.jpg"
-        }
-      ],
-      "name": "Esteban López Fernández"
-    },
-    {
-      "gender": "female",
-      "id": "ffb2d36e-2514-4f3c-9f52-2987e0d76c60",
-      "identifiers": [
-        {
-          "identifier": "fernandez.me",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/fernandez.me.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/fernandez.me.jpg"
-        }
-      ],
-      "name": "Eusebia Fernández Montes"
-    },
-    {
-      "gender": "female",
-      "id": "bbe7e787-1f52-435b-88e9-e7502a7217a6",
-      "identifiers": [
-        {
-          "identifier": "malaga.mf",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/malaga.mf.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/malaga.mf.jpg"
-        }
-      ],
-      "name": "Felipa Malaga Mamani"
-    },
-    {
-      "gender": "female",
-      "id": "4a308444-8415-4245-8a3b-5a3ca0130433",
-      "identifiers": [
-        {
-          "identifier": "sanmartin.cf",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/sanmartin.cf.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/sanmartin.cf.jpg"
-        }
-      ],
-      "name": "Fernanda Elena San Martin Carrasco"
-    },
-    {
-      "gender": "male",
-      "id": "39cfa4a6-b4af-45c4-81f3-44aec396b6ee",
-      "identifiers": [
-        {
-          "identifier": "colque.pf",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/colque.pf.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/colque.pf.jpg"
-        }
-      ],
-      "name": "Fidel Colque Pascual"
-    },
-    {
-      "gender": "male",
-      "id": "4f47ed65-585e-429f-8f14-5aa3070c5bcb",
-      "identifiers": [
-        {
-          "identifier": "cuellar.rf",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/cuellar.rf.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/cuellar.rf.jpg"
-        }
-      ],
-      "name": "Francisco Cuellar Rios"
-    },
-    {
-      "gender": "male",
-      "id": "e9d7b709-b4ad-4f1d-be8e-5b8294c54406",
-      "identifiers": [
-        {
-          "identifier": "quispe.ff",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/quispe.ff.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/quispe.ff.jpg"
-        }
-      ],
-      "name": "Francisco Quispe Flores"
-    },
-    {
-      "gender": "male",
-      "id": "6002e8ab-6140-4aec-8f49-b307118755f8",
-      "identifiers": [
-        {
-          "identifier": "duran.lf",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/duran.lf.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/duran.lf.jpg"
-        }
-      ],
-      "name": "Franklin Duran Lopez"
-    },
-    {
-      "gender": "male",
-      "id": "6f1bad11-2a45-48a2-a270-38fe7b1e3598",
-      "identifiers": [
-        {
-          "identifier": "vargas.tf",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/vargas.tf.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/vargas.tf.jpg"
-        }
-      ],
-      "name": "Freddy Vargas Terceros"
-    },
-    {
-      "gender": "female",
-      "id": "15d4b8c2-211b-4197-937f-47c64ee3d58a",
-      "identifiers": [
-        {
-          "identifier": "torrez.sg",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/torrez.sg.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/torrez.sg.jpg"
-        }
-      ],
-      "name": "Ginna Maria Torrez Saracho"
-    },
-    {
-      "gender": "male",
-      "id": "c405b8d8-8015-4f60-981b-ebda60402db0",
-      "identifiers": [
-        {
-          "identifier": "aguilar.ag",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/aguilar.ag.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/aguilar.ag.jpg"
-        }
-      ],
-      "name": "Gonzalo Aguilar Ayma"
-    },
-    {
-      "gender": "male",
-      "id": "4b37af08-febc-4e45-84d2-d4fa931016cb",
-      "identifiers": [
-        {
-          "identifier": "barrientos.ag",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/barrientos.ag.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/barrientos.ag.jpg"
-        }
-      ],
-      "name": "Gonzalo Guillermo Barrientos Alvarado"
-    },
-    {
-      "gender": "male",
       "id": "2a2d0bf3-c2fc-4e1d-93bb-f5cf86a44e46",
       "identifiers": [
         {
@@ -886,91 +240,6 @@
         }
       ],
       "name": "Helmuth Vladimir Salinas Iñiguez"
-    },
-    {
-      "gender": "male",
-      "id": "6021d6af-364f-48fe-9e3d-f9c28865b0fc",
-      "identifiers": [
-        {
-          "identifier": "poppe.ih",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/poppe.ih.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/poppe.ih.jpg"
-        }
-      ],
-      "name": "Horacio Poppe Inch"
-    },
-    {
-      "gender": "male",
-      "id": "d473b8b7-9488-42a3-86d5-485db4104363",
-      "identifiers": [
-        {
-          "identifier": "soruco.gi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/soruco.gi.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/soruco.gi.jpg"
-        }
-      ],
-      "name": "Ignacio Soruco Grandchant"
-    },
-    {
-      "gender": "female",
-      "id": "58b0dc53-f776-4390-95ab-31f3d53ba17a",
-      "identifiers": [
-        {
-          "identifier": "ledezma.ti",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Beni/ledezma.ti.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Beni/ledezma.ti.jpg"
-        }
-      ],
-      "name": "Irma Herminia Ledezma Tambo"
-    },
-    {
-      "gender": "female",
-      "id": "97c094d0-221c-4abb-afc2-78148ff8db09",
-      "identifiers": [
-        {
-          "identifier": "miranda.ai",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/miranda.ai.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/miranda.ai.jpg"
-        }
-      ],
-      "name": "Isabel Jaqueline Miranda Alanez"
-    },
-    {
-      "gender": "male",
-      "id": "e630a680-7299-4d04-b242-ad633f72a14d",
-      "identifiers": [
-        {
-          "identifier": "vega.rj",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/vega.rj.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/vega.rj.jpg"
-        }
-      ],
-      "name": "Jacinto Vega Rivero"
     },
     {
       "gender": "male",
@@ -991,37 +260,105 @@
     },
     {
       "gender": "female",
-      "id": "a9778909-34ec-4cce-be4b-0090aa1347e2",
+      "id": "2cbf3922-04c4-44dc-99bf-e6728563e9d4",
       "identifiers": [
         {
-          "identifier": "jordan.aj",
+          "identifier": "mariscal.gk",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/jordan.aj.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mariscal.gk.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/jordan.aj.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mariscal.gk.jpg"
         }
       ],
-      "name": "Jhovana Margarett Jordan Antonio"
+      "name": "Kary Mariscal Guzmán"
     },
     {
       "gender": "male",
-      "id": "7fec4118-585c-45fa-afa9-c9c6e0f7413b",
+      "id": "2e93ebb8-0179-4b5b-90d9-af2215846fe2",
       "identifiers": [
         {
-          "identifier": "canelas.jj",
+          "identifier": "mamani.qm",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/canelas.jj.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/mamani.qm.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/canelas.jj.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/mamani.qm.jpg"
         }
       ],
-      "name": "Jose Manuel Canelas Jaime"
+      "name": "Manuel Mamani Quispe"
+    },
+    {
+      "gender": "female",
+      "id": "326f384a-b35a-426a-bfe7-f8672eb6f368",
+      "identifiers": [
+        {
+          "identifier": "anze.nv",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/anze.nv.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/anze.nv.jpg"
+        }
+      ],
+      "name": "Virginia Anze Nina"
+    },
+    {
+      "gender": "female",
+      "id": "32ca07e4-e5d3-4258-b507-2bb9c3810965",
+      "identifiers": [
+        {
+          "identifier": "costa.ba",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/costa.ba.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/costa.ba.jpg"
+        }
+      ],
+      "name": "Ana Jimena Costa Benavides"
+    },
+    {
+      "gender": "male",
+      "id": "345a24f2-0686-4241-83f8-176f62a88a13",
+      "identifiers": [
+        {
+          "identifier": "mita.dm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/mita.dm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/mita.dm.jpg"
+        }
+      ],
+      "name": "Mario Mita Daza"
+    },
+    {
+      "gender": "female",
+      "id": "379f7d27-1ed1-450c-904d-0cf383cad7b3",
+      "identifiers": [
+        {
+          "identifier": "franco.rs",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/franco.rs.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/franco.rs.jpg"
+        }
+      ],
+      "name": "Shirley Franco Rodriguez"
     },
     {
       "gender": "male",
@@ -1039,6 +376,108 @@
         }
       ],
       "name": "Juan Cala Ortega"
+    },
+    {
+      "gender": "female",
+      "id": "38ddab55-49b7-4da3-ab21-b1767bd73c6e",
+      "identifiers": [
+        {
+          "identifier": "catari.me",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/catari.me.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/catari.me.jpg"
+        }
+      ],
+      "name": "Elisa Catari Méndez"
+    },
+    {
+      "gender": "male",
+      "id": "39cfa4a6-b4af-45c4-81f3-44aec396b6ee",
+      "identifiers": [
+        {
+          "identifier": "colque.pf",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/colque.pf.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/colque.pf.jpg"
+        }
+      ],
+      "name": "Fidel Colque Pascual"
+    },
+    {
+      "gender": "male",
+      "id": "3b9c5c23-81f5-47e8-9b94-067964f6aae4",
+      "identifiers": [
+        {
+          "identifier": "huallpa.je",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/huallpa.je.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/huallpa.je.jpg"
+        }
+      ],
+      "name": "Eleuterio Huallpa Janco"
+    },
+    {
+      "gender": "female",
+      "id": "44591d66-1239-4a22-8664-630026d3b305",
+      "identifiers": [
+        {
+          "identifier": "quispe.aj",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/quispe.aj.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/quispe.aj.jpg"
+        }
+      ],
+      "name": "Juana Quispe Ari"
+    },
+    {
+      "gender": "female",
+      "id": "4a308444-8415-4245-8a3b-5a3ca0130433",
+      "identifiers": [
+        {
+          "identifier": "sanmartin.cf",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/sanmartin.cf.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/sanmartin.cf.jpg"
+        }
+      ],
+      "name": "Fernanda Elena San Martin Carrasco"
+    },
+    {
+      "gender": "male",
+      "id": "4b37af08-febc-4e45-84d2-d4fa931016cb",
+      "identifiers": [
+        {
+          "identifier": "barrientos.ag",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/barrientos.ag.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/barrientos.ag.jpg"
+        }
+      ],
+      "name": "Gonzalo Guillermo Barrientos Alvarado"
     },
     {
       "gender": "male",
@@ -1059,54 +498,156 @@
     },
     {
       "gender": "male",
-      "id": "bb38a11d-a1ce-4702-bcf0-c6df23f5183a",
+      "id": "4f47ed65-585e-429f-8f14-5aa3070c5bcb",
       "identifiers": [
         {
-          "identifier": "vasquez.cj",
+          "identifier": "cuellar.rf",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/vasquez.cj.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/cuellar.rf.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/vasquez.cj.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/cuellar.rf.jpg"
         }
       ],
-      "name": "Juan Vasquez Collque"
-    },
-    {
-      "gender": "female",
-      "id": "44591d66-1239-4a22-8664-630026d3b305",
-      "identifiers": [
-        {
-          "identifier": "quispe.aj",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/quispe.aj.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/quispe.aj.jpg"
-        }
-      ],
-      "name": "Juana Quispe Ari"
+      "name": "Francisco Cuellar Rios"
     },
     {
       "gender": "male",
-      "id": "c3689e59-9abd-4e92-b8a4-fa385ecf2d00",
+      "id": "5103e0e5-5d30-4f6e-a7cf-1c9dacfb6dd2",
       "identifiers": [
         {
-          "identifier": "huanca.nj",
+          "identifier": "monron.oe",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/huanca.nj.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/huanca.nj.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg"
         }
       ],
-      "name": "Julio Grover Huanca Nina"
+      "name": "Erik Morón Osinaga"
+    },
+    {
+      "gender": "female",
+      "id": "53605ee9-68a3-475b-89f1-eb9231c4e91f",
+      "identifiers": [
+        {
+          "identifier": "suarez.bb",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/suarez.bb.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/suarez.bb.jpg"
+        }
+      ],
+      "name": "Benita Suarez Barba"
+    },
+    {
+      "gender": "female",
+      "id": "537ef028-a59d-436f-8552-d68e09340a1e",
+      "identifiers": [
+        {
+          "identifier": "ortiz.c",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/ortiz.c.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/ortiz.c.jpg"
+        }
+      ],
+      "name": "Concepcion Ortiz"
+    },
+    {
+      "gender": "female",
+      "id": "574e0098-9792-40d5-a374-2153cf7acc21",
+      "identifiers": [
+        {
+          "identifier": "yarhui.ay",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/yarhui.ay.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/yarhui.ay.jpg"
+        }
+      ],
+      "name": "Yesenia Yarhui Albino"
+    },
+    {
+      "gender": "female",
+      "id": "57e5501d-b497-4e0e-8e9f-084ead4c41ea",
+      "identifiers": [
+        {
+          "identifier": "pierola.vn",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/pierola.vn.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/pierola.vn.jpg"
+        }
+      ],
+      "name": "Norma Alicia Pierola Valdez"
+    },
+    {
+      "gender": "female",
+      "id": "58b0dc53-f776-4390-95ab-31f3d53ba17a",
+      "identifiers": [
+        {
+          "identifier": "ledezma.ti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Beni/ledezma.ti.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Beni/ledezma.ti.jpg"
+        }
+      ],
+      "name": "Irma Herminia Ledezma Tambo"
+    },
+    {
+      "gender": "female",
+      "id": "58dd3f30-6904-4770-8df7-481dfc4dd373",
+      "identifiers": [
+        {
+          "identifier": "montanio.rc",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/montanio.rc.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/montanio.rc.jpg"
+        }
+      ],
+      "name": "Carol Mireya Montaño Rocha"
+    },
+    {
+      "gender": "female",
+      "id": "5a3a6456-4bf1-459f-bc57-a77262292687",
+      "identifiers": [
+        {
+          "identifier": "cartagena.ls",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/cartagena.ls.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/cartagena.ls.jpg"
+        }
+      ],
+      "name": "Sandra Cartagena Lopez"
     },
     {
       "gender": "male",
@@ -1126,72 +667,276 @@
       "name": "Julio Hermogenes Costas Gonzales"
     },
     {
-      "gender": "male",
-      "id": "b4fe3bd8-61af-4505-b342-ecb6312436a1",
+      "gender": "female",
+      "id": "5ade9f26-8755-49b6-b8ed-4cbd67af43a5",
       "identifiers": [
         {
-          "identifier": "huaraya.cj",
+          "identifier": "arias.qr",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/huaraya.cj.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/arias.qr.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/huaraya.cj.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/arias.qr.jpg"
         }
       ],
-      "name": "Julio Huaraya Cabrera"
+      "name": "Ros Mery Arias Quiroga"
     },
     {
       "gender": "male",
-      "id": "c1e88648-7565-4c16-8c68-dc1fb86fb5c1",
+      "id": "5e4922ec-95ae-44b3-b658-1dedaa07b0ad",
       "identifiers": [
         {
-          "identifier": "jimenez.lj",
+          "identifier": "eguez.ao",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/jimenez.lj.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Beni/eguez.ao.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/jimenez.lj.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Beni/eguez.ao.jpg"
         }
       ],
-      "name": "Julio Sabas Jimenez Llanque"
+      "name": "Orlando Egüez Algarañaz"
+    },
+    {
+      "gender": "male",
+      "id": "6002e8ab-6140-4aec-8f49-b307118755f8",
+      "identifiers": [
+        {
+          "identifier": "duran.lf",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/duran.lf.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/duran.lf.jpg"
+        }
+      ],
+      "name": "Franklin Duran Lopez"
+    },
+    {
+      "gender": "male",
+      "id": "6021d6af-364f-48fe-9e3d-f9c28865b0fc",
+      "identifiers": [
+        {
+          "identifier": "poppe.ih",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/poppe.ih.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/poppe.ih.jpg"
+        }
+      ],
+      "name": "Horacio Poppe Inch"
+    },
+    {
+      "gender": "male",
+      "id": "6435b2ee-2a5e-46b2-a998-e6756518b817",
+      "identifiers": [
+        {
+          "identifier": "borda.bv",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/borda.bv.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/borda.bv.jpg"
+        }
+      ],
+      "name": "Victor Ezequiel Borda Belzu"
     },
     {
       "gender": "female",
-      "id": "2cbf3922-04c4-44dc-99bf-e6728563e9d4",
+      "id": "65a6f7f9-8c45-4300-88f8-937ca32a3c8c",
       "identifiers": [
         {
-          "identifier": "mariscal.gk",
+          "identifier": "fernandez.cm",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mariscal.gk.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Beni/fernandez.cm.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mariscal.gk.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Beni/fernandez.cm.jpg"
         }
       ],
-      "name": "Kary Mariscal Guzmán"
+      "name": "Margarita del Carmen Fernandez Claure"
     },
     {
       "gender": "female",
-      "id": "1a21eee6-9b28-41d6-a5b1-8e57d9c068df",
+      "id": "65bea909-3683-4d06-85cb-a8d53b18bb36",
       "identifiers": [
         {
-          "identifier": "zambrana.ck",
+          "identifier": "rojas.oe",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/zambrana.ck.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/rojas.oe.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/zambrana.ck.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/rojas.oe.jpg"
         }
       ],
-      "name": "Kathya Scarlett Zambrana Cardona"
+      "name": "Elvira Silvana Rojas Orellana"
+    },
+    {
+      "gender": "female",
+      "id": "690fe0b8-4ca2-4746-8dc9-035ddfa273da",
+      "identifiers": [
+        {
+          "identifier": "quisbert.tn",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/quisbert.tn.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/quisbert.tn.jpg"
+        }
+      ],
+      "name": "Nora Quisbert Tito"
+    },
+    {
+      "gender": "male",
+      "id": "6a8b6bcc-96c9-42b1-bc5a-f8aa12fb73ef",
+      "identifiers": [
+        {
+          "identifier": "quispe.ps",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/quispe.ps.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/quispe.ps.jpg"
+        }
+      ],
+      "name": "Saturnino Javier Quispe Poma"
+    },
+    {
+      "gender": "male",
+      "id": "6f1bad11-2a45-48a2-a270-38fe7b1e3598",
+      "identifiers": [
+        {
+          "identifier": "vargas.tf",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/vargas.tf.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/vargas.tf.jpg"
+        }
+      ],
+      "name": "Freddy Vargas Terceros"
+    },
+    {
+      "gender": "male",
+      "id": "73731b2f-5814-4a23-9186-d7aee3685520",
+      "identifiers": [
+        {
+          "identifier": "lopez.fe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/lopez.fe.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/lopez.fe.jpg"
+        }
+      ],
+      "name": "Esteban López Fernández"
+    },
+    {
+      "gender": "female",
+      "id": "75b6ef43-ea57-4340-965f-632f5055c356",
+      "identifiers": [
+        {
+          "identifier": "canaviri.cd",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/canaviri.cd.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/canaviri.cd.jpg"
+        }
+      ],
+      "name": "Delia Canaviri Condori"
+    },
+    {
+      "gender": "female",
+      "id": "788123d5-6e04-4658-9395-d6edd9b7d357",
+      "identifiers": [
+        {
+          "identifier": "cruz.cc",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cruz.cc.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cruz.cc.jpg"
+        }
+      ],
+      "name": "Carmen Muriel Cruz Claros"
+    },
+    {
+      "gender": "male",
+      "id": "799e8e5d-fa70-4847-8883-6047355ade22",
+      "identifiers": [
+        {
+          "identifier": "colque.mz",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/colque.mz.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/colque.mz.jpg"
+        }
+      ],
+      "name": "Zacarias Colque Matias"
+    },
+    {
+      "gender": "male",
+      "id": "7b23eaac-e8a5-4371-adfd-aa99e342f92e",
+      "identifiers": [
+        {
+          "identifier": "velasquez.sb",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/velasquez.sb.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/velasquez.sb.jpg"
+        }
+      ],
+      "name": "Bacilio Velasquez Salazar"
+    },
+    {
+      "gender": "female",
+      "id": "7b8cdea0-538d-4407-a266-90f76bdd27a9",
+      "identifiers": [
+        {
+          "identifier": "araujo.dd",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Pando/araujo.dd.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Pando/araujo.dd.jpg"
+        }
+      ],
+      "name": "Dulce Maria Araujo Dominguez"
     },
     {
       "gender": "male",
@@ -1271,176 +1016,6 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "11c6433b-6254-4299-a091-df5bfb835d60",
-      "identifiers": [
-        {
-          "identifier": "villca.cl",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/villca.cl.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/villca.cl.jpg"
-        }
-      ],
-      "name": "Lily Rosario Villca Calle"
-    },
-    {
-      "gender": "female",
-      "id": "cc3f95e6-da95-4dee-a18b-135106538106",
-      "identifiers": [
-        {
-          "identifier": "millares.rl",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/millares.rl.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/millares.rl.jpg"
-        }
-      ],
-      "name": "Lindaura Lourdes Millares Rios"
-    },
-    {
-      "gender": "male",
-      "id": "071871e4-b31c-4469-b973-ddb9444dc879",
-      "identifiers": [
-        {
-          "identifier": "gomez.ll",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/gomez.ll.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/gomez.ll.jpg"
-        }
-      ],
-      "name": "Lucio Gomez Lojo"
-    },
-    {
-      "gender": "male",
-      "id": "a6a735c1-ca77-4ea3-a4c3-0dbec1a19a43",
-      "identifiers": [
-        {
-          "identifier": "dorado.ml",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/dorado.ml.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/dorado.ml.jpg"
-        }
-      ],
-      "name": "Luis Felipe Dorado Middagh"
-    },
-    {
-      "gender": "female",
-      "id": "93d96227-8209-4d71-85fe-6b17e6f1f666",
-      "identifiers": [
-        {
-          "identifier": "paz.cm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/paz.cm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/paz.cm.jpg"
-        }
-      ],
-      "name": "Maida Paz Callau"
-    },
-    {
-      "gender": "male",
-      "id": "2e93ebb8-0179-4b5b-90d9-af2215846fe2",
-      "identifiers": [
-        {
-          "identifier": "mamani.qm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/mamani.qm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/mamani.qm.jpg"
-        }
-      ],
-      "name": "Manuel Mamani Quispe"
-    },
-    {
-      "gender": "female",
-      "id": "f2a8e2d8-351b-4962-b796-36864227e3d3",
-      "identifiers": [
-        {
-          "identifier": "vasquez.m",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/vasquez.m.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/vasquez.m.jpg"
-        }
-      ],
-      "name": "Marcela Vasquez"
-    },
-    {
-      "gender": "female",
-      "id": "65a6f7f9-8c45-4300-88f8-937ca32a3c8c",
-      "identifiers": [
-        {
-          "identifier": "fernandez.cm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Beni/fernandez.cm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Beni/fernandez.cm.jpg"
-        }
-      ],
-      "name": "Margarita del Carmen Fernandez Claure"
-    },
-    {
-      "gender": "female",
-      "id": "061b8112-41b0-41e8-ba29-43ed39987782",
-      "identifiers": [
-        {
-          "identifier": "calcina.rm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/calcina.rm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/calcina.rm.jpg"
-        }
-      ],
-      "name": "Maria Eugenia Calcina Rivero"
-    },
-    {
-      "gender": "female",
-      "id": "ea96e8ea-f802-47e4-b32f-1f2e310e7473",
-      "identifiers": [
-        {
-          "identifier": "calle.pm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/calle.pm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/calle.pm.jpg"
-        }
-      ],
-      "name": "Maria Natalia Calle Perez"
-    },
-    {
       "gender": "male",
       "id": "7e1b392d-d29a-4b23-b353-fbf4d334465e",
       "identifiers": [
@@ -1458,242 +1033,21 @@
       "name": "Mario Guerrero Gonzales"
     },
     {
-      "gender": "male",
-      "id": "345a24f2-0686-4241-83f8-176f62a88a13",
-      "identifiers": [
-        {
-          "identifier": "mita.dm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/mita.dm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/mita.dm.jpg"
-        }
-      ],
-      "name": "Mario Mita Daza"
-    },
-    {
-      "gender": "male",
-      "id": "fa611427-195e-4fed-bdc8-dc5ab5550b83",
-      "identifiers": [
-        {
-          "identifier": "mamani.cm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mamani.cm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mamani.cm.jpg"
-        }
-      ],
-      "name": "Martiriano Mamani Cari"
-    },
-    {
       "gender": "female",
-      "id": "cf4c34b8-3358-405f-8548-0caf43e2ce09",
+      "id": "7e39c760-74fb-4586-9624-a9eda3cd0634",
       "identifiers": [
         {
-          "identifier": "quispe.qm",
+          "identifier": "vidal.va",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/quispe.qm.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Beni/vidal.va.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/quispe.qm.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Beni/vidal.va.jpg"
         }
       ],
-      "name": "Maura Quispe Quispe"
-    },
-    {
-      "gender": "male",
-      "id": "2372b6e5-158f-44b6-b1e8-c0bee03c3c7c",
-      "identifiers": [
-        {
-          "identifier": "feeney.pm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/feeney.pm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/feeney.pm.jpg"
-        }
-      ],
-      "name": "Miguel Angel Feeney Parada"
-    },
-    {
-      "gender": "male",
-      "id": "a6a68ffe-26c5-4032-98f7-eb57f5afec2c",
-      "identifiers": [
-        {
-          "identifier": "ojopi.sm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Pando/ojopi.sm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Pando/ojopi.sm.jpg"
-        }
-      ],
-      "name": "Miguel Santa Lucia Ojopi Sosa"
-    },
-    {
-      "gender": "female",
-      "id": "8f065ca8-4411-4936-b023-042cb3aeb703",
-      "identifiers": [
-        {
-          "identifier": "supo.tm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/supo.tm.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/supo.tm.jpg"
-        }
-      ],
-      "name": "Modesta Supo Tallacahua"
-    },
-    {
-      "gender": "female",
-      "id": "b1de6fe2-bfd2-4b49-a1d3-61e9854258e9",
-      "identifiers": [
-        {
-          "identifier": "lenz.rn",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/lenz.rn.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/lenz.rn.jpg"
-        }
-      ],
-      "name": "Nelly Lenz Roso"
-    },
-    {
-      "gender": "female",
-      "id": "690fe0b8-4ca2-4746-8dc9-035ddfa273da",
-      "identifiers": [
-        {
-          "identifier": "quisbert.tn",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/quisbert.tn.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/quisbert.tn.jpg"
-        }
-      ],
-      "name": "Nora Quisbert Tito"
-    },
-    {
-      "gender": "female",
-      "id": "57e5501d-b497-4e0e-8e9f-084ead4c41ea",
-      "identifiers": [
-        {
-          "identifier": "pierola.vn",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/pierola.vn.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/pierola.vn.jpg"
-        }
-      ],
-      "name": "Norma Alicia Pierola Valdez"
-    },
-    {
-      "gender": "male",
-      "id": "f0816044-55f7-4252-8897-28a8d8f9fc70",
-      "identifiers": [
-        {
-          "identifier": "lazarte.cn",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Tarija/lazarte.cn.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Tarija/lazarte.cn.jpg"
-        }
-      ],
-      "name": "Norman Rene Lazarte Calizaya"
-    },
-    {
-      "gender": "male",
-      "id": "5e4922ec-95ae-44b3-b658-1dedaa07b0ad",
-      "identifiers": [
-        {
-          "identifier": "eguez.ao",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Beni/eguez.ao.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Beni/eguez.ao.jpg"
-        }
-      ],
-      "name": "Orlando Egüez Algarañaz"
-    },
-    {
-      "gender": "female",
-      "id": "dabcbeeb-29b6-4359-8dff-1c0874540963",
-      "identifiers": [
-        {
-          "identifier": "choque.vo",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/choque.vo.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/choque.vo.jpg"
-        }
-      ],
-      "name": "Otilia Choque Veliz"
-    },
-    {
-      "gender": "female",
-      "id": "c4613252-b41f-44e1-be0e-a7f735f71e2a",
-      "identifiers": [
-        {
-          "identifier": "chavez.np",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/chavez.np.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/chavez.np.jpg"
-        }
-      ],
-      "name": "Patricia Chavez Noe"
-    },
-    {
-      "gender": "female",
-      "id": "8cdece64-7c90-4f73-995c-cdc8ae58b7e8",
-      "identifiers": [
-        {
-          "identifier": "chavez.vp",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/chavez.vp.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/chavez.vp.jpg"
-        }
-      ],
-      "name": "Pura Leny Chavez Vaca"
+      "name": "Ana Vidal Velasco"
     },
     {
       "gender": "female",
@@ -1711,346 +1065,6 @@
         }
       ],
       "name": "Ramona Moye Camaconi"
-    },
-    {
-      "gender": "male",
-      "id": "ad39de2f-a8ca-4866-a54d-35ec2d8ce626",
-      "identifiers": [
-        {
-          "identifier": "rocha.ar",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/rocha.ar.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/rocha.ar.jpg"
-        }
-      ],
-      "name": "Raul Rocha Ayala"
-    },
-    {
-      "gender": "female",
-      "id": "169901dd-c6da-48bd-a180-1fc5f7175e72",
-      "identifiers": [
-        {
-          "identifier": "perez.rr",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/perez.rr.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/perez.rr.jpg"
-        }
-      ],
-      "name": "Romina Guadalupe Perez Ramos"
-    },
-    {
-      "gender": "female",
-      "id": "5ade9f26-8755-49b6-b8ed-4cbd67af43a5",
-      "identifiers": [
-        {
-          "identifier": "arias.qr",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/arias.qr.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/arias.qr.jpg"
-        }
-      ],
-      "name": "Ros Mery Arias Quiroga"
-    },
-    {
-      "gender": "female",
-      "id": "e21d78f0-b691-4039-8729-7c8a690db9cb",
-      "identifiers": [
-        {
-          "identifier": "alvarez.cr",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/alvarez.cr.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/alvarez.cr.jpg"
-        }
-      ],
-      "name": "Rosa Alvarez Choquetupa"
-    },
-    {
-      "gender": "female",
-      "id": "bc183bcd-9907-4327-aac8-eb0cdda8cf00",
-      "identifiers": [
-        {
-          "identifier": "chuquimia.tr",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/chuquimia.tr.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/chuquimia.tr.jpg"
-        }
-      ],
-      "name": "Rosa Ines Chuquimia Tarquino"
-    },
-    {
-      "gender": "female",
-      "id": "20c2b026-9661-4ff0-82f9-056092aee530",
-      "identifiers": [
-        {
-          "identifier": "sandoval.fr",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sandoval.fr.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sandoval.fr.jpg"
-        }
-      ],
-      "name": "Rose Marie Sandoval Farfan"
-    },
-    {
-      "gender": "male",
-      "id": "c228eeb5-b819-42dc-8706-a3c94d7afbf4",
-      "identifiers": [
-        {
-          "identifier": "chambi.mr",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/chambi.mr.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/chambi.mr.jpg"
-        }
-      ],
-      "name": "Ruben Chambi Mollericona"
-    },
-    {
-      "gender": "male",
-      "id": "95306065-ab36-400d-8494-8de81530f0bf",
-      "identifiers": [
-        {
-          "identifier": "estrada.ss",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/estrada.ss.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/estrada.ss.jpg"
-        }
-      ],
-      "name": "Sabelio Estrada Soliz"
-    },
-    {
-      "gender": "female",
-      "id": "5a3a6456-4bf1-459f-bc57-a77262292687",
-      "identifiers": [
-        {
-          "identifier": "cartagena.ls",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/cartagena.ls.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/cartagena.ls.jpg"
-        }
-      ],
-      "name": "Sandra Cartagena Lopez"
-    },
-    {
-      "gender": "male",
-      "id": "0f33832d-a601-42dc-b1cc-3a55bc1c33cc",
-      "identifiers": [
-        {
-          "identifier": "paredes.ms",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Oruro/paredes.ms.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Oruro/paredes.ms.jpg"
-        }
-      ],
-      "name": "Santos Paredes Mamani"
-    },
-    {
-      "gender": "male",
-      "id": "6a8b6bcc-96c9-42b1-bc5a-f8aa12fb73ef",
-      "identifiers": [
-        {
-          "identifier": "quispe.ps",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/quispe.ps.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/quispe.ps.jpg"
-        }
-      ],
-      "name": "Saturnino Javier Quispe Poma"
-    },
-    {
-      "gender": "male",
-      "id": "e82560b9-c43f-4446-8e79-0b4204f0166e",
-      "identifiers": [
-        {
-          "identifier": "texeira.rs",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Pando/texeira.rs.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Pando/texeira.rs.jpg"
-        }
-      ],
-      "name": "Sebastian Texeira Rojas"
-    },
-    {
-      "gender": "female",
-      "id": "379f7d27-1ed1-450c-904d-0cf383cad7b3",
-      "identifiers": [
-        {
-          "identifier": "franco.rs",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/franco.rs.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/franco.rs.jpg"
-        }
-      ],
-      "name": "Shirley Franco Rodriguez"
-    },
-    {
-      "gender": "male",
-      "id": "cbfdcbfd-81e9-4ef0-9e5f-e2ecf01852bb",
-      "identifiers": [
-        {
-          "identifier": "choque.ss",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/choque.ss.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/choque.ss.jpg"
-        }
-      ],
-      "name": "Simon Sergio Choque Siñani"
-    },
-    {
-      "gender": "female",
-      "id": "c81c00e9-8ff3-497a-a151-9777abcd6994",
-      "identifiers": [
-        {
-          "identifier": "brito.ss",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/brito.ss.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/brito.ss.jpg"
-        }
-      ],
-      "name": "Sonia Silvia Brito Sandoval"
-    },
-    {
-      "gender": "female",
-      "id": "a5fae9f6-c1f7-4cbc-81a7-bed868c8f571",
-      "identifiers": [
-        {
-          "identifier": "rivero.gs",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Beni/rivero.gs.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Beni/rivero.gs.jpg"
-        }
-      ],
-      "name": "Susana Rivero Guzman"
-    },
-    {
-      "gender": "male",
-      "id": "9da904a2-8df2-49a1-bb54-76102202cc67",
-      "identifiers": [
-        {
-          "identifier": "veizaga.ct",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/veizaga.ct.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/veizaga.ct.jpg"
-        }
-      ],
-      "name": "Tito Veizaga Cossio"
-    },
-    {
-      "gender": "male",
-      "id": "f74ad1b9-6adc-473b-9f9c-c23100c512fe",
-      "identifiers": [
-        {
-          "identifier": "monasterio.rt",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monasterio.rt.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monasterio.rt.jpg"
-        }
-      ],
-      "name": "Tomas Xavier Monasterio Romay"
-    },
-    {
-      "gender": "female",
-      "id": "a45b15be-cd10-4718-8090-af431aadaa1b",
-      "identifiers": [
-        {
-          "identifier": "pomacusi.ct",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/pomacusi.ct.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/pomacusi.ct.jpg"
-        }
-      ],
-      "name": "Toribia Pomacusi Chipana"
-    },
-    {
-      "gender": "female",
-      "id": "b3a48ed5-89e3-4058-9154-d469f79ab643",
-      "identifiers": [
-        {
-          "identifier": "munioz.ct",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/munioz.ct.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/munioz.ct.jpg"
-        }
-      ],
-      "name": "Trifonia Griselda Muñoz Colque"
     },
     {
       "gender": "female",
@@ -2071,105 +1085,139 @@
     },
     {
       "gender": "male",
-      "id": "b3fee825-1d01-41f4-a454-5d4027d12679",
+      "id": "7fec4118-585c-45fa-afa9-c9c6e0f7413b",
       "identifiers": [
         {
-          "identifier": "gutierrez.fv",
+          "identifier": "canelas.jj",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.fv.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/canelas.jj.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.fv.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/canelas.jj.jpg"
         }
       ],
-      "name": "Victor Alonzo Gutierrez Flores"
+      "name": "Jose Manuel Canelas Jaime"
     },
     {
       "gender": "male",
-      "id": "6435b2ee-2a5e-46b2-a998-e6756518b817",
+      "id": "84800dd2-21ca-4f8d-b526-9cbd22dbe8e2",
       "identifiers": [
         {
-          "identifier": "borda.bv",
+          "identifier": "choque.ca",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/borda.bv.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/choque.ca.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/borda.bv.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/choque.ca.jpg"
         }
       ],
-      "name": "Victor Ezequiel Borda Belzu"
+      "name": "Aniceto Choque Chino"
     },
     {
       "gender": "female",
-      "id": "326f384a-b35a-426a-bfe7-f8672eb6f368",
+      "id": "86bffcf6-3eed-468d-808d-a304b5090672",
       "identifiers": [
         {
-          "identifier": "anze.nv",
+          "identifier": "amurrio.pa",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/anze.nv.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/amurrio.pa.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/anze.nv.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/amurrio.pa.jpg"
         }
       ],
-      "name": "Virginia Anze Nina"
+      "name": "Anacleta Amurrio Paniagua"
     },
     {
       "gender": "female",
-      "id": "aff904f3-c19d-4f24-9c8e-744f97b86c8c",
+      "id": "8cdece64-7c90-4f73-995c-cdc8ae58b7e8",
       "identifiers": [
         {
-          "identifier": "terceros.pv",
+          "identifier": "chavez.vp",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/terceros.pv.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/chavez.vp.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/terceros.pv.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/chavez.vp.jpg"
         }
       ],
-      "name": "Virginia Terceros Pinto"
+      "name": "Pura Leny Chavez Vaca"
+    },
+    {
+      "gender": "female",
+      "id": "8f065ca8-4411-4936-b023-042cb3aeb703",
+      "identifiers": [
+        {
+          "identifier": "supo.tm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/supo.tm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/supo.tm.jpg"
+        }
+      ],
+      "name": "Modesta Supo Tallacahua"
+    },
+    {
+      "gender": "female",
+      "id": "9070bb16-0fd5-4f95-9c55-525b072e13f8",
+      "identifiers": [
+        {
+          "identifier": "yaniquez.lb",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/yaniquez.lb.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/yaniquez.lb.jpg"
+        }
+      ],
+      "name": "Betty Beatriz Yañiquez Lozano"
+    },
+    {
+      "gender": "female",
+      "id": "93d96227-8209-4d71-85fe-6b17e6f1f666",
+      "identifiers": [
+        {
+          "identifier": "paz.cm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/paz.cm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/paz.cm.jpg"
+        }
+      ],
+      "name": "Maida Paz Callau"
     },
     {
       "gender": "male",
-      "id": "f817221c-7c69-4d87-81ff-7cbd1b117cc7",
+      "id": "95306065-ab36-400d-8494-8de81530f0bf",
       "identifiers": [
         {
-          "identifier": "ayala.sw",
+          "identifier": "estrada.ss",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Pando/ayala.sw.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/estrada.ss.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Pando/ayala.sw.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/estrada.ss.jpg"
         }
       ],
-      "name": "Walter Ayala Siripi"
-    },
-    {
-      "gender": "male",
-      "id": "9d89525a-3e03-41bb-911b-d6255711d509",
-      "identifiers": [
-        {
-          "identifier": "roque.gw",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Beni/roque.gw.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Beni/roque.gw.jpg"
-        }
-      ],
-      "name": "Walter Roque Gomez"
+      "name": "Sabelio Estrada Soliz"
     },
     {
       "gender": "male",
@@ -2190,37 +1238,989 @@
     },
     {
       "gender": "female",
-      "id": "574e0098-9792-40d5-a374-2153cf7acc21",
+      "id": "97c094d0-221c-4abb-afc2-78148ff8db09",
       "identifiers": [
         {
-          "identifier": "yarhui.ay",
+          "identifier": "miranda.ai",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/yarhui.ay.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/miranda.ai.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/yarhui.ay.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/miranda.ai.jpg"
         }
       ],
-      "name": "Yesenia Yarhui Albino"
+      "name": "Isabel Jaqueline Miranda Alanez"
+    },
+    {
+      "gender": "female",
+      "id": "9b58056b-cb9f-4b1a-a5e9-cbf98b930916",
+      "identifiers": [
+        {
+          "identifier": "dominguez.ac",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/dominguez.ac.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/dominguez.ac.jpg"
+        }
+      ],
+      "name": "Carmen Rosa Dominguez Arias"
     },
     {
       "gender": "male",
-      "id": "799e8e5d-fa70-4847-8883-6047355ade22",
+      "id": "9d89525a-3e03-41bb-911b-d6255711d509",
       "identifiers": [
         {
-          "identifier": "colque.mz",
+          "identifier": "roque.gw",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.diputados.bo/script/imagenes/Potosi/colque.mz.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Beni/roque.gw.jpg",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Potosi/colque.mz.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Beni/roque.gw.jpg"
         }
       ],
-      "name": "Zacarias Colque Matias"
+      "name": "Walter Roque Gomez"
+    },
+    {
+      "gender": "male",
+      "id": "9da904a2-8df2-49a1-bb54-76102202cc67",
+      "identifiers": [
+        {
+          "identifier": "veizaga.ct",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/veizaga.ct.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/veizaga.ct.jpg"
+        }
+      ],
+      "name": "Tito Veizaga Cossio"
+    },
+    {
+      "gender": "male",
+      "id": "a1d5910c-f5f7-47b5-93f9-a7937a9a4dc7",
+      "identifiers": [
+        {
+          "identifier": "rendon.re",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/rendon.re.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/rendon.re.jpg"
+        }
+      ],
+      "name": "Edgar Rendon Rios"
+    },
+    {
+      "gender": "female",
+      "id": "a45b15be-cd10-4718-8090-af431aadaa1b",
+      "identifiers": [
+        {
+          "identifier": "pomacusi.ct",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/pomacusi.ct.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/pomacusi.ct.jpg"
+        }
+      ],
+      "name": "Toribia Pomacusi Chipana"
+    },
+    {
+      "gender": "female",
+      "id": "a5fae9f6-c1f7-4cbc-81a7-bed868c8f571",
+      "identifiers": [
+        {
+          "identifier": "rivero.gs",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Beni/rivero.gs.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Beni/rivero.gs.jpg"
+        }
+      ],
+      "name": "Susana Rivero Guzman"
+    },
+    {
+      "gender": "male",
+      "id": "a6a68ffe-26c5-4032-98f7-eb57f5afec2c",
+      "identifiers": [
+        {
+          "identifier": "ojopi.sm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Pando/ojopi.sm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Pando/ojopi.sm.jpg"
+        }
+      ],
+      "name": "Miguel Santa Lucia Ojopi Sosa"
+    },
+    {
+      "gender": "male",
+      "id": "a6a735c1-ca77-4ea3-a4c3-0dbec1a19a43",
+      "identifiers": [
+        {
+          "identifier": "dorado.ml",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/dorado.ml.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/dorado.ml.jpg"
+        }
+      ],
+      "name": "Luis Felipe Dorado Middagh"
+    },
+    {
+      "gender": "male",
+      "id": "a7c45fae-2287-4ef9-85eb-a250fc1c9b8b",
+      "identifiers": [
+        {
+          "identifier": "polo.ae",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/polo.ae.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/polo.ae.jpg"
+        }
+      ],
+      "name": "Edmundo Gaston Polo Ariñez"
+    },
+    {
+      "gender": "female",
+      "id": "a9778909-34ec-4cce-be4b-0090aa1347e2",
+      "identifiers": [
+        {
+          "identifier": "jordan.aj",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/jordan.aj.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/jordan.aj.jpg"
+        }
+      ],
+      "name": "Jhovana Margarett Jordan Antonio"
+    },
+    {
+      "gender": "female",
+      "id": "a9877bac-47ba-4389-8df7-2f87f4c3367d",
+      "identifiers": [
+        {
+          "identifier": "vargas.vc",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/vargas.vc.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/vargas.vc.jpg"
+        }
+      ],
+      "name": "Clery Vargas Villca"
+    },
+    {
+      "gender": "male",
+      "id": "ab63683c-8b22-42b3-aee3-324e3bd6aa4f",
+      "identifiers": [
+        {
+          "identifier": "guzman.ca",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Beni/guzman.ca.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Beni/guzman.ca.jpg"
+        }
+      ],
+      "name": "Alvaro Rodrigo Guzman Collao"
+    },
+    {
+      "gender": "male",
+      "id": "ad39de2f-a8ca-4866-a54d-35ec2d8ce626",
+      "identifiers": [
+        {
+          "identifier": "rocha.ar",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/rocha.ar.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/rocha.ar.jpg"
+        }
+      ],
+      "name": "Raul Rocha Ayala"
+    },
+    {
+      "gender": "female",
+      "id": "adbb1b08-c6f4-4bdb-adda-6b9e5401c48e",
+      "identifiers": [
+        {
+          "identifier": "canqui.ca",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/canqui.ca.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/canqui.ca.jpg"
+        }
+      ],
+      "name": "Alicia Canqui Condori"
+    },
+    {
+      "gender": "female",
+      "id": "aff904f3-c19d-4f24-9c8e-744f97b86c8c",
+      "identifiers": [
+        {
+          "identifier": "terceros.pv",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/terceros.pv.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/terceros.pv.jpg"
+        }
+      ],
+      "name": "Virginia Terceros Pinto"
+    },
+    {
+      "gender": "female",
+      "id": "b1de6fe2-bfd2-4b49-a1d3-61e9854258e9",
+      "identifiers": [
+        {
+          "identifier": "lenz.rn",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/lenz.rn.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/lenz.rn.jpg"
+        }
+      ],
+      "name": "Nelly Lenz Roso"
+    },
+    {
+      "gender": "female",
+      "id": "b3a48ed5-89e3-4058-9154-d469f79ab643",
+      "identifiers": [
+        {
+          "identifier": "munioz.ct",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/munioz.ct.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/munioz.ct.jpg"
+        }
+      ],
+      "name": "Trifonia Griselda Muñoz Colque"
+    },
+    {
+      "gender": "male",
+      "id": "b3fee825-1d01-41f4-a454-5d4027d12679",
+      "identifiers": [
+        {
+          "identifier": "gutierrez.fv",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.fv.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.fv.jpg"
+        }
+      ],
+      "name": "Victor Alonzo Gutierrez Flores"
+    },
+    {
+      "gender": "male",
+      "id": "b4f2630f-5798-441e-82ec-d16462512912",
+      "identifiers": [
+        {
+          "identifier": "lazo.a",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/lazo.a.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/lazo.a.jpg"
+        }
+      ],
+      "name": "Ascencio Lazo"
+    },
+    {
+      "gender": "male",
+      "id": "b4fe3bd8-61af-4505-b342-ecb6312436a1",
+      "identifiers": [
+        {
+          "identifier": "huaraya.cj",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/huaraya.cj.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/huaraya.cj.jpg"
+        }
+      ],
+      "name": "Julio Huaraya Cabrera"
+    },
+    {
+      "gender": "female",
+      "id": "b79b5a88-f56a-4591-a81d-e74f031876da",
+      "identifiers": [
+        {
+          "identifier": "capobianco.sb",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/capobianco.sb.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/capobianco.sb.jpg"
+        }
+      ],
+      "name": "Beatriz Eliane Capobianco Sandoval"
+    },
+    {
+      "gender": "male",
+      "id": "bb38a11d-a1ce-4702-bcf0-c6df23f5183a",
+      "identifiers": [
+        {
+          "identifier": "vasquez.cj",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/vasquez.cj.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/vasquez.cj.jpg"
+        }
+      ],
+      "name": "Juan Vasquez Collque"
+    },
+    {
+      "gender": "female",
+      "id": "bbe7e787-1f52-435b-88e9-e7502a7217a6",
+      "identifiers": [
+        {
+          "identifier": "malaga.mf",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/malaga.mf.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/malaga.mf.jpg"
+        }
+      ],
+      "name": "Felipa Malaga Mamani"
+    },
+    {
+      "gender": "female",
+      "id": "bc183bcd-9907-4327-aac8-eb0cdda8cf00",
+      "identifiers": [
+        {
+          "identifier": "chuquimia.tr",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/chuquimia.tr.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/chuquimia.tr.jpg"
+        }
+      ],
+      "name": "Rosa Ines Chuquimia Tarquino"
+    },
+    {
+      "gender": "male",
+      "id": "c1e88648-7565-4c16-8c68-dc1fb86fb5c1",
+      "identifiers": [
+        {
+          "identifier": "jimenez.lj",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/jimenez.lj.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/jimenez.lj.jpg"
+        }
+      ],
+      "name": "Julio Sabas Jimenez Llanque"
+    },
+    {
+      "gender": "male",
+      "id": "c228eeb5-b819-42dc-8706-a3c94d7afbf4",
+      "identifiers": [
+        {
+          "identifier": "chambi.mr",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/chambi.mr.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/chambi.mr.jpg"
+        }
+      ],
+      "name": "Ruben Chambi Mollericona"
+    },
+    {
+      "gender": "male",
+      "id": "c3689e59-9abd-4e92-b8a4-fa385ecf2d00",
+      "identifiers": [
+        {
+          "identifier": "huanca.nj",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/huanca.nj.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/huanca.nj.jpg"
+        }
+      ],
+      "name": "Julio Grover Huanca Nina"
+    },
+    {
+      "gender": "male",
+      "id": "c405b8d8-8015-4f60-981b-ebda60402db0",
+      "identifiers": [
+        {
+          "identifier": "aguilar.ag",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/aguilar.ag.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/aguilar.ag.jpg"
+        }
+      ],
+      "name": "Gonzalo Aguilar Ayma"
+    },
+    {
+      "gender": "female",
+      "id": "c4613252-b41f-44e1-be0e-a7f735f71e2a",
+      "identifiers": [
+        {
+          "identifier": "chavez.np",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/chavez.np.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/chavez.np.jpg"
+        }
+      ],
+      "name": "Patricia Chavez Noe"
+    },
+    {
+      "gender": "male",
+      "id": "c46f2787-c871-4886-b597-557c94f3e21c",
+      "identifiers": [
+        {
+          "identifier": "gutierrez.sb",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.sb.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/gutierrez.sb.jpg"
+        }
+      ],
+      "name": "Bernard Osvaldo Gutierrez Sanz"
+    },
+    {
+      "gender": "female",
+      "id": "c704d985-7211-4c84-8731-4c276981859d",
+      "identifiers": [
+        {
+          "identifier": "natte.ra",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/natte.ra.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/natte.ra.jpg"
+        }
+      ],
+      "name": "Alicia Natte Rosendi"
+    },
+    {
+      "gender": "female",
+      "id": "c81c00e9-8ff3-497a-a151-9777abcd6994",
+      "identifiers": [
+        {
+          "identifier": "brito.ss",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/brito.ss.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/brito.ss.jpg"
+        }
+      ],
+      "name": "Sonia Silvia Brito Sandoval"
+    },
+    {
+      "gender": "female",
+      "id": "cb83f414-26ed-4b5f-b408-31b5e68676a2",
+      "identifiers": [
+        {
+          "identifier": "quiroga.rb",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/quiroga.rb.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/quiroga.rb.jpg"
+        }
+      ],
+      "name": "Brigida Virginia Quiroga Ramos"
+    },
+    {
+      "gender": "male",
+      "id": "cb92a0b1-74de-43ba-934a-f2fc41f1ecaf",
+      "identifiers": [
+        {
+          "identifier": "cabrera.ce",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cabrera.ce.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cabrera.ce.jpg"
+        }
+      ],
+      "name": "Eddy Henrry Cabrera Carlo"
+    },
+    {
+      "gender": "male",
+      "id": "cbfdcbfd-81e9-4ef0-9e5f-e2ecf01852bb",
+      "identifiers": [
+        {
+          "identifier": "choque.ss",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/choque.ss.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/choque.ss.jpg"
+        }
+      ],
+      "name": "Simon Sergio Choque Siñani"
+    },
+    {
+      "gender": "female",
+      "id": "cc3f95e6-da95-4dee-a18b-135106538106",
+      "identifiers": [
+        {
+          "identifier": "millares.rl",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Chuquisaca/millares.rl.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Chuquisaca/millares.rl.jpg"
+        }
+      ],
+      "name": "Lindaura Lourdes Millares Rios"
+    },
+    {
+      "gender": "female",
+      "id": "cf4c34b8-3358-405f-8548-0caf43e2ce09",
+      "identifiers": [
+        {
+          "identifier": "quispe.qm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/quispe.qm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/quispe.qm.jpg"
+        }
+      ],
+      "name": "Maura Quispe Quispe"
+    },
+    {
+      "gender": "female",
+      "id": "cfb1f5a2-d906-4bfb-a1b0-f33c4b2a426e",
+      "identifiers": [
+        {
+          "identifier": "sequeiros.rc",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sequeiros.rc.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/sequeiros.rc.jpg"
+        }
+      ],
+      "name": "Cinthia Sequeiros Rivero"
+    },
+    {
+      "gender": "male",
+      "id": "d3111840-8f73-4975-9c19-36065c2bd3c4",
+      "identifiers": [
+        {
+          "identifier": "ramos.md",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/ramos.md.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/ramos.md.jpg"
+        }
+      ],
+      "name": "David Ramos Mamani"
+    },
+    {
+      "gender": "female",
+      "id": "d32f554b-bf29-4827-882c-f340b8c1f643",
+      "identifiers": [
+        {
+          "identifier": "bonilla.gc",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/bonilla.gc.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/bonilla.gc.jpg"
+        }
+      ],
+      "name": "Celia Andrea Bonilla Gemio"
+    },
+    {
+      "gender": "male",
+      "id": "d473b8b7-9488-42a3-86d5-485db4104363",
+      "identifiers": [
+        {
+          "identifier": "soruco.gi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/soruco.gi.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/soruco.gi.jpg"
+        }
+      ],
+      "name": "Ignacio Soruco Grandchant"
+    },
+    {
+      "gender": "female",
+      "id": "dabcbeeb-29b6-4359-8dff-1c0874540963",
+      "identifiers": [
+        {
+          "identifier": "choque.vo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/choque.vo.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/choque.vo.jpg"
+        }
+      ],
+      "name": "Otilia Choque Veliz"
+    },
+    {
+      "gender": "female",
+      "id": "df80513c-820b-4301-83aa-a0df51215e1c",
+      "identifiers": [
+        {
+          "identifier": "arias.ca",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/arias.ca.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/arias.ca.jpg"
+        }
+      ],
+      "name": "Adriana Arias Calderón"
+    },
+    {
+      "gender": "female",
+      "id": "e21d78f0-b691-4039-8729-7c8a690db9cb",
+      "identifiers": [
+        {
+          "identifier": "alvarez.cr",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Potosi/alvarez.cr.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Potosi/alvarez.cr.jpg"
+        }
+      ],
+      "name": "Rosa Alvarez Choquetupa"
+    },
+    {
+      "gender": "male",
+      "id": "e630a680-7299-4d04-b242-ad633f72a14d",
+      "identifiers": [
+        {
+          "identifier": "vega.rj",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/vega.rj.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/vega.rj.jpg"
+        }
+      ],
+      "name": "Jacinto Vega Rivero"
+    },
+    {
+      "gender": "male",
+      "id": "e82560b9-c43f-4446-8e79-0b4204f0166e",
+      "identifiers": [
+        {
+          "identifier": "texeira.rs",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Pando/texeira.rs.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Pando/texeira.rs.jpg"
+        }
+      ],
+      "name": "Sebastian Texeira Rojas"
+    },
+    {
+      "gender": "male",
+      "id": "e8f0a932-fa90-42fb-b332-02887454bb69",
+      "identifiers": [
+        {
+          "identifier": "montanio.re",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/montanio.re.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/montanio.re.jpg"
+        }
+      ],
+      "name": "Edgar Montaño Rojas"
+    },
+    {
+      "gender": "male",
+      "id": "e9d7b709-b4ad-4f1d-be8e-5b8294c54406",
+      "identifiers": [
+        {
+          "identifier": "quispe.ff",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Oruro/quispe.ff.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Oruro/quispe.ff.jpg"
+        }
+      ],
+      "name": "Francisco Quispe Flores"
+    },
+    {
+      "gender": "female",
+      "id": "ea96e8ea-f802-47e4-b32f-1f2e310e7473",
+      "identifiers": [
+        {
+          "identifier": "calle.pm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/calle.pm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/calle.pm.jpg"
+        }
+      ],
+      "name": "Maria Natalia Calle Perez"
+    },
+    {
+      "gender": "male",
+      "id": "f0816044-55f7-4252-8897-28a8d8f9fc70",
+      "identifiers": [
+        {
+          "identifier": "lazarte.cn",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/lazarte.cn.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/lazarte.cn.jpg"
+        }
+      ],
+      "name": "Norman Rene Lazarte Calizaya"
+    },
+    {
+      "gender": "female",
+      "id": "f2a8e2d8-351b-4962-b796-36864227e3d3",
+      "identifiers": [
+        {
+          "identifier": "vasquez.m",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Tarija/vasquez.m.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Tarija/vasquez.m.jpg"
+        }
+      ],
+      "name": "Marcela Vasquez"
+    },
+    {
+      "gender": "female",
+      "id": "f5f44f6e-1e63-4a1b-8cd9-701d5b365be8",
+      "identifiers": [
+        {
+          "identifier": "villarroel.qa",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Cochabamba/villarroel.qa.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Cochabamba/villarroel.qa.jpg"
+        }
+      ],
+      "name": "Ayda Luz Villarroel Quinteros"
+    },
+    {
+      "gender": "male",
+      "id": "f74ad1b9-6adc-473b-9f9c-c23100c512fe",
+      "identifiers": [
+        {
+          "identifier": "monasterio.rt",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monasterio.rt.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monasterio.rt.jpg"
+        }
+      ],
+      "name": "Tomas Xavier Monasterio Romay"
+    },
+    {
+      "gender": "male",
+      "id": "f817221c-7c69-4d87-81ff-7cbd1b117cc7",
+      "identifiers": [
+        {
+          "identifier": "ayala.sw",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Pando/ayala.sw.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Pando/ayala.sw.jpg"
+        }
+      ],
+      "name": "Walter Ayala Siripi"
+    },
+    {
+      "gender": "female",
+      "id": "f9efb2ec-e650-444b-b894-d7f186227a50",
+      "identifiers": [
+        {
+          "identifier": "torrez.da",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Pando/torrez.da.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Pando/torrez.da.jpg"
+        }
+      ],
+      "name": "Army Claudia Torrez Diez"
+    },
+    {
+      "gender": "male",
+      "id": "fa611427-195e-4fed-bdc8-dc5ab5550b83",
+      "identifiers": [
+        {
+          "identifier": "mamani.cm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mamani.cm.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/mamani.cm.jpg"
+        }
+      ],
+      "name": "Martiriano Mamani Cari"
+    },
+    {
+      "gender": "female",
+      "id": "ffb2d36e-2514-4f3c-9f52-2987e0d76c60",
+      "identifiers": [
+        {
+          "identifier": "fernandez.me",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/fernandez.me.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/fernandez.me.jpg"
+        }
+      ],
+      "name": "Eusebia Fernández Montes"
     }
   ],
   "organizations": [

@@ -4,28 +4,128 @@
   ],
   "persons": [
     {
+      "birth_date": "1983-06-22",
       "contact_details": [
         {
           "type": "email",
-          "value": "albert.fenech@gov.mt"
+          "value": "ryan.callus@parlament.mt"
         }
       ],
-      "email": "albert.fenech@gov.mt",
+      "email": "ryan.callus@parlament.mt",
       "gender": "male",
-      "id": "cae1b496-0001-4b94-adec-884cec06394b",
+      "given_name": "Ryan",
+      "id": "013d4477-7a18-495a-9249-e5ac5ef0add5",
       "identifiers": [
         {
-          "identifier": "fenech-albert",
+          "identifier": "callus-ryan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17016298",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=33193",
+      "image": "http://www.parlament.mt/file.aspx?f=32206",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=33193"
+          "url": "http://www.parlament.mt/file.aspx?f=32206"
         }
       ],
-      "name": "Albert Fenech"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Callus"
+        }
+      ],
+      "name": "Ryan Callus",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ryan Callus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ryan Callus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ryan Callus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ryan Callus",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "chris@chrisfearne.com"
+        }
+      ],
+      "email": "chris@chrisfearne.com",
+      "gender": "male",
+      "given_name": "Chris",
+      "id": "0638fdcd-d02a-4204-bfb0-c91b5d7b2374",
+      "identifiers": [
+        {
+          "identifier": "fearne-christopher",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18206002",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31743",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31743"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chris_Fearne"
+        }
+      ],
+      "name": "Christopher Fearne",
+      "other_names": [
+        {
+          "name": "Chris Fearne",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Chris Fearne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chris Fearne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chris Fearne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Chris Fearne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chris Fearne",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954",
@@ -101,28 +201,67 @@
       ]
     },
     {
+      "birth_date": "1954-12-04",
       "contact_details": [
         {
           "type": "email",
-          "value": "anthony.agius-decelis@gov.mt"
+          "value": "robert.arrigo@parlament.mt"
         }
       ],
-      "email": "anthony.agius-decelis@gov.mt",
+      "email": "robert.arrigo@parlament.mt",
       "gender": "male",
-      "id": "9163472f-ec8a-40d0-807e-171381715d2e",
+      "given_name": "Robert",
+      "id": "0ab37aaf-e308-4f98-a408-c0c60a737116",
       "identifiers": [
         {
-          "identifier": "agiusdecelis-anthony",
+          "identifier": "arrigo-robert",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7341603",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31748",
+      "image": "http://www.parlament.mt/file.aspx?f=31881",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31748"
+          "url": "http://www.parlament.mt/file.aspx?f=31881"
         }
       ],
-      "name": "Anthony Agius Decelis"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Arrigo"
+        }
+      ],
+      "name": "Robert Arrigo",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Robert Arrigo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Robert Arrigo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Robert Arrigo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Robert Arrigo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Robert Arrigo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -152,315 +291,84 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "antoine@antoineborg.com"
+          "value": "deborah.schembri@parlament.mt"
         }
       ],
-      "email": "antoine@antoineborg.com",
-      "gender": "male",
-      "id": "f479086e-eaff-4b49-b79b-16fff17595e4",
+      "email": "deborah.schembri@parlament.mt",
+      "gender": "female",
+      "id": "10b44dd3-3358-4969-ad9f-fc4723067954",
       "identifiers": [
         {
-          "identifier": "borg-antoine",
+          "identifier": "schembri-deborah",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=43333",
+      "image": "http://www.parlament.mt/file.aspx?f=33277",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=43333"
+          "url": "http://www.parlament.mt/file.aspx?f=33277"
         }
       ],
-      "name": "Antoine Borg"
+      "name": "Deborah Schembri"
     },
     {
+      "birth_date": "1949-09-15",
       "contact_details": [
         {
           "type": "email",
-          "value": "anton.refalo@gov.mt"
+          "value": "azzopardi.frederick@parlament.mt"
         }
       ],
-      "email": "anton.refalo@gov.mt",
+      "email": "azzopardi.frederick@parlament.mt",
       "gender": "male",
-      "id": "99402a5a-602b-46a6-a8bb-45edc333e64b",
+      "given_name": "Frederick",
+      "id": "17c4c677-e371-497b-a65d-7f116f7c18cf",
       "identifiers": [
         {
-          "identifier": "refalo-anton",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31747",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31747"
-        }
-      ],
-      "name": "Anton Refalo"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "joseph.fenech-adami@parlament.mt"
-        }
-      ],
-      "email": "joseph.fenech-adami@parlament.mt",
-      "gender": "male",
-      "id": "3aff4f5f-f366-425d-ba5b-b8a1dfb681a6",
-      "identifiers": [
-        {
-          "identifier": "fenech-adamibeppe",
+          "identifier": "azzopardi-frederick",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q18536890",
+          "identifier": "Q5497307",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=32392",
+      "image": "http://www.parlament.mt/file.aspx?f=32673",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=32392"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Beppe_Fenech_Adami"
-        }
-      ],
-      "name": "Beppe Fenech Adami",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Beppe Fenech Adami",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Beppe Fenech Adami",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Beppe Fenech Adami",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1972-02-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carmelo.abela@parlament.mt"
-        }
-      ],
-      "email": "carmelo.abela@parlament.mt",
-      "gender": "male",
-      "given_name": "Carmelo",
-      "id": "a4bda36c-5f11-4974-8d58-99fa68776b35",
-      "identifiers": [
-        {
-          "identifier": "abela-carmelo",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5043368",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31746",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31746"
+          "url": "http://www.parlament.mt/file.aspx?f=32673"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Carmelo_Abela"
+          "url": "https://commons.wikipedia.org/wiki/Category:Frederick_Azzopardi"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Carmelo_Abela"
+          "url": "https://en.wikipedia.org/wiki/Frederick_Azzopardi"
         }
       ],
-      "name": "Carmelo Abela",
+      "name": "Frederick Azzopardi",
       "other_names": [
         {
           "lang": "de",
-          "name": "Carmelo Abela",
+          "name": "Frederick Azzopardi",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Carmelo Abela",
+          "name": "Frederick Azzopardi",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Carmelo Abela",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Carmelo Abela",
+          "name": "Frederick Azzopardi",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Carmelo Abela",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Кармело Абела",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1960-02-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carmelomifsudbonnici@parlament.mt"
-        }
-      ],
-      "email": "carmelomifsudbonnici@parlament.mt",
-      "gender": "male",
-      "given_name": "Carmelo",
-      "id": "7a61181f-a051-4cce-ba90-0286987e1de9",
-      "identifiers": [
-        {
-          "identifier": "mifsudbonnici-carmelo",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/06kwd8",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q1043584",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32776",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32776"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Carmelo_Mifsud_Bonniċi_(Politiker,_1960)"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Carmelo_Mifsud_Bonnici"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Carmelo_Mifsud_Bonnici"
-        }
-      ],
-      "name": "Carmelo Mifsud Bonnici",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Carmelo Mifsud Bonniċi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Carmelo Mifsud Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Carmelo Mifsud Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Carmelo Mifsud Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Carmelo Mifsud Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Carmelo Mifsud Bonnici",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1956-08-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vincent.galea@parlament.mt"
-        }
-      ],
-      "email": "vincent.galea@parlament.mt",
-      "gender": "male",
-      "id": "d807138f-81ad-4c88-a7ef-2a58dfeb579c",
-      "identifiers": [
-        {
-          "identifier": "galea-censu",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q8079637",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=33195",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33195"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ċensu_Galea"
-        }
-      ],
-      "name": "Censu Galea",
-      "other_names": [
-        {
-          "name": "Ċensu Galea",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Ċensu Galea",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ċensu Galea",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ċensu Galea",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Ċensu Galea",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ċensu Galea",
+          "name": "Frederick Azzopardi",
           "note": "multilingual"
         }
       ]
@@ -469,25 +377,25 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "peritcb@gmail.com"
+          "value": "joefarrugiafarell@gmail.com"
         }
       ],
-      "email": "peritcb@gmail.com",
+      "email": "joefarrugiafarell@gmail.com",
       "gender": "male",
-      "id": "c35d2f39-ff12-4f21-b471-7c5ab01a2e1a",
+      "id": "1eaa462f-da27-41dc-9055-919b96ff45a2",
       "identifiers": [
         {
-          "identifier": "buhagiar-charles",
+          "identifier": "farrugia-joseph",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31745",
+      "image": "http://www.parlament.mt/file.aspx?f=49049",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31745"
+          "url": "http://www.parlament.mt/file.aspx?f=49049"
         }
       ],
-      "name": "Charles Buhagiar"
+      "name": "Joseph Farrugia"
     },
     {
       "birth_date": "1952-11-14",
@@ -557,112 +465,338 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "4982a317-d51b-4d1e-bd97-56edac0aece3",
-      "identifiers": [
-        {
-          "identifier": "bonnici-charlo",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32684",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32684"
-        }
-      ],
-      "name": "Charlo Bonnici"
-    },
-    {
+      "birth_date": "1971-03-16",
       "contact_details": [
         {
           "type": "email",
-          "value": "chris.agius@parlament.mt"
+          "value": "jason.azzopardi@parlament.mt"
         }
       ],
-      "email": "chris.agius@parlament.mt",
+      "email": "jason.azzopardi@parlament.mt",
       "gender": "male",
-      "id": "d0aa96c0-2c0f-4e89-9fd3-91d3761df98f",
+      "given_name": "Jason",
+      "id": "34c28585-fde5-4fcf-9ad1-69c0b62a793a",
       "identifiers": [
         {
-          "identifier": "agius-chris",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=33313",
-      "images": [
+          "identifier": "26818",
+          "scheme": "europarlmep"
+        },
         {
-          "url": "http://www.parlament.mt/file.aspx?f=33313"
-        }
-      ],
-      "name": "Chris Agius"
-    },
-    {
-      "birth_date": "1972",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christian.cardona@gov.mt"
-        }
-      ],
-      "email": "christian.cardona@gov.mt",
-      "gender": "male",
-      "given_name": "Christian",
-      "id": "dbd7ac0d-8a0b-4c84-ac77-43b546767dc8",
-      "identifiers": [
-        {
-          "identifier": "cardona-chris",
+          "identifier": "azzopardi-jason",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q16213896",
+          "identifier": "/m/0130fx8v",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1683865",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31744",
+      "image": "http://www.parlament.mt/file.aspx?f=32203",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31744"
+          "url": "http://www.parlament.mt/file.aspx?f=32203"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hon._Minister_Dr._Christian_Cardona.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Jason_Azzopardi.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jason_Azzopardi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jason_Azzopardi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jason_Azzopardi"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jason_Azzopardi"
+        }
+      ],
+      "name": "Jason Azzopardi",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Jason Azzopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jason Azzopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jason Azzopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jason Azzopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jason Azzopardi",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "joseph.fenech-adami@parlament.mt"
+        }
+      ],
+      "email": "joseph.fenech-adami@parlament.mt",
+      "gender": "male",
+      "id": "3aff4f5f-f366-425d-ba5b-b8a1dfb681a6",
+      "identifiers": [
+        {
+          "identifier": "fenech-adamibeppe",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18536890",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32392",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32392"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Beppe_Fenech_Adami"
+        }
+      ],
+      "name": "Beppe Fenech Adami",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Beppe Fenech Adami",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Beppe Fenech Adami",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Beppe Fenech Adami",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1946-10-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "edward.scicluna@gov.mt"
+        }
+      ],
+      "email": "edward.scicluna@gov.mt",
+      "gender": "male",
+      "given_name": "Edward",
+      "id": "400d9864-ede3-4849-ae6e-7b4821ab70db",
+      "identifiers": [
+        {
+          "identifier": "96671",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "scicluna-edward",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/064l9f7",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "170808289",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n84130732",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "8790023",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q173958",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31741",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31741"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Edward_Scicluna"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Edward_Scicluna"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edward_Scicluna"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Edward_Scicluna"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Edward_Scicluna"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Edward_Scicluna"
+        },
+        {
+          "note": "website",
+          "url": "http://www.edwardscicluna.com"
+        }
+      ],
+      "name": "Edward Scicluna",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Edward Scicluna",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1960-10-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "michael.gonzi@parlament.mt"
+        }
+      ],
+      "email": "michael.gonzi@parlament.mt",
+      "gender": "male",
+      "given_name": "Michael",
+      "id": "41cda172-c6b3-47db-ac07-3cb3c4b8994f",
+      "identifiers": [
+        {
+          "identifier": "gonzi-michael",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6830673",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32396",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32396"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Christian_Cardona"
+          "url": "https://en.wikipedia.org/wiki/Michael_Gonzi"
         }
       ],
-      "name": "Chris Cardona",
+      "name": "Michael Gonzi",
       "other_names": [
         {
-          "name": "Christian Cardona",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
-          "name": "Christian Cardona",
+          "name": "Michael Gonzi",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Christian Cardona",
+          "name": "Michael Gonzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Michael Gonzi",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Christian Cardona",
+          "name": "Michael Gonzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Michael Gonzi",
           "note": "multilingual"
         },
         {
           "lang": "it",
-          "name": "Christian Cardona",
+          "name": "Michael Gonzi",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Christian Cardona",
+          "name": "Michael Gonzi",
           "note": "multilingual"
         }
       ]
@@ -695,67 +829,18 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "chris@chrisfearne.com"
+          "value": "karl.gouder@parlament.mt"
         }
       ],
-      "email": "chris@chrisfearne.com",
-      "gender": "male",
-      "given_name": "Chris",
-      "id": "0638fdcd-d02a-4204-bfb0-c91b5d7b2374",
-      "identifiers": [
-        {
-          "identifier": "fearne-christopher",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18206002",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31743",
+      "email": "karl.gouder@parlament.mt",
+      "id": "43e3a3a0-6c63-430e-91e4-687d137b8ed7",
+      "image": "http://www.parlament.mt/file.aspx?f=15432",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31743"
+          "url": "http://www.parlament.mt/file.aspx?f=15432"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Chris_Fearne"
-        }
-      ],
-      "name": "Christopher Fearne",
-      "other_names": [
-        {
-          "name": "Chris Fearne",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Chris Fearne",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Chris Fearne",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Chris Fearne",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Chris Fearne",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Chris Fearne",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Karl Gouder"
     },
     {
       "birth_date": "1968",
@@ -1042,38 +1127,353 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "claudio.grech@parlament.mt"
-        }
-      ],
-      "email": "claudio.grech@parlament.mt",
       "gender": "male",
-      "id": "b1bba401-154a-4766-8ff3-cb1a7484639c",
+      "id": "4982a317-d51b-4d1e-bd97-56edac0aece3",
       "identifiers": [
         {
-          "identifier": "grech-claudio",
+          "identifier": "bonnici-charlo",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=32406",
+      "image": "http://www.parlament.mt/file.aspx?f=32684",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=32406"
+          "url": "http://www.parlament.mt/file.aspx?f=32684"
         }
       ],
-      "name": "Claudio Grech"
+      "name": "Charlo Bonnici"
     },
     {
-      "id": "9906da44-5982-4773-8af6-8a2bff1d6eea",
-      "image": "http://www.parlament.mt/file.aspx?f=58742",
-      "images": [
+      "birth_date": "1980-05-24",
+      "contact_details": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=58742"
+          "type": "email",
+          "value": "owen.bonnici@gov.mt"
         }
       ],
-      "name": "Clifton Grima"
+      "email": "owen.bonnici@gov.mt",
+      "gender": "male",
+      "given_name": "Owen",
+      "id": "4dadfb6f-d761-44ed-ba03-54c18a49c558",
+      "identifiers": [
+        {
+          "identifier": "bonnici-owen",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16199692",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31721",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31721"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Owen_Bonnici"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Owen_Bonnici"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Owen_Bonnici"
+        }
+      ],
+      "name": "Owen Bonnici",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Owen Bonnici",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Owen Bonnici",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Owen Bonnici",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Owen Bonnici",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Owen Bonnici",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Owen Bonnici",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "manuel.mallia@gov.mt"
+        }
+      ],
+      "email": "manuel.mallia@gov.mt",
+      "gender": "male",
+      "given_name": "Emanuel",
+      "id": "4fbea3cf-ce49-425f-9f99-44cfc18f4f49",
+      "identifiers": [
+        {
+          "identifier": "mallia-emmanuel",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18536888",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31725",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31725"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Emanuel_Mallia"
+        }
+      ],
+      "name": "Emmanuel Mallia",
+      "other_names": [
+        {
+          "name": "Emanuel Mallia",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "paula.mifsud-bonnici@parlament.mt"
+        }
+      ],
+      "email": "paula.mifsud-bonnici@parlament.mt",
+      "gender": "female",
+      "id": "53bc92b9-e039-4bc4-bce1-aea81684fb7f",
+      "identifiers": [
+        {
+          "identifier": "mifsudbonnici-paula",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=34317",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=34317"
+        }
+      ],
+      "name": "Paula Mifsud Bonnici"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mario.galea@parlament.mt"
+        }
+      ],
+      "email": "mario.galea@parlament.mt",
+      "gender": "male",
+      "id": "5a576f45-6824-40cb-895d-040c08d61400",
+      "identifiers": [
+        {
+          "identifier": "galea-mario",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32394",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32394"
+        }
+      ],
+      "name": "Mario Galea"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "helena.dalli@gov.mt"
+        }
+      ],
+      "email": "helena.dalli@gov.mt",
+      "gender": "female",
+      "given_name": "Helena",
+      "id": "60d51ea8-48f8-4a9e-b729-d3d6f860dd19",
+      "identifiers": [
+        {
+          "identifier": "dalli-helena",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19958063",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31749",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31749"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Helena_Dalli"
+        }
+      ],
+      "name": "Helena Dalli",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Helena Dalli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Helena Dalli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Helena Dalli",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "david.agius@parlament.mt"
+        }
+      ],
+      "email": "david.agius@parlament.mt",
+      "gender": "male",
+      "id": "61bba5ce-3d96-4e5c-9550-9b95de766d91",
+      "identifiers": [
+        {
+          "identifier": "agius-david",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31854",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31854"
+        }
+      ],
+      "name": "David Agius"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "roderick.galdes@gov.mt"
+        }
+      ],
+      "email": "roderick.galdes@gov.mt",
+      "gender": "male",
+      "given_name": "Roderick",
+      "id": "62732ab1-14e5-4da6-b2a0-cac8d488b55f",
+      "identifiers": [
+        {
+          "identifier": "galdes-roderick",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20949398",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31720",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31720"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roderick_Galdes"
+        }
+      ],
+      "name": "Roderick Galdes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Roderick Galdes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Roderick Galdes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Roderick Galdes",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zammf@go.net.mt"
+        }
+      ],
+      "email": "zammf@go.net.mt",
+      "gender": "male",
+      "id": "63ad454c-3093-4606-8380-00bc3ff70b79",
+      "identifiers": [
+        {
+          "identifier": "zammit-dimechfrancis",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32401",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32401"
+        }
+      ],
+      "name": "Francis Zammit Dimech"
     },
     {
       "birth_date": "1969-09-13",
@@ -1141,287 +1541,174 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "david.agius@parlament.mt"
+          "value": "ian.borg@gov.mt"
         }
       ],
-      "email": "david.agius@parlament.mt",
+      "email": "ian.borg@gov.mt",
       "gender": "male",
-      "id": "61bba5ce-3d96-4e5c-9550-9b95de766d91",
+      "id": "6f8e37ce-6c5c-44ca-9d56-eb32cfa93de5",
       "identifiers": [
         {
-          "identifier": "agius-david",
+          "identifier": "borg-ian",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31854",
+      "image": "http://www.parlament.mt/file.aspx?f=31734",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31854"
+          "url": "http://www.parlament.mt/file.aspx?f=31734"
         }
       ],
-      "name": "David Agius"
+      "name": "Ian Borg"
     },
     {
       "contact_details": [
         {
           "type": "email",
-          "value": "deborah.schembri@parlament.mt"
+          "value": "kristy.debono@parlament.mt"
         }
       ],
-      "email": "deborah.schembri@parlament.mt",
+      "email": "kristy.debono@parlament.mt",
       "gender": "female",
-      "id": "10b44dd3-3358-4969-ad9f-fc4723067954",
+      "id": "7035d10b-73e1-4dbe-b806-1215db89cfd7",
       "identifiers": [
         {
-          "identifier": "schembri-deborah",
+          "identifier": "kristy-debono",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=33277",
+      "image": "http://www.parlament.mt/file.aspx?f=33192",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=33277"
+          "url": "http://www.parlament.mt/file.aspx?f=33192"
         }
       ],
-      "name": "Deborah Schembri"
+      "name": "Kristy Debono"
     },
     {
       "contact_details": [
         {
           "type": "email",
-          "value": "deodebattista@onvol.net"
+          "value": "lucio74b@gmail.com"
         }
       ],
-      "email": "deodebattista@onvol.net",
+      "email": "lucio74b@gmail.com",
       "gender": "male",
-      "id": "98e92ec6-3729-4a53-a666-593b4dd1d8b3",
+      "id": "70dded4b-99c1-4569-a91f-666cdd3ea391",
       "identifiers": [
         {
-          "identifier": "debattista-deo",
+          "identifier": "busuttil-luciano",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31742",
+      "image": "http://www.parlament.mt/file.aspx?f=33309",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31742"
+          "url": "http://www.parlament.mt/file.aspx?f=33309"
         }
       ],
-      "name": "Deo Debattista"
+      "name": "Luciano Busuttil"
     },
     {
-      "birth_date": "1946-10-12",
       "contact_details": [
         {
           "type": "email",
-          "value": "edward.scicluna@gov.mt"
+          "value": "justyne.caruana@gmail.com"
         }
       ],
-      "email": "edward.scicluna@gov.mt",
-      "gender": "male",
-      "given_name": "Edward",
-      "id": "400d9864-ede3-4849-ae6e-7b4821ab70db",
+      "email": "justyne.caruana@gmail.com",
+      "gender": "female",
+      "id": "7297f3f3-5d76-44c7-b980-6232bf4d9a78",
       "identifiers": [
         {
-          "identifier": "96671",
-          "scheme": "europarlmep"
-        },
+          "identifier": "caruana-justyne",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31730",
+      "images": [
         {
-          "identifier": "scicluna-edward",
+          "url": "http://www.parlament.mt/file.aspx?f=31730"
+        }
+      ],
+      "name": "Justyne Caruana"
+    },
+    {
+      "birth_date": "1960-02-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "carmelomifsudbonnici@parlament.mt"
+        }
+      ],
+      "email": "carmelomifsudbonnici@parlament.mt",
+      "gender": "male",
+      "given_name": "Carmelo",
+      "id": "7a61181f-a051-4cce-ba90-0286987e1de9",
+      "identifiers": [
+        {
+          "identifier": "mifsudbonnici-carmelo",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/064l9f7",
+          "identifier": "/m/06kwd8",
           "scheme": "freebase"
         },
         {
-          "identifier": "170808289",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "n84130732",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "8790023",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q173958",
+          "identifier": "Q1043584",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31741",
+      "image": "http://www.parlament.mt/file.aspx?f=32776",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31741"
+          "url": "http://www.parlament.mt/file.aspx?f=32776"
         }
       ],
       "links": [
         {
-          "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Edward_Scicluna"
-        },
-        {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Edward_Scicluna"
+          "url": "https://de.wikipedia.org/wiki/Carmelo_Mifsud_Bonniċi_(Politiker,_1960)"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Edward_Scicluna"
+          "url": "https://en.wikipedia.org/wiki/Carmelo_Mifsud_Bonnici"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Edward_Scicluna"
-        },
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Edward_Scicluna"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Edward_Scicluna"
-        },
-        {
-          "note": "website",
-          "url": "http://www.edwardscicluna.com"
+          "url": "https://fr.wikipedia.org/wiki/Carmelo_Mifsud_Bonnici"
         }
       ],
-      "name": "Edward Scicluna",
+      "name": "Carmelo Mifsud Bonnici",
       "other_names": [
         {
-          "lang": "da",
-          "name": "Edward Scicluna",
-          "note": "multilingual"
-        },
-        {
           "lang": "de",
-          "name": "Edward Scicluna",
+          "name": "Carmelo Mifsud Bonniċi",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Edward Scicluna",
+          "name": "Carmelo Mifsud Bonnici",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Edward Scicluna",
+          "name": "Carmelo Mifsud Bonnici",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Edward Scicluna",
+          "name": "Carmelo Mifsud Bonnici",
           "note": "multilingual"
         },
         {
           "lang": "hu",
-          "name": "Edward Scicluna",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Edward Scicluna",
+          "name": "Carmelo Mifsud Bonnici",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Edward Scicluna",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Edward Scicluna",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "edward.zammit-lewis@gov.mt"
-        }
-      ],
-      "email": "edward.zammit-lewis@gov.mt",
-      "gender": "male",
-      "id": "f4d1c7e4-e0c7-41e7-83ee-5bb8c9fb2549",
-      "identifiers": [
-        {
-          "identifier": "zammitlewis-edward",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=55184",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=55184"
-        }
-      ],
-      "name": "Edward Zammit-Lewis"
-    },
-    {
-      "id": "cae1ce14-77c0-4638-a843-8da143a9918a",
-      "image": "http://www.parlament.mt/file.aspx?f=59414",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=59414"
-        }
-      ],
-      "name": "Edwin Vassallo"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuel.mallia@gov.mt"
-        }
-      ],
-      "email": "manuel.mallia@gov.mt",
-      "gender": "male",
-      "given_name": "Emanuel",
-      "id": "4fbea3cf-ce49-425f-9f99-44cfc18f4f49",
-      "identifiers": [
-        {
-          "identifier": "mallia-emmanuel",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18536888",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31725",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31725"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Emanuel_Mallia"
-        }
-      ],
-      "name": "Emmanuel Mallia",
-      "other_names": [
-        {
-          "name": "Emanuel Mallia",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Emanuel Mallia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Emanuel Mallia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Emanuel Mallia",
+          "name": "Carmelo Mifsud Bonnici",
           "note": "multilingual"
         }
       ]
@@ -1449,6 +1736,218 @@
         }
       ],
       "name": "Etienne Grech"
+    },
+    {
+      "birth_date": "1966-07-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marlenedent@gmail.com"
+        }
+      ],
+      "email": "marlenedent@gmail.com",
+      "gender": "female",
+      "given_name": "Marlene",
+      "id": "803511e2-3629-40c0-9ad9-bd950298f155",
+      "identifiers": [
+        {
+          "identifier": "farrugia-marlene",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24643928",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31724",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31724"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marlene_Farrugia"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Marlene_Farrugia"
+        }
+      ],
+      "name": "Marlene Farrugia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marlene Farrugia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Marlene Farrugia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marlene Farrugia",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1977-11-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "konrad.mizzi@gov.mt"
+        }
+      ],
+      "email": "konrad.mizzi@gov.mt",
+      "gender": "male",
+      "given_name": "Konrad",
+      "id": "8556b667-af3b-4ba4-80dd-d3f8f0af0508",
+      "identifiers": [
+        {
+          "identifier": "mizzi-konrad",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15711259",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31728",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31728"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Konrad_mizzi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Konrad_Mizzi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Konrad_Mizzi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Konrad_Mizzi"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Konrad_Mizzi"
+        }
+      ],
+      "name": "Konrad Mizzi",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Konrad Mizzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Konrad Mizzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Konrad Mizzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Konrad Mizzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Konrad Mizzi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "康拉德·米西",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "franco.mercieca@gov.mt"
+        }
+      ],
+      "email": "franco.mercieca@gov.mt",
+      "gender": "male",
+      "id": "8c3d0fcd-3aa8-4610-9650-d8f9a05abd71",
+      "identifiers": [
+        {
+          "identifier": "mercieca-franco",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31737",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31737"
+        }
+      ],
+      "name": "Franco Mercieca"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "michael.farrugia@gov.mt"
+        }
+      ],
+      "email": "michael.farrugia@gov.mt",
+      "gender": "male",
+      "id": "8ce0fc3f-1461-4a5a-9af5-ee634fe51c2d",
+      "identifiers": [
+        {
+          "identifier": "farrugia-michael",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31723",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31723"
+        }
+      ],
+      "name": "Michael Farrugia"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anthony.agius-decelis@gov.mt"
+        }
+      ],
+      "email": "anthony.agius-decelis@gov.mt",
+      "gender": "male",
+      "id": "9163472f-ec8a-40d0-807e-171381715d2e",
+      "identifiers": [
+        {
+          "identifier": "agiusdecelis-anthony",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31748",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31748"
+        }
+      ],
+      "name": "Anthony Agius Decelis"
     },
     {
       "birth_date": "1952-10-14",
@@ -1545,111 +2044,282 @@
       ]
     },
     {
+      "birth_date": "1966-05-19",
       "contact_details": [
         {
           "type": "email",
-          "value": "zammf@go.net.mt"
+          "value": "joseph.r.cassar@parlament.mt"
         }
       ],
-      "email": "zammf@go.net.mt",
+      "email": "joseph.r.cassar@parlament.mt",
       "gender": "male",
-      "id": "63ad454c-3093-4606-8380-00bc3ff70b79",
+      "given_name": "Joe",
+      "id": "9530ab81-5cfb-4278-ba84-66fdf42ae788",
       "identifiers": [
         {
-          "identifier": "zammit-dimechfrancis",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32401",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32401"
-        }
-      ],
-      "name": "Francis Zammit Dimech"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "franco.mercieca@gov.mt"
-        }
-      ],
-      "email": "franco.mercieca@gov.mt",
-      "gender": "male",
-      "id": "8c3d0fcd-3aa8-4610-9650-d8f9a05abd71",
-      "identifiers": [
-        {
-          "identifier": "mercieca-franco",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31737",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31737"
-        }
-      ],
-      "name": "Franco Mercieca"
-    },
-    {
-      "birth_date": "1949-09-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "azzopardi.frederick@parlament.mt"
-        }
-      ],
-      "email": "azzopardi.frederick@parlament.mt",
-      "gender": "male",
-      "given_name": "Frederick",
-      "id": "17c4c677-e371-497b-a65d-7f116f7c18cf",
-      "identifiers": [
-        {
-          "identifier": "azzopardi-frederick",
+          "identifier": "cassar-joe",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q5497307",
+          "identifier": "/m/05s_62b",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q632408",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=32673",
+      "image": "http://www.parlament.mt/file.aspx?f=32365",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=32673"
+          "url": "http://www.parlament.mt/file.aspx?f=32365"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Joe_Cassar"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joe_Cassar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joe_Cassar"
+        }
+      ],
+      "name": "Joe Cassar",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Joe Cassar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joe Cassar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joe Cassar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joe Cassar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joe Cassar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joe Cassar",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "deodebattista@onvol.net"
+        }
+      ],
+      "email": "deodebattista@onvol.net",
+      "gender": "male",
+      "id": "98e92ec6-3729-4a53-a666-593b4dd1d8b3",
+      "identifiers": [
+        {
+          "identifier": "debattista-deo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31742",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31742"
+        }
+      ],
+      "name": "Deo Debattista"
+    },
+    {
+      "id": "9906da44-5982-4773-8af6-8a2bff1d6eea",
+      "image": "http://www.parlament.mt/file.aspx?f=58742",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=58742"
+        }
+      ],
+      "name": "Clifton Grima"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "anton.refalo@gov.mt"
+        }
+      ],
+      "email": "anton.refalo@gov.mt",
+      "gender": "male",
+      "id": "99402a5a-602b-46a6-a8bb-45edc333e64b",
+      "identifiers": [
+        {
+          "identifier": "refalo-anton",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31747",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31747"
+        }
+      ],
+      "name": "Anton Refalo"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "robert.cutajar@parlament.mt"
+        }
+      ],
+      "email": "robert.cutajar@parlament.mt",
+      "gender": "male",
+      "given_name": "Robert",
+      "id": "a1b7b8ea-a7a6-4a2e-821e-aa1e940024f4",
+      "identifiers": [
+        {
+          "identifier": "cutajar-robert",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27663240",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32389",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32389"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Cutajar"
+        }
+      ],
+      "name": "Robert Cutajar",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Robert Cutajar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Robert Cutajar",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "stefan.buontempo@gov.mt"
+        }
+      ],
+      "email": "stefan.buontempo@gov.mt",
+      "gender": "male",
+      "id": "a4b03c38-5656-4361-8060-28bcbd3aa3a9",
+      "identifiers": [
+        {
+          "identifier": "buontempo-stefan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31717",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31717"
+        }
+      ],
+      "name": "Stefan Buontempo"
+    },
+    {
+      "birth_date": "1972-02-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "carmelo.abela@parlament.mt"
+        }
+      ],
+      "email": "carmelo.abela@parlament.mt",
+      "gender": "male",
+      "given_name": "Carmelo",
+      "id": "a4bda36c-5f11-4974-8d58-99fa68776b35",
+      "identifiers": [
+        {
+          "identifier": "abela-carmelo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5043368",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31746",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31746"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Frederick_Azzopardi"
+          "url": "https://commons.wikipedia.org/wiki/Category:Carmelo_Abela"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Frederick_Azzopardi"
+          "url": "https://en.wikipedia.org/wiki/Carmelo_Abela"
         }
       ],
-      "name": "Frederick Azzopardi",
+      "name": "Carmelo Abela",
       "other_names": [
         {
           "lang": "de",
-          "name": "Frederick Azzopardi",
+          "name": "Carmelo Abela",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Frederick Azzopardi",
+          "name": "Carmelo Abela",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Frederick Azzopardi",
+          "name": "Carmelo Abela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Carmelo Abela",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Frederick Azzopardi",
+          "name": "Carmelo Abela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кармело Абела",
           "note": "multilingual"
         }
       ]
@@ -1735,537 +2405,81 @@
       ]
     },
     {
-      "birth_date": "1942-04-24",
+      "birth_date": "1961-11-16",
       "contact_details": [
         {
           "type": "email",
-          "value": "george.vella@gov.mt"
+          "value": "falzon.michael@gmail.com"
         }
       ],
-      "email": "george.vella@gov.mt",
+      "email": "falzon.michael@gmail.com",
       "gender": "male",
-      "given_name": "George",
-      "id": "f810055a-379c-4865-b974-b00be874ef6b",
+      "given_name": "Michael",
+      "id": "a7ea6925-5228-4370-b210-e35f269328e5",
       "identifiers": [
         {
-          "identifier": "23937",
-          "scheme": "europarlmep"
-        },
-        {
-          "identifier": "vella-george",
+          "identifier": "falzon-michael",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/0661254",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "2281",
-          "scheme": "pace"
-        },
-        {
-          "identifier": "Q1508402",
+          "identifier": "Q6830205",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31736",
+      "image": "http://www.parlament.mt/file.aspx?f=32810",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31736"
+          "url": "http://www.parlament.mt/file.aspx?f=32810"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/George_Vella_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Michael_Falzon_2007_jpg.jpg"
         }
       ],
       "links": [
         {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/George_Vella"
-        },
-        {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/George_William_Vella"
-        },
-        {
-          "note": "Wikipedia (fa)",
-          "url": "https://fa.wikipedia.org/wiki/جورج_ویلیام_ولا"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/George_Vella"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/George_William_Vella"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Georgius_Vella"
+          "url": "https://en.wikipedia.org/wiki/Michael_Falzon_(politician)"
         },
         {
           "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/George_Vella"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/George_William_Vella"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/George_William_Vella"
+          "url": "https://mt.wikipedia.org/wiki/Michael_Falzon"
         }
       ],
-      "name": "George Vella",
+      "name": "Michael Falzon",
       "other_names": [
         {
-          "name": "George William Vella",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
-          "name": "George Vella",
+          "name": "Michael Falzon",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "George William Vella",
+          "name": "Michael Falzon",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "George William Vella",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fa",
-          "name": "جورج ویلیام ولا",
+          "name": "Michael Falzon",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "George William Vella",
+          "name": "Michael Falzon",
           "note": "multilingual"
         },
         {
           "lang": "hu",
-          "name": "George William Vella",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "George William Vella",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Georgius Gulielmus Vella",
+          "name": "Michael Falzon",
           "note": "multilingual"
         },
         {
           "lang": "mt",
-          "name": "George Vella",
+          "name": "Michael Falzon",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "George William Vella",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "George William Vella",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1956-11-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giovanna.debono@parlament.mt"
-        }
-      ],
-      "email": "giovanna.debono@parlament.mt",
-      "gender": "female",
-      "given_name": "Giovanna",
-      "id": "fc7366dd-109b-475e-bf93-cedf8386f1bc",
-      "identifiers": [
-        {
-          "identifier": "debono-giovanna",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/03wg2hd",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q524961",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32390",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32390"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Giovanna_Debono"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Giovanna_Debono"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Giovanna_Debono"
-        }
-      ],
-      "name": "Giovanna Debono",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Giovanna Debono",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Giovanna Debono",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Giovanna Debono",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Giovanna Debono",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Giovanna Debono",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Giovanna Debono",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "godfrey.a.farrugia@gov.mt"
-        }
-      ],
-      "email": "godfrey.a.farrugia@gov.mt",
-      "family_name": "Farrugia",
-      "gender": "male",
-      "given_name": "Godfrey",
-      "id": "ae4559f6-9433-4f92-a538-ad33498fd796",
-      "identifiers": [
-        {
-          "identifier": "farrugia-godfrey",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q25688004",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31735",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31735"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Godfrey_Farrugia_-_September_2016_(cropped).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Godfrey_Farrugia"
-        },
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Godfrey_Farrugia"
-        }
-      ],
-      "name": "Godfrey Farrugia",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Godfrey Farrugia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Godfrey Farrugia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Godfrey Farrugia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Godfrey Farrugia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Godfrey Farrugia",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "helena.dalli@gov.mt"
-        }
-      ],
-      "email": "helena.dalli@gov.mt",
-      "gender": "female",
-      "given_name": "Helena",
-      "id": "60d51ea8-48f8-4a9e-b729-d3d6f860dd19",
-      "identifiers": [
-        {
-          "identifier": "dalli-helena",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q19958063",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31749",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31749"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Helena_Dalli"
-        }
-      ],
-      "name": "Helena Dalli",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Helena Dalli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Helena Dalli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Helena Dalli",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ian.borg@gov.mt"
-        }
-      ],
-      "email": "ian.borg@gov.mt",
-      "gender": "male",
-      "id": "6f8e37ce-6c5c-44ca-9d56-eb32cfa93de5",
-      "identifiers": [
-        {
-          "identifier": "borg-ian",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31734",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31734"
-        }
-      ],
-      "name": "Ian Borg"
-    },
-    {
-      "birth_date": "1971-03-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jason.azzopardi@parlament.mt"
-        }
-      ],
-      "email": "jason.azzopardi@parlament.mt",
-      "gender": "male",
-      "given_name": "Jason",
-      "id": "34c28585-fde5-4fcf-9ad1-69c0b62a793a",
-      "identifiers": [
-        {
-          "identifier": "26818",
-          "scheme": "europarlmep"
-        },
-        {
-          "identifier": "azzopardi-jason",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0130fx8v",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q1683865",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32203",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32203"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Jason_Azzopardi.gif"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Jason_Azzopardi"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Jason_Azzopardi"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Jason_Azzopardi"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Jason_Azzopardi"
-        }
-      ],
-      "name": "Jason Azzopardi",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Jason Azzopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Jason Azzopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Jason Azzopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Jason Azzopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Jason Azzopardi",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1966-05-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "joseph.r.cassar@parlament.mt"
-        }
-      ],
-      "email": "joseph.r.cassar@parlament.mt",
-      "gender": "male",
-      "given_name": "Joe",
-      "id": "9530ab81-5cfb-4278-ba84-66fdf42ae788",
-      "identifiers": [
-        {
-          "identifier": "cassar-joe",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/05s_62b",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q632408",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32365",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32365"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Joe_Cassar"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Joe_Cassar"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Joe_Cassar"
-        }
-      ],
-      "name": "Joe Cassar",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Joe Cassar",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Joe Cassar",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Joe Cassar",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Joe Cassar",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Joe Cassar",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Joe Cassar",
+          "name": "Michael Falzon",
           "note": "multilingual"
         }
       ]
@@ -2347,6 +2561,572 @@
       ]
     },
     {
+      "id": "abef5f76-51d2-4936-aee7-4d0076dd3772",
+      "image": "http://www.parlament.mt/file.aspx?f=59413",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=59413"
+        }
+      ],
+      "name": "Peter Micallef"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "martheseportellipn@gmail.com"
+        }
+      ],
+      "email": "martheseportellipn@gmail.com",
+      "gender": "female",
+      "id": "ac99c13c-30da-4c1b-8ae3-c92051d4cf83",
+      "identifiers": [
+        {
+          "identifier": "portelli-marthese",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=33194",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=33194"
+        }
+      ],
+      "name": "Marthese Portelli"
+    },
+    {
+      "birth_date": "1963-09-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "stephen.a.spiteri@parlament.mt"
+        }
+      ],
+      "email": "stephen.a.spiteri@parlament.mt",
+      "gender": "male",
+      "given_name": "Stephen",
+      "id": "ae2e2b4b-a907-476b-9799-0620e751423d",
+      "identifiers": [
+        {
+          "identifier": "14644126h",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "spiteri-stephen",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "174092598",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb98044042",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "153428937",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "171172199",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1323633",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32671",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32671"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Stephen_C._Spiteri"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stephen_C._Spiteri"
+        }
+      ],
+      "name": "Stephen Spiteri",
+      "other_names": [
+        {
+          "name": "Stephen C. Spiteri",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Stephen C. Spiteri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stephen C. Spiteri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stephen C. Spiteri",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "godfrey.a.farrugia@gov.mt"
+        }
+      ],
+      "email": "godfrey.a.farrugia@gov.mt",
+      "family_name": "Farrugia",
+      "gender": "male",
+      "given_name": "Godfrey",
+      "id": "ae4559f6-9433-4f92-a538-ad33498fd796",
+      "identifiers": [
+        {
+          "identifier": "farrugia-godfrey",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25688004",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31735",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31735"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Godfrey_Farrugia_-_September_2016_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Godfrey_Farrugia"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Godfrey_Farrugia"
+        }
+      ],
+      "name": "Godfrey Farrugia",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Godfrey Farrugia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Godfrey Farrugia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Godfrey Farrugia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Godfrey Farrugia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Godfrey Farrugia",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "claudio.grech@parlament.mt"
+        }
+      ],
+      "email": "claudio.grech@parlament.mt",
+      "gender": "male",
+      "id": "b1bba401-154a-4766-8ff3-cb1a7484639c",
+      "identifiers": [
+        {
+          "identifier": "grech-claudio",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32406",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32406"
+        }
+      ],
+      "name": "Claudio Grech"
+    },
+    {
+      "birth_date": "1985-05-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "silvio.schembri@parlament.mt"
+        }
+      ],
+      "email": "silvio.schembri@parlament.mt",
+      "gender": "male",
+      "id": "bca29eec-ffdf-40e2-b413-188d77b0a0d2",
+      "identifiers": [
+        {
+          "identifier": "schembri-silvio",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23881652",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=35979",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=35979"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Silvio_Schembri.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Silvio_Schembri"
+        }
+      ],
+      "name": "Silvio Schembri",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvio Schembri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Silvio Schembri",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "peritcb@gmail.com"
+        }
+      ],
+      "email": "peritcb@gmail.com",
+      "gender": "male",
+      "id": "c35d2f39-ff12-4f21-b471-7c5ab01a2e1a",
+      "identifiers": [
+        {
+          "identifier": "buhagiar-charles",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31745",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31745"
+        }
+      ],
+      "name": "Charles Buhagiar"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "silvio.parnis@partitlaburidta.org"
+        }
+      ],
+      "email": "silvio.parnis@partitlaburidta.org",
+      "gender": "male",
+      "given_name": "Silvio",
+      "id": "c4ededa8-e3dd-45a3-8e80-93a3eddc1f80",
+      "identifiers": [
+        {
+          "identifier": "parnis-silvio",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20983473",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=49206",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=49206"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Silvio_Parnis.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Silvio_Parnis"
+        }
+      ],
+      "name": "Silvio Parnis",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvio Parnis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Silvio Parnis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Silvio Parnis",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "albert.fenech@gov.mt"
+        }
+      ],
+      "email": "albert.fenech@gov.mt",
+      "gender": "male",
+      "id": "cae1b496-0001-4b94-adec-884cec06394b",
+      "identifiers": [
+        {
+          "identifier": "fenech-albert",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=33193",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=33193"
+        }
+      ],
+      "name": "Albert Fenech"
+    },
+    {
+      "id": "cae1ce14-77c0-4638-a843-8da143a9918a",
+      "image": "http://www.parlament.mt/file.aspx?f=59414",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=59414"
+        }
+      ],
+      "name": "Edwin Vassallo"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "chris.agius@parlament.mt"
+        }
+      ],
+      "email": "chris.agius@parlament.mt",
+      "gender": "male",
+      "id": "d0aa96c0-2c0f-4e89-9fd3-91d3761df98f",
+      "identifiers": [
+        {
+          "identifier": "agius-chris",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=33313",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=33313"
+        }
+      ],
+      "name": "Chris Agius"
+    },
+    {
+      "birth_date": "1969-05-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tonio.fenech@parlament.mt"
+        }
+      ],
+      "email": "tonio.fenech@parlament.mt",
+      "gender": "male",
+      "given_name": "Tonio",
+      "id": "d5ae793a-1653-4e57-868f-ecd392d05809",
+      "identifiers": [
+        {
+          "identifier": "fenech-tonio",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03wflrn",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q247348",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32393",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32393"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tonio_Fenech"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tonio_Fenech"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antonio_Fenech"
+        }
+      ],
+      "name": "Tonio Fenech",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tonio Fenech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tonio Fenech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tonio Fenech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tonio Fenech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tonio Fenech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tonio Fenech",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "leo.brincat@parlament.mt"
+        }
+      ],
+      "email": "leo.brincat@parlament.mt",
+      "gender": "male",
+      "id": "d7eda5ac-6fb7-4431-af49-cf0f019b1edf",
+      "identifiers": [
+        {
+          "identifier": "brincat-leo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31727",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31727"
+        }
+      ],
+      "name": "Leo Brincat"
+    },
+    {
+      "birth_date": "1956-08-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vincent.galea@parlament.mt"
+        }
+      ],
+      "email": "vincent.galea@parlament.mt",
+      "gender": "male",
+      "id": "d807138f-81ad-4c88-a7ef-2a58dfeb579c",
+      "identifiers": [
+        {
+          "identifier": "galea-censu",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q8079637",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=33195",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=33195"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ċensu_Galea"
+        }
+      ],
+      "name": "Censu Galea",
+      "other_names": [
+        {
+          "name": "Ċensu Galea",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ċensu Galea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ċensu Galea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ċensu Galea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ċensu Galea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ċensu Galea",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2388,28 +3168,74 @@
       ]
     },
     {
+      "birth_date": "1972",
       "contact_details": [
         {
           "type": "email",
-          "value": "joefarrugiafarell@gmail.com"
+          "value": "christian.cardona@gov.mt"
         }
       ],
-      "email": "joefarrugiafarell@gmail.com",
+      "email": "christian.cardona@gov.mt",
       "gender": "male",
-      "id": "1eaa462f-da27-41dc-9055-919b96ff45a2",
+      "given_name": "Christian",
+      "id": "dbd7ac0d-8a0b-4c84-ac77-43b546767dc8",
       "identifiers": [
         {
-          "identifier": "farrugia-joseph",
+          "identifier": "cardona-chris",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16213896",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=49049",
+      "image": "http://www.parlament.mt/file.aspx?f=31744",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=49049"
+          "url": "http://www.parlament.mt/file.aspx?f=31744"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hon._Minister_Dr._Christian_Cardona.jpg"
         }
       ],
-      "name": "Joseph Farrugia"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christian_Cardona"
+        }
+      ],
+      "name": "Chris Cardona",
+      "other_names": [
+        {
+          "name": "Christian Cardona",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Christian Cardona",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christian Cardona",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Christian Cardona",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Christian Cardona",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Christian Cardona",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-01-22",
@@ -2835,28 +3661,255 @@
       ]
     },
     {
+      "birth_date": "1969-03-21",
       "contact_details": [
         {
           "type": "email",
-          "value": "joseph.m.sammut@parlament.mt"
+          "value": "simon.busuttil@parlament.mt"
         }
       ],
-      "email": "joseph.m.sammut@parlament.mt",
+      "email": "simon.busuttil@parlament.mt",
       "gender": "male",
-      "id": "f6cdf943-43a2-45cf-941d-1f5d91759100",
+      "given_name": "Simon",
+      "id": "eba2730f-f701-4e13-8778-397dfc2f539f",
       "identifiers": [
         {
-          "identifier": "sammut-joseph",
+          "identifier": "28120",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "busuttil-simon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0546hg",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1363583",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31731",
+      "image": "http://www.parlament.mt/file.aspx?f=35179",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31731"
+          "url": "http://www.parlament.mt/file.aspx?f=35179"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/SimonProfile.jpg"
         }
       ],
-      "name": "Joseph Sammut"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Simon_Busuttil"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Саймон_Бусуттіл"
+        },
+        {
+          "note": "website",
+          "url": "http://www.simonbusuttil.eu"
+        }
+      ],
+      "name": "Simon Busuttil",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Simon Busuttil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Саймон Бусуттіл",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1965-10-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mario.demarco@parlament.mt"
+        }
+      ],
+      "email": "mario.demarco@parlament.mt",
+      "gender": "male",
+      "given_name": "Mario",
+      "id": "eeedb4bc-283c-43a1-9476-fe6ac6f65dd9",
+      "identifiers": [
+        {
+          "identifier": "26817",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "demarco-mario",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gx123",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q441784",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=32391",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=32391"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Mario_de_Marco"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mario_de_Marco"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mario_de_Marco"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Mario_De_Marco"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mario_de_Marco"
+        }
+      ],
+      "name": "Mario De Marco",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mario de Marco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mario de Marco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mario de Marco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mario de Marco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mario de Marco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Mario De Marco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mario de Marco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mario de Marco",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2886,173 +3939,217 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "justyne.caruana@gmail.com"
+          "value": "antoine@antoineborg.com"
         }
       ],
-      "email": "justyne.caruana@gmail.com",
-      "gender": "female",
-      "id": "7297f3f3-5d76-44c7-b980-6232bf4d9a78",
+      "email": "antoine@antoineborg.com",
+      "gender": "male",
+      "id": "f479086e-eaff-4b49-b79b-16fff17595e4",
       "identifiers": [
         {
-          "identifier": "caruana-justyne",
+          "identifier": "borg-antoine",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31730",
+      "image": "http://www.parlament.mt/file.aspx?f=43333",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31730"
+          "url": "http://www.parlament.mt/file.aspx?f=43333"
         }
       ],
-      "name": "Justyne Caruana"
+      "name": "Antoine Borg"
     },
     {
       "contact_details": [
         {
           "type": "email",
-          "value": "karl.gouder@parlament.mt"
+          "value": "edward.zammit-lewis@gov.mt"
         }
       ],
-      "email": "karl.gouder@parlament.mt",
-      "id": "43e3a3a0-6c63-430e-91e4-687d137b8ed7",
-      "image": "http://www.parlament.mt/file.aspx?f=15432",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=15432"
-        }
-      ],
-      "name": "Karl Gouder"
-    },
-    {
-      "birth_date": "1977-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "konrad.mizzi@gov.mt"
-        }
-      ],
-      "email": "konrad.mizzi@gov.mt",
+      "email": "edward.zammit-lewis@gov.mt",
       "gender": "male",
-      "given_name": "Konrad",
-      "id": "8556b667-af3b-4ba4-80dd-d3f8f0af0508",
+      "id": "f4d1c7e4-e0c7-41e7-83ee-5bb8c9fb2549",
       "identifiers": [
         {
-          "identifier": "mizzi-konrad",
+          "identifier": "zammitlewis-edward",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=55184",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=55184"
+        }
+      ],
+      "name": "Edward Zammit-Lewis"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "joseph.m.sammut@parlament.mt"
+        }
+      ],
+      "email": "joseph.m.sammut@parlament.mt",
+      "gender": "male",
+      "id": "f6cdf943-43a2-45cf-941d-1f5d91759100",
+      "identifiers": [
+        {
+          "identifier": "sammut-joseph",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.mt/file.aspx?f=31731",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=31731"
+        }
+      ],
+      "name": "Joseph Sammut"
+    },
+    {
+      "birth_date": "1942-04-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "george.vella@gov.mt"
+        }
+      ],
+      "email": "george.vella@gov.mt",
+      "gender": "male",
+      "given_name": "George",
+      "id": "f810055a-379c-4865-b974-b00be874ef6b",
+      "identifiers": [
+        {
+          "identifier": "23937",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "vella-george",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q15711259",
+          "identifier": "/m/0661254",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "2281",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q1508402",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=31728",
+      "image": "http://www.parlament.mt/file.aspx?f=31736",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=31728"
+          "url": "http://www.parlament.mt/file.aspx?f=31736"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Konrad_mizzi.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/George_Vella_(cropped).jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Konrad_Mizzi"
+          "url": "https://de.wikipedia.org/wiki/George_Vella"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Konrad_Mizzi"
+          "url": "https://en.wikipedia.org/wiki/George_William_Vella"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/جورج_ویلیام_ولا"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Konrad_Mizzi"
+          "url": "https://fr.wikipedia.org/wiki/George_Vella"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/George_William_Vella"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Georgius_Vella"
         },
         {
           "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Konrad_Mizzi"
+          "url": "https://mt.wikipedia.org/wiki/George_Vella"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/George_William_Vella"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/George_William_Vella"
         }
       ],
-      "name": "Konrad Mizzi",
+      "name": "George Vella",
       "other_names": [
         {
+          "name": "George William Vella",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
-          "name": "Konrad Mizzi",
+          "name": "George Vella",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Konrad Mizzi",
+          "name": "George William Vella",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "George William Vella",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "جورج ویلیام ولا",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Konrad Mizzi",
+          "name": "George William Vella",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "George William Vella",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "George William Vella",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Georgius Gulielmus Vella",
           "note": "multilingual"
         },
         {
           "lang": "mt",
-          "name": "Konrad Mizzi",
+          "name": "George Vella",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Konrad Mizzi",
+          "name": "George William Vella",
           "note": "multilingual"
         },
         {
-          "lang": "zh",
-          "name": "康拉德·米西",
+          "lang": "pl",
+          "name": "George William Vella",
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kristy.debono@parlament.mt"
-        }
-      ],
-      "email": "kristy.debono@parlament.mt",
-      "gender": "female",
-      "id": "7035d10b-73e1-4dbe-b806-1215db89cfd7",
-      "identifiers": [
-        {
-          "identifier": "kristy-debono",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=33192",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33192"
-        }
-      ],
-      "name": "Kristy Debono"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "leo.brincat@parlament.mt"
-        }
-      ],
-      "email": "leo.brincat@parlament.mt",
-      "gender": "male",
-      "id": "d7eda5ac-6fb7-4431-af49-cf0f019b1edf",
-      "identifiers": [
-        {
-          "identifier": "brincat-leo",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31727",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31727"
-        }
-      ],
-      "name": "Leo Brincat"
     },
     {
       "birth_date": "1947-03-22",
@@ -3205,1178 +4302,81 @@
       ]
     },
     {
+      "birth_date": "1956-11-25",
       "contact_details": [
         {
           "type": "email",
-          "value": "lucio74b@gmail.com"
+          "value": "giovanna.debono@parlament.mt"
         }
       ],
-      "email": "lucio74b@gmail.com",
-      "gender": "male",
-      "id": "70dded4b-99c1-4569-a91f-666cdd3ea391",
+      "email": "giovanna.debono@parlament.mt",
+      "gender": "female",
+      "given_name": "Giovanna",
+      "id": "fc7366dd-109b-475e-bf93-cedf8386f1bc",
       "identifiers": [
         {
-          "identifier": "busuttil-luciano",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=33309",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33309"
-        }
-      ],
-      "name": "Luciano Busuttil"
-    },
-    {
-      "birth_date": "1965-10-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mario.demarco@parlament.mt"
-        }
-      ],
-      "email": "mario.demarco@parlament.mt",
-      "gender": "male",
-      "given_name": "Mario",
-      "id": "eeedb4bc-283c-43a1-9476-fe6ac6f65dd9",
-      "identifiers": [
-        {
-          "identifier": "26817",
-          "scheme": "europarlmep"
-        },
-        {
-          "identifier": "demarco-mario",
+          "identifier": "debono-giovanna",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/0gx123",
+          "identifier": "/m/03wg2hd",
           "scheme": "freebase"
         },
         {
-          "identifier": "Q441784",
+          "identifier": "Q524961",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.mt/file.aspx?f=32391",
+      "image": "http://www.parlament.mt/file.aspx?f=32390",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=32391"
+          "url": "http://www.parlament.mt/file.aspx?f=32390"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Mario_de_Marco"
+          "url": "https://de.wikipedia.org/wiki/Giovanna_Debono"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mario_de_Marco"
+          "url": "https://en.wikipedia.org/wiki/Giovanna_Debono"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Mario_de_Marco"
-        },
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Mario_De_Marco"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Mario_de_Marco"
+          "url": "https://fr.wikipedia.org/wiki/Giovanna_Debono"
         }
       ],
-      "name": "Mario De Marco",
+      "name": "Giovanna Debono",
       "other_names": [
         {
           "lang": "de",
-          "name": "Mario de Marco",
+          "name": "Giovanna Debono",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Mario de Marco",
+          "name": "Giovanna Debono",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Mario de Marco",
+          "name": "Giovanna Debono",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Mario de Marco",
+          "name": "Giovanna Debono",
           "note": "multilingual"
         },
         {
           "lang": "hu",
-          "name": "Mario de Marco",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Mario De Marco",
+          "name": "Giovanna Debono",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Mario de Marco",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Mario de Marco",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mario.galea@parlament.mt"
-        }
-      ],
-      "email": "mario.galea@parlament.mt",
-      "gender": "male",
-      "id": "5a576f45-6824-40cb-895d-040c08d61400",
-      "identifiers": [
-        {
-          "identifier": "galea-mario",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32394",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32394"
-        }
-      ],
-      "name": "Mario Galea"
-    },
-    {
-      "birth_date": "1966-07-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marlenedent@gmail.com"
-        }
-      ],
-      "email": "marlenedent@gmail.com",
-      "gender": "female",
-      "given_name": "Marlene",
-      "id": "803511e2-3629-40c0-9ad9-bd950298f155",
-      "identifiers": [
-        {
-          "identifier": "farrugia-marlene",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q24643928",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31724",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31724"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Marlene_Farrugia"
-        },
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Marlene_Farrugia"
-        }
-      ],
-      "name": "Marlene Farrugia",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Marlene Farrugia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Marlene Farrugia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Marlene Farrugia",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "martheseportellipn@gmail.com"
-        }
-      ],
-      "email": "martheseportellipn@gmail.com",
-      "gender": "female",
-      "id": "ac99c13c-30da-4c1b-8ae3-c92051d4cf83",
-      "identifiers": [
-        {
-          "identifier": "portelli-marthese",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=33194",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33194"
-        }
-      ],
-      "name": "Marthese Portelli"
-    },
-    {
-      "birth_date": "1961-11-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "falzon.michael@gmail.com"
-        }
-      ],
-      "email": "falzon.michael@gmail.com",
-      "gender": "male",
-      "given_name": "Michael",
-      "id": "a7ea6925-5228-4370-b210-e35f269328e5",
-      "identifiers": [
-        {
-          "identifier": "falzon-michael",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6830205",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32810",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32810"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Michael_Falzon_2007_jpg.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Michael_Falzon_(politician)"
-        },
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Michael_Falzon"
-        }
-      ],
-      "name": "Michael Falzon",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Michael Falzon",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Michael Falzon",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Michael Falzon",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Michael Falzon",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Michael Falzon",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Michael Falzon",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Michael Falzon",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michael.farrugia@gov.mt"
-        }
-      ],
-      "email": "michael.farrugia@gov.mt",
-      "gender": "male",
-      "id": "8ce0fc3f-1461-4a5a-9af5-ee634fe51c2d",
-      "identifiers": [
-        {
-          "identifier": "farrugia-michael",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31723",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31723"
-        }
-      ],
-      "name": "Michael Farrugia"
-    },
-    {
-      "birth_date": "1960-10-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michael.gonzi@parlament.mt"
-        }
-      ],
-      "email": "michael.gonzi@parlament.mt",
-      "gender": "male",
-      "given_name": "Michael",
-      "id": "41cda172-c6b3-47db-ac07-3cb3c4b8994f",
-      "identifiers": [
-        {
-          "identifier": "gonzi-michael",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6830673",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32396",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32396"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Michael_Gonzi"
-        }
-      ],
-      "name": "Michael Gonzi",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Michael Gonzi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Michael Gonzi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Michael Gonzi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Michael Gonzi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Michael Gonzi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Michael Gonzi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Michael Gonzi",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1980-05-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "owen.bonnici@gov.mt"
-        }
-      ],
-      "email": "owen.bonnici@gov.mt",
-      "gender": "male",
-      "given_name": "Owen",
-      "id": "4dadfb6f-d761-44ed-ba03-54c18a49c558",
-      "identifiers": [
-        {
-          "identifier": "bonnici-owen",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16199692",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31721",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31721"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Owen_Bonnici"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Owen_Bonnici"
-        },
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Owen_Bonnici"
-        }
-      ],
-      "name": "Owen Bonnici",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Owen Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Owen Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Owen Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Owen Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Owen Bonnici",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Owen Bonnici",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "paula.mifsud-bonnici@parlament.mt"
-        }
-      ],
-      "email": "paula.mifsud-bonnici@parlament.mt",
-      "gender": "female",
-      "id": "53bc92b9-e039-4bc4-bce1-aea81684fb7f",
-      "identifiers": [
-        {
-          "identifier": "mifsudbonnici-paula",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=34317",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=34317"
-        }
-      ],
-      "name": "Paula Mifsud Bonnici"
-    },
-    {
-      "id": "abef5f76-51d2-4936-aee7-4d0076dd3772",
-      "image": "http://www.parlament.mt/file.aspx?f=59413",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=59413"
-        }
-      ],
-      "name": "Peter Micallef"
-    },
-    {
-      "birth_date": "1954-12-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "robert.arrigo@parlament.mt"
-        }
-      ],
-      "email": "robert.arrigo@parlament.mt",
-      "gender": "male",
-      "given_name": "Robert",
-      "id": "0ab37aaf-e308-4f98-a408-c0c60a737116",
-      "identifiers": [
-        {
-          "identifier": "arrigo-robert",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7341603",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31881",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31881"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Robert_Arrigo"
-        }
-      ],
-      "name": "Robert Arrigo",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Robert Arrigo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Robert Arrigo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Robert Arrigo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Robert Arrigo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Robert Arrigo",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "robert.cutajar@parlament.mt"
-        }
-      ],
-      "email": "robert.cutajar@parlament.mt",
-      "gender": "male",
-      "given_name": "Robert",
-      "id": "a1b7b8ea-a7a6-4a2e-821e-aa1e940024f4",
-      "identifiers": [
-        {
-          "identifier": "cutajar-robert",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q27663240",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32389",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32389"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Robert_Cutajar"
-        }
-      ],
-      "name": "Robert Cutajar",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Robert Cutajar",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Robert Cutajar",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roderick.galdes@gov.mt"
-        }
-      ],
-      "email": "roderick.galdes@gov.mt",
-      "gender": "male",
-      "given_name": "Roderick",
-      "id": "62732ab1-14e5-4da6-b2a0-cac8d488b55f",
-      "identifiers": [
-        {
-          "identifier": "galdes-roderick",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20949398",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31720",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31720"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Roderick_Galdes"
-        }
-      ],
-      "name": "Roderick Galdes",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Roderick Galdes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Roderick Galdes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Roderick Galdes",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1983-06-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ryan.callus@parlament.mt"
-        }
-      ],
-      "email": "ryan.callus@parlament.mt",
-      "gender": "male",
-      "given_name": "Ryan",
-      "id": "013d4477-7a18-495a-9249-e5ac5ef0add5",
-      "identifiers": [
-        {
-          "identifier": "callus-ryan",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q17016298",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32206",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32206"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ryan_Callus"
-        }
-      ],
-      "name": "Ryan Callus",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Ryan Callus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ryan Callus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ryan Callus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ryan Callus",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silvio.parnis@partitlaburidta.org"
-        }
-      ],
-      "email": "silvio.parnis@partitlaburidta.org",
-      "gender": "male",
-      "given_name": "Silvio",
-      "id": "c4ededa8-e3dd-45a3-8e80-93a3eddc1f80",
-      "identifiers": [
-        {
-          "identifier": "parnis-silvio",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20983473",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=49206",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=49206"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Silvio_Parnis.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Silvio_Parnis"
-        }
-      ],
-      "name": "Silvio Parnis",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Silvio Parnis",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Silvio Parnis",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Silvio Parnis",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1985-05-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silvio.schembri@parlament.mt"
-        }
-      ],
-      "email": "silvio.schembri@parlament.mt",
-      "gender": "male",
-      "id": "bca29eec-ffdf-40e2-b413-188d77b0a0d2",
-      "identifiers": [
-        {
-          "identifier": "schembri-silvio",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q23881652",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=35979",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=35979"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Silvio_Schembri.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Silvio_Schembri"
-        }
-      ],
-      "name": "Silvio Schembri",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Silvio Schembri",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Silvio Schembri",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1969-03-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "simon.busuttil@parlament.mt"
-        }
-      ],
-      "email": "simon.busuttil@parlament.mt",
-      "gender": "male",
-      "given_name": "Simon",
-      "id": "eba2730f-f701-4e13-8778-397dfc2f539f",
-      "identifiers": [
-        {
-          "identifier": "28120",
-          "scheme": "europarlmep"
-        },
-        {
-          "identifier": "busuttil-simon",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0546hg",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q1363583",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=35179",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=35179"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/SimonProfile.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (mt)",
-          "url": "https://mt.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Simon_Busuttil"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Саймон_Бусуттіл"
-        },
-        {
-          "note": "website",
-          "url": "http://www.simonbusuttil.eu"
-        }
-      ],
-      "name": "Simon Busuttil",
-      "other_names": [
-        {
-          "lang": "da",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mt",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Simon Busuttil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Саймон Бусуттіл",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefan.buontempo@gov.mt"
-        }
-      ],
-      "email": "stefan.buontempo@gov.mt",
-      "gender": "male",
-      "id": "a4b03c38-5656-4361-8060-28bcbd3aa3a9",
-      "identifiers": [
-        {
-          "identifier": "buontempo-stefan",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=31717",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31717"
-        }
-      ],
-      "name": "Stefan Buontempo"
-    },
-    {
-      "birth_date": "1963-09-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stephen.a.spiteri@parlament.mt"
-        }
-      ],
-      "email": "stephen.a.spiteri@parlament.mt",
-      "gender": "male",
-      "given_name": "Stephen",
-      "id": "ae2e2b4b-a907-476b-9799-0620e751423d",
-      "identifiers": [
-        {
-          "identifier": "14644126h",
-          "scheme": "bnf"
-        },
-        {
-          "identifier": "spiteri-stephen",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "174092598",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "nb98044042",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "153428937",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "171172199",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q1323633",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32671",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32671"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Stephen_C._Spiteri"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Stephen_C._Spiteri"
-        }
-      ],
-      "name": "Stephen Spiteri",
-      "other_names": [
-        {
-          "name": "Stephen C. Spiteri",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Stephen C. Spiteri",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Stephen C. Spiteri",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Stephen C. Spiteri",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1969-05-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tonio.fenech@parlament.mt"
-        }
-      ],
-      "email": "tonio.fenech@parlament.mt",
-      "gender": "male",
-      "given_name": "Tonio",
-      "id": "d5ae793a-1653-4e57-868f-ecd392d05809",
-      "identifiers": [
-        {
-          "identifier": "fenech-tonio",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/03wflrn",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q247348",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parlament.mt/file.aspx?f=32393",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32393"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Tonio_Fenech"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tonio_Fenech"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Antonio_Fenech"
-        }
-      ],
-      "name": "Tonio Fenech",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Tonio Fenech",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Tonio Fenech",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Tonio Fenech",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tonio Fenech",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Tonio Fenech",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Tonio Fenech",
+          "name": "Giovanna Debono",
           "note": "multilingual"
         }
       ]

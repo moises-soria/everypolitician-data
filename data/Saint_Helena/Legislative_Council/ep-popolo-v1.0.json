@@ -4,14 +4,76 @@
   ],
   "persons": [
     {
-      "id": "44b28def-c01d-4f37-b957-f2ec111bb3f1",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nigel.dollery@helanta.co.sh"
+        }
+      ],
+      "email": "nigel.dollery@helanta.co.sh",
+      "id": "05cabc01-f62d-4493-a145-fa7e04ca3f03",
       "identifiers": [
         {
-          "identifier": "anthony_arthur_green",
+          "identifier": "nigel_dollery",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Anthony Arthur Green"
+      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/adj-posterposter-2.jpg",
+      "images": [
+        {
+          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/adj-posterposter-2.jpg"
+        }
+      ],
+      "name": "Nigel Dollery"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Councillor.George@helanta.co.sh"
+        }
+      ],
+      "email": "Councillor.George@helanta.co.sh",
+      "id": "0a163df8-33ff-4b14-b3a4-c51729e7fa8e",
+      "identifiers": [
+        {
+          "identifier": "cyril_robert_george",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/DSC_0627.jpg",
+      "images": [
+        {
+          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/DSC_0627.jpg"
+        }
+      ],
+      "name": "Cyril Robert George",
+      "other_names": [
+        {
+          "name": "Cyril George",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "13adddcd-b62d-4080-9fbd-fe5bebb1acea",
+      "identifiers": [
+        {
+          "identifier": "leslie_paul_baldwin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Leslie Paul Baldwin"
+    },
+    {
+      "id": "154a18fe-0b7c-40e4-a59d-8a6a414ffa97",
+      "identifiers": [
+        {
+          "identifier": "ian_sebastian_rummery",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ian Sebastian Rummery"
     },
     {
       "id": "1dee57c9-4872-44bf-aa9f-4abde5b9b91b",
@@ -24,30 +86,40 @@
       "name": "Bernice Alicia Olsson"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "brian.isaac@helanta.co.sh"
-        }
-      ],
-      "email": "brian.isaac@helanta.co.sh",
-      "id": "a977daff-a537-4ff4-8b99-5955ff9a69b2",
+      "id": "44b28def-c01d-4f37-b957-f2ec111bb3f1",
       "identifiers": [
         {
-          "identifier": "brian_william_isaac",
+          "identifier": "anthony_arthur_green",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/brian.jpg",
-      "images": [
+      "name": "Anthony Arthur Green"
+    },
+    {
+      "contact_details": [
         {
-          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/brian.jpg"
+          "type": "email",
+          "value": "Email:Councillor.Ellick@helanta.co.sh"
         }
       ],
-      "name": "Brian William Isaac",
+      "email": "Email:Councillor.Ellick@helanta.co.sh",
+      "id": "83501731-2f0d-4485-a11a-d5d33f5cff4e",
+      "identifiers": [
+        {
+          "identifier": "gavin_george_ellick",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/eddie.jpg",
+      "images": [
+        {
+          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/eddie.jpg"
+        }
+      ],
+      "name": "Gavin George Ellick",
       "other_names": [
         {
-          "name": "Brian Issac",
+          "name": "Gavin Ellick",
           "note": "alternate"
         }
       ]
@@ -82,35 +154,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Councillor.George@helanta.co.sh"
-        }
-      ],
-      "email": "Councillor.George@helanta.co.sh",
-      "id": "0a163df8-33ff-4b14-b3a4-c51729e7fa8e",
-      "identifiers": [
-        {
-          "identifier": "cyril_robert_george",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/DSC_0627.jpg",
-      "images": [
-        {
-          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/DSC_0627.jpg"
-        }
-      ],
-      "name": "Cyril Robert George",
-      "other_names": [
-        {
-          "name": "Cyril George",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
       "id": "95b6e272-bdb4-4e56-8909-0762048df310",
       "identifiers": [
         {
@@ -124,40 +167,30 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "Email:Councillor.Ellick@helanta.co.sh"
+          "value": "brian.isaac@helanta.co.sh"
         }
       ],
-      "email": "Email:Councillor.Ellick@helanta.co.sh",
-      "id": "83501731-2f0d-4485-a11a-d5d33f5cff4e",
+      "email": "brian.isaac@helanta.co.sh",
+      "id": "a977daff-a537-4ff4-8b99-5955ff9a69b2",
       "identifiers": [
         {
-          "identifier": "gavin_george_ellick",
+          "identifier": "brian_william_isaac",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/eddie.jpg",
+      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/brian.jpg",
       "images": [
         {
-          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/eddie.jpg"
+          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/brian.jpg"
         }
       ],
-      "name": "Gavin George Ellick",
+      "name": "Brian William Isaac",
       "other_names": [
         {
-          "name": "Gavin Ellick",
+          "name": "Brian Issac",
           "note": "alternate"
         }
       ]
-    },
-    {
-      "id": "154a18fe-0b7c-40e4-a59d-8a6a414ffa97",
-      "identifiers": [
-        {
-          "identifier": "ian_sebastian_rummery",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Ian Sebastian Rummery"
     },
     {
       "contact_details": [
@@ -187,39 +220,6 @@
           "note": "alternate"
         }
       ]
-    },
-    {
-      "id": "13adddcd-b62d-4080-9fbd-fe5bebb1acea",
-      "identifiers": [
-        {
-          "identifier": "leslie_paul_baldwin",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Leslie Paul Baldwin"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nigel.dollery@helanta.co.sh"
-        }
-      ],
-      "email": "nigel.dollery@helanta.co.sh",
-      "id": "05cabc01-f62d-4493-a145-fa7e04ca3f03",
-      "identifiers": [
-        {
-          "identifier": "nigel_dollery",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/adj-posterposter-2.jpg",
-      "images": [
-        {
-          "url": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/adj-posterposter-2.jpg"
-        }
-      ],
-      "name": "Nigel Dollery"
     },
     {
       "contact_details": [

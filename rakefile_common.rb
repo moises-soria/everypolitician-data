@@ -94,8 +94,7 @@ module Enumerable
 end
 
 def popolo_write(file, json)
-  # TODO: remove the need for the .to_s here, by ensuring all People and Orgs have names
-  json[:persons] = json[:persons].portable_sort_by { |p| [p[:name].to_s, p[:id]] }
+  json[:persons] = json[:persons].portable_sort_by { |p| p[:id] }
   json[:persons].each do |p|
     p[:identifiers]     &&= p[:identifiers].portable_sort_by { |i| [i[:scheme], i[:identifier]] }
     p[:contact_details] &&= p[:contact_details].portable_sort_by { |d| [d[:type]] }

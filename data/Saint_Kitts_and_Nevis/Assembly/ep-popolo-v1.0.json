@@ -4,135 +4,163 @@
   ],
   "persons": [
     {
-      "birth_date": "1949-05-22",
+      "birth_date": "1972-12-08",
       "gender": "male",
-      "given_name": "Vance",
-      "id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
+      "given_name": "Shawn",
+      "id": "089e7090-25fb-4b1d-8717-566b05d4cd83",
       "identifiers": [
         {
-          "identifier": "Q7914010",
+          "identifier": "Q16214148",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q7914010",
+          "identifier": "Q16214148",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/ShawnRichards.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/ShawnRichards.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Vance_Amory"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Vance_Amory"
-        },
-        {
-          "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Vance_Amory"
+          "url": "https://en.wikipedia.org/wiki/Shawn_Richards"
         }
       ],
-      "name": "Amory, Vance",
+      "name": "Richards, Shawn",
       "other_names": [
         {
-          "name": "Vance Amory",
+          "name": "Shawn Richards",
           "note": "alternate"
         },
         {
-          "name": "Vance Amory",
+          "name": "Shawn Richards",
           "note": "alternate"
         },
         {
           "lang": "de",
-          "name": "Vance Amory",
+          "name": "Shawn Richards",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Vance Amory",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Vance Amory",
+          "name": "Shawn Richards",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Vance Amory",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Vance Amory",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Vance Amory",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Vance Amory",
+          "name": "Shawn Richards",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1969-01-11",
+      "id": "093d16f7-925b-4064-9cdc-e417aca27c6d",
+      "name": "Malcolm Guishard"
+    },
+    {
       "gender": "male",
-      "given_name": "Mark",
-      "id": "886e92df-972a-49eb-8d0c-90dcfcd6f3bc",
+      "given_name": "Patrice",
+      "id": "0bafe581-3be5-4a6e-ba8d-af27af59d52c",
       "identifiers": [
         {
-          "identifier": "mark_brantley",
+          "identifier": "Q16733420",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q23664146",
+          "identifier": "Q16733420",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mark_Brantley"
+          "url": "https://en.wikipedia.org/wiki/Patrice_Nisbett"
         }
       ],
-      "name": "Brantly, Mark AG",
+      "name": "Nisbett, Patrice",
       "other_names": [
         {
-          "name": "Mark Brantley",
+          "name": "Patrice Nisbett",
           "note": "alternate"
         },
         {
-          "name": "Mark Brantley",
+          "name": "Patrice Nisbett",
           "note": "alternate"
         },
         {
-          "lang": "en",
-          "name": "Mark Brantley",
+          "lang": "de",
+          "name": "Patrice Nisbett",
           "note": "multilingual"
         },
         {
-          "lang": "nl",
-          "name": "Mark Brantley",
+          "lang": "en",
+          "name": "Patrice Nisbett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Patrice Nisbett",
           "note": "multilingual"
         }
       ]
     },
     {
-      "id": "baf7a92d-3fc6-47db-895e-0ab26bdf47d4",
-      "name": "Cedric Liburd"
+      "birth_date": "1907-09-16",
+      "death_date": "1997-05-21",
+      "gender": "male",
+      "given_name": "Joseph",
+      "id": "33bfa029-f484-465e-bdaa-43f127414787",
+      "identifiers": [
+        {
+          "identifier": "Q16013841",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Nathaniel_France"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Франс,_Джозеф_Натаниэль"
+        }
+      ],
+      "name": "Joseph N. France",
+      "other_names": [
+        {
+          "name": "Joseph Nathaniel France",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Joseph Nathaniel France",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joseph Nathaniel France",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joseph Nathaniel France",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Франс, Джозеф Натаниэль",
+          "note": "multilingual"
+        }
+      ]
     },
     {
-      "id": "9404de04-e3e1-42b1-a1a8-e380295a6572",
-      "name": "Charles E. Mills"
-    },
-    {
-      "id": "7025c742-93a0-4d99-97c6-67e175891aa1",
-      "name": "Constance Mitcham"
+      "id": "3fc657af-63c0-45d6-b3e3-842fb9172c9a",
+      "name": "Roy Jones"
     },
     {
       "birth_date": "1953-01-14",
@@ -460,8 +488,156 @@
       ]
     },
     {
+      "id": "46370bf7-57e1-4947-b643-c1025e9be3cf",
+      "name": "Rupert Herbert"
+    },
+    {
+      "id": "4ab15b51-f7b4-4589-ba9e-9011231e4c84",
+      "name": "Simeon Daniel"
+    },
+    {
+      "id": "595d85a2-3d99-4287-8b42-ccba5e6d16fb",
+      "name": "Michael Oliver Powell"
+    },
+    {
       "id": "5eb5698e-d595-4a32-ae5a-c91d645d5eb6",
       "name": "Dr. Asim Martin"
+    },
+    {
+      "birth_date": "1949-05-22",
+      "gender": "male",
+      "given_name": "Vance",
+      "id": "6241ddf8-a0d7-4680-8022-ffd4cbe35acc",
+      "identifiers": [
+        {
+          "identifier": "Q7914010",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7914010",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vance_Amory"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vance_Amory"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Vance_Amory"
+        }
+      ],
+      "name": "Amory, Vance",
+      "other_names": [
+        {
+          "name": "Vance Amory",
+          "note": "alternate"
+        },
+        {
+          "name": "Vance Amory",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Vance Amory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vance Amory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vance Amory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vance Amory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Vance Amory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vance Amory",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vance Amory",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1983-07-08",
+      "gender": "male",
+      "id": "68545c96-0859-486a-8bc0-39f8aa8d4e41",
+      "identifiers": [
+        {
+          "identifier": "Q6429812",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6429812",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Konris_Maynard"
+        }
+      ],
+      "name": "Maynard, Konris",
+      "other_names": [
+        {
+          "name": "Konris Maynard",
+          "note": "alternate"
+        },
+        {
+          "name": "Konris Maynard",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Konris Maynard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Konris Maynard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Konris Maynard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Konris Maynard",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "7025c742-93a0-4d99-97c6-67e175891aa1",
+      "name": "Constance Mitcham"
+    },
+    {
+      "id": "78fb1999-93b8-438b-9818-428d75b60eb9",
+      "name": "Jacinth Henry-Martin"
     },
     {
       "id": "7aec0bd4-627c-4914-be87-add230113ac5",
@@ -472,74 +648,65 @@
       "name": "Glen Fitzroy Phillip"
     },
     {
-      "birth_date": "1964-11-01",
+      "birth_date": "1969-01-11",
       "gender": "male",
-      "given_name": "Lindsay",
-      "id": "c04e8aa2-cf86-4c82-a6a3-0334edb08241",
+      "given_name": "Mark",
+      "id": "886e92df-972a-49eb-8d0c-90dcfcd6f3bc",
       "identifiers": [
         {
-          "identifier": "Q10318591",
+          "identifier": "mark_brantley",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q10318591",
+          "identifier": "Q23664146",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lindsay_Fitz-Patrick_Grant.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lindsay_Fitz-Patrick_Grant.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Lindsay_Grant"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Lindsay_Grant"
-        },
-        {
-          "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Lindsay_Grant"
+          "url": "https://en.wikipedia.org/wiki/Mark_Brantley"
         }
       ],
-      "name": "Grant, Lindsay",
+      "name": "Brantly, Mark AG",
       "other_names": [
         {
-          "name": "Lindsay Grant",
+          "name": "Mark Brantley",
           "note": "alternate"
         },
         {
-          "name": "Lindsay Grant",
+          "name": "Mark Brantley",
           "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Lindsay Grant",
-          "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Lindsay Grant",
+          "name": "Mark Brantley",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Lindsay Grant",
+          "name": "Mark Brantley",
           "note": "multilingual"
-        },
+        }
+      ]
+    },
+    {
+      "id": "889201a3-95c6-4633-8b35-56680e20d543",
+      "name": "Sydney Morris"
+    },
+    {
+      "id": "8bc42a88-b304-4997-88e9-768629516c75",
+      "identifiers": [
         {
-          "lang": "pl",
-          "name": "Lindsay Grant",
-          "note": "multilingual"
-        },
+          "identifier": "ian_liburd",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Liburd, Ian",
+      "other_names": [
         {
-          "lang": "pt",
-          "name": "Lindsay Grant",
-          "note": "multilingual"
+          "name": "Ian Liburd",
+          "note": "alternate"
         }
       ]
     },
@@ -583,6 +750,30 @@
           "lang": "nl",
           "name": "Eugene Hamilton",
           "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "9404de04-e3e1-42b1-a1a8-e380295a6572",
+      "name": "Charles E. Mills"
+    },
+    {
+      "id": "99f87c01-256e-469c-8975-e21eb55bb96b",
+      "name": "Joseph W. Parry"
+    },
+    {
+      "id": "a6386cf6-a19d-4a05-9a40-e87dd6eea17b",
+      "identifiers": [
+        {
+          "identifier": "marcella_liburd",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Liburd, Marcella",
+      "other_names": [
+        {
+          "name": "Marcella Liburd",
+          "note": "alternate"
         }
       ]
     },
@@ -778,267 +969,12 @@
       "name": "Ivor Stevens"
     },
     {
-      "id": "78fb1999-93b8-438b-9818-428d75b60eb9",
-      "name": "Jacinth Henry-Martin"
-    },
-    {
-      "birth_date": "1907-09-16",
-      "death_date": "1997-05-21",
-      "gender": "male",
-      "given_name": "Joseph",
-      "id": "33bfa029-f484-465e-bdaa-43f127414787",
-      "identifiers": [
-        {
-          "identifier": "Q16013841",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Joseph_Nathaniel_France"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Франс,_Джозеф_Натаниэль"
-        }
-      ],
-      "name": "Joseph N. France",
-      "other_names": [
-        {
-          "name": "Joseph Nathaniel France",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Joseph Nathaniel France",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Joseph Nathaniel France",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Joseph Nathaniel France",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Франс, Джозеф Натаниэль",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "99f87c01-256e-469c-8975-e21eb55bb96b",
-      "name": "Joseph W. Parry"
+      "id": "baf7a92d-3fc6-47db-895e-0ab26bdf47d4",
+      "name": "Cedric Liburd"
     },
     {
       "id": "bce1dd07-e602-4c95-9118-5babd8e09233",
       "name": "Kennedy Alphonso Simmonds"
-    },
-    {
-      "id": "8bc42a88-b304-4997-88e9-768629516c75",
-      "identifiers": [
-        {
-          "identifier": "ian_liburd",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Liburd, Ian",
-      "other_names": [
-        {
-          "name": "Ian Liburd",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "a6386cf6-a19d-4a05-9a40-e87dd6eea17b",
-      "identifiers": [
-        {
-          "identifier": "marcella_liburd",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Liburd, Marcella",
-      "other_names": [
-        {
-          "name": "Marcella Liburd",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "093d16f7-925b-4064-9cdc-e417aca27c6d",
-      "name": "Malcolm Guishard"
-    },
-    {
-      "birth_date": "1983-07-08",
-      "gender": "male",
-      "id": "68545c96-0859-486a-8bc0-39f8aa8d4e41",
-      "identifiers": [
-        {
-          "identifier": "Q6429812",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6429812",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Konris_Maynard"
-        }
-      ],
-      "name": "Maynard, Konris",
-      "other_names": [
-        {
-          "name": "Konris Maynard",
-          "note": "alternate"
-        },
-        {
-          "name": "Konris Maynard",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Konris Maynard",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Konris Maynard",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Konris Maynard",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Konris Maynard",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "595d85a2-3d99-4287-8b42-ccba5e6d16fb",
-      "name": "Michael Oliver Powell"
-    },
-    {
-      "gender": "male",
-      "given_name": "Patrice",
-      "id": "0bafe581-3be5-4a6e-ba8d-af27af59d52c",
-      "identifiers": [
-        {
-          "identifier": "Q16733420",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16733420",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Patrice_Nisbett"
-        }
-      ],
-      "name": "Nisbett, Patrice",
-      "other_names": [
-        {
-          "name": "Patrice Nisbett",
-          "note": "alternate"
-        },
-        {
-          "name": "Patrice Nisbett",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Patrice Nisbett",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Patrice Nisbett",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Patrice Nisbett",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1972-12-08",
-      "gender": "male",
-      "given_name": "Shawn",
-      "id": "089e7090-25fb-4b1d-8717-566b05d4cd83",
-      "identifiers": [
-        {
-          "identifier": "Q16214148",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16214148",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/ShawnRichards.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/ShawnRichards.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Shawn_Richards"
-        }
-      ],
-      "name": "Richards, Shawn",
-      "other_names": [
-        {
-          "name": "Shawn Richards",
-          "note": "alternate"
-        },
-        {
-          "name": "Shawn Richards",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Shawn Richards",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Shawn Richards",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Shawn Richards",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "3fc657af-63c0-45d6-b3e3-842fb9172c9a",
-      "name": "Roy Jones"
-    },
-    {
-      "id": "46370bf7-57e1-4947-b643-c1025e9be3cf",
-      "name": "Rupert Herbert"
     },
     {
       "gender": "male",
@@ -1095,12 +1031,76 @@
       ]
     },
     {
-      "id": "4ab15b51-f7b4-4589-ba9e-9011231e4c84",
-      "name": "Simeon Daniel"
-    },
-    {
-      "id": "889201a3-95c6-4633-8b35-56680e20d543",
-      "name": "Sydney Morris"
+      "birth_date": "1964-11-01",
+      "gender": "male",
+      "given_name": "Lindsay",
+      "id": "c04e8aa2-cf86-4c82-a6a3-0334edb08241",
+      "identifiers": [
+        {
+          "identifier": "Q10318591",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10318591",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lindsay_Fitz-Patrick_Grant.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lindsay_Fitz-Patrick_Grant.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lindsay_Grant"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Lindsay_Grant"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Lindsay_Grant"
+        }
+      ],
+      "name": "Grant, Lindsay",
+      "other_names": [
+        {
+          "name": "Lindsay Grant",
+          "note": "alternate"
+        },
+        {
+          "name": "Lindsay Grant",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lindsay Grant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lindsay Grant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lindsay Grant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lindsay Grant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Lindsay Grant",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [

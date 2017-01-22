@@ -5,6 +5,57 @@
   "persons": [
     {
       "gender": "male",
+      "id": "17d1c196-37b4-4772-81da-e81339e32493",
+      "identifiers": [
+        {
+          "identifier": "togia_likalika_sioneholo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7813183",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Togia_Sioneholo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Togia_Sioneholo"
+        }
+      ],
+      "name": "Togia Likalika Sioneholo",
+      "other_names": [
+        {
+          "name": "Togia Sioneholo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
       "given_name": "Bill",
       "id": "2433f849-5b66-476b-8560-fc5bc813662a",
       "identifiers": [
@@ -41,89 +92,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "id": "45b1d413-c111-4e9d-90a4-35cb8943c1a9",
-      "identifiers": [
-        {
-          "identifier": "billy_graham_talagi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Billy Graham Talagi"
-    },
-    {
-      "id": "635aa6ac-82a7-40ef-b373-b5c53f3666da",
-      "identifiers": [
-        {
-          "identifier": "crossley_tatui",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Crossley Tatui"
-    },
-    {
-      "gender": "male",
-      "id": "895e393d-ad87-44d8-9d25-19fb2325f216",
-      "identifiers": [
-        {
-          "identifier": "dalton_tagelagi",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q19876617",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Dalton_Tagelagi"
-        }
-      ],
-      "name": "Dalton Tagelagi",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Dalton Tagelagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Dalton Tagelagi",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "95471f12-f133-4f46-b650-a31d2017f85b",
-      "identifiers": [
-        {
-          "identifier": "dion_paki_taufitu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Dion Paki Taufitu"
-    },
-    {
-      "id": "58bdfc38-4a7d-4e3a-9498-b5ff0d4d993a",
-      "identifiers": [
-        {
-          "identifier": "fisa_igilisi_pihigia",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Fisa Igilisi Pihigia"
-    },
-    {
-      "id": "eb9f6d25-0749-470d-8c87-7fc0670e5dac",
-      "identifiers": [
-        {
-          "identifier": "jack_willie_lipitoa,_qsm",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Jack Willie Lipitoa, QSM"
     },
     {
       "birth_date": "1966-03-22",
@@ -183,6 +151,422 @@
         }
       ],
       "name": "Kupa Magatogia"
+    },
+    {
+      "id": "45b1d413-c111-4e9d-90a4-35cb8943c1a9",
+      "identifiers": [
+        {
+          "identifier": "billy_graham_talagi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Billy Graham Talagi"
+    },
+    {
+      "id": "477030f6-fd85-44d8-9f75-118e1d0dd9e5",
+      "identifiers": [
+        {
+          "identifier": "tofua_puletama",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tofua Puletama"
+    },
+    {
+      "id": "48353385-ca1e-4746-924f-192f47340bfe",
+      "identifiers": [
+        {
+          "identifier": "talaititama_talaiti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Talaititama Talaiti"
+    },
+    {
+      "id": "58bdfc38-4a7d-4e3a-9498-b5ff0d4d993a",
+      "identifiers": [
+        {
+          "identifier": "fisa_igilisi_pihigia",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Fisa Igilisi Pihigia"
+    },
+    {
+      "id": "635aa6ac-82a7-40ef-b373-b5c53f3666da",
+      "identifiers": [
+        {
+          "identifier": "crossley_tatui",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Crossley Tatui"
+    },
+    {
+      "gender": "male",
+      "id": "65f769e8-1fdb-4dec-9972-3becd2f646e3",
+      "identifiers": [
+        {
+          "identifier": "pokotoa_sipeli",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09v4fj_",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q251952",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pokotoa_Sipeli"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pokotoa_Sipeli"
+        }
+      ],
+      "name": "Pokotoa Sipeli",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "68f60167-934b-41d7-89b7-23c8cd22dbbf",
+      "identifiers": [
+        {
+          "identifier": "opili_talafasi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Opili Talafasi"
+    },
+    {
+      "gender": "male",
+      "given_name": "Terry",
+      "id": "80aa531f-d157-4cbf-b5d4-4b91a99054ca",
+      "identifiers": [
+        {
+          "identifier": "terry_donald_coe",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7704226",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terry_Coe"
+        }
+      ],
+      "name": "Terry Donald Coe",
+      "other_names": [
+        {
+          "name": "Terry Coe",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Terry Coe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Terry Coe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Terry Coe",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "86205035-9a47-40d7-94fd-204bd43e162c",
+      "identifiers": [
+        {
+          "identifier": "peter_andrew_funaki",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Peter Andrew Funaki"
+    },
+    {
+      "gender": "male",
+      "id": "895e393d-ad87-44d8-9d25-19fb2325f216",
+      "identifiers": [
+        {
+          "identifier": "dalton_tagelagi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19876617",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dalton_Tagelagi"
+        }
+      ],
+      "name": "Dalton Tagelagi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dalton Tagelagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dalton Tagelagi",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "95471f12-f133-4f46-b650-a31d2017f85b",
+      "identifiers": [
+        {
+          "identifier": "dion_paki_taufitu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Dion Paki Taufitu"
+    },
+    {
+      "id": "97b1bda1-748a-4be5-b931-a860ea92a4f2",
+      "identifiers": [
+        {
+          "identifier": "stanley_atuvaha_kalauni",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Stanley Atuvaha Kalauni"
+    },
+    {
+      "gender": "female",
+      "id": "ad03c9ec-fc45-4581-85b1-2e7dabd37cc0",
+      "identifiers": [
+        {
+          "identifier": "va’aiga_tukuitoga",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16886221",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Va'aiga_Tukuitonga"
+        }
+      ],
+      "name": "Va’aiga Tukuitoga",
+      "other_names": [
+        {
+          "name": "Va'aiga Tukuitonga",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Va'aiga Tukuitonga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Va'aiga Tukuitonga",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1960-12-06",
+      "gender": "male",
+      "given_name": "Toke",
+      "id": "e8756496-590f-4fe7-aca5-2445161df2d2",
+      "identifiers": [
+        {
+          "identifier": "toke_tufukia_talagi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/047mqxm",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q785548",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τόκε_Ταλάγκι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/トケ・タランギ"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Талаги,_Токе"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/托克基·塔拉尼"
+        }
+      ],
+      "name": "Toke Tufukia Talagi",
+      "other_names": [
+        {
+          "name": "Toke Talagi",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τόκε Ταλάγκι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Toke Tufukia Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "トケ・タランギ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Талаги, Токе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "托克基·塔拉尼",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "eb9f6d25-0749-470d-8c87-7fc0670e5dac",
+      "identifiers": [
+        {
+          "identifier": "jack_willie_lipitoa,_qsm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jack Willie Lipitoa, QSM"
     },
     {
       "birth_date": "1935-11-12",
@@ -691,390 +1075,6 @@
         {
           "lang": "zu",
           "name": "Young Vivian",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "68f60167-934b-41d7-89b7-23c8cd22dbbf",
-      "identifiers": [
-        {
-          "identifier": "opili_talafasi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Opili Talafasi"
-    },
-    {
-      "id": "86205035-9a47-40d7-94fd-204bd43e162c",
-      "identifiers": [
-        {
-          "identifier": "peter_andrew_funaki",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Peter Andrew Funaki"
-    },
-    {
-      "gender": "male",
-      "id": "65f769e8-1fdb-4dec-9972-3becd2f646e3",
-      "identifiers": [
-        {
-          "identifier": "pokotoa_sipeli",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/09v4fj_",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q251952",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Pokotoa_Sipeli"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Pokotoa_Sipeli"
-        }
-      ],
-      "name": "Pokotoa Sipeli",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Pokotoa Sipeli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Pokotoa Sipeli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Pokotoa Sipeli",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Pokotoa Sipeli",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "97b1bda1-748a-4be5-b931-a860ea92a4f2",
-      "identifiers": [
-        {
-          "identifier": "stanley_atuvaha_kalauni",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Stanley Atuvaha Kalauni"
-    },
-    {
-      "id": "48353385-ca1e-4746-924f-192f47340bfe",
-      "identifiers": [
-        {
-          "identifier": "talaititama_talaiti",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Talaititama Talaiti"
-    },
-    {
-      "gender": "male",
-      "given_name": "Terry",
-      "id": "80aa531f-d157-4cbf-b5d4-4b91a99054ca",
-      "identifiers": [
-        {
-          "identifier": "terry_donald_coe",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7704226",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Terry_Coe"
-        }
-      ],
-      "name": "Terry Donald Coe",
-      "other_names": [
-        {
-          "name": "Terry Coe",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Terry Coe",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Terry Coe",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Terry Coe",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "477030f6-fd85-44d8-9f75-118e1d0dd9e5",
-      "identifiers": [
-        {
-          "identifier": "tofua_puletama",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Tofua Puletama"
-    },
-    {
-      "gender": "male",
-      "id": "17d1c196-37b4-4772-81da-e81339e32493",
-      "identifiers": [
-        {
-          "identifier": "togia_likalika_sioneholo",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7813183",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Togia_Sioneholo"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Togia_Sioneholo"
-        }
-      ],
-      "name": "Togia Likalika Sioneholo",
-      "other_names": [
-        {
-          "name": "Togia Sioneholo",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Togia Sioneholo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Togia Sioneholo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Togia Sioneholo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Togia Sioneholo",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1960-12-06",
-      "gender": "male",
-      "given_name": "Toke",
-      "id": "e8756496-590f-4fe7-aca5-2445161df2d2",
-      "identifiers": [
-        {
-          "identifier": "toke_tufukia_talagi",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/047mqxm",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q785548",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Τόκε_Ταλάγκι"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/トケ・タランギ"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Талаги,_Токе"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Toke_Talagi"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/托克基·塔拉尼"
-        }
-      ],
-      "name": "Toke Tufukia Talagi",
-      "other_names": [
-        {
-          "name": "Toke Talagi",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Τόκε Ταλάγκι",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Toke Tufukia Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "トケ・タランギ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Талаги, Токе",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Toke Talagi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "托克基·塔拉尼",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "ad03c9ec-fc45-4581-85b1-2e7dabd37cc0",
-      "identifiers": [
-        {
-          "identifier": "va’aiga_tukuitoga",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16886221",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Va'aiga_Tukuitonga"
-        }
-      ],
-      "name": "Va’aiga Tukuitoga",
-      "other_names": [
-        {
-          "name": "Va'aiga Tukuitonga",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Va'aiga Tukuitonga",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Va'aiga Tukuitonga",
           "note": "multilingual"
         }
       ]

@@ -4,372 +4,46 @@
   ],
   "persons": [
     {
+      "birth_date": "1970",
+      "family_name": "Erhürman",
+      "gender": "male",
+      "given_name": "Tufan",
+      "id": "01b736c9-bba7-48d7-add9-760ecaed6b03",
+      "identifiers": [
+        {
+          "identifier": "tufan_erhürman",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tufan-erhurman.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tufan-erhurman.jpg"
+        }
+      ],
+      "name": "Tufan Erhürman",
+      "sort_name": "Erhürman, Tufan"
+    },
+    {
       "birth_date": "1957",
-      "family_name": "Sınay",
+      "family_name": "İzbul",
       "gender": "male",
-      "given_name": "Abbas",
-      "id": "df615f5e-ab4e-44e4-aeeb-887e5994916a",
+      "given_name": "Salih",
+      "id": "0c924477-cd63-4d79-8907-782529fe1b42",
       "identifiers": [
         {
-          "identifier": "abbas_sınay",
+          "identifier": "salih_İzbul",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/abbas-sinay.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/abbas-sinay.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg"
         }
       ],
-      "name": "Abbas Sınay",
-      "sort_name": "Sınay, Abbas"
-    },
-    {
-      "birth_date": "1960",
-      "family_name": "Gülle",
-      "gender": "male",
-      "given_name": "Ahmet",
-      "id": "352bfc03-0adb-439a-a962-5f9b46c7d8f4",
-      "identifiers": [
-        {
-          "identifier": "ahmet_gülle",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-gulle.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-gulle.jpg"
-        }
-      ],
-      "name": "Ahmet Gülle",
-      "sort_name": "Gülle, Ahmet"
-    },
-    {
-      "birth_date": "1950",
-      "family_name": "Kaşif",
-      "gender": "male",
-      "given_name": "Ahmet",
-      "id": "e5139463-422f-48e3-a28b-8f99f3861c68",
-      "identifiers": [
-        {
-          "identifier": "Q4696177",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4696177",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-kasif.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-kasif.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ahmet_Kaşif"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Ahmet_Kaşif"
-        }
-      ],
-      "name": "Ahmet Kaşif",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Ahmet Kaşif",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Αχμέτ Κασίφ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ahmet Kaşif",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ahmet Kaşif",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ahmet Kaşif",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Ahmet Kaşif",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Kaşif, Ahmet"
-    },
-    {
-      "birth_date": "1955",
-      "family_name": "Pilli",
-      "gender": "male",
-      "given_name": "Ali",
-      "id": "cb07e876-aded-41c9-80a6-184afd933fc3",
-      "identifiers": [
-        {
-          "identifier": "ali_pilli",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ali-pilli.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ali-pilli.jpg"
-        }
-      ],
-      "name": "Ali Pilli",
-      "sort_name": "Pilli, Ali"
-    },
-    {
-      "birth_date": "1956",
-      "family_name": "Albayrak",
-      "gender": "male",
-      "given_name": "Arif",
-      "id": "71216f7f-89ea-4f10-98c4-9e1ade12b1b4",
-      "identifiers": [
-        {
-          "identifier": "arif_albayrak",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/arif-albayrak.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/arif-albayrak.jpg"
-        }
-      ],
-      "name": "Arif Albayrak",
-      "sort_name": "Albayrak, Arif"
-    },
-    {
-      "birth_date": "1975",
-      "family_name": "Candan",
-      "gender": "male",
-      "given_name": "Armağan",
-      "id": "68443233-3d6c-4467-84a3-1de859c5480a",
-      "identifiers": [
-        {
-          "identifier": "armağan_candan",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/armagan-candan.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/armagan-candan.jpg"
-        }
-      ],
-      "name": "Armağan Candan",
-      "sort_name": "Candan, Armağan"
-    },
-    {
-      "birth_date": "1967",
-      "family_name": "Akansoy",
-      "gender": "male",
-      "given_name": "Asım",
-      "id": "4c404f8d-8a14-4432-8270-6afc80a26c27",
-      "identifiers": [
-        {
-          "identifier": "asım_akansoy",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/asim-akansoy.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/asim-akansoy.jpg"
-        }
-      ],
-      "name": "Asım Akansoy",
-      "sort_name": "Akansoy, Asım"
-    },
-    {
-      "birth_date": "1962",
-      "family_name": "Hamzaoğulları",
-      "gender": "male",
-      "given_name": "Biray",
-      "id": "4e4a18e6-165d-4c32-ab44-2664ba15c8ce",
-      "identifiers": [
-        {
-          "identifier": "biray_hamzaoğlu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/biray-hamzaogullari.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/biray-hamzaogullari.jpg"
-        }
-      ],
-      "name": "Biray Hamzaoğlu",
-      "other_names": [
-        {
-          "name": "Biray Hamzaoğulları",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Hamzaoğulları, Biray"
-    },
-    {
-      "birth_date": "1978",
-      "family_name": "Özgür",
-      "gender": "male",
-      "given_name": "Birikim",
-      "id": "9942719a-8e48-4cc4-894c-c960689bf49a",
-      "identifiers": [
-        {
-          "identifier": "birikim_Özgür",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg"
-        }
-      ],
-      "name": "Birikim Özgür",
-      "sort_name": "Özgür, Birikim"
-    },
-    {
-      "birth_date": "1978",
-      "family_name": "Derya",
-      "gender": "female",
-      "given_name": "Doğuş",
-      "id": "70ecdab0-7723-4cda-89be-34d3b0a61cd0",
-      "identifiers": [
-        {
-          "identifier": "Q20090577",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20090577",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dogus-derya.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dogus-derya.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Doğuş_Derya"
-        }
-      ],
-      "name": "Doğuş Derya",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Doğuş Derya",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Doğuş Derya",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Derya, Doğuş"
-    },
-    {
-      "birth_date": "1966",
-      "family_name": "Oğuz",
-      "gender": "male",
-      "given_name": "Dursun",
-      "id": "d859c907-9648-4de4-b8e3-315ac02a7a9e",
-      "identifiers": [
-        {
-          "identifier": "dursun_oğuz",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dursun-oguz.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dursun-oguz.jpg"
-        }
-      ],
-      "name": "Dursun Oğuz",
-      "sort_name": "Oğuz, Dursun"
-    },
-    {
-      "birth_date": "1958",
-      "family_name": "Özcenk",
-      "gender": "male",
-      "given_name": "Erdal",
-      "id": "62c5a59e-d317-448a-8cd2-bd8b379e2c6c",
-      "identifiers": [
-        {
-          "identifier": "erdal_Özcenk",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg"
-        }
-      ],
-      "name": "Erdal Özcenk",
-      "sort_name": "Özcenk, Erdal"
-    },
-    {
-      "birth_date": "1944",
-      "family_name": "Serdaroğlu",
-      "gender": "male",
-      "given_name": "Ergün",
-      "id": "8bd88db5-c254-4417-99c5-8883ac6c8be8",
-      "identifiers": [
-        {
-          "identifier": "ergün_serdaroğlu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ergun-serdaroglu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ergun-serdaroglu.jpg"
-        }
-      ],
-      "name": "Ergün Serdaroğlu",
-      "sort_name": "Serdaroğlu, Ergün"
-    },
-    {
-      "birth_date": "1973",
-      "family_name": "Şahali",
-      "gender": "male",
-      "given_name": "Erkut",
-      "id": "2720afd9-7195-447b-b94d-199ee1d53b8e",
-      "identifiers": [
-        {
-          "identifier": "erkut_Şahali",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg"
-        }
-      ],
-      "name": "Erkut Şahali",
-      "sort_name": "Şahali, Erkut"
+      "name": "Salih İzbul",
+      "sort_name": "İzbul, Salih"
     },
     {
       "birth_date": "1966",
@@ -399,67 +73,119 @@
       "sort_name": "Saner, Hamza Ersan"
     },
     {
-      "birth_date": "1960",
-      "family_name": "Tatar",
+      "birth_date": "1964",
+      "family_name": "Ataoğlu",
       "gender": "male",
-      "given_name": "Ersin",
-      "id": "a200a290-ecc2-45cb-b513-dda47b8368d7",
+      "given_name": "Fikri",
+      "id": "1895ee86-c174-4f65-8b88-25565e6df627",
       "identifiers": [
         {
-          "identifier": "ersin_tatar",
+          "identifier": "fikri_ataoğlu",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ersin-tatar.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fikri-ataoglu.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ersin-tatar.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fikri-ataoglu.jpg"
         }
       ],
-      "name": "Ersin Tatar",
-      "sort_name": "Tatar, Ersin"
+      "name": "Fikri Ataoğlu",
+      "sort_name": "Ataoğlu, Fikri"
+    },
+    {
+      "birth_date": "1981-03-04",
+      "family_name": "Çeler",
+      "gender": "male",
+      "given_name": "Zeki",
+      "id": "19740958-da1b-44cb-b585-5c9a2ec31ae3",
+      "identifiers": [
+        {
+          "identifier": "Q20744808",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20744808",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zeki_Çeler"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Zeki_Çeler"
+        }
+      ],
+      "name": "Zeki Çeler",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zeki Çeler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zeki Çeler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Zeki Çeler",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Çeler, Zeki"
+    },
+    {
+      "birth_date": "1972",
+      "family_name": "Gürçağ",
+      "gender": "female",
+      "given_name": "İzlem",
+      "id": "19897153-f032-4bc9-9a14-5ad6c7d8ed18",
+      "identifiers": [
+        {
+          "identifier": "İzlem_gürçağ",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg"
+        }
+      ],
+      "name": "İzlem Gürçağ",
+      "sort_name": "Gürçağ, İzlem"
     },
     {
       "birth_date": "1961",
-      "family_name": "Sucuoğlu",
+      "family_name": "Gündüz",
       "gender": "male",
-      "given_name": "Faiz",
-      "id": "b579c730-8e0a-49f5-bccf-dd380369adf7",
+      "given_name": "Menteş",
+      "id": "19968619-2ee0-425a-86ed-fa0642a5e9c8",
       "identifiers": [
         {
-          "identifier": "faiz_sucuoğlu",
+          "identifier": "menteş_gündüz",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/faiz-sucuoglu.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/faiz-sucuoglu.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg"
         }
       ],
-      "name": "Faiz Sucuoğlu",
-      "sort_name": "Sucuoğlu, Faiz"
-    },
-    {
-      "birth_date": "1980",
-      "family_name": "Özdenefe",
-      "gender": "female",
-      "given_name": "Fazilet",
-      "id": "5da30f95-6c72-426f-a4b7-d9d6a5267e26",
-      "identifiers": [
-        {
-          "identifier": "fazilet_Özdenefe",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg"
-        }
-      ],
-      "name": "Fazilet Özdenefe",
-      "sort_name": "Özdenefe, Fazilet"
+      "name": "Menteş Gündüz",
+      "sort_name": "Gündüz, Menteş"
     },
     {
       "birth_date": "1952-03-05",
@@ -614,67 +340,182 @@
       "sort_name": "Soyer, Ferdi Sabit"
     },
     {
-      "birth_date": "1964",
-      "family_name": "Ataoğlu",
+      "birth_date": "1973",
+      "family_name": "Şahali",
       "gender": "male",
-      "given_name": "Fikri",
-      "id": "1895ee86-c174-4f65-8b88-25565e6df627",
+      "given_name": "Erkut",
+      "id": "2720afd9-7195-447b-b94d-199ee1d53b8e",
       "identifiers": [
         {
-          "identifier": "fikri_ataoğlu",
+          "identifier": "erkut_Şahali",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fikri-ataoglu.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fikri-ataoglu.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg"
         }
       ],
-      "name": "Fikri Ataoğlu",
-      "sort_name": "Ataoğlu, Fikri"
+      "name": "Erkut Şahali",
+      "sort_name": "Şahali, Erkut"
     },
     {
-      "birth_date": "1963",
-      "family_name": "Dinçyürek",
+      "birth_date": "1954",
+      "family_name": "Yorgancıoğlu",
       "gender": "male",
-      "given_name": "Hakan",
-      "id": "35c6b15e-c034-4145-84f8-52146556c6bb",
+      "given_name": "Özkan",
+      "id": "2b552d58-41f1-42e0-8fc2-1c96b43686fa",
       "identifiers": [
         {
-          "identifier": "hakan_dinçyürek",
+          "identifier": "Q6065323",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6065323",
+          "scheme": "wikidata"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hakan-dincyurek.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hakan-dincyurek.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Özkan_Yorgancıoğlu_(cropped).jpg"
         }
       ],
-      "name": "Hakan Dinçyürek",
-      "sort_name": "Dinçyürek, Hakan"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Йорганджиоглу,_Озкан"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
+        }
+      ],
+      "name": "Özkan Yorgancıoğlu",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エズカン・ヨルガンジュオール",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Йорганджиоглу, Озкан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Özkan Yorgancıoğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "厄茲坎·約甘喬奧盧",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Yorgancıoğlu, Özkan"
     },
     {
-      "birth_date": "1972",
-      "family_name": "Bakırcı",
+      "birth_date": "1954",
+      "family_name": "Erçal",
       "gender": "male",
-      "given_name": "Hamit",
-      "id": "43bb6876-2891-4065-9c10-2a1c3fae5695",
+      "given_name": "Hüseyin",
+      "id": "2c4f7644-0e5a-4539-b4c4-a9fca9d32475",
       "identifiers": [
         {
-          "identifier": "hamit_bakırcı",
+          "identifier": "hüseyin_erçal",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamit-bakirci.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ercal.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamit-bakirci.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ercal.jpg"
         }
       ],
-      "name": "Hamit Bakırcı",
-      "sort_name": "Bakırcı, Hamit"
+      "name": "Hüseyin Erçal",
+      "sort_name": "Erçal, Hüseyin"
+    },
+    {
+      "birth_date": "1955",
+      "family_name": "Üstel",
+      "gender": "male",
+      "given_name": "Ünal",
+      "id": "2f78e5fd-b525-4148-8de9-d4d2eaf3fafd",
+      "identifiers": [
+        {
+          "identifier": "Ünal_Üstel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg"
+        }
+      ],
+      "name": "Ünal Üstel",
+      "sort_name": "Üstel, Ünal"
     },
     {
       "birth_date": "1963",
@@ -724,368 +565,46 @@
       "sort_name": "Taçoy, Hasan"
     },
     {
-      "birth_date": "1970",
-      "family_name": "Alanlı",
+      "birth_date": "1960",
+      "family_name": "Gülle",
       "gender": "male",
-      "given_name": "Hüseyin Avkıran",
-      "id": "a364db9a-4755-44c0-8de4-a7bd6d3c125b",
+      "given_name": "Ahmet",
+      "id": "352bfc03-0adb-439a-a962-5f9b46c7d8f4",
       "identifiers": [
         {
-          "identifier": "hüseyin_alanlı",
+          "identifier": "ahmet_gülle",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-gulle.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-gulle.jpg"
         }
       ],
-      "name": "Hüseyin Alanlı",
-      "other_names": [
-        {
-          "name": "Hüseyin Avkıran Alanlı",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Alanlı, Hüseyin Avkıran"
+      "name": "Ahmet Gülle",
+      "sort_name": "Gülle, Ahmet"
     },
     {
-      "birth_date": "1944",
-      "family_name": "Angolemli",
+      "birth_date": "1963",
+      "family_name": "Dinçyürek",
       "gender": "male",
-      "given_name": "Hüseyin",
-      "id": "98a18a1f-45c8-4e03-a866-8f9873a7ee50",
+      "given_name": "Hakan",
+      "id": "35c6b15e-c034-4145-84f8-52146556c6bb",
       "identifiers": [
         {
-          "identifier": "hüseyin_angolemli",
+          "identifier": "hakan_dinçyürek",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-angolemli.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hakan-dincyurek.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-angolemli.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hakan-dincyurek.jpg"
         }
       ],
-      "name": "Hüseyin Angolemli",
-      "sort_name": "Angolemli, Hüseyin"
-    },
-    {
-      "birth_date": "1954",
-      "family_name": "Erçal",
-      "gender": "male",
-      "given_name": "Hüseyin",
-      "id": "2c4f7644-0e5a-4539-b4c4-a9fca9d32475",
-      "identifiers": [
-        {
-          "identifier": "hüseyin_erçal",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ercal.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ercal.jpg"
-        }
-      ],
-      "name": "Hüseyin Erçal",
-      "sort_name": "Erçal, Hüseyin"
-    },
-    {
-      "birth_date": "1965",
-      "family_name": "Özgürgün",
-      "gender": "male",
-      "given_name": "Hüseyin",
-      "id": "a4aeb542-a0b4-4b5c-ada7-85e38f4dba69",
-      "identifiers": [
-        {
-          "identifier": "Q58174",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0bs8f6q",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q58174",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Χουσεΐν_Οζγκιουργκούν"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/フセイン・オズグルグン"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Озгюргюн,_Хусейн"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/侯赛因·欧祖根"
-        }
-      ],
-      "name": "Hüseyin Özgürgün",
-      "other_names": [
-        {
-          "lang": "ca",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Χουσεΐν Οζγκιουργκούν",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "フセイン・オズグルグン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "oc",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Озгюргюн, Хусейн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Hüseyin Özgürgün",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "侯赛因·欧祖根",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Özgürgün, Hüseyin"
-    },
-    {
-      "birth_date": "1971",
-      "family_name": "Dürüst",
-      "gender": "male",
-      "given_name": "Kemal",
-      "id": "51a278e5-55dd-4986-99bc-01dbca7456d0",
-      "identifiers": [
-        {
-          "identifier": "kemal_dürüst",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kemal-durust.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kemal-durust.jpg"
-        }
-      ],
-      "name": "Kemal Dürüst",
-      "sort_name": "Dürüst, Kemal"
-    },
-    {
-      "birth_date": "1957",
-      "family_name": "Evren",
-      "gender": "male",
-      "given_name": "Kutlu",
-      "id": "b7451bfe-1902-45ba-851d-15ad508fcae0",
-      "identifiers": [
-        {
-          "identifier": "kutlu_evren",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kutlu-evren.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kutlu-evren.jpg"
-        }
-      ],
-      "name": "Kutlu Evren",
-      "sort_name": "Evren, Kutlu"
-    },
-    {
-      "birth_date": "1966-09-13",
-      "family_name": "Çakıcı",
-      "gender": "male",
-      "given_name": "Mehmet",
-      "id": "8d389af1-0e89-4369-a9b6-bcae61f1edb0",
-      "identifiers": [
-        {
-          "identifier": "Q6058134",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6058134",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mehmet_Çakıcı.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mehmet_Çakıcı"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Mehmet_Çakıcı"
-        }
-      ],
-      "name": "Mehmet Çakıcı",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Mehmet Çakıcı",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Mehmet Çakıcı",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Mehmet Çakıcı",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Çakıcı, Mehmet"
-    },
-    {
-      "birth_date": "1959-05-01",
-      "family_name": "Çağlar",
-      "gender": "male",
-      "given_name": "Mehmet",
-      "id": "dc5508f8-ee51-4431-9b26-8f1004643c53",
-      "identifiers": [
-        {
-          "identifier": "mehmet_Çağlar",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg"
-        }
-      ],
-      "name": "Mehmet Çağlar",
-      "sort_name": "Çağlar, Mehmet"
-    },
-    {
-      "birth_date": "1961",
-      "family_name": "Gündüz",
-      "gender": "male",
-      "given_name": "Menteş",
-      "id": "19968619-2ee0-425a-86ed-fa0642a5e9c8",
-      "identifiers": [
-        {
-          "identifier": "menteş_gündüz",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg"
-        }
-      ],
-      "name": "Menteş Gündüz",
-      "sort_name": "Gündüz, Menteş"
-    },
-    {
-      "birth_date": "1953",
-      "family_name": "Arabacıoğlu",
-      "gender": "male",
-      "given_name": "Mustafa",
-      "id": "81051fa1-7636-45a4-bdc6-d5c39f16680d",
-      "identifiers": [
-        {
-          "identifier": "mustafa_arabacıoğlu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mustafa-arabacioglu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mustafa-arabacioglu.jpg"
-        }
-      ],
-      "name": "Mustafa Arabacıoğlu",
-      "sort_name": "Arabacıoğlu, Mustafa"
+      "name": "Hakan Dinçyürek",
+      "sort_name": "Dinçyürek, Hakan"
     },
     {
       "birth_date": "1965",
@@ -1109,332 +628,221 @@
       "sort_name": "Çavuşoğlu, Nazım"
     },
     {
-      "birth_date": "1957",
-      "family_name": "İzbul",
+      "birth_date": "1972",
+      "family_name": "Bakırcı",
       "gender": "male",
-      "given_name": "Salih",
-      "id": "0c924477-cd63-4d79-8907-782529fe1b42",
+      "given_name": "Hamit",
+      "id": "43bb6876-2891-4065-9c10-2a1c3fae5695",
       "identifiers": [
         {
-          "identifier": "salih_İzbul",
+          "identifier": "hamit_bakırcı",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamit-bakirci.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamit-bakirci.jpg"
         }
       ],
-      "name": "Salih İzbul",
-      "sort_name": "İzbul, Salih"
+      "name": "Hamit Bakırcı",
+      "sort_name": "Bakırcı, Hamit"
     },
     {
-      "birth_date": "1959",
-      "family_name": "Denktaş",
+      "birth_date": "1967",
+      "family_name": "Akansoy",
       "gender": "male",
-      "given_name": "Serdar",
-      "id": "c75ea822-8a37-4de4-a9e0-fccc3103d8b2",
+      "given_name": "Asım",
+      "id": "4c404f8d-8a14-4432-8270-6afc80a26c27",
       "identifiers": [
         {
-          "identifier": "Q2272256",
+          "identifier": "asım_akansoy",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2272256",
-          "scheme": "wikidata"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/serdar-denktas.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/asim-akansoy.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/serdar-denktas.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Serdar_Denktaş.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/asim-akansoy.jpg"
         }
       ],
-      "links": [
+      "name": "Asım Akansoy",
+      "sort_name": "Akansoy, Asım"
+    },
+    {
+      "birth_date": "1962",
+      "family_name": "Hamzaoğulları",
+      "gender": "male",
+      "given_name": "Biray",
+      "id": "4e4a18e6-165d-4c32-ab44-2664ba15c8ce",
+      "identifiers": [
         {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Serdar_Denktaş"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Serdar_Denktaş"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Serdar_Denktaş"
+          "identifier": "biray_hamzaoğlu",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Serdar Denktaş",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/biray-hamzaogullari.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/biray-hamzaogullari.jpg"
+        }
+      ],
+      "name": "Biray Hamzaoğlu",
       "other_names": [
         {
-          "lang": "de",
-          "name": "Serdar Denktaş",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Serdar Denktaş",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Serdar Denktaş",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Serdar Denktaş",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Serdar Denktaş",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Serdar Denktaş",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Serdar Denktaş",
-          "note": "multilingual"
+          "name": "Biray Hamzaoğulları",
+          "note": "alternate"
         }
       ],
-      "sort_name": "Denktaş, Serdar"
+      "sort_name": "Hamzaoğulları, Biray"
     },
     {
-      "birth_date": "1960-12-13",
-      "family_name": "Siber",
+      "birth_date": "1971",
+      "family_name": "Dürüst",
+      "gender": "male",
+      "given_name": "Kemal",
+      "id": "51a278e5-55dd-4986-99bc-01dbca7456d0",
+      "identifiers": [
+        {
+          "identifier": "kemal_dürüst",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kemal-durust.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kemal-durust.jpg"
+        }
+      ],
+      "name": "Kemal Dürüst",
+      "sort_name": "Dürüst, Kemal"
+    },
+    {
+      "birth_date": "1980",
+      "family_name": "Özdenefe",
       "gender": "female",
-      "given_name": "Sibel",
-      "id": "9557053a-35fa-4c8c-a965-d36fe8c5305d",
+      "given_name": "Fazilet",
+      "id": "5da30f95-6c72-426f-a4b7-d9d6a5267e26",
       "identifiers": [
         {
-          "identifier": "Q14330482",
+          "identifier": "fazilet_Özdenefe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg"
+        }
+      ],
+      "name": "Fazilet Özdenefe",
+      "sort_name": "Özdenefe, Fazilet"
+    },
+    {
+      "birth_date": "1958",
+      "family_name": "Özcenk",
+      "gender": "male",
+      "given_name": "Erdal",
+      "id": "62c5a59e-d317-448a-8cd2-bd8b379e2c6c",
+      "identifiers": [
+        {
+          "identifier": "erdal_Özcenk",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg"
+        }
+      ],
+      "name": "Erdal Özcenk",
+      "sort_name": "Özcenk, Erdal"
+    },
+    {
+      "birth_date": "1975",
+      "family_name": "Candan",
+      "gender": "male",
+      "given_name": "Armağan",
+      "id": "68443233-3d6c-4467-84a3-1de859c5480a",
+      "identifiers": [
+        {
+          "identifier": "armağan_candan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/armagan-candan.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/armagan-candan.jpg"
+        }
+      ],
+      "name": "Armağan Candan",
+      "sort_name": "Candan, Armağan"
+    },
+    {
+      "birth_date": "1978",
+      "family_name": "Derya",
+      "gender": "female",
+      "given_name": "Doğuş",
+      "id": "70ecdab0-7723-4cda-89be-34d3b0a61cd0",
+      "identifiers": [
+        {
+          "identifier": "Q20090577",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/0wfz7wy",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q14330482",
+          "identifier": "Q20090577",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sibel-siber.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dogus-derya.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sibel-siber.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sibel_Siber_(cropped).jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dogus-derya.jpg"
         }
       ],
       "links": [
         {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Sibel_Siber"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Sibel_Siber"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Sibel_Siber"
-        },
-        {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sibel_Siber"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Sibel_Siber"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Sibel_Siber"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Sibel_Siber"
+          "url": "https://en.wikipedia.org/wiki/Doğuş_Derya"
         }
       ],
-      "name": "Sibel Siber",
+      "name": "Doğuş Derya",
       "other_names": [
         {
-          "lang": "ca",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
           "lang": "en",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "he",
-          "name": "סיבל סיבר",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "シベル・シベル",
+          "name": "Doğuş Derya",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Sibel Siber",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Sibel Siber",
+          "name": "Doğuş Derya",
           "note": "multilingual"
         }
       ],
-      "sort_name": "Siber, Sibel"
+      "sort_name": "Derya, Doğuş"
     },
     {
-      "birth_date": "1973",
-      "family_name": "Atun",
+      "birth_date": "1956",
+      "family_name": "Albayrak",
       "gender": "male",
-      "given_name": "Sunat",
-      "id": "803c2919-9cb2-49c9-b7e4-26beccaa53e4",
+      "given_name": "Arif",
+      "id": "71216f7f-89ea-4f10-98c4-9e1ade12b1b4",
       "identifiers": [
         {
-          "identifier": "sunat_atun",
+          "identifier": "arif_albayrak",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sunat-atun.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/arif-albayrak.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sunat-atun.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/arif-albayrak.jpg"
         }
       ],
-      "name": "Sunat Atun",
-      "sort_name": "Atun, Sunat"
-    },
-    {
-      "birth_date": "1953",
-      "family_name": "Ertuğruloğlu",
-      "gender": "male",
-      "given_name": "Tahsin",
-      "id": "c77b7f65-8c97-4b70-93cb-b7c0c88221d8",
-      "identifiers": [
-        {
-          "identifier": "Q2388336",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2388336",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tahsin-ertugruloglu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tahsin-ertugruloglu.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Tahsin_Ertuğruloğlu.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
-        }
-      ],
-      "name": "Tahsin Ertuğruloğlu",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Tahsin Ertuğruloğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Tahsin Ertuğruloğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Tahsin Ertuğruloğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tahsin Ertuğruloğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Tahsin Ertuğruloğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Tahsin Ertuğruloğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Tahsin Ertuğruloğlu",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Ertuğruloğlu, Tahsin"
+      "name": "Arif Albayrak",
+      "sort_name": "Albayrak, Arif"
     },
     {
       "birth_date": "1966",
@@ -1456,100 +864,6 @@
       ],
       "name": "Teberrüken Uluçay",
       "sort_name": "Uluçay, Teberrüken"
-    },
-    {
-      "birth_date": "1970",
-      "family_name": "Erhürman",
-      "gender": "male",
-      "given_name": "Tufan",
-      "id": "01b736c9-bba7-48d7-add9-760ecaed6b03",
-      "identifiers": [
-        {
-          "identifier": "tufan_erhürman",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tufan-erhurman.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tufan-erhurman.jpg"
-        }
-      ],
-      "name": "Tufan Erhürman",
-      "sort_name": "Erhürman, Tufan"
-    },
-    {
-      "birth_date": "1981-03-04",
-      "family_name": "Çeler",
-      "gender": "male",
-      "given_name": "Zeki",
-      "id": "19740958-da1b-44cb-b585-5c9a2ec31ae3",
-      "identifiers": [
-        {
-          "identifier": "Q20744808",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20744808",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Zeki_Çeler"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Zeki_Çeler"
-        }
-      ],
-      "name": "Zeki Çeler",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Zeki Çeler",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Zeki Çeler",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Zeki Çeler",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Çeler, Zeki"
-    },
-    {
-      "birth_date": "1956",
-      "family_name": "Töre",
-      "gender": "male",
-      "given_name": "Zorlu",
-      "id": "e83cb2f4-2af8-4182-9e53-1cb64d81393a",
-      "identifiers": [
-        {
-          "identifier": "zorlu_töre",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zorlu-tore.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zorlu-tore.jpg"
-        }
-      ],
-      "name": "Zorlu Töre",
-      "sort_name": "Töre, Zorlu"
     },
     {
       "birth_date": "1950",
@@ -1989,25 +1303,513 @@
       "sort_name": "Kalyoncu, Ömer Soyer"
     },
     {
-      "birth_date": "1957",
-      "family_name": "Sennaroğlu",
+      "birth_date": "1973",
+      "family_name": "Atun",
       "gender": "male",
-      "given_name": "Önder",
-      "id": "e368e7cb-dd11-43d9-a52d-ac21a37658c3",
+      "given_name": "Sunat",
+      "id": "803c2919-9cb2-49c9-b7e4-26beccaa53e4",
       "identifiers": [
         {
-          "identifier": "Önder_sennaroğlu",
+          "identifier": "sunat_atun",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sunat-atun.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sunat-atun.jpg"
         }
       ],
-      "name": "Önder Sennaroğlu",
-      "sort_name": "Sennaroğlu, Önder"
+      "name": "Sunat Atun",
+      "sort_name": "Atun, Sunat"
+    },
+    {
+      "birth_date": "1953",
+      "family_name": "Arabacıoğlu",
+      "gender": "male",
+      "given_name": "Mustafa",
+      "id": "81051fa1-7636-45a4-bdc6-d5c39f16680d",
+      "identifiers": [
+        {
+          "identifier": "mustafa_arabacıoğlu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mustafa-arabacioglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mustafa-arabacioglu.jpg"
+        }
+      ],
+      "name": "Mustafa Arabacıoğlu",
+      "sort_name": "Arabacıoğlu, Mustafa"
+    },
+    {
+      "birth_date": "1944",
+      "family_name": "Serdaroğlu",
+      "gender": "male",
+      "given_name": "Ergün",
+      "id": "8bd88db5-c254-4417-99c5-8883ac6c8be8",
+      "identifiers": [
+        {
+          "identifier": "ergün_serdaroğlu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ergun-serdaroglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ergun-serdaroglu.jpg"
+        }
+      ],
+      "name": "Ergün Serdaroğlu",
+      "sort_name": "Serdaroğlu, Ergün"
+    },
+    {
+      "birth_date": "1966-09-13",
+      "family_name": "Çakıcı",
+      "gender": "male",
+      "given_name": "Mehmet",
+      "id": "8d389af1-0e89-4369-a9b6-bcae61f1edb0",
+      "identifiers": [
+        {
+          "identifier": "Q6058134",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6058134",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mehmet_Çakıcı.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mehmet_Çakıcı"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Mehmet_Çakıcı"
+        }
+      ],
+      "name": "Mehmet Çakıcı",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mehmet Çakıcı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mehmet Çakıcı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Mehmet Çakıcı",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Çakıcı, Mehmet"
+    },
+    {
+      "birth_date": "1960-12-13",
+      "family_name": "Siber",
+      "gender": "female",
+      "given_name": "Sibel",
+      "id": "9557053a-35fa-4c8c-a965-d36fe8c5305d",
+      "identifiers": [
+        {
+          "identifier": "Q14330482",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0wfz7wy",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q14330482",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sibel-siber.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/sibel-siber.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sibel_Siber_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Sibel_Siber"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sibel_Siber"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sibel_Siber"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sibel_Siber"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sibel_Siber"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sibel_Siber"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sibel_Siber"
+        }
+      ],
+      "name": "Sibel Siber",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סיבל סיבר",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シベル・シベル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sibel Siber",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Siber, Sibel"
+    },
+    {
+      "birth_date": "1944",
+      "family_name": "Angolemli",
+      "gender": "male",
+      "given_name": "Hüseyin",
+      "id": "98a18a1f-45c8-4e03-a866-8f9873a7ee50",
+      "identifiers": [
+        {
+          "identifier": "hüseyin_angolemli",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-angolemli.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-angolemli.jpg"
+        }
+      ],
+      "name": "Hüseyin Angolemli",
+      "sort_name": "Angolemli, Hüseyin"
+    },
+    {
+      "birth_date": "1978",
+      "family_name": "Özgür",
+      "gender": "male",
+      "given_name": "Birikim",
+      "id": "9942719a-8e48-4cc4-894c-c960689bf49a",
+      "identifiers": [
+        {
+          "identifier": "birikim_Özgür",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg"
+        }
+      ],
+      "name": "Birikim Özgür",
+      "sort_name": "Özgür, Birikim"
+    },
+    {
+      "birth_date": "1960",
+      "family_name": "Tatar",
+      "gender": "male",
+      "given_name": "Ersin",
+      "id": "a200a290-ecc2-45cb-b513-dda47b8368d7",
+      "identifiers": [
+        {
+          "identifier": "ersin_tatar",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ersin-tatar.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ersin-tatar.jpg"
+        }
+      ],
+      "name": "Ersin Tatar",
+      "sort_name": "Tatar, Ersin"
+    },
+    {
+      "birth_date": "1970",
+      "family_name": "Alanlı",
+      "gender": "male",
+      "given_name": "Hüseyin Avkıran",
+      "id": "a364db9a-4755-44c0-8de4-a7bd6d3c125b",
+      "identifiers": [
+        {
+          "identifier": "hüseyin_alanlı",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg"
+        }
+      ],
+      "name": "Hüseyin Alanlı",
+      "other_names": [
+        {
+          "name": "Hüseyin Avkıran Alanlı",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Alanlı, Hüseyin Avkıran"
+    },
+    {
+      "birth_date": "1965",
+      "family_name": "Özgürgün",
+      "gender": "male",
+      "given_name": "Hüseyin",
+      "id": "a4aeb542-a0b4-4b5c-ada7-85e38f4dba69",
+      "identifiers": [
+        {
+          "identifier": "Q58174",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bs8f6q",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q58174",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hüseyin_Özgürgün"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χουσεΐν_Οζγκιουργκούν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hüseyin_Özgürgün"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/フセイン・オズグルグン"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Hüseyin_Özgürgün"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Озгюргюн,_Хусейн"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Hüseyin_Özgürgün"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/侯赛因·欧祖根"
+        }
+      ],
+      "name": "Hüseyin Özgürgün",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χουσεΐν Οζγκιουργκούν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フセイン・オズグルグン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Озгюргюн, Хусейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Hüseyin Özgürgün",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "侯赛因·欧祖根",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Özgürgün, Hüseyin"
+    },
+    {
+      "birth_date": "1961",
+      "family_name": "Sucuoğlu",
+      "gender": "male",
+      "given_name": "Faiz",
+      "id": "b579c730-8e0a-49f5-bccf-dd380369adf7",
+      "identifiers": [
+        {
+          "identifier": "faiz_sucuoğlu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/faiz-sucuoglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/faiz-sucuoglu.jpg"
+        }
+      ],
+      "name": "Faiz Sucuoğlu",
+      "sort_name": "Sucuoğlu, Faiz"
+    },
+    {
+      "birth_date": "1957",
+      "family_name": "Evren",
+      "gender": "male",
+      "given_name": "Kutlu",
+      "id": "b7451bfe-1902-45ba-851d-15ad508fcae0",
+      "identifiers": [
+        {
+          "identifier": "kutlu_evren",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kutlu-evren.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/kutlu-evren.jpg"
+        }
+      ],
+      "name": "Kutlu Evren",
+      "sort_name": "Evren, Kutlu"
     },
     {
       "birth_date": "1968",
@@ -2029,6 +1831,273 @@
       ],
       "name": "Özdemir Berova",
       "sort_name": "Berova, Özdemir"
+    },
+    {
+      "birth_date": "1959",
+      "family_name": "Denktaş",
+      "gender": "male",
+      "given_name": "Serdar",
+      "id": "c75ea822-8a37-4de4-a9e0-fccc3103d8b2",
+      "identifiers": [
+        {
+          "identifier": "Q2272256",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2272256",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/serdar-denktas.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/serdar-denktas.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Serdar_Denktaş.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Serdar_Denktaş"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Serdar_Denktaş"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Serdar_Denktaş"
+        }
+      ],
+      "name": "Serdar Denktaş",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Serdar Denktaş",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Serdar Denktaş",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Serdar Denktaş",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Serdar Denktaş",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Serdar Denktaş",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Serdar Denktaş",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serdar Denktaş",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Denktaş, Serdar"
+    },
+    {
+      "birth_date": "1953",
+      "family_name": "Ertuğruloğlu",
+      "gender": "male",
+      "given_name": "Tahsin",
+      "id": "c77b7f65-8c97-4b70-93cb-b7c0c88221d8",
+      "identifiers": [
+        {
+          "identifier": "Q2388336",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2388336",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tahsin-ertugruloglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/tahsin-ertugruloglu.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Tahsin_Ertuğruloğlu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Tahsin_Ertuğruloğlu"
+        }
+      ],
+      "name": "Tahsin Ertuğruloğlu",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tahsin Ertuğruloğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tahsin Ertuğruloğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tahsin Ertuğruloğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tahsin Ertuğruloğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tahsin Ertuğruloğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tahsin Ertuğruloğlu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Tahsin Ertuğruloğlu",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Ertuğruloğlu, Tahsin"
+    },
+    {
+      "birth_date": "1955",
+      "family_name": "Pilli",
+      "gender": "male",
+      "given_name": "Ali",
+      "id": "cb07e876-aded-41c9-80a6-184afd933fc3",
+      "identifiers": [
+        {
+          "identifier": "ali_pilli",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ali-pilli.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ali-pilli.jpg"
+        }
+      ],
+      "name": "Ali Pilli",
+      "sort_name": "Pilli, Ali"
+    },
+    {
+      "birth_date": "1966",
+      "family_name": "Oğuz",
+      "gender": "male",
+      "given_name": "Dursun",
+      "id": "d859c907-9648-4de4-b8e3-315ac02a7a9e",
+      "identifiers": [
+        {
+          "identifier": "dursun_oğuz",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dursun-oguz.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/dursun-oguz.jpg"
+        }
+      ],
+      "name": "Dursun Oğuz",
+      "sort_name": "Oğuz, Dursun"
+    },
+    {
+      "birth_date": "1959-05-01",
+      "family_name": "Çağlar",
+      "gender": "male",
+      "given_name": "Mehmet",
+      "id": "dc5508f8-ee51-4431-9b26-8f1004643c53",
+      "identifiers": [
+        {
+          "identifier": "mehmet_Çağlar",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg"
+        }
+      ],
+      "name": "Mehmet Çağlar",
+      "sort_name": "Çağlar, Mehmet"
+    },
+    {
+      "birth_date": "1957",
+      "family_name": "Sınay",
+      "gender": "male",
+      "given_name": "Abbas",
+      "id": "df615f5e-ab4e-44e4-aeeb-887e5994916a",
+      "identifiers": [
+        {
+          "identifier": "abbas_sınay",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/abbas-sinay.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/abbas-sinay.jpg"
+        }
+      ],
+      "name": "Abbas Sınay",
+      "sort_name": "Sınay, Abbas"
+    },
+    {
+      "birth_date": "1957",
+      "family_name": "Sennaroğlu",
+      "gender": "male",
+      "given_name": "Önder",
+      "id": "e368e7cb-dd11-43d9-a52d-ac21a37658c3",
+      "identifiers": [
+        {
+          "identifier": "Önder_sennaroğlu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg"
+        }
+      ],
+      "name": "Önder Sennaroğlu",
+      "sort_name": "Sennaroğlu, Önder"
     },
     {
       "birth_date": "1967-05-23",
@@ -2083,161 +2152,92 @@
       "sort_name": "Nami, Özdil"
     },
     {
-      "birth_date": "1954",
-      "family_name": "Yorgancıoğlu",
+      "birth_date": "1950",
+      "family_name": "Kaşif",
       "gender": "male",
-      "given_name": "Özkan",
-      "id": "2b552d58-41f1-42e0-8fc2-1c96b43686fa",
+      "given_name": "Ahmet",
+      "id": "e5139463-422f-48e3-a28b-8f99f3861c68",
       "identifiers": [
         {
-          "identifier": "Q6065323",
+          "identifier": "Q4696177",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q6065323",
+          "identifier": "Q4696177",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-kasif.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Özkan_Yorgancıoğlu_(cropped).jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ahmet-kasif.jpg"
         }
       ],
       "links": [
         {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Йорганджиоглу,_Озкан"
+          "url": "https://en.wikipedia.org/wiki/Ahmet_Kaşif"
         },
         {
           "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
+          "url": "https://tr.wikipedia.org/wiki/Ahmet_Kaşif"
         }
       ],
-      "name": "Özkan Yorgancıoğlu",
+      "name": "Ahmet Kaşif",
       "other_names": [
         {
           "lang": "de",
-          "name": "Özkan Yorgancıoğlu",
+          "name": "Ahmet Kaşif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αχμέτ Κασίφ",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Özkan Yorgancıoğlu",
+          "name": "Ahmet Kaşif",
           "note": "multilingual"
         },
         {
-          "lang": "es",
-          "name": "Özkan Yorgancıoğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Özkan Yorgancıoğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "エズカン・ヨルガンジュオール",
+          "lang": "fr",
+          "name": "Ahmet Kaşif",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Özkan Yorgancıoğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Özkan Yorgancıoğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Йорганджиоглу, Озкан",
+          "name": "Ahmet Kaşif",
           "note": "multilingual"
         },
         {
           "lang": "tr",
-          "name": "Özkan Yorgancıoğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Özkan Yorgancıoğlu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "厄茲坎·約甘喬奧盧",
+          "name": "Ahmet Kaşif",
           "note": "multilingual"
         }
       ],
-      "sort_name": "Yorgancıoğlu, Özkan"
+      "sort_name": "Kaşif, Ahmet"
     },
     {
-      "birth_date": "1955",
-      "family_name": "Üstel",
+      "birth_date": "1956",
+      "family_name": "Töre",
       "gender": "male",
-      "given_name": "Ünal",
-      "id": "2f78e5fd-b525-4148-8de9-d4d2eaf3fafd",
+      "given_name": "Zorlu",
+      "id": "e83cb2f4-2af8-4182-9e53-1cb64d81393a",
       "identifiers": [
         {
-          "identifier": "Ünal_Üstel",
+          "identifier": "zorlu_töre",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg",
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zorlu-tore.jpg",
       "images": [
         {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg"
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zorlu-tore.jpg"
         }
       ],
-      "name": "Ünal Üstel",
-      "sort_name": "Üstel, Ünal"
-    },
-    {
-      "birth_date": "1972",
-      "family_name": "Gürçağ",
-      "gender": "female",
-      "given_name": "İzlem",
-      "id": "19897153-f032-4bc9-9a14-5ad6c7d8ed18",
-      "identifiers": [
-        {
-          "identifier": "İzlem_gürçağ",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg"
-        }
-      ],
-      "name": "İzlem Gürçağ",
-      "sort_name": "Gürçağ, İzlem"
+      "name": "Zorlu Töre",
+      "sort_name": "Töre, Zorlu"
     }
   ],
   "organizations": [

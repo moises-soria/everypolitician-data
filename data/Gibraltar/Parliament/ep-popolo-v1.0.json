@@ -4,69 +4,493 @@
   ],
   "persons": [
     {
-      "id": "9f6398c1-da6c-4400-8be2-3579d39a0e9d",
+      "family_name": "Britto",
+      "given_name": "Ernest Michael",
+      "honorific_prefix": "Lt. Col.",
+      "honorific_suffix": "OBE ED",
+      "id": "002fb389-0b12-440e-8a27-ccd1d6b0bfa5",
       "identifiers": [
         {
-          "identifier": "25",
+          "identifier": "45",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "A Collings"
+      "name": "E M Britto",
+      "sort_name": "Britto, Ernest Michael"
     },
     {
-      "family_name": "Isola",
-      "gender": "male",
-      "given_name": "Albert",
-      "id": "2c24b73f-5770-40e3-bc6e-38c32664db83",
+      "id": "0501727b-1349-4d32-8fa1-a9ef96d7507f",
       "identifiers": [
         {
-          "identifier": "60",
+          "identifier": "29",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "D Hull"
+    },
+    {
+      "birth_date": "1939-06-10",
+      "family_name": "Bossano",
+      "gender": "male",
+      "given_name": "Joe",
+      "id": "0ca908c5-3da4-437a-ab8d-a112b4dfd3be",
+      "identifiers": [
+        {
+          "identifier": "22",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q16190596",
+          "identifier": "/m/02szlq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3090591",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Hon_Albert_Isola_2014_(cropped).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Joe_Bossano_on_National_Day_2011.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Hon_Albert_Isola_2014_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Joe_Bossano_on_National_Day_2011.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Joe_Bossano"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Joe_Bossano"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joe_Bossano"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joe_Bossano"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joe_Bossano"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Joe_Bossano"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Joe_Bossano"
+        }
+      ],
+      "name": "J J Bossano",
+      "other_names": [
+        {
+          "name": "Joe Bossano",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョー・ボサノ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Joe Bossano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "乔·博萨诺",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "喬·博薩諾",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Bossano, Joseph John"
+    },
+    {
+      "id": "0f48cdda-127e-4397-8400-eefc1d981cfe",
+      "identifiers": [
+        {
+          "identifier": "35",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "E Thistlethwaite"
+    },
+    {
+      "family_name": "Montegriffo",
+      "given_name": "Peter Cecil",
+      "id": "15ec896d-058f-4394-b710-0cdc0b2243ef",
+      "identifiers": [
+        {
+          "identifier": "44",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "P C Montegriffo",
+      "sort_name": "Montegriffo, Peter Cecil"
+    },
+    {
+      "id": "19b4f78a-6861-410c-a082-7fe5b9fc4221",
+      "identifiers": [
+        {
+          "identifier": "46",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "K B Anthony"
+    },
+    {
+      "family_name": "Holliday",
+      "gender": "male",
+      "given_name": "Joseph John",
+      "id": "1b202dbb-ca61-482d-83f2-37c73e3030d2",
+      "identifiers": [
+        {
+          "identifier": "56",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6210376",
+          "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Albert_Isola"
+          "url": "https://en.wikipedia.org/wiki/Joe_Holliday"
         },
         {
           "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Albert_Isola"
+          "url": "https://en.wikipedia.org/wiki/Joe_Holliday"
         }
       ],
-      "name": "A Isola",
+      "name": "J J Holliday",
       "other_names": [
         {
-          "name": "Albert Isola",
+          "name": "Joe Holliday",
           "note": "alternate"
         },
         {
           "lang": "de",
-          "name": "Albert Isola",
+          "name": "Joe Holliday",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Albert Isola",
+          "name": "Joe Holliday",
           "note": "multilingual"
         },
         {
-          "lang": "it",
-          "name": "Albert Isola",
+          "lang": "nl",
+          "name": "Joe Holliday",
           "note": "multilingual"
         }
       ],
-      "sort_name": "Isola, Albert"
+      "sort_name": "Holliday, Joseph John"
+    },
+    {
+      "family_name": "Corby",
+      "given_name": "Hubert Alfred",
+      "id": "1f2636f4-f471-49a8-8b22-a9529ce27671",
+      "identifiers": [
+        {
+          "identifier": "51",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "H A Corby",
+      "sort_name": "Corby, Hubert Alfred"
+    },
+    {
+      "id": "1f5e418b-000e-426f-b0ee-25c3b25ab036",
+      "identifiers": [
+        {
+          "identifier": "33",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "A J Haynes"
+    },
+    {
+      "honorific_suffix": "CBE QC",
+      "id": "21f20cc7-4a6f-4ad4-9707-8fa959e7d222",
+      "identifiers": [
+        {
+          "identifier": "8",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "C B O’Beirne"
+    },
+    {
+      "birth_date": "1915-08-21",
+      "death_date": "1997-07-01",
+      "gender": "male",
+      "given_name": "Joshua",
+      "honorific_prefix": "Sir",
+      "honorific_suffix": "CBE MVO QC JP",
+      "id": "232013da-1f82-4512-9ea9-6cea7c470e66",
+      "identifiers": [
+        {
+          "identifier": "11",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "421867",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/053q78",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "119516713",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 1438 2298",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr98030930",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "35817581",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "160905621",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "101067299",
+          "scheme": "oxforddnb"
+        },
+        {
+          "identifier": "14684917",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1708538",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Joshua_Hassan.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Joshua_Hassan.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Джошуа_Хасан"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Joshua_Abraham_Hassan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joshua_Hassan"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joshua_Hassan"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joshua_Hassan"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/יהושע_חסן"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Joshua_Hassan"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хасан,_Джошуа"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Joshua_Hassan"
+        }
+      ],
+      "name": "Joshua Hassan",
+      "other_names": [
+        {
+          "name": "J Hassan",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Джошуа Хасан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joshua Abraham Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יהושע חסן",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хассан, Джошуа",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Joshua Hassan",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "243975a4-2f27-43bd-a627-71d2aa6eb24b",
+      "identifiers": [
+        {
+          "identifier": "67",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "C G Beltran"
+    },
+    {
+      "honorific_prefix": "Miss",
+      "id": "256c1a55-9fe6-4d88-b4f3-0899f9a78ad8",
+      "identifiers": [
+        {
+          "identifier": "59",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "K Dawson"
+    },
+    {
+      "honorific_prefix": "Lt. Col.",
+      "id": "2838ed52-858c-473d-8141-9954125aef33",
+      "identifiers": [
+        {
+          "identifier": "17",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "J L Hoare"
     },
     {
       "birth_date": "1940-12-17",
@@ -175,6 +599,163 @@
       ]
     },
     {
+      "family_name": "Isola",
+      "gender": "male",
+      "given_name": "Albert",
+      "id": "2c24b73f-5770-40e3-bc6e-38c32664db83",
+      "identifiers": [
+        {
+          "identifier": "60",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16190596",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Hon_Albert_Isola_2014_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Hon_Albert_Isola_2014_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Albert_Isola"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Albert_Isola"
+        }
+      ],
+      "name": "A Isola",
+      "other_names": [
+        {
+          "name": "Albert Isola",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Albert Isola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Albert Isola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Albert Isola",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Isola, Albert"
+    },
+    {
+      "birth_date": "1967-06-06",
+      "family_name": "Azopardi",
+      "gender": "male",
+      "given_name": "Keith",
+      "id": "3099b9cf-5293-4c7f-8153-9afedb385499",
+      "identifiers": [
+        {
+          "identifier": "58",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 7193 5357",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "143506455",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "101455753",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6384005",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Keith_Azopardi_on_National_Day_2011.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Keith_Azopardi_on_National_Day_2011.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Keith_Azopardi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Keith_Azopardi"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Keith_Azopardi"
+        }
+      ],
+      "name": "K Azopardi",
+      "other_names": [
+        {
+          "name": "Keith Azopardi",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Keith Azopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Keith Azopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Keith Azopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Keith Azopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Keith Azopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Keith Azopardi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Keith Azopardi",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Azopardi, Keith"
+    },
+    {
+      "id": "323a567d-8136-4254-8d7b-5955bb97340c",
+      "identifiers": [
+        {
+          "identifier": "28",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "G T Restano"
+    },
+    {
       "honorific_prefix": "Major",
       "id": "34328435-d155-4611-be08-ff24fac4fa78",
       "identifiers": [
@@ -186,35 +767,322 @@
       "name": "A J Gache"
     },
     {
-      "id": "1f5e418b-000e-426f-b0ee-25c3b25ab036",
+      "family_name": "Bossino",
+      "gender": "male",
+      "given_name": "Damon James",
+      "id": "36d1ea88-81cd-49dc-9bc9-637748f36ffb",
       "identifiers": [
         {
-          "identifier": "33",
+          "identifier": "82",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14624743",
+          "scheme": "wikidata"
         }
       ],
-      "name": "A J Haynes"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Damon_Bossino"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/דיימון_בוסינו"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Damon_Bossino"
+        }
+      ],
+      "name": "D J Bossino",
+      "other_names": [
+        {
+          "name": "Damon Bossino",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Damon Bossino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Damon Bossino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Damon Bossino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "דיימון בוסינו",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Damon Bossino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Damon Bossino",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Bossino, Damon James"
     },
     {
-      "honorific_suffix": "OBE",
-      "id": "d8c09785-a180-477c-aa73-20e82d36a6e0",
+      "id": "374753d6-c9f0-4a0e-8e67-79093ad7c14e",
       "identifiers": [
         {
-          "identifier": "13",
+          "identifier": "74",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "A P Montegriffo"
+      "name": "L Montiel"
     },
     {
-      "id": "d11f5e1b-3fa5-4e89-b514-634e50bf61ec",
+      "family_name": "Ramagge",
+      "given_name": "Maurice",
+      "id": "3d894654-2b79-4b27-aee5-d358e0d652fc",
       "identifiers": [
         {
-          "identifier": "32",
+          "identifier": "54",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "A T Loddo"
+      "name": "M Ramagge",
+      "sort_name": "Ramagge, Maurice"
+    },
+    {
+      "family_name": "Linares",
+      "gender": "male",
+      "given_name": "Steven Ernest",
+      "id": "3e3e02a9-07ac-47f9-b314-a57ef22b0ae1",
+      "identifiers": [
+        {
+          "identifier": "66",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3323210",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Steven_Linares.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Steven_Linares.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Steven_Linares"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Steven_Linares"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Steven_Linares"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Steven_Linares"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Steven_Linares"
+        }
+      ],
+      "name": "S E Linares",
+      "other_names": [
+        {
+          "name": "Steven Linares",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Steven Linares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Steven Linares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Steven Linares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Steven Linares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Steven Linares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Steven Linares",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Linares, Steven Ernest"
+    },
+    {
+      "id": "49da70f4-f91d-40e2-8d8b-6ec4700cc2ea",
+      "identifiers": [
+        {
+          "identifier": "36",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "B Traynor"
+    },
+    {
+      "family_name": "Cortes",
+      "gender": "male",
+      "given_name": "John Emmanuel",
+      "honorific_prefix": "Dr",
+      "honorific_suffix": "MBE",
+      "id": "4fa0a2c8-85f3-4d67-b842-164ad8643fe4",
+      "identifiers": [
+        {
+          "identifier": "142677378",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "78",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0n45q32",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n92102697",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "127197869",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "74064453",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3323220",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dr_john_cortes.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dr_john_cortes.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/John_Cortes"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Cortes"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/John_Cortes"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/John_Cortes"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ג'ון_קורטס"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Cortes"
+        }
+      ],
+      "name": "J E Cortes",
+      "other_names": [
+        {
+          "name": "John Cortes",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ג'ון קורטס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Cortes",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Cortes, John Emmanuel"
+    },
+    {
+      "honorific_prefix": "Major",
+      "honorific_suffix": "ED",
+      "id": "5e1cabc0-d0ce-437b-a2ec-7aece6450873",
+      "identifiers": [
+        {
+          "identifier": "23",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "F J Dellipiani"
     },
     {
       "honorific_suffix": "OBE JP",
@@ -226,6 +1094,232 @@
         }
       ],
       "name": "A W Serfaty"
+    },
+    {
+      "id": "66dc58c0-5cba-406e-8451-707d263fdbb6",
+      "identifiers": [
+        {
+          "identifier": "15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "M K Featherstone"
+    },
+    {
+      "id": "6c093d83-2782-4c2d-8b32-006f85df137f",
+      "identifiers": [
+        {
+          "identifier": "5",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "W M Isola"
+    },
+    {
+      "family_name": "Perez",
+      "given_name": "Juan Carlos",
+      "id": "6e2b4d17-7337-4438-9520-336cd4527d07",
+      "identifiers": [
+        {
+          "identifier": "40",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "J C Perez",
+      "sort_name": "Perez, Juan Carlos"
+    },
+    {
+      "family_name": "Baldachino",
+      "given_name": "Joseph Louis",
+      "id": "6ef5d761-fa51-4740-9750-8f262157495d",
+      "identifiers": [
+        {
+          "identifier": "41",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "J L Baldachino",
+      "sort_name": "Baldachino, Joseph Louis"
+    },
+    {
+      "honorific_prefix": "Major",
+      "id": "6ffe17fb-24d1-4dc3-b44b-068e76baad64",
+      "identifiers": [
+        {
+          "identifier": "1",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "R J Peliza"
+    },
+    {
+      "id": "703708a9-848f-4129-a025-df0907092519",
+      "identifiers": [
+        {
+          "identifier": "16",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "I Abecasis"
+    },
+    {
+      "honorific_suffix": "CMG OBE",
+      "id": "72305a10-40c6-4a21-a993-725316bdf85f",
+      "identifiers": [
+        {
+          "identifier": "30",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "R J Wallace"
+    },
+    {
+      "family_name": "Cumming",
+      "given_name": "Peter",
+      "id": "7815f922-eb8c-4ff2-b326-58c3e767eb35",
+      "identifiers": [
+        {
+          "identifier": "52",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "P Cumming",
+      "sort_name": "Cumming, Peter"
+    },
+    {
+      "family_name": "Vasquez",
+      "given_name": "Freddie",
+      "id": "7a213b24-8b23-4d33-8154-e8087d053ec6",
+      "identifiers": [
+        {
+          "identifier": "50",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "F Vasquez",
+      "sort_name": "Vasquez, Freddie"
+    },
+    {
+      "id": "7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
+      "identifiers": [
+        {
+          "identifier": "2",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "M Xiberras"
+    },
+    {
+      "id": "8682d2b3-a85b-40d4-9755-00a18b53ed29",
+      "identifiers": [
+        {
+          "identifier": "71",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "L A Randall"
+    },
+    {
+      "id": "8a8d608d-306e-4d1d-9c2a-4bf293221242",
+      "identifiers": [
+        {
+          "identifier": "48",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "P J Brooke"
+    },
+    {
+      "birth_date": "1957-10-21",
+      "family_name": "Del Agua",
+      "gender": "female",
+      "given_name": "Yvette",
+      "honorific_prefix": "Mrs",
+      "id": "8c79d590-059c-4afd-b639-235253d6df7d",
+      "identifiers": [
+        {
+          "identifier": "63",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13415150",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yvette_Del_Agua"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Yvette_Del_Agua"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yvette_Del_Agua"
+        }
+      ],
+      "name": "Y Del Agua",
+      "other_names": [
+        {
+          "name": "Yvette Del Agua",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Yvette Del Agua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yvette Del Agua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yvette Del Agua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yvette Del Agua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yvette Del Agua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yvette Del Agua",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Del Agua, Yvette"
+    },
+    {
+      "honorific_suffix": "OBE QC",
+      "id": "8f0250d4-ad7d-40c2-9f0b-b46d9e0aeca0",
+      "identifiers": [
+        {
+          "identifier": "24",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "J K Havers"
+    },
+    {
+      "honorific_suffix": "CMG QC",
+      "id": "8fa78c82-04a4-483b-a1ab-ec37a7274657",
+      "identifiers": [
+        {
+          "identifier": "20",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "R H Hickling"
     },
     {
       "family_name": "Linares",
@@ -242,14 +1336,226 @@
       "sort_name": "Linares, Bernard Anthony"
     },
     {
-      "id": "49da70f4-f91d-40e2-8d8b-6ec4700cc2ea",
+      "family_name": "Balban",
+      "gender": "male",
+      "given_name": "Paul John",
+      "id": "922ff780-b1a4-4478-bbcc-b5279f8fd00d",
       "identifiers": [
         {
-          "identifier": "36",
+          "identifier": "80",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0n5vl0w",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3323197",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Paul_Balban"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Balban"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Paul_Balban"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Paul_Balban"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Paul_Balban"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Paul_Balban"
+        }
+      ],
+      "name": "P J Balban",
+      "other_names": [
+        {
+          "name": "Paul Balban",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Paul Balban",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Balban, Paul John"
+    },
+    {
+      "family_name": "Gabay",
+      "given_name": "Joshua",
+      "id": "9230f618-6fd5-4158-83d1-6c4808095b29",
+      "identifiers": [
+        {
+          "identifier": "61",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "B Traynor"
+      "name": "J Gabay",
+      "sort_name": "Gabay, Joshua"
+    },
+    {
+      "id": "98f1d1ea-cc82-4982-b34f-3edacae81ee4",
+      "identifiers": [
+        {
+          "identifier": "72",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "J J Holiday"
+    },
+    {
+      "family_name": "Pilcher",
+      "given_name": "Joseph Ernest",
+      "id": "9d2ace1c-f808-445c-8628-b44846b3388b",
+      "identifiers": [
+        {
+          "identifier": "37",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "J E Pilcher",
+      "sort_name": "Pilcher, Joseph Ernest"
+    },
+    {
+      "family_name": "Ellul-Hammond",
+      "gender": "female",
+      "given_name": "Isobel Marie",
+      "honorific_prefix": "Mrs",
+      "honorific_suffix": "MBE",
+      "id": "9f221e65-7615-429d-abd5-437a429983aa",
+      "identifiers": [
+        {
+          "identifier": "81",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16728812",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Isobel_Ellul-Hammond"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Isobel_Ellul-Hammond"
+        }
+      ],
+      "name": "I M Ellul-Hammond",
+      "other_names": [
+        {
+          "name": "Isobel Ellul-Hammond",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Isobel Ellul-Hammond",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Isobel Ellul-Hammond",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Ellul-Hammond, Isobel Marie"
+    },
+    {
+      "id": "9f6398c1-da6c-4400-8be2-3579d39a0e9d",
+      "identifiers": [
+        {
+          "identifier": "25",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "A Collings"
+    },
+    {
+      "family_name": "Feetham",
+      "given_name": "Michael Alfred",
+      "id": "a3774ac7-767c-481d-82cd-ae5a4c42aa72",
+      "identifiers": [
+        {
+          "identifier": "38",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "M A Feetham",
+      "sort_name": "Feetham, Michael Alfred"
+    },
+    {
+      "family_name": "Figueras",
+      "given_name": "Selwyn Matthew",
+      "id": "a547cb15-fdd3-4dbb-8e87-080cb6881905",
+      "identifiers": [
+        {
+          "identifier": "83",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "S M Figueras",
+      "sort_name": "Figueras, Selwyn Matthew"
+    },
+    {
+      "id": "a687282c-ac6f-4b8b-8607-6573d76b997c",
+      "identifiers": [
+        {
+          "identifier": "31",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "W T Scott"
     },
     {
       "birth_date": "1938-06-10",
@@ -358,352 +1664,17 @@
       "sort_name": "Bruzon, Charles Arthur"
     },
     {
-      "honorific_prefix": "Miss",
-      "id": "c4520ab6-dc17-4a3c-aacc-572d891d289e",
+      "family_name": "Netto",
+      "given_name": "James Joseph",
+      "id": "b896fc31-50ca-42e7-afff-eacfaccc4bc8",
       "identifiers": [
         {
-          "identifier": "6",
+          "identifier": "57",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "C Anes"
-    },
-    {
-      "honorific_suffix": "CBE QC",
-      "id": "21f20cc7-4a6f-4ad4-9707-8fa959e7d222",
-      "identifiers": [
-        {
-          "identifier": "8",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "C B O’Beirne"
-    },
-    {
-      "id": "243975a4-2f27-43bd-a627-71d2aa6eb24b",
-      "identifiers": [
-        {
-          "identifier": "67",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "C G Beltran"
-    },
-    {
-      "honorific_suffix": "CBE",
-      "id": "d2862063-3c72-4fd8-b18b-47862a120ebb",
-      "identifiers": [
-        {
-          "identifier": "21",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "C J Gomez"
-    },
-    {
-      "birth_date": "1967-05-26",
-      "family_name": "Feetham",
-      "gender": "male",
-      "given_name": "Daniel",
-      "id": "e3b50e6a-7de7-46ae-ae79-30f6b5a27235",
-      "identifiers": [
-        {
-          "identifier": "73",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5217120",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daniel_Feetham.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daniel_Feetham.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Daniel_Feetham"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Daniel_Feetham"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Daniel_Feetham"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Daniel_Feetham"
-        }
-      ],
-      "name": "D A Feetham",
-      "other_names": [
-        {
-          "name": "Daniel Feetham",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Daniel Feetham",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Daniel Feetham",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Daniel Feetham",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Daniel Feetham",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Daniel Feetham",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Daniel Feetham",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "丹尼爾·菲瑟姆",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Feetham, Daniel Anthony"
-    },
-    {
-      "id": "0501727b-1349-4d32-8fa1-a9ef96d7507f",
-      "identifiers": [
-        {
-          "identifier": "29",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "D Hull"
-    },
-    {
-      "family_name": "Bossino",
-      "gender": "male",
-      "given_name": "Damon James",
-      "id": "36d1ea88-81cd-49dc-9bc9-637748f36ffb",
-      "identifiers": [
-        {
-          "identifier": "82",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14624743",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Damon_Bossino"
-        },
-        {
-          "note": "Wikipedia (he)",
-          "url": "https://he.wikipedia.org/wiki/דיימון_בוסינו"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Damon_Bossino"
-        }
-      ],
-      "name": "D J Bossino",
-      "other_names": [
-        {
-          "name": "Damon Bossino",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Damon Bossino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Damon Bossino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Damon Bossino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "he",
-          "name": "דיימון בוסינו",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Damon Bossino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Damon Bossino",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Bossino, Damon James"
-    },
-    {
-      "honorific_suffix": "CMG OBE",
-      "id": "fd8ac78f-7ed0-4973-85d3-8fa941ce423f",
-      "identifiers": [
-        {
-          "identifier": "9",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "E H Davies"
-    },
-    {
-      "honorific_suffix": "OBE JP",
-      "id": "fc9bbcdc-9ff6-48f4-b062-afb0521d99df",
-      "identifiers": [
-        {
-          "identifier": "14",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "E J Alvarez"
-    },
-    {
-      "family_name": "Reyes",
-      "gender": "male",
-      "given_name": "Edwin",
-      "id": "f49429c6-e660-48a9-b816-4aa03326ac17",
-      "identifiers": [
-        {
-          "identifier": "75",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16735145",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Edwin_Reyes"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Edwin_Reyes"
-        }
-      ],
-      "name": "E J Reyes",
-      "other_names": [
-        {
-          "name": "Edwin Reyes",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Edwin Reyes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Edwin Reyes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Edwin Reyes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Edwin Reyes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Edwin Reyes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Edwin Reyes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Edwin Reyes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Эдвин Рейес",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Reyes, Edwin Joseph"
-    },
-    {
-      "family_name": "Britto",
-      "given_name": "Ernest Michael",
-      "honorific_prefix": "Lt. Col.",
-      "honorific_suffix": "OBE ED",
-      "id": "002fb389-0b12-440e-8a27-ccd1d6b0bfa5",
-      "identifiers": [
-        {
-          "identifier": "45",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "E M Britto",
-      "sort_name": "Britto, Ernest Michael"
-    },
-    {
-      "id": "0f48cdda-127e-4397-8400-eefc1d981cfe",
-      "identifiers": [
-        {
-          "identifier": "35",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "E Thistlethwaite"
-    },
-    {
-      "honorific_prefix": "Major",
-      "honorific_suffix": "ED",
-      "id": "5e1cabc0-d0ce-437b-a2ec-7aece6450873",
-      "identifiers": [
-        {
-          "identifier": "23",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "F J Dellipiani"
-    },
-    {
-      "id": "d56e145d-2f2b-4646-abcc-fe5d3151a782",
-      "identifiers": [
-        {
-          "identifier": "68",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "F J Vinet"
+      "name": "J J Netto",
+      "sort_name": "Netto, James Joseph"
     },
     {
       "birth_date": "1972-02-17",
@@ -940,212 +1911,49 @@
       "sort_name": "Picardo, Fabian Raymond"
     },
     {
-      "family_name": "Vasquez",
-      "given_name": "Freddie",
-      "id": "7a213b24-8b23-4d33-8154-e8087d053ec6",
+      "honorific_suffix": "QC",
+      "id": "bf729a66-c3cb-4838-9a24-0005245edb73",
       "identifiers": [
         {
-          "identifier": "50",
+          "identifier": "64",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "F Vasquez",
-      "sort_name": "Vasquez, Freddie"
+      "name": "R R Rhoda"
     },
     {
-      "family_name": "Licudi",
-      "gender": "male",
-      "given_name": "Gilbert",
-      "id": "ef223ab5-d5e1-4bc8-8794-913ffb0fb0ff",
+      "id": "c13f2c7c-b6cc-4a88-bf2a-5a5e8dfd4164",
       "identifiers": [
         {
-          "identifier": "76",
+          "identifier": "4",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3323259",
-          "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gilbert_Licudi,_June_2014.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gilbert_Licudi,_June_2014.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Gilbert_Licudi"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Gilbert_Licudi"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Gilbert_Licudi"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Gilbert_Licudi"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Gilbert_Licudi"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Gilbert_Licudi"
-        }
-      ],
-      "name": "G H Licudi",
-      "other_names": [
-        {
-          "name": "Gilbert Licudi",
-          "note": "alternate"
-        },
-        {
-          "lang": "ca",
-          "name": "Gilbert Licudi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Gilbert Licudi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Gilbert Licudi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Gilbert Licudi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Gilbert Licudi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Gilbert Licudi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Gilbert Licudi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Гилберт Ликуди",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Licudi, Gilbert Horace"
+      "name": "J Caruana"
     },
     {
-      "id": "e0c3dc51-7238-4803-90f8-a8d6c00aa874",
+      "family_name": "Francis",
+      "given_name": "Lewis Henry",
+      "id": "c3f0b20b-58e6-4019-a570-2a4e49cb8d83",
       "identifiers": [
         {
-          "identifier": "34",
+          "identifier": "53",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "G Mascarenhas"
+      "name": "L H Francis",
+      "sort_name": "Francis, Lewis Henry"
     },
     {
-      "id": "323a567d-8136-4254-8d7b-5955bb97340c",
+      "honorific_prefix": "Miss",
+      "id": "c4520ab6-dc17-4a3c-aacc-572d891d289e",
       "identifiers": [
         {
-          "identifier": "28",
+          "identifier": "6",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "G T Restano"
-    },
-    {
-      "family_name": "Corby",
-      "given_name": "Hubert Alfred",
-      "id": "1f2636f4-f471-49a8-8b22-a9529ce27671",
-      "identifiers": [
-        {
-          "identifier": "51",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "H A Corby",
-      "sort_name": "Corby, Hubert Alfred"
-    },
-    {
-      "id": "e12fc7d6-3e35-471f-b68d-3de4a1352dd5",
-      "identifiers": [
-        {
-          "identifier": "19",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "H J Zammitt"
-    },
-    {
-      "id": "703708a9-848f-4129-a025-df0907092519",
-      "identifiers": [
-        {
-          "identifier": "16",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "I Abecasis"
-    },
-    {
-      "family_name": "Ellul-Hammond",
-      "gender": "female",
-      "given_name": "Isobel Marie",
-      "honorific_prefix": "Mrs",
-      "honorific_suffix": "MBE",
-      "id": "9f221e65-7615-429d-abd5-437a429983aa",
-      "identifiers": [
-        {
-          "identifier": "81",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16728812",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Isobel_Ellul-Hammond"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Isobel_Ellul-Hammond"
-        }
-      ],
-      "name": "I M Ellul-Hammond",
-      "other_names": [
-        {
-          "name": "Isobel Ellul-Hammond",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Isobel Ellul-Hammond",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Isobel Ellul-Hammond",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Ellul-Hammond, Isobel Marie"
+      "name": "C Anes"
     },
     {
       "id": "c501a17e-056c-495c-8902-7e6d141ebb83",
@@ -1162,952 +1970,6 @@
           "note": "alternate"
         }
       ]
-    },
-    {
-      "family_name": "Perez",
-      "given_name": "Juan Carlos",
-      "id": "6e2b4d17-7337-4438-9520-336cd4527d07",
-      "identifiers": [
-        {
-          "identifier": "40",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J C Perez",
-      "sort_name": "Perez, Juan Carlos"
-    },
-    {
-      "id": "c13f2c7c-b6cc-4a88-bf2a-5a5e8dfd4164",
-      "identifiers": [
-        {
-          "identifier": "4",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J Caruana"
-    },
-    {
-      "family_name": "Cortes",
-      "gender": "male",
-      "given_name": "John Emmanuel",
-      "honorific_prefix": "Dr",
-      "honorific_suffix": "MBE",
-      "id": "4fa0a2c8-85f3-4d67-b842-164ad8643fe4",
-      "identifiers": [
-        {
-          "identifier": "142677378",
-          "scheme": "bnf"
-        },
-        {
-          "identifier": "78",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0n45q32",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "n92102697",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "127197869",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "74064453",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q3323220",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dr_john_cortes.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dr_john_cortes.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/John_Cortes"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/John_Cortes"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/John_Cortes"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/John_Cortes"
-        },
-        {
-          "note": "Wikipedia (he)",
-          "url": "https://he.wikipedia.org/wiki/ג'ון_קורטס"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/John_Cortes"
-        }
-      ],
-      "name": "J E Cortes",
-      "other_names": [
-        {
-          "name": "John Cortes",
-          "note": "alternate"
-        },
-        {
-          "lang": "ca",
-          "name": "John Cortes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "John Cortes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "John Cortes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "John Cortes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "John Cortes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "John Cortes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "he",
-          "name": "ג'ון קורטס",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "John Cortes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "John Cortes",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Cortes, John Emmanuel"
-    },
-    {
-      "family_name": "Pilcher",
-      "given_name": "Joseph Ernest",
-      "id": "9d2ace1c-f808-445c-8628-b44846b3388b",
-      "identifiers": [
-        {
-          "identifier": "37",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J E Pilcher",
-      "sort_name": "Pilcher, Joseph Ernest"
-    },
-    {
-      "family_name": "Gabay",
-      "given_name": "Joshua",
-      "id": "9230f618-6fd5-4158-83d1-6c4808095b29",
-      "identifiers": [
-        {
-          "identifier": "61",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J Gabay",
-      "sort_name": "Gabay, Joshua"
-    },
-    {
-      "birth_date": "1939-06-10",
-      "family_name": "Bossano",
-      "gender": "male",
-      "given_name": "Joe",
-      "id": "0ca908c5-3da4-437a-ab8d-a112b4dfd3be",
-      "identifiers": [
-        {
-          "identifier": "22",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/02szlq",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q3090591",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Joe_Bossano_on_National_Day_2011.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Joe_Bossano_on_National_Day_2011.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Joe_Bossano"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Joe_Bossano"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Joe_Bossano"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Joe_Bossano"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Joe_Bossano"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Joe_Bossano"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Joe_Bossano"
-        }
-      ],
-      "name": "J J Bossano",
-      "other_names": [
-        {
-          "name": "Joe Bossano",
-          "note": "alternate"
-        },
-        {
-          "lang": "ca",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ジョー・ボサノ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Joe Bossano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "乔·博萨诺",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "喬·博薩諾",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Bossano, Joseph John"
-    },
-    {
-      "birth_date": "1967",
-      "family_name": "Garcia",
-      "gender": "male",
-      "given_name": "Joseph",
-      "honorific_prefix": "Dr",
-      "id": "c867c252-ba93-4866-ac1d-bc95458c7346",
-      "identifiers": [
-        {
-          "identifier": "62",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "87450345",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q1442437",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Joseph_Garcia_portrait.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Joseph_Garcia_portrait.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Joseph_Garcia"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Joseph_Garcia"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Joseph_Garcia_(Gibraltarian_politician)"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Joseph_Garcia"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Joseph_Garcia_(homme_politique)"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Joseph_Garcia"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Joseph_Garcia_(Gibraltarian_politician)"
-        }
-      ],
-      "name": "J J Garcia",
-      "other_names": [
-        {
-          "name": "Joseph Garcia",
-          "note": "alternate"
-        },
-        {
-          "lang": "ca",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Joseph Garcia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Джозеф Гарсиа",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Garcia, Joseph John"
-    },
-    {
-      "id": "98f1d1ea-cc82-4982-b34f-3edacae81ee4",
-      "identifiers": [
-        {
-          "identifier": "72",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J J Holiday"
-    },
-    {
-      "family_name": "Holliday",
-      "gender": "male",
-      "given_name": "Joseph John",
-      "id": "1b202dbb-ca61-482d-83f2-37c73e3030d2",
-      "identifiers": [
-        {
-          "identifier": "56",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6210376",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Joe_Holliday"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Joe_Holliday"
-        }
-      ],
-      "name": "J J Holliday",
-      "other_names": [
-        {
-          "name": "Joe Holliday",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Joe Holliday",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Joe Holliday",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Joe Holliday",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Holliday, Joseph John"
-    },
-    {
-      "family_name": "Netto",
-      "given_name": "James Joseph",
-      "id": "b896fc31-50ca-42e7-afff-eacfaccc4bc8",
-      "identifiers": [
-        {
-          "identifier": "57",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J J Netto",
-      "sort_name": "Netto, James Joseph"
-    },
-    {
-      "honorific_suffix": "OBE QC",
-      "id": "8f0250d4-ad7d-40c2-9f0b-b46d9e0aeca0",
-      "identifiers": [
-        {
-          "identifier": "24",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J K Havers"
-    },
-    {
-      "family_name": "Baldachino",
-      "given_name": "Joseph Louis",
-      "id": "6ef5d761-fa51-4740-9750-8f262157495d",
-      "identifiers": [
-        {
-          "identifier": "41",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J L Baldachino",
-      "sort_name": "Baldachino, Joseph Louis"
-    },
-    {
-      "honorific_prefix": "Lt. Col.",
-      "id": "2838ed52-858c-473d-8141-9954125aef33",
-      "identifiers": [
-        {
-          "identifier": "17",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J L Hoare"
-    },
-    {
-      "family_name": "Moss",
-      "given_name": "Joseph Louis",
-      "id": "ddc2f30d-5308-413c-b913-9c3ad5020070",
-      "identifiers": [
-        {
-          "identifier": "43",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "J L Moss",
-      "sort_name": "Moss, Joseph Louis"
-    },
-    {
-      "birth_date": "1915-08-21",
-      "death_date": "1997-07-01",
-      "gender": "male",
-      "given_name": "Joshua",
-      "honorific_prefix": "Sir",
-      "honorific_suffix": "CBE MVO QC JP",
-      "id": "232013da-1f82-4512-9ea9-6cea7c470e66",
-      "identifiers": [
-        {
-          "identifier": "11",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "421867",
-          "scheme": "fast"
-        },
-        {
-          "identifier": "/m/053q78",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "119516713",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "0000 0001 1438 2298",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "nr98030930",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "35817581",
-          "scheme": "nla"
-        },
-        {
-          "identifier": "160905621",
-          "scheme": "nta"
-        },
-        {
-          "identifier": "101067299",
-          "scheme": "oxforddnb"
-        },
-        {
-          "identifier": "14684917",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q1708538",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Joshua_Hassan.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Joshua_Hassan.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Джошуа_Хасан"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Joshua_Abraham_Hassan"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Joshua_Hassan"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Joshua_Hassan"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Joshua_Hassan"
-        },
-        {
-          "note": "Wikipedia (he)",
-          "url": "https://he.wikipedia.org/wiki/יהושע_חסן"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Joshua_Hassan"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Хасан,_Джошуа"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Joshua_Hassan"
-        }
-      ],
-      "name": "Joshua Hassan",
-      "other_names": [
-        {
-          "name": "J Hassan",
-          "note": "alternate"
-        },
-        {
-          "lang": "bg",
-          "name": "Джошуа Хасан",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Joshua Abraham Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "he",
-          "name": "יהושע חסן",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Хассан, Джошуа",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Joshua Hassan",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1967-06-06",
-      "family_name": "Azopardi",
-      "gender": "male",
-      "given_name": "Keith",
-      "id": "3099b9cf-5293-4c7f-8153-9afedb385499",
-      "identifiers": [
-        {
-          "identifier": "58",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "0000 0000 7193 5357",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "143506455",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "101455753",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q6384005",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Keith_Azopardi_on_National_Day_2011.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Keith_Azopardi_on_National_Day_2011.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (cs)",
-          "url": "https://cs.wikipedia.org/wiki/Keith_Azopardi"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Keith_Azopardi"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Keith_Azopardi"
-        }
-      ],
-      "name": "K Azopardi",
-      "other_names": [
-        {
-          "name": "Keith Azopardi",
-          "note": "alternate"
-        },
-        {
-          "lang": "cs",
-          "name": "Keith Azopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Keith Azopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Keith Azopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Keith Azopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Keith Azopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Keith Azopardi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Keith Azopardi",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Azopardi, Keith"
-    },
-    {
-      "id": "19b4f78a-6861-410c-a082-7fe5b9fc4221",
-      "identifiers": [
-        {
-          "identifier": "46",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "K B Anthony"
-    },
-    {
-      "honorific_prefix": "Miss",
-      "id": "256c1a55-9fe6-4d88-b4f3-0899f9a78ad8",
-      "identifiers": [
-        {
-          "identifier": "59",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "K Dawson"
-    },
-    {
-      "honorific_suffix": "QC",
-      "id": "f99cbedb-111d-4fac-9c72-8332f70f9971",
-      "identifiers": [
-        {
-          "identifier": "47",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "K W Harris"
-    },
-    {
-      "id": "8682d2b3-a85b-40d4-9755-00a18b53ed29",
-      "identifiers": [
-        {
-          "identifier": "71",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "L A Randall"
-    },
-    {
-      "id": "fb24caca-894d-4945-bbfe-0fb1a083bec8",
-      "identifiers": [
-        {
-          "identifier": "7",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "L Devincenzi"
-    },
-    {
-      "family_name": "Francis",
-      "given_name": "Lewis Henry",
-      "id": "c3f0b20b-58e6-4019-a570-2a4e49cb8d83",
-      "identifiers": [
-        {
-          "identifier": "53",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "L H Francis",
-      "sort_name": "Francis, Lewis Henry"
-    },
-    {
-      "id": "374753d6-c9f0-4a0e-8e67-79093ad7c14e",
-      "identifiers": [
-        {
-          "identifier": "74",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "L Montiel"
-    },
-    {
-      "family_name": "Feetham",
-      "given_name": "Michael Alfred",
-      "id": "a3774ac7-767c-481d-82cd-ae5a4c42aa72",
-      "identifiers": [
-        {
-          "identifier": "38",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "M A Feetham",
-      "sort_name": "Feetham, Michael Alfred"
-    },
-    {
-      "family_name": "Montegriffo",
-      "given_name": "Maria Isabel",
-      "honorific_prefix": "Miss",
-      "id": "f12c6767-ea05-4483-9799-e66c7481a874",
-      "identifiers": [
-        {
-          "identifier": "39",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "M I Montegriffo",
-      "sort_name": "Montegriffo, Maria Isabel"
-    },
-    {
-      "id": "66dc58c0-5cba-406e-8451-707d263fdbb6",
-      "identifiers": [
-        {
-          "identifier": "15",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "M K Featherstone"
-    },
-    {
-      "family_name": "Ramagge",
-      "given_name": "Maurice",
-      "id": "3d894654-2b79-4b27-aee5-d358e0d652fc",
-      "identifiers": [
-        {
-          "identifier": "54",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "M Ramagge",
-      "sort_name": "Ramagge, Maurice"
-    },
-    {
-      "id": "7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
-      "identifiers": [
-        {
-          "identifier": "2",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "M Xiberras"
     },
     {
       "family_name": "Costa",
@@ -2252,145 +2114,115 @@
       "sort_name": "Costa, Neil Francis"
     },
     {
-      "family_name": "Montegriffo",
-      "given_name": "Peter Cecil",
-      "id": "15ec896d-058f-4394-b710-0cdc0b2243ef",
-      "identifiers": [
-        {
-          "identifier": "44",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "P C Montegriffo",
-      "sort_name": "Montegriffo, Peter Cecil"
-    },
-    {
-      "family_name": "Cumming",
-      "given_name": "Peter",
-      "id": "7815f922-eb8c-4ff2-b326-58c3e767eb35",
-      "identifiers": [
-        {
-          "identifier": "52",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "P Cumming",
-      "sort_name": "Cumming, Peter"
-    },
-    {
-      "family_name": "Balban",
+      "birth_date": "1967",
+      "family_name": "Garcia",
       "gender": "male",
-      "given_name": "Paul John",
-      "id": "922ff780-b1a4-4478-bbcc-b5279f8fd00d",
+      "given_name": "Joseph",
+      "honorific_prefix": "Dr",
+      "id": "c867c252-ba93-4866-ac1d-bc95458c7346",
       "identifiers": [
         {
-          "identifier": "80",
+          "identifier": "62",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/0n5vl0w",
-          "scheme": "freebase"
+          "identifier": "87450345",
+          "scheme": "viaf"
         },
         {
-          "identifier": "Q3323197",
+          "identifier": "Q1442437",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Joseph_Garcia_portrait.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Joseph_Garcia_portrait.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Paul_Balban"
+          "url": "https://ca.wikipedia.org/wiki/Joseph_Garcia"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Joseph_Garcia"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Paul_Balban"
+          "url": "https://en.wikipedia.org/wiki/Joseph_Garcia_(Gibraltarian_politician)"
         },
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Paul_Balban"
+          "url": "https://es.wikipedia.org/wiki/Joseph_Garcia"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Paul_Balban"
+          "url": "https://fr.wikipedia.org/wiki/Joseph_Garcia_(homme_politique)"
         },
         {
           "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Paul_Balban"
+          "url": "https://gl.wikipedia.org/wiki/Joseph_Garcia"
         },
         {
           "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Paul_Balban"
+          "url": "https://en.wikipedia.org/wiki/Joseph_Garcia_(Gibraltarian_politician)"
         }
       ],
-      "name": "P J Balban",
+      "name": "J J Garcia",
       "other_names": [
         {
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "alternate"
         },
         {
           "lang": "ca",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "multilingual"
         },
         {
           "lang": "de",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "multilingual"
         },
         {
           "lang": "gl",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "multilingual"
         },
         {
           "lang": "hu",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Paul Balban",
+          "name": "Joseph Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джозеф Гарсиа",
           "note": "multilingual"
         }
       ],
-      "sort_name": "Balban, Paul John"
-    },
-    {
-      "id": "8a8d608d-306e-4d1d-9c2a-4bf293221242",
-      "identifiers": [
-        {
-          "identifier": "48",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "P J Brooke"
-    },
-    {
-      "honorific_suffix": "OBE",
-      "id": "fd92cdef-51cc-44d4-8d66-244e0ed3ed09",
-      "identifiers": [
-        {
-          "identifier": "10",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "P J Isola"
+      "sort_name": "Garcia, Joseph John"
     },
     {
       "birth_date": "1956-10-15",
@@ -2580,217 +2412,6 @@
       "sort_name": "Caruana, Peter Richard"
     },
     {
-      "birth_date": "1941-06-09",
-      "death_date": "2009-03-13",
-      "family_name": "Valarino",
-      "gender": "male",
-      "given_name": "Reggie",
-      "honorific_prefix": "Dr.",
-      "id": "d2ddbfac-beb6-4369-9dc6-ca194b57ae99",
-      "identifiers": [
-        {
-          "identifier": "26",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7308321",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Reggie_Valarino"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Reggie_Valarino"
-        }
-      ],
-      "name": "R G Valarino",
-      "other_names": [
-        {
-          "name": "Reggie Valarino",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Reggie Valarino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Reggie Valarino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Reggie Valarino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Reggie Valarino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Reggie Valarino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Reggie Valarino",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Reggie Valarino",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Valarino, Reginald G"
-    },
-    {
-      "honorific_suffix": "CMG QC",
-      "id": "8fa78c82-04a4-483b-a1ab-ec37a7274657",
-      "identifiers": [
-        {
-          "identifier": "20",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "R H Hickling"
-    },
-    {
-      "honorific_prefix": "Major",
-      "id": "6ffe17fb-24d1-4dc3-b44b-068e76baad64",
-      "identifiers": [
-        {
-          "identifier": "1",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "R J Peliza"
-    },
-    {
-      "honorific_suffix": "CMG OBE",
-      "id": "72305a10-40c6-4a21-a993-725316bdf85f",
-      "identifiers": [
-        {
-          "identifier": "30",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "R J Wallace"
-    },
-    {
-      "family_name": "Mor",
-      "given_name": "Robert",
-      "id": "d6b67f2d-6c46-4523-ac19-c6a45b2acb78",
-      "identifiers": [
-        {
-          "identifier": "42",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "R Mor",
-      "sort_name": "Mor, Robert"
-    },
-    {
-      "honorific_suffix": "QC",
-      "id": "bf729a66-c3cb-4838-9a24-0005245edb73",
-      "identifiers": [
-        {
-          "identifier": "64",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "R R Rhoda"
-    },
-    {
-      "family_name": "Linares",
-      "gender": "male",
-      "given_name": "Steven Ernest",
-      "id": "3e3e02a9-07ac-47f9-b314-a57ef22b0ae1",
-      "identifiers": [
-        {
-          "identifier": "66",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3323210",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Steven_Linares.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Steven_Linares.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Steven_Linares"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Steven_Linares"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Steven_Linares"
-        },
-        {
-          "note": "Wikipedia (gl)",
-          "url": "https://gl.wikipedia.org/wiki/Steven_Linares"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Steven_Linares"
-        }
-      ],
-      "name": "S E Linares",
-      "other_names": [
-        {
-          "name": "Steven Linares",
-          "note": "alternate"
-        },
-        {
-          "lang": "ca",
-          "name": "Steven Linares",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Steven Linares",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Steven Linares",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Steven Linares",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Steven Linares",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Steven Linares",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Linares, Steven Ernest"
-    },
-    {
       "family_name": "Sacramento",
       "gender": "female",
       "given_name": "Samantha Jane",
@@ -2873,17 +2494,443 @@
       "sort_name": "Sacramento, Samantha Jane"
     },
     {
-      "family_name": "Figueras",
-      "given_name": "Selwyn Matthew",
-      "id": "a547cb15-fdd3-4dbb-8e87-080cb6881905",
+      "id": "d11f5e1b-3fa5-4e89-b514-634e50bf61ec",
       "identifiers": [
         {
-          "identifier": "83",
+          "identifier": "32",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "S M Figueras",
-      "sort_name": "Figueras, Selwyn Matthew"
+      "name": "A T Loddo"
+    },
+    {
+      "honorific_suffix": "CBE",
+      "id": "d2862063-3c72-4fd8-b18b-47862a120ebb",
+      "identifiers": [
+        {
+          "identifier": "21",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "C J Gomez"
+    },
+    {
+      "birth_date": "1941-06-09",
+      "death_date": "2009-03-13",
+      "family_name": "Valarino",
+      "gender": "male",
+      "given_name": "Reggie",
+      "honorific_prefix": "Dr.",
+      "id": "d2ddbfac-beb6-4369-9dc6-ca194b57ae99",
+      "identifiers": [
+        {
+          "identifier": "26",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7308321",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Reggie_Valarino"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Reggie_Valarino"
+        }
+      ],
+      "name": "R G Valarino",
+      "other_names": [
+        {
+          "name": "Reggie Valarino",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Valarino, Reginald G"
+    },
+    {
+      "id": "d56e145d-2f2b-4646-abcc-fe5d3151a782",
+      "identifiers": [
+        {
+          "identifier": "68",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "F J Vinet"
+    },
+    {
+      "family_name": "Mor",
+      "given_name": "Robert",
+      "id": "d6b67f2d-6c46-4523-ac19-c6a45b2acb78",
+      "identifiers": [
+        {
+          "identifier": "42",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "R Mor",
+      "sort_name": "Mor, Robert"
+    },
+    {
+      "honorific_suffix": "OBE",
+      "id": "d8c09785-a180-477c-aa73-20e82d36a6e0",
+      "identifiers": [
+        {
+          "identifier": "13",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "A P Montegriffo"
+    },
+    {
+      "family_name": "Moss",
+      "given_name": "Joseph Louis",
+      "id": "ddc2f30d-5308-413c-b913-9c3ad5020070",
+      "identifiers": [
+        {
+          "identifier": "43",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "J L Moss",
+      "sort_name": "Moss, Joseph Louis"
+    },
+    {
+      "id": "e0c3dc51-7238-4803-90f8-a8d6c00aa874",
+      "identifiers": [
+        {
+          "identifier": "34",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "G Mascarenhas"
+    },
+    {
+      "id": "e12fc7d6-3e35-471f-b68d-3de4a1352dd5",
+      "identifiers": [
+        {
+          "identifier": "19",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "H J Zammitt"
+    },
+    {
+      "birth_date": "1967-05-26",
+      "family_name": "Feetham",
+      "gender": "male",
+      "given_name": "Daniel",
+      "id": "e3b50e6a-7de7-46ae-ae79-30f6b5a27235",
+      "identifiers": [
+        {
+          "identifier": "73",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5217120",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daniel_Feetham.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daniel_Feetham.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Feetham"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Daniel_Feetham"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Daniel_Feetham"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Feetham"
+        }
+      ],
+      "name": "D A Feetham",
+      "other_names": [
+        {
+          "name": "Daniel Feetham",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Daniel Feetham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Daniel Feetham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Daniel Feetham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Daniel Feetham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Daniel Feetham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Daniel Feetham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "丹尼爾·菲瑟姆",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Feetham, Daniel Anthony"
+    },
+    {
+      "family_name": "Licudi",
+      "gender": "male",
+      "given_name": "Gilbert",
+      "id": "ef223ab5-d5e1-4bc8-8794-913ffb0fb0ff",
+      "identifiers": [
+        {
+          "identifier": "76",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3323259",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gilbert_Licudi,_June_2014.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gilbert_Licudi,_June_2014.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Gilbert_Licudi"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gilbert_Licudi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gilbert_Licudi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gilbert_Licudi"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Gilbert_Licudi"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gilbert_Licudi"
+        }
+      ],
+      "name": "G H Licudi",
+      "other_names": [
+        {
+          "name": "Gilbert Licudi",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Gilbert Licudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Gilbert Licudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gilbert Licudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gilbert Licudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Gilbert Licudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gilbert Licudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gilbert Licudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гилберт Ликуди",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Licudi, Gilbert Horace"
+    },
+    {
+      "family_name": "Montegriffo",
+      "given_name": "Maria Isabel",
+      "honorific_prefix": "Miss",
+      "id": "f12c6767-ea05-4483-9799-e66c7481a874",
+      "identifiers": [
+        {
+          "identifier": "39",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "M I Montegriffo",
+      "sort_name": "Montegriffo, Maria Isabel"
+    },
+    {
+      "family_name": "Reyes",
+      "gender": "male",
+      "given_name": "Edwin",
+      "id": "f49429c6-e660-48a9-b816-4aa03326ac17",
+      "identifiers": [
+        {
+          "identifier": "75",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16735145",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edwin_Reyes"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edwin_Reyes"
+        }
+      ],
+      "name": "E J Reyes",
+      "other_names": [
+        {
+          "name": "Edwin Reyes",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эдвин Рейес",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Reyes, Edwin Joseph"
+    },
+    {
+      "honorific_suffix": "QC",
+      "id": "f99cbedb-111d-4fac-9c72-8332f70f9971",
+      "identifiers": [
+        {
+          "identifier": "47",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "K W Harris"
     },
     {
       "id": "fb143303-a6cc-4cd0-867e-c7bcd4416c82",
@@ -2896,94 +2943,47 @@
       "name": "T J Bristow"
     },
     {
-      "id": "6c093d83-2782-4c2d-8b32-006f85df137f",
+      "id": "fb24caca-894d-4945-bbfe-0fb1a083bec8",
       "identifiers": [
         {
-          "identifier": "5",
+          "identifier": "7",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "W M Isola"
+      "name": "L Devincenzi"
     },
     {
-      "id": "a687282c-ac6f-4b8b-8607-6573d76b997c",
+      "honorific_suffix": "OBE JP",
+      "id": "fc9bbcdc-9ff6-48f4-b062-afb0521d99df",
       "identifiers": [
         {
-          "identifier": "31",
+          "identifier": "14",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "W T Scott"
+      "name": "E J Alvarez"
     },
     {
-      "birth_date": "1957-10-21",
-      "family_name": "Del Agua",
-      "gender": "female",
-      "given_name": "Yvette",
-      "honorific_prefix": "Mrs",
-      "id": "8c79d590-059c-4afd-b639-235253d6df7d",
+      "honorific_suffix": "CMG OBE",
+      "id": "fd8ac78f-7ed0-4973-85d3-8fa941ce423f",
       "identifiers": [
         {
-          "identifier": "63",
+          "identifier": "9",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q13415150",
-          "scheme": "wikidata"
         }
       ],
-      "links": [
+      "name": "E H Davies"
+    },
+    {
+      "honorific_suffix": "OBE",
+      "id": "fd92cdef-51cc-44d4-8d66-244e0ed3ed09",
+      "identifiers": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Yvette_Del_Agua"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Yvette_Del_Agua"
-        },
-        {
-          "note": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Yvette_Del_Agua"
+          "identifier": "10",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Y Del Agua",
-      "other_names": [
-        {
-          "name": "Yvette Del Agua",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Yvette Del Agua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Yvette Del Agua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Yvette Del Agua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Yvette Del Agua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Yvette Del Agua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Yvette Del Agua",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Del Agua, Yvette"
+      "name": "P J Isola"
     }
   ],
   "organizations": [

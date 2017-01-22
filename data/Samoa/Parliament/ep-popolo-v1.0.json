@@ -5,115 +5,109 @@
   "persons": [
     {
       "gender": "male",
-      "id": "a7b580ce-688f-4291-b45d-349baf15e7cc",
+      "id": "02460e46-6e50-4bf6-8d9c-b689464d7935",
       "identifiers": [
         {
-          "identifier": "13",
+          "identifier": "20",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q4646813",
+          "identifier": "Q7128848",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-AEAU-Peniamina-Leavaseeta.png",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-PALUSALUE-Faapo-II.png",
       "images": [
         {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-AEAU-Peniamina-Leavaseeta.png"
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-PALUSALUE-Faapo-II.png"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/A'eau_Peniamina"
+          "url": "https://en.wikipedia.org/wiki/Palusalue_Fa’apo_II"
         }
       ],
-      "name": "A'eau Peniamina",
+      "name": "Palusalue Fa’apo II",
       "other_names": [
         {
-          "name": "Afioga Hon AEAU Peniamina Leavaseeta",
+          "name": "Afioga Hon PALUSALUE Faapo II",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Palusalue Fa’apo II",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "帕盧薩盧埃·法阿波二世",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "09633965-7df4-4c99-8d75-966f880363eb",
+      "identifiers": [
+        {
+          "identifier": "18",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LEAUPEPE-Toleafoa-Apulu-Faafisi.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LEAUPEPE-Toleafoa-Apulu-Faafisi.png"
+        }
+      ],
+      "name": "Toleafoa Apulu Fa'afisi",
+      "other_names": [
+        {
+          "name": "Afioga Hon LEAUPEPE Toleafoa Apulu Faafisi",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "0b04ac30-00e3-4eb3-af33-ef0232a7e7c4",
+      "identifiers": [
+        {
+          "identifier": "52",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16731362",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEFAU-Harry-Schuster.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEFAU-Harry-Schuster.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lefau_Harry_Schuster"
+        }
+      ],
+      "name": "Lefau Harry Schuster",
+      "other_names": [
+        {
+          "name": "Tofa LEFAU Harry Schuster",
           "note": "alternate"
         },
         {
           "lang": "de",
-          "name": "A'eau Peniamina",
+          "name": "Lefau Harry Schuster",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "A'eau Peniamina",
+          "name": "Lefau Harry Schuster",
           "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "A'eau Peniamina",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "fd9e86c3-d75e-4a77-803d-d4e9e5e6a648",
-      "identifiers": [
-        {
-          "identifier": "11",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFOAFOUVALE-John-Moors.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFOAFOUVALE-John-Moors.png"
-        }
-      ],
-      "name": "Afoafouvale John Moors",
-      "other_names": [
-        {
-          "name": "Afioga AFOAFOUVALE John Moors",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "402dc92d-cfdd-4bdd-aa8d-362d7ab31519",
-      "identifiers": [
-        {
-          "identifier": "12",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFUALO-Dr-Wood-Uti-Salele.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFUALO-Dr-Wood-Uti-Salele.png"
-        }
-      ],
-      "name": "Afualo Wood Salele",
-      "other_names": [
-        {
-          "name": "Afioga AFUALO Dr Wood Uti Salele",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "5bac774f-fe30-49b3-bf2d-b4ec7fe6ca85",
-      "identifiers": [
-        {
-          "identifier": "42",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-AGAFILI-Patisela-Eteuati-Tolovaa.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-AGAFILI-Patisela-Eteuati-Tolovaa.png"
-        }
-      ],
-      "name": "Agafili Patisela Eteuati Tolovaa",
-      "other_names": [
-        {
-          "name": "Tofa AGAFILI Patisela Eteuati Tolovaa",
-          "note": "alternate"
         }
       ]
     },
@@ -126,6 +120,16 @@
         }
       ],
       "name": "Alaiasa Filipo Schwarts Hunt"
+    },
+    {
+      "id": "1cf153c4-0e40-4a05-974e-3954a2c21d0c",
+      "identifiers": [
+        {
+          "identifier": "taua_kitiona_seuala",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Taua Kitiona Seuala"
     },
     {
       "gender": "male",
@@ -172,28 +176,6 @@
           "lang": "nl",
           "name": "Aveau Niko Palamo",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "783157cd-27ee-4c26-9f51-cfe5ca8a390d",
-      "identifiers": [
-        {
-          "identifier": "148",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-Faamoetauloa-Ulaitino-Faale.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-Faamoetauloa-Ulaitino-Faale.jpg"
-        }
-      ],
-      "name": "Faamoetauloa Ulaitino Faale Tumaalii",
-      "other_names": [
-        {
-          "name": "Tofa-Hon-Faamoetauloa-Ulaitino-Faale",
-          "note": "alternate"
         }
       ]
     },
@@ -255,6 +237,642 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "2baa7871-c9bc-4a41-a0d8-bc9131dfc7db",
+      "identifiers": [
+        {
+          "identifier": "92",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAFUA-Maluelue-Tafua.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAFUA-Maluelue-Tafua.jpg"
+        }
+      ],
+      "name": "Tafua Maluelue Tafua",
+      "other_names": [
+        {
+          "name": "Afioga-TAFUA-Maluelue-Tafua",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "2f07a2c1-3e4f-4ad5-ba1b-99e65fea73c4",
+      "identifiers": [
+        {
+          "identifier": "33",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_Hon_MANU_ALESAGALALA_Enokati_Posala.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_Hon_MANU_ALESAGALALA_Enokati_Posala.png"
+        }
+      ],
+      "name": "Manualesagalala Enokati Posala",
+      "other_names": [
+        {
+          "name": "Afioga_Hon_MANU_ALESAGALALA_Enokati_Posala",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "396775e0-f723-414f-98b9-e64b12c3c3a7",
+      "identifiers": [
+        {
+          "identifier": "tavui_tiafau_tafu_salevao",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tavui Tiafau Tafu Salevao"
+    },
+    {
+      "id": "402dc92d-cfdd-4bdd-aa8d-362d7ab31519",
+      "identifiers": [
+        {
+          "identifier": "12",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFUALO-Dr-Wood-Uti-Salele.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFUALO-Dr-Wood-Uti-Salele.png"
+        }
+      ],
+      "name": "Afualo Wood Salele",
+      "other_names": [
+        {
+          "name": "Afioga AFUALO Dr Wood Uti Salele",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "41e8bc19-3d37-40dc-a9d8-424b64c241b9",
+      "identifiers": [
+        {
+          "identifier": "21",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-SALA-Fata-Lisati-Pinati.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-SALA-Fata-Lisati-Pinati.png"
+        }
+      ],
+      "name": "Sala Fata Pinati",
+      "other_names": [
+        {
+          "name": "Afioga Hon SALA Fata Lisati Pinati",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "483f49b8-1baa-4843-a7f7-78eefe1fd4de",
+      "identifiers": [
+        {
+          "identifier": "50",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7857077",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUUU-Anasii-Leota.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUUU-Anasii-Leota.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tuu'u_Anasi'i_Leota"
+        }
+      ],
+      "name": "Tuu'u Anasi'i Leota",
+      "other_names": [
+        {
+          "name": "Tofa Hon TUUU Anasii Leota",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Tuu'u Anasi'i Leota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tuu'u Anasi'i Leota",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "489c3deb-4306-4360-be9d-b0cbcf175f35",
+      "identifiers": [
+        {
+          "identifier": "23",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16886220",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUITAMA-Talalelei-Tuitama.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUITAMA-Talalelei-Tuitama.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tuitama_Talalelei_Tuitama"
+        }
+      ],
+      "name": "Tuitama Talalelei Tuitama",
+      "other_names": [
+        {
+          "name": "Afioga Hon TUITAMA Talalelei Tuitama",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Tuitama Talalelei Tuitama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tuitama Talalelei Tuitama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tuitama Talalelei Tuitama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tuitama Talalelei Tuitama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tuitama Talalelei Tuitama",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "5298bd78-c65d-4285-a73b-75c6a7b4a9b1",
+      "identifiers": [
+        {
+          "identifier": "26",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-MAUALAIVAO-Pat-Ah-Him.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-MAUALAIVAO-Pat-Ah-Him.png"
+        }
+      ],
+      "name": "Maualaivao Pat Ah Him",
+      "other_names": [
+        {
+          "name": "Afioga MAUALAIVAO Pat Ah Him",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "593001b6-41ee-4d36-9e10-1310ae6b9095",
+      "identifiers": [
+        {
+          "identifier": "53",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LENATAI-Victor-Faafoi-Tamapua.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LENATAI-Victor-Faafoi-Tamapua.png"
+        }
+      ],
+      "name": "Lenatai Victor Faafoi Tamapua",
+      "other_names": [
+        {
+          "name": "Tofa LENATAI Victor Faafoi Tamapua",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "5bac774f-fe30-49b3-bf2d-b4ec7fe6ca85",
+      "identifiers": [
+        {
+          "identifier": "42",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-AGAFILI-Patisela-Eteuati-Tolovaa.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-AGAFILI-Patisela-Eteuati-Tolovaa.png"
+        }
+      ],
+      "name": "Agafili Patisela Eteuati Tolovaa",
+      "other_names": [
+        {
+          "name": "Tofa AGAFILI Patisela Eteuati Tolovaa",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "5cc2b179-e28d-402c-ab8d-19e410aafccf",
+      "identifiers": [
+        {
+          "identifier": "39",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-IFOPO-Matia-Filisi.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-IFOPO-Matia-Filisi.png"
+        }
+      ],
+      "name": "Ifopo Matia Filisi",
+      "other_names": [
+        {
+          "name": "Susuga IFOPO Matia Filisi",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "5d6defdb-a03d-4f5d-b65d-584912ab6d15",
+      "identifiers": [
+        {
+          "identifier": "Q7907779",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7907779",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Va'ai_Papu_Vailupe"
+        }
+      ],
+      "name": "Va'ai Papu Vailupe",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Va'ai Papu Vailupe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Va'ai Papu Vailupe",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "648f12cc-5b2a-456d-bed5-4d51e427a440",
+      "identifiers": [
+        {
+          "identifier": "30",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TIALAVEA-Fea-Tionisio-Seigafolava.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TIALAVEA-Fea-Tionisio-Seigafolava.png"
+        }
+      ],
+      "name": "Tialavea Fea Tionisio Seigafolava",
+      "other_names": [
+        {
+          "name": "Afioga TIALAVEA Fea Tionisio Seigafolava",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "6c6bcf31-039c-4bfc-8e6b-96f95f3f6d0f",
+      "identifiers": [
+        {
+          "identifier": "27",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-PESETA-Vaifou-Tevaga.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-PESETA-Vaifou-Tevaga.png"
+        }
+      ],
+      "name": "Peseta Vaifou Tevaga",
+      "other_names": [
+        {
+          "name": "Afioga PESETA Vaifou Tevaga",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "7055ba67-1a47-47aa-8f10-a0e6f7dd3070",
+      "identifiers": [
+        {
+          "identifier": "49",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUILOMA-Lameko.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUILOMA-Lameko.png"
+        }
+      ],
+      "name": "Tuiloma Lameko",
+      "other_names": [
+        {
+          "name": "Tofa Hon TUILOMA Lameko",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "716e028d-10dc-4d41-9f2f-35266ada81c4",
+      "identifiers": [
+        {
+          "identifier": "35",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_TOESULUSULU_Cedric_Pose_Salesa_Schuster.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_TOESULUSULU_Cedric_Pose_Salesa_Schuster.png"
+        }
+      ],
+      "name": "Toeolesulusulu Cedric Schuster",
+      "other_names": [
+        {
+          "name": "Afioga_TOESULUSULU_Cedric_Pose_Salesa_Schuster",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "74e820b5-e901-4edb-93c4-606250cf658b",
+      "identifiers": [
+        {
+          "identifier": "16",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5527465",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-GATOLOAIFAANA-Amataga-Alesana-Gidlow.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-GATOLOAIFAANA-Amataga-Alesana-Gidlow.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gatoloaifaana_Amataga_Alesana-Gidlow"
+        }
+      ],
+      "name": "Gatoloaifaana Amataga Alesana-Gidlow",
+      "other_names": [
+        {
+          "name": "Afioga Hon GATOLOAIFAANA Amataga Alesana Gidlow",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gatoloaifaana Amataga Alesana-Gidlow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gatoloaifaana Amataga Alesana-Gidlow",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "7717a17d-c721-4ad1-9a55-3ec1de76ef03",
+      "identifiers": [
+        {
+          "identifier": "19",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-MAGELE-Mauiliu-Magele.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-MAGELE-Mauiliu-Magele.png"
+        }
+      ],
+      "name": "Magele Mauiliu Magele",
+      "other_names": [
+        {
+          "name": "Afioga Hon MAGELE Mauiliu Magele",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "783157cd-27ee-4c26-9f51-cfe5ca8a390d",
+      "identifiers": [
+        {
+          "identifier": "148",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-Faamoetauloa-Ulaitino-Faale.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-Faamoetauloa-Ulaitino-Faale.jpg"
+        }
+      ],
+      "name": "Faamoetauloa Ulaitino Faale Tumaalii",
+      "other_names": [
+        {
+          "name": "Tofa-Hon-Faamoetauloa-Ulaitino-Faale",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "79f4c847-b757-4889-a5d0-8550003841da",
+      "identifiers": [
+        {
+          "identifier": "48",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7814479",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TOLOFUAIVALELEI-Falemoe-Leiataua.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TOLOFUAIVALELEI-Falemoe-Leiataua.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tolofuaivalelei_Falemoe_Lei’ataua"
+        }
+      ],
+      "name": "Tolofuaivalelei Falemoe Lei’ataua",
+      "other_names": [
+        {
+          "name": "Tofa Hon TOLOFUAIVALELEI Falemoe Leiataua",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Tolofuaivalelei Falemoe Lei’ataua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tolofuaivalelei Falemoe Lei’ataua",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "7f5c414c-7b04-4e93-8258-bc88f263af4c",
+      "identifiers": [
+        {
+          "identifier": "32",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TUISA-Tasi-Patea.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TUISA-Tasi-Patea.png"
+        }
+      ],
+      "name": "Tuisa Tasi Patea",
+      "other_names": [
+        {
+          "name": "Afioga TUISA Tasi Patea",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "8436bed1-531e-4b80-9a38-71cd4b443f80",
+      "identifiers": [
+        {
+          "identifier": "55",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-MOTUOPUAA-Uifagasa-Aisoli-Vaai.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-MOTUOPUAA-Uifagasa-Aisoli-Vaai.png"
+        }
+      ],
+      "name": "Motuopuaa Uifagasa Aisoli",
+      "other_names": [
+        {
+          "name": "Tofa MOTUOPUAA Uifagasa Aisoli Vaai",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "847d35b8-f79b-4bb5-b061-cff264f380a5",
+      "identifiers": [
+        {
+          "identifier": "47",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-FONOTOE-Nuafesili-Pierre-Lauofo.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-FONOTOE-Nuafesili-Pierre-Lauofo.png"
+        }
+      ],
+      "name": "Fonotoe Pierre Lauofo",
+      "other_names": [
+        {
+          "name": "Tofa Hon FONOTOE Nuafesili Pierre Lauofo",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "8c8a1c82-bece-4bc5-86e0-c2a1009c92be",
+      "identifiers": [
+        {
+          "identifier": "24",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-LAFAITELE-Patrick-Leiataualesa.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-LAFAITELE-Patrick-Leiataualesa.png"
+        }
+      ],
+      "name": "Lafaitele Patrick Leiataualesa",
+      "other_names": [
+        {
+          "name": "Afioga LAFAITELE Patrick Leiataualesa",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "932ae275-24c7-4e0c-9948-4268358d9924",
+      "identifiers": [
+        {
+          "identifier": "tuilo'a_anitelea",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tuilo'a Anitelea"
     },
     {
       "gender": "female",
@@ -329,434 +947,115 @@
       ]
     },
     {
-      "id": "847d35b8-f79b-4bb5-b061-cff264f380a5",
+      "id": "a52f89cb-cd48-4a80-a179-95e29d6fe077",
       "identifiers": [
         {
-          "identifier": "47",
+          "identifier": "57",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-FONOTOE-Nuafesili-Pierre-Lauofo.png",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TAPUAI-Toese-Ah-Sam.png",
       "images": [
         {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-FONOTOE-Nuafesili-Pierre-Lauofo.png"
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TAPUAI-Toese-Ah-Sam.png"
         }
       ],
-      "name": "Fonotoe Pierre Lauofo",
+      "name": "Tapuai Toese Ah Sam",
       "other_names": [
         {
-          "name": "Tofa Hon FONOTOE Nuafesili Pierre Lauofo",
+          "name": "Tofa TAPUAI Toese Ah Sam",
           "note": "alternate"
         }
       ]
     },
     {
-      "gender": "female",
-      "id": "74e820b5-e901-4edb-93c4-606250cf658b",
+      "gender": "male",
+      "id": "a7b580ce-688f-4291-b45d-349baf15e7cc",
       "identifiers": [
         {
-          "identifier": "16",
+          "identifier": "13",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q5527465",
+          "identifier": "Q4646813",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-GATOLOAIFAANA-Amataga-Alesana-Gidlow.png",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-AEAU-Peniamina-Leavaseeta.png",
       "images": [
         {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-GATOLOAIFAANA-Amataga-Alesana-Gidlow.png"
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-AEAU-Peniamina-Leavaseeta.png"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Gatoloaifaana_Amataga_Alesana-Gidlow"
+          "url": "https://en.wikipedia.org/wiki/A'eau_Peniamina"
         }
       ],
-      "name": "Gatoloaifaana Amataga Alesana-Gidlow",
+      "name": "A'eau Peniamina",
       "other_names": [
         {
-          "name": "Afioga Hon GATOLOAIFAANA Amataga Alesana Gidlow",
+          "name": "Afioga Hon AEAU Peniamina Leavaseeta",
           "note": "alternate"
         },
         {
+          "lang": "de",
+          "name": "A'eau Peniamina",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
-          "name": "Gatoloaifaana Amataga Alesana-Gidlow",
+          "name": "A'eau Peniamina",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Gatoloaifaana Amataga Alesana-Gidlow",
+          "name": "A'eau Peniamina",
           "note": "multilingual"
         }
       ]
     },
     {
-      "id": "5cc2b179-e28d-402c-ab8d-19e410aafccf",
+      "id": "a9a375b7-10e4-40a3-b77d-cac1a5dfc509",
       "identifiers": [
         {
-          "identifier": "39",
+          "identifier": "60",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-IFOPO-Matia-Filisi.png",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TUSA-Misi-Tupuola.png",
       "images": [
         {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-IFOPO-Matia-Filisi.png"
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TUSA-Misi-Tupuola.png"
         }
       ],
-      "name": "Ifopo Matia Filisi",
+      "name": "Tusa Misi Tupuola",
       "other_names": [
         {
-          "name": "Susuga IFOPO Matia Filisi",
+          "name": "Tofa TUSA Misi Tupuola",
           "note": "alternate"
         }
       ]
     },
     {
-      "gender": "male",
-      "id": "efb832aa-8f11-4721-a211-6ebd23051d72",
+      "id": "b074df8c-7999-4d2a-adc8-81a43a76a713",
       "identifiers": [
         {
-          "identifier": "37",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16734600",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-LAAULI-Leuatea-Polataivao-Fosi-Schmidt.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-LAAULI-Leuatea-Polataivao-Fosi-Schmidt.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Laauli_Leuatea_Polataivao"
-        }
-      ],
-      "name": "Laauli Leuatea Polataivao",
-      "other_names": [
-        {
-          "name": "Susuga Hon LAAULI Leuatea Polataivao Fosi Schmidt",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Laauli Leuatea Polataivao",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Laauli Leuatea Polataivao",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Laauli Leuatea Polataivao",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "8c8a1c82-bece-4bc5-86e0-c2a1009c92be",
-      "identifiers": [
-        {
-          "identifier": "24",
+          "identifier": "22",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-LAFAITELE-Patrick-Leiataualesa.png",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUISUGALETAUA-Sofara-Aveau.png",
       "images": [
         {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-LAFAITELE-Patrick-Leiataualesa.png"
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUISUGALETAUA-Sofara-Aveau.png"
         }
       ],
-      "name": "Lafaitele Patrick Leiataualesa",
+      "name": "Tuisugaletaua Sofara Aveau",
       "other_names": [
         {
-          "name": "Afioga LAFAITELE Patrick Leiataualesa",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "daeec189-8ce8-4aa8-ac83-60bf6ec9ef49",
-      "identifiers": [
-        {
-          "identifier": "17",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16875144",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LE-MAMEA-Ropati.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LE-MAMEA-Ropati.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Le_Mamea_Ropati"
-        }
-      ],
-      "name": "Le Mamea Ropati",
-      "other_names": [
-        {
-          "name": "Afioga Hon LE MAMEA Ropati",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Le Mamea Ropati",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Le Mamea Ropati",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Le Mamea Ropati",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "d21b7fae-8fe8-41e9-88ef-498ce253eaf6",
-      "identifiers": [
-        {
-          "identifier": "51",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6509359",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEALAILEPULE-Rimoni-Aiafi.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEALAILEPULE-Rimoni-Aiafi.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Lealailepule_Rimoni_Aiafi"
-        }
-      ],
-      "name": "Lealailepule Rimoni Aiafi",
-      "other_names": [
-        {
-          "name": "Tofa LEALAILEPULE Rimoni Aiafi",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Lealailepule Rimoni Aiafi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Lealailepule Rimoni Aiafi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Lealailepule Rimoni Aiafi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Lealailepule Rimoni Aiafi",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "0b04ac30-00e3-4eb3-af33-ef0232a7e7c4",
-      "identifiers": [
-        {
-          "identifier": "52",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16731362",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEFAU-Harry-Schuster.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEFAU-Harry-Schuster.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Lefau_Harry_Schuster"
-        }
-      ],
-      "name": "Lefau Harry Schuster",
-      "other_names": [
-        {
-          "name": "Tofa LEFAU Harry Schuster",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Lefau Harry Schuster",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Lefau Harry Schuster",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "593001b6-41ee-4d36-9e10-1310ae6b9095",
-      "identifiers": [
-        {
-          "identifier": "53",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LENATAI-Victor-Faafoi-Tamapua.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LENATAI-Victor-Faafoi-Tamapua.png"
-        }
-      ],
-      "name": "Lenatai Victor Faafoi Tamapua",
-      "other_names": [
-        {
-          "name": "Tofa LENATAI Victor Faafoi Tamapua",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "c9559990-97d6-43c4-813e-b42df92a0bb1",
-      "identifiers": [
-        {
-          "identifier": "54",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEVAOPOLO-Talatonu.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEVAOPOLO-Talatonu.png"
-        }
-      ],
-      "name": "Levaopolo Talatonu Va’ai",
-      "other_names": [
-        {
-          "name": "Tofa LEVAOPOLO Talatonu",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "7717a17d-c721-4ad1-9a55-3ec1de76ef03",
-      "identifiers": [
-        {
-          "identifier": "19",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-MAGELE-Mauiliu-Magele.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-MAGELE-Mauiliu-Magele.png"
-        }
-      ],
-      "name": "Magele Mauiliu Magele",
-      "other_names": [
-        {
-          "name": "Afioga Hon MAGELE Mauiliu Magele",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "2f07a2c1-3e4f-4ad5-ba1b-99e65fea73c4",
-      "identifiers": [
-        {
-          "identifier": "33",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_Hon_MANU_ALESAGALALA_Enokati_Posala.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_Hon_MANU_ALESAGALALA_Enokati_Posala.png"
-        }
-      ],
-      "name": "Manualesagalala Enokati Posala",
-      "other_names": [
-        {
-          "name": "Afioga_Hon_MANU_ALESAGALALA_Enokati_Posala",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "5298bd78-c65d-4285-a73b-75c6a7b4a9b1",
-      "identifiers": [
-        {
-          "identifier": "26",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-MAUALAIVAO-Pat-Ah-Him.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-MAUALAIVAO-Pat-Ah-Him.png"
-        }
-      ],
-      "name": "Maualaivao Pat Ah Him",
-      "other_names": [
-        {
-          "name": "Afioga MAUALAIVAO Pat Ah Him",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "8436bed1-531e-4b80-9a38-71cd4b443f80",
-      "identifiers": [
-        {
-          "identifier": "55",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-MOTUOPUAA-Uifagasa-Aisoli-Vaai.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-MOTUOPUAA-Uifagasa-Aisoli-Vaai.png"
-        }
-      ],
-      "name": "Motuopuaa Uifagasa Aisoli",
-      "other_names": [
-        {
-          "name": "Tofa MOTUOPUAA Uifagasa Aisoli Vaai",
+          "name": "Afioga Hon TUISUGALETAUA Sofara Aveau",
           "note": "alternate"
         }
       ]
@@ -795,373 +1094,6 @@
         {
           "lang": "it",
           "name": "Muagututagata Peter Ah Him",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "given_name": "Niko",
-      "id": "f58658bd-d3ad-4631-9c3c-004ca10f0a76",
-      "identifiers": [
-        {
-          "identifier": "38",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q11041329",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-PAPALIITELE-Niko-Lee-Hang.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-PAPALIITELE-Niko-Lee-Hang.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Niko_Lee_Hang"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/尼科·李航"
-        }
-      ],
-      "name": "Niko Lee Hang",
-      "other_names": [
-        {
-          "name": "Susuga Hon PAPALIITELE Niko Lee Hang",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Niko Lee Hang",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Niko Lee Hang",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "尼科·李航",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "02460e46-6e50-4bf6-8d9c-b689464d7935",
-      "identifiers": [
-        {
-          "identifier": "20",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7128848",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-PALUSALUE-Faapo-II.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-PALUSALUE-Faapo-II.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Palusalue_Fa’apo_II"
-        }
-      ],
-      "name": "Palusalue Fa’apo II",
-      "other_names": [
-        {
-          "name": "Afioga Hon PALUSALUE Faapo II",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Palusalue Fa’apo II",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "帕盧薩盧埃·法阿波二世",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "c2730266-575e-400f-b089-a0bc0a2a2810",
-      "identifiers": [
-        {
-          "identifier": "papali’i_li’o_taeu_masipau_tuilagi",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Papali’i Li’o Taeu Masipau Tuilagi"
-    },
-    {
-      "id": "6c6bcf31-039c-4bfc-8e6b-96f95f3f6d0f",
-      "identifiers": [
-        {
-          "identifier": "27",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-PESETA-Vaifou-Tevaga.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-PESETA-Vaifou-Tevaga.png"
-        }
-      ],
-      "name": "Peseta Vaifou Tevaga",
-      "other_names": [
-        {
-          "name": "Afioga PESETA Vaifou Tevaga",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "41e8bc19-3d37-40dc-a9d8-424b64c241b9",
-      "identifiers": [
-        {
-          "identifier": "21",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-SALA-Fata-Lisati-Pinati.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-SALA-Fata-Lisati-Pinati.png"
-        }
-      ],
-      "name": "Sala Fata Pinati",
-      "other_names": [
-        {
-          "name": "Afioga Hon SALA Fata Lisati Pinati",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "f5de07b8-2ee0-4f2f-af44-b89635cc7f17",
-      "identifiers": [
-        {
-          "identifier": "56",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-SOOALO-Mene.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-SOOALO-Mene.png"
-        }
-      ],
-      "name": "So'oalo Mene",
-      "other_names": [
-        {
-          "name": "Tofa SOOALO Mene",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "c8450a55-6a7e-4f8f-9e5b-fe1b27627709",
-      "identifiers": [
-        {
-          "identifier": "28",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAEFU-Lemi.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAEFU-Lemi.png"
-        }
-      ],
-      "name": "Taefu Lemi",
-      "other_names": [
-        {
-          "name": "Afioga TAEFU Lemi",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "2baa7871-c9bc-4a41-a0d8-bc9131dfc7db",
-      "identifiers": [
-        {
-          "identifier": "92",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAFUA-Maluelue-Tafua.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAFUA-Maluelue-Tafua.jpg"
-        }
-      ],
-      "name": "Tafua Maluelue Tafua",
-      "other_names": [
-        {
-          "name": "Afioga-TAFUA-Maluelue-Tafua",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "a52f89cb-cd48-4a80-a179-95e29d6fe077",
-      "identifiers": [
-        {
-          "identifier": "57",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TAPUAI-Toese-Ah-Sam.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TAPUAI-Toese-Ah-Sam.png"
-        }
-      ],
-      "name": "Tapuai Toese Ah Sam",
-      "other_names": [
-        {
-          "name": "Tofa TAPUAI Toese Ah Sam",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "1cf153c4-0e40-4a05-974e-3954a2c21d0c",
-      "identifiers": [
-        {
-          "identifier": "taua_kitiona_seuala",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Taua Kitiona Seuala"
-    },
-    {
-      "id": "396775e0-f723-414f-98b9-e64b12c3c3a7",
-      "identifiers": [
-        {
-          "identifier": "tavui_tiafau_tafu_salevao",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Tavui Tiafau Tafu Salevao"
-    },
-    {
-      "id": "648f12cc-5b2a-456d-bed5-4d51e427a440",
-      "identifiers": [
-        {
-          "identifier": "30",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TIALAVEA-Fea-Tionisio-Seigafolava.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TIALAVEA-Fea-Tionisio-Seigafolava.png"
-        }
-      ],
-      "name": "Tialavea Fea Tionisio Seigafolava",
-      "other_names": [
-        {
-          "name": "Afioga TIALAVEA Fea Tionisio Seigafolava",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "716e028d-10dc-4d41-9f2f-35266ada81c4",
-      "identifiers": [
-        {
-          "identifier": "35",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_TOESULUSULU_Cedric_Pose_Salesa_Schuster.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga_TOESULUSULU_Cedric_Pose_Salesa_Schuster.png"
-        }
-      ],
-      "name": "Toeolesulusulu Cedric Schuster",
-      "other_names": [
-        {
-          "name": "Afioga_TOESULUSULU_Cedric_Pose_Salesa_Schuster",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "09633965-7df4-4c99-8d75-966f880363eb",
-      "identifiers": [
-        {
-          "identifier": "18",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LEAUPEPE-Toleafoa-Apulu-Faafisi.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LEAUPEPE-Toleafoa-Apulu-Faafisi.png"
-        }
-      ],
-      "name": "Toleafoa Apulu Fa'afisi",
-      "other_names": [
-        {
-          "name": "Afioga Hon LEAUPEPE Toleafoa Apulu Faafisi",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "79f4c847-b757-4889-a5d0-8550003841da",
-      "identifiers": [
-        {
-          "identifier": "48",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7814479",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TOLOFUAIVALELEI-Falemoe-Leiataua.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TOLOFUAIVALELEI-Falemoe-Leiataua.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tolofuaivalelei_Falemoe_Lei’ataua"
-        }
-      ],
-      "name": "Tolofuaivalelei Falemoe Lei’ataua",
-      "other_names": [
-        {
-          "name": "Tofa Hon TOLOFUAIVALELEI Falemoe Leiataua",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Tolofuaivalelei Falemoe Lei’ataua",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Tolofuaivalelei Falemoe Lei’ataua",
           "note": "multilingual"
         }
       ]
@@ -1479,6 +1411,161 @@
       ]
     },
     {
+      "id": "c2730266-575e-400f-b089-a0bc0a2a2810",
+      "identifiers": [
+        {
+          "identifier": "papali’i_li’o_taeu_masipau_tuilagi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Papali’i Li’o Taeu Masipau Tuilagi"
+    },
+    {
+      "id": "c8450a55-6a7e-4f8f-9e5b-fe1b27627709",
+      "identifiers": [
+        {
+          "identifier": "28",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAEFU-Lemi.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TAEFU-Lemi.png"
+        }
+      ],
+      "name": "Taefu Lemi",
+      "other_names": [
+        {
+          "name": "Afioga TAEFU Lemi",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "c9559990-97d6-43c4-813e-b42df92a0bb1",
+      "identifiers": [
+        {
+          "identifier": "54",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEVAOPOLO-Talatonu.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEVAOPOLO-Talatonu.png"
+        }
+      ],
+      "name": "Levaopolo Talatonu Va’ai",
+      "other_names": [
+        {
+          "name": "Tofa LEVAOPOLO Talatonu",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "d21b7fae-8fe8-41e9-88ef-498ce253eaf6",
+      "identifiers": [
+        {
+          "identifier": "51",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6509359",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEALAILEPULE-Rimoni-Aiafi.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-LEALAILEPULE-Rimoni-Aiafi.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lealailepule_Rimoni_Aiafi"
+        }
+      ],
+      "name": "Lealailepule Rimoni Aiafi",
+      "other_names": [
+        {
+          "name": "Tofa LEALAILEPULE Rimoni Aiafi",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Lealailepule Rimoni Aiafi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lealailepule Rimoni Aiafi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Lealailepule Rimoni Aiafi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lealailepule Rimoni Aiafi",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "daeec189-8ce8-4aa8-ac83-60bf6ec9ef49",
+      "identifiers": [
+        {
+          "identifier": "17",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16875144",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LE-MAMEA-Ropati.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-LE-MAMEA-Ropati.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Le_Mamea_Ropati"
+        }
+      ],
+      "name": "Le Mamea Ropati",
+      "other_names": [
+        {
+          "name": "Afioga Hon LE MAMEA Ropati",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Le Mamea Ropati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Le Mamea Ropati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Le Mamea Ropati",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "id": "ebe9b377-6480-440c-88e6-e7ef4a3cbc4a",
       "identifiers": [
         {
@@ -1501,234 +1588,147 @@
       ]
     },
     {
-      "id": "932ae275-24c7-4e0c-9948-4268358d9924",
-      "identifiers": [
-        {
-          "identifier": "tuilo'a_anitelea",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Tuilo'a Anitelea"
-    },
-    {
-      "id": "7055ba67-1a47-47aa-8f10-a0e6f7dd3070",
-      "identifiers": [
-        {
-          "identifier": "49",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUILOMA-Lameko.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUILOMA-Lameko.png"
-        }
-      ],
-      "name": "Tuiloma Lameko",
-      "other_names": [
-        {
-          "name": "Tofa Hon TUILOMA Lameko",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "7f5c414c-7b04-4e93-8258-bc88f263af4c",
-      "identifiers": [
-        {
-          "identifier": "32",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TUISA-Tasi-Patea.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-TUISA-Tasi-Patea.png"
-        }
-      ],
-      "name": "Tuisa Tasi Patea",
-      "other_names": [
-        {
-          "name": "Afioga TUISA Tasi Patea",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "id": "b074df8c-7999-4d2a-adc8-81a43a76a713",
-      "identifiers": [
-        {
-          "identifier": "22",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUISUGALETAUA-Sofara-Aveau.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUISUGALETAUA-Sofara-Aveau.png"
-        }
-      ],
-      "name": "Tuisugaletaua Sofara Aveau",
-      "other_names": [
-        {
-          "name": "Afioga Hon TUISUGALETAUA Sofara Aveau",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
       "gender": "male",
-      "id": "489c3deb-4306-4360-be9d-b0cbcf175f35",
+      "id": "efb832aa-8f11-4721-a211-6ebd23051d72",
       "identifiers": [
         {
-          "identifier": "23",
+          "identifier": "37",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q16886220",
+          "identifier": "Q16734600",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUITAMA-Talalelei-Tuitama.png",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-LAAULI-Leuatea-Polataivao-Fosi-Schmidt.png",
       "images": [
         {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-TUITAMA-Talalelei-Tuitama.png"
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-LAAULI-Leuatea-Polataivao-Fosi-Schmidt.png"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tuitama_Talalelei_Tuitama"
+          "url": "https://en.wikipedia.org/wiki/Laauli_Leuatea_Polataivao"
         }
       ],
-      "name": "Tuitama Talalelei Tuitama",
+      "name": "Laauli Leuatea Polataivao",
       "other_names": [
         {
-          "name": "Afioga Hon TUITAMA Talalelei Tuitama",
+          "name": "Susuga Hon LAAULI Leuatea Polataivao Fosi Schmidt",
           "note": "alternate"
         },
         {
           "lang": "de",
-          "name": "Tuitama Talalelei Tuitama",
+          "name": "Laauli Leuatea Polataivao",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Tuitama Talalelei Tuitama",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tuitama Talalelei Tuitama",
+          "name": "Laauli Leuatea Polataivao",
           "note": "multilingual"
         },
         {
           "lang": "it",
-          "name": "Tuitama Talalelei Tuitama",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Tuitama Talalelei Tuitama",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "a9a375b7-10e4-40a3-b77d-cac1a5dfc509",
-      "identifiers": [
-        {
-          "identifier": "60",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TUSA-Misi-Tupuola.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-TUSA-Misi-Tupuola.png"
-        }
-      ],
-      "name": "Tusa Misi Tupuola",
-      "other_names": [
-        {
-          "name": "Tofa TUSA Misi Tupuola",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "483f49b8-1baa-4843-a7f7-78eefe1fd4de",
-      "identifiers": [
-        {
-          "identifier": "50",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7857077",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUUU-Anasii-Leota.png",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-Hon-TUUU-Anasii-Leota.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tuu'u_Anasi'i_Leota"
-        }
-      ],
-      "name": "Tuu'u Anasi'i Leota",
-      "other_names": [
-        {
-          "name": "Tofa Hon TUUU Anasii Leota",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Tuu'u Anasi'i Leota",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Tuu'u Anasi'i Leota",
+          "name": "Laauli Leuatea Polataivao",
           "note": "multilingual"
         }
       ]
     },
     {
       "gender": "male",
-      "id": "5d6defdb-a03d-4f5d-b65d-584912ab6d15",
+      "given_name": "Niko",
+      "id": "f58658bd-d3ad-4631-9c3c-004ca10f0a76",
       "identifiers": [
         {
-          "identifier": "Q7907779",
+          "identifier": "38",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q7907779",
+          "identifier": "Q11041329",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-PAPALIITELE-Niko-Lee-Hang.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-PAPALIITELE-Niko-Lee-Hang.png"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Va'ai_Papu_Vailupe"
+          "url": "https://en.wikipedia.org/wiki/Niko_Lee_Hang"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/尼科·李航"
         }
       ],
-      "name": "Va'ai Papu Vailupe",
+      "name": "Niko Lee Hang",
       "other_names": [
         {
+          "name": "Susuga Hon PAPALIITELE Niko Lee Hang",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
-          "name": "Va'ai Papu Vailupe",
+          "name": "Niko Lee Hang",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Va'ai Papu Vailupe",
+          "name": "Niko Lee Hang",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼科·李航",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "f5de07b8-2ee0-4f2f-af44-b89635cc7f17",
+      "identifiers": [
+        {
+          "identifier": "56",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-SOOALO-Mene.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Tofa-SOOALO-Mene.png"
+        }
+      ],
+      "name": "So'oalo Mene",
+      "other_names": [
+        {
+          "name": "Tofa SOOALO Mene",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "fd9e86c3-d75e-4a77-803d-d4e9e5e6a648",
+      "identifiers": [
+        {
+          "identifier": "11",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFOAFOUVALE-John-Moors.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-AFOAFOUVALE-John-Moors.png"
+        }
+      ],
+      "name": "Afoafouvale John Moors",
+      "other_names": [
+        {
+          "name": "Afioga AFOAFOUVALE John Moors",
+          "note": "alternate"
         }
       ]
     }
