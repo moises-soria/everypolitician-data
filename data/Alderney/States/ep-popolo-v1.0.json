@@ -5,20 +5,20 @@
   "persons": [
     {
       "gender": "male",
-      "id": "6baacce2-655a-493f-883a-29feea8a799d",
+      "id": "061ae887-8e7f-45be-9ef2-84a18fd4dd45",
       "identifiers": [
         {
-          "identifier": "106003",
+          "identifier": "106002",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.alderney.gov.gg/media/image/9/i/140913_Alderney-868.jpg",
+      "image": "http://www.alderney.gov.gg/media/image/8/9/140913_Alderney-822.jpg",
       "images": [
         {
-          "url": "http://www.alderney.gov.gg/media/image/9/i/140913_Alderney-868.jpg"
+          "url": "http://www.alderney.gov.gg/media/image/8/9/140913_Alderney-822.jpg"
         }
       ],
-      "name": "Chris Rowley"
+      "name": "Robert McDowall"
     },
     {
       "gender": "male",
@@ -39,17 +39,6 @@
     },
     {
       "gender": "male",
-      "id": "b9a6c59e-a3cf-406e-88b8-9bba70ffbb30",
-      "identifiers": [
-        {
-          "identifier": "4387",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Graham McKinley"
-    },
-    {
-      "gender": "male",
       "id": "48723cfe-9970-4ce7-92da-ff6b91dfa2b5",
       "identifiers": [
         {
@@ -67,20 +56,48 @@
     },
     {
       "gender": "male",
-      "id": "a3833a8a-61b0-415a-a459-b6726d916f7b",
+      "id": "66d1f769-3e52-40cb-9ddb-1e5ffbec8456",
       "identifiers": [
         {
-          "identifier": "106001",
+          "identifier": "106000",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.alderney.gov.gg/media/image/7/2/140913_Alderney-731.jpg",
+      "image": "http://www.alderney.gov.gg/media/image/7/g/140913_Alderney-673.jpg",
       "images": [
         {
-          "url": "http://www.alderney.gov.gg/media/image/7/2/140913_Alderney-731.jpg"
+          "url": "http://www.alderney.gov.gg/media/image/7/g/140913_Alderney-673.jpg"
         }
       ],
-      "name": "Louis Jean"
+      "name": "Neil Harvey"
+    },
+    {
+      "gender": "male",
+      "id": "6baacce2-655a-493f-883a-29feea8a799d",
+      "identifiers": [
+        {
+          "identifier": "106003",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.alderney.gov.gg/media/image/9/i/140913_Alderney-868.jpg",
+      "images": [
+        {
+          "url": "http://www.alderney.gov.gg/media/image/9/i/140913_Alderney-868.jpg"
+        }
+      ],
+      "name": "Chris Rowley"
+    },
+    {
+      "gender": "female",
+      "id": "70b26d38-ae65-4e90-9a99-15b948b9784b",
+      "identifiers": [
+        {
+          "identifier": "112088",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Norma Paris"
     },
     {
       "gender": "male",
@@ -101,51 +118,6 @@
     },
     {
       "gender": "male",
-      "id": "66d1f769-3e52-40cb-9ddb-1e5ffbec8456",
-      "identifiers": [
-        {
-          "identifier": "106000",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.alderney.gov.gg/media/image/7/g/140913_Alderney-673.jpg",
-      "images": [
-        {
-          "url": "http://www.alderney.gov.gg/media/image/7/g/140913_Alderney-673.jpg"
-        }
-      ],
-      "name": "Neil Harvey"
-    },
-    {
-      "gender": "female",
-      "id": "70b26d38-ae65-4e90-9a99-15b948b9784b",
-      "identifiers": [
-        {
-          "identifier": "112088",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Norma Paris"
-    },
-    {
-      "gender": "male",
-      "id": "061ae887-8e7f-45be-9ef2-84a18fd4dd45",
-      "identifiers": [
-        {
-          "identifier": "106002",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.alderney.gov.gg/media/image/8/9/140913_Alderney-822.jpg",
-      "images": [
-        {
-          "url": "http://www.alderney.gov.gg/media/image/8/9/140913_Alderney-822.jpg"
-        }
-      ],
-      "name": "Robert McDowall"
-    },
-    {
-      "gender": "male",
       "id": "a11887ce-2c42-4555-bfd9-0843f3a9ced0",
       "identifiers": [
         {
@@ -160,6 +132,34 @@
         }
       ],
       "name": "Steve Roberts"
+    },
+    {
+      "gender": "male",
+      "id": "a3833a8a-61b0-415a-a459-b6726d916f7b",
+      "identifiers": [
+        {
+          "identifier": "106001",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.alderney.gov.gg/media/image/7/2/140913_Alderney-731.jpg",
+      "images": [
+        {
+          "url": "http://www.alderney.gov.gg/media/image/7/2/140913_Alderney-731.jpg"
+        }
+      ],
+      "name": "Louis Jean"
+    },
+    {
+      "gender": "male",
+      "id": "b9a6c59e-a3cf-406e-88b8-9bba70ffbb30",
+      "identifiers": [
+        {
+          "identifier": "4387",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Graham McKinley"
     }
   ],
   "organizations": [
