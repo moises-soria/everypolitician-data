@@ -4,18 +4,445 @@
   ],
   "persons": [
     {
+      "id": "0037b8bc-09cc-47da-a46f-93843c18f61c",
+      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
+        }
+      ],
+      "name": "Richard Namel Ruan"
+    },
+    {
       "id": "014e17c1-3ba3-4fa4-9efe-e8d22253a5fd",
       "name": "Alatoi Ishmael Kalsakau"
     },
     {
-      "id": "4b50ee01-e4b3-4e4b-acb3-03c2067fcb85",
-      "image": "http://parliament.gov.vu/images/bio/Albert_William.jpg",
+      "id": "01579b4f-b5bd-406a-96b3-2513bf976a5d",
+      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/Albert_William.jpg"
+          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
         }
       ],
-      "name": "Albert Abel Wialliams"
+      "name": "Gillion William"
+    },
+    {
+      "birth_date": "1957-12-30",
+      "gender": "male",
+      "id": "03572aca-8ec9-4fd9-aee8-a0015dc7000f",
+      "identifiers": [
+        {
+          "identifier": "117",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04pn9w",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n2014063164",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "310715182",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q469823",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/sato.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/sato.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sato_Kilman_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σάτο_Κίλμαν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Килман,_Сато"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Сато_Кілман"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/萨托·基尔曼"
+        }
+      ],
+      "name": "Meltek Sato Kilman Livtunvanu",
+      "other_names": [
+        {
+          "name": "Sato Kilman",
+          "note": "alternate"
+        },
+        {
+          "lang": "bi",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σάτο Κίλμαν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サトー・キルマン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Килман, Сато",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сато Кілман",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Sato Kilman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "萨托·基尔曼",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "087ce286-02ee-40ab-9eee-d431a0bbd2f1",
+      "image": "http://parliament.gov.vu/images/bio/Marcellino_Barthelemy.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Marcellino_Barthelemy.jpg"
+        }
+      ],
+      "name": "Marcellino Barthelemy"
+    },
+    {
+      "id": "0880d800-49f7-4999-b27b-2e7446f78b8c",
+      "identifiers": [
+        {
+          "identifier": "tonny_ngari",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tonny Ngari"
+    },
+    {
+      "id": "08efa701-610c-4ac6-bb1f-c2f9372fb4a7",
+      "image": "http://parliament.gov.vu/images/bio/Silas_Bule.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Silas_Bule.jpg"
+        }
+      ],
+      "name": "Silas Bule Melve"
+    },
+    {
+      "id": "0f53d069-86d5-4268-9d71-9e3aad84d262",
+      "identifiers": [
+        {
+          "identifier": "98",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/lum.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/lum.jpg"
+        }
+      ],
+      "name": "John Lum"
+    },
+    {
+      "birth_date": "1972-03-03",
+      "gender": "male",
+      "id": "128b0495-6e1a-4388-a560-de11a5eec673",
+      "identifiers": [
+        {
+          "identifier": "119",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16191275",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/Maki_Simelum.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Maki_Simelum.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maki_Simelum"
+        }
+      ],
+      "name": "Maki Standley Simelum",
+      "other_names": [
+        {
+          "name": "Maki Simelum",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Maki Simelum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maki Simelum",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "160b2f57-4912-4f92-9f2b-8b61854506d3",
+      "name": "Isaac Daniel Tongolilu"
+    },
+    {
+      "id": "1849cc10-2619-4e15-9f33-a1c991a29142",
+      "identifiers": [
+        {
+          "identifier": "nawai_tesei_john",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Nawai Tesei John"
+    },
+    {
+      "id": "1bb74e41-83be-47b9-8b72-a1ce286faca3",
+      "identifiers": [
+        {
+          "identifier": "110",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/prasad.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/prasad.jpg"
+        }
+      ],
+      "name": "Prasad Arnold"
+    },
+    {
+      "id": "2045d989-4b34-4ede-b5b9-3ee40ea64315",
+      "image": "http://parliament.gov.vu/images/bio/Johny_Konapo.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Johny_Konapo.jpg"
+        }
+      ],
+      "name": "Johhny Koanapo Rasou"
+    },
+    {
+      "id": "219f9646-8207-443a-be9d-3f1f7f03d94c",
+      "identifiers": [
+        {
+          "identifier": "115",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/salwai.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/salwai.jpg"
+        }
+      ],
+      "name": "Charlot Salwai"
+    },
+    {
+      "id": "222c8a9d-382a-4614-af7d-7c3dbced5e5a",
+      "name": "Rick Mahe Tchamako"
+    },
+    {
+      "id": "26f52e3f-7309-421e-82df-779da990d1df",
+      "image": "http://parliament.gov.vu/images/bio/John_Sala.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/John_Sala.jpg"
+        }
+      ],
+      "name": "Sala John"
+    },
+    {
+      "id": "294b8675-4e27-4b20-b88b-cd227d603b4a",
+      "identifiers": [
+        {
+          "identifier": "ruan_richard_namel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ruan Richard Namel"
+    },
+    {
+      "id": "29f400ba-5f0c-46b6-93fc-3e13bcbd9e0f",
+      "identifiers": [
+        {
+          "identifier": "hosea_nevu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Hosea Nevu"
+    },
+    {
+      "id": "2af4b9c0-0d9e-4535-b0fb-bd868236a8ef",
+      "name": "Norris Kalmet"
+    },
+    {
+      "id": "2b9463c5-4991-48ff-bd75-51727dc5015c",
+      "image": "http://parliament.gov.vu/images/bio/Ian_wilson.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Ian_wilson.jpg"
+        }
+      ],
+      "name": "Ian Wilson Toakalana"
     },
     {
       "id": "2f341852-7efc-4823-8d22-19969b13d3ee",
@@ -34,8 +461,40 @@
       "name": "Alfred Maoh"
     },
     {
-      "id": "8b7458fa-2a71-4689-ab69-4f76ce74394f",
-      "name": "Alickson Vira"
+      "id": "30ba8c06-44c9-4c35-8ac6-2ca06ad878ac",
+      "image": "http://parliament.gov.vu/images/bio/Andrew_Napuat.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Andrew_Napuat.jpg"
+        }
+      ],
+      "name": "Andrew Solomon Napuat"
+    },
+    {
+      "id": "320f7054-a694-4bb8-8f5e-5665e1c5a04c",
+      "identifiers": [
+        {
+          "identifier": "89",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/james.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/james.jpg"
+        }
+      ],
+      "name": "James Bule"
+    },
+    {
+      "id": "34fe2f94-d743-4c72-8833-f179b33c3d5f",
+      "identifiers": [
+        {
+          "identifier": "kalfao_moli",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kalfao Moli"
     },
     {
       "id": "3cc0fa7a-d839-476a-9cc5-17b2a7b684d1",
@@ -48,14 +507,394 @@
       "name": "Amos John Vacher"
     },
     {
-      "id": "30ba8c06-44c9-4c35-8ac6-2ca06ad878ac",
-      "image": "http://parliament.gov.vu/images/bio/Andrew_Napuat.jpg",
-      "images": [
+      "gender": "male",
+      "given_name": "Paul",
+      "id": "41afbef3-3fc2-4ff1-966a-58595d16e2de",
+      "identifiers": [
         {
-          "url": "http://parliament.gov.vu/images/bio/Andrew_Napuat.jpg"
+          "identifier": "108",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7153951",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Andrew Solomon Napuat"
+      "image": "http://parliament.gov.vu/images/bio/paul.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/paul.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Telukluk"
+        }
+      ],
+      "name": "Paul Telukluk",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Paul Telukluk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul Telukluk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul Telukluk",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "42d54de5-d20a-4964-9926-1e63bef2a6b5",
+      "image": "http://parliament.gov.vu/images/bio/Gaetan_Pikinoune.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Gaetan_Pikinoune.jpg"
+        }
+      ],
+      "name": "Gaetan Pikinoune"
+    },
+    {
+      "id": "43154062-ce14-4b5e-8cb4-73a889195d7f",
+      "name": "Jean Pierre Nirua"
+    },
+    {
+      "id": "449ea5ed-081e-4e4b-bff2-7b33351ad188",
+      "image": "http://parliament.gov.vu/images/bio/Havo_Moli.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Havo_Moli.jpg"
+        }
+      ],
+      "name": "Havo Molisale"
+    },
+    {
+      "id": "46d27a3c-3b3d-4457-87f9-6708485cdeec",
+      "image": "http://parliament.gov.vu/images/bio/Fred_Tasso.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Fred_Tasso.jpg"
+        }
+      ],
+      "name": "Fred William Tasso"
+    },
+    {
+      "id": "4b50ee01-e4b3-4e4b-acb3-03c2067fcb85",
+      "image": "http://parliament.gov.vu/images/bio/Albert_William.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Albert_William.jpg"
+        }
+      ],
+      "name": "Albert Abel Wialliams"
+    },
+    {
+      "birth_date": "1960-03-04",
+      "gender": "male",
+      "given_name": "Antoine",
+      "id": "4dc9d1bd-4dca-4643-8b18-e6c276747ab9",
+      "identifiers": [
+        {
+          "identifier": "wright_antoine_tonny",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15459326",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Antoine_Wright_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antoine_Wright"
+        }
+      ],
+      "name": "Wright Antoine Tonny",
+      "other_names": [
+        {
+          "name": "Antoine Wright",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antoine Wright",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Antoine Wright",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Antoine Wright",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "4e23df43-11f7-4401-80a1-7126ff8025b6",
+      "name": "Nakou Natuman"
+    },
+    {
+      "id": "4fec7f45-196c-4594-ad1c-88f7d073b485",
+      "identifiers": [
+        {
+          "identifier": "james_jonas",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "James Jonas"
+    },
+    {
+      "id": "512d8681-dfd6-4f8b-b12d-de7490f2cdb8",
+      "identifiers": [
+        {
+          "identifier": "william_k._gillion",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "William K. Gillion"
+    },
+    {
+      "id": "51585f6f-2ba8-43dc-b285-4ad6689ce7ff",
+      "image": "http://parliament.gov.vu/images/bio/Jacob_Mata.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Jacob_Mata.jpg"
+        }
+      ],
+      "name": "Jacob Matanagwele"
+    },
+    {
+      "id": "537c569a-0396-4b81-a29a-ca8ad9bd2418",
+      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
+        }
+      ],
+      "name": "Jack Wona"
+    },
+    {
+      "id": "55ab5ed0-efdb-44fd-8432-55afd7363b82",
+      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
+        }
+      ],
+      "name": "Kalo Pakoa Songi Lano"
+    },
+    {
+      "id": "55c0dec5-38dd-4566-a181-d4029af850d9",
+      "name": "Jerry Kanas"
+    },
+    {
+      "id": "5f2a8636-5d43-4e3c-8539-82eb7b00861d",
+      "identifiers": [
+        {
+          "identifier": "123",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/steven.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/steven.jpg"
+        }
+      ],
+      "name": "Steven Kalsakau"
+    },
+    {
+      "id": "5f88be30-39fc-439e-ac1a-e41f2318fe3b",
+      "image": "http://parliament.gov.vu/images/bio/Ephraim_Kalsakau.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Ephraim_Kalsakau.jpg"
+        }
+      ],
+      "name": "Ephraim Kalsakau"
+    },
+    {
+      "id": "63212e0c-7c73-4ba2-9d51-a6e933a90284",
+      "image": "http://parliament.gov.vu/images/bio/John_Tesei.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/John_Tesei.jpg"
+        }
+      ],
+      "name": "Nawai Tesei John"
+    },
+    {
+      "id": "6443c33c-e525-4c3c-9b91-2a6290a42c57",
+      "name": "Uri Warawara"
+    },
+    {
+      "id": "68098cad-367d-4c9c-9f11-82b7b042f750",
+      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
+        }
+      ],
+      "name": "Robert Sikol Bohn"
+    },
+    {
+      "id": "695a9ff9-f824-4a20-a319-74d840ca0ccd",
+      "identifiers": [
+        {
+          "identifier": "86",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/hilton.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/hilton.jpg"
+        }
+      ],
+      "name": "Dunstan Hilton"
+    },
+    {
+      "birth_date": "1970-09-20",
+      "gender": "male",
+      "given_name": "Ralph",
+      "id": "69f95e80-2f2c-44d2-b61f-55c1f2ae64c2",
+      "identifiers": [
+        {
+          "identifier": "111",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q578951",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/ralph.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/ralph.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ralph_Regenvanu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ralph_Regenvanu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ralph_Regenvanu"
+        }
+      ],
+      "name": "Ralph Regenvanu",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ralph Regenvanu",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "6c8ec45e-8b03-45d4-98cf-5bd6f3218fc6",
+      "image": "http://parliament.gov.vu/images/bio/Edwin_Malcreveth.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Edwin_Malcreveth.jpg"
+        }
+      ],
+      "name": "Edwin Amblus Macreveth"
+    },
+    {
+      "id": "726dcfd2-5d93-4d0d-ac5a-d43641f401a6",
+      "identifiers": [
+        {
+          "identifier": "90",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/Jerome.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Jerome.jpg"
+        }
+      ],
+      "name": "Jerome Ludvaune"
+    },
+    {
+      "id": "76dfa425-e058-487a-95a5-476b26c30815",
+      "identifiers": [
+        {
+          "identifier": "taiwia_nato",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Taiwia Nato"
+    },
+    {
+      "id": "7763a202-87ef-42c3-ac52-630fc64585eb",
+      "image": "http://parliament.gov.vu/images/bio/Jay_Ngwele.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Jay_Ngwele.jpg"
+        }
+      ],
+      "name": "Jay Ngwele"
     },
     {
       "birth_date": "1961",
@@ -109,243 +948,646 @@
       ]
     },
     {
-      "gender": "male",
-      "given_name": "Robert",
-      "id": "fdc0fcc2-0af1-4714-a5b8-2d4b3cffa3b6",
+      "id": "79798d5d-1797-4dbd-a57b-6dc9b694b766",
       "identifiers": [
         {
-          "identifier": "bohn._m._robert",
+          "identifier": "109",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/pipite.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/pipite.jpg"
+        }
+      ],
+      "name": "Marcellino Pipite"
+    },
+    {
+      "id": "7e6d7bb4-6282-43d2-a9f8-dc21223ad929",
+      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
+        }
+      ],
+      "name": "Claude Christophe Antonie Emelee"
+    },
+    {
+      "id": "7f01a1f3-a286-4160-b157-34cbf667fd96",
+      "identifiers": [
+        {
+          "identifier": "100",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/Richard_Mera.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Richard_Mera.jpg"
+        }
+      ],
+      "name": "Richard Mera"
+    },
+    {
+      "id": "7f3e4560-ff17-4891-a896-41433c9076ac",
+      "identifiers": [
+        {
+          "identifier": "samson_samsen",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Samson Samsen"
+    },
+    {
+      "id": "8025c794-d17d-4257-a712-5943664bd8e2",
+      "identifiers": [
+        {
+          "identifier": "hamariliu_b._issac",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Hamariliu B. Issac"
+    },
+    {
+      "id": "8b7458fa-2a71-4689-ab69-4f76ce74394f",
+      "name": "Alickson Vira"
+    },
+    {
+      "id": "8c143e9a-58ca-48e4-bac3-46eb1b34d56e",
+      "name": "Ronald Warsal Kalmasei"
+    },
+    {
+      "id": "8d81949b-cf2e-463f-990e-5641c848e369",
+      "identifiers": [
+        {
+          "identifier": "chabod_jean_yves",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Chabod Jean Yves"
+    },
+    {
+      "id": "9078be87-f1a4-4191-a06d-65c9e9e50bae",
+      "image": "http://parliament.gov.vu/images/bio/Francois.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Francois.jpg"
+        }
+      ],
+      "name": "Francois Chani Tabisal"
+    },
+    {
+      "id": "9c07f41a-d058-4ab8-89ee-929fede31987",
+      "name": "Tomker Netvunei Naling"
+    },
+    {
+      "birth_date": "1955",
+      "gender": "male",
+      "given_name": "Serge",
+      "id": "9d0d05d6-8c65-4b30-892a-c39e004792ec",
+      "identifiers": [
+        {
+          "identifier": "biography/Serge-Vohor",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "130",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q17019552",
+          "identifier": "/m/03jtm1",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q736823",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/vohor.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/vohor.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rialuth_Serge_Vohor_(Imagicity_1307)_(cropped).jpg"
         }
       ],
       "links": [
         {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Σερζ_Βοχόρ"
+        },
+        {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Robert_Bohn_Sikol"
+          "url": "https://en.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Вохор,_Серж"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Rialuth_Serge_Vohor"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Серж_Вохор"
         }
       ],
-      "name": "Bohn. M. Robert",
+      "name": "Vohor Serge Rialuth",
       "other_names": [
         {
-          "name": "Robert Bohn Sikol",
+          "name": "Serge Vohor",
           "note": "alternate"
         },
         {
+          "lang": "bi",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
-          "name": "Robert Bohn Sikol",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σερζ Βοχόρ",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Robert Bohn Sikol",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Serge Vohor",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Robert Bohn Sikol",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サージ・ボオール",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Serge Vohor",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Robert Bohn Sikol",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Серж Вохор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rialuth Serge Vohor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Серж Вохор",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "渥荷",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "瑟奇·沃霍尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "瑟奇·沃霍爾",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1963-01-28",
-      "gender": "male",
-      "given_name": "Moana",
-      "id": "f5978e43-2a5b-4eef-a577-7fc01528ea36",
+      "id": "9d84b5ca-0712-406c-b170-630abe89a190",
+      "image": "http://parliament.gov.vu/images/bio/Nato.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Nato.jpg"
+        }
+      ],
+      "name": "Nato Taiwia"
+    },
+    {
+      "id": "9d87e2a9-7bf6-4952-95ef-0e44fb739625",
       "identifiers": [
         {
-          "identifier": "102",
+          "identifier": "131",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/vuta.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/vuta.jpg"
+        }
+      ],
+      "name": "Peter Vuta"
+    },
+    {
+      "id": "9f4e06ce-4848-4e57-8fb2-5920d005f920",
+      "name": "Kalo Seule"
+    },
+    {
+      "id": "aa583d86-0ec4-4310-8769-47d7e090ce39",
+      "name": "Gracia Shadrack"
+    },
+    {
+      "id": "aadbc2e2-4a5c-485e-9d2f-cfa816c1812c",
+      "identifiers": [
+        {
+          "identifier": "rouard_silas_ratan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Rouard Silas Ratan"
+    },
+    {
+      "id": "abce883e-3a5b-41e0-96ee-64cfdca4ae6e",
+      "identifiers": [
+        {
+          "identifier": "132",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/wells.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/wells.jpg"
+        }
+      ],
+      "name": "George Andre Wells"
+    },
+    {
+      "id": "adc59c7a-01f7-4493-8e50-84bf633424be",
+      "identifiers": [
+        {
+          "identifier": "94",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/kaltalio.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/kaltalio.jpg"
+        }
+      ],
+      "name": "Kaltalio Simeon"
+    },
+    {
+      "birth_date": "1952-11-24",
+      "gender": "male",
+      "given_name": "Joe",
+      "id": "aee4adc6-a000-4017-9a48-6ce4b7799bcc",
+      "identifiers": [
+        {
+          "identifier": "92",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "/m/03kgb8",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q3317554",
+          "identifier": "Q58222",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parliament.gov.vu/images/bio/moana.jpg",
+      "image": "http://parliament.gov.vu/images/bio/Joe_Natuman.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/moana.jpg"
+          "url": "http://parliament.gov.vu/images/bio/Joe_Natuman.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Moana_Carcasses_Kalosil_2013_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Joe_Natuman_2014_(cropped).jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+          "url": "https://de.wikipedia.org/wiki/Joe_Natuman"
         },
         {
           "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Μοάνα_Καρκάσις_Καλόζιλ"
+          "url": "https://el.wikipedia.org/wiki/Τζο_Νάτουμαν"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+          "url": "https://en.wikipedia.org/wiki/Joe_Natuman"
         },
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+          "url": "https://es.wikipedia.org/wiki/Joe_Natuman"
         },
         {
           "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+          "url": "https://et.wikipedia.org/wiki/Joe_Natuman"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+          "url": "https://fr.wikipedia.org/wiki/Joe_Natuman"
         },
         {
-          "note": "Wikipedia (oc)",
-          "url": "https://oc.wikipedia.org/wiki/Moana_Carcassés_Kalosil"
+          "note": "Wikipedia (na)",
+          "url": "https://na.wikipedia.org/wiki/Joe_Natuman"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+          "url": "https://pl.wikipedia.org/wiki/Joe_Natuman"
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Калосил,_Моана_Каркассес"
+          "url": "https://ru.wikipedia.org/wiki/Натуман,_Джо"
         },
         {
           "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
+          "url": "https://tr.wikipedia.org/wiki/Joe_Natuman"
         },
         {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Моана_Каркассес_Калосіль"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/莫阿纳·卡凯塞斯"
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Joe_Natuman"
         }
       ],
-      "name": "Carcasses K. Moana",
+      "name": "Joe Natuman",
       "other_names": [
         {
-          "name": "Moana Carcasses Kalosil",
-          "note": "alternate"
+          "lang": "ca",
+          "name": "Joe Natuman",
+          "note": "multilingual"
         },
         {
           "lang": "da",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "de",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "de-ch",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "el",
-          "name": "Μοάνα Καρκάσις Καλόζιλ",
+          "name": "Τζο Νάτουμαν",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "en-ca",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "en-gb",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "et",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "ja",
-          "name": "モアナ・カルカセス・カロシル",
+          "name": "ジョー・ナトウマン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "na",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "nb",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "nn",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "oc",
-          "name": "Moana Carcassés Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "ru",
-          "name": "Моана Каркассес Калосил",
+          "name": "Натуман, Джо",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "tr",
-          "name": "Moana Carcasses Kalosil",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
-          "lang": "uk",
-          "name": "Моана Каркассес Калосіль",
+          "lang": "vi",
+          "name": "Joe Natuman",
           "note": "multilingual"
         },
         {
           "lang": "zh",
-          "name": "莫阿纳·卡凯塞斯",
+          "name": "喬·納圖曼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "乔·纳图曼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "喬·納圖曼",
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "af22f32e-5d6c-43d6-9030-6be262fc8737",
+      "identifiers": [
+        {
+          "identifier": "128",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/toara.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/toara.jpg"
+        }
+      ],
+      "name": "Toara Kalo Daniel"
+    },
+    {
+      "birth_date": "1962-06-09",
+      "death_date": "2016-02-23",
+      "gender": "male",
+      "id": "b3d884b9-7273-4be3-83a3-48626bd069ac",
+      "identifiers": [
+        {
+          "identifier": "molisale_havo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22963618",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Havo_Molisale"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Havo_Molisale"
+        }
+      ],
+      "name": "Molisale Havo",
+      "other_names": [
+        {
+          "name": "Havo Molisale",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Havo Molisale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Havo Molisale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Havo Molisale",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "c2423b7d-15b0-479c-b6ba-cebd5a6d923b",
+      "image": "http://parliament.gov.vu/images/bio/Tom_Noam.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Tom_Noam.jpg"
+        }
+      ],
+      "name": "Tom Noam Iouniwan"
     },
     {
       "id": "c274ad3e-6822-4de4-ad80-47b2c48c96e8",
@@ -364,136 +1606,24 @@
       "name": "Carlot Alfred"
     },
     {
-      "id": "8d81949b-cf2e-463f-990e-5641c848e369",
+      "id": "c293445d-7264-4eda-a03b-97a4eb52133a",
       "identifiers": [
         {
-          "identifier": "chabod_jean_yves",
+          "identifier": "78",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Chabod Jean Yves"
-    },
-    {
-      "id": "219f9646-8207-443a-be9d-3f1f7f03d94c",
-      "identifiers": [
-        {
-          "identifier": "115",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/salwai.jpg",
+      "image": "http://parliament.gov.vu/images/bio/bruno.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/salwai.jpg"
+          "url": "http://parliament.gov.vu/images/bio/bruno.jpg"
         }
       ],
-      "name": "Charlot Salwai"
+      "name": "Lenkon Tao Bruno"
     },
     {
-      "id": "ff40ed87-6803-4354-9115-c1d315e828b4",
-      "identifiers": [
-        {
-          "identifier": "christopher_emelee",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Christopher Emelee"
-    },
-    {
-      "id": "7e6d7bb4-6282-43d2-a9f8-dc21223ad929",
-      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
-        }
-      ],
-      "name": "Claude Christophe Antonie Emelee"
-    },
-    {
-      "gender": "male",
-      "given_name": "David",
-      "id": "eba1d2cf-d586-4e11-accf-6c5ac455f493",
-      "identifiers": [
-        {
-          "identifier": "129",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q17059118",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/tosul.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/tosul.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/David_Tosul"
-        }
-      ],
-      "name": "David Tosul",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "David Tosul",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "David Tosul",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "David Tosul",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "David Tosul",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "695a9ff9-f824-4a20-a319-74d840ca0ccd",
-      "identifiers": [
-        {
-          "identifier": "86",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/hilton.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/hilton.jpg"
-        }
-      ],
-      "name": "Dunstan Hilton"
-    },
-    {
-      "id": "6c8ec45e-8b03-45d4-98cf-5bd6f3218fc6",
-      "image": "http://parliament.gov.vu/images/bio/Edwin_Malcreveth.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Edwin_Malcreveth.jpg"
-        }
-      ],
-      "name": "Edwin Amblus Macreveth"
-    },
-    {
-      "id": "5f88be30-39fc-439e-ac1a-e41f2318fe3b",
-      "image": "http://parliament.gov.vu/images/bio/Ephraim_Kalsakau.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Ephraim_Kalsakau.jpg"
-        }
-      ],
-      "name": "Ephraim Kalsakau"
+      "id": "c7314763-2e65-43ac-abeb-a88fe3e2c766",
+      "name": "Hosea Ovock Rothul Nevu"
     },
     {
       "birth_date": "1955-10-28",
@@ -550,64 +1680,229 @@
       ]
     },
     {
-      "id": "9078be87-f1a4-4191-a06d-65c9e9e50bae",
-      "image": "http://parliament.gov.vu/images/bio/Francois.jpg",
+      "id": "cd75b57b-5f18-46a6-8e11-319fcae3a7f6",
+      "image": "http://parliament.gov.vu/images/bio/Joshua_Kalsakau.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/Francois.jpg"
+          "url": "http://parliament.gov.vu/images/bio/Joshua_Kalsakau.jpg"
         }
       ],
-      "name": "Francois Chani Tabisal"
+      "name": "Joshua Tafura Kalsakau"
     },
     {
-      "id": "46d27a3c-3b3d-4457-87f9-6708485cdeec",
-      "image": "http://parliament.gov.vu/images/bio/Fred_Tasso.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Fred_Tasso.jpg"
-        }
-      ],
-      "name": "Fred William Tasso"
-    },
-    {
-      "id": "42d54de5-d20a-4964-9926-1e63bef2a6b5",
-      "image": "http://parliament.gov.vu/images/bio/Gaetan_Pikinoune.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Gaetan_Pikinoune.jpg"
-        }
-      ],
-      "name": "Gaetan Pikinoune"
-    },
-    {
-      "id": "abce883e-3a5b-41e0-96ee-64cfdca4ae6e",
+      "id": "d24b74ff-d4bb-4d02-839f-b7f00de36d6e",
       "identifiers": [
         {
-          "identifier": "132",
+          "identifier": "103",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.vu/images/bio/wells.jpg",
+      "image": "http://parliament.gov.vu/images/bio/morking.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/wells.jpg"
+          "url": "http://parliament.gov.vu/images/bio/morking.jpg"
         }
       ],
-      "name": "George Andre Wells"
+      "name": "Iatika Morking Stephen"
     },
     {
-      "id": "01579b4f-b5bd-406a-96b3-2513bf976a5d",
-      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
+      "id": "d3ab5e34-d2cf-4fbb-9083-d032d2bb0345",
+      "image": "http://parliament.gov.vu/images/bio/Samson_Samsen.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
+          "url": "http://parliament.gov.vu/images/bio/Samson_Samsen.jpg"
         }
       ],
-      "name": "Gillion William"
+      "name": "Samson Samsen"
     },
     {
-      "id": "aa583d86-0ec4-4310-8769-47d7e090ce39",
-      "name": "Gracia Shadrack"
+      "id": "d533ab26-3faf-41ef-a5f4-bef8197eea10",
+      "image": "http://parliament.gov.vu/images/bio/Keneth_Natapei.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Keneth_Natapei.jpg"
+        }
+      ],
+      "name": "Kenneth Natapei"
+    },
+    {
+      "birth_date": "1972-03-03",
+      "gender": "male",
+      "given_name": "Thomas",
+      "id": "d8e4d828-51f1-40f5-957f-e0876910a4b3",
+      "identifiers": [
+        {
+          "identifier": "97",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16731174",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/laken.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/laken.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Laken"
+        }
+      ],
+      "name": "Thomas Laken",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Thomas Laken",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Thomas Laken",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Thomas Laken",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "db0b117f-3c81-4143-a0fc-73b52a7cb040",
+      "name": "Matai Seremaiah"
+    },
+    {
+      "id": "db898593-f70b-45ab-bdac-87cb60ffd3e8",
+      "identifiers": [
+        {
+          "identifier": "164",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/Hon.Philip.B.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Hon.Philip.B.jpg"
+        }
+      ],
+      "name": "Philip Boedoro"
+    },
+    {
+      "id": "ddf3f8f1-7165-485d-a789-1a64e3c010ea",
+      "name": "Marc Ati"
+    },
+    {
+      "id": "e3812414-ebab-4e50-9afe-615a042eda33",
+      "image": "http://parliament.gov.vu/images/bio/Jotham_Napat.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/Jotham_Napat.jpg"
+        }
+      ],
+      "name": "Jotham Napat"
+    },
+    {
+      "birth_date": "1986-05-16",
+      "gender": "male",
+      "given_name": "Pascal",
+      "id": "e6c840ca-d8f9-40d0-9b9c-5d5ba9dd22dd",
+      "identifiers": [
+        {
+          "identifier": "yauko_pascal",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16231327",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pascal_Iauko"
+        }
+      ],
+      "name": "Yauko Pascal",
+      "other_names": [
+        {
+          "name": "Pascal Iauko",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Pascal Iauko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pascal Iauko",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "given_name": "David",
+      "id": "eba1d2cf-d586-4e11-accf-6c5ac455f493",
+      "identifiers": [
+        {
+          "identifier": "129",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17059118",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://parliament.gov.vu/images/bio/tosul.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.vu/images/bio/tosul.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Tosul"
+        }
+      ],
+      "name": "David Tosul",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "David Tosul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Tosul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Tosul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "David Tosul",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "eda74799-6aa7-4e16-b548-b0c0873de491",
+      "identifiers": [
+        {
+          "identifier": "nalet_daniel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Nalet Daniel"
     },
     {
       "birth_date": "1951-12-08",
@@ -866,949 +2161,269 @@
       ]
     },
     {
-      "id": "8025c794-d17d-4257-a712-5943664bd8e2",
+      "id": "f39a8def-003a-4095-bbf2-b9fa1ae0e5d1",
       "identifiers": [
         {
-          "identifier": "hamariliu_b._issac",
+          "identifier": "91",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Hamariliu B. Issac"
-    },
-    {
-      "id": "449ea5ed-081e-4e4b-bff2-7b33351ad188",
-      "image": "http://parliament.gov.vu/images/bio/Havo_Moli.jpg",
+      "image": "http://parliament.gov.vu/images/bio/jimmy.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/Havo_Moli.jpg"
+          "url": "http://parliament.gov.vu/images/bio/jimmy.jpg"
         }
       ],
-      "name": "Havo Molisale"
+      "name": "Tapangararua J. Willie"
     },
     {
-      "id": "29f400ba-5f0c-46b6-93fc-3e13bcbd9e0f",
-      "identifiers": [
-        {
-          "identifier": "hosea_nevu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Hosea Nevu"
-    },
-    {
-      "id": "c7314763-2e65-43ac-abeb-a88fe3e2c766",
-      "name": "Hosea Ovock Rothul Nevu"
-    },
-    {
-      "id": "2b9463c5-4991-48ff-bd75-51727dc5015c",
-      "image": "http://parliament.gov.vu/images/bio/Ian_wilson.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Ian_wilson.jpg"
-        }
-      ],
-      "name": "Ian Wilson Toakalana"
-    },
-    {
-      "id": "d24b74ff-d4bb-4d02-839f-b7f00de36d6e",
-      "identifiers": [
-        {
-          "identifier": "103",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/morking.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/morking.jpg"
-        }
-      ],
-      "name": "Iatika Morking Stephen"
-    },
-    {
-      "id": "160b2f57-4912-4f92-9f2b-8b61854506d3",
-      "name": "Isaac Daniel Tongolilu"
-    },
-    {
-      "id": "537c569a-0396-4b81-a29a-ca8ad9bd2418",
-      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
-        }
-      ],
-      "name": "Jack Wona"
-    },
-    {
-      "id": "51585f6f-2ba8-43dc-b285-4ad6689ce7ff",
-      "image": "http://parliament.gov.vu/images/bio/Jacob_Mata.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Jacob_Mata.jpg"
-        }
-      ],
-      "name": "Jacob Matanagwele"
-    },
-    {
-      "id": "320f7054-a694-4bb8-8f5e-5665e1c5a04c",
-      "identifiers": [
-        {
-          "identifier": "89",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/james.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/james.jpg"
-        }
-      ],
-      "name": "James Bule"
-    },
-    {
-      "id": "4fec7f45-196c-4594-ad1c-88f7d073b485",
-      "identifiers": [
-        {
-          "identifier": "james_jonas",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "James Jonas"
-    },
-    {
-      "id": "7763a202-87ef-42c3-ac52-630fc64585eb",
-      "image": "http://parliament.gov.vu/images/bio/Jay_Ngwele.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Jay_Ngwele.jpg"
-        }
-      ],
-      "name": "Jay Ngwele"
-    },
-    {
-      "id": "43154062-ce14-4b5e-8cb4-73a889195d7f",
-      "name": "Jean Pierre Nirua"
-    },
-    {
-      "id": "726dcfd2-5d93-4d0d-ac5a-d43641f401a6",
-      "identifiers": [
-        {
-          "identifier": "90",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/Jerome.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Jerome.jpg"
-        }
-      ],
-      "name": "Jerome Ludvaune"
-    },
-    {
-      "id": "55c0dec5-38dd-4566-a181-d4029af850d9",
-      "name": "Jerry Kanas"
-    },
-    {
-      "birth_date": "1952-11-24",
+      "birth_date": "1963-01-28",
       "gender": "male",
-      "given_name": "Joe",
-      "id": "aee4adc6-a000-4017-9a48-6ce4b7799bcc",
+      "given_name": "Moana",
+      "id": "f5978e43-2a5b-4eef-a577-7fc01528ea36",
       "identifiers": [
         {
-          "identifier": "92",
+          "identifier": "102",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q58222",
+          "identifier": "/m/03kgb8",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3317554",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parliament.gov.vu/images/bio/Joe_Natuman.jpg",
+      "image": "http://parliament.gov.vu/images/bio/moana.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/Joe_Natuman.jpg"
+          "url": "http://parliament.gov.vu/images/bio/moana.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Joe_Natuman_2014_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Moana_Carcasses_Kalosil_2013_(cropped).jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Joe_Natuman"
+          "url": "https://de.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
         },
         {
           "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Τζο_Νάτουμαν"
+          "url": "https://el.wikipedia.org/wiki/Μοάνα_Καρκάσις_Καλόζιλ"
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Joe_Natuman"
+          "url": "https://en.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
         },
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Joe_Natuman"
+          "url": "https://es.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
         },
         {
           "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Joe_Natuman"
+          "url": "https://et.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Joe_Natuman"
+          "url": "https://fr.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
         },
         {
-          "note": "Wikipedia (na)",
-          "url": "https://na.wikipedia.org/wiki/Joe_Natuman"
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Moana_Carcassés_Kalosil"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Joe_Natuman"
+          "url": "https://pl.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Натуман,_Джо"
+          "url": "https://ru.wikipedia.org/wiki/Калосил,_Моана_Каркассес"
         },
         {
           "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Joe_Natuman"
+          "url": "https://tr.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
         },
         {
-          "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Joe_Natuman"
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Моана_Каркассес_Калосіль"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/莫阿纳·卡凯塞斯"
         }
       ],
-      "name": "Joe Natuman",
+      "name": "Carcasses K. Moana",
       "other_names": [
         {
-          "lang": "ca",
-          "name": "Joe Natuman",
-          "note": "multilingual"
+          "name": "Moana Carcasses Kalosil",
+          "note": "alternate"
         },
         {
           "lang": "da",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "de",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "de-ch",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "el",
-          "name": "Τζο Νάτουμαν",
+          "name": "Μοάνα Καρκάσις Καλόζιλ",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "en-ca",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "en-gb",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "et",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "ja",
-          "name": "ジョー・ナトウマン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "na",
-          "name": "Joe Natuman",
+          "name": "モアナ・カルカセス・カロシル",
           "note": "multilingual"
         },
         {
           "lang": "nb",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "nn",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "oc",
-          "name": "Joe Natuman",
+          "name": "Moana Carcassés Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "ru",
-          "name": "Натуман, Джо",
+          "name": "Моана Каркассес Калосил",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Joe Natuman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "tr",
-          "name": "Joe Natuman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Joe Natuman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "喬·納圖曼",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "乔·纳图曼",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "喬·納圖曼",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "2045d989-4b34-4ede-b5b9-3ee40ea64315",
-      "image": "http://parliament.gov.vu/images/bio/Johny_Konapo.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Johny_Konapo.jpg"
-        }
-      ],
-      "name": "Johhny Koanapo Rasou"
-    },
-    {
-      "id": "0f53d069-86d5-4268-9d71-9e3aad84d262",
-      "identifiers": [
-        {
-          "identifier": "98",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/lum.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/lum.jpg"
-        }
-      ],
-      "name": "John Lum"
-    },
-    {
-      "id": "cd75b57b-5f18-46a6-8e11-319fcae3a7f6",
-      "image": "http://parliament.gov.vu/images/bio/Joshua_Kalsakau.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Joshua_Kalsakau.jpg"
-        }
-      ],
-      "name": "Joshua Tafura Kalsakau"
-    },
-    {
-      "id": "e3812414-ebab-4e50-9afe-615a042eda33",
-      "image": "http://parliament.gov.vu/images/bio/Jotham_Napat.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Jotham_Napat.jpg"
-        }
-      ],
-      "name": "Jotham Napat"
-    },
-    {
-      "id": "34fe2f94-d743-4c72-8833-f179b33c3d5f",
-      "identifiers": [
-        {
-          "identifier": "kalfao_moli",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Kalfao Moli"
-    },
-    {
-      "id": "55ab5ed0-efdb-44fd-8432-55afd7363b82",
-      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
-        }
-      ],
-      "name": "Kalo Pakoa Songi Lano"
-    },
-    {
-      "id": "9f4e06ce-4848-4e57-8fb2-5920d005f920",
-      "name": "Kalo Seule"
-    },
-    {
-      "id": "adc59c7a-01f7-4493-8e50-84bf633424be",
-      "identifiers": [
-        {
-          "identifier": "94",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/kaltalio.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/kaltalio.jpg"
-        }
-      ],
-      "name": "Kaltalio Simeon"
-    },
-    {
-      "id": "d533ab26-3faf-41ef-a5f4-bef8197eea10",
-      "image": "http://parliament.gov.vu/images/bio/Keneth_Natapei.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Keneth_Natapei.jpg"
-        }
-      ],
-      "name": "Kenneth Natapei"
-    },
-    {
-      "id": "c293445d-7264-4eda-a03b-97a4eb52133a",
-      "identifiers": [
-        {
-          "identifier": "78",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/bruno.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/bruno.jpg"
-        }
-      ],
-      "name": "Lenkon Tao Bruno"
-    },
-    {
-      "birth_date": "1972-03-03",
-      "gender": "male",
-      "id": "128b0495-6e1a-4388-a560-de11a5eec673",
-      "identifiers": [
-        {
-          "identifier": "119",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16191275",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/Maki_Simelum.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Maki_Simelum.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Maki_Simelum"
-        }
-      ],
-      "name": "Maki Standley Simelum",
-      "other_names": [
-        {
-          "name": "Maki Simelum",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Maki Simelum",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Maki Simelum",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "ddf3f8f1-7165-485d-a789-1a64e3c010ea",
-      "name": "Marc Ati"
-    },
-    {
-      "id": "087ce286-02ee-40ab-9eee-d431a0bbd2f1",
-      "image": "http://parliament.gov.vu/images/bio/Marcellino_Barthelemy.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Marcellino_Barthelemy.jpg"
-        }
-      ],
-      "name": "Marcellino Barthelemy"
-    },
-    {
-      "id": "79798d5d-1797-4dbd-a57b-6dc9b694b766",
-      "identifiers": [
-        {
-          "identifier": "109",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/pipite.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/pipite.jpg"
-        }
-      ],
-      "name": "Marcellino Pipite"
-    },
-    {
-      "id": "db0b117f-3c81-4143-a0fc-73b52a7cb040",
-      "name": "Matai Seremaiah"
-    },
-    {
-      "birth_date": "1957-12-30",
-      "gender": "male",
-      "id": "03572aca-8ec9-4fd9-aee8-a0015dc7000f",
-      "identifiers": [
-        {
-          "identifier": "117",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/04pn9w",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "n2014063164",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "310715182",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q469823",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/sato.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/sato.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sato_Kilman_(cropped).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bi)",
-          "url": "https://bi.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Σάτο_Κίλμαν"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (lt)",
-          "url": "https://lt.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Килман,_Сато"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Сато_Кілман"
-        },
-        {
-          "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Sato_Kilman"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/萨托·基尔曼"
-        }
-      ],
-      "name": "Meltek Sato Kilman Livtunvanu",
-      "other_names": [
-        {
-          "name": "Sato Kilman",
-          "note": "alternate"
-        },
-        {
-          "lang": "bi",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Σάτο Κίλμαν",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "サトー・キルマン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lt",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Килман, Сато",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Sato Kilman",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Sato Kilman",
+          "name": "Moana Carcasses Kalosil",
           "note": "multilingual"
         },
         {
           "lang": "uk",
-          "name": "Сато Кілман",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Sato Kilman",
+          "name": "Моана Каркассес Калосіль",
           "note": "multilingual"
         },
         {
           "lang": "zh",
-          "name": "萨托·基尔曼",
+          "name": "莫阿纳·卡凯塞斯",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1962-06-09",
-      "death_date": "2016-02-23",
       "gender": "male",
-      "id": "b3d884b9-7273-4be3-83a3-48626bd069ac",
+      "given_name": "Robert",
+      "id": "fdc0fcc2-0af1-4714-a5b8-2d4b3cffa3b6",
       "identifiers": [
         {
-          "identifier": "molisale_havo",
+          "identifier": "bohn._m._robert",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q22963618",
+          "identifier": "Q17019552",
           "scheme": "wikidata"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Havo_Molisale"
-        },
-        {
-          "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Havo_Molisale"
+          "url": "https://en.wikipedia.org/wiki/Robert_Bohn_Sikol"
         }
       ],
-      "name": "Molisale Havo",
+      "name": "Bohn. M. Robert",
       "other_names": [
         {
-          "name": "Havo Molisale",
+          "name": "Robert Bohn Sikol",
           "note": "alternate"
         },
         {
-          "lang": "en",
-          "name": "Havo Molisale",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Havo Molisale",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Havo Molisale",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "4e23df43-11f7-4401-80a1-7126ff8025b6",
-      "name": "Nakou Natuman"
-    },
-    {
-      "id": "eda74799-6aa7-4e16-b548-b0c0873de491",
-      "identifiers": [
-        {
-          "identifier": "nalet_daniel",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Nalet Daniel"
-    },
-    {
-      "id": "9d84b5ca-0712-406c-b170-630abe89a190",
-      "image": "http://parliament.gov.vu/images/bio/Nato.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Nato.jpg"
-        }
-      ],
-      "name": "Nato Taiwia"
-    },
-    {
-      "id": "1849cc10-2619-4e15-9f33-a1c991a29142",
-      "identifiers": [
-        {
-          "identifier": "nawai_tesei_john",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Nawai Tesei John"
-    },
-    {
-      "id": "63212e0c-7c73-4ba2-9d51-a6e933a90284",
-      "image": "http://parliament.gov.vu/images/bio/John_Tesei.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/John_Tesei.jpg"
-        }
-      ],
-      "name": "Nawai Tesei John"
-    },
-    {
-      "id": "2af4b9c0-0d9e-4535-b0fb-bd868236a8ef",
-      "name": "Norris Kalmet"
-    },
-    {
-      "gender": "male",
-      "given_name": "Paul",
-      "id": "41afbef3-3fc2-4ff1-966a-58595d16e2de",
-      "identifiers": [
-        {
-          "identifier": "108",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7153951",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/paul.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/paul.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Paul_Telukluk"
-        }
-      ],
-      "name": "Paul Telukluk",
-      "other_names": [
-        {
           "lang": "de",
-          "name": "Paul Telukluk",
+          "name": "Robert Bohn Sikol",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Paul Telukluk",
+          "name": "Robert Bohn Sikol",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Paul Telukluk",
+          "name": "Robert Bohn Sikol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Robert Bohn Sikol",
           "note": "multilingual"
         }
       ]
     },
     {
-      "id": "9d87e2a9-7bf6-4952-95ef-0e44fb739625",
-      "identifiers": [
-        {
-          "identifier": "131",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/vuta.jpg",
+      "id": "fdfe64ad-7115-418c-962f-6a0c06c09d89",
+      "image": "http://parliament.gov.vu/images/bio/Seoule_Simeon.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.vu/images/bio/vuta.jpg"
+          "url": "http://parliament.gov.vu/images/bio/Seoule_Simeon.jpg"
         }
       ],
-      "name": "Peter Vuta"
-    },
-    {
-      "id": "db898593-f70b-45ab-bdac-87cb60ffd3e8",
-      "identifiers": [
-        {
-          "identifier": "164",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/Hon.Philip.B.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Hon.Philip.B.jpg"
-        }
-      ],
-      "name": "Philip Boedoro"
-    },
-    {
-      "id": "1bb74e41-83be-47b9-8b72-a1ce286faca3",
-      "identifiers": [
-        {
-          "identifier": "110",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/prasad.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/prasad.jpg"
-        }
-      ],
-      "name": "Prasad Arnold"
+      "name": "Seoule Simeon"
     },
     {
       "gender": "male",
@@ -1828,629 +2443,14 @@
       "name": "Ps Don Ken Stephen"
     },
     {
-      "birth_date": "1970-09-20",
-      "gender": "male",
-      "given_name": "Ralph",
-      "id": "69f95e80-2f2c-44d2-b61f-55c1f2ae64c2",
+      "id": "ff40ed87-6803-4354-9115-c1d315e828b4",
       "identifiers": [
         {
-          "identifier": "111",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q578951",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/ralph.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/ralph.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ralph_Regenvanu.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ralph_Regenvanu"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Ralph_Regenvanu"
-        }
-      ],
-      "name": "Ralph Regenvanu",
-      "other_names": [
-        {
-          "lang": "da",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Ralph Regenvanu",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "7f01a1f3-a286-4160-b157-34cbf667fd96",
-      "identifiers": [
-        {
-          "identifier": "100",
+          "identifier": "christopher_emelee",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.vu/images/bio/Richard_Mera.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Richard_Mera.jpg"
-        }
-      ],
-      "name": "Richard Mera"
-    },
-    {
-      "id": "0037b8bc-09cc-47da-a46f-93843c18f61c",
-      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
-        }
-      ],
-      "name": "Richard Namel Ruan"
-    },
-    {
-      "id": "222c8a9d-382a-4614-af7d-7c3dbced5e5a",
-      "name": "Rick Mahe Tchamako"
-    },
-    {
-      "id": "68098cad-367d-4c9c-9f11-82b7b042f750",
-      "image": "http://parliament.gov.vu/images/bio/no_image.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/no_image.jpg"
-        }
-      ],
-      "name": "Robert Sikol Bohn"
-    },
-    {
-      "id": "8c143e9a-58ca-48e4-bac3-46eb1b34d56e",
-      "name": "Ronald Warsal Kalmasei"
-    },
-    {
-      "id": "aadbc2e2-4a5c-485e-9d2f-cfa816c1812c",
-      "identifiers": [
-        {
-          "identifier": "rouard_silas_ratan",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Rouard Silas Ratan"
-    },
-    {
-      "id": "294b8675-4e27-4b20-b88b-cd227d603b4a",
-      "identifiers": [
-        {
-          "identifier": "ruan_richard_namel",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Ruan Richard Namel"
-    },
-    {
-      "id": "26f52e3f-7309-421e-82df-779da990d1df",
-      "image": "http://parliament.gov.vu/images/bio/John_Sala.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/John_Sala.jpg"
-        }
-      ],
-      "name": "Sala John"
-    },
-    {
-      "id": "7f3e4560-ff17-4891-a896-41433c9076ac",
-      "identifiers": [
-        {
-          "identifier": "samson_samsen",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Samson Samsen"
-    },
-    {
-      "id": "d3ab5e34-d2cf-4fbb-9083-d032d2bb0345",
-      "image": "http://parliament.gov.vu/images/bio/Samson_Samsen.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Samson_Samsen.jpg"
-        }
-      ],
-      "name": "Samson Samsen"
-    },
-    {
-      "id": "fdfe64ad-7115-418c-962f-6a0c06c09d89",
-      "image": "http://parliament.gov.vu/images/bio/Seoule_Simeon.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Seoule_Simeon.jpg"
-        }
-      ],
-      "name": "Seoule Simeon"
-    },
-    {
-      "id": "08efa701-610c-4ac6-bb1f-c2f9372fb4a7",
-      "image": "http://parliament.gov.vu/images/bio/Silas_Bule.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Silas_Bule.jpg"
-        }
-      ],
-      "name": "Silas Bule Melve"
-    },
-    {
-      "id": "5f2a8636-5d43-4e3c-8539-82eb7b00861d",
-      "identifiers": [
-        {
-          "identifier": "123",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/steven.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/steven.jpg"
-        }
-      ],
-      "name": "Steven Kalsakau"
-    },
-    {
-      "id": "76dfa425-e058-487a-95a5-476b26c30815",
-      "identifiers": [
-        {
-          "identifier": "taiwia_nato",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Taiwia Nato"
-    },
-    {
-      "id": "f39a8def-003a-4095-bbf2-b9fa1ae0e5d1",
-      "identifiers": [
-        {
-          "identifier": "91",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/jimmy.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/jimmy.jpg"
-        }
-      ],
-      "name": "Tapangararua J. Willie"
-    },
-    {
-      "birth_date": "1972-03-03",
-      "gender": "male",
-      "given_name": "Thomas",
-      "id": "d8e4d828-51f1-40f5-957f-e0876910a4b3",
-      "identifiers": [
-        {
-          "identifier": "97",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16731174",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/laken.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/laken.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Thomas_Laken"
-        }
-      ],
-      "name": "Thomas Laken",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Thomas Laken",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Thomas Laken",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Thomas Laken",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "af22f32e-5d6c-43d6-9030-6be262fc8737",
-      "identifiers": [
-        {
-          "identifier": "128",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/toara.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/toara.jpg"
-        }
-      ],
-      "name": "Toara Kalo Daniel"
-    },
-    {
-      "id": "c2423b7d-15b0-479c-b6ba-cebd5a6d923b",
-      "image": "http://parliament.gov.vu/images/bio/Tom_Noam.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/Tom_Noam.jpg"
-        }
-      ],
-      "name": "Tom Noam Iouniwan"
-    },
-    {
-      "id": "9c07f41a-d058-4ab8-89ee-929fede31987",
-      "name": "Tomker Netvunei Naling"
-    },
-    {
-      "id": "0880d800-49f7-4999-b27b-2e7446f78b8c",
-      "identifiers": [
-        {
-          "identifier": "tonny_ngari",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Tonny Ngari"
-    },
-    {
-      "id": "6443c33c-e525-4c3c-9b91-2a6290a42c57",
-      "name": "Uri Warawara"
-    },
-    {
-      "birth_date": "1955",
-      "gender": "male",
-      "given_name": "Serge",
-      "id": "9d0d05d6-8c65-4b30-892a-c39e004792ec",
-      "identifiers": [
-        {
-          "identifier": "biography/Serge-Vohor",
-          "scheme": "britannica"
-        },
-        {
-          "identifier": "130",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/03jtm1",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q736823",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.gov.vu/images/bio/vohor.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.vu/images/bio/vohor.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rialuth_Serge_Vohor_(Imagicity_1307)_(cropped).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bi)",
-          "url": "https://bi.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Σερζ_Βοχόρ"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (eo)",
-          "url": "https://eo.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Вохор,_Серж"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Rialuth_Serge_Vohor"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Серж_Вохор"
-        }
-      ],
-      "name": "Vohor Serge Rialuth",
-      "other_names": [
-        {
-          "name": "Serge Vohor",
-          "note": "alternate"
-        },
-        {
-          "lang": "bi",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Σερζ Βοχόρ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "サージ・ボオール",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Серж Вохор",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Rialuth Serge Vohor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Серж Вохор",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "渥荷",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "瑟奇·沃霍尔",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "瑟奇·沃霍爾",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "512d8681-dfd6-4f8b-b12d-de7490f2cdb8",
-      "identifiers": [
-        {
-          "identifier": "william_k._gillion",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "William K. Gillion"
-    },
-    {
-      "birth_date": "1960-03-04",
-      "gender": "male",
-      "given_name": "Antoine",
-      "id": "4dc9d1bd-4dca-4643-8b18-e6c276747ab9",
-      "identifiers": [
-        {
-          "identifier": "wright_antoine_tonny",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q15459326",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Antoine_Wright_(politician)"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Antoine_Wright"
-        }
-      ],
-      "name": "Wright Antoine Tonny",
-      "other_names": [
-        {
-          "name": "Antoine Wright",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Antoine Wright",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Antoine Wright",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Antoine Wright",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1986-05-16",
-      "gender": "male",
-      "given_name": "Pascal",
-      "id": "e6c840ca-d8f9-40d0-9b9c-5d5ba9dd22dd",
-      "identifiers": [
-        {
-          "identifier": "yauko_pascal",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q16231327",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Pascal_Iauko"
-        }
-      ],
-      "name": "Yauko Pascal",
-      "other_names": [
-        {
-          "name": "Pascal Iauko",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Pascal Iauko",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Pascal Iauko",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Christopher Emelee"
     }
   ],
   "organizations": [
