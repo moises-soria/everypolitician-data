@@ -804,5 +804,29 @@
         "P768": "Hong Kong Island"
       }
     }
+  ],
+  "Q200501": [
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2000-10-01",
+        "P582": "2012-09-30",
+        "P768": "Kowloon West"
+      }
+    },
+    {
+      "id": "Q27908372",
+      "label": "member of the Legislative Council",
+      "title": "member of the Legislative Council",
+      "description": "member of the Hong Kong legislature",
+      "qualifiers": {
+        "P580": "2012-10-01",
+        "P582": "2016-09-30",
+        "P768": "District Council (Second)"
+      }
+    }
   ]
 }
