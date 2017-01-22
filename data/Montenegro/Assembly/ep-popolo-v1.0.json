@@ -4,713 +4,25 @@
   ],
   "persons": [
     {
-      "birth_date": "1975-02-17",
       "gender": "male",
-      "id": "9ee1acbc-2733-4ae1-91c1-38465920742a",
+      "id": "0263e85f-6ff4-4e37-93a2-418d41066a02",
       "identifiers": [
         {
-          "identifier": "550a7f55273a3965683bd83a",
+          "identifier": "550a7f88273a3965683bd91a",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "102",
+          "identifier": "141",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f55273a3965683bd83a/image.2.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f88273a3965683bd91a/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f55273a3965683bd83a/image.2.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f88273a3965683bd91a/image.jpeg"
         }
       ],
-      "name": "Almer Kalač"
-    },
-    {
-      "birth_date": "1965-01-19",
-      "family_name": "Mandić",
-      "gender": "male",
-      "given_name": "Andrija",
-      "id": "f76ec47f-b8d0-479c-8699-9a8aaf27ea25",
-      "identifiers": [
-        {
-          "identifier": "550a7f75273a3965683bd8be",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/03ctzkl",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "5993",
-          "scheme": "pace"
-        },
-        {
-          "identifier": "130",
-          "scheme": "skupstina"
-        },
-        {
-          "identifier": "Q511453",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f75273a3965683bd8be/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f75273a3965683bd8be/image.jpeg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Andrija_Mandić"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Andrija_Mandić"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Andrija_Mandić"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Andrija_Mandić"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Андрија_Мандић"
-        }
-      ],
-      "name": "Andrija Mandić",
-      "other_names": [
-        {
-          "lang": "af",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "an",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ast",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bar",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bm",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "br",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "co",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de-at",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de-ch",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "frc",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "frp",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fur",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ga",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gd",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gsw",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ia",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "id",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ie",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "io",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "jam",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "kab",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "kg",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lb",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "li",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lij",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lt",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lv",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mg",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "min",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ms",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nap",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nds",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nds-nl",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nrm",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "oc",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pap",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pcd",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pms",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "prg",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt-br",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "rgn",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "rm",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sc",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "scn",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sco",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sk",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Андрија Мандић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sw",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vec",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vls",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vmf",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vo",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "wa",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "wo",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zu",
-          "name": "Andrija Mandić",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1959-09-22",
-      "gender": "male",
-      "given_name": "Andrija",
-      "id": "6efdba28-a404-4775-b951-5eb292ed3e4b",
-      "identifiers": [
-        {
-          "identifier": "550a7f8e273a3965683bd936",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "151",
-          "scheme": "skupstina"
-        },
-        {
-          "identifier": "Q3485241",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd936/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd936/image.jpeg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Andrija_Popovic.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bs)",
-          "url": "https://bs.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Andrija_Popović"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Андрія_Попович"
-        }
-      ],
-      "name": "Andrija Popović",
-      "other_names": [
-        {
-          "lang": "bs",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Andrija Popović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Андрія Попович",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "df76ef9f-daf5-4a71-90c5-8e79100fd077",
-      "identifiers": [
-        {
-          "identifier": "550a7f5b273a3965683bd852",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "97",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5b273a3965683bd852/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5b273a3965683bd852/image.2.jpeg"
-        }
-      ],
-      "name": "Azra Jasavić"
-    },
-    {
-      "birth_date": "1961-07-24",
-      "gender": "male",
-      "id": "f668786a-530c-459b-a103-86ed4912d7c4",
-      "identifiers": [
-        {
-          "identifier": "550a7f89273a3965683bd91e",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "116",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f89273a3965683bd91e/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f89273a3965683bd91e/image.jpeg"
-        }
-      ],
-      "name": "Borislav Banović"
-    },
-    {
-      "birth_date": "1955-02-16",
-      "gender": "male",
-      "id": "20caa436-db59-4228-a646-9d7f2548db52",
-      "identifiers": [
-        {
-          "identifier": "550a7f8b273a3965683bd926",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "143",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8b273a3965683bd926/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8b273a3965683bd926/image.jpeg"
-        }
-      ],
-      "name": "Branko Čavor"
-    },
-    {
-      "birth_date": "1981-06-22",
-      "gender": "male",
-      "id": "3afa6f56-ccfc-468b-904b-aef7771b2082",
-      "identifiers": [
-        {
-          "identifier": "550a7f99273a3965683bd966",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "124",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f99273a3965683bd966/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f99273a3965683bd966/image.jpeg"
-        }
-      ],
-      "name": "Damir Šehović"
+      "name": "Veljko Zarubica"
     },
     {
       "birth_date": "1959-01-09",
@@ -735,221 +47,147 @@
       "name": "Danijela - Danka Marković"
     },
     {
-      "birth_date": "1972-11-24",
+      "birth_date": "1967-02-08",
       "gender": "male",
-      "id": "f75bac0c-80dd-4bc9-a35f-8fb70301e85a",
+      "id": "082adf64-7b29-4075-9e83-80c511dc87eb",
       "identifiers": [
         {
-          "identifier": "550a7f5a273a3965683bd84e",
+          "identifier": "550a7f8e273a3965683bd932",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "96",
+          "identifier": "128",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5a273a3965683bd84e/image.2.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd932/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5a273a3965683bd84e/image.2.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd932/image.jpeg"
         }
       ],
-      "name": "Darko Pajović"
+      "name": "Šefkija Murić"
     },
     {
-      "birth_date": "1959-08-08",
+      "birth_date": "1950-07-11",
       "gender": "male",
-      "id": "76349bbe-891e-40f5-8746-49d19b19da09",
+      "given_name": "Rifat",
+      "id": "08351b00-a6c6-4406-950f-cde372e17a73",
       "identifiers": [
         {
-          "identifier": "550a7f97273a3965683bd95e",
+          "identifier": "16674160k",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "550a7f90273a3965683bd93e",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "255",
+          "identifier": "111",
           "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f97273a3965683bd95e/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f97273a3965683bd95e/image.jpeg"
-        }
-      ],
-      "name": "Dr Jasmin Sutović"
-    },
-    {
-      "birth_date": "1978-04-07",
-      "gender": "female",
-      "id": "672c6d25-bce0-4809-8725-d6fb20e1690c",
-      "identifiers": [
-        {
-          "identifier": "550a7f82273a3965683bd8fa",
-          "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "118",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f82273a3965683bd8fa/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f82273a3965683bd8fa/image.jpeg"
-        }
-      ],
-      "name": "Draginja Vuksanović"
-    },
-    {
-      "birth_date": "1959-03-04",
-      "gender": "male",
-      "id": "ba91335f-bbd3-45a2-8b89-5eb26dc42eeb",
-      "identifiers": [
-        {
-          "identifier": "550a7f7f273a3965683bd8ea",
-          "scheme": "everypolitician_legacy"
+          "identifier": "48560356",
+          "scheme": "viaf"
         },
         {
-          "identifier": "121",
-          "scheme": "skupstina"
+          "identifier": "Q7333214",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ea/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f90273a3965683bd93e/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ea/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f90273a3965683bd93e/image.jpeg"
         }
       ],
-      "name": "Džavid Šabović"
-    },
-    {
-      "birth_date": "1957-01-04",
-      "gender": "male",
-      "id": "64551440-bc21-45cc-a0b8-7b2c7b00e844",
-      "identifiers": [
+      "links": [
         {
-          "identifier": "550a7f6a273a3965683bd896",
-          "scheme": "everypolitician_legacy"
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rifat_Rastoder"
+        }
+      ],
+      "name": "Rifat Rastoder",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Rifat Rastoder",
+          "note": "multilingual"
         },
         {
-          "identifier": "156",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6a273a3965683bd896/image.2.jpeg",
-      "images": [
+          "lang": "en",
+          "name": "Rifat Rastoder",
+          "note": "multilingual"
+        },
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6a273a3965683bd896/image.2.jpeg"
+          "lang": "es",
+          "name": "Rifat Rastoder",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rifat Rastoder",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rifat Rastoder",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リファト・ラストデル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "瑞法特·拉斯托德",
+          "note": "multilingual"
         }
-      ],
-      "name": "Emilo Labudović"
+      ]
     },
     {
       "gender": "male",
-      "id": "7d158a7e-b14c-40c6-9d10-28a3f66902d9",
+      "id": "0dc9cbb2-321f-45f5-8a60-98fd3ad4499c",
       "identifiers": [
         {
-          "identifier": "550a7f52273a3965683bd82e",
+          "identifier": "550a7f67273a3965683bd88a",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "145",
+          "identifier": "158",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82e/image.3.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f67273a3965683bd88a/image.3.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82e/image.3.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f67273a3965683bd88a/image.3.jpeg"
         }
       ],
-      "name": "Genci Nimanbegu"
+      "name": "dr Radovan Asanović"
     },
     {
+      "birth_date": "1976-06-11",
       "gender": "male",
-      "id": "a6f8c8b4-86b9-4453-82de-5c524cb1fe02",
+      "id": "10cbddd7-7de9-4fe3-9917-f2188df70d04",
       "identifiers": [
         {
-          "identifier": "550a7f71273a3965683bd8ae",
+          "identifier": "550a7f59273a3965683bd84a",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "140",
+          "identifier": "99",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f71273a3965683bd8ae/image.3.jpeg",
+      "image": "http://www.skupstina.me/images/poslanici/pozitivna/srdjan_peric.jpg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f71273a3965683bd8ae/image.3.jpeg"
+          "url": "http://www.skupstina.me/images/poslanici/pozitivna/srdjan_peric.jpg"
         }
       ],
-      "name": "Goran Danilović"
-    },
-    {
-      "gender": "male",
-      "id": "65a05023-4e8e-403d-96a5-eb9c25ab8024",
-      "identifiers": [
-        {
-          "identifier": "550a7f57273a3965683bd842",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "101",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f57273a3965683bd842/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f57273a3965683bd842/image.2.jpeg"
-        }
-      ],
-      "name": "Goran Tuponja"
-    },
-    {
-      "birth_date": "1952-11-23",
-      "gender": "male",
-      "id": "147470f5-8eca-4948-8716-a71b32de11df",
-      "identifiers": [
-        {
-          "identifier": "550a7f80273a3965683bd8f2",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "162",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f80273a3965683bd8f2/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f80273a3965683bd8f2/image.jpeg"
-        }
-      ],
-      "name": "Husnija Šabović"
-    },
-    {
-      "birth_date": "1966-05-13",
-      "gender": "male",
-      "id": "4ed79e4b-0160-48cc-9477-e3d69f2ff394",
-      "identifiers": [
-        {
-          "identifier": "550a7f6f273a3965683bd8a6",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "127",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6f273a3965683bd8a6/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6f273a3965683bd8a6/image.jpeg"
-        }
-      ],
-      "name": "Janko Vučinić"
+      "name": "Srđan Perić"
     },
     {
       "birth_date": "1962-09-17",
@@ -997,67 +235,263 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "895b6040-600d-4e77-9090-d50827320569",
+      "birth_date": "1952-11-23",
+      "gender": "male",
+      "id": "147470f5-8eca-4948-8716-a71b32de11df",
       "identifiers": [
         {
-          "identifier": "550a7f50273a3965683bd826",
+          "identifier": "550a7f80273a3965683bd8f2",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "148",
+          "identifier": "162",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f50273a3965683bd826/image.2.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f80273a3965683bd8f2/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f50273a3965683bd826/image.2.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f80273a3965683bd8f2/image.jpeg"
         }
       ],
-      "name": "Ljerka Dragičević"
+      "name": "Husnija Šabović"
     },
     {
       "gender": "male",
-      "id": "8b116bf9-290b-4280-bf43-f1525777f134",
+      "id": "19e03b41-9de9-4a01-8820-926d0c692e17",
       "identifiers": [
         {
-          "identifier": "550a7f86273a3965683bd90e",
+          "identifier": "550a7f84273a3965683bd906",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "146",
+          "identifier": "154",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f86273a3965683bd90e/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f84273a3965683bd906/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f86273a3965683bd90e/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f84273a3965683bd906/image.jpeg"
         }
       ],
-      "name": "Luiđ Ljubo Škrelja"
+      "name": "Zoran Jelić"
     },
     {
-      "gender": "female",
-      "id": "55c6a197-9412-4474-820d-5aa8ad269cc1",
+      "gender": "male",
+      "id": "1dce56b5-56f5-4661-9703-d1c28fb39b65",
       "identifiers": [
         {
-          "identifier": "554a2823273a395cd1918267",
+          "identifier": "550a7f85273a3965683bd90a",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "344",
+          "identifier": "150",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/554a2823273a395cd1918267/image.3.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f85273a3965683bd90a/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/554a2823273a395cd1918267/image.3.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f85273a3965683bd90a/image.jpeg"
         }
       ],
-      "name": "Maida Bešlić"
+      "name": "Milorad Vuletić"
+    },
+    {
+      "birth_date": "1955-02-16",
+      "gender": "male",
+      "id": "20caa436-db59-4228-a646-9d7f2548db52",
+      "identifiers": [
+        {
+          "identifier": "550a7f8b273a3965683bd926",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "143",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8b273a3965683bd926/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8b273a3965683bd926/image.jpeg"
+        }
+      ],
+      "name": "Branko Čavor"
+    },
+    {
+      "gender": "male",
+      "id": "242833b1-f02f-4d69-b7dc-e4d2540c6ac9",
+      "identifiers": [
+        {
+          "identifier": "550a7f52273a3965683bd82a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "249",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82a/image.3.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82a/image.3.jpeg"
+        }
+      ],
+      "name": "Nik Gjeloshaj"
+    },
+    {
+      "birth_date": "1973-10-08",
+      "gender": "male",
+      "id": "254ae1d0-63a1-4b91-a81f-a3f2356672c5",
+      "identifiers": [
+        {
+          "identifier": "550a7f53273a3965683bd832",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "105",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f53273a3965683bd832/image.3.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f53273a3965683bd832/image.3.jpeg"
+        }
+      ],
+      "name": "Suljo Mustafić"
+    },
+    {
+      "birth_date": "1953-11-02",
+      "gender": "male",
+      "id": "27a62f13-66b4-49ae-84cc-75a1a9f9052c",
+      "identifiers": [
+        {
+          "identifier": "550a7f62273a3965683bd876",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "110",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f62273a3965683bd876/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f62273a3965683bd876/image.2.jpeg"
+        }
+      ],
+      "name": "Neven Gošović"
+    },
+    {
+      "gender": "male",
+      "id": "2910207e-4a43-4c7b-9fee-a11d59170353",
+      "identifiers": [
+        {
+          "identifier": "550a7f6b273a3965683bd89a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "153",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6b273a3965683bd89a/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6b273a3965683bd89a/image.2.jpeg"
+        }
+      ],
+      "name": "Vladislav Bojović"
+    },
+    {
+      "birth_date": "1969-12-22",
+      "gender": "male",
+      "id": "2d4ce6fa-443b-444a-943d-a288a7f3af67",
+      "identifiers": [
+        {
+          "identifier": "550a7f60273a3965683bd86a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "131",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f60273a3965683bd86a/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f60273a3965683bd86a/image.2.jpeg"
+        }
+      ],
+      "name": "mr Aleksandar Damjanović"
+    },
+    {
+      "birth_date": "1947-11-21",
+      "gender": "male",
+      "id": "327f5d19-90ea-42a8-ab20-d3c920a7542e",
+      "identifiers": [
+        {
+          "identifier": "550a7f78273a3965683bd8ca",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "117",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f78273a3965683bd8ca/image.3.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f78273a3965683bd8ca/image.3.jpeg"
+        }
+      ],
+      "name": "Miodrag Lekić"
+    },
+    {
+      "gender": "male",
+      "id": "362441f3-cb63-4d31-803e-75e6c709cdfe",
+      "identifiers": [
+        {
+          "identifier": "550a7f87273a3965683bd916",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "115",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f87273a3965683bd916/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f87273a3965683bd916/image.jpeg"
+        }
+      ],
+      "name": "Prim.dr Izet Bralić"
+    },
+    {
+      "birth_date": "1981-06-22",
+      "gender": "male",
+      "id": "3afa6f56-ccfc-468b-904b-aef7771b2082",
+      "identifiers": [
+        {
+          "identifier": "550a7f99273a3965683bd966",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "124",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f99273a3965683bd966/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f99273a3965683bd966/image.jpeg"
+        }
+      ],
+      "name": "Damir Šehović"
     },
     {
       "birth_date": "1947-03-06",
@@ -1082,89 +516,26 @@
       "name": "Marija Maja Ćatović"
     },
     {
-      "gender": "female",
-      "id": "50caf967-b942-4a7c-9d51-317697f4cc68",
-      "identifiers": [
-        {
-          "identifier": "550a7f81273a3965683bd8f6",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "157",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f81273a3965683bd8f6/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f81273a3965683bd8f6/image.jpeg"
-        }
-      ],
-      "name": "Marta Šćepanović"
-    },
-    {
+      "birth_date": "1962-11-14",
       "gender": "male",
-      "id": "5b730dfe-8845-4263-b93c-ddb8df5fc015",
+      "id": "3d1fe641-1345-428e-a8f7-4e0ba6320017",
       "identifiers": [
         {
-          "identifier": "550a7f98273a3965683bd962",
+          "identifier": "550a7f5c273a3965683bd85a",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "104",
+          "identifier": "98",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f98273a3965683bd962/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5c273a3965683bd85a/image.2.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f98273a3965683bd962/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5c273a3965683bd85a/image.2.jpeg"
         }
       ],
-      "name": "Mevludin Nuhodžić"
-    },
-    {
-      "birth_date": "1980-03-24",
-      "gender": "male",
-      "id": "9440bcac-9474-4f9f-840a-73987ff7b038",
-      "identifiers": [
-        {
-          "identifier": "550a7f76273a3965683bd8c2",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "126",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f76273a3965683bd8c2/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f76273a3965683bd8c2/image.jpeg"
-        }
-      ],
-      "name": "Milan Knežević"
-    },
-    {
-      "gender": "male",
-      "id": "1dce56b5-56f5-4661-9703-d1c28fb39b65",
-      "identifiers": [
-        {
-          "identifier": "550a7f85273a3965683bd90a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "150",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f85273a3965683bd90a/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f85273a3965683bd90a/image.jpeg"
-        }
-      ],
-      "name": "Milorad Vuletić"
+      "name": "Mladen Bojanić"
     },
     {
       "birth_date": "1962-02-15",
@@ -1785,91 +1156,48 @@
       ]
     },
     {
-      "birth_date": "1947-11-21",
+      "birth_date": "1963-09-12",
       "gender": "male",
-      "id": "327f5d19-90ea-42a8-ab20-d3c920a7542e",
+      "id": "41e17715-68af-4adf-9a91-b7a9b558281e",
       "identifiers": [
         {
-          "identifier": "550a7f78273a3965683bd8ca",
+          "identifier": "550a7f7c273a3965683bd8de",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "117",
+          "identifier": "173",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f78273a3965683bd8ca/image.3.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7c273a3965683bd8de/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f78273a3965683bd8ca/image.3.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7c273a3965683bd8de/image.jpeg"
         }
       ],
-      "name": "Miodrag Lekić"
+      "name": "Željko Aprcović"
     },
     {
-      "birth_date": "1956-11-21",
+      "birth_date": "1958-08-13",
       "gender": "male",
-      "id": "ec5ed24b-4864-42ca-826e-953011c41cf7",
+      "id": "45ea72dc-1cc2-4d6c-a55d-ca421af5c2c3",
       "identifiers": [
         {
-          "identifier": "550a7f8f273a3965683bd93a",
+          "identifier": "550a7f7e273a3965683bd8e6",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "112",
+          "identifier": "170",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8f273a3965683bd93a/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7e273a3965683bd8e6/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8f273a3965683bd93a/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7e273a3965683bd8e6/image.jpeg"
         }
       ],
-      "name": "Mićo Orlandić"
-    },
-    {
-      "birth_date": "1962-11-14",
-      "gender": "male",
-      "id": "3d1fe641-1345-428e-a8f7-4e0ba6320017",
-      "identifiers": [
-        {
-          "identifier": "550a7f5c273a3965683bd85a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "98",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5c273a3965683bd85a/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5c273a3965683bd85a/image.2.jpeg"
-        }
-      ],
-      "name": "Mladen Bojanić"
-    },
-    {
-      "gender": "male",
-      "id": "d1e2a886-2aaf-4ca5-abb3-be00ff18b784",
-      "identifiers": [
-        {
-          "identifier": "550a7f54273a3965683bd836",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "265",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f54273a3965683bd836/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f54273a3965683bd836/image.2.jpeg"
-        }
-      ],
-      "name": "Mr Rešad Sijarić"
+      "name": "Rešid Adrović"
     },
     {
       "gender": "female",
@@ -1891,6 +1219,591 @@
         }
       ],
       "name": "Nada Drobnjak"
+    },
+    {
+      "birth_date": "1966-05-13",
+      "gender": "male",
+      "id": "4ed79e4b-0160-48cc-9477-e3d69f2ff394",
+      "identifiers": [
+        {
+          "identifier": "550a7f6f273a3965683bd8a6",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "127",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6f273a3965683bd8a6/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6f273a3965683bd8a6/image.jpeg"
+        }
+      ],
+      "name": "Janko Vučinić"
+    },
+    {
+      "birth_date": "1958-05-03",
+      "gender": "male",
+      "id": "503b172d-f333-4a00-8d2b-1bf676f30961",
+      "identifiers": [
+        {
+          "identifier": "550a7f8c273a3965683bd92a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "136",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8c273a3965683bd92a/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8c273a3965683bd92a/image.jpeg"
+        }
+      ],
+      "name": "Slobodan Krušo Radović"
+    },
+    {
+      "gender": "female",
+      "id": "50caf967-b942-4a7c-9d51-317697f4cc68",
+      "identifiers": [
+        {
+          "identifier": "550a7f81273a3965683bd8f6",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "157",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f81273a3965683bd8f6/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f81273a3965683bd8f6/image.jpeg"
+        }
+      ],
+      "name": "Marta Šćepanović"
+    },
+    {
+      "gender": "male",
+      "id": "516a97ac-b3e6-4874-a852-9ab35e8263d2",
+      "identifiers": [
+        {
+          "identifier": "550a7f83273a3965683bd902",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "152",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f83273a3965683bd902/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f83273a3965683bd902/image.jpeg"
+        }
+      ],
+      "name": "Obrad Mišo Stanišić"
+    },
+    {
+      "birth_date": "1958-01-13",
+      "gender": "female",
+      "id": "518219a0-66eb-4a1b-a9ac-d74a53060065",
+      "identifiers": [
+        {
+          "identifier": "550a7f77273a3965683bd8c6",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "120",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f77273a3965683bd8c6/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f77273a3965683bd8c6/image.jpeg"
+        }
+      ],
+      "name": "dr Ljiljana Đurašković"
+    },
+    {
+      "birth_date": "1964-01-06",
+      "gender": "male",
+      "id": "51e900c0-21dc-4c74-9fe2-73cbd6f29d44",
+      "identifiers": [
+        {
+          "identifier": "550a7f6c273a3965683bd89e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "147",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6c273a3965683bd89e/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6c273a3965683bd89e/image.jpeg"
+        }
+      ],
+      "name": "Slaven Radunović"
+    },
+    {
+      "gender": "female",
+      "id": "55c6a197-9412-4474-820d-5aa8ad269cc1",
+      "identifiers": [
+        {
+          "identifier": "554a2823273a395cd1918267",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "344",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/554a2823273a395cd1918267/image.3.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/554a2823273a395cd1918267/image.3.jpeg"
+        }
+      ],
+      "name": "Maida Bešlić"
+    },
+    {
+      "gender": "male",
+      "id": "5b730dfe-8845-4263-b93c-ddb8df5fc015",
+      "identifiers": [
+        {
+          "identifier": "550a7f98273a3965683bd962",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "104",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f98273a3965683bd962/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f98273a3965683bd962/image.jpeg"
+        }
+      ],
+      "name": "Mevludin Nuhodžić"
+    },
+    {
+      "birth_date": "1963-06-29",
+      "gender": "male",
+      "id": "5cfd4a91-6778-4e10-a6b8-934464bfc58b",
+      "identifiers": [
+        {
+          "identifier": "550a7f5d273a3965683bd85e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "129",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5d273a3965683bd85e/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5d273a3965683bd85e/image.2.jpeg"
+        }
+      ],
+      "name": "Obrad Gojković"
+    },
+    {
+      "gender": "female",
+      "id": "5e589ec4-46da-44ed-be03-c3d3ed545503",
+      "identifiers": [
+        {
+          "identifier": "550a7f7b273a3965683bd8da",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "174",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7b273a3965683bd8da/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7b273a3965683bd8da/image.jpeg"
+        }
+      ],
+      "name": "Zorica Kovačević"
+    },
+    {
+      "birth_date": "1964-05-28",
+      "gender": "male",
+      "id": "619a8b58-fc8a-429f-9d37-65dc483037fa",
+      "identifiers": [
+        {
+          "identifier": "550a7f94273a3965683bd94e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "185",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f94273a3965683bd94e/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f94273a3965683bd94e/image.jpeg"
+        }
+      ],
+      "name": "dr Predrag Sekulić"
+    },
+    {
+      "birth_date": "1955-01-14",
+      "gender": "male",
+      "id": "643ebcb1-a88c-43b9-b295-b8ce68277d44",
+      "identifiers": [
+        {
+          "identifier": "550a7f91273a3965683bd942",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "125",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f91273a3965683bd942/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f91273a3965683bd942/image.jpeg"
+        }
+      ],
+      "name": "Prof. dr Miodrag Vuković"
+    },
+    {
+      "birth_date": "1957-01-04",
+      "gender": "male",
+      "id": "64551440-bc21-45cc-a0b8-7b2c7b00e844",
+      "identifiers": [
+        {
+          "identifier": "550a7f6a273a3965683bd896",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "156",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6a273a3965683bd896/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6a273a3965683bd896/image.2.jpeg"
+        }
+      ],
+      "name": "Emilo Labudović"
+    },
+    {
+      "gender": "male",
+      "id": "65a05023-4e8e-403d-96a5-eb9c25ab8024",
+      "identifiers": [
+        {
+          "identifier": "550a7f57273a3965683bd842",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "101",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f57273a3965683bd842/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f57273a3965683bd842/image.2.jpeg"
+        }
+      ],
+      "name": "Goran Tuponja"
+    },
+    {
+      "birth_date": "1978-04-07",
+      "gender": "female",
+      "id": "672c6d25-bce0-4809-8725-d6fb20e1690c",
+      "identifiers": [
+        {
+          "identifier": "550a7f82273a3965683bd8fa",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "118",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f82273a3965683bd8fa/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f82273a3965683bd8fa/image.jpeg"
+        }
+      ],
+      "name": "Draginja Vuksanović"
+    },
+    {
+      "birth_date": "1958-04-05",
+      "gender": "male",
+      "id": "6ea41c8d-6f80-445e-8457-7e888a451982",
+      "identifiers": [
+        {
+          "identifier": "550a7f8d273a3965683bd92e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "133",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8d273a3965683bd92e/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8d273a3965683bd92e/image.jpeg"
+        }
+      ],
+      "name": "doc. dr Srđa Popović"
+    },
+    {
+      "birth_date": "1959-09-22",
+      "gender": "male",
+      "given_name": "Andrija",
+      "id": "6efdba28-a404-4775-b951-5eb292ed3e4b",
+      "identifiers": [
+        {
+          "identifier": "550a7f8e273a3965683bd936",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "151",
+          "scheme": "skupstina"
+        },
+        {
+          "identifier": "Q3485241",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd936/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd936/image.jpeg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Andrija_Popovic.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Andrija_Popović"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Андрія_Попович"
+        }
+      ],
+      "name": "Andrija Popović",
+      "other_names": [
+        {
+          "lang": "bs",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrija Popović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Андрія Попович",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1976-11-29",
+      "gender": "male",
+      "id": "7370f3dd-a5ba-48af-82d0-8825db49a4ea",
+      "identifiers": [
+        {
+          "identifier": "550a7f61273a3965683bd86e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "119",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd86e/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd86e/image.2.jpeg"
+        }
+      ],
+      "name": "mr Danko Šarančić"
+    },
+    {
+      "birth_date": "1959-08-08",
+      "gender": "male",
+      "id": "76349bbe-891e-40f5-8746-49d19b19da09",
+      "identifiers": [
+        {
+          "identifier": "550a7f97273a3965683bd95e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "255",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f97273a3965683bd95e/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f97273a3965683bd95e/image.jpeg"
+        }
+      ],
+      "name": "Dr Jasmin Sutović"
+    },
+    {
+      "birth_date": "1961-12-29",
+      "gender": "male",
+      "id": "7a70ef4c-44cd-45aa-8994-02fd29838544",
+      "identifiers": [
+        {
+          "identifier": "550a7f95273a3965683bd956",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "109",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f95273a3965683bd956/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f95273a3965683bd956/image.jpeg"
+        }
+      ],
+      "name": "mr Milutin Simović"
+    },
+    {
+      "gender": "male",
+      "id": "7d158a7e-b14c-40c6-9d10-28a3f66902d9",
+      "identifiers": [
+        {
+          "identifier": "550a7f52273a3965683bd82e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "145",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82e/image.3.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82e/image.3.jpeg"
+        }
+      ],
+      "name": "Genci Nimanbegu"
+    },
+    {
+      "birth_date": "1950-07-10",
+      "gender": "male",
+      "id": "8102d0ae-95da-4010-b779-2f1bd4d3fb04",
+      "identifiers": [
+        {
+          "identifier": "550a7f70273a3965683bd8aa",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "142",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f70273a3965683bd8aa/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f70273a3965683bd8aa/image.jpeg"
+        }
+      ],
+      "name": "Prof. dr Branko Radulović"
     },
     {
       "birth_date": "1966-06-13",
@@ -1947,49 +1860,6 @@
       ]
     },
     {
-      "birth_date": "1953-11-02",
-      "gender": "male",
-      "id": "27a62f13-66b4-49ae-84cc-75a1a9f9052c",
-      "identifiers": [
-        {
-          "identifier": "550a7f62273a3965683bd876",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "110",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f62273a3965683bd876/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f62273a3965683bd876/image.2.jpeg"
-        }
-      ],
-      "name": "Neven Gošović"
-    },
-    {
-      "gender": "male",
-      "id": "242833b1-f02f-4d69-b7dc-e4d2540c6ac9",
-      "identifiers": [
-        {
-          "identifier": "550a7f52273a3965683bd82a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "249",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82a/image.3.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f52273a3965683bd82a/image.3.jpeg"
-        }
-      ],
-      "name": "Nik Gjeloshaj"
-    },
-    {
       "birth_date": "1970-04-05",
       "gender": "male",
       "id": "82c33f3a-ecad-4e2c-80fe-5bbb9b95e911",
@@ -2012,47 +1882,25 @@
       "name": "Nikola Gegaj"
     },
     {
-      "birth_date": "1963-06-29",
       "gender": "male",
-      "id": "5cfd4a91-6778-4e10-a6b8-934464bfc58b",
+      "id": "85a77b4e-8e8b-4a59-86a1-fb66d532b4dc",
       "identifiers": [
         {
-          "identifier": "550a7f5d273a3965683bd85e",
+          "identifier": "550a7f8a273a3965683bd922",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "129",
+          "identifier": "139",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5d273a3965683bd85e/image.2.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8a273a3965683bd922/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5d273a3965683bd85e/image.2.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8a273a3965683bd922/image.jpeg"
         }
       ],
-      "name": "Obrad Gojković"
-    },
-    {
-      "gender": "male",
-      "id": "516a97ac-b3e6-4874-a852-9ab35e8263d2",
-      "identifiers": [
-        {
-          "identifier": "550a7f83273a3965683bd902",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "152",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f83273a3965683bd902/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f83273a3965683bd902/image.jpeg"
-        }
-      ],
-      "name": "Obrad Mišo Stanišić"
+      "name": "Saša Pešić"
     },
     {
       "birth_date": "1956-07-16",
@@ -2100,47 +1948,134 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "362441f3-cb63-4d31-803e-75e6c709cdfe",
+      "gender": "female",
+      "id": "895b6040-600d-4e77-9090-d50827320569",
       "identifiers": [
         {
-          "identifier": "550a7f87273a3965683bd916",
+          "identifier": "550a7f50273a3965683bd826",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "115",
+          "identifier": "148",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f87273a3965683bd916/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f50273a3965683bd826/image.2.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f87273a3965683bd916/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f50273a3965683bd826/image.2.jpeg"
         }
       ],
-      "name": "Prim.dr Izet Bralić"
+      "name": "Ljerka Dragičević"
     },
     {
-      "birth_date": "1950-07-10",
       "gender": "male",
-      "id": "8102d0ae-95da-4010-b779-2f1bd4d3fb04",
+      "id": "8b116bf9-290b-4280-bf43-f1525777f134",
       "identifiers": [
         {
-          "identifier": "550a7f70273a3965683bd8aa",
+          "identifier": "550a7f86273a3965683bd90e",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "142",
+          "identifier": "146",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f70273a3965683bd8aa/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f86273a3965683bd90e/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f70273a3965683bd8aa/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f86273a3965683bd90e/image.jpeg"
         }
       ],
-      "name": "Prof. dr Branko Radulović"
+      "name": "Luiđ Ljubo Škrelja"
+    },
+    {
+      "birth_date": "1958-03-02",
+      "gender": "male",
+      "id": "8edd3d0f-01a1-4843-b4cb-75c3d2ad45ee",
+      "identifiers": [
+        {
+          "identifier": "550a7f5f273a3965683bd866",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "138",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5f273a3965683bd866/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5f273a3965683bd866/image.2.jpeg"
+        }
+      ],
+      "name": "dr Radosav Nišavić"
+    },
+    {
+      "birth_date": "1980-03-24",
+      "gender": "male",
+      "id": "9440bcac-9474-4f9f-840a-73987ff7b038",
+      "identifiers": [
+        {
+          "identifier": "550a7f76273a3965683bd8c2",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "126",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f76273a3965683bd8c2/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f76273a3965683bd8c2/image.jpeg"
+        }
+      ],
+      "name": "Milan Knežević"
+    },
+    {
+      "birth_date": "1985-12-25",
+      "gender": "male",
+      "id": "9c3514f6-b134-4216-a0c3-1e45e8cf7d16",
+      "identifiers": [
+        {
+          "identifier": "550a7f58273a3965683bd846",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "100",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f58273a3965683bd846/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f58273a3965683bd846/image.2.jpeg"
+        }
+      ],
+      "name": "mr Dritan Abazović"
+    },
+    {
+      "birth_date": "1975-02-17",
+      "gender": "male",
+      "id": "9ee1acbc-2733-4ae1-91c1-38465920742a",
+      "identifiers": [
+        {
+          "identifier": "550a7f55273a3965683bd83a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "102",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f55273a3965683bd83a/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f55273a3965683bd83a/image.2.jpeg"
+        }
+      ],
+      "name": "Almer Kalač"
     },
     {
       "gender": "female",
@@ -2164,70 +2099,254 @@
       "name": "Prof. dr Jelisava Kalezić"
     },
     {
-      "birth_date": "1955-01-14",
+      "birth_date": "1956-10-23",
       "gender": "male",
-      "id": "643ebcb1-a88c-43b9-b295-b8ce68277d44",
+      "id": "a08c06c2-b4fb-4041-95f6-2fe370dfd7e8",
       "identifiers": [
         {
-          "identifier": "550a7f91273a3965683bd942",
+          "identifier": "550a7f92273a3965683bd946",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "125",
+          "identifier": "114",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f91273a3965683bd942/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f92273a3965683bd946/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f91273a3965683bd942/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f92273a3965683bd946/image.jpeg"
         }
       ],
-      "name": "Prof. dr Miodrag Vuković"
+      "name": "dr Filip Vuković"
     },
     {
-      "birth_date": "1950-05-01",
       "gender": "male",
-      "id": "e94942b7-aaa4-41ea-90f0-da00a55bef0e",
+      "id": "a6f8c8b4-86b9-4453-82de-5c524cb1fe02",
       "identifiers": [
         {
-          "identifier": "550a7f93273a3965683bd94a",
+          "identifier": "550a7f71273a3965683bd8ae",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "122",
+          "identifier": "140",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f93273a3965683bd94a/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f71273a3965683bd8ae/image.3.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f93273a3965683bd94a/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f71273a3965683bd8ae/image.3.jpeg"
         }
       ],
-      "name": "Radivoje Lala Nikčević"
+      "name": "Goran Danilović"
     },
     {
-      "birth_date": "1969-09-24",
       "gender": "male",
-      "id": "fbe6f435-6652-41c0-bf32-2e9091086edc",
+      "id": "a8d7b26e-88a7-4c20-b0c1-d4f697800516",
       "identifiers": [
         {
-          "identifier": "550a7f7a273a3965683bd8d6",
+          "identifier": "550a7f66273a3965683bd886",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "172",
+          "identifier": "144",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7a273a3965683bd8d6/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f66273a3965683bd886/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7a273a3965683bd8d6/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f66273a3965683bd886/image.jpeg"
         }
       ],
-      "name": "Radovan Obradović"
+      "name": "dr Strahinja Bulajić"
+    },
+    {
+      "birth_date": "1958-09-20",
+      "gender": "female",
+      "id": "afe8671c-6603-42f1-8316-763c3f812c41",
+      "identifiers": [
+        {
+          "identifier": "550a7f7d273a3965683bd8e2",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "167",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7d273a3965683bd8e2/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7d273a3965683bd8e2/image.jpeg"
+        }
+      ],
+      "name": "mr Branka Tanasijević"
+    },
+    {
+      "birth_date": "1959-03-04",
+      "gender": "male",
+      "id": "ba91335f-bbd3-45a2-8b89-5eb26dc42eeb",
+      "identifiers": [
+        {
+          "identifier": "550a7f7f273a3965683bd8ea",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "121",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ea/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ea/image.jpeg"
+        }
+      ],
+      "name": "Džavid Šabović"
+    },
+    {
+      "gender": "male",
+      "id": "c4c0f564-f3cb-4523-accf-64a00aa4607d",
+      "identifiers": [
+        {
+          "identifier": "550a7f5e273a3965683bd862",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "132",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5e273a3965683bd862/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5e273a3965683bd862/image.2.jpeg"
+        }
+      ],
+      "name": "Velizar Kaluđerović"
+    },
+    {
+      "birth_date": "1965-09-17",
+      "gender": "male",
+      "given_name": "Srđan",
+      "id": "d11b5511-0a9d-4059-b5f1-727607a2351d",
+      "identifiers": [
+        {
+          "identifier": "550a7f63273a3965683bd87a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "106",
+          "scheme": "skupstina"
+        },
+        {
+          "identifier": "Q6592979",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f63273a3965683bd87a/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f63273a3965683bd87a/image.2.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Srđan_Milić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Srđan_Milić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Срђан_Милић"
+        }
+      ],
+      "name": "Srđan Milić",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Srđan Milić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Srđan Milić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Srđan Milić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Srđan Milić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Срђан Милић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Срђан Милић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Srđan Milić",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "d1e2a886-2aaf-4ca5-abb3-be00ff18b784",
+      "identifiers": [
+        {
+          "identifier": "550a7f54273a3965683bd836",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "265",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f54273a3965683bd836/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f54273a3965683bd836/image.2.jpeg"
+        }
+      ],
+      "name": "Mr Rešad Sijarić"
+    },
+    {
+      "birth_date": "1965-11-29",
+      "gender": "male",
+      "id": "db8dfec5-257e-45e8-afc5-f34f465ce108",
+      "identifiers": [
+        {
+          "identifier": "550a7f56273a3965683bd83e",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "103",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f56273a3965683bd83e/image.2.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f56273a3965683bd83e/image.2.jpeg"
+        }
+      ],
+      "name": "Zoran Miljanić"
     },
     {
       "birth_date": "1961-08-17",
@@ -2404,313 +2523,175 @@
       ]
     },
     {
-      "birth_date": "1958-08-13",
-      "gender": "male",
-      "id": "45ea72dc-1cc2-4d6c-a55d-ca421af5c2c3",
-      "identifiers": [
-        {
-          "identifier": "550a7f7e273a3965683bd8e6",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "170",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7e273a3965683bd8e6/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7e273a3965683bd8e6/image.jpeg"
-        }
-      ],
-      "name": "Rešid Adrović"
-    },
-    {
-      "birth_date": "1950-07-11",
-      "gender": "male",
-      "given_name": "Rifat",
-      "id": "08351b00-a6c6-4406-950f-cde372e17a73",
-      "identifiers": [
-        {
-          "identifier": "16674160k",
-          "scheme": "bnf"
-        },
-        {
-          "identifier": "550a7f90273a3965683bd93e",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "111",
-          "scheme": "skupstina"
-        },
-        {
-          "identifier": "48560356",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q7333214",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f90273a3965683bd93e/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f90273a3965683bd93e/image.jpeg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Rifat_Rastoder"
-        }
-      ],
-      "name": "Rifat Rastoder",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Rifat Rastoder",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Rifat Rastoder",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Rifat Rastoder",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Rifat Rastoder",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Rifat Rastoder",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "リファト・ラストデル",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "瑞法特·拉斯托德",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "85a77b4e-8e8b-4a59-86a1-fb66d532b4dc",
-      "identifiers": [
-        {
-          "identifier": "550a7f8a273a3965683bd922",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "139",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8a273a3965683bd922/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8a273a3965683bd922/image.jpeg"
-        }
-      ],
-      "name": "Saša Pešić"
-    },
-    {
-      "birth_date": "1964-01-06",
-      "gender": "male",
-      "id": "51e900c0-21dc-4c74-9fe2-73cbd6f29d44",
-      "identifiers": [
-        {
-          "identifier": "550a7f6c273a3965683bd89e",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "147",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6c273a3965683bd89e/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6c273a3965683bd89e/image.jpeg"
-        }
-      ],
-      "name": "Slaven Radunović"
-    },
-    {
-      "birth_date": "1958-05-03",
-      "gender": "male",
-      "id": "503b172d-f333-4a00-8d2b-1bf676f30961",
-      "identifiers": [
-        {
-          "identifier": "550a7f8c273a3965683bd92a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "136",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8c273a3965683bd92a/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8c273a3965683bd92a/image.jpeg"
-        }
-      ],
-      "name": "Slobodan Krušo Radović"
-    },
-    {
-      "birth_date": "1971-07-25",
+      "birth_date": "1970-01-23",
       "gender": "female",
-      "id": "f68c75b4-2c65-489f-b114-a51af52d8593",
+      "id": "df5ce57d-90bf-4c4c-a945-8f13ca525b57",
       "identifiers": [
         {
-          "identifier": "550a7f61273a3965683bd872",
+          "identifier": "550a7f74273a3965683bd8ba",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "113",
+          "identifier": "123",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd872/image.2.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f74273a3965683bd8ba/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd872/image.2.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f74273a3965683bd8ba/image.jpeg"
         }
       ],
-      "name": "Snežana Jonica"
+      "name": "doc. dr Branka Bošnjak"
     },
     {
-      "birth_date": "1965-09-17",
-      "gender": "male",
-      "given_name": "Srđan",
-      "id": "d11b5511-0a9d-4059-b5f1-727607a2351d",
+      "gender": "female",
+      "id": "df76ef9f-daf5-4a71-90c5-8e79100fd077",
       "identifiers": [
         {
-          "identifier": "550a7f63273a3965683bd87a",
+          "identifier": "550a7f5b273a3965683bd852",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "106",
+          "identifier": "97",
           "scheme": "skupstina"
-        },
-        {
-          "identifier": "Q6592979",
-          "scheme": "wikidata"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f63273a3965683bd87a/image.2.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5b273a3965683bd852/image.2.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f63273a3965683bd87a/image.2.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5b273a3965683bd852/image.2.jpeg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Srđan_Milić"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Srđan_Milić"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Срђан_Милић"
-        }
-      ],
-      "name": "Srđan Milić",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Srđan Milić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Srđan Milić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Srđan Milić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Srđan Milić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Срђан Милић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-ec",
-          "name": "Срђан Милић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-el",
-          "name": "Srđan Milić",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Azra Jasavić"
     },
     {
-      "birth_date": "1976-06-11",
       "gender": "male",
-      "id": "10cbddd7-7de9-4fe3-9917-f2188df70d04",
+      "id": "e1aaa186-579b-4e70-b4e3-438cfd386c70",
       "identifiers": [
         {
-          "identifier": "550a7f59273a3965683bd84a",
+          "identifier": "550a7f69273a3965683bd892",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "99",
+          "identifier": "161",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://www.skupstina.me/images/poslanici/pozitivna/srdjan_peric.jpg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f69273a3965683bd892/image.2.jpeg",
       "images": [
         {
-          "url": "http://www.skupstina.me/images/poslanici/pozitivna/srdjan_peric.jpg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f69273a3965683bd892/image.2.jpeg"
         }
       ],
-      "name": "Srđan Perić"
+      "name": "dr Novica Stanić"
     },
     {
-      "birth_date": "1973-10-08",
       "gender": "male",
-      "id": "254ae1d0-63a1-4b91-a81f-a3f2356672c5",
+      "id": "e6b26f2f-92ee-426a-a47c-af5d096e7aa7",
       "identifiers": [
         {
-          "identifier": "550a7f53273a3965683bd832",
+          "identifier": "550a7f68273a3965683bd88e",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "105",
+          "identifier": "163",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f53273a3965683bd832/image.3.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f68273a3965683bd88e/image.2.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f53273a3965683bd832/image.3.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f68273a3965683bd88e/image.2.jpeg"
         }
       ],
-      "name": "Suljo Mustafić"
+      "name": "Veljko Vasiljević"
+    },
+    {
+      "gender": "male",
+      "id": "e8eb945f-4688-45b1-90fd-55b3323b8277",
+      "identifiers": [
+        {
+          "identifier": "550a7f7f273a3965683bd8ee",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "166",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ee/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ee/image.jpeg"
+        }
+      ],
+      "name": "dr Halil Duković"
+    },
+    {
+      "birth_date": "1950-05-01",
+      "gender": "male",
+      "id": "e94942b7-aaa4-41ea-90f0-da00a55bef0e",
+      "identifiers": [
+        {
+          "identifier": "550a7f93273a3965683bd94a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "122",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f93273a3965683bd94a/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f93273a3965683bd94a/image.jpeg"
+        }
+      ],
+      "name": "Radivoje Lala Nikčević"
+    },
+    {
+      "birth_date": "1956-11-21",
+      "gender": "male",
+      "id": "ec5ed24b-4864-42ca-826e-953011c41cf7",
+      "identifiers": [
+        {
+          "identifier": "550a7f8f273a3965683bd93a",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "112",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8f273a3965683bd93a/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8f273a3965683bd93a/image.jpeg"
+        }
+      ],
+      "name": "Mićo Orlandić"
+    },
+    {
+      "gender": "female",
+      "id": "f314b688-a731-40c4-9b92-7626267c1351",
+      "identifiers": [
+        {
+          "identifier": "550a7f79273a3965683bd8ce",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "171",
+          "scheme": "skupstina"
+        }
+      ],
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f79273a3965683bd8ce/image.jpeg",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f79273a3965683bd8ce/image.jpeg"
+        }
+      ],
+      "name": "Žana Filipović"
     },
     {
       "birth_date": "1954-07-28",
@@ -2757,543 +2738,562 @@
       ]
     },
     {
+      "birth_date": "1961-07-24",
       "gender": "male",
-      "id": "c4c0f564-f3cb-4523-accf-64a00aa4607d",
+      "id": "f668786a-530c-459b-a103-86ed4912d7c4",
       "identifiers": [
         {
-          "identifier": "550a7f5e273a3965683bd862",
+          "identifier": "550a7f89273a3965683bd91e",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "132",
+          "identifier": "116",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5e273a3965683bd862/image.2.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f89273a3965683bd91e/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5e273a3965683bd862/image.2.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f89273a3965683bd91e/image.jpeg"
         }
       ],
-      "name": "Velizar Kaluđerović"
+      "name": "Borislav Banović"
     },
     {
-      "gender": "male",
-      "id": "e6b26f2f-92ee-426a-a47c-af5d096e7aa7",
-      "identifiers": [
-        {
-          "identifier": "550a7f68273a3965683bd88e",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "163",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f68273a3965683bd88e/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f68273a3965683bd88e/image.2.jpeg"
-        }
-      ],
-      "name": "Veljko Vasiljević"
-    },
-    {
-      "gender": "male",
-      "id": "0263e85f-6ff4-4e37-93a2-418d41066a02",
-      "identifiers": [
-        {
-          "identifier": "550a7f88273a3965683bd91a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "141",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f88273a3965683bd91a/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f88273a3965683bd91a/image.jpeg"
-        }
-      ],
-      "name": "Veljko Zarubica"
-    },
-    {
-      "gender": "male",
-      "id": "2910207e-4a43-4c7b-9fee-a11d59170353",
-      "identifiers": [
-        {
-          "identifier": "550a7f6b273a3965683bd89a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "153",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f6b273a3965683bd89a/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f6b273a3965683bd89a/image.2.jpeg"
-        }
-      ],
-      "name": "Vladislav Bojović"
-    },
-    {
-      "gender": "male",
-      "id": "19e03b41-9de9-4a01-8820-926d0c692e17",
-      "identifiers": [
-        {
-          "identifier": "550a7f84273a3965683bd906",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "154",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f84273a3965683bd906/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f84273a3965683bd906/image.jpeg"
-        }
-      ],
-      "name": "Zoran Jelić"
-    },
-    {
-      "birth_date": "1965-11-29",
-      "gender": "male",
-      "id": "db8dfec5-257e-45e8-afc5-f34f465ce108",
-      "identifiers": [
-        {
-          "identifier": "550a7f56273a3965683bd83e",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "103",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f56273a3965683bd83e/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f56273a3965683bd83e/image.2.jpeg"
-        }
-      ],
-      "name": "Zoran Miljanić"
-    },
-    {
+      "birth_date": "1971-07-25",
       "gender": "female",
-      "id": "5e589ec4-46da-44ed-be03-c3d3ed545503",
+      "id": "f68c75b4-2c65-489f-b114-a51af52d8593",
       "identifiers": [
         {
-          "identifier": "550a7f7b273a3965683bd8da",
+          "identifier": "550a7f61273a3965683bd872",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "174",
+          "identifier": "113",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7b273a3965683bd8da/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd872/image.2.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7b273a3965683bd8da/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd872/image.2.jpeg"
         }
       ],
-      "name": "Zorica Kovačević"
+      "name": "Snežana Jonica"
     },
     {
-      "birth_date": "1970-01-23",
-      "gender": "female",
-      "id": "df5ce57d-90bf-4c4c-a945-8f13ca525b57",
-      "identifiers": [
-        {
-          "identifier": "550a7f74273a3965683bd8ba",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "123",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f74273a3965683bd8ba/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f74273a3965683bd8ba/image.jpeg"
-        }
-      ],
-      "name": "doc. dr Branka Bošnjak"
-    },
-    {
-      "birth_date": "1958-04-05",
+      "birth_date": "1972-11-24",
       "gender": "male",
-      "id": "6ea41c8d-6f80-445e-8457-7e888a451982",
+      "id": "f75bac0c-80dd-4bc9-a35f-8fb70301e85a",
       "identifiers": [
         {
-          "identifier": "550a7f8d273a3965683bd92e",
+          "identifier": "550a7f5a273a3965683bd84e",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "133",
+          "identifier": "96",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8d273a3965683bd92e/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5a273a3965683bd84e/image.2.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8d273a3965683bd92e/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5a273a3965683bd84e/image.2.jpeg"
         }
       ],
-      "name": "doc. dr Srđa Popović"
+      "name": "Darko Pajović"
     },
     {
-      "birth_date": "1956-10-23",
+      "birth_date": "1965-01-19",
+      "family_name": "Mandić",
       "gender": "male",
-      "id": "a08c06c2-b4fb-4041-95f6-2fe370dfd7e8",
+      "given_name": "Andrija",
+      "id": "f76ec47f-b8d0-479c-8699-9a8aaf27ea25",
       "identifiers": [
         {
-          "identifier": "550a7f92273a3965683bd946",
+          "identifier": "550a7f75273a3965683bd8be",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "114",
+          "identifier": "/m/03ctzkl",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "5993",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "130",
           "scheme": "skupstina"
+        },
+        {
+          "identifier": "Q511453",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f92273a3965683bd946/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f75273a3965683bd8be/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f92273a3965683bd946/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f75273a3965683bd8be/image.jpeg"
         }
       ],
-      "name": "dr Filip Vuković"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Andrija_Mandić"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrija_Mandić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Andrija_Mandić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Andrija_Mandić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Андрија_Мандић"
+        }
+      ],
+      "name": "Andrija Mandić",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Андрија Мандић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Andrija Mandić",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1969-09-24",
       "gender": "male",
-      "id": "e8eb945f-4688-45b1-90fd-55b3323b8277",
+      "id": "fbe6f435-6652-41c0-bf32-2e9091086edc",
       "identifiers": [
         {
-          "identifier": "550a7f7f273a3965683bd8ee",
+          "identifier": "550a7f7a273a3965683bd8d6",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "166",
+          "identifier": "172",
           "scheme": "skupstina"
         }
       ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ee/image.jpeg",
+      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7a273a3965683bd8d6/image.jpeg",
       "images": [
         {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7f273a3965683bd8ee/image.jpeg"
+          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7a273a3965683bd8d6/image.jpeg"
         }
       ],
-      "name": "dr Halil Duković"
-    },
-    {
-      "birth_date": "1958-01-13",
-      "gender": "female",
-      "id": "518219a0-66eb-4a1b-a9ac-d74a53060065",
-      "identifiers": [
-        {
-          "identifier": "550a7f77273a3965683bd8c6",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "120",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f77273a3965683bd8c6/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f77273a3965683bd8c6/image.jpeg"
-        }
-      ],
-      "name": "dr Ljiljana Đurašković"
-    },
-    {
-      "gender": "male",
-      "id": "e1aaa186-579b-4e70-b4e3-438cfd386c70",
-      "identifiers": [
-        {
-          "identifier": "550a7f69273a3965683bd892",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "161",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f69273a3965683bd892/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f69273a3965683bd892/image.2.jpeg"
-        }
-      ],
-      "name": "dr Novica Stanić"
-    },
-    {
-      "birth_date": "1964-05-28",
-      "gender": "male",
-      "id": "619a8b58-fc8a-429f-9d37-65dc483037fa",
-      "identifiers": [
-        {
-          "identifier": "550a7f94273a3965683bd94e",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "185",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f94273a3965683bd94e/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f94273a3965683bd94e/image.jpeg"
-        }
-      ],
-      "name": "dr Predrag Sekulić"
-    },
-    {
-      "birth_date": "1958-03-02",
-      "gender": "male",
-      "id": "8edd3d0f-01a1-4843-b4cb-75c3d2ad45ee",
-      "identifiers": [
-        {
-          "identifier": "550a7f5f273a3965683bd866",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "138",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f5f273a3965683bd866/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f5f273a3965683bd866/image.2.jpeg"
-        }
-      ],
-      "name": "dr Radosav Nišavić"
-    },
-    {
-      "gender": "male",
-      "id": "0dc9cbb2-321f-45f5-8a60-98fd3ad4499c",
-      "identifiers": [
-        {
-          "identifier": "550a7f67273a3965683bd88a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "158",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f67273a3965683bd88a/image.3.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f67273a3965683bd88a/image.3.jpeg"
-        }
-      ],
-      "name": "dr Radovan Asanović"
-    },
-    {
-      "gender": "male",
-      "id": "a8d7b26e-88a7-4c20-b0c1-d4f697800516",
-      "identifiers": [
-        {
-          "identifier": "550a7f66273a3965683bd886",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "144",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f66273a3965683bd886/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f66273a3965683bd886/image.jpeg"
-        }
-      ],
-      "name": "dr Strahinja Bulajić"
-    },
-    {
-      "birth_date": "1969-12-22",
-      "gender": "male",
-      "id": "2d4ce6fa-443b-444a-943d-a288a7f3af67",
-      "identifiers": [
-        {
-          "identifier": "550a7f60273a3965683bd86a",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "131",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f60273a3965683bd86a/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f60273a3965683bd86a/image.2.jpeg"
-        }
-      ],
-      "name": "mr Aleksandar Damjanović"
-    },
-    {
-      "birth_date": "1958-09-20",
-      "gender": "female",
-      "id": "afe8671c-6603-42f1-8316-763c3f812c41",
-      "identifiers": [
-        {
-          "identifier": "550a7f7d273a3965683bd8e2",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "167",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7d273a3965683bd8e2/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7d273a3965683bd8e2/image.jpeg"
-        }
-      ],
-      "name": "mr Branka Tanasijević"
-    },
-    {
-      "birth_date": "1976-11-29",
-      "gender": "male",
-      "id": "7370f3dd-a5ba-48af-82d0-8825db49a4ea",
-      "identifiers": [
-        {
-          "identifier": "550a7f61273a3965683bd86e",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "119",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd86e/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f61273a3965683bd86e/image.2.jpeg"
-        }
-      ],
-      "name": "mr Danko Šarančić"
-    },
-    {
-      "birth_date": "1985-12-25",
-      "gender": "male",
-      "id": "9c3514f6-b134-4216-a0c3-1e45e8cf7d16",
-      "identifiers": [
-        {
-          "identifier": "550a7f58273a3965683bd846",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "100",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f58273a3965683bd846/image.2.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f58273a3965683bd846/image.2.jpeg"
-        }
-      ],
-      "name": "mr Dritan Abazović"
-    },
-    {
-      "birth_date": "1961-12-29",
-      "gender": "male",
-      "id": "7a70ef4c-44cd-45aa-8994-02fd29838544",
-      "identifiers": [
-        {
-          "identifier": "550a7f95273a3965683bd956",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "109",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f95273a3965683bd956/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f95273a3965683bd956/image.jpeg"
-        }
-      ],
-      "name": "mr Milutin Simović"
-    },
-    {
-      "birth_date": "1967-02-08",
-      "gender": "male",
-      "id": "082adf64-7b29-4075-9e83-80c511dc87eb",
-      "identifiers": [
-        {
-          "identifier": "550a7f8e273a3965683bd932",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "128",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd932/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f8e273a3965683bd932/image.jpeg"
-        }
-      ],
-      "name": "Šefkija Murić"
-    },
-    {
-      "gender": "female",
-      "id": "f314b688-a731-40c4-9b92-7626267c1351",
-      "identifiers": [
-        {
-          "identifier": "550a7f79273a3965683bd8ce",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "171",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f79273a3965683bd8ce/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f79273a3965683bd8ce/image.jpeg"
-        }
-      ],
-      "name": "Žana Filipović"
-    },
-    {
-      "birth_date": "1963-09-12",
-      "gender": "male",
-      "id": "41e17715-68af-4adf-9a91-b7a9b558281e",
-      "identifiers": [
-        {
-          "identifier": "550a7f7c273a3965683bd8de",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "173",
-          "scheme": "skupstina"
-        }
-      ],
-      "image": "http://files.parldata.eu/me/skupstina/people/550a7f7c273a3965683bd8de/image.jpeg",
-      "images": [
-        {
-          "url": "http://files.parldata.eu/me/skupstina/people/550a7f7c273a3965683bd8de/image.jpeg"
-        }
-      ],
-      "name": "Željko Aprcović"
+      "name": "Radovan Obradović"
     }
   ],
   "organizations": [
