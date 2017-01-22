@@ -4,6 +4,26 @@
   ],
   "persons": [
     {
+      "id": "18ae1fe9-a268-4afd-b667-5a0bdd9936c2",
+      "identifiers": [
+        {
+          "identifier": "lea_brown",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Lea Brown"
+    },
+    {
+      "id": "32368b0f-8bad-4f3c-afd8-81cf9720e86a",
+      "identifiers": [
+        {
+          "identifier": "kerry_young",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kerry Young"
+    },
+    {
       "birth_date": "1953-02-25",
       "gender": "female",
       "given_name": "Brenda",
@@ -95,25 +115,24 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "cd33d032-ae98-490e-a3df-6fc89f94d038",
+      "id": "ba7c5565-a845-4fca-9146-2df12e15ecbb",
       "identifiers": [
         {
-          "identifier": "charlene_warren",
+          "identifier": "leslie_jaques",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Charlene Warren"
+      "name": "Leslie Jaques"
     },
     {
-      "id": "fd4f2d8b-a795-469a-8ce3-56fe19b59b00",
+      "id": "c5c3ad50-4eb2-4e58-a65c-4627ab242fa7",
       "identifiers": [
         {
-          "identifier": "darralyn_griffiths",
+          "identifier": "jacqui_christian",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Darralyn Griffiths"
+      "name": "Jacqui Christian"
     },
     {
       "id": "cd0e6e51-a9c0-4afe-acdb-a1384fe76004",
@@ -126,6 +145,17 @@
       "name": "Dave Brown"
     },
     {
+      "gender": "female",
+      "id": "cd33d032-ae98-490e-a3df-6fc89f94d038",
+      "identifiers": [
+        {
+          "identifier": "charlene_warren",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Charlene Warren"
+    },
+    {
       "id": "eed7700e-f7c7-4df0-a2d8-ed6141f8b89d",
       "identifiers": [
         {
@@ -136,14 +166,14 @@
       "name": "David Brown"
     },
     {
-      "id": "c5c3ad50-4eb2-4e58-a65c-4627ab242fa7",
+      "id": "f58468c4-e58a-42c0-bfe3-b1f87f5ced78",
       "identifiers": [
         {
-          "identifier": "jacqui_christian",
+          "identifier": "michelle_christian",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Jacqui Christian"
+      "name": "Michelle Christian"
     },
     {
       "birth_date": "1956-07-29",
@@ -275,36 +305,6 @@
       ]
     },
     {
-      "id": "32368b0f-8bad-4f3c-afd8-81cf9720e86a",
-      "identifiers": [
-        {
-          "identifier": "kerry_young",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Kerry Young"
-    },
-    {
-      "id": "18ae1fe9-a268-4afd-b667-5a0bdd9936c2",
-      "identifiers": [
-        {
-          "identifier": "lea_brown",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Lea Brown"
-    },
-    {
-      "id": "ba7c5565-a845-4fca-9146-2df12e15ecbb",
-      "identifiers": [
-        {
-          "identifier": "leslie_jaques",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Leslie Jaques"
-    },
-    {
       "id": "fb0ffe71-348e-4d08-9f90-3b30520b8181",
       "identifiers": [
         {
@@ -315,14 +315,14 @@
       "name": "Michele Christian"
     },
     {
-      "id": "f58468c4-e58a-42c0-bfe3-b1f87f5ced78",
+      "id": "fd4f2d8b-a795-469a-8ce3-56fe19b59b00",
       "identifiers": [
         {
-          "identifier": "michelle_christian",
+          "identifier": "darralyn_griffiths",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Michelle Christian"
+      "name": "Darralyn Griffiths"
     }
   ],
   "organizations": [
