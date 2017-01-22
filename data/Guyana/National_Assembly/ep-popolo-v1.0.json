@@ -5,73 +5,198 @@
   "persons": [
     {
       "gender": "male",
-      "id": "fd8abb07-04bf-4bc3-89ba-33609fa12cdd",
+      "honorific_prefix": "Dr.",
+      "id": "0ca3d01e-f74b-4610-8768-077260101426",
       "identifiers": [
         {
-          "identifier": "adrian-v.-anamayah",
+          "identifier": "dr-rupert-roopnarine",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/4026/adrian.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/4026/adrian.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg"
         }
       ],
-      "name": "Adrian V. Anamayah"
-    },
-    {
-      "gender": "female",
-      "honorific_prefix": "Ms",
-      "id": "7df71e89-208b-4f00-8afd-a7e4077f873b",
-      "identifiers": [
-        {
-          "identifier": "ms-africo-selman",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg"
-        }
-      ],
-      "name": "Africo Selman"
+      "name": "Rupert Roopnarine"
     },
     {
       "gender": "male",
-      "id": "6d2f785f-0205-471a-830f-2d8977b40047",
+      "honorific_prefix": "Bishop",
+      "id": "1395ba90-5dc7-45e9-ad98-6bdab4065a14",
       "identifiers": [
         {
-          "identifier": "alister-s.-charlie",
+          "identifier": "bishop-juan-a-edghill",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/4025/mr._alister_s._charlie_m.p..jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/4025/mr._alister_s._charlie_m.p..jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg"
         }
       ],
-      "name": "Alister S. Charlie"
+      "name": "Juan A. Edghill"
     },
     {
       "gender": "female",
-      "honorific_prefix": "Ms",
-      "id": "7c55dda1-d45a-4ee4-b6ed-f45db7668758",
+      "id": "146db39d-9ebb-413c-8aaa-43efd4f40896",
       "identifiers": [
         {
-          "identifier": "ms-amna-ally",
+          "identifier": "hon.-nicolette-o.-henry-m.p",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg"
         }
       ],
-      "name": "Amna Ally"
+      "name": "Nicolette O. Henry"
+    },
+    {
+      "gender": "male",
+      "id": "1bb7f4ae-603b-45d9-9cd8-e1d18f3cc647",
+      "identifiers": [
+        {
+          "identifier": "charles-s.-ramson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg"
+        }
+      ],
+      "name": "Charles S. Ramson"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr.",
+      "id": "1daf4b15-5904-4172-ae02-0e59f4b91e52",
+      "identifiers": [
+        {
+          "identifier": "odinga-lumumba",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/150/odinga_lumumba.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/150/odinga_lumumba.jpg"
+        }
+      ],
+      "name": "Odinga Lumumba"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr.",
+      "id": "1dc9bce6-02dc-4813-a102-eadf1b7765b3",
+      "identifiers": [
+        {
+          "identifier": "mr-cornel-damon",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg"
+        }
+      ],
+      "name": "Cornel Damon"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Dr",
+      "id": "207279bd-142c-4ec2-a911-7b58dbe9b93d",
+      "identifiers": [
+        {
+          "identifier": "dr-karen-cummings",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg"
+        }
+      ],
+      "name": "Karen Cummings"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Dr.",
+      "id": "22e0caf7-bb4e-40ea-ad8e-6c5315a9d34a",
+      "identifiers": [
+        {
+          "identifier": "bheri-ramsarran",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg"
+        }
+      ],
+      "name": "Bheri S. Ramsarran"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Dr.",
+      "id": "253800d3-de4e-43ac-9947-2aff8e9002a3",
+      "identifiers": [
+        {
+          "identifier": "dr-jennifer-westford",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg"
+        }
+      ],
+      "name": "Jennifer R.A. Westford"
+    },
+    {
+      "gender": "male",
+      "id": "2e062152-3c11-4af3-be84-c9282d29bbed",
+      "identifiers": [
+        {
+          "identifier": "clive-r.-jagan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg"
+        }
+      ],
+      "name": "Clive R. Jagan"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr.",
+      "id": "41537a83-212a-4a19-a475-4e3cb261e7fe",
+      "identifiers": [
+        {
+          "identifier": "mr-komal-chand",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg"
+        }
+      ],
+      "name": "Komal Chand"
     },
     {
       "gender": "female",
@@ -94,38 +219,20 @@
     {
       "gender": "male",
       "honorific_prefix": "Mr",
-      "id": "6e8d9733-022a-4836-8652-3c840778540e",
+      "id": "4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
       "identifiers": [
         {
-          "identifier": "mr-audwin-rutherford-m.p",
+          "identifier": "mr-jermaine-figueira-m.p",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg"
         }
       ],
-      "name": "Audwin Rutherford"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Dr.",
-      "id": "7195abfc-75bd-426c-9e2c-67d6b758c8bd",
-      "identifiers": [
-        {
-          "identifier": "dr-barton-scotland",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg"
-        }
-      ],
-      "name": "Barton U.A. Scotland, C.C.H"
+      "name": "Jermaine Figueira"
     },
     {
       "gender": "male",
@@ -146,197 +253,15 @@
       "name": "Basil Williams"
     },
     {
-      "gender": "male",
-      "id": "9aa3d151-1000-4929-a342-679dd6363f03",
-      "identifiers": [
-        {
-          "identifier": "bharrat-jagdeo",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/4031/mr._bharrat_jagdeo,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4031/mr._bharrat_jagdeo,_m.p..jpg"
-        }
-      ],
-      "name": "Bharrat Jagdeo"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Dr.",
-      "id": "22e0caf7-bb4e-40ea-ad8e-6c5315a9d34a",
-      "identifiers": [
-        {
-          "identifier": "bheri-ramsarran",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg"
-        }
-      ],
-      "name": "Bheri S. Ramsarran"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr.",
-      "id": "fd6f9612-e2b2-4a44-b8aa-5299436db772",
-      "identifiers": [
-        {
-          "identifier": "carl-greenidge",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png"
-        }
-      ],
-      "name": "Carl B. Greenidge"
-    },
-    {
       "gender": "female",
-      "honorific_prefix": "Mrs.",
-      "id": "596d01b1-275e-40d3-96c0-e66beb92c854",
-      "identifiers": [
-        {
-          "identifier": "kathy-hughes",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg",
+      "id": "48b9cc62-2222-4118-9b28-47945fcfaa30",
+      "image": "http://parliament.gov.gy/images/member_photos/5708/veersammy.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/5708/veersammy.jpg"
         }
       ],
-      "name": "Catherine Hughes"
-    },
-    {
-      "gender": "male",
-      "id": "1bb7f4ae-603b-45d9-9cd8-e1d18f3cc647",
-      "identifiers": [
-        {
-          "identifier": "charles-s.-ramson",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg"
-        }
-      ],
-      "name": "Charles S. Ramson"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr",
-      "id": "dc7716ce-be97-4465-b1c2-790d7e135720",
-      "identifiers": [
-        {
-          "identifier": "mr-charrandaspersaud",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg"
-        }
-      ],
-      "name": "Charrandas Persaud"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr",
-      "id": "4db68f31-1619-4cfa-8103-9c8c0feeeb50",
-      "identifiers": [
-        {
-          "identifier": "clement-rohee",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg"
-        }
-      ],
-      "name": "Clement J. Rohee"
-    },
-    {
-      "gender": "male",
-      "id": "2e062152-3c11-4af3-be84-c9282d29bbed",
-      "identifiers": [
-        {
-          "identifier": "clive-r.-jagan",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg"
-        }
-      ],
-      "name": "Clive R. Jagan"
-    },
-    {
-      "gender": "male",
-      "id": "516316a2-d035-4e76-bd27-75480056b91c",
-      "identifiers": [
-        {
-          "identifier": "collin-d.-croal",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/4022/mr._collin_d._croal,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4022/mr._collin_d._croal,_m.p..jpg"
-        }
-      ],
-      "name": "Collin D. Croal"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr.",
-      "id": "1dc9bce6-02dc-4813-a102-eadf1b7765b3",
-      "identifiers": [
-        {
-          "identifier": "mr-cornel-damon",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg"
-        }
-      ],
-      "name": "Cornel Damon"
-    },
-    {
-      "gender": "male",
-      "id": "fefaffd3-6665-486b-a608-fea8df088201",
-      "identifiers": [
-        {
-          "identifier": "hon-david-petterson",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3879/david_patterson.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3879/david_patterson.jpg"
-        }
-      ],
-      "name": "David Patterson"
+      "name": "Sheila Veersammy"
     },
     {
       "gender": "female",
@@ -358,163 +283,108 @@
     },
     {
       "gender": "male",
-      "honorific_prefix": "Mr.",
-      "id": "a81c2030-dc7d-4639-acc7-00939fb166a4",
-      "identifiers": [
-        {
-          "identifier": "hon-mr.-dominic-gaskin",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg"
-        }
-      ],
-      "name": "Dominic Gaskin"
-    },
-    {
-      "gender": "female",
-      "honorific_prefix": "Ms",
-      "id": "8b1c050b-209a-4955-b7d0-b4d6a095fe29",
-      "identifiers": [
-        {
-          "identifier": "gail-teixeira",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg"
-        }
-      ],
-      "name": "Gail Teixeira"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Dr.",
-      "id": "7ff58b64-47c4-461a-94d6-ce7e16ad3188",
-      "identifiers": [
-        {
-          "identifier": "dr-george-norton",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/211/norton.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/211/norton.jpg"
-        }
-      ],
-      "name": "George Norton"
-    },
-    {
-      "gender": "female",
-      "id": "6db2c684-e256-4b7b-83fd-49a9c7cdaf10",
-      "identifiers": [
-        {
-          "identifier": "gillian-r.-persaud",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/4023/ms._gillian_r._persaud,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4023/ms._gillian_r._persaud,_m.p..jpg"
-        }
-      ],
-      "name": "Gillian R. Persaud"
-    },
-    {
-      "gender": "male",
-      "id": "fb6be5bb-c05a-423f-ab9a-fac707b277e3",
-      "identifiers": [
-        {
-          "identifier": "harry-gill",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/4029/mr._harry_gill,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4029/mr._harry_gill,_m.p..jpg"
-        }
-      ],
-      "name": "Harry Gill"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr.",
-      "id": "82c00bc0-60aa-46df-b5f9-0c2694b3726b",
-      "identifiers": [
-        {
-          "identifier": "mr-jaipaul-sharma",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg"
-        }
-      ],
-      "name": "Jaipaul Sharma"
-    },
-    {
-      "gender": "female",
-      "honorific_prefix": "Dr.",
-      "id": "253800d3-de4e-43ac-9947-2aff8e9002a3",
-      "identifiers": [
-        {
-          "identifier": "dr-jennifer-westford",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg"
-        }
-      ],
-      "name": "Jennifer R.A. Westford"
-    },
-    {
-      "gender": "female",
-      "honorific_prefix": "Ms",
-      "id": "99690204-9755-4a59-a0b6-69ab4a8aa50f",
-      "identifiers": [
-        {
-          "identifier": "ms-jennifer-wade",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/101/wade.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/101/wade.jpg"
-        }
-      ],
-      "name": "Jennifer Wade"
-    },
-    {
-      "gender": "male",
       "honorific_prefix": "Mr",
-      "id": "4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
+      "id": "4db68f31-1619-4cfa-8103-9c8c0feeeb50",
       "identifiers": [
         {
-          "identifier": "mr-jermaine-figueira-m.p",
+          "identifier": "clement-rohee",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg"
         }
       ],
-      "name": "Jermaine Figueira"
+      "name": "Clement J. Rohee"
+    },
+    {
+      "gender": "male",
+      "id": "516316a2-d035-4e76-bd27-75480056b91c",
+      "identifiers": [
+        {
+          "identifier": "collin-d.-croal",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4022/mr._collin_d._croal,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4022/mr._collin_d._croal,_m.p..jpg"
+        }
+      ],
+      "name": "Collin D. Croal"
+    },
+    {
+      "gender": "female",
+      "id": "52bd767f-65e9-466e-a0a8-02d922022381",
+      "identifiers": [
+        {
+          "identifier": "pauline-campbell-sukhai",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/151/ms._pauline_campbell-sukhai,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/151/ms._pauline_campbell-sukhai,_m.p..jpg"
+        }
+      ],
+      "name": "Pauline Campbell-Sukhai"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mrs.",
+      "id": "596d01b1-275e-40d3-96c0-e66beb92c854",
+      "identifiers": [
+        {
+          "identifier": "kathy-hughes",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg"
+        }
+      ],
+      "name": "Catherine Hughes"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr.",
+      "id": "5f5b39c3-cc01-4e89-a75b-a33cc0e35cc8",
+      "identifiers": [
+        {
+          "identifier": "winston-felix",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/160/felix.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/160/felix.jpg"
+        }
+      ],
+      "name": "Winston Felix"
+    },
+    {
+      "gender": "male",
+      "id": "6d2f785f-0205-471a-830f-2d8977b40047",
+      "identifiers": [
+        {
+          "identifier": "alister-s.-charlie",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4025/mr._alister_s._charlie_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4025/mr._alister_s._charlie_m.p..jpg"
+        }
+      ],
+      "name": "Alister S. Charlie"
     },
     {
       "gender": "male",
@@ -535,76 +405,21 @@
       "name": "John Adams"
     },
     {
-      "gender": "male",
-      "honorific_prefix": "Lt. Col. (Ret’)",
-      "id": "de600456-bb0f-4d27-a02c-9296cb5c57d4",
-      "identifiers": [
-        {
-          "identifier": "lt-col-ret-joseph-harmon",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/121/joseph_harmon.png",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/121/joseph_harmon.png"
-        }
-      ],
-      "name": "Joseph Harmon"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Bishop",
-      "id": "1395ba90-5dc7-45e9-ad98-6bdab4065a14",
-      "identifiers": [
-        {
-          "identifier": "bishop-juan-a-edghill",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg"
-        }
-      ],
-      "name": "Juan A. Edghill"
-    },
-    {
       "gender": "female",
-      "honorific_prefix": "Dr",
-      "id": "207279bd-142c-4ec2-a911-7b58dbe9b93d",
+      "id": "6db2c684-e256-4b7b-83fd-49a9c7cdaf10",
       "identifiers": [
         {
-          "identifier": "dr-karen-cummings",
+          "identifier": "gillian-r.-persaud",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/4023/ms._gillian_r._persaud,_m.p..jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/4023/ms._gillian_r._persaud,_m.p..jpg"
         }
       ],
-      "name": "Karen Cummings"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr.",
-      "id": "bda29a61-bdb0-4af1-8be5-8da2d48d6306",
-      "identifiers": [
-        {
-          "identifier": "keith-scott",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/143/keith.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/143/keith.jpg"
-        }
-      ],
-      "name": "Keith Scott"
+      "name": "Gillian R. Persaud"
     },
     {
       "gender": "male",
@@ -626,179 +441,21 @@
     },
     {
       "gender": "male",
-      "honorific_prefix": "Mr.",
-      "id": "41537a83-212a-4a19-a475-4e3cb261e7fe",
-      "identifiers": [
-        {
-          "identifier": "mr-komal-chand",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg"
-        }
-      ],
-      "name": "Komal Chand"
-    },
-    {
-      "gender": "male",
-      "id": "81274e1d-c3d1-43b1-8dde-9159f1dbe30a",
-      "identifiers": [
-        {
-          "identifier": "mohamed-irfaan-ali",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/148/mr._mohamed_irfaan_ali,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/148/mr._mohamed_irfaan_ali,_m.p..jpg"
-        }
-      ],
-      "name": "Mohamed I. Alli"
-    },
-    {
-      "gender": "male",
-      "id": "9f88b8d2-91a3-4047-a673-b9612452cba6",
-      "identifiers": [
-        {
-          "identifier": "moses-v-nagamootoo",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/149/moses__v._nagamootoo.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/149/moses__v._nagamootoo.jpg"
-        }
-      ],
-      "name": "Moses Nagamootoo"
-    },
-    {
-      "gender": "female",
-      "id": "146db39d-9ebb-413c-8aaa-43efd4f40896",
-      "identifiers": [
-        {
-          "identifier": "hon.-nicolette-o.-henry-m.p",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg"
-        }
-      ],
-      "name": "Nicolette O. Henry"
-    },
-    {
-      "gender": "male",
       "honorific_prefix": "Mr",
-      "id": "ccf3509f-d3d8-42ed-9b34-9bcf5246e304",
+      "id": "6e8d9733-022a-4836-8652-3c840778540e",
       "identifiers": [
         {
-          "identifier": "hon-mr-noel-holder",
+          "identifier": "mr-audwin-rutherford-m.p",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/3877/noel.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/3877/noel.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg"
         }
       ],
-      "name": "Noel Holder"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr.",
-      "id": "1daf4b15-5904-4172-ae02-0e59f4b91e52",
-      "identifiers": [
-        {
-          "identifier": "odinga-lumumba",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/150/odinga_lumumba.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/150/odinga_lumumba.jpg"
-        }
-      ],
-      "name": "Odinga Lumumba"
-    },
-    {
-      "gender": "female",
-      "id": "52bd767f-65e9-466e-a0a8-02d922022381",
-      "identifiers": [
-        {
-          "identifier": "pauline-campbell-sukhai",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/151/ms._pauline_campbell-sukhai,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/151/ms._pauline_campbell-sukhai,_m.p..jpg"
-        }
-      ],
-      "name": "Pauline Campbell-Sukhai"
-    },
-    {
-      "gender": "female",
-      "honorific_prefix": "Ms",
-      "id": "7fa60b3e-33c8-48a7-90cb-e7ddf03d7b2d",
-      "identifiers": [
-        {
-          "identifier": "priya-manickchand",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/89/priya.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/89/priya.jpg"
-        }
-      ],
-      "name": "Priya D. Manickchand"
-    },
-    {
-      "gender": "female",
-      "honorific_prefix": "Ms.",
-      "id": "a797da0b-10b8-4532-b498-427a076ae9ab",
-      "identifiers": [
-        {
-          "identifier": "ms.-rajcoomarie-bancroft",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg"
-        }
-      ],
-      "name": "Rajcoomarie Bancroft"
-    },
-    {
-      "gender": "male",
-      "honorific_prefix": "Mr",
-      "id": "ebd8ea54-55ac-45fe-a056-bddf8249bb6a",
-      "identifiers": [
-        {
-          "identifier": "raphael-gctrotman",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg"
-        }
-      ],
-      "name": "Raphael G.C.Trotman"
+      "name": "Audwin Rutherford"
     },
     {
       "gender": "male",
@@ -821,48 +478,20 @@
     {
       "gender": "male",
       "honorific_prefix": "Dr.",
-      "id": "0ca3d01e-f74b-4610-8768-077260101426",
+      "id": "7195abfc-75bd-426c-9e2c-67d6b758c8bd",
       "identifiers": [
         {
-          "identifier": "dr-rupert-roopnarine",
+          "identifier": "dr-barton-scotland",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg"
         }
       ],
-      "name": "Rupert Roopnarine"
-    },
-    {
-      "gender": "female",
-      "id": "48b9cc62-2222-4118-9b28-47945fcfaa30",
-      "image": "http://parliament.gov.gy/images/member_photos/5708/veersammy.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/5708/veersammy.jpg"
-        }
-      ],
-      "name": "Sheila Veersammy"
-    },
-    {
-      "gender": "female",
-      "id": "ad5c508f-3ecf-4456-b8e9-e7900a76d0c0",
-      "identifiers": [
-        {
-          "identifier": "hon.-simona-broomes-m.p",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3888/simona.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3888/simona.jpg"
-        }
-      ],
-      "name": "Simona Broomes"
+      "name": "Barton U.A. Scotland, C.C.H"
     },
     {
       "gender": "male",
@@ -885,20 +514,233 @@
     {
       "gender": "female",
       "honorific_prefix": "Ms",
-      "id": "dd9c9634-2798-4e0c-9d57-dd7b1921cf9c",
+      "id": "7c55dda1-d45a-4ee4-b6ed-f45db7668758",
       "identifiers": [
         {
-          "identifier": "ms-valarie-patterson",
+          "identifier": "ms-amna-ally",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg"
         }
       ],
-      "name": "Valarie Patterson"
+      "name": "Amna Ally"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "7df71e89-208b-4f00-8afd-a7e4077f873b",
+      "identifiers": [
+        {
+          "identifier": "ms-africo-selman",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg"
+        }
+      ],
+      "name": "Africo Selman"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "7fa60b3e-33c8-48a7-90cb-e7ddf03d7b2d",
+      "identifiers": [
+        {
+          "identifier": "priya-manickchand",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/89/priya.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/89/priya.jpg"
+        }
+      ],
+      "name": "Priya D. Manickchand"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Dr.",
+      "id": "7ff58b64-47c4-461a-94d6-ce7e16ad3188",
+      "identifiers": [
+        {
+          "identifier": "dr-george-norton",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/211/norton.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/211/norton.jpg"
+        }
+      ],
+      "name": "George Norton"
+    },
+    {
+      "gender": "male",
+      "id": "81274e1d-c3d1-43b1-8dde-9159f1dbe30a",
+      "identifiers": [
+        {
+          "identifier": "mohamed-irfaan-ali",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/148/mr._mohamed_irfaan_ali,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/148/mr._mohamed_irfaan_ali,_m.p..jpg"
+        }
+      ],
+      "name": "Mohamed I. Alli"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr.",
+      "id": "82c00bc0-60aa-46df-b5f9-0c2694b3726b",
+      "identifiers": [
+        {
+          "identifier": "mr-jaipaul-sharma",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg"
+        }
+      ],
+      "name": "Jaipaul Sharma"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "8b1c050b-209a-4955-b7d0-b4d6a095fe29",
+      "identifiers": [
+        {
+          "identifier": "gail-teixeira",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg"
+        }
+      ],
+      "name": "Gail Teixeira"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "99690204-9755-4a59-a0b6-69ab4a8aa50f",
+      "identifiers": [
+        {
+          "identifier": "ms-jennifer-wade",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/101/wade.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/101/wade.jpg"
+        }
+      ],
+      "name": "Jennifer Wade"
+    },
+    {
+      "gender": "male",
+      "id": "9aa3d151-1000-4929-a342-679dd6363f03",
+      "identifiers": [
+        {
+          "identifier": "bharrat-jagdeo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4031/mr._bharrat_jagdeo,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4031/mr._bharrat_jagdeo,_m.p..jpg"
+        }
+      ],
+      "name": "Bharrat Jagdeo"
+    },
+    {
+      "gender": "male",
+      "id": "9f88b8d2-91a3-4047-a673-b9612452cba6",
+      "identifiers": [
+        {
+          "identifier": "moses-v-nagamootoo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/149/moses__v._nagamootoo.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/149/moses__v._nagamootoo.jpg"
+        }
+      ],
+      "name": "Moses Nagamootoo"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mrs.",
+      "id": "a2b5eed6-b238-4189-8342-9bdbe38a7469",
+      "identifiers": [
+        {
+          "identifier": "mrs-volda-lawrence",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/99/volda.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/99/volda.jpg"
+        }
+      ],
+      "name": "Volda Lawrence"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Ms.",
+      "id": "a797da0b-10b8-4532-b498-427a076ae9ab",
+      "identifiers": [
+        {
+          "identifier": "ms.-rajcoomarie-bancroft",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg"
+        }
+      ],
+      "name": "Rajcoomarie Bancroft"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr.",
+      "id": "a81c2030-dc7d-4639-acc7-00939fb166a4",
+      "identifiers": [
+        {
+          "identifier": "hon-mr.-dominic-gaskin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg"
+        }
+      ],
+      "name": "Dominic Gaskin"
     },
     {
       "gender": "female",
@@ -920,21 +762,20 @@
     },
     {
       "gender": "female",
-      "honorific_prefix": "Mrs.",
-      "id": "a2b5eed6-b238-4189-8342-9bdbe38a7469",
+      "id": "ad5c508f-3ecf-4456-b8e9-e7900a76d0c0",
       "identifiers": [
         {
-          "identifier": "mrs-volda-lawrence",
+          "identifier": "hon.-simona-broomes-m.p",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/99/volda.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/3888/simona.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/99/volda.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/3888/simona.jpg"
         }
       ],
-      "name": "Volda Lawrence"
+      "name": "Simona Broomes"
     },
     {
       "gender": "male",
@@ -957,20 +798,179 @@
     {
       "gender": "male",
       "honorific_prefix": "Mr.",
-      "id": "5f5b39c3-cc01-4e89-a75b-a33cc0e35cc8",
+      "id": "bda29a61-bdb0-4af1-8be5-8da2d48d6306",
       "identifiers": [
         {
-          "identifier": "winston-felix",
+          "identifier": "keith-scott",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/160/felix.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/143/keith.jpg",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/160/felix.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/143/keith.jpg"
         }
       ],
-      "name": "Winston Felix"
+      "name": "Keith Scott"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "ccf3509f-d3d8-42ed-9b34-9bcf5246e304",
+      "identifiers": [
+        {
+          "identifier": "hon-mr-noel-holder",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/3877/noel.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3877/noel.jpg"
+        }
+      ],
+      "name": "Noel Holder"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "dc7716ce-be97-4465-b1c2-790d7e135720",
+      "identifiers": [
+        {
+          "identifier": "mr-charrandaspersaud",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg"
+        }
+      ],
+      "name": "Charrandas Persaud"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "dd9c9634-2798-4e0c-9d57-dd7b1921cf9c",
+      "identifiers": [
+        {
+          "identifier": "ms-valarie-patterson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg"
+        }
+      ],
+      "name": "Valarie Patterson"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Lt. Col. (Ret’)",
+      "id": "de600456-bb0f-4d27-a02c-9296cb5c57d4",
+      "identifiers": [
+        {
+          "identifier": "lt-col-ret-joseph-harmon",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/121/joseph_harmon.png",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/121/joseph_harmon.png"
+        }
+      ],
+      "name": "Joseph Harmon"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "ebd8ea54-55ac-45fe-a056-bddf8249bb6a",
+      "identifiers": [
+        {
+          "identifier": "raphael-gctrotman",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg"
+        }
+      ],
+      "name": "Raphael G.C.Trotman"
+    },
+    {
+      "gender": "male",
+      "id": "fb6be5bb-c05a-423f-ab9a-fac707b277e3",
+      "identifiers": [
+        {
+          "identifier": "harry-gill",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4029/mr._harry_gill,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4029/mr._harry_gill,_m.p..jpg"
+        }
+      ],
+      "name": "Harry Gill"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr.",
+      "id": "fd6f9612-e2b2-4a44-b8aa-5299436db772",
+      "identifiers": [
+        {
+          "identifier": "carl-greenidge",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png"
+        }
+      ],
+      "name": "Carl B. Greenidge"
+    },
+    {
+      "gender": "male",
+      "id": "fd8abb07-04bf-4bc3-89ba-33609fa12cdd",
+      "identifiers": [
+        {
+          "identifier": "adrian-v.-anamayah",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4026/adrian.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4026/adrian.jpg"
+        }
+      ],
+      "name": "Adrian V. Anamayah"
+    },
+    {
+      "gender": "male",
+      "id": "fefaffd3-6665-486b-a608-fea8df088201",
+      "identifiers": [
+        {
+          "identifier": "hon-david-petterson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/3879/david_patterson.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3879/david_patterson.jpg"
+        }
+      ],
+      "name": "David Patterson"
     }
   ],
   "organizations": [
