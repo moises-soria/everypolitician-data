@@ -51,6 +51,7 @@ Style/TrailingCommaInLiteral:
 # Minitest::Spec uses long blocks to contains the specs, so disable this check
 # for the tests.
 Metrics/BlockLength:
+  Max: 10
   Exclude:
     - 'spec/**/*'
     - 't/**/*'
