@@ -4,188 +4,272 @@
   ],
   "persons": [
     {
-      "birth_date": "1952-01-31",
+      "birth_date": "1965-07-09",
       "contact_details": [
         {
           "type": "email",
-          "value": "ageey@house.gov.by"
+          "value": "zozulja.a@mail.ru"
         },
         {
           "type": "phone",
-          "value": "8 (017) 222 41 53"
+          "value": "8 (1642) 2 56 59."
         }
       ],
-      "email": "ageey@house.gov.by",
-      "family_name": "Ahiejeu",
+      "email": "zozulja.a@mail.ru",
       "gender": "male",
       "given_name": "Alyaksandr",
-      "id": "5ec20a81-a075-4465-a530-3805e1b316ad",
+      "id": "06984c70-a356-4565-ad44-b9acbe2fd997",
       "identifiers": [
         {
-          "identifier": "35932",
+          "identifier": "35968",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q6656652",
+          "identifier": "Q9144087",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/files/images/ageev.jpg",
+      "image": "http://house.gov.by/files/images/zozulja.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/ageev.jpg"
+          "url": "http://house.gov.by/files/images/zozulja.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Аляксандр_Віктаравіч_Агееў"
+          "url": "https://be.wikipedia.org/wiki/Аляксандр_Іванавіч_Зазуля"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Ahiejeu_(polityk)"
-        },
-        {
-          "note": "Wikipedia (plwikiquote)",
-          "url": "https://plwikiquote.wikipedia.org/wiki/Alaksandr_Ahiejeu_(polityk)"
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Zazula"
         }
       ],
-      "name": "AGEEV ALEKSANDR",
+      "name": "ZOZULYA ALEKSANDR",
       "other_names": [
         {
-          "name": "Alyaksandr Aheeu",
+          "name": "Alaksandr Zazula",
           "note": "alternate"
         },
         {
           "lang": "be",
-          "name": "Аляксандр Агееў",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be-tarask",
-          "name": "Аляксандар Агееў",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Alyaksandr Aheeu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Alyaksandr Aheeu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Alyaksandr Aheeu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Alyaksandr Aheeu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Alyaksandr Aheeu",
+          "name": "Аляксандр Іванавіч Зазуля",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Alaksandr Ahiejeu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Агеев, Александр Викторович",
+          "name": "Alaksandr Zazula",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1957-01-01",
       "contact_details": [
         {
+          "type": "email",
+          "value": "leonenko@house.gov.by"
+        },
+        {
           "type": "phone",
-          "value": "8 (017) 200 97 54"
+          "value": "8 (017) 222 63 14"
         }
       ],
-      "gender": "male",
-      "id": "2fa57e13-8a9f-43f6-85be-b29e33098868",
+      "email": "leonenko@house.gov.by",
+      "gender": "female",
+      "id": "0b406a35-1e70-4bc7-81d9-84e0fc26efd0",
       "identifiers": [
         {
-          "identifier": "35933",
+          "identifier": "36002",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/9594leonenko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/9594leonenko.jpg"
+        }
+      ],
+      "name": "LEONENKO VALENTINA"
+    },
+    {
+      "birth_date": "1958-03-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kovalevich@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01645) 2 15 06"
+        }
+      ],
+      "email": "kovalevich@house.gov.by",
+      "gender": "male",
+      "id": "0cb8bd89-8c06-42e1-b287-9de09d454f43",
+      "identifiers": [
+        {
+          "identifier": "35972",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kovalevich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kovalevich.jpg"
+        }
+      ],
+      "name": "KOVALEVICH LEONID"
+    },
+    {
+      "birth_date": "1957-11-29",
+      "gender": "male",
+      "given_name": "Uladzimir",
+      "id": "0cc30115-c2f5-4dde-9e67-cf38f57a1025",
+      "identifiers": [
+        {
+          "identifier": "35936",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q9371375",
+          "identifier": "Q14394031",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/files/images/alekseenko.jpg",
+      "image": "http://house.gov.by/files/images/bazanov.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/alekseenko.jpg"
+          "url": "http://house.gov.by/files/images/bazanov.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Васіль_Анатольевіч_Аляксеенка"
+          "url": "https://be.wikipedia.org/wiki/Уладзімір_Аляксандравіч_Базанаў"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Wasil_Alaksiejanka"
+          "url": "https://pl.wikipedia.org/wiki/Uładzimir_Bazanau"
         }
       ],
-      "name": "ALEKSEENKO VASILY",
+      "name": "BAZANOV VLADIMIR",
       "other_names": [
         {
-          "name": "Vasil Alakseenka",
+          "name": "Uladzimir Bazanau",
           "note": "alternate"
         },
         {
           "lang": "be",
-          "name": "Васіль Аляксеенка",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be-tarask",
-          "name": "Васіль Аляксеенка",
+          "name": "Уладзімір Аляксандравіч Базанаў",
           "note": "multilingual"
         },
         {
           "lang": "de",
-          "name": "Vasil Alakseenka",
+          "name": "Uladzimir Bazanau",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Vasil Alakseenka",
+          "name": "Uladzimir Bazanau",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Vasil Alakseenka",
+          "name": "Uladzimir Bazanau",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Vasil Alakseenka",
+          "name": "Uladzimir Bazanau",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Wasil Alaksiejanka",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Алексеенко, Василий Анатольевич",
+          "name": "Uładzimir Bazanau",
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "birth_date": "1955-09-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shchetko@house.gov.byhttp://192.168.2.3/palata/"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01715) 5 50 45"
+        }
+      ],
+      "email": "shchetko@house.gov.byhttp://192.168.2.3/palata/",
+      "gender": "male",
+      "id": "0d47c3de-8b66-4cd2-a164-4bf4c2e005f6",
+      "identifiers": [
+        {
+          "identifier": "36070",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/schetjko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/schetjko.jpg"
+        }
+      ],
+      "name": "SHCHETSKO VIKTOR"
+    },
+    {
+      "birth_date": "1955-06-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "yazubets@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0163) 45 52 41"
+        }
+      ],
+      "email": "yazubets@house.gov.by",
+      "gender": "male",
+      "id": "124d96c6-f1c7-4886-8f45-2ab10394e9a4",
+      "identifiers": [
+        {
+          "identifier": "36072",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/jazubec.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/jazubec.jpg"
+        }
+      ],
+      "name": "YAZUBETS NIKOLAI"
+    },
+    {
+      "birth_date": "1958-08-25",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (021) 54 4 42 25"
+        }
+      ],
+      "gender": "male",
+      "id": "126ae66c-9d2a-4782-9035-8023e663dd83",
+      "identifiers": [
+        {
+          "identifier": "36012",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/morhat.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/morhat.jpg"
+        }
+      ],
+      "name": "MORKHAT MECHISLAV"
     },
     {
       "birth_date": "1949-01-02",
@@ -283,155 +367,712 @@
       ]
     },
     {
-      "birth_date": "1956-01-08",
+      "birth_date": "1963-02-02",
       "contact_details": [
         {
           "type": "email",
-          "value": "apanasyuk@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02334) 2 11 20"
+          "value": "klimovich@house.gov.by"
         }
       ],
-      "email": "apanasyuk@house.gov.by",
-      "gender": "male",
-      "given_name": "Leanid",
-      "id": "8fd9f65c-29ac-497c-9c02-542c647d4a7b",
+      "email": "klimovich@house.gov.by",
+      "gender": "female",
+      "given_name": "Natallia",
+      "id": "1817b4f9-f835-4677-b8d2-441271d64027",
       "identifiers": [
         {
-          "identifier": "35935",
+          "identifier": "35971",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q11753400",
+          "identifier": "Q14918190",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/files/images/apanasjuk.jpg",
+      "image": "http://house.gov.by/files/images/klimovich.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/apanasjuk.jpg"
+          "url": "http://house.gov.by/files/images/klimovich.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Леанід_Мікалаевіч_Апанасюк"
+          "url": "https://be.wikipedia.org/wiki/Наталля_Анатольеўна_Клімовіч"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Leanid_Apanasiuk"
+          "url": "https://pl.wikipedia.org/wiki/Natalla_Klimowicz"
         }
       ],
-      "name": "APANASYUK LEONID",
+      "name": "KLIMOVICH NATALIA",
       "other_names": [
         {
-          "name": "Leanid Apanasyuk",
+          "name": "Natalla Klimowicz",
           "note": "alternate"
         },
         {
           "lang": "be",
-          "name": "Леанід Апанасюк",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be-tarask",
-          "name": "Леанід Апанасюк",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Leanid Apanasyuk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Leanid Apanasyuk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Leanid Apanasyuk",
+          "name": "Наталля Анатольеўна Клімовіч",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Leanid Apanasiuk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Апанасюк, Леонид Николаевич",
+          "name": "Natalla Klimowicz",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1957-11-29",
+      "birth_date": "1960-07-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s_kulesh@house.gov.by"
+        }
+      ],
+      "email": "s_kulesh@house.gov.by",
       "gender": "male",
-      "given_name": "Uladzimir",
-      "id": "0cc30115-c2f5-4dde-9e67-cf38f57a1025",
+      "id": "19e908ae-a0f4-4122-8886-c4657d4242a8",
       "identifiers": [
         {
-          "identifier": "35936",
+          "identifier": "35997",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kulesh.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kulesh.jpg"
+        }
+      ],
+      "name": "KULESH STANISLAV"
+    },
+    {
+      "birth_date": "1958-08-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rassokha@house.gov.by"
+        }
+      ],
+      "email": "rassokha@house.gov.by",
+      "gender": "male",
+      "given_name": "Mikalay",
+      "id": "1b0a70f3-d55f-41ec-831a-a0d59b91a02f",
+      "identifiers": [
+        {
+          "identifier": "36027",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q14394031",
+          "identifier": "Q14422105",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/files/images/bazanov.jpg",
+      "image": "http://house.gov.by/files/images/rassoha.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/bazanov.jpg"
+          "url": "http://house.gov.by/files/images/rassoha.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Уладзімір_Аляксандравіч_Базанаў"
+          "url": "https://be.wikipedia.org/wiki/Мікалай_Фёдаравіч_Рассоха"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Uładzimir_Bazanau"
+          "url": "https://pl.wikipedia.org/wiki/Mikałaj_Rasocha"
         }
       ],
-      "name": "BAZANOV VLADIMIR",
+      "name": "RASSOKHA NIKOLAI",
       "other_names": [
         {
-          "name": "Uladzimir Bazanau",
+          "name": "Mikałaj Rasocha",
           "note": "alternate"
         },
         {
           "lang": "be",
-          "name": "Уладзімір Аляксандравіч Базанаў",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Uladzimir Bazanau",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Uladzimir Bazanau",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Uladzimir Bazanau",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Uladzimir Bazanau",
+          "name": "Мікалай Фёдаравіч Рассоха",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Uładzimir Bazanau",
+          "name": "Mikałaj Rasocha",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1966-09-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kononchuk@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (02246) 2 55 77"
+        }
+      ],
+      "email": "kononchuk@house.gov.by",
+      "gender": "female",
+      "id": "1b530dea-eebb-4b5d-92dc-19278563fcfa",
+      "identifiers": [
+        {
+          "identifier": "35975",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kononchuk.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kononchuk.jpg"
+        }
+      ],
+      "name": "KONONCHUK TATIANA"
+    },
+    {
+      "birth_date": "1951-11-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kokash@house.gov.by"
+        }
+      ],
+      "email": "kokash@house.gov.by",
+      "gender": "male",
+      "id": "1d03c9a2-43f0-473b-adbb-3d0173978c0e",
+      "identifiers": [
+        {
+          "identifier": "35973",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/9311kokash.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/9311kokash.jpg"
+        }
+      ],
+      "name": "KOKASH VALERY"
+    },
+    {
+      "birth_date": "1957-03-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "konoplich@house.gov.by"
+        }
+      ],
+      "email": "konoplich@house.gov.by",
+      "gender": "male",
+      "id": "1d283ac6-cede-4ee9-a3ca-e619377ada56",
+      "identifiers": [
+        {
+          "identifier": "35991",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/konoplich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/konoplich.jpg"
+        }
+      ],
+      "name": "KONOPLICH SERGEY"
+    },
+    {
+      "birth_date": "1960-10-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "miloshevsky@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0162) 42 86 41"
+        }
+      ],
+      "email": "miloshevsky@house.gov.by",
+      "gender": "male",
+      "id": "1d37d3d7-3649-4175-ac2e-4738be5776c2",
+      "identifiers": [
+        {
+          "identifier": "36007",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/miloshevskij.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/miloshevskij.jpg"
+        }
+      ],
+      "name": "MILOSHEVSKY VALENTIN"
+    },
+    {
+      "birth_date": "1966-11-12",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (02342) 2 67 23"
+        }
+      ],
+      "gender": "female",
+      "id": "1ec1b7bc-a59d-4ad0-86ef-4c7ea50a5c33",
+      "identifiers": [
+        {
+          "identifier": "36041",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/filippovich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/filippovich.jpg"
+        }
+      ],
+      "name": "FILIPPOVICH GALINA"
+    },
+    {
+      "birth_date": "1956-01-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tsetsokho@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0212) 53 74 99"
+        }
+      ],
+      "email": "tsetsokho@house.gov.by",
+      "gender": "male",
+      "id": "2155f496-c767-4603-b3a3-f501d48e16dd",
+      "identifiers": [
+        {
+          "identifier": "36059",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/cecoho.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/cecoho.jpg"
+        }
+      ],
+      "name": "TSETSOKHO ALEKSANDR"
+    },
+    {
+      "birth_date": "1976-03-23",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (017) 280 36 22, 8 (017) 245 82 38"
+        }
+      ],
+      "gender": "male",
+      "id": "216b3bf8-e1df-4b87-aeee-bf81b11242e7",
+      "identifiers": [
+        {
+          "identifier": "35965",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/zhilinskij.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/zhilinskij.jpg"
+        }
+      ],
+      "name": "ZHILINSKY MARAT"
+    },
+    {
+      "birth_date": "1961-03-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "koltunov@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0235) 6 10 06, 8 (02237) 2 41 93, 8 (02236) 5 15 74"
+        }
+      ],
+      "email": "koltunov@house.gov.by",
+      "gender": "male",
+      "id": "232c7fd1-4d1e-4fc6-ae60-a3b681ab5636",
+      "identifiers": [
+        {
+          "identifier": "35974",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/koltunov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/koltunov.jpg"
+        }
+      ],
+      "name": "KOLTUNOV NIKOLAI"
+    },
+    {
+      "birth_date": "1954-08-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shitko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0212) 36 42 11"
+        }
+      ],
+      "email": "shitko@house.gov.by",
+      "gender": "male",
+      "id": "234bfbc5-c337-4a99-8cda-3fc14bb10eb8",
+      "identifiers": [
+        {
+          "identifier": "36067",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/shitjko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/shitjko.jpg"
+        }
+      ],
+      "name": "SHITKO VLADIMIR"
+    },
+    {
+      "birth_date": "1973-05-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shamal@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (02251) 47 48 71"
+        }
+      ],
+      "email": "shamal@house.gov.by",
+      "gender": "female",
+      "id": "25b8268f-1bcf-4445-9058-02230a542529",
+      "identifiers": [
+        {
+          "identifier": "36063",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/shamalj.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/shamalj.jpg"
+        }
+      ],
+      "name": "SHAMAL ELENA"
+    },
+    {
+      "birth_date": "1954-01-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "boiko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01795) 5 55 87"
+        }
+      ],
+      "email": "boiko@house.gov.by",
+      "gender": "male",
+      "id": "2627b3be-1c95-4ab4-bb95-4252a2bd2b9e",
+      "identifiers": [
+        {
+          "identifier": "35939",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/bojko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/bojko.jpg"
+        }
+      ],
+      "name": "BOIKO ANATOLY"
+    },
+    {
+      "birth_date": "1972-02-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "borodenya@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (017) 296 24 12"
+        }
+      ],
+      "email": "borodenya@house.gov.by",
+      "gender": "male",
+      "id": "2796d18a-58e6-4640-a8c3-60667c2fa895",
+      "identifiers": [
+        {
+          "identifier": "35940",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/borodenja_1.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/borodenja_1.jpg"
+        }
+      ],
+      "name": "BORODENYA VALERY"
+    },
+    {
+      "birth_date": "1960-12-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "naumchik@house.gov.by"
+        }
+      ],
+      "email": "naumchik@house.gov.by",
+      "gender": "female",
+      "id": "2c65089b-def3-4c96-be8b-a63b0f06982b",
+      "identifiers": [
+        {
+          "identifier": "36016",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/naumchik.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/naumchik.jpg"
+        }
+      ],
+      "name": "NAUMCHIK ALLA"
+    },
+    {
+      "birth_date": "1962-02-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "valyushitsky@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0162) 23 86 36"
+        }
+      ],
+      "email": "valyushitsky@house.gov.by",
+      "gender": "male",
+      "given_name": "Viktar",
+      "id": "2ca8f99b-6d7b-4642-b596-3f012a0242c9",
+      "identifiers": [
+        {
+          "identifier": "35944",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918570",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/valjushickij.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/valjushickij.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Віктар_Іванавіч_Валюшыцкі"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Wiktar_Waluszycki"
+        }
+      ],
+      "name": "VALYUSHITSKY VIKTOR",
+      "other_names": [
+        {
+          "name": "Wiktar Waluszycki",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Віктар Іванавіч Валюшыцкі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wiktar Waluszycki",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1968-07-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "myakinnik@house.gov.by"
+        }
+      ],
+      "email": "myakinnik@house.gov.by",
+      "gender": "male",
+      "given_name": "Alyaksandr",
+      "id": "2e438a2e-837a-4fd5-bc37-ced16244d6c4",
+      "identifiers": [
+        {
+          "identifier": "36014",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14421992",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/mjakinnik.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/mjakinnik.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Аляксандр_Пятровіч_Мякіннік"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Miakinnik"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Alaksandr_Miakinnik"
+        }
+      ],
+      "name": "MYAKINNIK ALEKSANDR",
+      "other_names": [
+        {
+          "name": "Aleksandr Myakinnik",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Аляксандр Пятровіч Мякіннік",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aleksandr Myakinnik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Aleksandr Myakinnik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alaksandr Miakinnik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alaksandr Miakinnik",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1957-01-01",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (017) 200 97 54"
+        }
+      ],
+      "gender": "male",
+      "id": "2fa57e13-8a9f-43f6-85be-b29e33098868",
+      "identifiers": [
+        {
+          "identifier": "35933",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9371375",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/alekseenko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/alekseenko.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Васіль_Анатольевіч_Аляксеенка"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Wasil_Alaksiejanka"
+        }
+      ],
+      "name": "ALEKSEENKO VASILY",
+      "other_names": [
+        {
+          "name": "Vasil Alakseenka",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Васіль Аляксеенка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Васіль Аляксеенка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Vasil Alakseenka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vasil Alakseenka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vasil Alakseenka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vasil Alakseenka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wasil Alaksiejanka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Алексеенко, Василий Анатольевич",
           "note": "multilingual"
         }
       ]
@@ -506,124 +1147,407 @@
       ]
     },
     {
-      "birth_date": "1958-09-13",
+      "birth_date": "1965-01-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "krasovskaya@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (029) 168 76 19"
+        }
+      ],
+      "email": "krasovskaya@house.gov.by",
+      "gender": "female",
+      "id": "33d1881c-e879-4ac3-a235-4dc43943409a",
+      "identifiers": [
+        {
+          "identifier": "35994",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/9799krasovskaja.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/9799krasovskaja.jpg"
+        }
+      ],
+      "name": "KRASOVSKAYA TAMARA"
+    },
+    {
+      "birth_date": "1963-09-23",
       "contact_details": [
         {
           "type": "phone",
-          "value": "8 (0162) 42 85 32"
+          "value": "8 (02233) 5 93 43"
         }
       ],
-      "family_name": "Bahdanovich",
-      "gender": "female",
-      "given_name": "Larysa",
-      "id": "7c5058ea-e4d5-4099-b378-8fb722b44f61",
+      "gender": "male",
+      "given_name": "Michaił",
+      "id": "33f06b42-cd26-4d0e-afb6-c489795c67fb",
       "identifiers": [
         {
-          "identifier": "35938",
+          "identifier": "35948",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q9394017",
+          "identifier": "Q14918588",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/images/page16/bogdanovich.jpg",
+      "image": "http://house.gov.by/files/images/volkov_mihail_mih.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/images/page16/bogdanovich.jpg"
+          "url": "http://house.gov.by/files/images/volkov_mihail_mih.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Ларыса_Мікалаеўна_Багдановіч"
+          "url": "https://be.wikipedia.org/wiki/Міхаіл_Міхайлавіч_Волкаў"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Łarysa_Bahdanowicz"
+          "url": "https://pl.wikipedia.org/wiki/Michaił_Wołkau_(ur._1963)"
         }
       ],
-      "name": "BOGDANOVICH LARISA",
+      "name": "VOLKOV MIKHAIL",
       "other_names": [
         {
-          "name": "Larisa Bahdanovich",
+          "name": "Mikhail Volkov",
           "note": "alternate"
         },
         {
           "lang": "be",
-          "name": "Ларыса Багдановіч",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be-tarask",
-          "name": "Ларыса Багдановіч",
+          "name": "Міхаіл Міхайлавіч Волкаў",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Larisa Bahdanovich",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Larisa Bahdanovich",
+          "name": "Mikhail Volkov",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Larisa Bahdanovich",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Larisa Bahdanovich",
+          "name": "Mikhail Volkov",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Larisa Bahdanovich",
+          "name": "Mikhail Volkov",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Łarysa Bahdanowicz",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Богданович, Лариса Николаевна",
+          "name": "Michaił Wołkau",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1954-01-25",
+      "birth_date": "1954-01-05",
       "contact_details": [
         {
           "type": "email",
-          "value": "boiko@house.gov.by"
+          "value": "orsha_rik@tut.by"
         },
         {
           "type": "phone",
-          "value": "8 (01795) 5 55 87"
+          "value": "8 (0216) 21 12 83"
         }
       ],
-      "email": "boiko@house.gov.by",
+      "email": "orsha_rik@tut.by",
       "gender": "male",
-      "id": "2627b3be-1c95-4ab4-bb95-4252a2bd2b9e",
+      "id": "3653432d-0cc7-4de5-8992-e95a401ccdfa",
       "identifiers": [
         {
-          "identifier": "35939",
+          "identifier": "35960",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://house.gov.by/files/images/bojko.jpg",
+      "image": "http://house.gov.by/files/images/dedushkin.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/bojko.jpg"
+          "url": "http://house.gov.by/files/images/dedushkin.jpg"
         }
       ],
-      "name": "BOIKO ANATOLY"
+      "name": "DEDUSHKIN VLADIMIR"
+    },
+    {
+      "birth_date": "1955-11-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "puzyrevsky@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01641) 2 21 80"
+        }
+      ],
+      "email": "puzyrevsky@house.gov.by",
+      "gender": "male",
+      "id": "36d4d862-6978-47be-9209-7413cc14cdb9",
+      "identifiers": [
+        {
+          "identifier": "36026",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/puzyrevskij.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/puzyrevskij.jpg"
+        }
+      ],
+      "name": "PUZYREVSKY VLADIMIR"
+    },
+    {
+      "birth_date": "1963-04-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "starostina@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0222) 42 34 81"
+        }
+      ],
+      "email": "starostina@house.gov.by",
+      "gender": "female",
+      "id": "36dff5a2-f1be-4b11-9850-bda45e456fc9",
+      "identifiers": [
+        {
+          "identifier": "36036",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918514",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/starostina.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/starostina.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Людміла_Віктараўна_Старасціна"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ludmiła_Starascina"
+        }
+      ],
+      "name": "STAROSTINA LIUDMILA",
+      "other_names": [
+        {
+          "name": "Ludmiła Starascina",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Людміла Віктараўна Старасціна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ludmiła Starascina",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1967-01-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nekhaichik@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (017) 295 68 12, 296 24 12"
+        }
+      ],
+      "email": "nekhaichik@house.gov.by",
+      "gender": "female",
+      "id": "38a63636-1b8d-406d-a1c1-135756d89519",
+      "identifiers": [
+        {
+          "identifier": "36017",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/nehajchik.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/nehajchik.jpg"
+        }
+      ],
+      "name": "NEKHAICHIK OKSANA"
+    },
+    {
+      "birth_date": "1952-04-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senkevich@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0222) 22 18 77"
+        }
+      ],
+      "email": "senkevich@house.gov.by",
+      "gender": "male",
+      "id": "3a4d232f-49a4-42e3-91f3-d5030b1d2c1d",
+      "identifiers": [
+        {
+          "identifier": "36033",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/senjkevich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/senjkevich.jpg"
+        }
+      ],
+      "name": "SENKEVICH EDUARD"
+    },
+    {
+      "birth_date": "1948-01-02",
+      "gender": "male",
+      "id": "3bf1cc0b-f007-46b9-9327-e3cf084f5c49",
+      "identifiers": [
+        {
+          "identifier": "36024",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/popkov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/popkov.jpg"
+        }
+      ],
+      "name": "POPKOV ALEKSANDR"
+    },
+    {
+      "birth_date": "1976-08-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shchepov@house.gov.by."
+        },
+        {
+          "type": "phone",
+          "value": "8 (02339) 4 20 31, 8 (02337) 2 10 73"
+        }
+      ],
+      "email": "shchepov@house.gov.by.",
+      "gender": "male",
+      "id": "3d74156a-895a-4852-a228-9b0075d3c469",
+      "identifiers": [
+        {
+          "identifier": "36069",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/schepov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/schepov.jpg"
+        }
+      ],
+      "name": "SHCHEPOV VLADISLAV"
+    },
+    {
+      "birth_date": "1955-11-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "michail.savanovich@gmail.com"
+        },
+        {
+          "type": "phone",
+          "value": "(017) 204 34 72, (025) 706 64 81"
+        }
+      ],
+      "email": "michail.savanovich@gmail.com",
+      "gender": "male",
+      "id": "3e337c86-e020-4922-95f3-a5837877afdf",
+      "identifiers": [
+        {
+          "identifier": "36030",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/pl2y9604.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/pl2y9604.jpg"
+        }
+      ],
+      "name": "SAVANOVICH MIKHAIL"
+    },
+    {
+      "birth_date": "1954-04-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "yurkevich@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01632) 9 05 48"
+        }
+      ],
+      "email": "yurkevich@house.gov.by",
+      "gender": "male",
+      "id": "3fa95b00-0c20-4173-affa-e9c0e2d8f42f",
+      "identifiers": [
+        {
+          "identifier": "36071",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/jurkevich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/jurkevich.jpg"
+        }
+      ],
+      "name": "YURKEVICH ALEKSANDR"
+    },
+    {
+      "birth_date": "1954-10-25",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0165) 31 70 01"
+        }
+      ],
+      "gender": "female",
+      "id": "3fd0d2ed-0744-40cd-a675-67cf138fb261",
+      "identifiers": [
+        {
+          "identifier": "36005",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/mandrovskaja.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/mandrovskaja.jpg"
+        }
+      ],
+      "name": "MANDROVSKAYA ZINAIDA"
     },
     {
       "birth_date": "1956-01-08",
@@ -702,656 +1626,6 @@
       ]
     },
     {
-      "birth_date": "1972-02-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "borodenya@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 296 24 12"
-        }
-      ],
-      "email": "borodenya@house.gov.by",
-      "gender": "male",
-      "id": "2796d18a-58e6-4640-a8c3-60667c2fa895",
-      "identifiers": [
-        {
-          "identifier": "35940",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/borodenja_1.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/borodenja_1.jpg"
-        }
-      ],
-      "name": "BORODENYA VALERY"
-    },
-    {
-      "birth_date": "1956-08-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "busko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 331 02 64"
-        }
-      ],
-      "email": "busko@house.gov.by",
-      "gender": "male",
-      "id": "d8f902b8-42c3-4c63-a375-1cd85c4ed7cd",
-      "identifiers": [
-        {
-          "identifier": "35942",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q9375489",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/busjko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/busjko.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Віталь_Леанідавіч_Бусько"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Wital_Buśko"
-        }
-      ],
-      "name": "BUSKO VITALY",
-      "other_names": [
-        {
-          "name": "Vitaly Busko",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Віталь Леанідавіч Бусько",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Vitaly Busko",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Wital Buśko",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1966-05-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shekan@house.gov.by"
-        }
-      ],
-      "email": "shekan@house.gov.by",
-      "gender": "female",
-      "id": "b2e17e43-8439-4b79-aac2-f90453e56a71",
-      "identifiers": [
-        {
-          "identifier": "36061",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/chekan.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/chekan.jpg"
-        }
-      ],
-      "name": "CHEKAN SVETLANA"
-    },
-    {
-      "birth_date": "1959-01-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cherevach@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 207 71 38"
-        }
-      ],
-      "email": "cherevach@house.gov.by",
-      "gender": "male",
-      "id": "dfb843e3-ac71-4684-bba1-d1664e99c5aa",
-      "identifiers": [
-        {
-          "identifier": "36062",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/cherevach.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/cherevach.jpg"
-        }
-      ],
-      "name": "CHEREVACH VLADIMIR"
-    },
-    {
-      "birth_date": "1958-05-13",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (01742) 2 06 80, 8 (01794) 5 53 41"
-        }
-      ],
-      "gender": "female",
-      "id": "8108f50d-29e3-4133-941b-e7f8c7d6ce30",
-      "identifiers": [
-        {
-          "identifier": "35958",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/danilevich_1.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/danilevich_1.jpg"
-        }
-      ],
-      "name": "DANILEVICH TAISA"
-    },
-    {
-      "birth_date": "1954-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "orsha_rik@tut.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0216) 21 12 83"
-        }
-      ],
-      "email": "orsha_rik@tut.by",
-      "gender": "male",
-      "id": "3653432d-0cc7-4de5-8992-e95a401ccdfa",
-      "identifiers": [
-        {
-          "identifier": "35960",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/dedushkin.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/dedushkin.jpg"
-        }
-      ],
-      "name": "DEDUSHKIN VLADIMIR"
-    },
-    {
-      "birth_date": "1977-03-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "devyatovsky@house.gov.by"
-        }
-      ],
-      "email": "devyatovsky@house.gov.by",
-      "gender": "male",
-      "given_name": "Vadzim",
-      "id": "e8da5aa3-dba1-475b-a3c8-3c774eaa8e06",
-      "identifiers": [
-        {
-          "identifier": "35959",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/094xcs",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "139904",
-          "scheme": "iiaf"
-        },
-        {
-          "identifier": "Q434537",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/devjatovskij.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/devjatovskij.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vadim_Devyatovskiy.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/فاديم_ديفياتوفسكي"
-        },
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Вадзім_Анатолевіч_Дзевятоўскі"
-        },
-        {
-          "note": "Wikipedia (be_x_old)",
-          "url": "https://be_x_old.wikipedia.org/wiki/Вадзім_Дзевятоўскі"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Wadsim_Dsewjatouski"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Vadim_Devyatovskiy"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Vadim_Devjatovski"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Vadzim_Dzevjatouski"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Vadzim_Dzeviatouski"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Vadzim_Dzevjatoŭski"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/ワディム・デフヤトフスキー"
-        },
-        {
-          "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/바딤_데비야토프스키"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/Vadzim_Dzevjatowski"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Vadim_Devjatovskij"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Wadzim_Dziewiatouski"
-        },
-        {
-          "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Vadim_Devyatovskiy"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Девятовский,_Вадим_Анатольевич"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Vadzim_Dzevjatoŭski"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Дев'ятовський_Вадим_Анатолійович"
-        }
-      ],
-      "name": "DEVYATOVSKY VADIM",
-      "other_names": [
-        {
-          "name": "Vadim Devyatovskiy",
-          "note": "alternate"
-        },
-        {
-          "lang": "ar",
-          "name": "فاديم ديفياتوفسكي",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be",
-          "name": "Вадзім Анатолевіч Дзевятоўскі",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be-tarask",
-          "name": "Вадзім Дзевятоўскі",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Wadsim Dsewjatouski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Vadim Devyatovskiy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Vadim Devyatovskiy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Vadim Devjatovski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Vadim Devjatovski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Vadim Devyatovskiy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Vadzim Dzevjatoŭski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ワディム・デフヤトフスキー",
-          "note": "multilingual"
-        },
-        {
-          "lang": "kana",
-          "name": "ワジム・デビャトフスキー",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "바딤 데비야토프스키",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Vadim Devjatovskij",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Vadzim Dzevjatowski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Wadzim Dziewiatouski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Vadim Devyatovskiy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Девятовский, Вадим Анатольевич",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Vadzim Dzevjatoŭski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Дев'ятовський Вадим Анатолійович",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1961-11-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dobrynina@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0216) 21 12 53"
-        }
-      ],
-      "email": "dobrynina@house.gov.by",
-      "gender": "female",
-      "id": "6dc041f2-427e-4e1f-972e-2a5ca9d4692d",
-      "identifiers": [
-        {
-          "identifier": "35961",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/dobrynina.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/dobrynina.jpg"
-        }
-      ],
-      "name": "DOBRYNINA LIUDMILA"
-    },
-    {
-      "birth_date": "1962-01-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dorogokupets@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01652) 2 17 96"
-        }
-      ],
-      "email": "dorogokupets@house.gov.by",
-      "gender": "male",
-      "id": "96433111-6a95-4437-bde3-5d8b08b0ad02",
-      "identifiers": [
-        {
-          "identifier": "35962",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/dorogokupec.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/dorogokupec.jpg"
-        }
-      ],
-      "name": "DOROGOKUPETS YURY"
-    },
-    {
-      "birth_date": "1962-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dudkin@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 243 57 10"
-        }
-      ],
-      "email": "dudkin@house.gov.by",
-      "gender": "male",
-      "id": "f0dd40cc-e728-484b-b478-e5ce373f4943",
-      "identifiers": [
-        {
-          "identifier": "35963",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/dudkin.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/dudkin.jpg"
-        }
-      ],
-      "name": "DUDKIN SERGEY"
-    },
-    {
-      "birth_date": "1956-02-17",
-      "gender": "male",
-      "id": "b7249d2b-bc12-4858-9d33-9466595682ad",
-      "identifiers": [
-        {
-          "identifier": "35964",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/9330ermantovich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/9330ermantovich.jpg"
-        }
-      ],
-      "name": "ERMANTOVICH LEONID"
-    },
-    {
-      "birth_date": "1956-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fesak@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 77 64 61"
-        }
-      ],
-      "email": "fesak@house.gov.by",
-      "gender": "male",
-      "id": "f45aa70b-5bcc-40c8-b27a-7ac7d78e7050",
-      "identifiers": [
-        {
-          "identifier": "36040",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/fesak.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/fesak.jpg"
-        }
-      ],
-      "name": "FESAK VIKTOR"
-    },
-    {
-      "birth_date": "1966-11-12",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (02342) 2 67 23"
-        }
-      ],
-      "gender": "female",
-      "id": "1ec1b7bc-a59d-4ad0-86ef-4c7ea50a5c33",
-      "identifiers": [
-        {
-          "identifier": "36041",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/filippovich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/filippovich.jpg"
-        }
-      ],
-      "name": "FILIPPOVICH GALINA"
-    },
-    {
-      "birth_date": "1953-01-19",
-      "gender": "male",
-      "id": "748cc395-41f6-43d4-94af-7980569162b2",
-      "identifiers": [
-        {
-          "identifier": "35951",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/gajdukevich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/gajdukevich.jpg"
-        }
-      ],
-      "name": "GAIDUKEVICH VALERY"
-    },
-    {
-      "birth_date": "1954-04-22",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0212) 21 32 89"
-        }
-      ],
-      "gender": "male",
-      "id": "4fc3b277-3d8a-4310-a393-0f10f69c72e9",
-      "identifiers": [
-        {
-          "identifier": "35952",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/grickevich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/grickevich.jpg"
-        }
-      ],
-      "name": "GRITSKEVICH GENNADY"
-    },
-    {
-      "birth_date": "1962-10-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "guivik@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0214) 42 56 52"
-        }
-      ],
-      "email": "guivik@house.gov.by",
-      "gender": "female",
-      "id": "46598bc8-bea6-4372-9921-37a59e09c840",
-      "identifiers": [
-        {
-          "identifier": "35954",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/gujvik1.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/gujvik1.jpg"
-        }
-      ],
-      "name": "GUIVIK NATALIA"
-    },
-    {
       "birth_date": "1955-08-03",
       "gender": "male",
       "given_name": "Viktar",
@@ -1401,431 +1675,108 @@
       ]
     },
     {
-      "birth_date": "1956-10-16",
+      "birth_date": "1962-10-01",
       "contact_details": [
         {
           "type": "email",
-          "value": "gushcha@house.gov.by"
+          "value": "guivik@house.gov.by"
         },
         {
           "type": "phone",
-          "value": "8 (0154) 53 00 60"
+          "value": "8 (0214) 42 56 52"
         }
       ],
-      "email": "gushcha@house.gov.by",
-      "gender": "male",
-      "id": "da11902a-f976-43a4-9994-c207fb784615",
-      "identifiers": [
-        {
-          "identifier": "35957",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/guscha.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/guscha.jpg"
-        }
-      ],
-      "name": "GUSHCHA VALERY"
-    },
-    {
-      "birth_date": "1947-04-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivanchenko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01770) 5 56 76, 8 (01717) 5 53 65, 8 (017) 222 64 06"
-        }
-      ],
-      "email": "ivanchenko@house.gov.by",
-      "gender": "male",
-      "id": "6409ecf1-bfb3-442b-a9cc-d89acc9ffd9f",
-      "identifiers": [
-        {
-          "identifier": "35969",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/ivanchenko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/ivanchenko.jpg"
-        }
-      ],
-      "name": "IVANCHENKO NIKOLAI"
-    },
-    {
-      "birth_date": "1975-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kharitonchik@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01775) 3 78 42"
-        }
-      ],
-      "email": "kharitonchik@house.gov.by",
-      "gender": "male",
-      "id": "a8534495-f965-4e96-99f9-9231d2bbd735",
-      "identifiers": [
-        {
-          "identifier": "36058",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/haritonchik.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/haritonchik.jpg"
-        }
-      ],
-      "name": "KHARITONCHIK DMITRY"
-    },
-    {
-      "birth_date": "1978-08-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kleshchuk@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01795) 2 08 82"
-        }
-      ],
-      "email": "kleshchuk@house.gov.by",
+      "email": "guivik@house.gov.by",
       "gender": "female",
-      "given_name": "Inesa",
-      "id": "53ee5acf-97ab-4a4e-be44-48f6b2f2e0da",
+      "id": "46598bc8-bea6-4372-9921-37a59e09c840",
       "identifiers": [
         {
-          "identifier": "35970",
+          "identifier": "35954",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/gujvik1.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/gujvik1.jpg"
+        }
+      ],
+      "name": "GUIVIK NATALIA"
+    },
+    {
+      "birth_date": "1963-06-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "yaroshevich@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01655) 6 01 76"
+        }
+      ],
+      "email": "yaroshevich@house.gov.by",
+      "gender": "male",
+      "given_name": "Alyaksandr",
+      "id": "48ddaeaa-abed-4453-946b-58e57162fadb",
+      "identifiers": [
+        {
+          "identifier": "36073",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q11712387",
+          "identifier": "Q14866893",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/files/images/kleschuk.jpg",
+      "image": "http://house.gov.by/files/images/jaroshevich_1.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/kleschuk.jpg"
+          "url": "http://house.gov.by/files/images/jaroshevich_1.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Інеса_Анатольеўна_Кляшчук"
+          "url": "https://be.wikipedia.org/wiki/Аляксандр_Мікалаевіч_Ярашэвіч"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Inesa_Klaszczuk"
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Jaraszewicz"
         }
       ],
-      "name": "KLESHCHUK INESSA",
+      "name": "YAROSHEVICH ALEKSANDR",
       "other_names": [
         {
-          "name": "Inesa Klaszczuk",
+          "name": "Alyaksandr Yarashevich",
           "note": "alternate"
         },
         {
           "lang": "be",
-          "name": "Інеса Анатольеўна Кляшчук",
+          "name": "Аляксандр Ярашэвіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Аляксандар Ярашэвіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alyaksandr Yarashevich",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Inesa Klaszczuk",
+          "name": "Alaksandr Jaraszewicz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Александр Ярошевич",
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "birth_date": "1963-02-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "klimovich@house.gov.by"
-        }
-      ],
-      "email": "klimovich@house.gov.by",
-      "gender": "female",
-      "given_name": "Natallia",
-      "id": "1817b4f9-f835-4677-b8d2-441271d64027",
-      "identifiers": [
-        {
-          "identifier": "35971",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918190",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/klimovich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/klimovich.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Наталля_Анатольеўна_Клімовіч"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Natalla_Klimowicz"
-        }
-      ],
-      "name": "KLIMOVICH NATALIA",
-      "other_names": [
-        {
-          "name": "Natalla Klimowicz",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Наталля Анатольеўна Клімовіч",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Natalla Klimowicz",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1951-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kokash@house.gov.by"
-        }
-      ],
-      "email": "kokash@house.gov.by",
-      "gender": "male",
-      "id": "1d03c9a2-43f0-473b-adbb-3d0173978c0e",
-      "identifiers": [
-        {
-          "identifier": "35973",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/9311kokash.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/9311kokash.jpg"
-        }
-      ],
-      "name": "KOKASH VALERY"
-    },
-    {
-      "birth_date": "1950-02-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kokhanov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01511) 4 25 55"
-        }
-      ],
-      "email": "kokhanov@house.gov.by",
-      "gender": "male",
-      "id": "a14684ce-fd0a-4e2e-b0e7-bd183ac05442",
-      "identifiers": [
-        {
-          "identifier": "35992",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/kohanov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kohanov.jpg"
-        }
-      ],
-      "name": "KOKHANOV ANATOLY"
-    },
-    {
-      "birth_date": "1961-03-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "koltunov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0235) 6 10 06, 8 (02237) 2 41 93, 8 (02236) 5 15 74"
-        }
-      ],
-      "email": "koltunov@house.gov.by",
-      "gender": "male",
-      "id": "232c7fd1-4d1e-4fc6-ae60-a3b681ab5636",
-      "identifiers": [
-        {
-          "identifier": "35974",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/koltunov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/koltunov.jpg"
-        }
-      ],
-      "name": "KOLTUNOV NIKOLAI"
-    },
-    {
-      "birth_date": "1966-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kononchuk@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02246) 2 55 77"
-        }
-      ],
-      "email": "kononchuk@house.gov.by",
-      "gender": "female",
-      "id": "1b530dea-eebb-4b5d-92dc-19278563fcfa",
-      "identifiers": [
-        {
-          "identifier": "35975",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/kononchuk.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kononchuk.jpg"
-        }
-      ],
-      "name": "KONONCHUK TATIANA"
-    },
-    {
-      "birth_date": "1957-03-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "konoplich@house.gov.by"
-        }
-      ],
-      "email": "konoplich@house.gov.by",
-      "gender": "male",
-      "id": "1d283ac6-cede-4ee9-a3ca-e619377ada56",
-      "identifiers": [
-        {
-          "identifier": "35991",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/konoplich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/konoplich.jpg"
-        }
-      ],
-      "name": "KONOPLICH SERGEY"
-    },
-    {
-      "birth_date": "1958-03-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kovalevich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01645) 2 15 06"
-        }
-      ],
-      "email": "kovalevich@house.gov.by",
-      "gender": "male",
-      "id": "0cb8bd89-8c06-42e1-b287-9de09d454f43",
-      "identifiers": [
-        {
-          "identifier": "35972",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/kovalevich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kovalevich.jpg"
-        }
-      ],
-      "name": "KOVALEVICH LEONID"
-    },
-    {
-      "birth_date": "1965-01-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasovskaya@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (029) 168 76 19"
-        }
-      ],
-      "email": "krasovskaya@house.gov.by",
-      "gender": "female",
-      "id": "33d1881c-e879-4ac3-a235-4dc43943409a",
-      "identifiers": [
-        {
-          "identifier": "35994",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/9799krasovskaja.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/9799krasovskaja.jpg"
-        }
-      ],
-      "name": "KRASOVSKAYA TAMARA"
-    },
-    {
-      "birth_date": "1953-08-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kravtsov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02241) 5 17 49, 8 (02241) 5 16 54, 8 (02244) 5 15 52"
-        }
-      ],
-      "email": "kravtsov@house.gov.by",
-      "gender": "male",
-      "id": "7d3e61c5-484c-48a0-bf29-cd5dade3969e",
-      "identifiers": [
-        {
-          "identifier": "35993",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/kravcov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kravcov.jpg"
-        }
-      ],
-      "name": "KRAVTSOV VLADIMIR"
     },
     {
       "birth_date": "1970-03-14",
@@ -1855,1912 +1806,6 @@
         }
       ],
       "name": "KUBRAKOVA LIUDMILA"
-    },
-    {
-      "birth_date": "1971-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kuchinskaya@house.gov.by"
-        }
-      ],
-      "email": "kuchinskaya@house.gov.by",
-      "gender": "female",
-      "id": "ee2ca4a0-abb9-428a-b1de-bcfc7e9231ed",
-      "identifiers": [
-        {
-          "identifier": "35998",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/kuchinskaja.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kuchinskaja.jpg"
-        }
-      ],
-      "name": "KUCHINSKAYA NATALIA"
-    },
-    {
-      "birth_date": "1960-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "s_kulesh@house.gov.by"
-        }
-      ],
-      "email": "s_kulesh@house.gov.by",
-      "gender": "male",
-      "id": "19e908ae-a0f4-4122-8886-c4657d4242a8",
-      "identifiers": [
-        {
-          "identifier": "35997",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/kulesh.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kulesh.jpg"
-        }
-      ],
-      "name": "KULESH STANISLAV"
-    },
-    {
-      "birth_date": "1955-08-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kuzmich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 207 15 66"
-        }
-      ],
-      "email": "kuzmich@house.gov.by",
-      "gender": "male",
-      "id": "d4a0dfbb-47aa-4a6d-8c38-e6eda4603a8c",
-      "identifiers": [
-        {
-          "identifier": "35996",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/kuzjmich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kuzjmich.jpg"
-        }
-      ],
-      "name": "KUZMICH ALEKSEY"
-    },
-    {
-      "birth_date": "1960-04-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lazovskaya@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (029) 396 87 92"
-        }
-      ],
-      "email": "lazovskaya@house.gov.by",
-      "gender": "female",
-      "id": "f713d946-94d9-4dc1-9aa3-56947e5facb5",
-      "identifiers": [
-        {
-          "identifier": "35999",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/lazovskaja.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/lazovskaja.jpg"
-        }
-      ],
-      "name": "LAZOVSKAYA GALINA"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "leonenko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 222 63 14"
-        }
-      ],
-      "email": "leonenko@house.gov.by",
-      "gender": "female",
-      "id": "0b406a35-1e70-4bc7-81d9-84e0fc26efd0",
-      "identifiers": [
-        {
-          "identifier": "36002",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/9594leonenko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/9594leonenko.jpg"
-        }
-      ],
-      "name": "LEONENKO VALENTINA"
-    },
-    {
-      "birth_date": "1961-03-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "levitskaya@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 204 30 15"
-        }
-      ],
-      "email": "levitskaya@house.gov.by",
-      "gender": "female",
-      "id": "cdbca88d-1a12-47ac-93e4-f229a611bbb9",
-      "identifiers": [
-        {
-          "identifier": "36000",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/levickaja.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/levickaja.jpg"
-        }
-      ],
-      "name": "LEVITSKAYA ANNA"
-    },
-    {
-      "birth_date": "1964-08-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "levshunov.oleg@mail.ru"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 74 32 90"
-        }
-      ],
-      "email": "levshunov.oleg@mail.ru",
-      "gender": "male",
-      "id": "d67cb2ac-ab68-4e35-8f8a-0fbea2e51ac6",
-      "identifiers": [
-        {
-          "identifier": "36001",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/levshunov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/levshunov.jpg"
-        }
-      ],
-      "name": "LEVSHUNOV OLEG"
-    },
-    {
-      "birth_date": "1960-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "liskovich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 0152 77 11 70"
-        }
-      ],
-      "email": "liskovich@house.gov.by",
-      "gender": "male",
-      "id": "da3f0fad-e946-4e6a-8590-a440566c9851",
-      "identifiers": [
-        {
-          "identifier": "36003",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/liskovich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/liskovich.jpg"
-        }
-      ],
-      "name": "LISKOVICH VIKTOR"
-    },
-    {
-      "birth_date": "1955-08-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lopatina@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 40 63 52"
-        }
-      ],
-      "email": "lopatina@house.gov.by",
-      "gender": "female",
-      "id": "b7e9a07a-50fb-477d-bb1e-3ce12e25e23f",
-      "identifiers": [
-        {
-          "identifier": "36004",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/lopatina_1.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/lopatina_1.jpg"
-        }
-      ],
-      "name": "LOPATINA ANNA"
-    },
-    {
-      "birth_date": "1954-10-25",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0165) 31 70 01"
-        }
-      ],
-      "gender": "female",
-      "id": "3fd0d2ed-0744-40cd-a675-67cf138fb261",
-      "identifiers": [
-        {
-          "identifier": "36005",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/mandrovskaja.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/mandrovskaja.jpg"
-        }
-      ],
-      "name": "MANDROVSKAYA ZINAIDA"
-    },
-    {
-      "birth_date": "1959-07-11",
-      "gender": "male",
-      "id": "88673e4c-6bf5-4d40-8c37-f1628964b25d",
-      "identifiers": [
-        {
-          "identifier": "36006",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/mezhuev.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/mezhuev.jpg"
-        }
-      ],
-      "name": "MEZHUEV ALEKSANDR"
-    },
-    {
-      "birth_date": "1956-08-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mikhalkova@house.gov.by"
-        }
-      ],
-      "email": "mikhalkova@house.gov.by",
-      "gender": "female",
-      "id": "65725c45-4bf9-46f9-a1ae-ad44c1d85849",
-      "identifiers": [
-        {
-          "identifier": "36008",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/mihaljkova.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/mihaljkova.jpg"
-        }
-      ],
-      "name": "MIKHALKOVA LIUDMILA"
-    },
-    {
-      "birth_date": "1955-09-27",
-      "gender": "male",
-      "id": "c80770ee-851f-4652-a5bc-7425071689a4",
-      "identifiers": [
-        {
-          "identifier": "36009",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/mihno.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/mihno.jpg"
-        }
-      ],
-      "name": "MIKHNO VASILIY"
-    },
-    {
-      "birth_date": "1960-10-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "miloshevsky@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0162) 42 86 41"
-        }
-      ],
-      "email": "miloshevsky@house.gov.by",
-      "gender": "male",
-      "id": "1d37d3d7-3649-4175-ac2e-4738be5776c2",
-      "identifiers": [
-        {
-          "identifier": "36007",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/miloshevskij.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/miloshevskij.jpg"
-        }
-      ],
-      "name": "MILOSHEVSKY VALENTIN"
-    },
-    {
-      "birth_date": "1962-03-24",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0225) 43 16 61"
-        }
-      ],
-      "gender": "female",
-      "id": "ea963c3f-cf8a-4c3a-b602-9ec37e07735c",
-      "identifiers": [
-        {
-          "identifier": "36010",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/mishur.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/mishur.jpg"
-        }
-      ],
-      "name": "MISHUR ZHANNA"
-    },
-    {
-      "birth_date": "1958-08-25",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (021) 54 4 42 25"
-        }
-      ],
-      "gender": "male",
-      "id": "126ae66c-9d2a-4782-9035-8023e663dd83",
-      "identifiers": [
-        {
-          "identifier": "36012",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/morhat.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/morhat.jpg"
-        }
-      ],
-      "name": "MORKHAT MECHISLAV"
-    },
-    {
-      "birth_date": "1954-03-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mozheiko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8-017-222-63-70, 8-029-700-20-41."
-        }
-      ],
-      "email": "mozheiko@house.gov.by",
-      "gender": "male",
-      "id": "fdf601a4-88a0-4c0a-a3c2-e6976d5c9173",
-      "identifiers": [
-        {
-          "identifier": "36011",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/mozhejko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/mozhejko.jpg"
-        }
-      ],
-      "name": "MOZHEIKO LEONID"
-    },
-    {
-      "birth_date": "1981-06-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "murashko@house.gov.by"
-        }
-      ],
-      "email": "murashko@house.gov.by",
-      "gender": "male",
-      "id": "ad354fd3-56d7-4728-b3a4-9ec2da029c1e",
-      "identifiers": [
-        {
-          "identifier": "36013",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/murashko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/murashko.jpg"
-        }
-      ],
-      "name": "MURASHKO ILYA"
-    },
-    {
-      "birth_date": "1968-07-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "myakinnik@house.gov.by"
-        }
-      ],
-      "email": "myakinnik@house.gov.by",
-      "gender": "male",
-      "given_name": "Alyaksandr",
-      "id": "2e438a2e-837a-4fd5-bc37-ced16244d6c4",
-      "identifiers": [
-        {
-          "identifier": "36014",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14421992",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/mjakinnik.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/mjakinnik.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Аляксандр_Пятровіч_Мякіннік"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Miakinnik"
-        },
-        {
-          "note": "Wikipedia (plwikiquote)",
-          "url": "https://plwikiquote.wikipedia.org/wiki/Alaksandr_Miakinnik"
-        }
-      ],
-      "name": "MYAKINNIK ALEKSANDR",
-      "other_names": [
-        {
-          "name": "Aleksandr Myakinnik",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Аляксандр Пятровіч Мякіннік",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Aleksandr Myakinnik",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Aleksandr Myakinnik",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Alaksandr Miakinnik",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Alaksandr Miakinnik",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1960-12-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "naumchik@house.gov.by"
-        }
-      ],
-      "email": "naumchik@house.gov.by",
-      "gender": "female",
-      "id": "2c65089b-def3-4c96-be8b-a63b0f06982b",
-      "identifiers": [
-        {
-          "identifier": "36016",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/naumchik.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/naumchik.jpg"
-        }
-      ],
-      "name": "NAUMCHIK ALLA"
-    },
-    {
-      "birth_date": "1963-07-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "naumovich@house.gov.by"
-        }
-      ],
-      "email": "naumovich@house.gov.by",
-      "gender": "male",
-      "id": "c6135aa7-c17e-40ca-af22-b717ea5411b9",
-      "identifiers": [
-        {
-          "identifier": "36015",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/naumovich_1.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/naumovich_1.jpg"
-        }
-      ],
-      "name": "NAUMOVICH ANDREI"
-    },
-    {
-      "birth_date": "1967-01-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nekhaichik@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 295 68 12, 296 24 12"
-        }
-      ],
-      "email": "nekhaichik@house.gov.by",
-      "gender": "female",
-      "id": "38a63636-1b8d-406d-a1c1-135756d89519",
-      "identifiers": [
-        {
-          "identifier": "36017",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/nehajchik.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/nehajchik.jpg"
-        }
-      ],
-      "name": "NEKHAICHIK OKSANA"
-    },
-    {
-      "birth_date": "1973-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "obolensky@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01774) 22 49 42."
-        }
-      ],
-      "email": "obolensky@house.gov.by",
-      "family_name": "Abalenski",
-      "gender": "male",
-      "given_name": "Jauhienij",
-      "id": "61aa5f90-80ad-4ad9-8eaf-ad9e0d72834c",
-      "identifiers": [
-        {
-          "identifier": "36018",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q10444907",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/obolenskij_sajt.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/obolenskij_sajt.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Яўген_Вячаслававіч_Абаленскі"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Jauhienij_Abalenski"
-        },
-        {
-          "note": "Wikipedia (plwikiquote)",
-          "url": "https://plwikiquote.wikipedia.org/wiki/Jauhienij_Abalenski"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Оболенський_Євген_В’ячеславович"
-        }
-      ],
-      "name": "OBOLENSKY EVGENY",
-      "other_names": [
-        {
-          "name": "Yauhien Abalenski",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Яўген Абаленскі",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be-tarask",
-          "name": "Яўген Абаленскі",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Yauhien Abalenski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Yauhien Abalenski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Yauhien Abalenski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Yauhien Abalenski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Yauhien Abalenski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Jauhienij Abalenski",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Оболенский, Евгений Вячеславович",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Оболенський Євген В’ячеславович",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1962-05-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "palchyk@house.gov.bу"
-        }
-      ],
-      "email": "palchyk@house.gov.bу",
-      "gender": "male",
-      "id": "bc82157d-db71-40a2-9645-968972d1f5fd",
-      "identifiers": [
-        {
-          "identifier": "36019",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/paljchik.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/paljchik.jpg"
-        }
-      ],
-      "name": "PALCHIK GENNADY"
-    },
-    {
-      "birth_date": "1958-02-19",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (02144) 2 64 58"
-        }
-      ],
-      "gender": "male",
-      "id": "e752dbc5-48a0-4a79-9062-a9c0452ab453",
-      "identifiers": [
-        {
-          "identifier": "36020",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/papko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/papko.jpg"
-        }
-      ],
-      "name": "PAPKO VASILY"
-    },
-    {
-      "birth_date": "1955-07-07",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0225) 52 88 31, 8 (029) 675 50 96"
-        }
-      ],
-      "gender": "male",
-      "id": "8dff891e-a57c-4025-bf48-f06933fe013d",
-      "identifiers": [
-        {
-          "identifier": "36021",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/plaksickij.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/plaksickij.jpg"
-        }
-      ],
-      "name": "PLAKSITSKY NIKOLAI"
-    },
-    {
-      "birth_date": "1951-12-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pochinok@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 40 53 62."
-        }
-      ],
-      "email": "pochinok@house.gov.by",
-      "gender": "male",
-      "id": "510f2f4e-aa34-4276-b23b-ddab88beaa8b",
-      "identifiers": [
-        {
-          "identifier": "36025",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/pochinok.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/pochinok.jpg"
-        }
-      ],
-      "name": "POCHINOK MIKHAIL"
-    },
-    {
-      "birth_date": "1955-07-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "poleichuk@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (029) 329 23 07"
-        }
-      ],
-      "email": "poleichuk@house.gov.by",
-      "gender": "male",
-      "id": "b850afed-4244-45c2-8d32-cda5424080c3",
-      "identifiers": [
-        {
-          "identifier": "36022",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/polejchuk.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/polejchuk.jpg"
-        }
-      ],
-      "name": "POLEICHUK ALEKSANDR"
-    },
-    {
-      "birth_date": "1971-06-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "politiko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0163) 42 15 22."
-        }
-      ],
-      "email": "politiko@house.gov.by",
-      "gender": "female",
-      "id": "84a6b470-b77f-4463-afaa-1fe59314496e",
-      "identifiers": [
-        {
-          "identifier": "36023",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/politiko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/politiko.jpg"
-        }
-      ],
-      "name": "POLITIKO OLGA"
-    },
-    {
-      "birth_date": "1948-01-02",
-      "gender": "male",
-      "id": "3bf1cc0b-f007-46b9-9327-e3cf084f5c49",
-      "identifiers": [
-        {
-          "identifier": "36024",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/popkov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/popkov.jpg"
-        }
-      ],
-      "name": "POPKOV ALEKSANDR"
-    },
-    {
-      "birth_date": "1955-11-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "puzyrevsky@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01641) 2 21 80"
-        }
-      ],
-      "email": "puzyrevsky@house.gov.by",
-      "gender": "male",
-      "id": "36d4d862-6978-47be-9209-7413cc14cdb9",
-      "identifiers": [
-        {
-          "identifier": "36026",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/puzyrevskij.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/puzyrevskij.jpg"
-        }
-      ],
-      "name": "PUZYREVSKY VLADIMIR"
-    },
-    {
-      "birth_date": "1958-08-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rassokha@house.gov.by"
-        }
-      ],
-      "email": "rassokha@house.gov.by",
-      "gender": "male",
-      "given_name": "Mikalay",
-      "id": "1b0a70f3-d55f-41ec-831a-a0d59b91a02f",
-      "identifiers": [
-        {
-          "identifier": "36027",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14422105",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/rassoha.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/rassoha.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Мікалай_Фёдаравіч_Рассоха"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Mikałaj_Rasocha"
-        }
-      ],
-      "name": "RASSOKHA NIKOLAI",
-      "other_names": [
-        {
-          "name": "Mikałaj Rasocha",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Мікалай Фёдаравіч Рассоха",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Mikałaj Rasocha",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1953-02-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rozganov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0222) 25 75 10"
-        }
-      ],
-      "email": "rozganov@house.gov.by",
-      "gender": "male",
-      "given_name": "Alyaksandr",
-      "id": "65771f23-a25b-4e61-b5d2-d6c7cdc9f14b",
-      "identifiers": [
-        {
-          "identifier": "36028",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q9144071",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/rozganov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/rozganov.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Аляксандр_Іванавіч_Разганаў"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Razhanau"
-        },
-        {
-          "note": "Wikipedia (plwikiquote)",
-          "url": "https://plwikiquote.wikipedia.org/wiki/Alaksandr_Razhanau"
-        }
-      ],
-      "name": "ROZGANOV ALEKSANDR",
-      "other_names": [
-        {
-          "name": "Alaksandr Razhanau",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Аляксандр Іванавіч Разганаў",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Alaksandr Razhanau",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Alaksandr Razhanau",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955-05-04",
-      "gender": "male",
-      "id": "9c60ebae-e845-452a-9c16-70547954efd4",
-      "identifiers": [
-        {
-          "identifier": "36029",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/rusak.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/rusak.jpg"
-        }
-      ],
-      "name": "RUSAK VIKTOR"
-    },
-    {
-      "birth_date": "1959-10-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "samoseiko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 222 35 76"
-        }
-      ],
-      "email": "samoseiko@house.gov.by",
-      "gender": "male",
-      "given_name": "Mikalay",
-      "id": "a00cd1e4-5abd-46ee-bf2a-18f732072254",
-      "identifiers": [
-        {
-          "identifier": "36031",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q11780622",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/pl2y9785.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/pl2y9785.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Мікалай_Леанідавіч_Самасейка"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Mikałaj_Samasiejka"
-        }
-      ],
-      "name": "SAMOSEIKO NIKOLAI",
-      "other_names": [
-        {
-          "name": "Mikałaj Samasiejka",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Мікалай Леанідавіч Самасейка",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Mikałaj Samasiejka",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michail.savanovich@gmail.com"
-        },
-        {
-          "type": "phone",
-          "value": "(017) 204 34 72, (025) 706 64 81"
-        }
-      ],
-      "email": "michail.savanovich@gmail.com",
-      "gender": "male",
-      "id": "3e337c86-e020-4922-95f3-a5837877afdf",
-      "identifiers": [
-        {
-          "identifier": "36030",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/pl2y9604.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/pl2y9604.jpg"
-        }
-      ],
-      "name": "SAVANOVICH MIKHAIL"
-    },
-    {
-      "birth_date": "1956-06-30",
-      "gender": "male",
-      "id": "9ce7d4ac-e3ea-4eb0-8921-c06add44decb",
-      "identifiers": [
-        {
-          "identifier": "36032",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/segodnik_2.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/segodnik_2.jpg"
-        }
-      ],
-      "name": "SEGODNIK ALEKSANDR"
-    },
-    {
-      "birth_date": "1952-04-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senkevich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0222) 22 18 77"
-        }
-      ],
-      "email": "senkevich@house.gov.by",
-      "gender": "male",
-      "id": "3a4d232f-49a4-42e3-91f3-d5030b1d2c1d",
-      "identifiers": [
-        {
-          "identifier": "36033",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/senjkevich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/senjkevich.jpg"
-        }
-      ],
-      "name": "SENKEVICH EDUARD"
-    },
-    {
-      "birth_date": "1973-05-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shamal@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02251) 47 48 71"
-        }
-      ],
-      "email": "shamal@house.gov.by",
-      "gender": "female",
-      "id": "25b8268f-1bcf-4445-9058-02230a542529",
-      "identifiers": [
-        {
-          "identifier": "36063",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/shamalj.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shamalj.jpg"
-        }
-      ],
-      "name": "SHAMAL ELENA"
-    },
-    {
-      "birth_date": "1976-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shchepov@house.gov.by."
-        },
-        {
-          "type": "phone",
-          "value": "8 (02339) 4 20 31, 8 (02337) 2 10 73"
-        }
-      ],
-      "email": "shchepov@house.gov.by.",
-      "gender": "male",
-      "id": "3d74156a-895a-4852-a228-9b0075d3c469",
-      "identifiers": [
-        {
-          "identifier": "36069",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/schepov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/schepov.jpg"
-        }
-      ],
-      "name": "SHCHEPOV VLADISLAV"
-    },
-    {
-      "birth_date": "1955-09-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shchetko@house.gov.byhttp://192.168.2.3/palata/"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01715) 5 50 45"
-        }
-      ],
-      "email": "shchetko@house.gov.byhttp://192.168.2.3/palata/",
-      "gender": "male",
-      "id": "0d47c3de-8b66-4cd2-a164-4bf4c2e005f6",
-      "identifiers": [
-        {
-          "identifier": "36070",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/schetjko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/schetjko.jpg"
-        }
-      ],
-      "name": "SHCHETSKO VIKTOR"
-    },
-    {
-      "birth_date": "1973-11-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shevtsov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (029) 622 98 67"
-        }
-      ],
-      "email": "shevtsov@house.gov.by",
-      "gender": "male",
-      "id": "aa5dfa0b-cf7f-4516-86f7-80147a99ee84",
-      "identifiers": [
-        {
-          "identifier": "36064",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/shevcov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shevcov.jpg"
-        }
-      ],
-      "name": "SHEVTSOV DMITRY"
-    },
-    {
-      "birth_date": "1955-01-18",
-      "gender": "male",
-      "id": "acb0acee-c72c-4d2a-884c-0e5935b478ad",
-      "identifiers": [
-        {
-          "identifier": "36065",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/shikshnjan.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shikshnjan.jpg"
-        }
-      ],
-      "name": "SHIKSHNYAN PETR"
-    },
-    {
-      "birth_date": "1961-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shilova@house.gov.by"
-        }
-      ],
-      "email": "shilova@house.gov.by",
-      "gender": "female",
-      "given_name": "Sviatlana",
-      "id": "de75f37d-ce09-4c7c-a4bd-8d5610192c5a",
-      "identifiers": [
-        {
-          "identifier": "36066",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q9348622",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/shilov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shilov.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Святлана_Дзмітрыеўна_Шылава"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Swiatłana_Szyława"
-        }
-      ],
-      "name": "SHILOVA SVETLANA",
-      "other_names": [
-        {
-          "lang": "be",
-          "name": "Святлана Дзмітрыеўна Шылава",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Shilova Svetlana",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Swiatłana Szyława",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1954-08-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shitko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0212) 36 42 11"
-        }
-      ],
-      "email": "shitko@house.gov.by",
-      "gender": "male",
-      "id": "234bfbc5-c337-4a99-8cda-3fc14bb10eb8",
-      "identifiers": [
-        {
-          "identifier": "36067",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/shitjko.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shitjko.jpg"
-        }
-      ],
-      "name": "SHITKO VLADIMIR"
-    },
-    {
-      "birth_date": "1966-07-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shostak@house.gov.by"
-        }
-      ],
-      "email": "shostak@house.gov.by",
-      "gender": "male",
-      "given_name": "Piotr",
-      "id": "cf73ebf4-0e68-4000-aa51-c51884192155",
-      "identifiers": [
-        {
-          "identifier": "36068",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918527",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/shostak.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shostak.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Пётр_Мікалаевіч_Шостак"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Piotr_Szostak"
-        }
-      ],
-      "name": "SHOSTAK PETR",
-      "other_names": [
-        {
-          "name": "Piotr Szostak",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Пётр Мікалаевіч Шостак",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Piotr Szostak",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1963-01-24",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (01562) 2 33 61"
-        }
-      ],
-      "gender": "female",
-      "id": "9d732c42-8ff7-49ca-9a7b-abe45ee09c90",
-      "identifiers": [
-        {
-          "identifier": "36034",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/sopikova.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/sopikova.jpg"
-        }
-      ],
-      "name": "SOPIKOVA ALLA"
-    },
-    {
-      "birth_date": "1967-08-30",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0222) 48 43 55"
-        }
-      ],
-      "gender": "male",
-      "id": "b254643b-f9e6-438e-a9ca-35c939a04930",
-      "identifiers": [
-        {
-          "identifier": "36035",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/stankevich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/stankevich.jpg"
-        }
-      ],
-      "name": "STANKEVICH IGOR"
-    },
-    {
-      "birth_date": "1963-04-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "starostina@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0222) 42 34 81"
-        }
-      ],
-      "email": "starostina@house.gov.by",
-      "gender": "female",
-      "id": "36dff5a2-f1be-4b11-9850-bda45e456fc9",
-      "identifiers": [
-        {
-          "identifier": "36036",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918514",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/starostina.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/starostina.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Людміла_Віктараўна_Старасціна"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ludmiła_Starascina"
-        }
-      ],
-      "name": "STAROSTINA LIUDMILA",
-      "other_names": [
-        {
-          "name": "Ludmiła Starascina",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Людміла Віктараўна Старасціна",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Ludmiła Starascina",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1957-04-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stetsko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0163) 42 15 22"
-        }
-      ],
-      "email": "stetsko@house.gov.by",
-      "gender": "male",
-      "given_name": "Alyaksandr",
-      "id": "6863bc47-74a1-4f69-a6e5-9356f7e3008a",
-      "identifiers": [
-        {
-          "identifier": "36037",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918481",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/rsrsrr.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/rsrsrr.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Аляксандр_Мікалаевіч_Сцяцко"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Sciacko"
-        }
-      ],
-      "name": "STETSKO ALEKSANDR",
-      "other_names": [
-        {
-          "name": "Aleksandr Stiecko",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Аляксандр Мікалаевіч Сцяцко",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Aleksandr Stiecko",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Alaksandr Sciacko",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1956-01-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsetsokho@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0212) 53 74 99"
-        }
-      ],
-      "email": "tsetsokho@house.gov.by",
-      "gender": "male",
-      "id": "2155f496-c767-4603-b3a3-f501d48e16dd",
-      "identifiers": [
-        {
-          "identifier": "36059",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/cecoho.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/cecoho.jpg"
-        }
-      ],
-      "name": "TSETSOKHO ALEKSANDR"
-    },
-    {
-      "birth_date": "1953-11-11",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (01716) 5 56 43, 8 (01718) 5 55 07"
-        }
-      ],
-      "gender": "male",
-      "id": "4f0c655f-5e5c-4c94-a2d8-642a8bece64c",
-      "identifiers": [
-        {
-          "identifier": "36060",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/cydik.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/cydik.jpg"
-        }
-      ],
-      "name": "TSYDIK VLADISLAV"
-    },
-    {
-      "birth_date": "1952-12-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "udodov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02345) 9 52 50"
-        }
-      ],
-      "email": "udodov@house.gov.by",
-      "gender": "male",
-      "id": "98c175be-8fb2-491f-bc16-bae8775fd9bf",
-      "identifiers": [
-        {
-          "identifier": "36038",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/udodov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/udodov.jpg"
-        }
-      ],
-      "name": "UDODOV ALEKSANDR"
-    },
-    {
-      "birth_date": "1956-05-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ushkevich@house.gov.by"
-        }
-      ],
-      "email": "ushkevich@house.gov.by",
-      "gender": "male",
-      "id": "b1963f7e-79ae-4312-94f2-ac5f0c12543d",
-      "identifiers": [
-        {
-          "identifier": "36039",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/ushkevich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/ushkevich.jpg"
-        }
-      ],
-      "name": "USHKEVICH SERGEY"
-    },
-    {
-      "birth_date": "1953-05-13",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (029) 142 73 29"
-        }
-      ],
-      "gender": "male",
-      "id": "b299d252-7482-448a-bfcd-8ea228e72964",
-      "identifiers": [
-        {
-          "identifier": "35943",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918565",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/valevach.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/valevach.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Зыгмунд_Антонавіч_Валявач"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Zyhmund_Walawacz"
-        }
-      ],
-      "name": "VALEVACH ZYGMUND",
-      "other_names": [
-        {
-          "name": "Zyhmund Valavach",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Зыгмунд Антонавіч Валявач",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Zyhmund Valavach",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Zyhmund Valavach",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Zyhmund Valavach",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Zyhmund Walawacz",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Валевач, Зыгмунд Антонович",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1962-02-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valyushitsky@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0162) 23 86 36"
-        }
-      ],
-      "email": "valyushitsky@house.gov.by",
-      "gender": "male",
-      "given_name": "Viktar",
-      "id": "2ca8f99b-6d7b-4642-b596-3f012a0242c9",
-      "identifiers": [
-        {
-          "identifier": "35944",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918570",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/valjushickij.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/valjushickij.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Віктар_Іванавіч_Валюшыцкі"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Wiktar_Waluszycki"
-        }
-      ],
-      "name": "VALYUSHITSKY VIKTOR",
-      "other_names": [
-        {
-          "name": "Wiktar Waluszycki",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Віктар Іванавіч Валюшыцкі",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Wiktar Waluszycki",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "birth_date": "1951-05-26",
@@ -4108,6 +2153,1972 @@
       ]
     },
     {
+      "birth_date": "1953-11-11",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (01716) 5 56 43, 8 (01718) 5 55 07"
+        }
+      ],
+      "gender": "male",
+      "id": "4f0c655f-5e5c-4c94-a2d8-642a8bece64c",
+      "identifiers": [
+        {
+          "identifier": "36060",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/cydik.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/cydik.jpg"
+        }
+      ],
+      "name": "TSYDIK VLADISLAV"
+    },
+    {
+      "birth_date": "1954-04-22",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0212) 21 32 89"
+        }
+      ],
+      "gender": "male",
+      "id": "4fc3b277-3d8a-4310-a393-0f10f69c72e9",
+      "identifiers": [
+        {
+          "identifier": "35952",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/grickevich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/grickevich.jpg"
+        }
+      ],
+      "name": "GRITSKEVICH GENNADY"
+    },
+    {
+      "birth_date": "1951-12-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pochinok@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0232) 40 53 62."
+        }
+      ],
+      "email": "pochinok@house.gov.by",
+      "gender": "male",
+      "id": "510f2f4e-aa34-4276-b23b-ddab88beaa8b",
+      "identifiers": [
+        {
+          "identifier": "36025",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/pochinok.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/pochinok.jpg"
+        }
+      ],
+      "name": "POCHINOK MIKHAIL"
+    },
+    {
+      "birth_date": "1978-08-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kleshchuk@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01795) 2 08 82"
+        }
+      ],
+      "email": "kleshchuk@house.gov.by",
+      "gender": "female",
+      "given_name": "Inesa",
+      "id": "53ee5acf-97ab-4a4e-be44-48f6b2f2e0da",
+      "identifiers": [
+        {
+          "identifier": "35970",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11712387",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kleschuk.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kleschuk.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Інеса_Анатольеўна_Кляшчук"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Inesa_Klaszczuk"
+        }
+      ],
+      "name": "KLESHCHUK INESSA",
+      "other_names": [
+        {
+          "name": "Inesa Klaszczuk",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Інеса Анатольеўна Кляшчук",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Inesa Klaszczuk",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1952-01-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ageey@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (017) 222 41 53"
+        }
+      ],
+      "email": "ageey@house.gov.by",
+      "family_name": "Ahiejeu",
+      "gender": "male",
+      "given_name": "Alyaksandr",
+      "id": "5ec20a81-a075-4465-a530-3805e1b316ad",
+      "identifiers": [
+        {
+          "identifier": "35932",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6656652",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/ageev.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/ageev.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Аляксандр_Віктаравіч_Агееў"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Ahiejeu_(polityk)"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Alaksandr_Ahiejeu_(polityk)"
+        }
+      ],
+      "name": "AGEEV ALEKSANDR",
+      "other_names": [
+        {
+          "name": "Alyaksandr Aheeu",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Аляксандр Агееў",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Аляксандар Агееў",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alyaksandr Aheeu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alyaksandr Aheeu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alyaksandr Aheeu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alyaksandr Aheeu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alyaksandr Aheeu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alaksandr Ahiejeu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Агеев, Александр Викторович",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1973-03-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "obolensky@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01774) 22 49 42."
+        }
+      ],
+      "email": "obolensky@house.gov.by",
+      "family_name": "Abalenski",
+      "gender": "male",
+      "given_name": "Jauhienij",
+      "id": "61aa5f90-80ad-4ad9-8eaf-ad9e0d72834c",
+      "identifiers": [
+        {
+          "identifier": "36018",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10444907",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/obolenskij_sajt.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/obolenskij_sajt.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Яўген_Вячаслававіч_Абаленскі"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jauhienij_Abalenski"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Jauhienij_Abalenski"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Оболенський_Євген_В’ячеславович"
+        }
+      ],
+      "name": "OBOLENSKY EVGENY",
+      "other_names": [
+        {
+          "name": "Yauhien Abalenski",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Яўген Абаленскі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Яўген Абаленскі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yauhien Abalenski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yauhien Abalenski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yauhien Abalenski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yauhien Abalenski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yauhien Abalenski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jauhienij Abalenski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Оболенский, Евгений Вячеславович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Оболенський Євген В’ячеславович",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1947-04-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ivanchenko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01770) 5 56 76, 8 (01717) 5 53 65, 8 (017) 222 64 06"
+        }
+      ],
+      "email": "ivanchenko@house.gov.by",
+      "gender": "male",
+      "id": "6409ecf1-bfb3-442b-a9cc-d89acc9ffd9f",
+      "identifiers": [
+        {
+          "identifier": "35969",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/ivanchenko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/ivanchenko.jpg"
+        }
+      ],
+      "name": "IVANCHENKO NIKOLAI"
+    },
+    {
+      "birth_date": "1956-08-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mikhalkova@house.gov.by"
+        }
+      ],
+      "email": "mikhalkova@house.gov.by",
+      "gender": "female",
+      "id": "65725c45-4bf9-46f9-a1ae-ad44c1d85849",
+      "identifiers": [
+        {
+          "identifier": "36008",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/mihaljkova.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/mihaljkova.jpg"
+        }
+      ],
+      "name": "MIKHALKOVA LIUDMILA"
+    },
+    {
+      "birth_date": "1953-02-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rozganov@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0222) 25 75 10"
+        }
+      ],
+      "email": "rozganov@house.gov.by",
+      "gender": "male",
+      "given_name": "Alyaksandr",
+      "id": "65771f23-a25b-4e61-b5d2-d6c7cdc9f14b",
+      "identifiers": [
+        {
+          "identifier": "36028",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9144071",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/rozganov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/rozganov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Аляксандр_Іванавіч_Разганаў"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Razhanau"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Alaksandr_Razhanau"
+        }
+      ],
+      "name": "ROZGANOV ALEKSANDR",
+      "other_names": [
+        {
+          "name": "Alaksandr Razhanau",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Аляксандр Іванавіч Разганаў",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alaksandr Razhanau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alaksandr Razhanau",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1957-04-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "stetsko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0163) 42 15 22"
+        }
+      ],
+      "email": "stetsko@house.gov.by",
+      "gender": "male",
+      "given_name": "Alyaksandr",
+      "id": "6863bc47-74a1-4f69-a6e5-9356f7e3008a",
+      "identifiers": [
+        {
+          "identifier": "36037",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918481",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/rsrsrr.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/rsrsrr.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Аляксандр_Мікалаевіч_Сцяцко"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Sciacko"
+        }
+      ],
+      "name": "STETSKO ALEKSANDR",
+      "other_names": [
+        {
+          "name": "Aleksandr Stiecko",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Аляксандр Мікалаевіч Сцяцко",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aleksandr Stiecko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alaksandr Sciacko",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1961-11-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dobrynina@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0216) 21 12 53"
+        }
+      ],
+      "email": "dobrynina@house.gov.by",
+      "gender": "female",
+      "id": "6dc041f2-427e-4e1f-972e-2a5ca9d4692d",
+      "identifiers": [
+        {
+          "identifier": "35961",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/dobrynina.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/dobrynina.jpg"
+        }
+      ],
+      "name": "DOBRYNINA LIUDMILA"
+    },
+    {
+      "birth_date": "1953-01-19",
+      "gender": "male",
+      "id": "748cc395-41f6-43d4-94af-7980569162b2",
+      "identifiers": [
+        {
+          "identifier": "35951",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/gajdukevich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/gajdukevich.jpg"
+        }
+      ],
+      "name": "GAIDUKEVICH VALERY"
+    },
+    {
+      "birth_date": "1957-09-02",
+      "gender": "male",
+      "id": "7c249951-6ccf-4d37-b607-098a09c83fd4",
+      "identifiers": [
+        {
+          "identifier": "35950",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/volchenkov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/volchenkov.jpg"
+        }
+      ],
+      "name": "VOLCHENKOV ALEKSANDR"
+    },
+    {
+      "birth_date": "1958-09-13",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0162) 42 85 32"
+        }
+      ],
+      "family_name": "Bahdanovich",
+      "gender": "female",
+      "given_name": "Larysa",
+      "id": "7c5058ea-e4d5-4099-b378-8fb722b44f61",
+      "identifiers": [
+        {
+          "identifier": "35938",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9394017",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/images/page16/bogdanovich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/page16/bogdanovich.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Ларыса_Мікалаеўна_Багдановіч"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Łarysa_Bahdanowicz"
+        }
+      ],
+      "name": "BOGDANOVICH LARISA",
+      "other_names": [
+        {
+          "name": "Larisa Bahdanovich",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Ларыса Багдановіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Ларыса Багдановіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Larisa Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Larisa Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Larisa Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Larisa Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Larisa Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Łarysa Bahdanowicz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Богданович, Лариса Николаевна",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1953-08-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kravtsov@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (02241) 5 17 49, 8 (02241) 5 16 54, 8 (02244) 5 15 52"
+        }
+      ],
+      "email": "kravtsov@house.gov.by",
+      "gender": "male",
+      "id": "7d3e61c5-484c-48a0-bf29-cd5dade3969e",
+      "identifiers": [
+        {
+          "identifier": "35993",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kravcov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kravcov.jpg"
+        }
+      ],
+      "name": "KRAVTSOV VLADIMIR"
+    },
+    {
+      "birth_date": "1958-05-13",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (01742) 2 06 80, 8 (01794) 5 53 41"
+        }
+      ],
+      "gender": "female",
+      "id": "8108f50d-29e3-4133-941b-e7f8c7d6ce30",
+      "identifiers": [
+        {
+          "identifier": "35958",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/danilevich_1.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/danilevich_1.jpg"
+        }
+      ],
+      "name": "DANILEVICH TAISA"
+    },
+    {
+      "birth_date": "1971-06-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "politiko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0163) 42 15 22."
+        }
+      ],
+      "email": "politiko@house.gov.by",
+      "gender": "female",
+      "id": "84a6b470-b77f-4463-afaa-1fe59314496e",
+      "identifiers": [
+        {
+          "identifier": "36023",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/politiko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/politiko.jpg"
+        }
+      ],
+      "name": "POLITIKO OLGA"
+    },
+    {
+      "birth_date": "1959-07-11",
+      "gender": "male",
+      "id": "88673e4c-6bf5-4d40-8c37-f1628964b25d",
+      "identifiers": [
+        {
+          "identifier": "36006",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/mezhuev.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/mezhuev.jpg"
+        }
+      ],
+      "name": "MEZHUEV ALEKSANDR"
+    },
+    {
+      "birth_date": "1955-07-07",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0225) 52 88 31, 8 (029) 675 50 96"
+        }
+      ],
+      "gender": "male",
+      "id": "8dff891e-a57c-4025-bf48-f06933fe013d",
+      "identifiers": [
+        {
+          "identifier": "36021",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/plaksickij.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/plaksickij.jpg"
+        }
+      ],
+      "name": "PLAKSITSKY NIKOLAI"
+    },
+    {
+      "birth_date": "1956-01-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "apanasyuk@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (02334) 2 11 20"
+        }
+      ],
+      "email": "apanasyuk@house.gov.by",
+      "gender": "male",
+      "given_name": "Leanid",
+      "id": "8fd9f65c-29ac-497c-9c02-542c647d4a7b",
+      "identifiers": [
+        {
+          "identifier": "35935",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11753400",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/apanasjuk.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/apanasjuk.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Леанід_Мікалаевіч_Апанасюк"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Leanid_Apanasiuk"
+        }
+      ],
+      "name": "APANASYUK LEONID",
+      "other_names": [
+        {
+          "name": "Leanid Apanasyuk",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Леанід Апанасюк",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Леанід Апанасюк",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Leanid Apanasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Leanid Apanasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Leanid Apanasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Leanid Apanasiuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Апанасюк, Леонид Николаевич",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-01-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dorogokupets@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01652) 2 17 96"
+        }
+      ],
+      "email": "dorogokupets@house.gov.by",
+      "gender": "male",
+      "id": "96433111-6a95-4437-bde3-5d8b08b0ad02",
+      "identifiers": [
+        {
+          "identifier": "35962",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/dorogokupec.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/dorogokupec.jpg"
+        }
+      ],
+      "name": "DOROGOKUPETS YURY"
+    },
+    {
+      "birth_date": "1959-01-02",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0164) 72 30 38"
+        }
+      ],
+      "gender": "female",
+      "id": "98736e3c-d99f-4161-a2fa-5776684cad0e",
+      "identifiers": [
+        {
+          "identifier": "35947",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/veres_1.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/veres_1.jpg"
+        }
+      ],
+      "name": "VERES VALENTINA"
+    },
+    {
+      "birth_date": "1952-12-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "udodov@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (02345) 9 52 50"
+        }
+      ],
+      "email": "udodov@house.gov.by",
+      "gender": "male",
+      "id": "98c175be-8fb2-491f-bc16-bae8775fd9bf",
+      "identifiers": [
+        {
+          "identifier": "36038",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/udodov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/udodov.jpg"
+        }
+      ],
+      "name": "UDODOV ALEKSANDR"
+    },
+    {
+      "birth_date": "1955-05-04",
+      "gender": "male",
+      "id": "9c60ebae-e845-452a-9c16-70547954efd4",
+      "identifiers": [
+        {
+          "identifier": "36029",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/rusak.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/rusak.jpg"
+        }
+      ],
+      "name": "RUSAK VIKTOR"
+    },
+    {
+      "birth_date": "1956-06-30",
+      "gender": "male",
+      "id": "9ce7d4ac-e3ea-4eb0-8921-c06add44decb",
+      "identifiers": [
+        {
+          "identifier": "36032",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/segodnik_2.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/segodnik_2.jpg"
+        }
+      ],
+      "name": "SEGODNIK ALEKSANDR"
+    },
+    {
+      "birth_date": "1963-01-24",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (01562) 2 33 61"
+        }
+      ],
+      "gender": "female",
+      "id": "9d732c42-8ff7-49ca-9a7b-abe45ee09c90",
+      "identifiers": [
+        {
+          "identifier": "36034",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/sopikova.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/sopikova.jpg"
+        }
+      ],
+      "name": "SOPIKOVA ALLA"
+    },
+    {
+      "birth_date": "1959-10-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "samoseiko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (017) 222 35 76"
+        }
+      ],
+      "email": "samoseiko@house.gov.by",
+      "gender": "male",
+      "given_name": "Mikalay",
+      "id": "a00cd1e4-5abd-46ee-bf2a-18f732072254",
+      "identifiers": [
+        {
+          "identifier": "36031",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11780622",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/pl2y9785.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/pl2y9785.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Мікалай_Леанідавіч_Самасейка"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mikałaj_Samasiejka"
+        }
+      ],
+      "name": "SAMOSEIKO NIKOLAI",
+      "other_names": [
+        {
+          "name": "Mikałaj Samasiejka",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Мікалай Леанідавіч Самасейка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mikałaj Samasiejka",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1950-02-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kokhanov@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01511) 4 25 55"
+        }
+      ],
+      "email": "kokhanov@house.gov.by",
+      "gender": "male",
+      "id": "a14684ce-fd0a-4e2e-b0e7-bd183ac05442",
+      "identifiers": [
+        {
+          "identifier": "35992",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kohanov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kohanov.jpg"
+        }
+      ],
+      "name": "KOKHANOV ANATOLY"
+    },
+    {
+      "birth_date": "1975-09-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kharitonchik@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (01775) 3 78 42"
+        }
+      ],
+      "email": "kharitonchik@house.gov.by",
+      "gender": "male",
+      "id": "a8534495-f965-4e96-99f9-9231d2bbd735",
+      "identifiers": [
+        {
+          "identifier": "36058",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/haritonchik.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/haritonchik.jpg"
+        }
+      ],
+      "name": "KHARITONCHIK DMITRY"
+    },
+    {
+      "birth_date": "1959-08-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zhuravskaya@house.gov.by"
+        }
+      ],
+      "email": "zhuravskaya@house.gov.by",
+      "gender": "female",
+      "given_name": "Valyantsina",
+      "id": "a91bd679-9431-4b2f-807a-cd3aabfcd451",
+      "identifiers": [
+        {
+          "identifier": "35967",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9370087",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/zhuravskaja.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/zhuravskaja.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Валянціна_Іосіфаўна_Жураўская"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Walancina_Żurauska"
+        }
+      ],
+      "name": "ZHURAVSKAYA VALENTINA",
+      "other_names": [
+        {
+          "name": "Walancina Żurauska",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Валянціна Іосіфаўна Жураўская",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Walancina Żurauska",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1973-11-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shevtsov@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (029) 622 98 67"
+        }
+      ],
+      "email": "shevtsov@house.gov.by",
+      "gender": "male",
+      "id": "aa5dfa0b-cf7f-4516-86f7-80147a99ee84",
+      "identifiers": [
+        {
+          "identifier": "36064",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/shevcov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/shevcov.jpg"
+        }
+      ],
+      "name": "SHEVTSOV DMITRY"
+    },
+    {
+      "birth_date": "1955-01-18",
+      "gender": "male",
+      "id": "acb0acee-c72c-4d2a-884c-0e5935b478ad",
+      "identifiers": [
+        {
+          "identifier": "36065",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/shikshnjan.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/shikshnjan.jpg"
+        }
+      ],
+      "name": "SHIKSHNYAN PETR"
+    },
+    {
+      "birth_date": "1981-06-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "murashko@house.gov.by"
+        }
+      ],
+      "email": "murashko@house.gov.by",
+      "gender": "male",
+      "id": "ad354fd3-56d7-4728-b3a4-9ec2da029c1e",
+      "identifiers": [
+        {
+          "identifier": "36013",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/murashko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/murashko.jpg"
+        }
+      ],
+      "name": "MURASHKO ILYA"
+    },
+    {
+      "birth_date": "1956-05-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ushkevich@house.gov.by"
+        }
+      ],
+      "email": "ushkevich@house.gov.by",
+      "gender": "male",
+      "id": "b1963f7e-79ae-4312-94f2-ac5f0c12543d",
+      "identifiers": [
+        {
+          "identifier": "36039",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/ushkevich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/ushkevich.jpg"
+        }
+      ],
+      "name": "USHKEVICH SERGEY"
+    },
+    {
+      "birth_date": "1967-08-30",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0222) 48 43 55"
+        }
+      ],
+      "gender": "male",
+      "id": "b254643b-f9e6-438e-a9ca-35c939a04930",
+      "identifiers": [
+        {
+          "identifier": "36035",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/stankevich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/stankevich.jpg"
+        }
+      ],
+      "name": "STANKEVICH IGOR"
+    },
+    {
+      "birth_date": "1953-05-13",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (029) 142 73 29"
+        }
+      ],
+      "gender": "male",
+      "id": "b299d252-7482-448a-bfcd-8ea228e72964",
+      "identifiers": [
+        {
+          "identifier": "35943",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918565",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/valevach.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/valevach.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Зыгмунд_Антонавіч_Валявач"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Zyhmund_Walawacz"
+        }
+      ],
+      "name": "VALEVACH ZYGMUND",
+      "other_names": [
+        {
+          "name": "Zyhmund Valavach",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Зыгмунд Антонавіч Валявач",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zyhmund Valavach",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zyhmund Valavach",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zyhmund Valavach",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zyhmund Walawacz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Валевач, Зыгмунд Антонович",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1966-05-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shekan@house.gov.by"
+        }
+      ],
+      "email": "shekan@house.gov.by",
+      "gender": "female",
+      "id": "b2e17e43-8439-4b79-aac2-f90453e56a71",
+      "identifiers": [
+        {
+          "identifier": "36061",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/chekan.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/chekan.jpg"
+        }
+      ],
+      "name": "CHEKAN SVETLANA"
+    },
+    {
+      "birth_date": "1956-02-17",
+      "gender": "male",
+      "id": "b7249d2b-bc12-4858-9d33-9466595682ad",
+      "identifiers": [
+        {
+          "identifier": "35964",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/9330ermantovich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/9330ermantovich.jpg"
+        }
+      ],
+      "name": "ERMANTOVICH LEONID"
+    },
+    {
+      "birth_date": "1955-08-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lopatina@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0232) 40 63 52"
+        }
+      ],
+      "email": "lopatina@house.gov.by",
+      "gender": "female",
+      "id": "b7e9a07a-50fb-477d-bb1e-3ce12e25e23f",
+      "identifiers": [
+        {
+          "identifier": "36004",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/lopatina_1.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/lopatina_1.jpg"
+        }
+      ],
+      "name": "LOPATINA ANNA"
+    },
+    {
+      "birth_date": "1955-07-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "poleichuk@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (029) 329 23 07"
+        }
+      ],
+      "email": "poleichuk@house.gov.by",
+      "gender": "male",
+      "id": "b850afed-4244-45c2-8d32-cda5424080c3",
+      "identifiers": [
+        {
+          "identifier": "36022",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/polejchuk.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/polejchuk.jpg"
+        }
+      ],
+      "name": "POLEICHUK ALEKSANDR"
+    },
+    {
+      "birth_date": "1962-05-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "palchyk@house.gov.bу"
+        }
+      ],
+      "email": "palchyk@house.gov.bу",
+      "gender": "male",
+      "id": "bc82157d-db71-40a2-9645-968972d1f5fd",
+      "identifiers": [
+        {
+          "identifier": "36019",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/paljchik.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/paljchik.jpg"
+        }
+      ],
+      "name": "PALCHIK GENNADY"
+    },
+    {
+      "birth_date": "1963-07-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "naumovich@house.gov.by"
+        }
+      ],
+      "email": "naumovich@house.gov.by",
+      "gender": "male",
+      "id": "c6135aa7-c17e-40ca-af22-b717ea5411b9",
+      "identifiers": [
+        {
+          "identifier": "36015",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/naumovich_1.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/naumovich_1.jpg"
+        }
+      ],
+      "name": "NAUMOVICH ANDREI"
+    },
+    {
+      "birth_date": "1955-09-27",
+      "gender": "male",
+      "id": "c80770ee-851f-4652-a5bc-7425071689a4",
+      "identifiers": [
+        {
+          "identifier": "36009",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/mihno.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/mihno.jpg"
+        }
+      ],
+      "name": "MIKHNO VASILIY"
+    },
+    {
+      "birth_date": "1961-03-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "levitskaya@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (017) 204 30 15"
+        }
+      ],
+      "email": "levitskaya@house.gov.by",
+      "gender": "female",
+      "id": "cdbca88d-1a12-47ac-93e4-f229a611bbb9",
+      "identifiers": [
+        {
+          "identifier": "36000",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/levickaja.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/levickaja.jpg"
+        }
+      ],
+      "name": "LEVITSKAYA ANNA"
+    },
+    {
+      "birth_date": "1955-01-26",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0212) 25 34 64"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Michaił",
+      "id": "cf20049c-3381-442b-96c6-464a76f091b1",
+      "identifiers": [
+        {
+          "identifier": "35949",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918587",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/volkov_mihail_nik.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/volkov_mihail_nik.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Міхаіл_Мікалаевіч_Волкаў"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Michaił_Wołkau_(ur._1955)"
+        }
+      ],
+      "name": "VOLKOV MIKHAIL",
+      "other_names": [
+        {
+          "name": "Mikhail Volkov",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Міхаіл Мікалаевіч Волкаў",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mikhail Volkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mikhail Volkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Michaił Wołkau",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1966-07-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shostak@house.gov.by"
+        }
+      ],
+      "email": "shostak@house.gov.by",
+      "gender": "male",
+      "given_name": "Piotr",
+      "id": "cf73ebf4-0e68-4000-aa51-c51884192155",
+      "identifiers": [
+        {
+          "identifier": "36068",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q14918527",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/shostak.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/shostak.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Пётр_Мікалаевіч_Шостак"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Piotr_Szostak"
+        }
+      ],
+      "name": "SHOSTAK PETR",
+      "other_names": [
+        {
+          "name": "Piotr Szostak",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Пётр Мікалаевіч Шостак",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Piotr Szostak",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1955-08-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kuzmich@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (017) 207 15 66"
+        }
+      ],
+      "email": "kuzmich@house.gov.by",
+      "gender": "male",
+      "id": "d4a0dfbb-47aa-4a6d-8c38-e6eda4603a8c",
+      "identifiers": [
+        {
+          "identifier": "35996",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kuzjmich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kuzjmich.jpg"
+        }
+      ],
+      "name": "KUZMICH ALEKSEY"
+    },
+    {
+      "birth_date": "1964-08-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "levshunov.oleg@mail.ru"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0232) 74 32 90"
+        }
+      ],
+      "email": "levshunov.oleg@mail.ru",
+      "gender": "male",
+      "id": "d67cb2ac-ab68-4e35-8f8a-0fbea2e51ac6",
+      "identifiers": [
+        {
+          "identifier": "36001",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/levshunov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/levshunov.jpg"
+        }
+      ],
+      "name": "LEVSHUNOV OLEG"
+    },
+    {
+      "birth_date": "1956-08-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "busko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (017) 331 02 64"
+        }
+      ],
+      "email": "busko@house.gov.by",
+      "gender": "male",
+      "id": "d8f902b8-42c3-4c63-a375-1cd85c4ed7cd",
+      "identifiers": [
+        {
+          "identifier": "35942",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9375489",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/busjko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/busjko.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Віталь_Леанідавіч_Бусько"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Wital_Buśko"
+        }
+      ],
+      "name": "BUSKO VITALY",
+      "other_names": [
+        {
+          "name": "Vitaly Busko",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Віталь Леанідавіч Бусько",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vitaly Busko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wital Buśko",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1956-10-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gushcha@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (0154) 53 00 60"
+        }
+      ],
+      "email": "gushcha@house.gov.by",
+      "gender": "male",
+      "id": "da11902a-f976-43a4-9994-c207fb784615",
+      "identifiers": [
+        {
+          "identifier": "35957",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/guscha.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/guscha.jpg"
+        }
+      ],
+      "name": "GUSHCHA VALERY"
+    },
+    {
+      "birth_date": "1960-09-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "liskovich@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 0152 77 11 70"
+        }
+      ],
+      "email": "liskovich@house.gov.by",
+      "gender": "male",
+      "id": "da3f0fad-e946-4e6a-8590-a440566c9851",
+      "identifiers": [
+        {
+          "identifier": "36003",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/liskovich.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/liskovich.jpg"
+        }
+      ],
+      "name": "LISKOVICH VIKTOR"
+    },
+    {
+      "birth_date": "1961-04-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shilova@house.gov.by"
+        }
+      ],
+      "email": "shilova@house.gov.by",
+      "gender": "female",
+      "given_name": "Sviatlana",
+      "id": "de75f37d-ce09-4c7c-a4bd-8d5610192c5a",
+      "identifiers": [
+        {
+          "identifier": "36066",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9348622",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/shilov.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/shilov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Святлана_Дзмітрыеўна_Шылава"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Swiatłana_Szyława"
+        }
+      ],
+      "name": "SHILOVA SVETLANA",
+      "other_names": [
+        {
+          "lang": "be",
+          "name": "Святлана Дзмітрыеўна Шылава",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shilova Svetlana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Swiatłana Szyława",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1963-11-10",
       "contact_details": [
         {
@@ -4187,338 +4198,33 @@
       ]
     },
     {
-      "birth_date": "1959-01-02",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0164) 72 30 38"
-        }
-      ],
-      "gender": "female",
-      "id": "98736e3c-d99f-4161-a2fa-5776684cad0e",
-      "identifiers": [
-        {
-          "identifier": "35947",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/veres_1.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/veres_1.jpg"
-        }
-      ],
-      "name": "VERES VALENTINA"
-    },
-    {
-      "birth_date": "1957-09-02",
-      "gender": "male",
-      "id": "7c249951-6ccf-4d37-b607-098a09c83fd4",
-      "identifiers": [
-        {
-          "identifier": "35950",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/volchenkov.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/volchenkov.jpg"
-        }
-      ],
-      "name": "VOLCHENKOV ALEKSANDR"
-    },
-    {
-      "birth_date": "1963-09-23",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (02233) 5 93 43"
-        }
-      ],
-      "gender": "male",
-      "given_name": "Michaił",
-      "id": "33f06b42-cd26-4d0e-afb6-c489795c67fb",
-      "identifiers": [
-        {
-          "identifier": "35948",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918588",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/volkov_mihail_mih.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/volkov_mihail_mih.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Міхаіл_Міхайлавіч_Волкаў"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Michaił_Wołkau_(ur._1963)"
-        }
-      ],
-      "name": "VOLKOV MIKHAIL",
-      "other_names": [
-        {
-          "name": "Mikhail Volkov",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Міхаіл Міхайлавіч Волкаў",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mikhail Volkov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mikhail Volkov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Mikhail Volkov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Michaił Wołkau",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955-01-26",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0212) 25 34 64"
-        }
-      ],
-      "gender": "male",
-      "given_name": "Michaił",
-      "id": "cf20049c-3381-442b-96c6-464a76f091b1",
-      "identifiers": [
-        {
-          "identifier": "35949",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14918587",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/volkov_mihail_nik.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/volkov_mihail_nik.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Міхаіл_Мікалаевіч_Волкаў"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Michaił_Wołkau_(ur._1955)"
-        }
-      ],
-      "name": "VOLKOV MIKHAIL",
-      "other_names": [
-        {
-          "name": "Mikhail Volkov",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Міхаіл Мікалаевіч Волкаў",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mikhail Volkov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mikhail Volkov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Michaił Wołkau",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1963-06-07",
+      "birth_date": "1959-01-11",
       "contact_details": [
         {
           "type": "email",
-          "value": "yaroshevich@house.gov.by"
+          "value": "cherevach@house.gov.by"
         },
         {
           "type": "phone",
-          "value": "8 (01655) 6 01 76"
+          "value": "8 (017) 207 71 38"
         }
       ],
-      "email": "yaroshevich@house.gov.by",
+      "email": "cherevach@house.gov.by",
       "gender": "male",
-      "given_name": "Alyaksandr",
-      "id": "48ddaeaa-abed-4453-946b-58e57162fadb",
+      "id": "dfb843e3-ac71-4684-bba1-d1664e99c5aa",
       "identifiers": [
         {
-          "identifier": "36073",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14866893",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/jaroshevich_1.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/jaroshevich_1.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Аляксандр_Мікалаевіч_Ярашэвіч"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Jaraszewicz"
-        }
-      ],
-      "name": "YAROSHEVICH ALEKSANDR",
-      "other_names": [
-        {
-          "name": "Alyaksandr Yarashevich",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Аляксандр Ярашэвіч",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be-tarask",
-          "name": "Аляксандар Ярашэвіч",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Alyaksandr Yarashevich",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Alaksandr Jaraszewicz",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Александр Ярошевич",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955-06-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yazubets@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0163) 45 52 41"
-        }
-      ],
-      "email": "yazubets@house.gov.by",
-      "gender": "male",
-      "id": "124d96c6-f1c7-4886-8f45-2ab10394e9a4",
-      "identifiers": [
-        {
-          "identifier": "36072",
+          "identifier": "36062",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://house.gov.by/files/images/jazubec.jpg",
+      "image": "http://house.gov.by/files/images/cherevach.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/jazubec.jpg"
+          "url": "http://house.gov.by/files/images/cherevach.jpg"
         }
       ],
-      "name": "YAZUBETS NIKOLAI"
-    },
-    {
-      "birth_date": "1954-04-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yurkevich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01632) 9 05 48"
-        }
-      ],
-      "email": "yurkevich@house.gov.by",
-      "gender": "male",
-      "id": "3fa95b00-0c20-4173-affa-e9c0e2d8f42f",
-      "identifiers": [
-        {
-          "identifier": "36071",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/jurkevich.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/jurkevich.jpg"
-        }
-      ],
-      "name": "YURKEVICH ALEKSANDR"
-    },
-    {
-      "birth_date": "1976-03-23",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (017) 280 36 22, 8 (017) 245 82 38"
-        }
-      ],
-      "gender": "male",
-      "id": "216b3bf8-e1df-4b87-aeee-bf81b11242e7",
-      "identifiers": [
-        {
-          "identifier": "35965",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://house.gov.by/files/images/zhilinskij.jpg",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/zhilinskij.jpg"
-        }
-      ],
-      "name": "ZHILINSKY MARAT"
+      "name": "CHEREVACH VLADIMIR"
     },
     {
       "birth_date": "1951-01-23",
@@ -4581,120 +4287,414 @@
       ]
     },
     {
-      "birth_date": "1959-08-07",
+      "birth_date": "1958-02-19",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (02144) 2 64 58"
+        }
+      ],
+      "gender": "male",
+      "id": "e752dbc5-48a0-4a79-9062-a9c0452ab453",
+      "identifiers": [
+        {
+          "identifier": "36020",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/papko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/papko.jpg"
+        }
+      ],
+      "name": "PAPKO VASILY"
+    },
+    {
+      "birth_date": "1977-03-20",
       "contact_details": [
         {
           "type": "email",
-          "value": "zhuravskaya@house.gov.by"
+          "value": "devyatovsky@house.gov.by"
         }
       ],
-      "email": "zhuravskaya@house.gov.by",
-      "gender": "female",
-      "given_name": "Valyantsina",
-      "id": "a91bd679-9431-4b2f-807a-cd3aabfcd451",
+      "email": "devyatovsky@house.gov.by",
+      "gender": "male",
+      "given_name": "Vadzim",
+      "id": "e8da5aa3-dba1-475b-a3c8-3c774eaa8e06",
       "identifiers": [
         {
-          "identifier": "35967",
+          "identifier": "35959",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q9370087",
+          "identifier": "/m/094xcs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "139904",
+          "scheme": "iiaf"
+        },
+        {
+          "identifier": "Q434537",
           "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/files/images/zhuravskaja.jpg",
+      "image": "http://house.gov.by/files/images/devjatovskij.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/zhuravskaja.jpg"
+          "url": "http://house.gov.by/files/images/devjatovskij.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vadim_Devyatovskiy.jpg"
         }
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فاديم_ديفياتوفسكي"
+        },
+        {
           "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Валянціна_Іосіфаўна_Жураўская"
+          "url": "https://be.wikipedia.org/wiki/Вадзім_Анатолевіч_Дзевятоўскі"
+        },
+        {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Вадзім_Дзевятоўскі"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wadsim_Dsewjatouski"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vadim_Devyatovskiy"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Vadim_Devjatovski"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Vadzim_Dzevjatouski"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vadzim_Dzeviatouski"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Vadzim_Dzevjatoŭski"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ワディム・デフヤトフスキー"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/바딤_데비야토프스키"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Vadzim_Dzevjatowski"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Vadim_Devjatovskij"
         },
         {
           "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Walancina_Żurauska"
+          "url": "https://pl.wikipedia.org/wiki/Wadzim_Dziewiatouski"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Vadim_Devyatovskiy"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Девятовский,_Вадим_Анатольевич"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Vadzim_Dzevjatoŭski"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Дев'ятовський_Вадим_Анатолійович"
         }
       ],
-      "name": "ZHURAVSKAYA VALENTINA",
+      "name": "DEVYATOVSKY VADIM",
       "other_names": [
         {
-          "name": "Walancina Żurauska",
+          "name": "Vadim Devyatovskiy",
           "note": "alternate"
         },
         {
+          "lang": "ar",
+          "name": "فاديم ديفياتوفسكي",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
-          "name": "Валянціна Іосіфаўна Жураўская",
+          "name": "Вадзім Анатолевіч Дзевятоўскі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Вадзім Дзевятоўскі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wadsim Dsewjatouski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vadim Devyatovskiy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vadim Devyatovskiy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Vadim Devjatovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vadim Devjatovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vadim Devyatovskiy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vadzim Dzevjatoŭski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ワディム・デフヤトフスキー",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "ワジム・デビャトフスキー",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "바딤 데비야토프스키",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vadim Devjatovskij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vadzim Dzevjatowski",
           "note": "multilingual"
         },
         {
           "lang": "pl",
-          "name": "Walancina Żurauska",
+          "name": "Wadzim Dziewiatouski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vadim Devyatovskiy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Девятовский, Вадим Анатольевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vadzim Dzevjatoŭski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Дев'ятовський Вадим Анатолійович",
           "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1965-07-09",
+      "birth_date": "1962-03-24",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "8 (0225) 43 16 61"
+        }
+      ],
+      "gender": "female",
+      "id": "ea963c3f-cf8a-4c3a-b602-9ec37e07735c",
+      "identifiers": [
+        {
+          "identifier": "36010",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/mishur.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/mishur.jpg"
+        }
+      ],
+      "name": "MISHUR ZHANNA"
+    },
+    {
+      "birth_date": "1971-01-18",
       "contact_details": [
         {
           "type": "email",
-          "value": "zozulja.a@mail.ru"
+          "value": "kuchinskaya@house.gov.by"
+        }
+      ],
+      "email": "kuchinskaya@house.gov.by",
+      "gender": "female",
+      "id": "ee2ca4a0-abb9-428a-b1de-bcfc7e9231ed",
+      "identifiers": [
+        {
+          "identifier": "35998",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/kuchinskaja.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/kuchinskaja.jpg"
+        }
+      ],
+      "name": "KUCHINSKAYA NATALIA"
+    },
+    {
+      "birth_date": "1962-09-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dudkin@house.gov.by"
         },
         {
           "type": "phone",
-          "value": "8 (1642) 2 56 59."
+          "value": "8 (017) 243 57 10"
         }
       ],
-      "email": "zozulja.a@mail.ru",
+      "email": "dudkin@house.gov.by",
       "gender": "male",
-      "given_name": "Alyaksandr",
-      "id": "06984c70-a356-4565-ad44-b9acbe2fd997",
+      "id": "f0dd40cc-e728-484b-b478-e5ce373f4943",
       "identifiers": [
         {
-          "identifier": "35968",
+          "identifier": "35963",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q9144087",
-          "scheme": "wikidata"
         }
       ],
-      "image": "http://house.gov.by/files/images/zozulja.jpg",
+      "image": "http://house.gov.by/files/images/dudkin.jpg",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/zozulja.jpg"
+          "url": "http://house.gov.by/files/images/dudkin.jpg"
         }
       ],
-      "links": [
+      "name": "DUDKIN SERGEY"
+    },
+    {
+      "birth_date": "1956-07-25",
+      "contact_details": [
         {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Аляксандр_Іванавіч_Зазуля"
+          "type": "email",
+          "value": "fesak@house.gov.by"
         },
         {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Zazula"
+          "type": "phone",
+          "value": "8 (0232) 77 64 61"
         }
       ],
-      "name": "ZOZULYA ALEKSANDR",
-      "other_names": [
+      "email": "fesak@house.gov.by",
+      "gender": "male",
+      "id": "f45aa70b-5bcc-40c8-b27a-7ac7d78e7050",
+      "identifiers": [
         {
-          "name": "Alaksandr Zazula",
-          "note": "alternate"
-        },
-        {
-          "lang": "be",
-          "name": "Аляксандр Іванавіч Зазуля",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Alaksandr Zazula",
-          "note": "multilingual"
+          "identifier": "36040",
+          "scheme": "everypolitician_legacy"
         }
-      ]
+      ],
+      "image": "http://house.gov.by/files/images/fesak.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/fesak.jpg"
+        }
+      ],
+      "name": "FESAK VIKTOR"
+    },
+    {
+      "birth_date": "1960-04-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lazovskaya@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8 (029) 396 87 92"
+        }
+      ],
+      "email": "lazovskaya@house.gov.by",
+      "gender": "female",
+      "id": "f713d946-94d9-4dc1-9aa3-56947e5facb5",
+      "identifiers": [
+        {
+          "identifier": "35999",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/lazovskaja.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/lazovskaja.jpg"
+        }
+      ],
+      "name": "LAZOVSKAYA GALINA"
+    },
+    {
+      "birth_date": "1954-03-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mozheiko@house.gov.by"
+        },
+        {
+          "type": "phone",
+          "value": "8-017-222-63-70, 8-029-700-20-41."
+        }
+      ],
+      "email": "mozheiko@house.gov.by",
+      "gender": "male",
+      "id": "fdf601a4-88a0-4c0a-a3c2-e6976d5c9173",
+      "identifiers": [
+        {
+          "identifier": "36011",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://house.gov.by/files/images/mozhejko.jpg",
+      "images": [
+        {
+          "url": "http://house.gov.by/files/images/mozhejko.jpg"
+        }
+      ],
+      "name": "MOZHEIKO LEONID"
     }
   ],
   "organizations": [
