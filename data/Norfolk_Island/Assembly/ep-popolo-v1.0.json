@@ -5,14 +5,25 @@
   "persons": [
     {
       "gender": "male",
-      "id": "b29ebeb2-e544-4bf9-9c49-d54e95f44f5c",
+      "id": "20f7fa5e-d2e2-42de-a35b-52776cceb029",
       "identifiers": [
         {
-          "identifier": "david_e._buffett",
+          "identifier": "ronald_j._ward",
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "David E. Buffett"
+      "name": "Ronald J. Ward"
+    },
+    {
+      "gender": "male",
+      "id": "6408bc28-6862-4791-b51e-74f0b34f7244",
+      "identifiers": [
+        {
+          "identifier": "lisle_d.snell",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Lisle D.Snell"
     },
     {
       "gender": "male",
@@ -27,6 +38,17 @@
     },
     {
       "gender": "male",
+      "id": "7de17b66-8b2e-4cf3-b9b8-f05aa0a82dfc",
+      "identifiers": [
+        {
+          "identifier": "timothy_j.sheridan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Timothy J.Sheridan"
+    },
+    {
+      "gender": "male",
       "id": "8096d99f-f121-4162-92e8-5ab43be8ef5b",
       "identifiers": [
         {
@@ -35,17 +57,6 @@
         }
       ],
       "name": "Haydn P. Evans"
-    },
-    {
-      "gender": "male",
-      "id": "6408bc28-6862-4791-b51e-74f0b34f7244",
-      "identifiers": [
-        {
-          "identifier": "lisle_d.snell",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Lisle D.Snell"
     },
     {
       "gender": "female",
@@ -70,6 +81,17 @@
     },
     {
       "gender": "male",
+      "id": "b29ebeb2-e544-4bf9-9c49-d54e95f44f5c",
+      "identifiers": [
+        {
+          "identifier": "david_e._buffett",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "David E. Buffett"
+    },
+    {
+      "gender": "male",
       "id": "ee4e3369-1acb-4207-919e-f1555d23bb47",
       "identifiers": [
         {
@@ -78,28 +100,6 @@
         }
       ],
       "name": "Ronald C. Nobbs"
-    },
-    {
-      "gender": "male",
-      "id": "20f7fa5e-d2e2-42de-a35b-52776cceb029",
-      "identifiers": [
-        {
-          "identifier": "ronald_j._ward",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Ronald J. Ward"
-    },
-    {
-      "gender": "male",
-      "id": "7de17b66-8b2e-4cf3-b9b8-f05aa0a82dfc",
-      "identifiers": [
-        {
-          "identifier": "timothy_j.sheridan",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Timothy J.Sheridan"
     }
   ],
   "organizations": [
