@@ -2080,11 +2080,11 @@
         "slug": "Congress",
         "sources_directory": "data/China/Congress/sources",
         "popolo": "data/China/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed332547946b095891f2d608a6bb634ec94e1dba/data/China/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c29dee83329ceea08e89788daa8096e908bfdc00/data/China/Congress/ep-popolo-v1.0.json",
         "names": "data/China/Congress/names.csv",
-        "lastmod": "1485067873",
-        "person_count": 2957,
-        "sha": "ed332547946b095891f2d608a6bb634ec94e1dba",
+        "lastmod": "1485120871",
+        "person_count": 2956,
+        "sha": "c29dee83329ceea08e89788daa8096e908bfdc00",
         "legislative_periods": [
           {
             "id": "term/12",
@@ -2092,10 +2092,10 @@
             "start_date": "2013-03-05",
             "slug": "12",
             "csv": "data/China/Congress/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f1283192dc65bd4036837d9b0d7e78543629f355/data/China/Congress/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c29dee83329ceea08e89788daa8096e908bfdc00/data/China/Congress/term-12.csv"
           }
         ],
-        "statement_count": 29876,
+        "statement_count": 29865,
         "type": "unicameral legislature"
       }
     ]
