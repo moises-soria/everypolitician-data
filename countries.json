@@ -10645,11 +10645,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2d27e083be7611d4bc510a886421727d2eeff868/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9022e704ab113f4138da26c19a376da236a974cc/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1485067970",
+        "lastmod": "1485134916",
         "person_count": 1345,
-        "sha": "2d27e083be7611d4bc510a886421727d2eeff868",
+        "sha": "9022e704ab113f4138da26c19a376da236a974cc",
         "legislative_periods": [
           {
             "id": "term/56",
@@ -10657,7 +10657,7 @@
             "start_date": "2015-05-08",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dfc988b2e0338032256e7567d755267fa6cd9db2/data/UK/Commons/term-56.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9022e704ab113f4138da26c19a376da236a974cc/data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -10696,7 +10696,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dfc988b2e0338032256e7567d755267fa6cd9db2/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 136511,
+        "statement_count": 136520,
         "type": "lower house"
       }
     ]
