@@ -2755,11 +2755,11 @@
         "slug": "Asamblea",
         "sources_directory": "data/Ecuador/Asamblea/sources",
         "popolo": "data/Ecuador/Asamblea/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fafaea60463e320280f5633c448609464707c332/data/Ecuador/Asamblea/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c6e0de8260257d7f12fc32b97c117c9d7fb3faeb/data/Ecuador/Asamblea/ep-popolo-v1.0.json",
         "names": "data/Ecuador/Asamblea/names.csv",
-        "lastmod": "1485067885",
-        "person_count": 143,
-        "sha": "fafaea60463e320280f5633c448609464707c332",
+        "lastmod": "1485094425",
+        "person_count": 144,
+        "sha": "c6e0de8260257d7f12fc32b97c117c9d7fb3faeb",
         "legislative_periods": [
           {
             "id": "term/2013",
@@ -2767,10 +2767,10 @@
             "start_date": "2013-05-14",
             "slug": "2013",
             "csv": "data/Ecuador/Asamblea/term-2013.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9ac69e69c48de14786f8d42f8dab00a852d41eb6/data/Ecuador/Asamblea/term-2013.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c6e0de8260257d7f12fc32b97c117c9d7fb3faeb/data/Ecuador/Asamblea/term-2013.csv"
           }
         ],
-        "statement_count": 4531,
+        "statement_count": 4551,
         "type": "unicameral legislature"
       }
     ]
