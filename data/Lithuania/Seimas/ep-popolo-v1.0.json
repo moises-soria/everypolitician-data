@@ -28305,8 +28305,15 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2016-11-10",
       "id": "term/11",
-      "name": "11th Seimas",
+      "identifiers": [
+        {
+          "identifier": "Q64510",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Eleventh Seimas",
       "organization_id": "6bbde962-f014-4c7d-b988-10a442342a7c",
       "start_date": "2012-11-17"
     },
