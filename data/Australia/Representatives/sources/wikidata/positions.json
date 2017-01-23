@@ -165,13 +165,27 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Hume",
+        "P580": "1998-10-03",
+        "P582": "2013-08-05",
+        "P1365": "John Sharp",
+        "P1366": "Angus Taylor"
+      }
     },
     {
       "id": "Q19202748",
       "label": "Member of the New South Wales Legislative Assembly",
       "title": "Member of the New South Wales Legislative Assembly",
-      "description": "representative elected by the voters in South Wales, Australia"
+      "description": "representative elected by the voters in South Wales, Australia",
+      "qualifiers": {
+        "P768": "Burrinjuck",
+        "P580": "1988-03-19",
+        "P582": "1998-08-31",
+        "P1365": "Terry Sheahan",
+        "P1366": "Katrina Hodgkinson"
+      }
     }
   ],
   "Q7684036": [
@@ -656,7 +670,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Isaacs",
+        "P580": "2000-08-12",
+        "P582": "2007-10-17",
+        "P1365": "Greg Wilton",
+        "P1366": "Mark Dreyfus"
+      }
     }
   ],
   "Q5982330": [
@@ -724,7 +745,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Newcastle",
+        "P580": "1983-03-05",
+        "P582": "2001-10-08",
+        "P1365": "Charles Jones",
+        "P1366": "Sharon Grierson"
+      }
     }
   ],
   "Q5231244": [
@@ -1141,7 +1169,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Brisbane",
+        "P580": "1990-03-24",
+        "P582": "2010-08-21",
+        "P1365": "Manfred Cross",
+        "P1366": "Teresa Gambaro"
+      }
     }
   ],
   "Q5107714": [
@@ -1670,13 +1705,48 @@
       "id": "Q2390270",
       "label": "Treasurer of Australia",
       "title": "Treasurer of Australia",
-      "description": "Australian government minister in charge of economic policy"
+      "description": "Australian government minister in charge of economic policy",
+      "qualifiers": {
+        "P580": "2013-06-27",
+        "P582": "2013-09-18",
+        "P1365": "Wayne Swan",
+        "P1366": "Joe Hockey"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Prospect",
+        "P580": "2004-10-09",
+        "P582": "2010-08-21",
+        "P1365": "Janice Crosio",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "McMahon",
+        "P580": "2010-08-21",
+        "P1365": ""
+      }
+    },
+    {
+      "id": "Q11796950",
+      "label": "Minister for Immigration and Border Protection",
+      "title": "Minister for Immigration and Border Protection",
+      "qualifiers": {
+        "P580": "2010-09-14",
+        "P582": "2013-02-04",
+        "P1365": "Chris Evans",
+        "P1366": "Brendan O'Connor"
+      }
     }
   ],
   "Q26695681": [
@@ -1740,13 +1810,26 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Western Australia",
+        "P580": "1978-07-01",
+        "P582": "1981-02-10",
+        "P1366": "John Martyr"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Curtin",
+        "P580": "1981-02-21",
+        "P582": "1998-10-03",
+        "P1365": "Victor Garland",
+        "P1366": "Julie Bishop"
+      }
     }
   ],
   "Q7047001": [
@@ -2017,7 +2100,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Herbert",
+        "P580": "2016-07-02",
+        "P1365": "Ewen Jones"
+      }
     }
   ],
   "Q16151880": [
@@ -2482,13 +2570,24 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Queensland",
+        "P580": "2005-07-01",
+        "P582": "2013-08-08",
+        "P1366": "Barry O'Sullivan"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "New England",
+        "P580": "2013-09-07",
+        "P1365": "Tony Windsor"
+      }
     }
   ],
   "Q749120": [
@@ -2948,7 +3047,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Bowman",
+        "P580": "1996-03-02",
+        "P582": "1998-10-03",
+        "P1365": "Con Sciacca",
+        "P1366": "Con Sciacca"
+      }
     }
   ],
   "Q6249655": [
@@ -3280,7 +3386,25 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Fraser",
+        "P580": "2010-08-21",
+        "P582": "2016-07-02",
+        "P1365": "Bob McMullan",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Fenner",
+        "P580": "2016-07-02",
+        "P1365": ""
+      }
     }
   ],
   "Q6257427": [
@@ -3422,7 +3546,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Grayndler",
+        "P580": "1996-03-02",
+        "P1365": "Jeannette McHugh"
+      }
     }
   ],
   "Q6702345": [
@@ -3616,7 +3745,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Hume",
+        "P580": "2013-09-07",
+        "P1365": "Alby Schultz"
+      }
     }
   ],
   "Q6306482": [
@@ -3854,7 +3988,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Moore",
+        "P580": "1983-03-05",
+        "P582": "1990-03-24",
+        "P1365": "John Hyde",
+        "P1366": "Paul Filing"
+      }
     }
   ],
   "Q5110292": [
@@ -3903,7 +4044,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Gilmore",
+        "P580": "2013-09-07",
+        "P1365": "Joanna Gash"
+      }
     }
   ],
   "Q6766280": [
@@ -4081,7 +4227,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Kooyong",
+        "P580": "1966-04-02",
+        "P582": "1994-11-19",
+        "P1365": "Robert Menzies",
+        "P1366": "Petro Georgiou"
+      }
     },
     {
       "id": "Q2660943",
@@ -4149,7 +4302,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Indi",
+        "P580": "2013-09-07",
+        "P1365": "Sophie Mirabella"
+      }
     }
   ],
   "Q16194303": [
@@ -4216,6 +4374,12 @@
         "P768": "Bruce",
         "P1365": "Alan Griffin"
       }
+    },
+    {
+      "id": "Q708492",
+      "label": "councillor",
+      "title": "councillor",
+      "description": "representative of voters to a local government"
     }
   ],
   "Q7609616": [
@@ -4334,7 +4498,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Fairfax",
+        "P580": "1990-03-24",
+        "P582": "2013-08-05",
+        "P1365": "Evan Adermann",
+        "P1366": "Clive Palmer"
+      }
     }
   ],
   "Q7844011": [
@@ -4545,7 +4716,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Mayo",
+        "P580": "1984-12-01",
+        "P582": "2008-07-14",
+        "P1365": "",
+        "P1366": "Jamie Briggs"
+      }
     },
     {
       "id": "Q2660943",
@@ -4581,7 +4759,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Mallee",
+        "P580": "2013-09-07",
+        "P1365": "John Forrest"
+      }
     }
   ],
   "Q6662671": [
@@ -4822,7 +5005,37 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Namadgi",
+        "P580": "1996-03-02",
+        "P582": "1998-10-03",
+        "P1365": "",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Canberra",
+        "P580": "1998-10-03",
+        "P582": "2010-07-19",
+        "P1365": "Bob McMullan",
+        "P1366": "Gai Brodtmann"
+      }
+    },
+    {
+      "id": "Q6814365",
+      "label": "member of the Australian Capital Territory Legislative Assembly",
+      "title": "member of the Australian Capital Territory Legislative Assembly",
+      "description": "members of the ACT parliament",
+      "qualifiers": {
+        "P580": "1992-03-20",
+        "P582": "1995-02-18"
+      }
     }
   ],
   "Q21066082": [
@@ -5066,7 +5279,27 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Corinella",
+        "P580": "1993-03-13",
+        "P582": "1996-03-02",
+        "P1365": "Russell Broadbent",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Bruce",
+        "P580": "1996-03-02",
+        "P582": "2016-05-09",
+        "P1365": "Julian Beale",
+        "P1366": "Julian Hill"
+      }
     }
   ],
   "Q4864285": [
@@ -5577,7 +5810,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Holt",
+        "P580": "1999-11-06",
+        "P1365": "Gareth Evans"
+      }
     }
   ],
   "Q304561": [
@@ -5837,7 +6075,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Wentworth",
+        "P580": "1995-04-08",
+        "P582": "2001-10-08",
+        "P1365": "John Hewson",
+        "P1366": "Peter King"
+      }
     }
   ],
   "Q5353191": [
@@ -5965,7 +6210,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Goldstein",
+        "P580": "2004-10-09",
+        "P582": "2016-05-09",
+        "P1365": "David Kemp",
+        "P1366": "Tim Wilson"
+      }
     }
   ],
   "Q7823688": [
@@ -6727,7 +6979,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Dunkley",
+        "P580": "1996-03-02",
+        "P582": "2016-05-09",
+        "P1365": "Bob Chynoweth",
+        "P1366": "Chris Crewther"
+      }
     }
   ],
   "Q5334974": [
@@ -6939,7 +7198,27 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Burke",
+        "P580": "1980-10-18",
+        "P582": "1984-12-01",
+        "P1365": "Keith Johnson",
+        "P1366": "Neil O'Keefe"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Calwell",
+        "P580": "1984-12-01",
+        "P582": "2001-11-10",
+        "P1365": "",
+        "P1366": "Maria Vamvakinou"
+      }
     }
   ],
   "Q4933373": [
@@ -7170,7 +7449,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Boothby",
+        "P580": "1996-12-02",
+        "P582": "2016-05-09",
+        "P1365": "Steele Hall",
+        "P1366": "Nicolle Flint"
+      }
     }
   ],
   "Q23939864": [
@@ -7632,7 +7918,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Scullin",
+        "P580": "2013-09-07",
+        "P1365": "Harry Jenkins"
+      }
     }
   ],
   "Q16221628": [
@@ -7756,7 +8047,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Mitchell",
+        "P580": "2007-11-24",
+        "P1365": "Alan Cadman"
+      }
     }
   ],
   "Q5212240": [
@@ -8606,7 +8902,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Ballarat",
+        "P580": "2001-11-10",
+        "P1365": "Michael Ronaldson"
+      }
     },
     {
       "id": "Q6865888",
@@ -8651,7 +8952,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Kingston",
+        "P580": "2007-11-24",
+        "P1365": "Kym Richardson"
+      }
     }
   ],
   "Q6198202": [
