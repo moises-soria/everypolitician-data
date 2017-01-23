@@ -65,7 +65,7 @@ namespace :term_csvs do
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
     csv_headers = %w(id name position start_date end_date type).to_csv
-    csv_data = data.map do |r|
+    csv_data = data.select { |r| members.key? r[:id] }.map do |r|
       member = members[r[:id]].first
       if r[:start_date].to_s.empty? && r[:end_date].to_s.empty?
         warn "  ☇ No dates for #{member.name} (#{member.wikidata}) as #{r[:label]}"
