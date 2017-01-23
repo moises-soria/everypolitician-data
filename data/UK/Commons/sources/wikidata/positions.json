@@ -598,6 +598,20 @@
       "description": "voters' representative in the House of Commons of the United Kingdom"
     }
   ],
+  "Q19882875": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2015-05-07",
+        "P768": "Bristol West",
+        "P2715": "United Kingdom general election, 2015",
+        "P1365": "Stephen Williams"
+      }
+    }
+  ],
   "Q673854": [
     {
       "id": "Q16707842",
@@ -1132,6 +1146,12 @@
         "P1365": "Peter Griffiths",
         "P1366": "Sarah McCarthy-Fry"
       }
+    },
+    {
+      "id": "Q708492",
+      "label": "councillor",
+      "title": "councillor",
+      "description": "representative of voters to a local government"
     }
   ],
   "Q333807": [
@@ -4722,16 +4742,6 @@
         "P768": "Harrogate and Knaresborough",
         "P580": "2010-05"
       }
-    },
-    {
-      "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom",
-      "qualifiers": {
-        "P768": "Harrogate and Knaresborough",
-        "P580": "2015-05"
-      }
     }
   ],
   "Q4964202": [
@@ -5120,7 +5130,13 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P768": "Richmond Park",
+        "P580": "2016-12-01",
+        "P1365": "Zac Goldsmith",
+        "P2715": "Richmond Park by-election, 2016"
+      }
     }
   ],
   "Q258292": [
@@ -5479,7 +5495,9 @@
       "qualifiers": {
         "P580": "1999-06-14",
         "P582": "2010-05-06",
-        "P1366": "Keith Taylor"
+        "P1366": "Keith Taylor",
+        "P1365": "",
+        "P768": "South East England"
       }
     },
     {
@@ -5489,7 +5507,41 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "2010-05-06",
-        "P1365": "David Lepper"
+        "P1365": "David Lepper",
+        "P768": "Brighton Pavilion"
+      }
+    },
+    {
+      "id": "Q23641710",
+      "label": "Leader of the Green Party of England and Wales",
+      "title": "Leader of the Green Party of England and Wales",
+      "description": "UK party leader",
+      "qualifiers": {
+        "P1365": "Natalie Bennett",
+        "P1706": "Jonathan Bartley",
+        "P580": "2016-09-02"
+      }
+    },
+    {
+      "id": "Q7245066",
+      "label": "Principal Speaker",
+      "title": "Principal Speaker",
+      "qualifiers": {
+        "P580": "2007-11-30",
+        "P582": "2008-09-05",
+        "P1365": "Siân Berry",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q7245066",
+      "label": "Principal Speaker",
+      "title": "Principal Speaker",
+      "qualifiers": {
+        "P580": "2003",
+        "P582": "2006-11-24",
+        "P1365": "Margaret Wright",
+        "P1366": "Siân Berry"
       }
     }
   ],
@@ -7157,6 +7209,12 @@
         "P768": "Oldham West and Royton",
         "P1365": "Michael Meacher"
       }
+    },
+    {
+      "id": "Q708492",
+      "label": "councillor",
+      "title": "councillor",
+      "description": "representative of voters to a local government"
     }
   ],
   "Q338342": [
@@ -7963,13 +8021,24 @@
       "id": "Q19962688",
       "label": "Chair of the Labour Party",
       "title": "Chair of the Labour Party",
-      "description": "chairperson of the UK Labour Party"
+      "description": "chairperson of the UK Labour Party",
+      "qualifiers": {
+        "P580": "1988-06-13",
+        "P582": "1989-10-27",
+        "P1365": "Neil Kinnock"
+      }
     },
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1970-06-18",
+        "P768": "Bolsover",
+        "P1365": "Harold Neal",
+        "P2715": "United Kingdom general election, 2015"
+      }
     }
   ],
   "Q581095": [
@@ -15460,7 +15529,14 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P768": "Bristol West",
+        "P580": "2005-05-05",
+        "P582": "2015-03-30",
+        "P1365": "Valerie Davey",
+        "P2715": "United Kingdom general election, 2005"
+      }
     }
   ],
   "Q137911": [
@@ -16715,7 +16791,8 @@
         "P580": "1997-05-01",
         "P582": "2005-05-05",
         "P1365": "William Waldegrave, Baron Waldegrave of North Hill",
-        "P1366": "Stephen Williams"
+        "P1366": "Stephen Williams",
+        "P768": "Bristol West"
       }
     }
   ],
@@ -22000,7 +22077,8 @@
       "qualifiers": {
         "P768": "Romsey",
         "P1365": "Michael Colvin",
-        "P1366": ""
+        "P580": "2000-05-04",
+        "P582": "2010-04-12"
       }
     }
   ],
@@ -22248,7 +22326,8 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "2005-05-05",
-        "P768": "Tooting"
+        "P768": "Tooting",
+        "P582": "2016-05-09"
       }
     },
     {
@@ -24445,7 +24524,8 @@
       "qualifiers": {
         "P580": "2001-06-07",
         "P582": "2016-09-12",
-        "P1365": "Shaun Woodward"
+        "P1365": "Shaun Woodward",
+        "P768": "Witney"
       }
     },
     {
