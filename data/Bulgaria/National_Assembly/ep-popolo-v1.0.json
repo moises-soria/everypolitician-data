@@ -740,6 +740,10 @@
         {
           "identifier": "1009",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409446",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1009.png",
@@ -748,16 +752,50 @@
           "url": "http://www.parliament.bg/images/Assembly/1009.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Явор_Нотев"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yavor_Notev"
+        }
+      ],
       "name": "ЯВОР БОЖИЛОВ НОТЕВ",
       "other_names": [
+        {
+          "name": "Явор Нотев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЯВОР БОЖИЛОВ НОТЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Явор Нотев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jawor Notew",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "YAVOR BOZHILOV NOTEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yavor Notev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yavor Notev",
           "note": "multilingual"
         }
       ]
@@ -952,6 +990,7 @@
     },
     {
       "birth_date": "1950-03-11",
+      "gender": "female",
       "id": "04655853-76fa-4742-823c-5e663664a958",
       "identifiers": [
         {
@@ -961,6 +1000,10 @@
         {
           "identifier": "565",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12295100",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/565.png",
@@ -969,11 +1012,26 @@
           "url": "http://www.parliament.bg/images/Assembly/565.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Стела_Банкова"
+        }
+      ],
       "name": "СТЕЛА ДИМИТРОВА АНГЕЛОВА-БАНКОВА",
       "other_names": [
         {
+          "name": "Стела Банкова",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "СТЕЛА ДИМИТРОВА АНГЕЛОВА-БАНКОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Стела Банкова",
           "note": "multilingual"
         },
         {
@@ -1377,6 +1435,7 @@
     },
     {
       "birth_date": "1958-01-20",
+      "gender": "male",
       "id": "06d08b76-5662-4104-b7ba-21baa19d2430",
       "identifiers": [
         {
@@ -1384,8 +1443,20 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/012kz_wp",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "730",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "311194253",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1748959",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/730.png",
@@ -1394,16 +1465,58 @@
           "url": "http://www.parliament.bg/images/Assembly/730.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Пламен_Панайотов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Пламен_Панайотов"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Plamen_Panayotov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Płamen_Panajotow"
+        }
+      ],
       "name": "ПЛАМЕН АЛЕКСАНДРОВ ПАНАЙОТОВ",
       "other_names": [
+        {
+          "name": "Пламен Панайотов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ПЛАМЕН АЛЕКСАНДРОВ ПАНАЙОТОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Пламен Панайотов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "PLAMEN ALEKSANDROV PANAIOTOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Plamen Panayotov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Plamen Panayotov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Płamen Panajotow",
           "note": "multilingual"
         }
       ]
@@ -3725,6 +3838,7 @@
     },
     {
       "birth_date": "1944-07-17",
+      "gender": "male",
       "id": "100a78d1-a3e1-4417-be93-3ed77d6d1bce",
       "identifiers": [
         {
@@ -3734,6 +3848,10 @@
         {
           "identifier": "680",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12279372",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/680.png",
@@ -3742,11 +3860,26 @@
           "url": "http://www.parliament.bg/images/Assembly/680.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Евгени_Чачев"
+        }
+      ],
       "name": "ЕВГЕНИ СТЕФАНОВ ЧАЧЕВ",
       "other_names": [
         {
+          "name": "Евгени Чачев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЕВГЕНИ СТЕФАНОВ ЧАЧЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Евгени Чачев",
           "note": "multilingual"
         },
         {
@@ -3875,6 +4008,10 @@
         {
           "identifier": "167",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12274603",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/167.png",
@@ -3883,11 +4020,26 @@
           "url": "http://www.parliament.bg/images/Assembly/167.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ваньо_Шарков"
+        }
+      ],
       "name": "ВАНЬО ЕВГЕНИЕВ ШАРКОВ",
       "other_names": [
         {
+          "name": "Ваньо Шарков",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ВАНЬО ЕВГЕНИЕВ ШАРКОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Ваньо Шарков",
           "note": "multilingual"
         },
         {
@@ -4040,6 +4192,7 @@
     },
     {
       "birth_date": "1955-06-11",
+      "gender": "male",
       "id": "112dadb0-89d8-45b9-9a30-c7b18d3efb1a",
       "identifiers": [
         {
@@ -4049,6 +4202,10 @@
         {
           "identifier": "731",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12276824",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/731.png",
@@ -4057,11 +4214,26 @@
           "url": "http://www.parliament.bg/images/Assembly/731.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Георги_Юруков_(политик)"
+        }
+      ],
       "name": "ГЕОРГИ ВЛАДИМИРОВ ЮРУКОВ",
       "other_names": [
         {
+          "name": "Георги Юруков",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ГЕОРГИ ВЛАДИМИРОВ ЮРУКОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Георги Юруков",
           "note": "multilingual"
         },
         {
@@ -4801,6 +4973,7 @@
     },
     {
       "birth_date": "1960-09-01",
+      "gender": "male",
       "id": "152a4b23-11b7-473e-b834-33bbf19aa7f0",
       "identifiers": [
         {
@@ -4810,6 +4983,10 @@
         {
           "identifier": "393",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12282118",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/393.png",
@@ -4818,16 +4995,40 @@
           "url": "http://www.parliament.bg/images/Assembly/393.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Йордан_Бакалов"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jordan_Bakałow"
+        }
+      ],
       "name": "ЙОРДАН ИВАНОВ БАКАЛОВ",
       "other_names": [
+        {
+          "name": "Йордан Бакалов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЙОРДАН ИВАНОВ БАКАЛОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Йордан Бакалов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "IORDAN IVANOV BAKALOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jordan Bakałow",
           "note": "multilingual"
         }
       ]
@@ -4924,21 +5125,150 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1667771",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/06zt557",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2007019938",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "903",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "2238817",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2064558",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/903.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/903.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vezhdi-Razhidov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Вежди_Рашидов"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vezhdi_Rashidov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Weschdi_Raschidow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vezhdi_Rashidov"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Vezhdi_Rashidov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vejdi_Rachidov"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Вежди_Рашидов"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Weżdi_Raszidow"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Vecdi_Raşidov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Вежді_Рашидов"
         }
       ],
       "name": "ВЕЖДИ ЛЕТИФ РАШИДОВ",
       "other_names": [
         {
+          "name": "Вежди Рашидов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ВЕЖДИ ЛЕТИФ РАШИДОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Вежди Рашидов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Weschdi Raschidow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vezhdi Rashidov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vezhdi Rashidov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vejdi Rachidov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Вежди Рашидов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vezjdi Rasjidov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vezhdi Rashidov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vezjdi Rasjidov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Weżdi Raszidow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Vecdi Raşidov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Вежді Рашидов",
           "note": "multilingual"
         }
       ]
@@ -6525,6 +6855,10 @@
         {
           "identifier": "125",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q19205383",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/125.png",
@@ -6533,11 +6867,26 @@
           "url": "http://www.parliament.bg/images/Assembly/125.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Янко_Янков_(политик)"
+        }
+      ],
       "name": "ЯНКО АЛЕКСАНДРОВ ЯНКОВ",
       "other_names": [
         {
+          "name": "Янко Янков",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЯНКО АЛЕКСАНДРОВ ЯНКОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Янко Янков",
           "note": "multilingual"
         },
         {
@@ -7614,6 +7963,8 @@
         }
       ],
       "email": "passy@bulnet.bg",
+      "gender": "male",
+      "given_name": "Solomon",
       "id": "23c205e3-25e4-47a8-9b2c-bbbaf43a7242",
       "identifiers": [
         {
@@ -7621,26 +7972,182 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1550743",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/03qf73",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n99056054",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "055/000056884",
+          "scheme": "nndb"
+        },
+        {
           "identifier": "622",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "145541762",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "43634459",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1371792",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/622.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/622.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Evstafiev-solomon-passy.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Соломон_Паси"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Solomon_Passy"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Solomon_Pasi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Solomon_Passy"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Solomon_Pasi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Solomon_Passi"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/סולומון_פאסי"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sołomon_Pasi"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Паси,_Соломон"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Solomon_Pasi"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Соломон_Пасі"
         }
       ],
       "name": "СОЛОМОН ИСАК ПАСИ",
       "other_names": [
+        {
+          "name": "Соломон Паси",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "СОЛОМОН ИСАК ПАСИ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Соломон Паси",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "SOLOMON ISAK PASI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Solomon Passy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Solomon Passy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סולומון פאסי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Solomon Passy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Паси, Соломон Исак",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Solomon Pasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соломон Пасі",
           "note": "multilingual"
         }
       ]
@@ -8372,6 +8879,10 @@
         {
           "identifier": "958",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409381",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/958.png",
@@ -8380,11 +8891,26 @@
           "url": "http://www.parliament.bg/images/Assembly/958.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Димитър_Лазаров_(политик)"
+        }
+      ],
       "name": "ДИМИТЪР НИКОЛОВ ЛАЗАРОВ",
       "other_names": [
         {
+          "name": "Димитър Лазаров",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ДИМИТЪР НИКОЛОВ ЛАЗАРОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Димитър Лазаров",
           "note": "multilingual"
         },
         {
@@ -8524,6 +9050,10 @@
         {
           "identifier": "461",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12292130",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/461.png",
@@ -8532,11 +9062,30 @@
           "url": "http://www.parliament.bg/images/Assembly/461.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Рамадан_Аталай"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Рамадан_Аталай"
+        }
+      ],
       "name": "РАМАДАН БАЙРАМ АТАЛАЙ",
       "other_names": [
         {
+          "name": "Рамадан Аталай",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "РАМАДАН БАЙРАМ АТАЛАЙ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Рамадан Аталай",
           "note": "multilingual"
         },
         {
@@ -9015,6 +9564,10 @@
         {
           "identifier": "8",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q16623792",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/8.png",
@@ -9023,11 +9576,30 @@
           "url": "http://www.parliament.bg/images/Assembly/8.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Георги_Кадиев"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Георги_Кадиев"
+        }
+      ],
       "name": "ГЕОРГИ СТОЯНОВ КАДИЕВ",
       "other_names": [
         {
+          "name": "Георги Кадиев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ГЕОРГИ СТОЯНОВ КАДИЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Георги Кадиев",
           "note": "multilingual"
         },
         {
@@ -9089,6 +9661,10 @@
         {
           "identifier": "6",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q8048339",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/6.png",
@@ -9097,16 +9673,59 @@
           "url": "http://www.parliament.bg/images/Assembly/6.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Яне_Янев"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yane_Yanev"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jane_Janew"
+        }
+      ],
       "name": "ЯНЕ ГЕОРГИЕВ ЯНЕВ",
       "other_names": [
+        {
+          "name": "Яне Янев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЯНЕ ГЕОРГИЕВ ЯНЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Яне Янев",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "YANE GEORGIEV YANEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yane Yanev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yane Yanev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yane Yanev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jane Janew",
           "note": "multilingual"
         }
       ]
@@ -9396,6 +10015,7 @@
     {
       "birth_date": "1958-03-04",
       "gender": "female",
+      "given_name": "Emel",
       "id": "2fc859be-488d-4be6-aab6-bfc87a9a19ff",
       "identifiers": [
         {
@@ -9403,26 +10023,102 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0krv64",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "358",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q453090",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/358.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/358.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Emel-Etem-ImagesfromBulgaria-cropped.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Емел_Етем_Тошкова"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Емел_Етем"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Emel_Etem_Toschkowa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emel_Etem_Toshkova"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Emel_Etem_Tochkova"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Emeł_Etem_Toszkowa"
         }
       ],
       "name": "ЕМЕЛ ЕТЕМ ТОШКОВА",
       "other_names": [
+        {
+          "name": "Емел Етем Тошкова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЕМЕЛ ЕТЕМ ТОШКОВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Емел Етем Тошкова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Emel Etem Toschkowa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "EMEL ETEM TOSHKOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Emel Etem Toshkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emel Etem Tochkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Emel Etem Toshkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emel Etem Toshkova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Emel Etem Toszkowa",
           "note": "multilingual"
         }
       ]
@@ -9778,6 +10474,10 @@
         {
           "identifier": "1030",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q19204826",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1030.png",
@@ -9786,11 +10486,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1030.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Красимир_Ципов"
+        }
+      ],
       "name": "КРАСИМИР ГЕОРГИЕВ ЦИПОВ",
       "other_names": [
         {
+          "name": "Красимир Ципов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "КРАСИМИР ГЕОРГИЕВ ЦИПОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Красимир Ципов",
           "note": "multilingual"
         },
         {
@@ -10211,6 +10926,7 @@
           "value": "dimcho.mihalevski@parliament.bg"
         }
       ],
+      "death_date": "2014-02-18",
       "email": "dimcho.mihalevski@parliament.bg",
       "gender": "male",
       "id": "34c8e0d3-2dc0-4e38-b268-1af308bc7bf7",
@@ -10222,6 +10938,10 @@
         {
           "identifier": "995",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q16334129",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/995.png",
@@ -10230,11 +10950,26 @@
           "url": "http://www.parliament.bg/images/Assembly/995.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Димчо_Михалевски"
+        }
+      ],
       "name": "ДИМЧО ДИМИТРОВ МИХАЛЕВСКИ",
       "other_names": [
         {
+          "name": "Димчо Михалевски",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ДИМЧО ДИМИТРОВ МИХАЛЕВСКИ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Димчо Михалевски",
           "note": "multilingual"
         },
         {
@@ -10307,6 +11042,7 @@
     {
       "birth_date": "1976-07-20",
       "gender": "male",
+      "given_name": "Petar",
       "id": "34fddfe1-3b3e-4fe4-89a0-f90b473caa41",
       "identifiers": [
         {
@@ -10316,6 +11052,10 @@
         {
           "identifier": "1442",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q15732366",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1442.png",
@@ -10324,16 +11064,50 @@
           "url": "http://www.parliament.bg/images/Assembly/1442.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Петър_Чобанов"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Petar_Tchobanov"
+        }
+      ],
       "name": "ПЕТЪР ПАНДУШЕВ ЧОБАНОВ",
       "other_names": [
+        {
+          "name": "Петър Чобанов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ПЕТЪР ПАНДУШЕВ ЧОБАНОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Петър Чобанов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "PETAR PANDUSHEV CHOBANOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Petar Tchobanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Petar Tchobanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Petar Tchobanov",
           "note": "multilingual"
         }
       ]
@@ -10486,15 +11260,45 @@
     },
     {
       "birth_date": "1939-03-26",
+      "gender": "male",
+      "given_name": "Andrey",
       "id": "35cf9336-2a69-4a8d-9eac-1f0f83672c98",
       "identifiers": [
+        {
+          "identifier": "13203336g",
+          "scheme": "bnf"
+        },
         {
           "identifier": "612",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "121796795",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 0953 471X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n81144675",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "612",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "059714018",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "9990362",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12272015",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/612.png",
@@ -10503,16 +11307,63 @@
           "url": "http://www.parliament.bg/images/Assembly/612.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Андрей_Пантев"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Андрей_Пантев"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Անդրեյ_Պանտև"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пантев,_Андрей_Лазаров"
+        }
+      ],
       "name": "АНДРЕЙ ЛАЗАРОВ ПАНТЕВ",
       "other_names": [
+        {
+          "name": "Андрей Пантев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "АНДРЕЙ ЛАЗАРОВ ПАНТЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Андрей Пантев",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "ANDREI LAZAROV PANTEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrey Pantev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrey Pantev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Անդրեյ Պանտև",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пантев, Андрей Лазаров",
           "note": "multilingual"
         }
       ]
@@ -10529,6 +11380,10 @@
         {
           "identifier": "572",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q9249710",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/572.png",
@@ -10537,16 +11392,54 @@
           "url": "http://www.parliament.bg/images/Assembly/572.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Джевдет_Чакъров"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Djevdet_Chakarov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dżewdet_Czakyrow"
+        }
+      ],
       "name": "ДЖЕВДЕТ ИБРЯМ ЧАКЪРОВ",
       "other_names": [
+        {
+          "name": "Джевдет Чакъров",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ДЖЕВДЕТ ИБРЯМ ЧАКЪРОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Джевдет Чакъров",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "DJEVDET IBRIAM CHAKAROV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Djevdet Chakarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Djevdet Chakarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dżewdet Czakyrow",
           "note": "multilingual"
         }
       ]
@@ -10762,6 +11655,8 @@
         }
       ],
       "email": "vbliznakov@gti.bg",
+      "gender": "male",
+      "given_name": "Veselin",
       "id": "37c0d1e2-8749-4a5e-8efc-099db365cf61",
       "identifiers": [
         {
@@ -10769,26 +11664,94 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/026mnxh",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "625",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q557086",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/625.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/625.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Veselin_Bliznakov_070614-D-7203T-008_0WDIC.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Веселин_Близнаков"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wesselin_Blisnakow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Veselin_Bliznakov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Veselin_Bliznakov"
         }
       ],
       "name": "ВЕСЕЛИН ВИТАНОВ БЛИЗНАКОВ",
       "other_names": [
+        {
+          "name": "Веселин Близнаков",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ВЕСЕЛИН ВИТАНОВ БЛИЗНАКОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Веселин Близнаков",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wesselin Blisnakow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "VESELIN VITANOV BLIZNAKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Veselin Bliznakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Veselin Bliznakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Veselin Bliznakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Veselin Bliznakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Veselin Bliznakov",
           "note": "multilingual"
         }
       ]
@@ -11004,15 +11967,28 @@
       ],
       "email": "mladbglawyers@sf.isn.bg",
       "gender": "male",
+      "given_name": "Mladen",
       "id": "38ef7615-d8f6-43e9-b895-35a002a9fbef",
       "identifiers": [
+        {
+          "identifier": "37525",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "665",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/027gkrr",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "665",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q3623094",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/665.png",
@@ -11021,16 +11997,83 @@
           "url": "http://www.parliament.bg/images/Assembly/665.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Младен_Червеняков"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mladen_Petrov_Chervenyakov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mładen_Czerwenjakow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mladen_Cerveniakov"
+        }
+      ],
       "name": "МЛАДЕН ПЕТРОВ ЧЕРВЕНЯКОВ",
       "other_names": [
+        {
+          "name": "Младен Червеняков",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МЛАДЕН ПЕТРОВ ЧЕРВЕНЯКОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Младен Червеняков",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mladen Petrov Chervenyakov",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MLADEN PETROV CHERVENIAKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mladen Petrov Chervenyakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mladen Petrov Chervenyakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mladen Petrov Chervenyakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mladen Petrov Chervenyakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mladen Petrov Chervenyakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mładen Czerwenjakow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Mladen Cerveniakov",
           "note": "multilingual"
         }
       ]
@@ -11211,6 +12254,10 @@
         {
           "identifier": "1055",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12297060",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1055.png",
@@ -11219,11 +12266,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1055.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Тунчер_Кърджалиев"
+        }
+      ],
       "name": "ТУНЧЕР МЕХМЕДОВ КЪРДЖАЛИЕВ",
       "other_names": [
         {
+          "name": "Тунчер Кърджалиев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ТУНЧЕР МЕХМЕДОВ КЪРДЖАЛИЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Тунчер Кърджалиев",
           "note": "multilingual"
         },
         {
@@ -11834,6 +12896,8 @@
     },
     {
       "birth_date": "1952-07-05",
+      "gender": "male",
+      "given_name": "Rumen",
       "id": "3e627aa9-f21c-4424-8502-dcb8eca99584",
       "identifiers": [
         {
@@ -11843,24 +12907,97 @@
         {
           "identifier": "465",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q132243",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/465.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/465.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Rumen_Ovcharov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Румен_Овчаров"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Румен_Овчаров"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Rumen_Owtscharow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rumen_Ovcharov"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Rumen_Owtscharow"
         }
       ],
       "name": "РУМЕН СТОЯНОВ ОВЧАРОВ",
       "other_names": [
+        {
+          "name": "Румен Овчаров",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "РУМЕН СТОЯНОВ ОВЧАРОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Румен Овчаров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Rumen Owtscharow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "RUMEN STOIANOV OVCHAROV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rumen Ovcharov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rumen Owtscharow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Rumen Owtscharow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rumen Ovtsjarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rumen Ovcharov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Rumen Ovtsjarov",
           "note": "multilingual"
         }
       ]
@@ -12123,6 +13260,7 @@
     },
     {
       "birth_date": "1953-03-28",
+      "gender": "male",
       "id": "40e0ae5b-d369-4f28-a112-7aa0fdce3e4c",
       "identifiers": [
         {
@@ -12132,6 +13270,10 @@
         {
           "identifier": "562",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12296691",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/562.png",
@@ -12140,11 +13282,26 @@
           "url": "http://www.parliament.bg/images/Assembly/562.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Тома_Томов_(политик)"
+        }
+      ],
       "name": "ТОМА ЯНКОВ ТОМОВ",
       "other_names": [
         {
+          "name": "Тома Томов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ТОМА ЯНКОВ ТОМОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Тома Томов",
           "note": "multilingual"
         },
         {
@@ -12699,6 +13856,7 @@
     },
     {
       "birth_date": "1947-01-03",
+      "gender": "male",
       "id": "4353951b-9f64-460b-a95d-e5094a362c53",
       "identifiers": [
         {
@@ -12708,19 +13866,45 @@
         {
           "identifier": "410",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12285352",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/410.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/410.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kornezov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Любен_Корнезов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Любен_Корнезов"
         }
       ],
       "name": "ЛЮБЕН АНДОНОВ КОРНЕЗОВ",
       "other_names": [
         {
+          "name": "Любен Корнезов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЛЮБЕН АНДОНОВ КОРНЕЗОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Любен Корнезов",
           "note": "multilingual"
         },
         {
@@ -13208,6 +14392,8 @@
         }
       ],
       "email": "fbif@internet-bg.net",
+      "gender": "male",
+      "given_name": "Todor",
       "id": "47b9d6dd-41e1-4ab9-b289-ab9422cd7b6b",
       "identifiers": [
         {
@@ -13217,6 +14403,10 @@
         {
           "identifier": "611",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q28090655",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/611.png",
@@ -13225,11 +14415,26 @@
           "url": "http://www.parliament.bg/images/Assembly/611.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Тодор_Бояджиев"
+        }
+      ],
       "name": "ТОДОР КОСТОВ БОЯДЖИЕВ",
       "other_names": [
         {
+          "name": "Тодор Бояджиев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ТОДОР КОСТОВ БОЯДЖИЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Тодор Бояджиев",
           "note": "multilingual"
         },
         {
@@ -13416,6 +14621,7 @@
         }
       ],
       "email": "ivanovin@hotmail.com",
+      "gender": "male",
       "id": "494db2dd-1db7-4ed9-8f38-789b553b6fd7",
       "identifiers": [
         {
@@ -13425,6 +14631,10 @@
         {
           "identifier": "516",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q20500051",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/516.png",
@@ -13433,11 +14643,26 @@
           "url": "http://www.parliament.bg/images/Assembly/516.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Иван_Иванов_(политик)"
+        }
+      ],
       "name": "ИВАН НИКОЛАЕВ ИВАНОВ",
       "other_names": [
         {
+          "name": "Иван Николаев Иванов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ИВАН НИКОЛАЕВ ИВАНОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Иван Николаев Иванов",
           "note": "multilingual"
         },
         {
@@ -13605,6 +14830,10 @@
         {
           "identifier": "506",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12299694",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/506.png",
@@ -13613,11 +14842,26 @@
           "url": "http://www.parliament.bg/images/Assembly/506.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Янаки_Стоилов"
+        }
+      ],
       "name": "ЯНАКИ БОЯНОВ СТОИЛОВ",
       "other_names": [
         {
+          "name": "Янаки Стоилов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЯНАКИ БОЯНОВ СТОИЛОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Янаки Стоилов",
           "note": "multilingual"
         },
         {
@@ -13953,6 +15197,10 @@
         {
           "identifier": "935",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12281828",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/935.png",
@@ -13961,11 +15209,26 @@
           "url": "http://www.parliament.bg/images/Assembly/935.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ирена_Соколова"
+        }
+      ],
       "name": "ИРЕНА ЛЮБЕНОВА СОКОЛОВА",
       "other_names": [
         {
+          "name": "Ирена Соколова",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ИРЕНА ЛЮБЕНОВА СОКОЛОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Ирена Соколова",
           "note": "multilingual"
         },
         {
@@ -14348,33 +15611,147 @@
       ],
       "email": "dimitrovmartin@gmail.com",
       "gender": "male",
+      "given_name": "Martin",
       "id": "4f8d2671-a32d-460a-b583-052136c98c44",
       "identifiers": [
+        {
+          "identifier": "34252",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "136",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/027gkt3",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "136",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q943971",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/136.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/136.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Martin_dimitrov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Мартин_Димитров"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Мартин_Димитров"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Martin_Dimitrow_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Martin_Dimitrov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Martin_Dimitrow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Martin_Dimitrov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Мартин_Димитров"
+        },
+        {
+          "note": "website",
+          "url": "http://www.martindimitrov.com/"
         }
       ],
       "name": "МАРТИН ДИМИТРОВ ДИМИТРОВ",
       "other_names": [
+        {
+          "name": "Мартин Димитров",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МАРТИН ДИМИТРОВ ДИМИТРОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Мартин Димитров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Martin Dimitrow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MARTIN DIMITROV DIMITROV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Martin Dimitrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Martin Dimitrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Мартин Димитров",
           "note": "multilingual"
         }
       ]
@@ -14946,6 +16323,7 @@
     {
       "birth_date": "1961-06-23",
       "gender": "male",
+      "given_name": "Rumen",
       "id": "52221e26-fc21-4150-b092-ef38d66510ea",
       "identifiers": [
         {
@@ -14955,24 +16333,68 @@
         {
           "identifier": "589",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q9323969",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/589.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/589.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Rumen_petkov_2011.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Румен_Петков_(политик)"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Румен_Петков"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rumen_Petkov_(politician)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Rumen_Petkow"
         }
       ],
       "name": "РУМЕН ЙОРДАНОВ ПЕТКОВ",
       "other_names": [
+        {
+          "name": "Румен Петков",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "РУМЕН ЙОРДАНОВ ПЕТКОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Румен Петков",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "RUMEN IORDANOV PETKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rumen Petkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Rumen Petkow",
           "note": "multilingual"
         }
       ]
@@ -15020,6 +16442,7 @@
     {
       "birth_date": "1958-09-28",
       "gender": "male",
+      "given_name": "Angel",
       "id": "52f4783f-92aa-49c7-b910-e8cfe230489c",
       "identifiers": [
         {
@@ -15029,6 +16452,10 @@
         {
           "identifier": "282",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12271885",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/282.png",
@@ -15037,16 +16464,50 @@
           "url": "http://www.parliament.bg/images/Assembly/282.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ангел_Найденов"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Anguel_Naïdenov"
+        }
+      ],
       "name": "АНГЕЛ ПЕТРОВ НАЙДЕНОВ",
       "other_names": [
+        {
+          "name": "Ангел Найденов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "АНГЕЛ ПЕТРОВ НАЙДЕНОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Ангел Найденов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "ANGEL PETROV NAIDENOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Angel Naydenov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anguel Naïdenov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Angel Naydenov",
           "note": "multilingual"
         }
       ]
@@ -15325,6 +16786,7 @@
       ],
       "email": "desislava.taneva@parliament.bg",
       "gender": "female",
+      "given_name": "Desislava",
       "id": "54ca1e1b-db33-4be9-826e-dec91e03447e",
       "identifiers": [
         {
@@ -15334,6 +16796,10 @@
         {
           "identifier": "987",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q9206423",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/987.png",
@@ -15342,16 +16808,63 @@
           "url": "http://www.parliament.bg/images/Assembly/987.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Десислава_Танева"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Desislava_Taneva"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dessislava_Taneva"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Desisława_Tanewa"
+        }
+      ],
       "name": "ДЕСИСЛАВА ЖЕКОВА ТАНЕВА",
       "other_names": [
+        {
+          "name": "Десислава Танева",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ДЕСИСЛАВА ЖЕКОВА ТАНЕВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Десислава Танева",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "DESISLAVA ZHEKOVA TANEVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Desislava Taneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dessislava Taneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Desislava Taneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Desisława Tanewa",
           "note": "multilingual"
         }
       ]
@@ -15616,6 +17129,10 @@
         {
           "identifier": "1539",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409292",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1539.png",
@@ -15624,11 +17141,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1539.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Георги_Гьоков"
+        }
+      ],
       "name": "ГЕОРГИ ЯНЧЕВ ГЬОКОВ",
       "other_names": [
         {
+          "name": "Георги Гьоков",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ГЕОРГИ ЯНЧЕВ ГЬОКОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Георги Гьоков",
           "note": "multilingual"
         },
         {
@@ -16821,6 +18353,10 @@
         {
           "identifier": "953",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12286476",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/953.png",
@@ -16831,6 +18367,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Менда_Стоянова"
+        },
+        {
           "note": "website",
           "url": "www.menda.bg"
         }
@@ -16838,8 +18378,17 @@
       "name": "МЕНДА КИРИЛОВА СТОЯНОВА",
       "other_names": [
         {
+          "name": "Менда Стоянова",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "МЕНДА КИРИЛОВА СТОЯНОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Менда Стоянова",
           "note": "multilingual"
         },
         {
@@ -17387,21 +18936,145 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/06w57d2",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "878",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q244471",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/878.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/878.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tsvetan_Tsvetanov_2009_elections.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Цветан_Цветанов"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Zwetan_Zwetanow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tsvetan_Tsvetanov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tsvetan_Tsvetanov"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Цветан_Цветанов"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Cwetan_Cwetanow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Țvetan_Țvetanov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Цветан_Цветанов"
         }
       ],
       "name": "ЦВЕТАН ГЕНЧЕВ ЦВЕТАНОВ",
       "other_names": [
         {
+          "name": "Цветан Цветанов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЦВЕТАН ГЕНЧЕВ ЦВЕТАНОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Цветан Цветанов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zwetan Zwetanow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ツヴェタン・ツヴェタノフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Цветан Цветанов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tsvetan Tsvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Cwetan Cwetanow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Țvetan Țvetanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Цветан Цветанов",
           "note": "multilingual"
         }
       ]
@@ -17466,6 +19139,10 @@
         {
           "identifier": "1699",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17143365",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1699.png",
@@ -17474,16 +19151,50 @@
           "url": "http://www.parliament.bg/images/Assembly/1699.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Миглена_Александрова"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Александрова,_Миглена"
+        }
+      ],
       "name": "МИГЛЕНА ДОЙКОВА АЛЕКСАНДРОВА",
       "other_names": [
+        {
+          "name": "Миглена Александрова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МИГЛЕНА ДОЙКОВА АЛЕКСАНДРОВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Миглена Александрова",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MIGLENA DOIKOVA ALEXANDROVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Miglena Aleksandrova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Miglena Aleksandrova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Александрова, Миглена Дойкова",
           "note": "multilingual"
         }
       ]
@@ -18232,6 +19943,8 @@
     },
     {
       "birth_date": "1965-11-07",
+      "gender": "female",
+      "given_name": "Eugenia",
       "id": "62e8fc44-028c-42ae-b8ce-76a27a3b1414",
       "identifiers": [
         {
@@ -18241,6 +19954,10 @@
         {
           "identifier": "626",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12279384",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/626.png",
@@ -18249,11 +19966,26 @@
           "url": "http://www.parliament.bg/images/Assembly/626.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Евгения_Живкова"
+        }
+      ],
       "name": "ЕВГЕНИЯ ТОДОРОВА ЖИВКОВА",
       "other_names": [
         {
+          "name": "Евгения Живкова",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЕВГЕНИЯ ТОДОРОВА ЖИВКОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Евгения Живкова",
           "note": "multilingual"
         },
         {
@@ -19164,6 +20896,7 @@
       ],
       "email": "lilyana.nikolova@parliament.bg",
       "gender": "female",
+      "given_name": "Liliana",
       "id": "679e57f9-9ce7-45d3-bdf7-b617124185fe",
       "identifiers": [
         {
@@ -19171,26 +20904,90 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0w0dz8t",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1674",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q3240816",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1674.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/1674.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Lilyana_Pavlova.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Лиляна_Павлова"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Liliana_Pavlova"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Liljana_Pawłowa"
         }
       ],
       "name": "ЛИЛЯНА ПАВЛОВА НИКОЛОВА",
       "other_names": [
+        {
+          "name": "Лиляна Павлова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЛИЛЯНА ПАВЛОВА НИКОЛОВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Лиляна Павлова",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "LILYANA PAVLOVA NIKOLOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liliana Pavlova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liliana Pavlova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liljana Pavlova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liliana Pavlova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Liljana Pavlova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Liljana Pawłowa",
           "note": "multilingual"
         }
       ]
@@ -20361,6 +22158,10 @@
         {
           "identifier": "1049",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12294517",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1049.png",
@@ -20369,11 +22170,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1049.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Спас_Панчев"
+        }
+      ],
       "name": "СПАС ЯНЕВ ПАНЧЕВ",
       "other_names": [
         {
+          "name": "Спас Панчев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "СПАС ЯНЕВ ПАНЧЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Спас Панчев",
           "note": "multilingual"
         },
         {
@@ -21216,6 +23032,7 @@
     {
       "birth_date": "1968-09-12",
       "gender": "male",
+      "given_name": "Nicholas",
       "id": "6ec4041e-0ee2-422c-ac90-5f8c800d25cd",
       "identifiers": [
         {
@@ -21225,6 +23042,10 @@
         {
           "identifier": "829",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q16920915",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/829.png",
@@ -21233,16 +23054,44 @@
           "url": "http://www.parliament.bg/images/Assembly/829.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Николай_Малинов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Николай_Малинов"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Малинов,_Николай"
+        }
+      ],
       "name": "НИКОЛАЙ СИМЕОНОВ МАЛИНОВ",
       "other_names": [
+        {
+          "name": "Николай Малинов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "НИКОЛАЙ СИМЕОНОВ МАЛИНОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Николай Малинов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "NIKOLAY SIMEONOV MALINOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Малинов, Николай Симеонов",
           "note": "multilingual"
         }
       ]
@@ -21756,6 +23605,7 @@
     },
     {
       "birth_date": "1962-10-10",
+      "gender": "male",
       "id": "73de53d4-ae0d-4341-b623-ad74040afc5c",
       "identifiers": [
         {
@@ -21765,6 +23615,10 @@
         {
           "identifier": "409",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12285324",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/409.png",
@@ -21773,11 +23627,26 @@
           "url": "http://www.parliament.bg/images/Assembly/409.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Лъчезар_Тошев"
+        }
+      ],
       "name": "ЛЪЧЕЗАР БЛАГОВЕСТОВ ТОШЕВ",
       "other_names": [
         {
+          "name": "Лъчезар Тошев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЛЪЧЕЗАР БЛАГОВЕСТОВ ТОШЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Лъчезар Тошев",
           "note": "multilingual"
         },
         {
@@ -21853,6 +23722,10 @@
         {
           "identifier": "1132",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409298",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1132.png",
@@ -21861,11 +23734,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1132.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Добрин_Данев"
+        }
+      ],
       "name": "ДОБРИН НЕНОВ ДАНЕВ",
       "other_names": [
         {
+          "name": "Добрин Данев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ДОБРИН НЕНОВ ДАНЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Добрин Данев",
           "note": "multilingual"
         },
         {
@@ -22663,6 +24551,10 @@
         {
           "identifier": "1506",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409484",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1506.png",
@@ -22671,11 +24563,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1506.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Валентин_Радев"
+        }
+      ],
       "name": "ВАЛЕНТИН ИВАНОВ РАДЕВ",
       "other_names": [
         {
+          "name": "Валентин Радев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ВАЛЕНТИН ИВАНОВ РАДЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Валентин Радев",
           "note": "multilingual"
         },
         {
@@ -22745,6 +24652,10 @@
         {
           "identifier": "153",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409315",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/153.png",
@@ -22753,11 +24664,26 @@
           "url": "http://www.parliament.bg/images/Assembly/153.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Кирил_Добрев_(политик,_р._1972)"
+        }
+      ],
       "name": "КИРИЛ НИКОЛАЕВ ДОБРЕВ",
       "other_names": [
         {
+          "name": "Кирил Добрев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "КИРИЛ НИКОЛАЕВ ДОБРЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Кирил Добрев",
           "note": "multilingual"
         },
         {
@@ -23054,6 +24980,7 @@
     {
       "birth_date": "1942-12-09",
       "gender": "male",
+      "given_name": "Stephan",
       "id": "77c082f7-55dc-402f-84c6-8154f1018c3f",
       "identifiers": [
         {
@@ -23061,26 +24988,155 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "196683",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/06r997",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nm0199102",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "n85249494",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "712",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "11294120",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q600326",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/712.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/712.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Stefan_Danailov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Стефан_Данаилов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Стефан_Данаилов"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Stefan_Danailov"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stefan_Danailov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Stefan_Danailov"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Stephan_Danailov"
+        },
+        {
+          "note": "Wikipedia (kk)",
+          "url": "https://kk.wikipedia.org/wiki/Стефан_Данаилов"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Stefan_Danaiłow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Данаилов,_Стефан"
         }
       ],
       "name": "СТЕФАН ЛАМБОВ ДАНАИЛОВ",
       "other_names": [
+        {
+          "name": "Стефан Данаилов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "СТЕФАН ЛАМБОВ ДАНАИЛОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Стефан Данаилов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "STEFAN LAMBOV DANAILOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stefan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Stefan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stefan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Stefan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Stephan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Стефан Данаилов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Stefan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stefan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Stefan Danailov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Stefan Danaiłow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Данаилов, Стефан",
           "note": "multilingual"
         }
       ]
@@ -23376,6 +25432,10 @@
         {
           "identifier": "884",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12275084",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/884.png",
@@ -23384,11 +25444,26 @@
           "url": "http://www.parliament.bg/images/Assembly/884.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Венцислав_Лаков"
+        }
+      ],
       "name": "ВЕНЦИСЛАВ АСЕНОВ ЛАКОВ",
       "other_names": [
         {
+          "name": "Венцислав Лаков",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ВЕНЦИСЛАВ АСЕНОВ ЛАКОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Венцислав Лаков",
           "note": "multilingual"
         },
         {
@@ -23434,6 +25509,8 @@
     },
     {
       "birth_date": "1949-12-23",
+      "gender": "male",
+      "given_name": "Ivan",
       "id": "79adffe9-2e5c-453b-b051-4a02c491b158",
       "identifiers": [
         {
@@ -23441,26 +25518,280 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/03n5y6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "13225381X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2006082317",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000022165",
+          "scheme": "munzinger"
+        },
+        {
           "identifier": "378",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "139008489",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "15926231",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q362129",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/378.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/378.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Ivan_kostov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Иван_Костов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Иван_Костов"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Iwan_Kostow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/ایوان_کوستوف"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/איוואן_קוסטוב"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이반_코스토프"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ioannes_Kostov"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Иван_Костов"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ivan_Kostov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Iwan_Kostow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Костов,_Иван"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/İvan_Kostov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Іван_Костов"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Іван_Костов"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/伊万·科斯托夫"
         }
       ],
       "name": "ИВАН ЙОРДАНОВ КОСТОВ",
       "other_names": [
+        {
+          "name": "Иван Костов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ИВАН ЙОРДАНОВ КОСТОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Иван Костов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Iwan Kostow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "IVAN IORDANOV KOSTOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ایوان کوستوف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "איוון קוסטוב",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イヴァン・コストフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "이반 코스토프",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Ioannes Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Иван Костов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Iwan Kostow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Костов, Иван Йорданов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Ivan Kostov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Іван Костов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊万·科斯托夫",
           "note": "multilingual"
         }
       ]
@@ -24126,6 +26457,10 @@
         {
           "identifier": "1510",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409410",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1510.png",
@@ -24134,11 +26469,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1510.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Атанас_Мерджанов"
+        }
+      ],
       "name": "АТАНАС ТОДОРОВ МЕРДЖАНОВ",
       "other_names": [
         {
+          "name": "Атанас Мерджанов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "АТАНАС ТОДОРОВ МЕРДЖАНОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Атанас Мерджанов",
           "note": "multilingual"
         },
         {
@@ -24399,26 +26749,136 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "4591",
+          "scheme": "pace"
+        },
+        {
           "identifier": "415",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q3385514",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/415.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/415.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lutfi_Mestan_Chairman_of_DPS.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Лютви_Местан"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lyutvi_Mestan"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lioutvi_Mestan"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Lutwi_Mestan"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Lyutvi_Mestan"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Lütfi_Mestan"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Лютві_Местан"
         }
       ],
       "name": "ЛЮТВИ АХМЕД МЕСТАН",
       "other_names": [
+        {
+          "name": "Лютви Местан",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЛЮТВИ АХМЕД МЕСТАН",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Лютви Местан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lyutvi Mestan",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "LIUTVI AHMED MESTAN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lyutvi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lyutvi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lioutvi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lyutvi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リュトヴィ・メスタン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ljutvi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lyutvi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ljutvi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lutwi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Lütfi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Лютві Местан",
           "note": "multilingual"
         }
       ]
@@ -25507,6 +27967,7 @@
         }
       ],
       "email": "chkirchev@hotmail.com",
+      "gender": "male",
       "id": "834f5807-90d9-4c98-983e-2d50791a2092",
       "identifiers": [
         {
@@ -25516,6 +27977,10 @@
         {
           "identifier": "631",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12298325",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/631.png",
@@ -25524,11 +27989,26 @@
           "url": "http://www.parliament.bg/images/Assembly/631.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Христо_Кирчев"
+        }
+      ],
       "name": "ХРИСТО ЙОРДАНОВ КИРЧЕВ",
       "other_names": [
         {
+          "name": "Христо Кирчев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ХРИСТО ЙОРДАНОВ КИРЧЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Христо Кирчев",
           "note": "multilingual"
         },
         {
@@ -26885,6 +29365,7 @@
     },
     {
       "birth_date": "1953-05-13",
+      "gender": "male",
       "id": "88eaed59-8330-4b65-9f15-929c026f5371",
       "identifiers": [
         {
@@ -26894,6 +29375,10 @@
         {
           "identifier": "286",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12272419",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/286.png",
@@ -26902,11 +29387,26 @@
           "url": "http://www.parliament.bg/images/Assembly/286.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Асен_Гагаузов"
+        }
+      ],
       "name": "АСЕН ДИМИТРОВ ГАГАУЗОВ",
       "other_names": [
         {
+          "name": "Асен Гагаузов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "АСЕН ДИМИТРОВ ГАГАУЗОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Асен Гагаузов",
           "note": "multilingual"
         },
         {
@@ -27158,6 +29658,7 @@
     {
       "birth_date": "1960-06-16",
       "gender": "male",
+      "given_name": "Michail",
       "id": "89c7e13d-533e-4e59-90b7-42eb6739b8dd",
       "identifiers": [
         {
@@ -27165,26 +29666,116 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0vxgnr3",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "424",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q11778487",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/424.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/424.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/MihailMikov3.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Михаил_Миков"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Михаил_Миков"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mihail_Mikov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mihaïl_Mikov"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Michail_Mikov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Michaił_Mikow"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Михаїл_Міков"
         }
       ],
       "name": "МИХАИЛ РАЙКОВ МИКОВ",
       "other_names": [
+        {
+          "name": "Михаил Миков",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МИХАИЛ РАЙКОВ МИКОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Михаил Миков",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MIHAIL RAIKOV MIKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mihail Mikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mihail Mikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mihaïl Mikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mihail Mikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ミハイル・ミコフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Michail Mikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Michaił Mikow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Міхаіл Міков",
           "note": "multilingual"
         }
       ]
@@ -27440,6 +30031,7 @@
     {
       "birth_date": "1946-10-29",
       "gender": "male",
+      "given_name": "Borislav",
       "id": "8c107c64-ef79-446a-aeff-d347d36e50e7",
       "identifiers": [
         {
@@ -27449,6 +30041,10 @@
         {
           "identifier": "588",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q9177631",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/588.png",
@@ -27457,16 +30053,63 @@
           "url": "http://www.parliament.bg/images/Assembly/588.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Борислав_Великов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Борислав_Великов"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Borisław_Welikow"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Борислав_Великов"
+        }
+      ],
       "name": "БОРИСЛАВ ЛЮБЕНОВ ВЕЛИКОВ",
       "other_names": [
+        {
+          "name": "Борислав Великов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "БОРИСЛАВ ЛЮБЕНОВ ВЕЛИКОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Борислав Великов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "BORISLAV LIUBENOV VELIKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "borislav velikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "borislav velikov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Borisław Welikow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Борислав Великов",
           "note": "multilingual"
         }
       ]
@@ -28803,6 +31446,7 @@
     },
     {
       "birth_date": "1962-05-22",
+      "gender": "male",
       "id": "91a2f29c-6a54-478f-ba08-5ff3cea2b831",
       "identifiers": [
         {
@@ -28812,6 +31456,10 @@
         {
           "identifier": "571",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409553",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/571.png",
@@ -28820,11 +31468,26 @@
           "url": "http://www.parliament.bg/images/Assembly/571.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Юнал_Тасим"
+        }
+      ],
       "name": "ЮНАЛ ТАСИМ ТАСИМ",
       "other_names": [
         {
+          "name": "Юнал Тасим",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЮНАЛ ТАСИМ ТАСИМ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Юнал Тасим",
           "note": "multilingual"
         },
         {
@@ -28911,21 +31574,273 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/071zxh",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "15735783X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7910 155X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2005045213",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "js20061103026",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "190",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "44030375",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q351040",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/190.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/190.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Volen_Siderov03.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Волен_Сидеров"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Волен_Сидеров"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wolen_Siderow"
+        },
+        {
+          "note": "Wikipedia (dewikiquote)",
+          "url": "https://dewikiquote.wikipedia.org/wiki/Wolen_Siderow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Volen_Nikolov_Siderov"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Волен_Сидеров"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Wolen_Siderow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сидеров,_Волен"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Волен_Сидеров"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Волен_Сидеров"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Volen_Siderov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Волен_Сидеров"
         }
       ],
       "name": "ВОЛЕН НИКОЛОВ СИДЕРОВ",
       "other_names": [
         {
+          "name": "Волен Сидеров",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ВОЛЕН НИКОЛОВ СИДЕРОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Волен Сидеров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wolen Siderow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Volen Nikolov Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヴォーレン・シデロフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Волен Сидеров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wolen Siderow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сидеров, Волен Николов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Волен Сидеров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Волен Сидеров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Волен Сидеров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Volen Siderov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Волен Сидеров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "沃伦·锡德罗夫",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "沃倫·錫德羅夫",
           "note": "multilingual"
         }
       ]
@@ -29104,6 +32019,10 @@
         {
           "identifier": "1003",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12278288",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1003.png",
@@ -29112,11 +32031,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1003.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Димитър_Главчев"
+        }
+      ],
       "name": "ДИМИТЪР БОРИСОВ ГЛАВЧЕВ",
       "other_names": [
         {
+          "name": "Димитър Главчев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ДИМИТЪР БОРИСОВ ГЛАВЧЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Димитър Главчев",
           "note": "multilingual"
         },
         {
@@ -29736,6 +32670,7 @@
         }
       ],
       "email": "milenveltchev@yahoo.co.uk",
+      "gender": "male",
       "id": "95d1203a-e1a6-429c-bac6-130bb53dfd34",
       "identifiers": [
         {
@@ -29743,26 +32678,113 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/07dc4j",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "560",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q504776",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/560.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/560.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Milen_Velchev.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Милен_Велчев"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Милен_Велчев"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Milen_Weltschew"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milen_Veltchev"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Milen_Wełczew"
         }
       ],
       "name": "МИЛЕН ЕМИЛОВ ВЕЛЧЕВ",
       "other_names": [
+        {
+          "name": "Милен Велчев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МИЛЕН ЕМИЛОВ ВЕЛЧЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Милен Велчев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Milen Weltschew",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MILEN EMILOV VELCHEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Milen Veltchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Milen Veltchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Milen Veltchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Milen Veltchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Milen Veltsjev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Milen Veltchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Milen Veltsjev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Milen Wełczew",
           "note": "multilingual"
         }
       ]
@@ -31004,6 +34026,7 @@
         }
       ],
       "email": "spassovm@abv.bg",
+      "gender": "male",
       "id": "9b20ba1f-6d14-456c-bf86-099a99f0aac7",
       "identifiers": [
         {
@@ -31013,19 +34036,41 @@
         {
           "identifier": "763",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12286884",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/763.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/763.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mincho_Spassov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Минчо_Спасов"
         }
       ],
       "name": "МИНЧО ВИКТОРОВ СПАСОВ",
       "other_names": [
         {
+          "name": "Минчо Спасов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "МИНЧО ВИКТОРОВ СПАСОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Минчо Спасов",
           "note": "multilingual"
         }
       ]
@@ -31957,6 +35002,10 @@
         {
           "identifier": "814",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12277871",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/814.png",
@@ -31965,16 +35014,50 @@
           "url": "http://www.parliament.bg/images/Assembly/814.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Деница_Гаджева"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Denitsa_Gadzheva"
+        }
+      ],
       "name": "ДЕНИЦА СТОИЛОВА ГАДЖЕВА",
       "other_names": [
+        {
+          "name": "Деница Гаджева",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ДЕНИЦА СТОИЛОВА ГАДЖЕВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Деница Гаджева",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "DENITSA STOILOVA GADZEVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Denitsa Gadzheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Denitsa Gadzheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Denitsa Gadzheva",
           "note": "multilingual"
         }
       ]
@@ -32847,6 +35930,10 @@
         {
           "identifier": "129",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12272323",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/129.png",
@@ -32855,11 +35942,26 @@
           "url": "http://www.parliament.bg/images/Assembly/129.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ариф_Агуш"
+        }
+      ],
       "name": "АРИФ САМИ АГУШ",
       "other_names": [
         {
+          "name": "Ариф Агуш",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "АРИФ САМИ АГУШ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Ариф Агуш",
           "note": "multilingual"
         },
         {
@@ -32945,6 +36047,7 @@
       ],
       "email": "desislava.atanasova@parliament.bg",
       "gender": "female",
+      "given_name": "Desislava",
       "id": "a8352793-f5c3-4784-a76e-4237262a7013",
       "identifiers": [
         {
@@ -32954,6 +36057,10 @@
         {
           "identifier": "975",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q3024453",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/975.png",
@@ -32962,16 +36069,54 @@
           "url": "http://www.parliament.bg/images/Assembly/975.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Десислава_Атанасова"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Desislava_Atanasova"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Desisława_Atanasowa"
+        }
+      ],
       "name": "ДЕСИСЛАВА ВЪЛЧЕВА АТАНАСОВА",
       "other_names": [
+        {
+          "name": "Десислава Атанасова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ДЕСИСЛАВА ВЪЛЧЕВА АТАНАСОВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Десислава Атанасова",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "DESISLAVA VALCHEVA ATANASOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Desislava Atanasova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Desislava Atanasova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Desisława Atanasowa",
           "note": "multilingual"
         }
       ]
@@ -33070,6 +36215,10 @@
         {
           "identifier": "799",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409453",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/799.png",
@@ -33078,11 +36227,26 @@
           "url": "http://www.parliament.bg/images/Assembly/799.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Муса_Палев"
+        }
+      ],
       "name": "МУСА ДЖЕМАЛ ПАЛЕВ",
       "other_names": [
         {
+          "name": "Муса Палев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "МУСА ДЖЕМАЛ ПАЛЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Муса Палев",
           "note": "multilingual"
         },
         {
@@ -33101,6 +36265,8 @@
         }
       ],
       "email": "kamov@mail.bg",
+      "gender": "male",
+      "given_name": "Nikolai",
       "id": "a9413762-dcff-4a95-81f0-39191a920a38",
       "identifiers": [
         {
@@ -33110,6 +36276,10 @@
         {
           "identifier": "437",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q7035819",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/437.png",
@@ -33118,16 +36288,55 @@
           "url": "http://www.parliament.bg/images/Assembly/437.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Николай_Камов"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikolai_Kamov"
+        }
+      ],
       "name": "НИКОЛАЙ ГЕОРГИЕВ КАМОВ",
       "other_names": [
+        {
+          "name": "Николай Камов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "НИКОЛАЙ ГЕОРГИЕВ КАМОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Николай Камов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "NIKOLAI GEORGIEV KAMOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolai Kamov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nikolai Kamov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nikolai Kamov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolai Kamov",
           "note": "multilingual"
         }
       ]
@@ -33898,6 +37107,10 @@
         {
           "identifier": "240",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12285322",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/240.png",
@@ -33906,11 +37119,26 @@
           "url": "http://www.parliament.bg/images/Assembly/240.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Лъчезар_Иванов"
+        }
+      ],
       "name": "ЛЪЧЕЗАР БОГОМИЛОВ ИВАНОВ",
       "other_names": [
         {
+          "name": "Лъчезар Иванов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЛЪЧЕЗАР БОГОМИЛОВ ИВАНОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Лъчезар Иванов",
           "note": "multilingual"
         },
         {
@@ -34614,24 +37842,69 @@
         {
           "identifier": "839",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12283736",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/839.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/839.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kornelia_Ninova_in_2013.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Корнелия_Нинова"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Korneliya_Ninova"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Kornelija_Ninowa"
         }
       ],
       "name": "КОРНЕЛИЯ ПЕТРОВА НИНОВА",
       "other_names": [
+        {
+          "name": "Корнелия Нинова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "КОРНЕЛИЯ ПЕТРОВА НИНОВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Корнелия Нинова",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "KORNELIYA PETROVA NINOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Korneliya Ninova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Korneliya Ninova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Kornelija Ninowa",
           "note": "multilingual"
         }
       ]
@@ -34894,26 +38167,257 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0kt0w6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "103022921X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2009157693",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "vhfe2urgmjwz",
+          "scheme": "parlement"
+        },
+        {
           "identifier": "691",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "167084724",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q234346",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/691.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/691.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Meglena_Kuneva_2013.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Меглена_Кунева"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Меглена_Кунева"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Meglena_Kunevová"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Meglena_Kunewa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Meglena_Kouneva"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Մեգլենա_Կունևա"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Meglena_Koeneva"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Meglena_Kunewa"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кунева,_Меглена"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Meglena_Kuneva"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Меглена_Кунєва"
+        },
+        {
+          "note": "website",
+          "url": "http://ec.europa.eu/commission_barroso/kuneva/index_en.htm"
         }
       ],
       "name": "МЕГЛЕНА ЩИЛИЯНОВА КУНЕВА",
       "other_names": [
+        {
+          "name": "Меглена Кунева",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МЕГЛЕНА ЩИЛИЯНОВА КУНЕВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Меглена Кунева",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Meglena Kunevová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Meglena Kunewa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MEGLENA STILIANOVA KUNEVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Meglena Kouneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Մեգլենա Կունևա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Meglena Koeneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Meglena Kunewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кунева, Меглена Штилиянова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Meglena Kuneva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Меглена Кунєва",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "梅格萊娜·庫內娃",
           "note": "multilingual"
         }
       ]
@@ -35055,6 +38559,10 @@
         {
           "identifier": "980",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12293288",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/980.png",
@@ -35063,11 +38571,26 @@
           "url": "http://www.parliament.bg/images/Assembly/980.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Светлана_Найденова"
+        }
+      ],
       "name": "СВЕТЛАНА АНГЕЛОВА НАЙДЕНОВА",
       "other_names": [
         {
+          "name": "Светлана Найденова",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "СВЕТЛАНА АНГЕЛОВА НАЙДЕНОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Светлана Найденова",
           "note": "multilingual"
         },
         {
@@ -35219,6 +38742,7 @@
     {
       "birth_date": "1965-05-04",
       "gender": "female",
+      "given_name": "Maya",
       "id": "b4ed6538-92a1-45bc-820d-ce11eb4b4ff3",
       "identifiers": [
         {
@@ -35228,6 +38752,10 @@
         {
           "identifier": "59",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12286345",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/59.png",
@@ -35236,16 +38764,54 @@
           "url": "http://www.parliament.bg/images/Assembly/59.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Мая_Манолова"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Мая_Манолова"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maya_Manolova"
+        }
+      ],
       "name": "МАЯ БОЖИДАРОВА МАНОЛОВА",
       "other_names": [
+        {
+          "name": "Мая Манолова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "МАЯ БОЖИДАРОВА МАНОЛОВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Мая Манолова",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "MAYA BOZHIDAROVA MANOLOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maya Manolova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maya Manolova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maya Manolova",
           "note": "multilingual"
         }
       ]
@@ -35685,6 +39251,7 @@
     {
       "birth_date": "1953-01-24",
       "gender": "male",
+      "given_name": "Hassan",
       "id": "b7cec620-2103-4c12-9074-4663c59f566e",
       "identifiers": [
         {
@@ -35694,6 +39261,10 @@
         {
           "identifier": "1482",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12297977",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1482.png",
@@ -35702,16 +39273,72 @@
           "url": "http://www.parliament.bg/images/Assembly/1482.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Хасан_Адемов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Хасан_Адемов"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hassan_Ademov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hassan_Ademov"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Hassan_Ademov"
+        }
+      ],
       "name": "ХАСАН АХМЕД АДЕМОВ",
       "other_names": [
+        {
+          "name": "Хасан Адемов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ХАСАН АХМЕД АДЕМОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Хасан Адемов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "HASAN AHMED ADEMOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hassan Ademov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hassan Ademov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hassan Ademov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Hassan Ademov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hassan Ademov",
           "note": "multilingual"
         }
       ]
@@ -36789,6 +40416,10 @@
         {
           "identifier": "1021",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12284006",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1021.png",
@@ -36797,11 +40428,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1021.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Красимир_Велчев"
+        }
+      ],
       "name": "КРАСИМИР ЛЮБОМИРОВ ВЕЛЧЕВ",
       "other_names": [
         {
+          "name": "Красимир Велчев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "КРАСИМИР ЛЮБОМИРОВ ВЕЛЧЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Красимир Велчев",
           "note": "multilingual"
         },
         {
@@ -37276,7 +40922,7 @@
         }
       ],
       "email": "p.raeva@parliament.bg",
-      "gender": "female",
+      "gender": "male",
       "id": "c0594533-68d0-45df-ab27-720365a9c00f",
       "identifiers": [
         {
@@ -37286,6 +40932,10 @@
         {
           "identifier": "965",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12290659",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/965.png",
@@ -37294,11 +40944,26 @@
           "url": "http://www.parliament.bg/images/Assembly/965.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Петя_Раева"
+        }
+      ],
       "name": "ПЕТЯ НИКОЛОВА РАЕВА",
       "other_names": [
         {
+          "name": "Петя Раева",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ПЕТЯ НИКОЛОВА РАЕВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Петя Раева",
           "note": "multilingual"
         },
         {
@@ -38257,6 +41922,10 @@
         {
           "identifier": "977",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409259",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/977.png",
@@ -38265,11 +41934,26 @@
           "url": "http://www.parliament.bg/images/Assembly/977.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Любомир_Владимиров"
+        }
+      ],
       "name": "ЛЮБОМИР ВЛАДИМИРОВ ВЛАДИМИРОВ",
       "other_names": [
         {
+          "name": "Любомир Владимиров",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЛЮБОМИР ВЛАДИМИРОВ ВЛАДИМИРОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Любомир Владимиров",
           "note": "multilingual"
         },
         {
@@ -39353,12 +43037,24 @@
       "id": "cab23441-6bd9-4bba-af22-a4348d6f5fa1",
       "identifiers": [
         {
+          "identifier": "34251",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "1496",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/027gkv4",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1496",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q3623393",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1496.png",
@@ -39367,16 +43063,87 @@
           "url": "http://www.parliament.bg/images/Assembly/1496.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Четин_Казак"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Четин_Казак"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chetin_Kazak"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Czetin_Kazak"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cetin_Kazak"
+        }
+      ],
       "name": "ЧЕТИН ХЮСЕИН КАЗАК",
       "other_names": [
+        {
+          "name": "Четин Казак",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЧЕТИН ХЮСЕИН КАЗАК",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Четин Казак",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tchetin Kazak",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "TCHETIN HIUSSEIN KAZAK",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tchetin Kazak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tchetin Kazak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tchetin Kazak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tchetin Kazak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tchetin Kazak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Czetin Kazak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Cetin Kazak",
           "note": "multilingual"
         }
       ]
@@ -39777,6 +43544,10 @@
         {
           "identifier": "330",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12276308",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/330.png",
@@ -39785,11 +43556,26 @@
           "url": "http://www.parliament.bg/images/Assembly/330.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Георги_Божинов"
+        }
+      ],
       "name": "ГЕОРГИ ТОДОРОВ БОЖИНОВ",
       "other_names": [
         {
+          "name": "Георги Божинов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ГЕОРГИ ТОДОРОВ БОЖИНОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Георги Божинов",
           "note": "multilingual"
         },
         {
@@ -39818,6 +43604,10 @@
         {
           "identifier": "1019",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q15987050",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1019.png",
@@ -39828,6 +43618,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Петър_Курумбашев"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Petyr_Kurumbaszew"
+        },
+        {
           "note": "website",
           "url": "www.peterkouroumbashev.com"
         }
@@ -39835,13 +43633,27 @@
       "name": "ПЕТЪР АТАНАСОВ КУРУМБАШЕВ",
       "other_names": [
         {
+          "name": "Петър Курумбашев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ПЕТЪР АТАНАСОВ КУРУМБАШЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Петър Курумбашев",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "PETER ATANASSOV KOUROUMBASHEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Petyr Kurumbaszew",
           "note": "multilingual"
         }
       ]
@@ -40503,6 +44315,10 @@
         {
           "identifier": "1114",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12278063",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1114.png",
@@ -40511,11 +44327,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1114.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Диана_Йорданова"
+        }
+      ],
       "name": "ДИАНА ИВАНОВА ЙОРДАНОВА",
       "other_names": [
         {
+          "name": "Диана Йорданова",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ДИАНА ИВАНОВА ЙОРДАНОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Диана Йорданова",
           "note": "multilingual"
         },
         {
@@ -40544,6 +44375,10 @@
         {
           "identifier": "1556",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12279019",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1556.png",
@@ -40552,11 +44387,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1556.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Дончо_Баксанов"
+        }
+      ],
       "name": "ДОНЧО СПАСОВ БАКСАНОВ",
       "other_names": [
         {
+          "name": "Дончо Баксанов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ДОНЧО СПАСОВ БАКСАНОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Дончо Баксанов",
           "note": "multilingual"
         },
         {
@@ -40778,6 +44628,7 @@
         }
       ],
       "email": "ivoat12@hotmail.com",
+      "gender": "male",
       "id": "d3563e45-0a90-4796-9344-d20fdc7b7e9d",
       "identifiers": [
         {
@@ -40787,6 +44638,10 @@
         {
           "identifier": "386",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12281363",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/386.png",
@@ -40795,11 +44650,30 @@
           "url": "http://www.parliament.bg/images/Assembly/386.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Иво_Атанасов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Иво_Атанасов"
+        }
+      ],
       "name": "ИВО ПЪРВАНОВ АТАНАСОВ",
       "other_names": [
         {
+          "name": "Иво Атанасов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ИВО ПЪРВАНОВ АТАНАСОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Иво Атанасов",
           "note": "multilingual"
         },
         {
@@ -40960,6 +44834,8 @@
         }
       ],
       "email": "svinarov@mail.hol.bg",
+      "gender": "male",
+      "given_name": "Nikolay",
       "id": "d539c6ca-4e0a-44f5-b0ae-aa2d651fba8f",
       "identifiers": [
         {
@@ -40967,8 +44843,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/012lb4z1",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "656",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q1540417",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/656.png",
@@ -40977,16 +44861,82 @@
           "url": "http://www.parliament.bg/images/Assembly/656.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Николай_Свинаров"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Николай_Свинаров"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nikolaj_Swinarow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikolay_Svinarov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nikołaj_Swinarow"
+        }
+      ],
       "name": "НИКОЛАЙ АВРАМОВ СВИНАРОВ",
       "other_names": [
+        {
+          "name": "Николай Свинаров",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "НИКОЛАЙ АВРАМОВ СВИНАРОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Николай Свинаров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nikolaj Swinarow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "NIKOLAI AVRAMOV SVINAROV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolay Svinarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nikolaj Swinarow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolaj Svinarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolay Svinarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikolaj Svinarov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nikołaj Swinarow",
           "note": "multilingual"
         }
       ]
@@ -42521,6 +46471,14 @@
         {
           "identifier": "1518",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "102628517",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q17409260",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1518.png",
@@ -42529,16 +46487,73 @@
           "url": "http://www.parliament.bg/images/Assembly/1518.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Веселин_Вучков"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Veselin_Vuchkov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vesselin_Voutchkov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Weselin_Wuczkow"
+        }
+      ],
       "name": "ВЕСЕЛИН БОРИСЛАВОВ ВУЧКОВ",
       "other_names": [
+        {
+          "name": "Веселин Вучков",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ВЕСЕЛИН БОРИСЛАВОВ ВУЧКОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Веселин Вучков",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "VESELIN BORISLAVOV VUCHKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Veselin Vuchkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vesselin Borislavov Voutchkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Veselin Vutsjkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Veselin Vuchkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Veselin Vutsjkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Weselin Wuczkow",
           "note": "multilingual"
         }
       ]
@@ -44201,15 +48216,44 @@
       ],
       "email": "bat_slavko@abv.bg",
       "gender": "male",
+      "given_name": "Stanislav",
       "id": "e92a2367-89b5-4646-8189-90b5ced72eda",
       "identifiers": [
+        {
+          "identifier": "15855674p",
+          "scheme": "bnf"
+        },
         {
           "identifier": "223",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1028055102",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8369 8360",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n85354679",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "223",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "073680664",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "32331479",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2331219",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/223.png",
@@ -44218,16 +48262,64 @@
           "url": "http://www.parliament.bg/images/Assembly/223.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Станислав_Станилов"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Stanislaw_Stanilow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stanislav_Stanilov"
+        }
+      ],
       "name": "СТАНИСЛАВ ТОДОРОВ СТАНИЛОВ",
       "other_names": [
+        {
+          "name": "Станислав Станилов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "СТАНИСЛАВ ТОДОРОВ СТАНИЛОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Станислав Станилов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Stanislaw Stanilow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "STANISLAV TODOROV STANILOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stanislav Stanilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Stanislav Todorov Stanilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stanislaw Stanilow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stanislav Todorov Stanilov",
           "note": "multilingual"
         }
       ]
@@ -44389,33 +48481,143 @@
     },
     {
       "birth_date": "1962-08-09",
+      "gender": "female",
+      "given_name": "Nadezhda",
       "id": "eb6a9337-3912-491b-8c9d-157bd443a48a",
       "identifiers": [
+        {
+          "identifier": "96861",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "430",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0cm91ms",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "430",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q432093",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/430.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/430.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nadezhda_Mihailova.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Надежда_Михайлова"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Надежда_Михайлова"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nadeschda_Nejnski"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nadezhda_Neynsky"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Nadezhda_Neynski"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nadezhda_Neynsky"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Nadezjda_Nejnski"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nadeżda_Nejnski"
         }
       ],
       "name": "НАДЕЖДА НИКОЛОВА МИХАЙЛОВА",
       "other_names": [
+        {
+          "name": "Надежда Михайлова",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "НАДЕЖДА НИКОЛОВА МИХАЙЛОВА",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Надежда Михайлова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nadeschda Nejnski",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "NADEJDA NIKOLOVA MIHAILOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nadezhda Mihailova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nadezhda Neynsky",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Nadezhda Neynski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nadezhda Mihailova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nadezhda Neynsky",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nadezjda Mikhajlova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nadezjda Nejnski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nadezjda Mikhajlova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nadeżda Nejnski",
           "note": "multilingual"
         }
       ]
@@ -44654,24 +48856,74 @@
         {
           "identifier": "1057",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q785450",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1057.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/1057.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Delyan_Dobrev.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Делян_Добрев"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Delian_Dobrev"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Delan_Dobrew"
         }
       ],
       "name": "ДЕЛЯН АЛЕКСАНДРОВ ДОБРЕВ",
       "other_names": [
+        {
+          "name": "Делян Добрев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ДЕЛЯН АЛЕКСАНДРОВ ДОБРЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Делян Добрев",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "DELIAN ALEXANDROV DOBREV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Delian Dobrev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Delian Dobrev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Delian Dobrev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Delan Dobrew",
           "note": "multilingual"
         }
       ]
@@ -44989,15 +49241,28 @@
         }
       ],
       "email": "ekirilov@nt52.parliament.bg",
+      "gender": "male",
       "id": "edc0b74d-a790-47d9-8541-cda0f6c81524",
       "identifiers": [
+        {
+          "identifier": "34231",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "352",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/027gkvh",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "352",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q944009",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/352.png",
@@ -45006,16 +49271,106 @@
           "url": "http://www.parliament.bg/images/Assembly/352.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Евгени_Кирилов"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ewgeni_Kirilow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Evgeni_Kirilov"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Evgeni_Kirilov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ewgeni_Kiriłow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Evgheni_Kirilov"
+        }
+      ],
       "name": "ЕВГЕНИ ЗАХАРИЕВ КИРИЛОВ",
       "other_names": [
+        {
+          "name": "Евгени Кирилов",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ЕВГЕНИ ЗАХАРИЕВ КИРИЛОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Евгени Кирилов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ewgeni Kirilow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "EVGENI ZAHARIEV KIRILOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Evgeni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Evgeni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Evgeni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Evgeni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Evgeni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Evgeni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Evgeni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ewgeni Kiriłow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Evgheni Kirilov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊夫傑尼·克里洛夫",
           "note": "multilingual"
         }
       ]
@@ -45294,6 +49649,10 @@
         {
           "identifier": "1596",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409314",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1596.png",
@@ -45302,11 +49661,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1596.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Кирил_Добрев_(политик,_р._1960)"
+        }
+      ],
       "name": "КИРИЛ ДОБРЕВ ДОБРЕВ",
       "other_names": [
         {
+          "name": "Кирил Добрев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "КИРИЛ ДОБРЕВ ДОБРЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Кирил Добрев",
           "note": "multilingual"
         },
         {
@@ -45326,6 +49700,7 @@
       ],
       "email": "dragomir.stoynev@parliament.bg",
       "gender": "male",
+      "given_name": "Dragomir",
       "id": "f085117e-95d7-4d37-9dc7-3ce58b6b1838",
       "identifiers": [
         {
@@ -45335,6 +49710,10 @@
         {
           "identifier": "1033",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q15732371",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1033.png",
@@ -45343,16 +49722,60 @@
           "url": "http://www.parliament.bg/images/Assembly/1033.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Драгомир_Стойнев"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dragomir_Stoïnev"
+        }
+      ],
       "name": "ДРАГОМИР ВЕЛКОВ СТОЙНЕВ",
       "other_names": [
+        {
+          "name": "Драгомир Стойнев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "ДРАГОМИР ВЕЛКОВ СТОЙНЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Драгомир Стойнев",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "DRAGOMIR VELKOV STOYNEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dragomir Stoïnev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dragomir Stoïnev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dragomir Stojnev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragomir Stoïnev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dragomir Stojnev",
           "note": "multilingual"
         }
       ]
@@ -45376,6 +49799,10 @@
         {
           "identifier": "1678",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q19203866",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1678.png",
@@ -45384,11 +49811,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1678.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Николай_Александров_(политик,_р._1986)"
+        }
+      ],
       "name": "НИКОЛАЙ ВЕСЕЛИНОВ АЛЕКСАНДРОВ",
       "other_names": [
         {
+          "name": "Николай Александров",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "НИКОЛАЙ ВЕСЕЛИНОВ АЛЕКСАНДРОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Николай Александров",
           "note": "multilingual"
         },
         {
@@ -45481,6 +49923,7 @@
         }
       ],
       "email": "prosvetlenie@dir.bg",
+      "gender": "female",
       "id": "f17110de-cb56-4482-8c4d-30278c6f3fe1",
       "identifiers": [
         {
@@ -45490,6 +49933,10 @@
         {
           "identifier": "641",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q16476918",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/641.png",
@@ -45498,11 +49945,30 @@
           "url": "http://www.parliament.bg/images/Assembly/641.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Анелия_Атанасова"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Анелия_Атанасова"
+        }
+      ],
       "name": "АНЕЛИЯ ХРИСТОВА АТАНАСОВА",
       "other_names": [
         {
+          "name": "Анелия Атанасова",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "АНЕЛИЯ ХРИСТОВА АТАНАСОВА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Анелия Атанасова",
           "note": "multilingual"
         },
         {
@@ -45724,19 +50190,41 @@
         {
           "identifier": "1579",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409308",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1579.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/1579.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Zdravko_Dimitrov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Здравко_Димитров_(политик)"
         }
       ],
       "name": "ЗДРАВКО ДИМИТРОВ ДИМИТРОВ",
       "other_names": [
         {
+          "name": "Здравко Димитров Димитров",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЗДРАВКО ДИМИТРОВ ДИМИТРОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Здравко Димитров Димитров",
           "note": "multilingual"
         },
         {
@@ -45758,6 +50246,10 @@
         {
           "identifier": "448",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12290518",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/448.png",
@@ -45766,11 +50258,30 @@
           "url": "http://www.parliament.bg/images/Assembly/448.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Петър_Мутафчиев_(политик)"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Петър_Мутафчиев_(политик)"
+        }
+      ],
       "name": "ПЕТЪР ВАСИЛЕВ МУТАФЧИЕВ",
       "other_names": [
         {
+          "name": "Петър Мутафчиев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ПЕТЪР ВАСИЛЕВ МУТАФЧИЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Петър Мутафчиев",
           "note": "multilingual"
         },
         {
@@ -45823,6 +50334,7 @@
     },
     {
       "birth_date": "1954-02-23",
+      "gender": "male",
       "id": "f47e545a-a281-4bff-a4b1-a0a22e8338d5",
       "identifiers": [
         {
@@ -45832,6 +50344,10 @@
         {
           "identifier": "297",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12273781",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/297.png",
@@ -45840,11 +50356,30 @@
           "url": "http://www.parliament.bg/images/Assembly/297.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Борислав_Китов"
+        },
+        {
+          "note": "Wikipedia (bgwikiquote)",
+          "url": "https://bgwikiquote.wikipedia.org/wiki/Борислав_Китов"
+        }
+      ],
       "name": "БОРИСЛАВ ДИМИТРОВ КИТОВ",
       "other_names": [
         {
+          "name": "Борислав Китов",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "БОРИСЛАВ ДИМИТРОВ КИТОВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Борислав Китов",
           "note": "multilingual"
         },
         {
@@ -46796,6 +51331,10 @@
         {
           "identifier": "398",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12282691",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/398.png",
@@ -46804,11 +51343,26 @@
           "url": "http://www.parliament.bg/images/Assembly/398.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Касим_Дал"
+        }
+      ],
       "name": "КАСИМ ИСМАИЛ ДАЛ",
       "other_names": [
         {
+          "name": "Касим Дал",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "КАСИМ ИСМАИЛ ДАЛ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Касим Дал",
           "note": "multilingual"
         },
         {
