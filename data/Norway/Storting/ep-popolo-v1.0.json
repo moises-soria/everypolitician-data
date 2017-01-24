@@ -44798,6 +44798,7 @@
     },
     {
       "birth_date": "1906-03-29",
+      "death_date": "1999-09-04",
       "family_name": "Helland",
       "gender": "male",
       "given_name": "Ingolv",
@@ -44806,9 +44807,26 @@
         {
           "identifier": "INHE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28481590",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ingolv_Helland_(politician)"
         }
       ],
       "name": "Ingolv Helland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ingolv Helland",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Helland, Ingolv"
     },
     {
