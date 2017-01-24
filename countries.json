@@ -3128,11 +3128,11 @@
         "slug": "Eduskunta",
         "sources_directory": "data/Finland/Eduskunta/sources",
         "popolo": "data/Finland/Eduskunta/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a16a3bd86a6e18a385b94c2697da1ab3a1dd2efe/data/Finland/Eduskunta/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0c8e042f7b782b2f0a0889c684fa236a97fc517f/data/Finland/Eduskunta/ep-popolo-v1.0.json",
         "names": "data/Finland/Eduskunta/names.csv",
-        "lastmod": "1485160374",
+        "lastmod": "1485283533",
         "person_count": 493,
-        "sha": "a16a3bd86a6e18a385b94c2697da1ab3a1dd2efe",
+        "sha": "0c8e042f7b782b2f0a0889c684fa236a97fc517f",
         "legislative_periods": [
           {
             "end_date": "2019",
@@ -3252,7 +3252,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/508c132c626bf367a61c1da2f8390707f50feb7d/data/Finland/Eduskunta/term-25.csv"
           }
         ],
-        "statement_count": 40476,
+        "statement_count": 40482,
         "type": "unicameral legislature"
       }
     ]
