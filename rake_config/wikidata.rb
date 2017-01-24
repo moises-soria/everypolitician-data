@@ -10,3 +10,18 @@ namespace :wikidata do
     rfile.write!(data)
   end
 end
+
+desc 'Report on orphaned Wikidata reconciliation records'
+namespace :wikidata do
+  task :remove_orphans do
+    rfile = (@INSTRUCTIONS.sources_of_type('wikidata').first or next).reconciliation_file
+    known = Everypolitician::Popolo.read('ep-popolo-v1.0.json').persons.map(&:id)
+
+    orphaned = rfile.to_h.values - known
+    next unless orphaned.any?
+
+    puts orphaned
+    rfile.write!(rfile.to_h.reject { |k, v| orphaned.include? v })
+  end
+end
+
