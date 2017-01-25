@@ -16,6 +16,11 @@ ordering = drilldown.reject { |r| r.count < 5 }.
 
 EveryPolitician.countries_json = 'countries.json'
 
+def percentage(x, y)
+  '%0.3f' % (x.to_f / y.to_f)
+end
+
+
 data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
   statsfile = File.join(File.dirname(l.raw_data[:popolo]), 'unstable/stats.json')
   raise "No statsfile for #{l.country.name}/#{l.name}" unless File.exist? statsfile
@@ -32,17 +37,19 @@ data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
     lastmod:             last_build.to_s,
     ago:                 (now - last_build).to_i,
     people:              stats[:people][:count],
-    wikidata:            stats[:people][:wikidata],
+    wikidata_all:        stats[:people][:wikidata],
     parties:             stats[:groups][:count],
     wd_parties:          stats[:groups][:wikidata],
     terms:               l.legislative_periods.count,
     wd_terms:            stats[:terms][:wikidata],
     elections:           stats[:elections][:count],
-    latest_term:         l.legislative_periods.first.raw_data[:start_date],
     latest_election:     stats[:elections][:latest],
-    email:               latest[:contacts][:email].to_f / latest[:count].to_f,
-    twitter:             latest[:contacts][:twitter].to_f / latest[:count].to_f,
-    facebook:            latest[:contacts][:facebook].to_f / latest[:count].to_f,
+    latest_term:         l.legislative_periods.first.raw_data[:start_date],
+    latest_count:        latest[:count],
+    latest_wikidata:     latest[:wikidata],
+    email:               percentage(latest[:contacts][:email], latest[:count]),
+    twitter:             percentage(latest[:contacts][:twitter], latest[:count]),
+    facebook:            percentage(latest[:contacts][:facebook], latest[:count]),
     cabinet:             stats[:positions][:cabinet],
   }
 end.flatten

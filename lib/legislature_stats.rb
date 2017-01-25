@@ -33,9 +33,10 @@ class StatsFile
     current = popolo.latest_term.memberships.map(&:person).uniq(&:id)
     {
       count:       people.count,
-      wikidata:    people_wikidata_partition.first.count,
+      wikidata:    people.select(&:wikidata).count,
       latest_term: {
         count:    current.count,
+        wikidata: current.select(&:wikidata).count,
         contacts: {
           email:    current.select(&:email).count,
           facebook: current.select(&:facebook).count,
@@ -79,10 +80,6 @@ class StatsFile
 
   def people
     popolo.persons
-  end
-
-  def people_wikidata_partition
-    people.partition(&:wikidata)
   end
 
   def known_parties
