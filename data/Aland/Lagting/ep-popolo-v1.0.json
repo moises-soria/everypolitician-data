@@ -3721,11 +3721,20 @@
       ],
       "email": "tony.asumaa@lagtinget.ax",
       "gender": "male",
+      "given_name": "Tony",
       "id": "f4f995ae-126c-468f-8f26-deec1e26adc2",
       "identifiers": [
         {
           "identifier": "372",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0n517cc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2114213",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.lagtinget.ax/files/asumaa_tony.jpg",
@@ -3734,7 +3743,104 @@
           "url": "http://www.lagtinget.ax/files/asumaa_tony.jpg"
         }
       ],
-      "name": "Asumaa Tony"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Tony_Asumaa"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tony_Asumaa"
+        }
+      ],
+      "name": "Asumaa Tony",
+      "other_names": [
+        {
+          "name": "Tony Asumaa",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tony Asumaa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東尼·阿蘇馬",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-09-15",
