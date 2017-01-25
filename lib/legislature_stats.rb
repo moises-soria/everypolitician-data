@@ -36,6 +36,7 @@ class StatsFile
       wikidata:    people.select(&:wikidata).count,
       latest_term: {
         count:    current.count,
+        wikidata: current.select(&:wikidata).count,
         contacts: {
           email:    current.select(&:email).count,
           facebook: current.select(&:facebook).count,
