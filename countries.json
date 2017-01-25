@@ -3442,11 +3442,11 @@
         "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9d33621f3f55702fe5d7eca5972a92524a918781/data/Germany/Bundestag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed8d803687615ef3391bef477d2bd4bfad0192af/data/Germany/Bundestag/ep-popolo-v1.0.json",
         "names": "data/Germany/Bundestag/names.csv",
-        "lastmod": "1485365045",
+        "lastmod": "1485366390",
         "person_count": 3808,
-        "sha": "9d33621f3f55702fe5d7eca5972a92524a918781",
+        "sha": "ed8d803687615ef3391bef477d2bd4bfad0192af",
         "legislative_periods": [
           {
             "id": "term/18",
@@ -3544,7 +3544,7 @@
             "start_date": "1976-12-14",
             "slug": "8",
             "csv": "data/Germany/Bundestag/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ea34f2ec9b8e965f4e2dc2e83dc479befc9124a5/data/Germany/Bundestag/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed8d803687615ef3391bef477d2bd4bfad0192af/data/Germany/Bundestag/term-8.csv"
           },
           {
             "end_date": "1976-12-14",
@@ -3553,7 +3553,7 @@
             "start_date": "1972-12-13",
             "slug": "7",
             "csv": "data/Germany/Bundestag/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9d33621f3f55702fe5d7eca5972a92524a918781/data/Germany/Bundestag/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed8d803687615ef3391bef477d2bd4bfad0192af/data/Germany/Bundestag/term-7.csv"
           },
           {
             "end_date": "1972-12-13",
@@ -3562,7 +3562,7 @@
             "start_date": "1969-10-20",
             "slug": "6",
             "csv": "data/Germany/Bundestag/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9d33621f3f55702fe5d7eca5972a92524a918781/data/Germany/Bundestag/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed8d803687615ef3391bef477d2bd4bfad0192af/data/Germany/Bundestag/term-6.csv"
           },
           {
             "end_date": "1969-10-20",
@@ -3571,7 +3571,7 @@
             "start_date": "1965-10-19",
             "slug": "5",
             "csv": "data/Germany/Bundestag/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9d33621f3f55702fe5d7eca5972a92524a918781/data/Germany/Bundestag/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed8d803687615ef3391bef477d2bd4bfad0192af/data/Germany/Bundestag/term-5.csv"
           },
           {
             "end_date": "1965-10-19",
@@ -3610,7 +3610,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ea34f2ec9b8e965f4e2dc2e83dc479befc9124a5/data/Germany/Bundestag/term-1.csv"
           }
         ],
-        "statement_count": 386248,
+        "statement_count": 386341,
         "type": "unicameral legislature"
       }
     ]
