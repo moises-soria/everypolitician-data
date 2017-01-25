@@ -2452,11 +2452,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Czech_Republic/Deputies/sources",
         "popolo": "data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09201eec947c68ff5b5400eaab39d4ea3bd31615/data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b2f461181d074db63ee3396ee37405fe4076071c/data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
         "names": "data/Czech_Republic/Deputies/names.csv",
-        "lastmod": "1485100107",
+        "lastmod": "1485336796",
         "person_count": 893,
-        "sha": "09201eec947c68ff5b5400eaab39d4ea3bd31615",
+        "sha": "b2f461181d074db63ee3396ee37405fe4076071c",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -2464,7 +2464,7 @@
             "start_date": "2013-10-26",
             "slug": "7",
             "csv": "data/Czech_Republic/Deputies/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b7013318932d7f22d3d390d13ecb8a3833503496/data/Czech_Republic/Deputies/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b2f461181d074db63ee3396ee37405fe4076071c/data/Czech_Republic/Deputies/term-7.csv"
           },
           {
             "end_date": "2013-08-28",
@@ -2518,10 +2518,10 @@
             "start_date": "1992-06-06",
             "slug": "1",
             "csv": "data/Czech_Republic/Deputies/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/55b3a28b24beb349c29759128261bd17e59acf5d/data/Czech_Republic/Deputies/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b2f461181d074db63ee3396ee37405fe4076071c/data/Czech_Republic/Deputies/term-1.csv"
           }
         ],
-        "statement_count": 153815,
+        "statement_count": 153840,
         "type": "lower house"
       }
     ]
