@@ -5828,6 +5828,7 @@
       ],
       "email": "fatmir.mehdiu@parlament.al",
       "gender": "male",
+      "given_name": "Fatmir",
       "id": "8abd2a35-390e-46b5-84b3-8103f022a620",
       "identifiers": [
         {
@@ -5835,17 +5836,52 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02x9v97",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "9743",
           "scheme": "kuvendi"
+        },
+        {
+          "identifier": "Q983272",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.al/wp-content/uploads/2015/12/Fatmir-Mediu-PR.jpg",
       "images": [
         {
           "url": "https://www.parlament.al/wp-content/uploads/2015/12/Fatmir-Mediu-PR.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mediu_-_Rumsfeld_060926-F-5586B-311.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Фатмир_Медиу"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Fatmir_Mediu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fatmir_Mediu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fatmir_Mediu"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Fatmir_Mediu"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Фатмір_Медіу"
+        },
         {
           "note": "website",
           "url": "https://www.parlament.al/deputet/fatmir-mediu/"
@@ -5854,8 +5890,58 @@
       "name": "Fatmir Mehdiu",
       "other_names": [
         {
-          "name": "Fatmir Mehdiu",
+          "name": "Fatmir Mediu",
           "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Фатмир Медиу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Fatmir Mediu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Фатмір Медіу",
+          "note": "multilingual"
         }
       ]
     },
