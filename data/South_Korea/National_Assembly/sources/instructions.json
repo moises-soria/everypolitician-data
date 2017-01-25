@@ -31,8 +31,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name__ko",
-        "existing_field": "name__ko",
+        "incoming_field": "name__en",
+        "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
