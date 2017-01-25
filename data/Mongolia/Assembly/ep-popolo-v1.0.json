@@ -1477,12 +1477,63 @@
       "sort_name": "Sodnomzundui ERDENE"
     },
     {
+      "birth_date": "1971-06-30",
+      "gender": "male",
       "id": "33b59de0-88a4-45fb-b484-6a5efc70bede",
+      "identifiers": [
+        {
+          "identifier": "Q4694716",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Agvaansamdangiin_Sükhbat"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Агваансамдангийн_Сүхбат"
+        },
+        {
+          "note": "Wikipedia (tyv)",
+          "url": "https://tyv.wikipedia.org/wiki/Сүхбат,_Агбаансамдан"
+        }
+      ],
       "name": "Agvaansamdangiin Sükhbat",
       "other_names": [
         {
+          "name": "Агваансамдангийн Сүхбат",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Agvaansamdangiin Sükhbat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Agvaansamdangiin Sükhbat",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Агваансамдагийн Сүхбат",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Агваансамдангийн Сүхбат",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Agvaansamdangiin Sükhbat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tyv",
+          "name": "Сүхбат, Агбаансамдан",
           "note": "multilingual"
         }
       ]
