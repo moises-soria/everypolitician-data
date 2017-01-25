@@ -2233,9 +2233,38 @@
       "name": "Koukeo Akkhamonti"
     },
     {
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "dbd84ea9-ebe4-4971-90da-ff17ad6d3db3",
-      "name": "Saisamone Khomthavong"
+      "identifiers": [
+        {
+          "identifier": "Q7429308",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Saysmone_Khomthavong"
+        }
+      ],
+      "name": "Saisamone Khomthavong",
+      "other_names": [
+        {
+          "name": "Saysmone Khomthavong",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Saysmone Khomthavong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saysmone Khomthavong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "Mr",
