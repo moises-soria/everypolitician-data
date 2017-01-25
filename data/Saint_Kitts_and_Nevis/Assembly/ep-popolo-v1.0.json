@@ -762,11 +762,29 @@
       "name": "Joseph W. Parry"
     },
     {
+      "birth_date": "1953-07-10",
+      "gender": "female",
       "id": "a6386cf6-a19d-4a05-9a40-e87dd6eea17b",
       "identifiers": [
         {
           "identifier": "marcella_liburd",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26716216",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hon._Marcella_Liburd_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hon._Marcella_Liburd_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marcella_Liburd"
         }
       ],
       "name": "Liburd, Marcella",
@@ -774,6 +792,20 @@
         {
           "name": "Marcella Liburd",
           "note": "alternate"
+        },
+        {
+          "name": "Marcella Liburd",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Marcella Liburd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marcella Liburd",
+          "note": "multilingual"
         }
       ]
     },
