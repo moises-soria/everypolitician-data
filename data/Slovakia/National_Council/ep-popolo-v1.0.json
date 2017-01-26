@@ -1974,6 +1974,10 @@
         {
           "identifier": "54d2a785273a394ad5dbb8f2",
           "scheme": "parldata"
+        },
+        {
+          "identifier": "Q28481792",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/sk/nrsr/people/54d2a785273a394ad5dbb8f2/image.jpeg",
@@ -1982,8 +1986,21 @@
           "url": "http://files.parldata.eu/sk/nrsr/people/54d2a785273a394ad5dbb8f2/image.jpeg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Ivan_Švejna"
+        }
+      ],
       "name": "Ivan Švejna",
       "national_identity": "slovenská",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Ivan Švejna",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Švejna, Ivan"
     },
     {
