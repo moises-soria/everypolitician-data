@@ -8291,26 +8291,44 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Vitré)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Vitré",
+        "P580": "1977-03-25"
+      }
     },
     {
       "id": "Q16886136",
       "label": "conseiller régional",
-      "title": "conseiller régional",
-      "description": "member of a regional council in France"
+      "title": "conseiller régional (of Brittany)",
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P642": "Brittany",
+        "P580": "1986-03-17",
+        "P582": "1988-06-09"
+      }
     },
     {
       "id": "Q3780304",
       "label": "member of the General Council",
       "title": "member of the General Council",
-      "description": "elected member of the local assembly of a French department (before March 2015)"
+      "description": "elected member of the local assembly of a French department (before March 2015)",
+      "qualifiers": {
+        "P768": "canton of Vitré-Est",
+        "P580": "1976-03-17",
+        "P582": "2001-03-18"
+      }
     },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "1979-07-09",
+        "P582": "1979-07-12"
+      }
     }
   ],
   "Q3103490": [
