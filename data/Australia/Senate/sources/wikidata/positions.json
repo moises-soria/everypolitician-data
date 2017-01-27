@@ -1087,7 +1087,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Queensland",
+        "P580": "2005-07-01",
+        "P582": "2011-06-30"
+      }
     }
   ],
   "Q1494887": [
@@ -2183,7 +2188,8 @@
         "P580": "1995-04-04",
         "P582": "2005-08-03",
         "P1365": "John Fahey",
-        "P1366": "Morris Iemma"
+        "P1366": "Morris Iemma",
+        "P1545": "39"
       }
     },
     {
@@ -2202,7 +2208,10 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales"
+      }
     },
     {
       "id": "Q19202748",
@@ -2385,13 +2394,24 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Queensland",
+        "P580": "2005-07-01",
+        "P582": "2013-08-08",
+        "P1366": "Barry O'Sullivan"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "New England",
+        "P580": "2013-09-07",
+        "P1365": "Tony Windsor"
+      }
     }
   ],
   "Q454233": [
@@ -2409,7 +2429,13 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P580": "1984-12-01",
+        "P582": "2007-04-26",
+        "P1366": "Mary Jo Fisher"
+      }
     },
     {
       "id": "Q6865821",
