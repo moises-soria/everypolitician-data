@@ -19,6 +19,7 @@ class StatsFile
       people:    people_stats,
       groups:    group_stats,
       terms:     term_stats,
+      areas:     area_stats,
       elections: election_stats,
       positions: position_stats,
 
@@ -65,6 +66,13 @@ class StatsFile
     {
       count:  popolo.elections.count,
       latest: latest_election_date || '',
+    }
+  end
+
+  def area_stats
+    {
+      count:    popolo.areas.count,
+      wikidata: popolo.areas.select(&:wikidata).count,
     }
   end
 
