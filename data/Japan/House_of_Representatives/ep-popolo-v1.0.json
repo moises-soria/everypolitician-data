@@ -51517,112 +51517,418 @@
   "areas": [
     {
       "id": "area/aichi_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494336",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第10区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494338",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第11区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494337",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第12区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_13th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494340",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 13th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第13区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_14th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494339",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 14th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第14区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_15th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494341",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 15th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第15区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494342",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494344",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494346",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494348",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q4696554",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aichi 5th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q4696552",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第6区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aichi 6th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494352",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第7区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494353",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第8区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aichi_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11494354",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aichi 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛知県第9区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/akita_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11595528",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Akita 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "秋田県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/akita_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11595529",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Akita 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "秋田県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/akita_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11595531",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Akita 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "秋田県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aomori_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q4778663",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aomori 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "青森県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aomori 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aomori_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11662287",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aomori 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "青森県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aomori 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aomori_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11662288",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aomori 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "青森県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/aomori_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11662289",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aomori 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "青森県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -51632,62 +51938,243 @@
     },
     {
       "id": "area/chiba_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406376",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第10区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406377",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第11区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_13th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406378",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 13th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第12区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406379",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第13区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406381",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "千葉縣第2區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406383",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q5095299",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chiba 4th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "千葉縣第4區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406386",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406387",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406389",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第7区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "千葉縣第7區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406388",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第8区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/chiba_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11406390",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chiba 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "千葉県第9区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "千葉縣第9區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -51697,262 +52184,1097 @@
     },
     {
       "id": "area/ehime_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11493668",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ehime 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛媛県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ehime_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11493670",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ehime 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛媛県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ehime_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11493673",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ehime 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛媛県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ehime_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11493674",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ehime 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "愛媛県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukui_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11591498",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukui 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福井県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukui_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11591499",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukui 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福井県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592614",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592612",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第10区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592613",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第11区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592616",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592618",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592620",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592622",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592623",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592624",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第7区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q5507680",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第8区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fukuoka 8th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukuoka_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11592625",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukuoka 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福岡県第9区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukushima_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11593326",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukushima 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福島県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukushima_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11593328",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukushima 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福島県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukushima_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q5507720",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukushima 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福島県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fukushima 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukushima_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11593331",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukushima 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福島県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/fukushima_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11593333",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fukushima 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "福島県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gifu_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11471571",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gifu 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岐阜県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gifu 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gifu_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11471573",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gifu 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岐阜県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gifu_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11471575",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gifu 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岐阜県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gifu_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11471576",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gifu 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岐阜県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gifu_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11471577",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gifu 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岐阜県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gumma_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q5618871",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gumma 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "群馬県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gunma 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gumma_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11609702",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gumma 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "群馬県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gumma_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11609704",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gumma 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "群馬県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gumma_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q5618873",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gumma 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "群馬県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gunma 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/gumma_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11609705",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gumma 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "群馬県第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gunma 5th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hiroshima_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11484884",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hiroshima 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "広島県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hiroshima_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11484886",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hiroshima 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "広島県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hiroshima_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11484887",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hiroshima 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "広島県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hiroshima_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11484889",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hiroshima 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "広島県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hiroshima_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11484891",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hiroshima 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "広島県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hiroshima_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11484890",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hiroshima 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "広島県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hiroshima_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q5771187",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hiroshima 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "広島県第7区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hiroshima 7th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11402999",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第10区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 10th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第10區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11403000",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第11区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 11th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第11區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11403001",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第12区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 12th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第12區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q5878053",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 1st district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第1區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q9498886",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 2nd district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第2區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11403004",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 3rd district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第3區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11403007",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q5878048",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 5th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第5區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11403009",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第6区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 6th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第6區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11403010",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第7区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 7th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第7區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q9498966",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第8区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 8th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第8區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_9th_district",
+      "identifiers": [
+        {
+          "identifier": "/m/09v1qjf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q9499044",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "北海道第9区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido 9th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北海道第9區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hokkaido_bloc",
+      "identifiers": [
+        {
+          "identifier": "Q5878130",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hokkaido Bloc",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "比例北海道ブロック",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hokkaido proportional representation block",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -51962,262 +53284,1063 @@
     },
     {
       "id": "area/hyogo_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393144",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第10区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q10959517",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第11区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 11th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393145",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第12区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 12th District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393146",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 1st district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "兵庫縣第1區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393148",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 2nd district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "兵庫縣第2區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393149",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 3rd District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "兵庫縣第3區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393152",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 4th District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "兵庫縣第4區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393154",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 5th District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393156",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393157",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第7区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 7th District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393159",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第8区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 8th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hyogo_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11393158",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hyogo 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "兵庫県第9区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 9th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ibaraki_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11617501",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ibaraki 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "茨城県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ibaraki_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11617503",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ibaraki 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "茨城県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ibaraki_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11617504",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ibaraki 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "茨城県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ibaraki_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q5983712",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ibaraki 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "茨城県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ibaraki 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ibaraki_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11617507",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ibaraki 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "茨城県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ibaraki_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11617508",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ibaraki 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "茨城県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ibaraki_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11617509",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ibaraki 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "茨城県第7区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ishikawa_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11586035",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ishikawa 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "石川県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ishikawa_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6080258",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ishikawa 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "石川県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ishikawa 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ishikawa_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11586036",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ishikawa 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "石川県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/iwate_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q49876",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Iwate 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岩手県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Iwate 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/iwate_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11474791",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Iwate 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岩手県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/iwate_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11474793",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Iwate 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岩手県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/iwate_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11474794",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Iwate 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岩手県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Iwate 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagawa_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11667404",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagawa 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "香川県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagawa_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11667406",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagawa 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "香川県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagawa_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11667408",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagawa 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "香川県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagoshima_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11676837",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagoshima 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "鹿児島県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagoshima_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11676838",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagoshima 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "鹿児島県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kagoshima 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagoshima_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6346640",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagoshima 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "鹿児島県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kagoshima 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagoshima_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11676841",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagoshima 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "鹿児島県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kagoshima_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11676842",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kagoshima 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "鹿児島県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q6360240",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第10区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kanagawa 10th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q6360245",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第11区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kanagawa 11th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589207",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第12区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_13th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589208",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 13th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第13区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_14th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589209",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 14th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第14区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_15th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589211",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 15th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第15区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_16th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589210",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 16th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第16区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_17th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589212",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 17th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第17区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_18th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589213",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 18th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第18区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q6360246",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kanagawa 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6360252",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kanagawa 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589215",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589219",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589221",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589222",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589224",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第7区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589223",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第8区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kanagawa 8th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kanagawa_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11589225",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kanagawa 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "神奈川県第9区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -52227,7 +54350,25 @@
     },
     {
       "id": "area/kinki_block",
+      "identifiers": [
+        {
+          "identifier": "Q11547390",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kinki Block",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "比例近畿ブロック",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kinki proportional representation block",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -52237,67 +54378,276 @@
     },
     {
       "id": "area/kochi_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11672488",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kochi 1st district",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "高知県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kochi_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11672489",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kochi 2nd district",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "高知県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kumamoto_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11568324",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kumamoto 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "熊本県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kumamoto_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11568327",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kumamoto 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "熊本県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kumamoto 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kumamoto_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11568329",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kumamoto 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "熊本県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kumamoto_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11568330",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kumamoto 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "熊本県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kumamoto 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kumamoto_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11568331",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kumamoto 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "熊本県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kyoto_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11375290",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kyoto 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "京都府第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyoto 1st District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kyoto_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6452102",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kyoto 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "京都府第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyoto 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kyoto_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6452106",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kyoto 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "京都府第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyoto 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kyoto_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11375291",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kyoto 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "京都府第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyoto 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kyoto_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q6452111",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kyoto 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "京都府第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyoto 5th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/kyoto_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11375292",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kyoto 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "京都府第6区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyoto 6th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -52307,27 +54657,117 @@
     },
     {
       "id": "area/mie_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11357843",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mie 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "三重県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mie 1st District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/mie_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11357845",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mie 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "三重県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mie 2nd District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/mie_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6843509",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mie 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "三重県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mie 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/mie_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11357847",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mie 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "三重県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mie 4th District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/mie_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11357849",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mie 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "三重県第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mie 5th District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -52337,402 +54777,1582 @@
     },
     {
       "id": "area/miyagi_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11453772",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyagi 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮城県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyagi_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11453776",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyagi 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮城県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyagi_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11453778",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyagi 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮城県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyagi_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11453779",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyagi 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮城県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyagi_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11453780",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyagi 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮城県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyagi_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11453781",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyagi 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮城県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyazaki_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11454477",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyazaki 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮崎県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyazaki_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11454479",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyazaki 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮崎県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/miyazaki_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11454481",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Miyazaki 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮崎県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagano_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11654363",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagano 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長野県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagano_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11654364",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagano 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長野県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagano_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11654365",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagano 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長野県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagano_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11654368",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagano 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長野県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagano_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11654371",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagano 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長野県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagasaki_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q6958596",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagasaki 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長崎県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nagasaki 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagasaki_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6958601",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagasaki 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長崎県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nagasaki 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagasaki_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q251994",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagasaki 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長崎県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nagasaki 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nagasaki_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11652769",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nagasaki 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "長崎県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nara_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11445240",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nara 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "奈良県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nara 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nara_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q6965225",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nara 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "奈良県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nara 2nd district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "奈良縣第2區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nara_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11445241",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nara 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "奈良県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "奈良縣第3區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nara_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11445243",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nara 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "奈良県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "奈良縣第4區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/niigata_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11503150",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Niigata 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "新潟県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/niigata_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11503151",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Niigata 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "新潟県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/niigata_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11503154",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Niigata 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "新潟県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/niigata_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11503156",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Niigata 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "新潟県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/niigata_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7034372",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Niigata 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "新潟県第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Niigata 5th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/niigata_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11503158",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Niigata 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "新潟県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/oita_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11432906",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Oita 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大分県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/oita_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11432908",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Oita 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大分県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/oita_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11432909",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Oita 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大分県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okayama_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11472349",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okayama 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岡山県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okayama_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11472351",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okayama 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岡山県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okayama_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11472353",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okayama 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岡山県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okayama_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7081866",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okayama 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岡山県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Okayama 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okayama_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11472354",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okayama 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "岡山県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okinawa_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11552835",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okinawa 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "沖縄県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okinawa_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11552836",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okinawa 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "沖縄県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okinawa_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11552837",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okinawa 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "沖縄県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/okinawa_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11552839",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Okinawa 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "沖縄県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7105539",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第10区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Osaka 10th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441202",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第11区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q376715",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第12区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Osaka 12th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_13th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441203",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 13th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第13区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_14th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441204",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 14th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第14区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_15th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441205",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 15th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第15区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_16th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441207",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 16th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第16区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_17th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441206",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 17th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第17区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_18th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441209",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 18th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第18区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_19th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7105540",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 19th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第19区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Osaka 19th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441208",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大阪府第1區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441212",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大阪府第2區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441213",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大阪府第3區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441214",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大阪府第4區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q17221683",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大阪府第5區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441220",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第6区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大阪府第6區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7105541",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第7区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Osaka 7th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441222",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第8区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/osaka_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11441223",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Osaka 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "大阪府第9区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saga_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q7398896",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saga 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "佐賀県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saga 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saga_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11384769",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saga 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "佐賀県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saga 2nd District",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426786",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第10区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426787",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第11区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426788",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第12区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_13th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426789",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 13th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第13区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_14th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426791",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 14th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第14区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_15th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426792",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 15th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第15区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426793",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埼玉縣第1區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426795",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埼玉縣第2區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q7402528",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saitama 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426798",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426800",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埼玉縣第5區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426801",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426803",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第7区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426805",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第8区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/saitama_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11426804",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Saitama 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "埼玉県第9区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shiga_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q7496287",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shiga 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "滋賀県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shiga 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shiga_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11564691",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shiga 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "滋賀県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shiga 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shiga_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11564692",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shiga 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "滋賀県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shiga_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11564693",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shiga 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "滋賀県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -52742,77 +56362,302 @@
     },
     {
       "id": "area/shimane_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11476527",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shimane 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "島根県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shimane_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11476528",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shimane 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "島根県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663236",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "靜岡縣第一區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663238",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663241",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "靜岡縣第三區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663242",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "靜岡縣第四區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663243",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663244",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第6区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663245",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第7区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "靜岡縣第七區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/shizuoka_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11663246",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shizuoka 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "静岡県第8区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "靜岡縣第八區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tochigi_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11535297",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tochigi 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "栃木県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tochigi_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11535300",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tochigi 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "栃木県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tochigi_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q56855",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tochigi 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "栃木県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tochigi 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tochigi_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11535301",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tochigi 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "栃木県第4区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tochigi_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11535303",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tochigi 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "栃木県第5区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -52827,227 +56672,1037 @@
     },
     {
       "id": "area/tokushima_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q7813763",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokushima 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "徳島県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokushima 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokushima_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11489990",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokushima 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "徳島県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_10th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7813802",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 10th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第10区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 10th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第10區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_11th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11102981",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 11th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第11区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 11th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第11區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_12th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525648",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 12th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第12区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第12區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_13th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525650",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 13th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第13区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第13區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_14th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525651",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 14th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第14区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_15th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525652",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 15th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第15区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_16th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525653",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 16th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第16区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第16區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_17th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525654",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 17th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第17区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 17th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第17區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_18th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7813807",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 18th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第18区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 18th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第18區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_19th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525655",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 19th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第19区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第19區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q7813806",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 1st district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第1區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_20th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525656",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 20th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第20区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第20區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_21st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525658",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 21st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第21区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京21區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "东京都第21区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_22nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q10343462",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 22nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第22区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 22nd District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第22區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_23rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525659",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 23rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第23区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第23區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_24th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11525660",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 24th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第24区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_25th_district",
+      "identifiers": [
+        {
+          "identifier": "Q10971927",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 25th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第25区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 25th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第25區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q7813811",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 2nd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q10343508",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 3rd district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第3區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q10343531",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 4th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第4區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_5th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11102988",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 5th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第5区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 5th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第5區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_6th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7813818",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 6th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第6区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 6th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第6區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_7th_district",
+      "identifiers": [
+        {
+          "identifier": "Q10343578",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 7th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第7区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 7th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第7區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_8th_district",
+      "identifiers": [
+        {
+          "identifier": "Q7813822",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 8th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第8区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 8th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第8區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_9th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11102990",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo 9th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "東京都第9区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo 9th district",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第9區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tokyo_bloc",
+      "identifiers": [
+        {
+          "identifier": "Q7814046",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tokyo Bloc",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "比例東京ブロック",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tokyo proportional representation block",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tottori_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q7828499",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tottori 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "鳥取県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tottori 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tottori_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11674598",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tottori 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "鳥取県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/toyama_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11456543",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Toyama 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "富山県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/toyama_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11456545",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Toyama 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "富山県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/toyama_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11456548",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Toyama 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "富山県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wakayama_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11417481",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wakayama 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "和歌山県第1区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wakayama_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11417484",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wakayama 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "和歌山県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wakayama_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q7960863",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wakayama 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "和歌山県第3区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Wakayama 3rd district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamagata_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q8047616",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamagata 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山形県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yamagata 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamagata_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11468571",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamagata 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山形県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamagata_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11468573",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamagata 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山形県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamaguchi_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q11467107",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamaguchi 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山口県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yamaguchi 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamaguchi_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11467109",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamaguchi 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山口県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamaguchi_3rd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11467111",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamaguchi 3rd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山口県第3区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamaguchi_4th_district",
+      "identifiers": [
+        {
+          "identifier": "Q11467112",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamaguchi 4th District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山口県第4区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yamaguchi 4th district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamanashi_1st_district",
+      "identifiers": [
+        {
+          "identifier": "Q4356088",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamanashi 1st District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山梨県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yamanashi 1st district",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/yamanashi_2nd_district",
+      "identifiers": [
+        {
+          "identifier": "Q11469742",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Yamanashi 2nd District",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "山梨県第2区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
