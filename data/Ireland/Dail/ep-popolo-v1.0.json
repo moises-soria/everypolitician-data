@@ -29394,18 +29394,13 @@
     },
     {
       "id": "area/dublin_bay_north",
-      "name": "Dublin Bay North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dublin_bay_south",
       "identifiers": [
         {
           "identifier": "Q5310820",
           "scheme": "wikidata"
         }
       ],
-      "name": "Dublin Bay South",
+      "name": "Dublin Bay North",
       "other_names": [
         {
           "lang": "en",
@@ -29415,6 +29410,34 @@
         {
           "lang": "ga",
           "name": "Cuan Bhaile Átha Cliath Thuas",
+          "note": "multilingual"
+        }
+      ],
+      "type": "constituency"
+    },
+    {
+      "id": "area/dublin_bay_south",
+      "identifiers": [
+        {
+          "identifier": "Q5310822",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Dublin Bay South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dublin Bay South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cuan Bhaile Átha Cliath Theas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "都柏林灣南 (愛爾蘭下議院選區)",
           "note": "multilingual"
         }
       ],
