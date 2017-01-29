@@ -29379,92 +29379,401 @@
   "areas": [
     {
       "id": "uk.org.publicwhip/cons/192-NI",
+      "identifiers": [
+        {
+          "identifier": "Q5327714",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "East Antrim",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "East Antrim",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/197-NI",
+      "identifiers": [
+        {
+          "identifier": "Q5328872",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "East Londonderry",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "East Londonderry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東倫敦德里 (議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/231-NI",
+      "identifiers": [
+        {
+          "identifier": "Q5444367",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fermanagh and South Tyrone",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fermanagh and South Tyrone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "弗馬納及南蒂龍 (北愛爾蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/235-NI",
+      "identifiers": [
+        {
+          "identifier": "Q5477379",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Foyle",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Foyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フォイル (議会選挙区)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Foyle",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/325-NI",
+      "identifiers": [
+        {
+          "identifier": "Q15241246",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Lagan Valley",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lagan Valley (Assembly constituency)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/35-NI",
+      "identifiers": [
+        {
+          "identifier": "Q4882274",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belfast East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Belfast East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "東區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/36-NI",
+      "identifiers": [
+        {
+          "identifier": "Q4882308",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belfast North",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Belfast North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "北區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Belfast North",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/37-NI",
+      "identifiers": [
+        {
+          "identifier": "Q4882329",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belfast South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Belfast South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "南區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "南區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/375-NI",
+      "identifiers": [
+        {
+          "identifier": "Q6841031",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mid Ulster",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mid Ulster",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/38-NI",
+      "identifiers": [
+        {
+          "identifier": "Q4882350",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belfast West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Belfast West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "西區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/400-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7019151",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Newry and Armagh",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Newry and Armagh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/402-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7053953",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "North Antrim",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "North Antrim",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/406-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7055150",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "North Down",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "North Down",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "North Down",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/515-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7565994",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "South Antrim",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "South Antrim",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/519-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7567069",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "South Down",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "South Down",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/557-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7621629",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Strangford",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Strangford",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "斯特蘭福德 (北愛爾蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/593-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7898475",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Upper Bann",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Upper Bann",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/629-NI",
+      "identifiers": [
+        {
+          "identifier": "Q7986717",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "West Tyrone",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "West Tyrone",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
