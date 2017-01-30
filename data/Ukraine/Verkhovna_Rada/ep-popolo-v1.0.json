@@ -21725,7 +21725,9 @@
       "patronymic_name": "Сергійович"
     },
     {
+      "birth_date": "1975-04-28",
       "family_name": "Москаленко",
+      "gender": "male",
       "given_name": "Ярослав",
       "id": "acb04dd4-88e7-44fd-8fa7-2cb7585e3225",
       "identifiers": [
@@ -21736,15 +21738,49 @@
         {
           "identifier": "15773",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q23409683",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d96_1.jpg",
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d96_1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/20130711_moskalenko.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yaroslav_Moskalenko"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Москаленко_Ярослав_Миколайович"
         }
       ],
       "name": "Москаленко Ярослав Миколайович",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Yaroslav Moskalenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yaroslav Moskalenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Москаленко Ярослав Миколайович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Миколайович"
     },
     {
