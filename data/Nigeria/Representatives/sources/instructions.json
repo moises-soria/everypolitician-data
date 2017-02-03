@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/nigeria-national-assembly",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data WHERE constituency != ''"
       },
       "source": "http://www.nass.gov.ng/",
       "type": "membership"
