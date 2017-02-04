@@ -221,14 +221,46 @@
       ]
     },
     {
+      "gender": "male",
       "id": "17d2ca11-eb1f-42d3-850c-9dd96c11317a",
       "identifiers": [
         {
           "identifier": "henri_helou",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20425839",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Henri Helou"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/هنري_الحلو"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Henri_Helou"
+        }
+      ],
+      "name": "Henri Helou",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هنري الحلو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Henri Helou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Henri Helou",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-07-31",
@@ -823,6 +855,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Мішель_Аун"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Michel_Aoun"
         },
         {
           "note": "Wikipedia (xmf)",
@@ -5763,14 +5799,73 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Farid",
       "id": "cbb0065c-fa6c-4c4f-a1c0-fbb340fbe0a1",
       "identifiers": [
         {
           "identifier": "Q19668129",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0c3dknz",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3066881",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Farid Elias el-Khazen"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فريد_إلياس_الخازن"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Farid_Elias_Khazen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Farid_Elias_Khazen"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Farid_Elias_al-Khazen"
+        }
+      ],
+      "name": "Farid Elias el-Khazen",
+      "other_names": [
+        {
+          "name": "Farid Elias Khazen",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "فريد إلياس الخازن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Farid Elias Khazen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Farid Elias Khazen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Farid Elias Khazen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Farid Elias al-Khazen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "cc5a9591-b295-44d9-b284-ea5510a0b003",
@@ -7056,6 +7151,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Saad_Hariri"
+        },
+        {
+          "note": "Wikipedia (trwikinews)",
+          "url": "https://trwikinews.wikipedia.org/wiki/Kategori:Saad_Hariri"
         },
         {
           "note": "Wikipedia (yo)",
