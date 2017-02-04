@@ -5677,11 +5677,11 @@
         "slug": "Chamber",
         "sources_directory": "data/Luxembourg/Chamber/sources",
         "popolo": "data/Luxembourg/Chamber/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4c826c10b6b03c197ec40f1dcb241dc76c702eb7/data/Luxembourg/Chamber/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/08d1776b6a47263f1823cadce76ce8036119eea9/data/Luxembourg/Chamber/ep-popolo-v1.0.json",
         "names": "data/Luxembourg/Chamber/names.csv",
-        "lastmod": "1485067927",
+        "lastmod": "1486215806",
         "person_count": 62,
-        "sha": "4c826c10b6b03c197ec40f1dcb241dc76c702eb7",
+        "sha": "08d1776b6a47263f1823cadce76ce8036119eea9",
         "legislative_periods": [
           {
             "id": "term/2013",
@@ -5692,7 +5692,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2570cead96c7ae3d6164797a22cad18127644cda/data/Luxembourg/Chamber/term-2013.csv"
           }
         ],
-        "statement_count": 4165,
+        "statement_count": 4167,
         "type": "unicameral legislature"
       }
     ]
