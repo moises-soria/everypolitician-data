@@ -5470,11 +5470,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Lebanon/Parliament/sources",
         "popolo": "data/Lebanon/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fda437c18cad3c744b06f28397d7e3d645baebcf/data/Lebanon/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/506f6ed62badfc75b1a9293109bb9606656047e8/data/Lebanon/Parliament/ep-popolo-v1.0.json",
         "names": "data/Lebanon/Parliament/names.csv",
-        "lastmod": "1486196426",
+        "lastmod": "1486209580",
         "person_count": 130,
-        "sha": "fda437c18cad3c744b06f28397d7e3d645baebcf",
+        "sha": "506f6ed62badfc75b1a9293109bb9606656047e8",
         "legislative_periods": [
           {
             "end_date": "2017-06-20",
@@ -5483,10 +5483,10 @@
             "start_date": "2009-06-20",
             "slug": "2009",
             "csv": "data/Lebanon/Parliament/term-2009.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c398844d5a927489df8196d9132081f2e4825b4a/data/Lebanon/Parliament/term-2009.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/506f6ed62badfc75b1a9293109bb9606656047e8/data/Lebanon/Parliament/term-2009.csv"
           }
         ],
-        "statement_count": 8180,
+        "statement_count": 8211,
         "type": "unicameral legislature"
       }
     ]
