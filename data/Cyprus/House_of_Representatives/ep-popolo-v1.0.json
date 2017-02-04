@@ -10567,32 +10567,1296 @@
   "areas": [
     {
       "id": "ammochostos",
+      "identifiers": [
+        {
+          "identifier": "/m/05wlvz",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "CY01",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "146615",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Q59148",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ammochostos",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "法马古斯塔区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dystrykt Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "파마구스타 구",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "district de Famagouste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "distretto di Famagosta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bezirk Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Επαρχία Αμμοχώστου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ضلع فاماگوستا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "منطقة فاماغوستا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Фамагуста",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Амохостос (округ)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Famagusta District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Mağusa kazası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Districtul Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Districte de Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Famagustan alue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Фамагуста",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Фамагуста",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Famagusta Destrict",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ضلع فاماگوستا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Famagustos apygarda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ناحیه فاماگوستا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Daerah Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ֆամագուստայի շրջան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Gazimağusa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เขตแฟมากุสตา",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Famagusta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Eparchía Ammochóstou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ファマグスタ地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Distriktet Ammókhostos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Mağusa",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "keryneia",
+      "identifiers": [
+        {
+          "identifier": "/m/05wlwn",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "CY02",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "146411",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Q59146",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Keryneia",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "凯里尼亚区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dystrykt Kirenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "키레니아 구",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "district de Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Girne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "distretto di Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bezirk Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Επαρχία Κερύνειας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ضلع کیرینیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "منطقة كيرينيا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кирения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Керинеја",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kyrenia District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Girne kazası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Districtul Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Districte de Kerínia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kyrenian alue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Киренія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Кирения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Kyrenia Destrict",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ضلع کیرینیہ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Kirenijos apygarda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Girne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ناحیه گیرنه",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Daerah Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Կիրենիայի շրջան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Kyrenia (distrikt)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เขตคีรีเนีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kyrenia (distrikt)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Eparchía Kerýneias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "キレニア地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Distriktet Kerýnia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Huyện Kyrenia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Girne",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "larnaka",
+      "identifiers": [
+        {
+          "identifier": "/m/05wlxb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "CY03",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "146398",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Q59153",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Larnaka",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "拉纳卡区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dystrykt Larnaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "라르나카 구",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "district de Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lárnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "distretto di Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bezirk Larnaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Επαρχία Λάρνακας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ضلع لرناکا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "منطقة لارنكا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ларнака",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Ларнака",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Larnaca District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Larnaka kazası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Districtul Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Districte de Làrnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Larnakan alue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ларнака",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Ларнака",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Larnaca Destrict",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ضلع لارناکا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Larnakos apygarda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Larnaka (distrik)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Larnaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ناحیه لارناکا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Daerah Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Լարնակայի շրջան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מחוז לרנקה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Larnaka (distrikt)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เขตลาร์นากา",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Eparchía Lárnakas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Eparchía Lárnakas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ラルナカ地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Distriktet Lárnaka",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "lefkosia",
+      "identifiers": [
+        {
+          "identifier": "/m/05wlxp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "CY04",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "146267",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Q59147",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Lefkosia",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "尼科西亚区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dystrykt Nikozja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "니코시아 구",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "district de Nicosie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "distretto di Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bezirk Nikosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Επαρχία Λευκωσίας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ضلع نکوسیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "منطقة نيقوسيا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nicósia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Никосия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Никозија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nicosia District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Lefkoşa kazası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Districtul Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Districte de Nicòsia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nikosian alue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Нікосія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Никозия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Nicosia Destrict",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ضلع نیکوسیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Nikosijos apygarda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ნიქოზიის რაიონი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ناحیه نیکوزیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Daerah Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նիկոսիայի շրջան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nikósie (distrikt)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เขตนิโคเซีย",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Eparchía Lefkosías",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Eparchía Lefkosías",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ニコシア地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Distriktet Levkosía",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Nicosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "नोकोसिया जिल्ला",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Нікосія",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "lemesos",
+      "identifiers": [
+        {
+          "identifier": "/m/05wly0",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "CY05",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "146383",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Q59150",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Lemesos",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "利马索尔区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dystrykt Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "리마솔 구",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "district de Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Limasol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "distretto di Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bezirk Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Επαρχία Λεμεσού",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ضلع لیمیسوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Limasol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "منطقة ليماسول",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лимасол",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Лимасол",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Limassol District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Limasol Bölgesi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Districtul Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Districte de Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Limassolin alue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Лімасол",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Лимасол",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Limassol Destrict",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ضلع لیماسول",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Limasolio apygarda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Limasol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლიმასოლის რაიონი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ناحیه لیماسول",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Daerah Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Լիմասոլի շրջան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מחוז לימסול",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Lemesos (distrikt)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เขตลีมาซอล",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Eparchía Lemesoú",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Eparchía Lemesoú",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リマソール地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Distriktet Lemesós",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "pafos",
+      "identifiers": [
+        {
+          "identifier": "/m/05wlyc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "CY06",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "146213",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "12002568x",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "Q59133",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Pafos",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "帕福斯区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dystrykt Pafos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "파포스 구",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "district de Paphos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pafos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "distretto di Pafo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bezirk Paphos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Επαρχία Πάφου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ضلع پافوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Paphos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "منطقة بافوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Pafos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пафос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Пафос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paphos District",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Baf kazası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Districtul Paphos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Districte de Pafos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Pafoksen alue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Пафос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Paphos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Пафос",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Paphos Destrict",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ضلع پافوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Pafoso apygarda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Paphos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Pafos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "პაფოსის რაიონი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ناحیه پافوس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Daerah Paphos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Պաֆոսի շրջան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מחוז פאפוס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Pafos (distrikt)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เขตแพฟอส",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Eparchía Páfou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Eparchía Páfou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "パフォス地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Distriktet Páfos",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
