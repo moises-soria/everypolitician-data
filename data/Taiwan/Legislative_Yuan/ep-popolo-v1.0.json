@@ -3580,7 +3580,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Hsieh_Kuo-liang"
+          "url": "https://en.wikipedia.org/wiki/George_Hsieh"
         },
         {
           "note": "Wikipedia (zh)",
@@ -5097,6 +5097,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Liu Chao-hao",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "劉櫂豪",
           "note": "multilingual"
@@ -5422,6 +5427,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Chiu_Yi-ying"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chiu_Yi-ying"
         },
         {
           "note": "Wikipedia (zh)",
@@ -8903,16 +8912,38 @@
       "sort_name": "Wang, Chin-Shih"
     },
     {
+      "birth_date": "1958-01-14",
       "gender": "female",
       "id": "cb33fcfb-89a6-4ac6-924e-d6042d92150a",
+      "identifiers": [
+        {
+          "identifier": "Q28522108",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90027.jpg",
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90027.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/周陳秀霞"
+        }
+      ],
       "name": "Hsiu-Hsia Chou Chen",
       "other_names": [
+        {
+          "name": "周陳秀霞",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Hsiu-Hsia Chou Chen",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "周陳秀霞",
@@ -15381,6 +15412,12 @@
       "classification": "legislative period",
       "end_date": "2016-01-16",
       "id": "term/8",
+      "identifiers": [
+        {
+          "identifier": "Q28651450",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "8th Legislative Yuan",
       "organization_id": "e1fef832-4c78-497c-ad3a-6a8df1fef861",
       "start_date": "2012-02-01"
@@ -15401,6 +15438,12 @@
     {
       "classification": "legislative period",
       "id": "term/9",
+      "identifiers": [
+        {
+          "identifier": "Q22083907",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "9th Legislative Yuan",
       "organization_id": "e1fef832-4c78-497c-ad3a-6a8df1fef861",
       "start_date": "2016-01-16"
