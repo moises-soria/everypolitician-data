@@ -4033,9 +4033,15 @@
       "classification": "legislative period",
       "end_date": "2010-09-24",
       "id": "term/12",
+      "identifiers": [
+        {
+          "identifier": "Q4548805",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "12th Parliament",
       "organization_id": "a1a85685-7d9a-4b03-a581-720f77e13a38",
-      "start_date": "2006"
+      "start_date": "2006-09-27"
     },
     {
       "classification": "general election",
@@ -4054,16 +4060,15 @@
       "classification": "legislative period",
       "end_date": "2014-04-17",
       "id": "term/13",
+      "identifiers": [
+        {
+          "identifier": "Q4549430",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "13th Parliament",
       "organization_id": "a1a85685-7d9a-4b03-a581-720f77e13a38",
       "start_date": "2011-02-18"
-    },
-    {
-      "classification": "legislative period",
-      "id": "term/14",
-      "name": "14th Parliament",
-      "organization_id": "a1a85685-7d9a-4b03-a581-720f77e13a38",
-      "start_date": "2014"
     },
     {
       "classification": "general election",
@@ -4077,6 +4082,19 @@
       ],
       "name": "Cook Islands general election, 2014",
       "start_date": "2014-07-09"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/14",
+      "identifiers": [
+        {
+          "identifier": "Q24895829",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "14th Parliament",
+      "organization_id": "a1a85685-7d9a-4b03-a581-720f77e13a38",
+      "start_date": "2014-10-08"
     }
   ],
   "areas": [
