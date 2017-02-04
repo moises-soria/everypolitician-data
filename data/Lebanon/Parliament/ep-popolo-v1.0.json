@@ -221,14 +221,46 @@
       ]
     },
     {
+      "gender": "male",
       "id": "17d2ca11-eb1f-42d3-850c-9dd96c11317a",
       "identifiers": [
         {
           "identifier": "henri_helou",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20425839",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Henri Helou"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/هنري_الحلو"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Henri_Helou"
+        }
+      ],
+      "name": "Henri Helou",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هنري الحلو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Henri Helou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Henri Helou",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-07-31",
