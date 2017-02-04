@@ -23679,11 +23679,17 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2016-06-30",
+      "end_date": "2016-06-06",
       "id": "term/16",
+      "identifiers": [
+        {
+          "identifier": "Q4552137",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "16th Congress of the Philippines",
       "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
-      "start_date": "2013-06-30"
+      "start_date": "2013-07-22"
     },
     {
       "classification": "general election",
@@ -23701,6 +23707,12 @@
     {
       "classification": "legislative period",
       "id": "term/17",
+      "identifiers": [
+        {
+          "identifier": "Q25339673",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "17th Congress of the Philippines",
       "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
       "start_date": "2016-07-25"
