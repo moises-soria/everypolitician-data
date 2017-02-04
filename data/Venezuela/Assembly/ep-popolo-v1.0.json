@@ -5563,6 +5563,7 @@
     },
     {
       "birth_date": "1982-03-26",
+      "family_name": "Rodríguez",
       "gender": "male",
       "given_name": "Héctor",
       "id": "d050ff79-11cb-4d0f-aa55-311274d9bd78",
@@ -7463,6 +7464,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "COPEI",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "COPEI",
           "note": "multilingual"
@@ -7622,7 +7628,25 @@
     {
       "classification": "party",
       "id": "11",
-      "name": "GE"
+      "identifiers": [
+        {
+          "identifier": "Q5877227",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "GE",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Gente Emergente (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gente Emergente",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
