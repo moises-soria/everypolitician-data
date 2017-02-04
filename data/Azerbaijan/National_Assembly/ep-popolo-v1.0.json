@@ -2182,7 +2182,31 @@
     },
     {
       "id": "69687db8-9423-4807-bfc0-5ea2482dcc54",
-      "name": "Elçin Quliyev"
+      "identifiers": [
+        {
+          "identifier": "Q28527849",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Elçin_Quliyev_(deputat)"
+        }
+      ],
+      "name": "Elçin Quliyev",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Elçin Quliyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Elçin Quliyev",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-07-22",
@@ -2323,7 +2347,31 @@
     },
     {
       "id": "6ee88e7d-7303-4f26-89a6-b212918c48be",
-      "name": "Sona Əliyeva"
+      "identifiers": [
+        {
+          "identifier": "Q28527870",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Sona_Əliyeva_(deputat)"
+        }
+      ],
+      "name": "Sona Əliyeva",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Sona Əliyeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sona Əliyeva",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953",
@@ -3279,6 +3327,10 @@
         {
           "identifier": "İsa_həbibbəyli",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 8282 6414",
+          "scheme": "isni"
         },
         {
           "identifier": "122147294",
@@ -4818,6 +4870,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Azay_Quliyev"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Azay_Guliyev"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Гулиев,_Азай_Аждар_оглы"
         }
@@ -4827,6 +4883,11 @@
         {
           "lang": "az",
           "name": "Azay Quliyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Azay Guliyev",
           "note": "multilingual"
         },
         {
