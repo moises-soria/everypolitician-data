@@ -7628,7 +7628,25 @@
     {
       "classification": "party",
       "id": "11",
-      "name": "GE"
+      "identifiers": [
+        {
+          "identifier": "Q5877227",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "GE",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Gente Emergente (Venezuela)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gente Emergente",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
