@@ -88,7 +88,8 @@ namespace :transform do
   task write: :tidy_memberships
   task tidy_memberships: :merge_termfile do
     @json[:memberships].each do |m|
-      (e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] }) || abort("#{m[:legislative_period_id]} is not a term")
+      abort "No 'term' in #{m}" if m[:legislative_period_id].to_s.empty?
+      e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or abort "#{m[:legislative_period_id]} is not a known term (in #{m})"
 
       m.delete :start_date if m[:start_date].to_s.empty? || (!e[:start_date].to_s.empty? && m[:start_date].to_s <= e[:start_date].to_s)
       m.delete :end_date   if m[:end_date].to_s.empty?   || (!e[:end_date].to_s.empty?   && m[:end_date].to_s   >= e[:end_date].to_s)
