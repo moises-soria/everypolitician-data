@@ -36,6 +36,7 @@
       "sort_name": "Millet, Monique"
     },
     {
+      "birth_date": "1979-12-08",
       "family_name": "Lucas-Julie",
       "gender": "female",
       "given_name": "Nina",
@@ -44,6 +45,10 @@
         {
           "identifier": "9669",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28365481",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congres.nc/wp-content/uploads/2015/01/julie.jpg",
@@ -52,7 +57,38 @@
           "url": "http://www.congres.nc/wp-content/uploads/2015/01/julie.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Nina_Julié"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nina_Julié"
+        }
+      ],
       "name": "Nina Lucas-Julie",
+      "other_names": [
+        {
+          "name": "Nina Julié",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nina Julié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nina Julié",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nina Julié",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lucas-Julie, Nina"
     },
     {
