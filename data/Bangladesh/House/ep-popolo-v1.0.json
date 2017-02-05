@@ -6005,6 +6005,10 @@
         {
           "identifier": "10283",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28529910",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10283.jpg",
@@ -6015,11 +6019,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/A.B.M._Fazle_Karim_Chowdhury"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2159"
         }
       ],
-      "name": "A.B.M. Fazle Karim Chowdhury"
+      "name": "A.B.M. Fazle Karim Chowdhury",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "A.B.M. Fazle Karim Chowdhury",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -7313,6 +7328,10 @@
         {
           "identifier": "2199",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26924778",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2199.jpg",
@@ -7323,11 +7342,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_Nazrul_Islam"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2101"
         }
       ],
-      "name": "Muhammad Nazrul Islam, Bir Protik"
+      "name": "Muhammad Nazrul Islam, Bir Protik",
+      "other_names": [
+        {
+          "name": "Muhammad Nazrul Islam",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Muhammad Nazrul Islam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Muhammad Nazrul Islam",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
