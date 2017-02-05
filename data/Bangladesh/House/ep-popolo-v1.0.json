@@ -16853,7 +16853,25 @@
     {
       "classification": "party",
       "id": "party/bangladesh_tarikat_federation",
-      "name": "Bangladesh Tarikat Federation"
+      "identifiers": [
+        {
+          "identifier": "Q28003778",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Bangladesh Tarikat Federation",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Bangladesh Tariqat Federation",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bangladesh Tarikat Federation",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -17580,7 +17598,91 @@
     {
       "classification": "party",
       "id": "party/jatiya_party_(jp)",
-      "name": "Jatiya Party (JP)"
+      "identifiers": [
+        {
+          "identifier": "Q1361491",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://jatiyo-party.org/"
+        }
+      ],
+      "name": "Jatiya Party (JP)",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Jatiya Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "জাতীয় পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jatiya Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Jatiya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Джатія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jatiya Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джатья",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Jatiya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民族黨 (艾爾沙德)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民族党 (艾尔沙德)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "艾爾沙德國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jatiya Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "जातीय पार्टी",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
