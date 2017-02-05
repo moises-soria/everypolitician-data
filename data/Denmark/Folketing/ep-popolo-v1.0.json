@@ -8059,6 +8059,10 @@
       "name": "Mai Mercado",
       "other_names": [
         {
+          "name": "Mai Mercado",
+          "note": "alternate"
+        },
+        {
           "lang": "da",
           "name": "Mai Mercado",
           "note": "multilingual"
@@ -13214,11 +13218,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "431d67a2-9d88-4a9a-bb8b-fd575ffe983a",
-      "name": "Jens Joel Nielsen"
-    },
-    {
       "birth_date": "1948-12-10",
       "contact_details": [
         {
@@ -15854,11 +15853,6 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "4e2a5cf6-9052-4dd7-b699-fe4f9e585c56",
-      "name": "Mai Henriksen"
-    },
-    {
       "birth_date": "1976-06-17",
       "contact_details": [
         {
@@ -17456,6 +17450,10 @@
       ],
       "name": "Jens Joel",
       "other_names": [
+        {
+          "name": "Jens Joel",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Jens Joel",
@@ -63922,6 +63920,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "K",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "2e0856f6-7661-4a15-b744-961e41681f27",
+      "role": "member"
+    },
+    {
       "area_id": "area/funen",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "AF65F1D8-0AFE-47DB-ADB1-7CA3C4550EC5",
@@ -65043,13 +65048,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "S",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "431d67a2-9d88-4a9a-bb8b-fd575ffe983a",
-      "role": "member"
-    },
-    {
       "area_id": "area/north_zealand",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
@@ -65520,13 +65518,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "K",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "4e2a5cf6-9052-4dd7-b699-fe4f9e585c56",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "RV",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -65894,6 +65885,13 @@
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "57143434-c785-4da0-a56b-991a43ba0afa",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "S",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "5990a8df-5f39-4803-8c64-da41da59c021",
       "role": "member"
     },
     {
