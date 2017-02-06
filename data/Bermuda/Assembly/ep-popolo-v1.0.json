@@ -810,16 +810,6 @@
       "name": "Kenneth Bascome"
     },
     {
-      "id": "9840633a-d183-4a96-994a-e4226129f6a4",
-      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Neville%20Tyrell.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Neville%20Tyrell.jpg"
-        }
-      ],
-      "name": "Neville Tyrrell"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -1058,6 +1048,16 @@
         }
       ],
       "name": "N. Cole Simons"
+    },
+    {
+      "id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
+      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Neville%20Tyrell.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Neville%20Tyrell.jpg"
+        }
+      ],
+      "name": "Neville Tyrrell"
     },
     {
       "birth_date": "1963",
@@ -2337,19 +2337,6 @@
       ]
     },
     {
-      "area_id": "26",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "9840633a-d183-4a96-994a-e4226129f6a4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Mr_Neville_Tyrrell.aspx"
-        }
-      ]
-    },
-    {
       "area_id": "17",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
@@ -2476,6 +2463,19 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Cole_Simons.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "26",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "PLP",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Mr_Neville_Tyrrell.aspx"
         }
       ]
     },
