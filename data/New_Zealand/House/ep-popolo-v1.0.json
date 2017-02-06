@@ -8726,38 +8726,6 @@
       "sort_name": "English, Bill"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "barry.coates@parliament.govt.nz"
-        },
-        {
-          "type": "twitter",
-          "value": "BarryCoates"
-        }
-      ],
-      "email": "barry.coates@parliament.govt.nz",
-      "id": "6aae1116-3b7c-49ae-bcf7-9f570d1222e6",
-      "image": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg",
-      "images": [
-        {
-          "url": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/barrycoatesnz"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/BarryCoates"
-        }
-      ],
-      "name": "Barry Coates",
-      "sort_name": "Coates, Barry"
-    },
-    {
       "birth_date": "1949-02-15",
       "gender": "male",
       "id": "6af85147-568d-422b-b510-83343a2c7c65",
@@ -19576,6 +19544,65 @@
       "sort_name": "Tolley, Anne"
     },
     {
+      "birth_date": "1956-10-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "barry.coates@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "BarryCoates"
+        }
+      ],
+      "email": "barry.coates@parliament.govt.nz",
+      "gender": "male",
+      "id": "ec3eda9b-60c0-4c93-81c0-1269eac4467e",
+      "identifiers": [
+        {
+          "identifier": "Q26845632",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg",
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Barry_Coates.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Barry_Coates"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/barrycoatesnz"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BarryCoates"
+        }
+      ],
+      "name": "Barry Coates",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Barry Coates",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Barry Coates",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Coates, Barry"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -26929,20 +26956,6 @@
     },
     {
       "area_id": "area/list",
-      "legislative_period_id": "term/51",
-      "on_behalf_of_id": "party/green_party",
-      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
-      "person_id": "6aae1116-3b7c-49ae-bcf7-9f570d1222e6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3711/coates-barry"
-        }
-      ],
-      "start_date": "2016-10-07"
-    },
-    {
-      "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -29407,6 +29420,20 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP1811/tolley-anne"
         }
       ]
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/green_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "ec3eda9b-60c0-4c93-81c0-1269eac4467e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3711/coates-barry"
+        }
+      ],
+      "start_date": "2016-10-07"
     },
     {
       "area_id": "area/list",
