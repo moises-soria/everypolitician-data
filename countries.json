@@ -7741,11 +7741,11 @@
         "slug": "Sejm",
         "sources_directory": "data/Poland/Sejm/sources",
         "popolo": "data/Poland/Sejm/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d4d2db5310712103649a83d03173a4cfa30217de/data/Poland/Sejm/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b68cde20af3f54789727d0d891cdef294834ab47/data/Poland/Sejm/ep-popolo-v1.0.json",
         "names": "data/Poland/Sejm/names.csv",
-        "lastmod": "1486374870",
+        "lastmod": "1486478212",
         "person_count": 2179,
-        "sha": "d4d2db5310712103649a83d03173a4cfa30217de",
+        "sha": "b68cde20af3f54789727d0d891cdef294834ab47",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -7807,7 +7807,7 @@
             "start_date": "1993-09-19",
             "slug": "2",
             "csv": "data/Poland/Sejm/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0f9741e48fd94ed6602915109beeb2ba858dae6a/data/Poland/Sejm/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b68cde20af3f54789727d0d891cdef294834ab47/data/Poland/Sejm/term-2.csv"
           },
           {
             "end_date": "1993-09-18",
@@ -7816,10 +7816,10 @@
             "start_date": "1991-11-25",
             "slug": "1",
             "csv": "data/Poland/Sejm/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c3d9c369b13cc53ad89c4f2e4bcd8c1e820d3d04/data/Poland/Sejm/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b68cde20af3f54789727d0d891cdef294834ab47/data/Poland/Sejm/term-1.csv"
           }
         ],
-        "statement_count": 128016,
+        "statement_count": 128018,
         "type": "lower house"
       }
     ]
