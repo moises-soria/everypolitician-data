@@ -17,7 +17,7 @@
         "scraper": "tmtmtmtm/mongolia-khurai-official",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "source": "http://wikidata.org/",
+      "source": "http://www.parliament.mn/",
       "type": "person",
       "merge": {
         "incoming_field": "name__mn",
