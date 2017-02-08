@@ -1529,11 +1529,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Bulgaria/National_Assembly/sources",
         "popolo": "data/Bulgaria/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/57088a43073f9c707732e00fad3a4b5f790eaa74/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e01d04163f7b31148d7e5fb9cd2a35e409a2430b/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Bulgaria/National_Assembly/names.csv",
-        "lastmod": "1486303844",
+        "lastmod": "1486549300",
         "person_count": 940,
-        "sha": "57088a43073f9c707732e00fad3a4b5f790eaa74",
+        "sha": "e01d04163f7b31148d7e5fb9cd2a35e409a2430b",
         "legislative_periods": [
           {
             "end_date": "2015-09-10",
@@ -1569,7 +1569,7 @@
             "start_date": "2005-07-11",
             "slug": "40",
             "csv": "data/Bulgaria/National_Assembly/term-40.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2d1e8261f1f2e0785a6400e6da2034d9f657e00b/data/Bulgaria/National_Assembly/term-40.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e01d04163f7b31148d7e5fb9cd2a35e409a2430b/data/Bulgaria/National_Assembly/term-40.csv"
           },
           {
             "end_date": "2005-06-17",
@@ -1581,7 +1581,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2d1e8261f1f2e0785a6400e6da2034d9f657e00b/data/Bulgaria/National_Assembly/term-39.csv"
           }
         ],
-        "statement_count": 42540,
+        "statement_count": 42623,
         "type": "unicameral legislature"
       }
     ]
