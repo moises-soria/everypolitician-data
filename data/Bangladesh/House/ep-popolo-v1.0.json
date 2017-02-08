@@ -206,6 +206,9 @@
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2258.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mustafa_kamal.png"
         }
       ],
       "links": [
@@ -2147,7 +2150,7 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2704"
         }
       ],
-      "name": "SHAMSUN NAHAR BEGUM (ADVOCAT)"
+      "name": "Shamsun Nahar Begum (Advocate)"
     },
     {
       "gender": "male",
@@ -3503,6 +3506,9 @@
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/10207.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Shamim_Osman.jpg"
         }
       ],
       "links": [
@@ -7322,6 +7328,7 @@
       "name": "Col. Dr. Md. Abdul Kader Khan (Retd.)"
     },
     {
+      "birth_date": "1951-08-03",
       "gender": "male",
       "id": "7ce3c7eb-3610-4680-ab64-c63eb9d92f09",
       "identifiers": [
@@ -9722,7 +9729,7 @@
         },
         {
           "note": "Wikipedia (my)",
-          "url": "https://my.wikipedia.org/wiki/ရှိတ်ဟာဆီနာ_(ဘင်္ဂလာဒေ့ရှ်_ဝန်ကြီးချုပ်)"
+          "url": "https://my.wikipedia.org/wiki/ရှိတ်ဟာဆီနာ"
         },
         {
           "note": "Wikipedia (ne)",
@@ -10688,6 +10695,9 @@
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2009.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Abul_Hassan_Mahmud_Ali_October_2016_(29624767683).jpg"
         }
       ],
       "links": [
@@ -12543,6 +12553,9 @@
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2057.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Shahriar_Alam_mp_(cropped).jpg"
         }
       ],
       "links": [
@@ -13171,7 +13184,7 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2702"
         }
       ],
-      "name": "ADVOCATE NAVANA AKTER"
+      "name": "Advocate Navana Akter"
     },
     {
       "birth_date": "1956-03-30",
@@ -15649,7 +15662,7 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2703"
         }
       ],
-      "name": "AMATUL KIBRIA KEYA"
+      "name": "Amatul Kibria Keya"
     },
     {
       "gender": "male",
@@ -15882,6 +15895,9 @@
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2181.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rashid_khan_menon_2005.png"
         }
       ],
       "links": [
@@ -16061,6 +16077,10 @@
         }
       ],
       "name": "Monjur Kader Quraishi"
+    },
+    {
+      "id": "fb3a4d95-fa55-4bfd-938d-53125e268f3b",
+      "name": "Md. Hasan Imam Khan"
     },
     {
       "gender": "female",
@@ -26869,6 +26889,19 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english"
+        }
+      ]
+    },
+    {
+      "area_id": "area/tangail",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/bangladesh_awami_league",
+      "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
+      "person_id": "fb3a4d95-fa55-4bfd-938d-53125e268f3b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english"
         }
       ]
     },
