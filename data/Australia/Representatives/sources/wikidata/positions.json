@@ -729,7 +729,14 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Warringah",
+        "P580": "1969-10-25",
+        "P582": "1994-02-18",
+        "P1365": "Edward St John",
+        "P1366": "Tony Abbott"
+      }
     }
   ],
   "Q7176142": [
@@ -3332,7 +3339,27 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Chifley",
+        "P580": "1983-03-05",
+        "P582": "1984-12-01",
+        "P1365": "John Armitage",
+        "P1366": "Roger Price"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Greenway",
+        "P580": "1984-12-01",
+        "P582": "1996-01-29",
+        "P1365": "",
+        "P1366": "Frank Mossfield"
+      }
     }
   ],
   "Q927550": [
