@@ -21,6 +21,21 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
-    }
+    },
+    {
+      "file": "morph/shineyoureye.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/nigeria-shineyoureye",
+        "query": "SELECT *, NULL as position FROM data WHERE position = 'Senator' ORDER BY CAST(id AS int)"
+      },
+      "source": "http://www.shineyoureye.org/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/shineyoureye.csv",
+      }
+    },
   ]
 }
