@@ -4103,6 +4103,12 @@
       "gender": "male",
       "given_name": "Juan Pedro",
       "id": "12ad07c5-873b-48a6-87d0-4b71cfa2f0c0",
+      "identifiers": [
+        {
+          "identifier": "Q22893655",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/87_11.jpg",
       "images": [
         {
@@ -4114,11 +4120,54 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Juan_Pedro_Yllanes_Suárez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Pedro_Yllanes"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Juan_Pedro_Yllanes"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jpyllanes"
         }
       ],
       "name": "Juan Pedro Yllanes Suárez",
+      "other_names": [
+        {
+          "name": "Juan Pedro Yllanes",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Juan Pedro Yllanes Suárez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Juan Pedro Yllanes Suárez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Juan Pedro Yllanes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Juan Pedro Yllanes Suárez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Juan Pedro Yllanes Suárez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Yllanes Suárez, Juan Pedro"
     },
     {
@@ -18445,10 +18494,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/779259256822493184/hSyLJzlI.jpg",
+      "image": "https://pbs.twimg.com/profile_images/829437196897771530/EbJ3etG7.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/779259256822493184/hSyLJzlI.jpg"
+          "url": "https://pbs.twimg.com/profile_images/829437196897771530/EbJ3etG7.jpg"
         }
       ],
       "links": [
@@ -24390,6 +24439,10 @@
         {
           "identifier": "n92063629",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "OL5756344A",
+          "scheme": "olid"
         },
         {
           "identifier": "21335859",
@@ -40752,7 +40805,7 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/153_11.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/2014-07-01-Europaparlament_Pablo_Iglesias_Turrión_by_Olaf_Kosinsky_-14_(4).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pablo_Iglesias_Ahora_Madrid_2015_-_05_(cropped).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/760157744053751809/vQ_vUEph.jpg"
