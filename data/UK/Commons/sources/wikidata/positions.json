@@ -8633,20 +8633,27 @@
       "qualifiers": {
         "P580": "1974-02-28",
         "P582": "2000-10-23",
-        "P1365": "Boundary Commissions",
-        "P1366": "Adrian Bailey"
+        "P1366": "Adrian Bailey",
+        "P768": "West Bromwich West"
       }
     },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "1975-07-01",
+        "P582": "1977-03-01"
+      }
     },
     {
       "id": "Q18952564",
       "label": "Member of the House of Lords",
-      "title": "Member of the House of Lords"
+      "title": "Member of the House of Lords",
+      "qualifiers": {
+        "P580": "2001-01-15"
+      }
     },
     {
       "id": "Q5068087",
@@ -8657,6 +8664,18 @@
         "P582": "1992-04-27",
         "P1365": "Paul Dean, Baron Dean of Harptree",
         "P1366": "Janet Fookes, Baroness Fookes"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1973-05-24",
+        "P582": "1974-02-28",
+        "P1365": "Maurice Foley",
+        "P768": "West Bromwich"
       }
     }
   ],
@@ -10307,7 +10326,12 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2010-05-06",
+        "P1365": "Evan Harris",
+        "P768": "Oxford West and Abingdon"
+      }
     }
   ],
   "Q291748": [
@@ -25344,7 +25368,6 @@
       "qualifiers": {
         "P580": "1998-06-25",
         "P582": "2003-11-26",
-        "P1365": "Belfast Agreement",
         "P1366": "Dominic Bradley"
       }
     },
