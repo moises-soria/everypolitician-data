@@ -129,6 +129,11 @@
       "label": "United States Senator",
       "title": "United States Senator",
       "description": "member of the United States Senate"
+    },
+    {
+      "id": "Q1785225",
+      "label": "United States Ambassador to the United Nations",
+      "title": "United States Ambassador to the United Nations"
     }
   ],
   "Q371025": [
@@ -153,8 +158,8 @@
   "Q10853588": [
     {
       "id": "Q3406489",
-      "label": "California Attorney General",
-      "title": "California Attorney General",
+      "label": "Attorney General of California",
+      "title": "Attorney General of California",
       "description": "Attorney General of California, United States"
     }
   ],
@@ -390,6 +395,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q963214": [
@@ -511,12 +521,20 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P582": "2011-01-03",
+        "P580": "1999-01-03"
+      }
     },
     {
       "id": "Q16147601",
       "label": "Governor of Indiana",
-      "title": "Governor of Indiana"
+      "title": "Governor of Indiana",
+      "qualifiers": {
+        "P582": "1997-01-13",
+        "P580": "1989-01-09"
+      }
     }
   ],
   "Q627098": [
@@ -908,7 +926,8 @@
       "qualifiers": {
         "P580": "1997-01-03",
         "P1365": "Howell Heflin",
-        "P768": "Alabama"
+        "P768": "Alabama",
+        "P582": "2017-02-08"
       }
     },
     {
@@ -920,6 +939,15 @@
         "P580": "1995-01-16",
         "P582": "1997-01-03",
         "P1366": "William H. Pryor, Jr."
+      }
+    },
+    {
+      "id": "Q636207",
+      "label": "United States Attorney General",
+      "title": "United States Attorney General",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2017-02-09"
       }
     }
   ],
@@ -1689,7 +1717,7 @@
       "qualifiers": {
         "P580": "2001-01-03",
         "P582": "2009-01-21",
-        "P2210": "New York"
+        "P768": "New York"
       }
     },
     {
@@ -1998,7 +2026,9 @@
         "P580": "2009-01-20",
         "P1365": "Dick Cheney",
         "P1545": "47",
-        "P35": "Barack Obama"
+        "P35": "Barack Obama",
+        "P582": "2017-01-20",
+        "P1366": "Mike Pence"
       }
     }
   ],
@@ -2118,14 +2148,20 @@
       "title": "United States Senator",
       "description": "member of the United States Senate",
       "qualifiers": {
-        "P580": "2011-01-03"
+        "P580": "2011-01-03",
+        "P582": "2017-01-03"
       }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "1989-01-03",
+        "P580": "1981-01-03",
+        "P1366": "Jill Long Thompson"
+      }
     },
     {
       "id": "Q326552",
@@ -3145,8 +3181,12 @@
     {
       "id": "Q13217683",
       "label": "United States Senator",
-      "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "title": "United States Senator (of Maine)",
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P642": "Maine",
+        "P580": "2013-01-03"
+      }
     },
     {
       "id": "Q3506352",
@@ -4037,6 +4077,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q289396": [
@@ -4308,6 +4353,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q560427": [
@@ -5091,7 +5141,9 @@
         "P1365": "George W. Bush",
         "P805": "Presidency of Barack Obama",
         "P1545": "44",
-        "P2715": "United States presidential election, 2008"
+        "P2715": "United States presidential election, 2008",
+        "P582": "2017-01-20",
+        "P1366": "Donald Trump"
       }
     },
     {
@@ -5370,7 +5422,8 @@
       "description": "U.S. cabinet member and head of the U.S. State Department",
       "qualifiers": {
         "P1365": "Hillary Clinton",
-        "P580": "2013-02-01"
+        "P580": "2013-02-01",
+        "P582": "2017-01-20"
       }
     }
   ],
@@ -5726,6 +5779,15 @@
       "label": "United States Senator",
       "title": "United States Senator",
       "description": "member of the United States Senate"
+    },
+    {
+      "id": "Q28530268",
+      "label": "Majority Leader of the United States Senate",
+      "title": "Majority Leader of the United States Senate",
+      "description": "Group leader of the bigger party in US Senate",
+      "qualifiers": {
+        "P580": "2015-01-03"
+      }
     }
   ],
   "Q955218": [
