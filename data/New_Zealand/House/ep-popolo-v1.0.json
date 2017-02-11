@@ -3611,6 +3611,17 @@
       "sort_name": "Bakshi, Kanwaljit Singh"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Michael.Woodhouse@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "WoodhouseMP"
+        }
+      ],
+      "email": "Michael.Woodhouse@parliament.govt.nz",
       "gender": "male",
       "given_name": "Michael",
       "id": "2becba21-c05b-4be5-8360-bf963b1990e8",
@@ -3624,10 +3635,24 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://www.parliament.nz/media/1396/woodhouse-michael2.C1kn2Q.jpg",
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/1396/woodhouse-michael2.C1kn2Q.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Michael_Woodhouse"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/michael.woodhousemp"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/WoodhouseMP"
         }
       ],
       "name": "Michael Woodhouse",
@@ -3657,7 +3682,8 @@
           "name": "Майкл Вудхаус",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Woodhouse, Michael"
     },
     {
       "contact_details": [
@@ -4732,10 +4758,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://www.parliament.nz/media/1293/fox-marama.C24ZbA.jpg",
+      "image": "https://www.parliament.nz/media/3633/foxdwbcfq.DWBJqA.jpg",
       "images": [
         {
-          "url": "https://www.parliament.nz/media/1293/fox-marama.C24ZbA.jpg"
+          "url": "https://www.parliament.nz/media/3633/foxdwbcfq.DWBJqA.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/2015_Portrait_of_Marama_Fox_01.JPG"
@@ -7874,7 +7900,15 @@
       "sort_name": "McCully, Murray"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jian.yang@parliament.govt.nz"
+        }
+      ],
+      "email": "jian.yang@parliament.govt.nz",
       "gender": "male",
+      "honorific_prefix": "Dr",
       "id": "682d9e24-fe31-41f4-847c-5dba55d79f33",
       "identifiers": [
         {
@@ -7886,10 +7920,20 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://www.parliament.nz/media/1399/yang-jian2.C1kn2g.jpg",
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/1399/yang-jian2.C1kn2g.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jian_Yang_(politician)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/JianYangMP"
         }
       ],
       "name": "Jian Yang",
@@ -7914,7 +7958,8 @@
           "name": "Jian Yang",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Yang, Jian"
     },
     {
       "birth_date": "1950-05-08",
@@ -8056,7 +8101,7 @@
           "url": "https://www.parliament.nz/media/1284/dowie-sarah5.C1fwxA.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/824729586650853377/WHkpy9Yv.jpg"
+          "url": "https://pbs.twimg.com/profile_images/829856933364457472/5XhH8eL1.jpg"
         }
       ],
       "links": [
@@ -9145,6 +9190,38 @@
       "sort_name": "Groser, Tim"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Michael.Wood@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "michaelwoodnz"
+        }
+      ],
+      "email": "Michael.Wood@parliament.govt.nz",
+      "id": "744a2155-543c-4396-b5e7-2a96c667cb28",
+      "image": "https://www.parliament.nz/media/1318/labour_logo_june_2016.DRUVNw.jpg",
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/1318/labour_logo_june_2016.DRUVNw.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mwoodnz"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/michaelwoodnz"
+        }
+      ],
+      "name": "Michael Wood",
+      "sort_name": "Wood, Michael"
+    },
+    {
       "birth_date": "1939-07-09",
       "gender": "male",
       "id": "74823596-a9b5-4cab-a09f-0887787ba0c5",
@@ -10231,8 +10308,20 @@
     },
     {
       "birth_date": "1973-11-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Megan.Woods@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "Megan_Woods"
+        }
+      ],
+      "email": "Megan.Woods@parliament.govt.nz",
       "gender": "female",
       "given_name": "Megan",
+      "honorific_prefix": "Dr",
       "id": "7e0f9041-c537-4c55-9ce6-6d29d5534b38",
       "identifiers": [
         {
@@ -10244,8 +10333,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Megan_Woods.jpg",
+      "image": "https://www.parliament.nz/media/1397/woods-megan2.C1kn2g.jpg",
       "images": [
+        {
+          "url": "https://www.parliament.nz/media/1397/woods-megan2.C1kn2g.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Megan_Woods.jpg"
         }
@@ -10254,6 +10346,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Megan_Woods"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/megancwoods"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Megan_Woods"
         }
       ],
       "name": "Megan Woods",
@@ -10278,7 +10378,8 @@
           "name": "Megan Woods",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Woods, Megan"
     },
     {
       "birth_date": "1958",
@@ -11906,6 +12007,17 @@
     },
     {
       "birth_date": "1958",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jonathan.young@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "JonathanYoungMP"
+        }
+      ],
+      "email": "jonathan.young@parliament.govt.nz",
       "gender": "male",
       "given_name": "Jonathan",
       "id": "9637dcae-571e-4697-844d-7659037a8bf3",
@@ -11919,8 +12031,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jonathan_Young.jpg",
+      "image": "https://www.parliament.nz/media/1398/young-jonathan2.C1kn2g.jpg",
       "images": [
+        {
+          "url": "https://www.parliament.nz/media/1398/young-jonathan2.C1kn2g.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jonathan_Young.jpg"
         }
@@ -11929,6 +12044,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jonathan_Young_(politician)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jonathan.youngmp"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JonathanYoungMP"
         }
       ],
       "name": "Jonathan Young",
@@ -11953,7 +12076,8 @@
           "name": "Jonathan Young",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Young, Jonathan"
     },
     {
       "birth_date": "1945-04-11",
@@ -25792,6 +25916,19 @@
     {
       "area_id": "area/list",
       "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/national_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "2becba21-c05b-4be5-8360-bf963b1990e8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2991/woodhouse-michael"
+        }
+      ]
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/nz_first",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "2c3f289d-dcb3-44a7-adae-1159d99ce246",
@@ -26852,6 +26989,19 @@
       "role": "member"
     },
     {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/national_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "682d9e24-fe31-41f4-847c-5dba55d79f33",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3361/yang-jian"
+        }
+      ]
+    },
+    {
       "area_id": "area/northland",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -27049,6 +27199,20 @@
       "role": "member"
     },
     {
+      "area_id": "area/mt_roskill",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/labour",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "744a2155-543c-4396-b5e7-2a96c667cb28",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3731/wood-michael"
+        }
+      ],
+      "start_date": "2016-12-03"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -27195,6 +27359,19 @@
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "7e0f9041-c537-4c55-9ce6-6d29d5534b38",
       "role": "member"
+    },
+    {
+      "area_id": "area/wigram",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/labour_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "7e0f9041-c537-4c55-9ce6-6d29d5534b38",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3351/woods-megan"
+        }
+      ]
     },
     {
       "area_id": "area/list",
@@ -27639,6 +27816,19 @@
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "9637dcae-571e-4697-844d-7659037a8bf3",
       "role": "member"
+    },
+    {
+      "area_id": "area/new_plymouth",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/national_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "9637dcae-571e-4697-844d-7659037a8bf3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2791/young-jonathan"
+        }
+      ]
     },
     {
       "area_id": "area/list",
@@ -30596,6 +30786,11 @@
     {
       "id": "area/mount_roskill",
       "name": "Mount Roskill",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mt_roskill",
+      "name": "Mt Roskill",
       "type": "constituency"
     },
     {
