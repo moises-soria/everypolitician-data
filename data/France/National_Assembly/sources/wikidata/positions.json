@@ -32720,26 +32720,40 @@
   ],
   "Q737311": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
-      "qualifiers": {
-        "P580": "1997",
-        "P582": "2012",
-        "P1365": "René Beaumont"
-      }
-    },
-    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Saône-et-Loire's 6th constituency",
+        "P580": "1997-06-12",
+        "P582": "2002-06-18"
+      }
     },
     {
       "id": "Q3780304",
       "label": "member of the General Council",
       "title": "member of the General Council",
       "description": "elected member of the local assembly of a French department (before March 2015)"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Saône-et-Loire's 6th constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Saône-et-Loire's 6th constituency",
+        "P580": "2007-06-20",
+        "P582": "2012-06-16"
+      }
     }
   ],
   "Q2370745": [
