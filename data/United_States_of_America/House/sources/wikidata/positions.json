@@ -1509,6 +1509,13 @@
       "title": "Member of the United States House of Representatives from Virginia"
     }
   ],
+  "Q16213961": [
+    {
+      "id": "Q18604340",
+      "label": "member of the State Senate of Virginia",
+      "title": "member of the State Senate of Virginia"
+    }
+  ],
   "Q1656192": [
     {
       "id": "Q13218630",
@@ -2510,6 +2517,14 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q16221742": [
+    {
+      "id": "Q18342844",
+      "label": "Member of the Florida House of Representatives",
+      "title": "Member of the Florida House of Representatives",
+      "description": "elected Representative of the legislature of the state of florida"
+    }
+  ],
   "Q971318": [
     {
       "id": "Q13218630",
@@ -3246,6 +3261,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q981559": [
@@ -4015,14 +4035,20 @@
       "title": "United States Senator",
       "description": "member of the United States Senate",
       "qualifiers": {
-        "P580": "2011-01-03"
+        "P580": "2011-01-03",
+        "P582": "2017-01-03"
       }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "1989-01-03",
+        "P580": "1981-01-03",
+        "P1366": "Jill Long Thompson"
+      }
     },
     {
       "id": "Q326552",
@@ -4320,6 +4346,13 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q7375978": [
+    {
+      "id": "Q18341124",
+      "label": "member of the Nevada Assembly",
+      "title": "member of the Nevada Assembly"
+    }
+  ],
   "Q1264861": [
     {
       "id": "Q13218630",
@@ -4504,12 +4537,20 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P768": "Montana's at-large congressional district",
+        "P580": "2015-01-03"
+      }
     },
     {
       "id": "Q21365323",
       "label": "member of the State Senate of Montana",
-      "title": "member of the State Senate of Montana"
+      "title": "member of the State Senate of Montana",
+      "qualifiers": {
+        "P580": "2009-01",
+        "P582": "2011-01"
+      }
     }
   ],
   "Q1530283": [
@@ -4825,6 +4866,14 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q4685569": [
+    {
+      "id": "Q18691526",
+      "label": "member of the State Senate of New York",
+      "title": "member of the State Senate of New York",
+      "description": "elected Representative"
+    }
+  ],
   "Q1680494": [
     {
       "id": "Q13218630",
@@ -5004,6 +5053,12 @@
       "id": "Q18675883",
       "label": "member of the State Senate of Michigan",
       "title": "member of the State Senate of Michigan"
+    },
+    {
+      "id": "Q6837452",
+      "label": "Michigan Attorney General",
+      "title": "Michigan Attorney General",
+      "description": "attorney general for the U.S. state of Michigan"
     }
   ],
   "Q244631": [
@@ -5864,6 +5919,29 @@
         "P1365": "John B. Larson",
         "P1366": "Joseph Crowley"
       }
+    },
+    {
+      "id": "Q3406489",
+      "label": "Attorney General of California",
+      "title": "Attorney General of California",
+      "description": "Attorney General of California, United States",
+      "qualifiers": {
+        "P580": "2017-01-24"
+      }
+    }
+  ],
+  "Q16199304": [
+    {
+      "id": "Q17486298",
+      "label": "Member of the Arizona House of Representatives",
+      "title": "Member of the Arizona House of Representatives",
+      "description": "a member of the House of Representative of the state of Arizona"
+    },
+    {
+      "id": "Q21360913",
+      "label": "member of the State Senate of Arizona",
+      "title": "member of the State Senate of Arizona",
+      "description": "a member of the Senate of the state of Arizona"
     }
   ],
   "Q465767": [
@@ -7339,7 +7417,8 @@
     {
       "id": "Q2855502",
       "label": "chief of police",
-      "title": "chief of police"
+      "title": "chief of police",
+      "description": "law enforcement occupation"
     }
   ],
   "Q1064244": [
@@ -7378,6 +7457,11 @@
         "P1365": "Parris Glendening",
         "P1366": "Martin O'Malley"
       }
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q525308": [
@@ -7559,6 +7643,23 @@
         "P1365": "Greg Laughlin",
         "P1366": "Randy Weber"
       }
+    }
+  ],
+  "Q374693": [
+    {
+      "id": "Q2890950",
+      "label": "Florida Department of Education",
+      "title": "Florida Department of Education"
+    },
+    {
+      "id": "Q19961062",
+      "label": "member of the State Senate of Florida",
+      "title": "member of the State Senate of Florida"
+    },
+    {
+      "id": "Q20198851",
+      "label": "Governor of Florida",
+      "title": "Governor of Florida"
     }
   ],
   "Q459624": [
@@ -8715,6 +8816,14 @@
       }
     }
   ],
+  "Q7817086": [
+    {
+      "id": "Q21360913",
+      "label": "member of the State Senate of Arizona",
+      "title": "member of the State Senate of Arizona",
+      "description": "a member of the Senate of the state of Arizona"
+    }
+  ],
   "Q1933553": [
     {
       "id": "Q13218630",
@@ -8795,6 +8904,14 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    }
+  ],
+  "Q5225162": [
+    {
+      "id": "Q18342844",
+      "label": "Member of the Florida House of Representatives",
+      "title": "Member of the Florida House of Representatives",
+      "description": "elected Representative of the legislature of the state of florida"
     }
   ],
   "Q263856": [
@@ -9962,7 +10079,8 @@
       "qualifiers": {
         "P580": "2013-01-14",
         "P1365": "Mitch Daniels",
-        "P2715": "Indiana gubernatorial election, 2012"
+        "P2715": "Indiana gubernatorial election, 2012",
+        "P582": "2017-01-09"
       }
     },
     {
@@ -9984,7 +10102,19 @@
       "qualifiers": {
         "P642": "presidential transition of Donald Trump",
         "P580": "2016-11-11",
-        "P1365": "Chris Christie"
+        "P1365": "Chris Christie",
+        "P582": "2017-01-20"
+      }
+    },
+    {
+      "id": "Q11699",
+      "label": "Vice President of the United States",
+      "title": "Vice President of the United States",
+      "description": "public office in the United States",
+      "qualifiers": {
+        "P580": "2017-01-20",
+        "P1365": "Joe Biden",
+        "P2715": "United States presidential election, 2016"
       }
     }
   ],
@@ -10333,12 +10463,20 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2011-01-03",
+        "P768": "South Carolina's 5th congressional district"
+      }
     },
     {
       "id": "Q18676729",
       "label": "member of the State Senate of South Carolina",
-      "title": "member of the State Senate of South Carolina"
+      "title": "member of the State Senate of South Carolina",
+      "qualifiers": {
+        "P582": "2011-01-03",
+        "P580": "2009-01-03"
+      }
     },
     {
       "id": "Q19754409",
@@ -10359,7 +10497,10 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "2015-01-03"
+      }
     }
   ],
   "Q1544902": [
@@ -10823,6 +10964,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q928855": [
@@ -11207,7 +11353,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "2011-01-03",
+        "P580": "1983-01-03",
+        "P768": "South Carolina's 5th congressional district"
+      }
     }
   ],
   "Q7815723": [
@@ -11668,6 +11819,19 @@
       "id": "Q19754409",
       "label": "member of the South Carolina House of Representatives",
       "title": "member of the South Carolina House of Representatives"
+    }
+  ],
+  "Q6685454": [
+    {
+      "id": "Q18180908",
+      "label": "member of the California State Assembly",
+      "title": "member of the California State Assembly",
+      "description": "elected Representative in California, USA"
+    },
+    {
+      "id": "Q19690441",
+      "label": "member of the State Senate of California",
+      "title": "member of the State Senate of California"
     }
   ],
   "Q970461": [
@@ -12266,6 +12430,19 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q4772558": [
+    {
+      "id": "Q383699",
+      "label": "Lieutenant Governor of Maryland",
+      "title": "Lieutenant Governor of Maryland",
+      "description": "position"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
+    }
+  ],
   "Q5300982": [
     {
       "id": "Q13218630",
@@ -12455,6 +12632,18 @@
         "P582": "2001-01-03",
         "P1365": "Tom Gallagher",
         "P1366": "Tom Gallagher"
+      }
+    }
+  ],
+  "Q18978140": [
+    {
+      "id": "Q20065405",
+      "label": "member of the State Senate of Washington",
+      "title": "member of the State Senate of Washington",
+      "qualifiers": {
+        "P580": "2015-01-12",
+        "P768": "Washington's 37th legislative district",
+        "P1365": "Adam Kline"
       }
     }
   ],
@@ -13314,6 +13503,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q1885893": [
@@ -13718,6 +13912,15 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q27656",
+      "label": "Director of the Central Intelligence Agency",
+      "title": "Director of the Central Intelligence Agency",
+      "description": "head of the Central Intelligence Agency",
+      "qualifiers": {
+        "P580": "2017-01-23"
+      }
     }
   ],
   "Q2159188": [
@@ -14114,16 +14317,6 @@
   ],
   "Q50104": [
     {
-      "id": "Q13218630",
-      "label": "United States representative",
-      "title": "United States representative",
-      "description": "elected representative in the US",
-      "qualifiers": {
-        "P580": "2011-05-04",
-        "P1365": "Donna Brazile"
-      }
-    },
-    {
       "id": "Q18342844",
       "label": "Member of the Florida House of Representatives",
       "title": "Member of the Florida House of Representatives",
@@ -14133,6 +14326,17 @@
       "id": "Q19961062",
       "label": "member of the State Senate of Florida",
       "title": "member of the State Senate of Florida"
+    },
+    {
+      "id": "Q28485800",
+      "label": "Chair of the Democratic National Committee",
+      "title": "Chair of the Democratic National Committee",
+      "description": "Leader of the Democratic National Committee",
+      "qualifiers": {
+        "P580": "2011-05-04",
+        "P582": "2016-07-28",
+        "P1366": "Donna Brazile"
+      }
     }
   ],
   "Q1373041": [
@@ -15684,6 +15888,13 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q6662742": [
+    {
+      "id": "Q18199902",
+      "label": "member of the State Senate of Pennsylvania",
+      "title": "member of the State Senate of Pennsylvania"
+    }
+  ],
   "Q2913204": [
     {
       "id": "Q13218630",
@@ -16330,6 +16541,13 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q16146788": [
+    {
+      "id": "Q19362907",
+      "label": "member of the State Senate of Indiana",
+      "title": "member of the State Senate of Indiana"
+    }
+  ],
   "Q2059832": [
     {
       "id": "Q13218630",
@@ -16509,6 +16727,14 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    }
+  ],
+  "Q19880665": [
+    {
+      "id": "Q17355090",
+      "label": "member of the Louisiana House of Representatives",
+      "title": "member of the Louisiana House of Representatives",
+      "description": "elected representative"
     }
   ],
   "Q1065931": [
@@ -17130,6 +17356,11 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    },
+    {
+      "id": "Q20064986",
+      "label": "member of the Maryland House of Delegates",
+      "title": "member of the Maryland House of Delegates"
     }
   ],
   "Q920096": [
@@ -17990,6 +18221,13 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    }
+  ],
+  "Q4647699": [
+    {
+      "id": "Q18604340",
+      "label": "member of the State Senate of Virginia",
+      "title": "member of the State Senate of Virginia"
     }
   ],
   "Q510858": [
@@ -19534,6 +19772,19 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    }
+  ],
+  "Q4723052": [
+    {
+      "id": "Q18342844",
+      "label": "Member of the Florida House of Representatives",
+      "title": "Member of the Florida House of Representatives",
+      "description": "elected Representative of the legislature of the state of florida"
+    },
+    {
+      "id": "Q19961062",
+      "label": "member of the State Senate of Florida",
+      "title": "member of the State Senate of Florida"
     }
   ],
   "Q1523824": [
