@@ -9146,6 +9146,10 @@
         {
           "identifier": "5830465",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28677271",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160512.jpg",
@@ -9154,7 +9158,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160512.jpg"
         }
       ],
-      "name": "AUREO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Áureo_Lídio_Moreira_Ribeiro"
+        }
+      ],
+      "name": "AUREO",
+      "other_names": [
+        {
+          "name": "Áureo Lídio Moreira Ribeiro",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Áureo Lídio Moreira Ribeiro",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-03-09",
@@ -10138,6 +10159,10 @@
         {
           "identifier": "5830806",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678130",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160676.jpg",
@@ -10146,7 +10171,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160676.jpg"
         }
       ],
-      "name": "FERNANDO TORRES"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fernando_Dantas_Torres"
+        }
+      ],
+      "name": "FERNANDO TORRES",
+      "other_names": [
+        {
+          "name": "Fernando Dantas Torres",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Fernando Dantas Torres",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-01-26",
@@ -11078,6 +11120,7 @@
       ]
     },
     {
+      "birth_date": "1986-11-26",
       "contact_details": [
         {
           "type": "email",
@@ -11086,6 +11129,10 @@
         {
           "type": "phone",
           "value": "(61) 3215-5508 - 3215-2508"
+        },
+        {
+          "type": "twitter",
+          "value": "marianapsdb"
         }
       ],
       "email": "dep.marianacarvalho@camara.leg.br",
@@ -11095,6 +11142,10 @@
         {
           "identifier": "5830624",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20046022",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178956.jpg",
@@ -11103,7 +11154,37 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178956.jpg"
         }
       ],
-      "name": "MARIANA CARVALHO"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mariana_Carvalho"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Mariana_Carvalho"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/marianacarvalho45"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/marianapsdb"
+        }
+      ],
+      "name": "MARIANA CARVALHO",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Mariana Carvalho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mariana Carvalho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1986-08-15",
@@ -17592,14 +17673,127 @@
       ]
     },
     {
+      "birth_date": "1944",
+      "gender": "female",
       "id": "55ac9f2b-8cdd-416f-b2d5-b64336985447",
+      "identifiers": [
+        {
+          "identifier": "/m/02pq0yh",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3179810",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/73992.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/73992.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yeda_Crusius_em_outubro_de_2010.jpg"
         }
       ],
-      "name": "YEDA CRUSIUS"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Йєда_Красіус"
+        }
+      ],
+      "name": "YEDA CRUSIUS",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Йєда Красіус",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -20743,6 +20937,10 @@
         {
           "identifier": "5830552",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678579",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141427.jpg",
@@ -20751,7 +20949,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141427.jpg"
         }
       ],
-      "name": "FÁBIO RAMALHO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fábio_Ramalho"
+        }
+      ],
+      "name": "FÁBIO RAMALHO",
+      "other_names": [
+        {
+          "name": "Fábio Ramalho",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Fábio Ramalho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-12-10",
@@ -24090,6 +24305,10 @@
         {
           "identifier": "5830620",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678127",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178941.jpg",
@@ -24098,7 +24317,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178941.jpg"
         }
       ],
-      "name": "EZEQUIEL TEIXEIRA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ezequiel_Teixeira"
+        }
+      ],
+      "name": "EZEQUIEL TEIXEIRA",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Ezequiel Teixeira",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-05-06",
@@ -24361,6 +24593,7 @@
       "name": "ILÁRIO MARQUES"
     },
     {
+      "birth_date": "1955-07-21",
       "contact_details": [
         {
           "type": "email",
@@ -24378,6 +24611,10 @@
         {
           "identifier": "5830399",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10263709",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141411.jpg",
@@ -24386,7 +24623,69 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141411.jpg"
         }
       ],
-      "name": "DAGOBERTO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Dagoberto_Nogueira_Filho"
+        }
+      ],
+      "name": "DAGOBERTO",
+      "other_names": [
+        {
+          "name": "Dagoberto Nogueira Filho",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-08-01",
@@ -33229,6 +33528,10 @@
         {
           "identifier": "5830525",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678608",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160576.jpg",
@@ -33237,7 +33540,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160576.jpg"
         }
       ],
-      "name": "CÉSAR HALUM"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/César_Halum"
+        }
+      ],
+      "name": "CÉSAR HALUM",
+      "other_names": [
+        {
+          "name": "César Halum",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "César Halum",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -37111,6 +37431,10 @@
         {
           "identifier": "5830311",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28677571",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178994.jpg",
@@ -37119,7 +37443,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178994.jpg"
         }
       ],
-      "name": "DULCE MIRANDA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Dulce_Miranda"
+        }
+      ],
+      "name": "DULCE MIRANDA",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Dulce Miranda",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-05-26",
@@ -39860,13 +40197,32 @@
     {
       "gender": "male",
       "id": "bf3d5cb4-dc55-4d9a-8718-fa30e1f28c4b",
+      "identifiers": [
+        {
+          "identifier": "Q28465686",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193069.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/193069.jpg"
         }
       ],
-      "name": "NELSON NAHIM"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Nelson_Nahim"
+        }
+      ],
+      "name": "NELSON NAHIM",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Nelson Nahim",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -40055,6 +40411,7 @@
       "name": "ADILTON SACHETTI"
     },
     {
+      "birth_date": "1989-08-27",
       "contact_details": [
         {
           "type": "email",
@@ -40067,20 +40424,79 @@
       ],
       "email": "dep.andrefufuca@camara.leg.br",
       "gender": "male",
+      "given_name": "André",
       "id": "bfbc6b45-4b2f-4e9d-ae93-139aeba3e7de",
       "identifiers": [
         {
           "identifier": "5830768",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24150974",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178882.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178882.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Deputado_Federal_André_Fufuca.jpg"
         }
       ],
-      "name": "ANDRÉ FUFUCA"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/André_Fufuca"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/André_Fufuca"
+        }
+      ],
+      "name": "ANDRÉ FUFUCA",
+      "other_names": [
+        {
+          "name": "André Fufuca",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -42506,6 +42922,10 @@
         {
           "identifier": "5830707",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678126",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160677.jpg",
@@ -42514,7 +42934,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160677.jpg"
         }
       ],
-      "name": "FRANCISCO FLORIANO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Francisco_Floriano"
+        }
+      ],
+      "name": "FRANCISCO FLORIANO",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Francisco Floriano",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-02-18",
@@ -49674,6 +50107,10 @@
         {
           "identifier": "5830639",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678618",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74163.jpg",
@@ -49682,7 +50119,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74163.jpg"
         }
       ],
-      "name": "CARLOS MANATO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Carlos_Manato"
+        }
+      ],
+      "name": "CARLOS MANATO",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Carlos Manato",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1934-07-30",
