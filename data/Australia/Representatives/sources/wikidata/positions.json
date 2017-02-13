@@ -8636,7 +8636,12 @@
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Hunter",
+        "P580": "1980",
+        "P582": "1984"
+      }
     },
     {
       "id": "Q19202748",
