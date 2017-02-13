@@ -9195,6 +9195,7 @@
       "sort_name": "Groser, Tim"
     },
     {
+      "birth_date": "1980-05-10",
       "contact_details": [
         {
           "type": "email",
@@ -9206,7 +9207,15 @@
         }
       ],
       "email": "Michael.Wood@parliament.govt.nz",
+      "gender": "male",
+      "given_name": "Michael",
       "id": "744a2155-543c-4396-b5e7-2a96c667cb28",
+      "identifiers": [
+        {
+          "identifier": "Q27950864",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/1318/labour_logo_june_2016.DRUVNw.jpg",
       "images": [
         {
@@ -9214,6 +9223,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Wood_(New_Zealand_politician)"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/mwoodnz"
@@ -9224,6 +9237,13 @@
         }
       ],
       "name": "Michael Wood",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Michael Wood",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wood, Michael"
     },
     {
