@@ -4286,6 +4286,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0000 5492 9705",
+          "scheme": "isni"
+        },
+        {
           "identifier": "78795155",
           "scheme": "viaf"
         },
@@ -4830,6 +4834,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74550.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Secretário_de_Infraestrutura,_João_Leão_toma_posse.jpg"
         }
       ],
       "links": [
@@ -9139,6 +9146,10 @@
         {
           "identifier": "5830465",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28677271",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160512.jpg",
@@ -9147,7 +9158,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160512.jpg"
         }
       ],
-      "name": "AUREO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Áureo_Lídio_Moreira_Ribeiro"
+        }
+      ],
+      "name": "AUREO",
+      "other_names": [
+        {
+          "name": "Áureo Lídio Moreira Ribeiro",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Áureo Lídio Moreira Ribeiro",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-03-09",
@@ -10131,6 +10159,10 @@
         {
           "identifier": "5830806",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678130",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160676.jpg",
@@ -10139,7 +10171,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160676.jpg"
         }
       ],
-      "name": "FERNANDO TORRES"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fernando_Dantas_Torres"
+        }
+      ],
+      "name": "FERNANDO TORRES",
+      "other_names": [
+        {
+          "name": "Fernando Dantas Torres",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Fernando Dantas Torres",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-01-26",
@@ -11071,6 +11120,7 @@
       ]
     },
     {
+      "birth_date": "1986-11-26",
       "contact_details": [
         {
           "type": "email",
@@ -11079,6 +11129,10 @@
         {
           "type": "phone",
           "value": "(61) 3215-5508 - 3215-2508"
+        },
+        {
+          "type": "twitter",
+          "value": "marianapsdb"
         }
       ],
       "email": "dep.marianacarvalho@camara.leg.br",
@@ -11088,6 +11142,10 @@
         {
           "identifier": "5830624",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20046022",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178956.jpg",
@@ -11096,7 +11154,37 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178956.jpg"
         }
       ],
-      "name": "MARIANA CARVALHO"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mariana_Carvalho"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Mariana_Carvalho"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/marianacarvalho45"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/marianapsdb"
+        }
+      ],
+      "name": "MARIANA CARVALHO",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Mariana Carvalho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mariana Carvalho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1986-08-15",
@@ -17585,14 +17673,127 @@
       ]
     },
     {
+      "birth_date": "1944",
+      "gender": "female",
       "id": "55ac9f2b-8cdd-416f-b2d5-b64336985447",
+      "identifiers": [
+        {
+          "identifier": "/m/02pq0yh",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3179810",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/73992.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/73992.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yeda_Crusius_em_outubro_de_2010.jpg"
         }
       ],
-      "name": "YEDA CRUSIUS"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Yeda_Crusius"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Йєда_Красіус"
+        }
+      ],
+      "name": "YEDA CRUSIUS",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Yeda Crusius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Йєда Красіус",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -19002,7 +19203,67 @@
           "note": "alternate"
         },
         {
+          "lang": "af",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
           "name": "João Rodrigues",
           "note": "multilingual"
         },
@@ -19012,12 +19273,297 @@
           "note": "multilingual"
         },
         {
+          "lang": "en-ca",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "João Rodrigues",
           "note": "multilingual"
         },
         {
+          "lang": "frp",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "João Rodrigues",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "João Rodrigues",
           "note": "multilingual"
         }
@@ -20391,6 +20937,10 @@
         {
           "identifier": "5830552",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678579",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141427.jpg",
@@ -20399,7 +20949,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141427.jpg"
         }
       ],
-      "name": "FÁBIO RAMALHO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fábio_Ramalho"
+        }
+      ],
+      "name": "FÁBIO RAMALHO",
+      "other_names": [
+        {
+          "name": "Fábio Ramalho",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Fábio Ramalho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-12-10",
@@ -21513,6 +22080,10 @@
         {
           "type": "phone",
           "value": "(61) 3215-5226 - 3215-2226"
+        },
+        {
+          "type": "twitter",
+          "value": "maragabrilli"
         }
       ],
       "email": "dep.maragabrilli@camara.leg.br",
@@ -21558,6 +22129,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Mara_Gabrilli"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/maragabrilli"
         }
       ],
       "name": "MARA GABRILLI",
@@ -23617,6 +24192,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "761374c6-71b7-4e08-be15-8240990f6529",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/196357.jpg",
       "images": [
@@ -23729,6 +24305,10 @@
         {
           "identifier": "5830620",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678127",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178941.jpg",
@@ -23737,7 +24317,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178941.jpg"
         }
       ],
-      "name": "EZEQUIEL TEIXEIRA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ezequiel_Teixeira"
+        }
+      ],
+      "name": "EZEQUIEL TEIXEIRA",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Ezequiel Teixeira",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-05-06",
@@ -24000,6 +24593,7 @@
       "name": "ILÁRIO MARQUES"
     },
     {
+      "birth_date": "1955-07-21",
       "contact_details": [
         {
           "type": "email",
@@ -24017,6 +24611,10 @@
         {
           "identifier": "5830399",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10263709",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141411.jpg",
@@ -24025,7 +24623,69 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141411.jpg"
         }
       ],
-      "name": "DAGOBERTO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Dagoberto_Nogueira_Filho"
+        }
+      ],
+      "name": "DAGOBERTO",
+      "other_names": [
+        {
+          "name": "Dagoberto Nogueira Filho",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dagoberto Nogueira Filho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-08-01",
@@ -24701,6 +25361,7 @@
       ]
     },
     {
+      "birth_date": "1962-07-22",
       "gender": "male",
       "id": "7d8cdbed-8780-4a26-8ef7-8365d0094864",
       "identifiers": [
@@ -27400,7 +28061,7 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160599.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vga_bandeira.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_Varginha_(Minas_Gerais).jpg"
         }
       ],
       "links": [
@@ -28892,6 +29553,7 @@
       ]
     },
     {
+      "birth_date": "1973-04-07",
       "contact_details": [
         {
           "type": "email",
@@ -28929,6 +29591,11 @@
       ],
       "name": "ALEXANDRE VALLE",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Alexandre Valle",
+          "note": "multilingual"
+        },
         {
           "lang": "nl",
           "name": "Alexandre Valle",
@@ -29065,6 +29732,7 @@
         }
       ],
       "email": "dep.antoniobrito@camara.leg.br",
+      "family_name": "Brito",
       "gender": "male",
       "given_name": "Antonio",
       "id": "90a328b8-f4e4-40cb-a1b6-cc6daf20407b",
@@ -29775,7 +30443,7 @@
         },
         {
           "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Mendonça_Filho"
+          "url": "https://pt.wikipedia.org/wiki/José_Mendonça_Filho"
         }
       ],
       "name": "MENDONÇA FILHO",
@@ -30835,6 +31503,10 @@
         {
           "identifier": "5830427",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/057zsj",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q2920668",
@@ -32856,6 +33528,10 @@
         {
           "identifier": "5830525",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678608",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160576.jpg",
@@ -32864,7 +33540,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160576.jpg"
         }
       ],
-      "name": "CÉSAR HALUM"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/César_Halum"
+        }
+      ],
+      "name": "CÉSAR HALUM",
+      "other_names": [
+        {
+          "name": "César Halum",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "César Halum",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -36738,6 +37431,10 @@
         {
           "identifier": "5830311",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28677571",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178994.jpg",
@@ -36746,7 +37443,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178994.jpg"
         }
       ],
-      "name": "DULCE MIRANDA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Dulce_Miranda"
+        }
+      ],
+      "name": "DULCE MIRANDA",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Dulce Miranda",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-05-26",
@@ -36758,6 +37468,10 @@
         {
           "type": "phone",
           "value": "(61) 3215-5301 - 3215-2301"
+        },
+        {
+          "type": "twitter",
+          "value": "EdmilsonPSOL"
         }
       ],
       "email": "dep.edmilsonrodrigues@camara.leg.br",
@@ -36799,6 +37513,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Edmilson_Rodrigues"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EdmilsonPSOL"
         },
         {
           "note": "website",
@@ -37901,6 +38619,10 @@
         {
           "type": "phone",
           "value": "(61) 3215-5554 - 3215-2554"
+        },
+        {
+          "type": "twitter",
+          "value": "aleserfiotis"
         }
       ],
       "email": "dep.alexandreserfiotis@camara.leg.br",
@@ -37926,6 +38648,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Alexandre_Serfiotis"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/aleserfiotis"
         }
       ],
       "name": "ALEXANDRE SERFIOTIS",
@@ -39471,13 +40197,32 @@
     {
       "gender": "male",
       "id": "bf3d5cb4-dc55-4d9a-8718-fa30e1f28c4b",
+      "identifiers": [
+        {
+          "identifier": "Q28465686",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193069.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/193069.jpg"
         }
       ],
-      "name": "NELSON NAHIM"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Nelson_Nahim"
+        }
+      ],
+      "name": "NELSON NAHIM",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Nelson Nahim",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -39666,6 +40411,7 @@
       "name": "ADILTON SACHETTI"
     },
     {
+      "birth_date": "1989-08-27",
       "contact_details": [
         {
           "type": "email",
@@ -39678,20 +40424,79 @@
       ],
       "email": "dep.andrefufuca@camara.leg.br",
       "gender": "male",
+      "given_name": "André",
       "id": "bfbc6b45-4b2f-4e9d-ae93-139aeba3e7de",
       "identifiers": [
         {
           "identifier": "5830768",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24150974",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178882.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178882.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Deputado_Federal_André_Fufuca.jpg"
         }
       ],
-      "name": "ANDRÉ FUFUCA"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/André_Fufuca"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/André_Fufuca"
+        }
+      ],
+      "name": "ANDRÉ FUFUCA",
+      "other_names": [
+        {
+          "name": "André Fufuca",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "André Fufuca",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -39935,6 +40740,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jovair_Arantes"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jovair_Arantes"
@@ -42113,6 +42922,10 @@
         {
           "identifier": "5830707",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678126",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160677.jpg",
@@ -42121,7 +42934,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160677.jpg"
         }
       ],
-      "name": "FRANCISCO FLORIANO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Francisco_Floriano"
+        }
+      ],
+      "name": "FRANCISCO FLORIANO",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Francisco Floriano",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-02-18",
@@ -42666,6 +43492,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Celso_Pansera"
+        },
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Celso_Pansera"
@@ -47722,6 +48552,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Benedita_da_Silva"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Benedita_da_Silva"
         },
@@ -49273,6 +50107,10 @@
         {
           "identifier": "5830639",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28678618",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74163.jpg",
@@ -49281,7 +50119,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74163.jpg"
         }
       ],
-      "name": "CARLOS MANATO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Carlos_Manato"
+        }
+      ],
+      "name": "CARLOS MANATO",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Carlos Manato",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1934-07-30",
