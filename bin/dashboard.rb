@@ -42,6 +42,8 @@ data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
     wd_parties:          stats[:groups][:wikidata],
     terms:               l.legislative_periods.count,
     wd_terms:            stats[:terms][:wikidata],
+    areas:               stats[:areas][:count],
+    wd_areas:            stats[:areas][:wikidata],
     elections:           stats[:elections][:count],
     latest_election:     stats[:elections][:latest],
     latest_term:         l.legislative_periods.first.raw_data[:start_date],
