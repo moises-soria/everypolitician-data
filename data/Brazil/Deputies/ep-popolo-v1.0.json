@@ -21810,6 +21810,10 @@
         {
           "identifier": "5830549",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28758709",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74216.jpg",
@@ -21818,7 +21822,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74216.jpg"
         }
       ],
-      "name": "RAIMUNDO GOMES DE MATOS"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Raimundo_Gomes_de_Matos"
+        }
+      ],
+      "name": "RAIMUNDO GOMES DE MATOS",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Raimundo Gomes de Matos",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1935-12-08",
@@ -49769,6 +49786,10 @@
         {
           "identifier": "5830366",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28758861",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/129618.jpg",
@@ -49777,7 +49798,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/129618.jpg"
         }
       ],
-      "name": "GORETE PEREIRA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Maria_Gorete_Pereira"
+        }
+      ],
+      "name": "GORETE PEREIRA",
+      "other_names": [
+        {
+          "name": "Maria Gorete Pereira",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Maria Gorete Pereira",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "e8b81756-b0e6-438c-9a93-ccb24797db33",
