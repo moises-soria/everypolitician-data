@@ -32,6 +32,7 @@
       ]
     },
     {
+      "birth_date": "1970-01-02",
       "contact_details": [
         {
           "type": "phone",
@@ -43,18 +44,29 @@
         {
           "identifier": "684",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "tijjani-jobe-abdulkadir",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/684.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/684.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/tijjani-jobe-abdulkadir"
         }
       ],
       "name": "TIJJANI ABDUL KADIR",
       "other_names": [
         {
           "name": "TIJJANI JOBE ABDUL KADIR",
+          "note": "alternate"
+        },
+        {
+          "name": "TIJJANI JOBE ABDULKADIR",
           "note": "alternate"
         }
       ]
@@ -88,29 +100,47 @@
       ]
     },
     {
+      "birth_date": "1959-12-25",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "jamesfaleke.jf@gmail.com"
+        },
         {
           "type": "phone",
           "value": "08076669103"
         }
       ],
+      "email": "jamesfaleke.jf@gmail.com",
+      "gender": "male",
       "id": "0116052b-c1a1-4053-89b2-a255e56f976d",
       "identifiers": [
         {
           "identifier": "882",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "james-abiodun-faleke",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/882.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/882.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/falake-james-abiodu"
         }
       ],
       "name": "FALEKE ABIODUN",
       "other_names": [
         {
           "name": "FALEKE JAMES ABIODUN",
+          "note": "alternate"
+        },
+        {
+          "name": "JAMES ABIODUN FALEKE",
           "note": "alternate"
         }
       ]
@@ -244,29 +274,46 @@
       ]
     },
     {
+      "birth_date": "1965-07-13",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "bolafamurewa@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08033079790"
         }
       ],
+      "email": "bolafamurewa@yahoo.com",
       "id": "078f3198-ad87-45dd-8f6f-fa419eb79316",
       "identifiers": [
         {
           "identifier": "799",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "famurewa-israel-ajibola",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/799.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/799.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/famurewa-israel-ajibola"
         }
       ],
       "name": "AJIBOLA FAMUREWA",
       "other_names": [
         {
           "name": "AJIBOLA ISRAEL FAMUREWA",
+          "note": "alternate"
+        },
+        {
+          "name": "FAMUREWA ISRAEL AJIBOLA",
           "note": "alternate"
         }
       ]
@@ -300,27 +347,44 @@
       ]
     },
     {
+      "birth_date": "1962-03-10",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "karimisunday@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08053712282"
         }
       ],
+      "email": "karimisunday@yahoo.com",
       "id": "0baa5a03-b1e0-4e66-b3f9-daee8bacb87d",
       "identifiers": [
         {
           "identifier": "857",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "sunday-steve-karim",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/857.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/857.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/sunday-steve-karim"
         }
       ],
       "name": "SUNDAY KARIMI",
       "other_names": [
+        {
+          "name": "SUNDAY STEVE KARIMI",
+          "note": "alternate"
+        },
         {
           "name": "SUNDAY STIVE KARIMI",
           "note": "alternate"
@@ -400,27 +464,40 @@
       ]
     },
     {
+      "birth_date": "1969-10-24",
       "contact_details": [
         {
           "type": "phone",
           "value": "08023145608"
         }
       ],
+      "gender": "female",
       "id": "0d39a31a-e14e-4141-af64-446f3db43247",
       "identifiers": [
         {
           "identifier": "847",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nnenna-ijeoma-elendu-ukeje",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/847.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/847.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nnenna-ijeoma-ukeje"
         }
       ],
       "name": "Nnenna Elendu",
       "other_names": [
+        {
+          "name": "NNENNA IJEOMA ELENDU-UKEJE",
+          "note": "alternate"
+        },
         {
           "name": "Nnenna Ukeje Elendu",
           "note": "alternate"
@@ -428,27 +505,44 @@
       ]
     },
     {
+      "birth_date": "1960-11-22",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "umarjibril57@gmail.com"
+        },
         {
           "type": "phone",
           "value": "08036009559"
         }
       ],
+      "email": "umarjibril57@gmail.com",
       "id": "10414161-787c-4423-a6f3-bf0547665d19",
       "identifiers": [
         {
           "identifier": "874",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "umar-buba-jibril",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/874.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/874.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/umar-buba-jibril"
         }
       ],
       "name": "UMAR JIBRIL",
       "other_names": [
+        {
+          "name": "UMAR BUBA JIBRIL",
+          "note": "alternate"
+        },
         {
           "name": "UMAR BUBA JIBRIL",
           "note": "alternate"
@@ -562,6 +656,7 @@
       ]
     },
     {
+      "birth_date": "1962-08-03",
       "contact_details": [
         {
           "type": "phone",
@@ -573,16 +668,27 @@
         {
           "identifier": "660",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "toby-okechukwu-toby",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/660.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/660.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/toby-okechukwu-toby"
         }
       ],
       "name": "TOBY OKECHUKWU",
       "other_names": [
+        {
+          "name": "TOBY OKECHUKWU TOBY",
+          "note": "alternate"
+        },
         {
           "name": "TOBY OKEY OKECHUKWU",
           "note": "alternate"
@@ -590,6 +696,7 @@
       ]
     },
     {
+      "birth_date": "1974-02-07",
       "contact_details": [
         {
           "type": "phone",
@@ -601,12 +708,26 @@
         {
           "identifier": "773",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "samson-okwu",
+          "scheme": "shineyoureye"
+        }
+      ],
+      "image": "http://www.shineyoureye.org/media_root/images/samson-okwu",
+      "images": [
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/samson-okwu"
         }
       ],
       "name": "AJA SAMSON",
       "other_names": [
         {
           "name": "AJA OKWU SAMSON",
+          "note": "alternate"
+        },
+        {
+          "name": "SAMSON OKWU",
           "note": "alternate"
         }
       ]
@@ -746,27 +867,40 @@
       ]
     },
     {
+      "birth_date": "1967-01-04",
       "contact_details": [
         {
           "type": "phone",
           "value": "07030998352"
         }
       ],
+      "gender": "male",
       "id": "1acd5fb5-c9ee-41e2-8236-8e7e64ba5207",
       "identifiers": [
         {
           "identifier": "921",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "abdullahi-muhammed-wamakko",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/921.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/921.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/abdullahi-muhammed-wamakk"
         }
       ],
       "name": "ABDULLAHI MOHAMMED",
       "other_names": [
+        {
+          "name": "ABDULLAHI MUHAMMED WAMAKKO",
+          "note": "alternate"
+        },
         {
           "name": "ABDULLAHI WAMAKKO MOHAMMED",
           "note": "alternate"
@@ -852,6 +986,7 @@
       ]
     },
     {
+      "birth_date": "1964-05-20",
       "contact_details": [
         {
           "type": "phone",
@@ -863,12 +998,19 @@
         {
           "identifier": "798",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nwokolo-onyemechi-victor",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/798.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/798.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nwokolo-onyemechi-victor"
         }
       ],
       "name": "NWOKOLO VICTOR",
@@ -876,31 +1018,52 @@
         {
           "name": "NWOKOLO O. VICTOR",
           "note": "alternate"
+        },
+        {
+          "name": "NWOKOLO ONYEMECHI VICTOR",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1961-11-03",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "azodoeucharia@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08033333154"
         }
       ],
+      "email": "azodoeucharia@yahoo.com",
       "id": "2042f878-8ec3-4d2e-a7ac-d5cba38fdd56",
       "identifiers": [
         {
           "identifier": "785",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "azodo-okwunna-eucharia",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/785.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/785.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/azodo-okwunna-eucharia"
         }
       ],
       "name": "Eucharia Okwunna",
       "other_names": [
+        {
+          "name": "AZODO OKWUNNA EUCHARIA",
+          "note": "alternate"
+        },
         {
           "name": "Eucharia Azodo Okwunna",
           "note": "alternate"
@@ -936,6 +1099,7 @@
       ]
     },
     {
+      "birth_date": "1975-06-19",
       "contact_details": [
         {
           "type": "phone",
@@ -947,18 +1111,29 @@
         {
           "identifier": "729",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "khamisu-mailantarki-ahmed",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/729.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/729.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/khamisu-mailantarki-ahmed"
         }
       ],
       "name": "KHAMISU AHM AHMED",
       "other_names": [
         {
           "name": "KHAMISU AHM MAILANTARKI AHMED",
+          "note": "alternate"
+        },
+        {
+          "name": "KHAMISU MAILANTARKI AHMED",
           "note": "alternate"
         }
       ]
@@ -1016,27 +1191,43 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "sabema374@gmail.com"
+        },
+        {
           "type": "phone",
           "value": "08033423837"
         }
       ],
+      "email": "sabema374@gmail.com",
       "id": "24a57e06-1019-4ed5-a6a9-99af12871b17",
       "identifiers": [
         {
           "identifier": "853",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "sani-bello-mashi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/853.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/853.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/Mashi-Dutsi_-_BELLO_MASHI_SANI.jpg"
         }
       ],
       "name": "BELLO SANI",
       "other_names": [
         {
           "name": "BELLO MASHI SANI",
+          "note": "alternate"
+        },
+        {
+          "name": "SANI BELLO MASHI",
           "note": "alternate"
         }
       ]
@@ -1070,6 +1261,7 @@
       ]
     },
     {
+      "birth_date": "1964-11-28",
       "contact_details": [
         {
           "type": "phone",
@@ -1081,18 +1273,29 @@
         {
           "identifier": "765",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "peter-ohiozoje-akpatason",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/765.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/765.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/peter-ohiozoje-akpatason"
         }
       ],
       "name": "OHIOZOJEH AKPATASON",
       "other_names": [
         {
           "name": "OHIOZOJEH PETER AKPATASON",
+          "note": "alternate"
+        },
+        {
+          "name": "PETER OHIOZOJEH AKPATASON",
           "note": "alternate"
         }
       ]
@@ -1128,25 +1331,46 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "sssalisco@yahoo.com"
+        },
+        {
+          "type": "email",
+          "value": "suleimansalisco77@gmail.com"
+        },
+        {
           "type": "phone",
           "value": "08035904484"
         }
       ],
+      "email": "sssalisco@yahoo.com",
+      "gender": "male",
       "id": "26d3efdc-7eb1-475e-9201-c3616d1a8953",
       "identifiers": [
         {
           "identifier": "914",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "salisu-salisco",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/914.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/914.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/Kaita-Jibia_-_suleiman_salisu.jpg"
         }
       ],
       "name": "suleiman salisu",
       "other_names": [
+        {
+          "name": "SALISU SULEIMAN SALISCO",
+          "note": "alternate"
+        },
         {
           "name": "suleiman salisu",
           "note": "alternate"
@@ -1154,23 +1378,42 @@
       ]
     },
     {
+      "birth_date": "1977-06-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rachangs@yahoo.com"
+        }
+      ],
+      "email": "rachangs@yahoo.com",
       "id": "27b4d513-0f89-4e90-bc17-cc6f4c6f4789",
       "identifiers": [
         {
           "identifier": "460",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "chanchangi-rufai-ahmed",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/460.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/460.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/chanchangi-rufai-ahmed"
         }
       ],
       "name": "AHMED RUFAI",
       "other_names": [
         {
           "name": "AHMED CHANCHANGI RUFAI",
+          "note": "alternate"
+        },
+        {
+          "name": "CHANCHANGI RUFAI AHMED",
           "note": "alternate"
         }
       ]
@@ -1204,15 +1447,30 @@
       ]
     },
     {
+      "birth_date": "1969-08-10",
       "id": "284c5ab4-af02-4a34-9e3d-23f8f53964a0",
       "identifiers": [
         {
           "identifier": "551",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "hembe-herman-iorwase",
+          "scheme": "shineyoureye"
+        }
+      ],
+      "image": "http://www.shineyoureye.org/media_root/images/hembe-herman-iorwase",
+      "images": [
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/hembe-herman-iorwase"
         }
       ],
       "name": "HERMAN HEMBE",
       "other_names": [
+        {
+          "name": "HEMBE HERMAN IORWASE",
+          "note": "alternate"
+        },
         {
           "name": "HERMAN IORWASE HEMBE",
           "note": "alternate"
@@ -1248,15 +1506,37 @@
       ]
     },
     {
+      "birth_date": "1961-11-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "askadepoju@yahoo.com"
+        }
+      ],
+      "email": "askadepoju@yahoo.com",
       "id": "299c9fe3-3f1a-4a45-a1ea-d239a3968240",
       "identifiers": [
         {
           "identifier": "782",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "adepoju-sunday-adeyemi",
+          "scheme": "shineyoureye"
+        }
+      ],
+      "image": "http://www.shineyoureye.org/media_root/images/adepoju-sunday-adeyemi",
+      "images": [
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/adepoju-sunday-adeyemi"
         }
       ],
       "name": "ADEYEMI ADEPOJU",
       "other_names": [
+        {
+          "name": "ADEPOJU SUNDAY ADEYEMI",
+          "note": "alternate"
+        },
         {
           "name": "ADEYEMI SUNDAY ADEPOJU",
           "note": "alternate"
@@ -1264,27 +1544,45 @@
       ]
     },
     {
+      "birth_date": "1962-02-19",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "gracenel83@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "0805050842091"
         }
       ],
+      "email": "gracenel83@yahoo.com",
+      "gender": "female",
       "id": "299f6b83-cbf8-4780-845d-35477e6b9f3c",
       "identifiers": [
         {
           "identifier": "675",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "betty-jocelyne-okagua-apiafi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/675.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/675.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/betty-jocelyne-okagua-apiafi"
         }
       ],
       "name": "Betty Apiafi",
       "other_names": [
+        {
+          "name": "BETTY JOCELYNE OKAGUA-APIAFI",
+          "note": "alternate"
+        },
         {
           "name": "Betty Jocelyn Apiafi",
           "note": "alternate"
@@ -1392,21 +1690,33 @@
       ]
     },
     {
+      "birth_date": "1968-04-02",
       "id": "2f8a506d-ea53-4126-bc71-1b5deec22941",
       "identifiers": [
         {
           "identifier": "316",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ezenwa-francis-onyewuchi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/316.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/316.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/ezenwa-francis-onyewuchi"
         }
       ],
       "name": "ONYEWUCHI EZENWA",
       "other_names": [
+        {
+          "name": "EZENWA FRANCIS ONYEWUCHI",
+          "note": "alternate"
+        },
         {
           "name": "ONYEWUCHI FRANCIS EZENWA",
           "note": "alternate"
@@ -1442,23 +1752,36 @@
       ]
     },
     {
+      "birth_date": "1974-06-23",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "ukoete@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08036098336"
         }
       ],
+      "email": "ukoete@yahoo.com",
       "id": "31b8d277-22d5-48f2-a896-cb603866d54d",
       "identifiers": [
         {
           "identifier": "840",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "emmanuel-issac-ukoete",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/840.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/840.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/emmanuel-issac-ukoete"
         }
       ],
       "name": "EMMANUEL UKOETE",
@@ -1466,31 +1789,52 @@
         {
           "name": "EMMANUEL ISAAC UKOETE",
           "note": "alternate"
+        },
+        {
+          "name": "EMMANUEL ISSAC UKOETE",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1967-01-06",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "hon.khadija.ibrahim@nass.gov.ng"
+        },
         {
           "type": "phone",
           "value": "08036488324"
         }
       ],
+      "email": "hon.khadija.ibrahim@nass.gov.ng",
       "id": "329dc28f-bc10-4fc3-b769-61d17e077393",
       "identifiers": [
         {
           "identifier": "608",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "khadija-bukar-ibrahim",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/608.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/608.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/khadija-bukar-ibrahim"
         }
       ],
       "name": "KHADIJA BUKAR .A.",
       "other_names": [
+        {
+          "name": "KHADIJA BUKAR IBRAHIM",
+          "note": "alternate"
+        },
         {
           "name": "KHADIJA IBRAHIM BUKAR .A.",
           "note": "alternate"
@@ -1526,27 +1870,40 @@
       ]
     },
     {
+      "birth_date": "1969-07-19",
       "contact_details": [
         {
           "type": "phone",
           "value": "08037899755"
         }
       ],
+      "gender": "male",
       "id": "350bdf87-adf7-4c43-89b0-788d2dd71776",
       "identifiers": [
         {
           "identifier": "705",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "henry-aladeinyefa-daniel-ofongo",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/705.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/705.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/henry-aladeinyefa-daniel-ofong"
         }
       ],
       "name": "OFONGO HENRY",
       "other_names": [
+        {
+          "name": "HENRY ALADEINYEFA DANIEL-OFONGO",
+          "note": "alternate"
+        },
         {
           "name": "OFONGO DANIEL HENRY",
           "note": "alternate"
@@ -1610,27 +1967,44 @@
       ]
     },
     {
+      "birth_date": "1966-01-15",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "gafaketayo2010@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "07059646871"
         }
       ],
+      "email": "gafaketayo2010@yahoo.com",
       "id": "35e448ea-2064-4c69-b7cc-9528a877a248",
       "identifiers": [
         {
           "identifier": "793",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "akintayo-amere-gafaru",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/793.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/793.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/akintayo-amere-gafaru"
         }
       ],
       "name": "GAFARU AKINTAYO",
       "other_names": [
+        {
+          "name": "AKINTAYO AMERE GAFARU",
+          "note": "alternate"
+        },
         {
           "name": "GAFARU AMERE AKINTAYO",
           "note": "alternate"
@@ -1716,29 +2090,47 @@
       ]
     },
     {
+      "birth_date": "1968-08-28",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "uyakubu@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08033110633"
         }
       ],
+      "email": "uyakubu@yahoo.com",
+      "gender": "male",
       "id": "380aa4f9-c947-40af-815c-dbb9267340ac",
       "identifiers": [
         {
           "identifier": "851",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "yakubu-umaru-barde",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/851.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/851.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/yakubu-umaru-barde"
         }
       ],
       "name": "UMAR YAKUBU",
       "other_names": [
         {
           "name": "UMAR BARDE YAKUBU",
+          "note": "alternate"
+        },
+        {
+          "name": "YAKUBU UMARU BARDE",
           "note": "alternate"
         }
       ]
@@ -1794,27 +2186,44 @@
       ]
     },
     {
+      "birth_date": "1964-12-31",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "aliyuahmanpategi@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08039960006"
         }
       ],
+      "email": "aliyuahmanpategi@yahoo.com",
       "id": "3a8e8cdd-4467-4ff0-b61c-f786228424ab",
       "identifiers": [
         {
           "identifier": "558",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "aliyu-bahago-ahman-pategi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/558.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/558.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/aliyu-bahago-ahman-pategi"
         }
       ],
       "name": "ALIYU AHMAN-PATEGI",
       "other_names": [
+        {
+          "name": "ALIYU BAHAGO AHMAN PATEGI",
+          "note": "alternate"
+        },
         {
           "name": "ALIYU BAHAGO AHMAN-PATEGI",
           "note": "alternate"
@@ -1934,21 +2343,40 @@
       ]
     },
     {
+      "birth_date": "1967-03-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "goldadedayo@gmail.com"
+        }
+      ],
+      "email": "goldadedayo@gmail.com",
       "id": "3d2f6c9a-781b-42c6-8a3a-e6240efa9b4a",
       "identifiers": [
         {
           "identifier": "363",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "adeyinka-ayantunji-ajayi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/363.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/363.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/adeyinka-ayantunji-ajayi"
         }
       ],
       "name": "AJAYI AYANTUNJI",
       "other_names": [
+        {
+          "name": "ADEYINKA AYANTUNJI AJAYI",
+          "note": "alternate"
+        },
         {
           "name": "AJAYI ADEYINKA AYANTUNJI",
           "note": "alternate"
@@ -1984,6 +2412,7 @@
       ]
     },
     {
+      "birth_date": "1968-08-26",
       "contact_details": [
         {
           "type": "phone",
@@ -1995,18 +2424,29 @@
         {
           "identifier": "924",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "lawal-yahaya-gumau",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/924.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/924.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/lawal-yahaya-gumau"
         }
       ],
       "name": "Gumau Yahaya",
       "other_names": [
         {
           "name": "Gumau Lawal Yahaya",
+          "note": "alternate"
+        },
+        {
+          "name": "LAWAL YAHAYA GUMAU",
           "note": "alternate"
         }
       ]
@@ -2040,6 +2480,7 @@
       ]
     },
     {
+      "birth_date": "1972-06-22",
       "contact_details": [
         {
           "type": "phone",
@@ -2051,12 +2492,19 @@
         {
           "identifier": "762",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "rapheal-uzochi-nnanna-igbokwe",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/762.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/762.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/rapheal-uzochi-nnanna-igbokwe"
         }
       ],
       "name": "Igbokwe Nnanna",
@@ -2064,33 +2512,53 @@
         {
           "name": "Igbokwe Raphael Nnanna",
           "note": "alternate"
+        },
+        {
+          "name": "RAPHEAL UZOCHI NNANNA IGBOKWE",
+          "note": "alternate"
         }
       ]
     },
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "babbahmed@yahoo.com"
+        },
+        {
           "type": "phone",
           "value": "08133356611"
         }
       ],
+      "email": "babbahmed@yahoo.com",
       "id": "3f38fade-7505-4a43-b5d3-1d8d1afad279",
       "identifiers": [
         {
           "identifier": "913",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ahmed-babba-kaita",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/913.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/913.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/Kankia-Ingawa-Kusada_-_AHMAD_BABBA.jpg"
         }
       ],
       "name": "AHMAD BABBA",
       "other_names": [
         {
           "name": "AHMAD BABBA",
+          "note": "alternate"
+        },
+        {
+          "name": "AHMED Babba KAITA",
           "note": "alternate"
         }
       ]
@@ -2134,23 +2602,32 @@
       ]
     },
     {
+      "birth_date": "1962-12-02",
       "contact_details": [
         {
           "type": "phone",
           "value": "08036808985"
         }
       ],
+      "gender": "male",
       "id": "40b6599d-8fcc-493d-aa1a-426581d49a40",
       "identifiers": [
         {
           "identifier": "541",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "john-dyegh",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/541.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/541.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/john-dyeg"
         }
       ],
       "name": "JOHN DYEGH",
@@ -2162,29 +2639,47 @@
       ]
     },
     {
+      "birth_date": "1971-10-07",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "emmaekon@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "07064350430"
         }
       ],
+      "email": "emmaekon@yahoo.com",
+      "gender": "male",
       "id": "411de638-0045-4de9-afd1-ebba29059b0f",
       "identifiers": [
         {
           "identifier": "524",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "emmanuel-bartholomew-ekon",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/524.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/524.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/emmanuel-bartholomew-ek"
         }
       ],
       "name": "EMMANUEL EKON",
       "other_names": [
         {
           "name": "EMMANUEL BARTHLOMEW EKON",
+          "note": "alternate"
+        },
+        {
+          "name": "EMMANUEL BARTHOLOMEW EKON",
           "note": "alternate"
         }
       ]
@@ -2218,27 +2713,44 @@
       ]
     },
     {
+      "birth_date": "1969-08-25",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "Yusuftj2003@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08062443690"
         }
       ],
+      "email": "Yusuftj2003@yahoo.com",
       "id": "42fdabc8-9bbb-4d09-b7db-261a3b61b5a6",
       "identifiers": [
         {
           "identifier": "617",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ayo-tajudeen-yusuf",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/617.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/617.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/ayo-tajudeen-yusuf"
         }
       ],
       "name": "YUSUF TAJUDEEN",
       "other_names": [
+        {
+          "name": "AYO TAJUDEEN YUSUF",
+          "note": "alternate"
+        },
         {
           "name": "YUSUF AYO TAJUDEEN",
           "note": "alternate"
@@ -2274,29 +2786,42 @@
       ]
     },
     {
+      "birth_date": "1950-06-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "08105558424"
         }
       ],
+      "gender": "male",
       "id": "44fafa9a-f1f8-484b-8580-11f1ec116d39",
       "identifiers": [
         {
           "identifier": "791",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "akinlaja-irinola-joseph",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/791.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/791.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/akinlaja-iranola-josep"
         }
       ],
       "name": "AKINLAJA JOSEPH",
       "other_names": [
         {
           "name": "AKINLAJA IRANOLA JOSEPH",
+          "note": "alternate"
+        },
+        {
+          "name": "AKINLAJA IRINOLA JOSEPH",
           "note": "alternate"
         }
       ]
@@ -2436,27 +2961,45 @@
       ]
     },
     {
+      "birth_date": "1959-07-11",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "kakobose@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "01538064"
         }
       ],
+      "email": "kakobose@yahoo.com",
+      "gender": "male",
       "id": "4d2d6956-a86e-44e7-a8a7-1d4fa4e4b1a0",
       "identifiers": [
         {
           "identifier": "580",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "abayomi-dauda-kako-are",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/580.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/580.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/abayomi-dauda-kako-are"
         }
       ],
       "name": "DAUDA KAKO ARE",
       "other_names": [
+        {
+          "name": "ABAYOMI DAUDA KAKO ARE",
+          "note": "alternate"
+        },
         {
           "name": "DAUDA KAKO ABAYOMI ARE",
           "note": "alternate"
@@ -2492,23 +3035,42 @@
       ]
     },
     {
+      "birth_date": "1964-08-23",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "hon.asadu.oziokoja@nass.gov.ng"
+        },
         {
           "type": "phone",
           "value": "08033423195"
         }
       ],
+      "email": "hon.asadu.oziokoja@nass.gov.ng",
       "id": "4ed9bbb2-f088-47ea-9320-6a09b91125bb",
+      "identifiers": [
+        {
+          "identifier": "asadu-patrick-oziokoja",
+          "scheme": "shineyoureye"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/630.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/630.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/asadu-patrick-oziokoja"
         }
       ],
       "name": "ASADU PATRICK",
       "other_names": [
         {
           "name": "ASADU OZIOKOJA PATRICK",
+          "note": "alternate"
+        },
+        {
+          "name": "ASADU PATRICK OZIOKOJA",
           "note": "alternate"
         }
       ]
@@ -2564,27 +3126,45 @@
       ]
     },
     {
+      "birth_date": "1974-02-22",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "mohammedbago@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08037053133"
         }
       ],
+      "email": "mohammedbago@yahoo.com",
+      "gender": "male",
       "id": "5007b010-495c-4eba-937b-35c97001910f",
       "identifiers": [
         {
           "identifier": "856",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mohammed-umaru-bago",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/856.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/856.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mohammed-umaru-bag"
         }
       ],
       "name": "UMARU MOHAMMED",
       "other_names": [
+        {
+          "name": "MOHAMMED UMARU BAGO",
+          "note": "alternate"
+        },
         {
           "name": "UMARU BAGO MOHAMMED",
           "note": "alternate"
@@ -2748,27 +3328,45 @@
       ]
     },
     {
+      "birth_date": "1967-01-15",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "aliyumadaki@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08037893464"
         }
       ],
+      "email": "aliyumadaki@yahoo.com",
+      "gender": "male",
       "id": "5417f0ae-48a3-4e36-8d4b-820b75dfc976",
       "identifiers": [
         {
           "identifier": "700",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "aliyu-sani-madaki",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/700.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/700.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/aliyu-sani-madaki"
         }
       ],
       "name": "ALIYU MADAKI",
       "other_names": [
+        {
+          "name": "ALIYU SANI MADAKI",
+          "note": "alternate"
+        },
         {
           "name": "ALIYU SANI MADAKI",
           "note": "alternate"
@@ -2876,6 +3474,7 @@
       ]
     },
     {
+      "birth_date": "1965-01-09",
       "contact_details": [
         {
           "type": "phone",
@@ -2887,16 +3486,27 @@
         {
           "identifier": "768",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "adamu-ochepo-entonu",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/768.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/768.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/adamu-ochepo-entonu"
         }
       ],
       "name": "Ochepo Adamu",
       "other_names": [
+        {
+          "name": "ADAMU OCHEPO ENTONU",
+          "note": "alternate"
+        },
         {
           "name": "Ochepo Entonu Adamu",
           "note": "alternate"
@@ -2988,17 +3598,25 @@
       ]
     },
     {
+      "birth_date": "1967-12-08",
       "id": "59ca73d9-1f43-46c4-9069-498c5cfeed0a",
       "identifiers": [
         {
           "identifier": "544",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "beni-lar",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/544.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/544.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/beni-lar"
         }
       ],
       "name": "BENI LAR",
@@ -3006,10 +3624,15 @@
         {
           "name": "BENI BUTMAK LAR",
           "note": "alternate"
+        },
+        {
+          "name": "BENI BUTMAK LAR",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1965-01-01",
       "contact_details": [
         {
           "type": "phone",
@@ -3021,16 +3644,27 @@
         {
           "identifier": "578",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "aliyu-a-a-shehu",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/578.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/578.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/aliyu-a-a-shehu"
         }
       ],
       "name": "SHEHU ALIYU",
       "other_names": [
+        {
+          "name": "ALIYU A.A. SHEHU",
+          "note": "alternate"
+        },
         {
           "name": "SHEHU AA ALIYU",
           "note": "alternate"
@@ -3122,21 +3756,40 @@
       ]
     },
     {
+      "birth_date": "1968-01-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nazdaura@yahoo.com"
+        }
+      ],
+      "email": "nazdaura@yahoo.com",
       "id": "5ff2f8a2-7e20-4083-a740-b686a369bf86",
       "identifiers": [
         {
           "identifier": "437",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nasiru-zangon-daura-sani",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/437.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/437.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nasiru-zangon-daura-sani"
         }
       ],
       "name": "SANI DAURA",
       "other_names": [
+        {
+          "name": "NASIRU ZANGON DAURA SANI",
+          "note": "alternate"
+        },
         {
           "name": "SANI NASIRU ZANGON DAURA",
           "note": "alternate"
@@ -3356,27 +4009,45 @@
       ]
     },
     {
+      "birth_date": "1965-06-10",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "aminusule007@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08037016357"
         }
       ],
+      "email": "aminusule007@yahoo.com",
+      "gender": "male",
       "id": "6849db26-474d-46f1-8bc1-6c29e542d364",
       "identifiers": [
         {
           "identifier": "650",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "aminu-suleiman",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/650.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/650.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/aminu-suleima"
         }
       ],
       "name": "SULEIMAN AMINU",
       "other_names": [
+        {
+          "name": "AMINU SULEIMAN",
+          "note": "alternate"
+        },
         {
           "name": "SULEIMAN AMINU",
           "note": "alternate"
@@ -3434,27 +4105,44 @@
       ]
     },
     {
+      "birth_date": "1964-06-01",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "ahmedonemaje@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08035920149"
         }
       ],
+      "email": "ahmedonemaje@yahoo.com",
       "id": "6d39bb96-cdc2-4677-8164-4a4fc291bc3a",
       "identifiers": [
         {
           "identifier": "766",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ahmed-idris-maje",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/766.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/766.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/ahmed-idris"
         }
       ],
       "name": "Idris Ahmed",
       "other_names": [
+        {
+          "name": "AHMED IDRIS MAJE",
+          "note": "alternate"
+        },
         {
           "name": "Idris Ahmed",
           "note": "alternate"
@@ -3490,23 +4178,32 @@
       ]
     },
     {
+      "birth_date": "1971-04-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "08025646969"
         }
       ],
+      "gender": "female",
       "id": "6e8bd3ec-95ca-4df1-992d-024998cacba9",
       "identifiers": [
         {
           "identifier": "539",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "binta-maigari-bello",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/539.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/539.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/binta-maigari-bell"
         }
       ],
       "name": "BINTA BELLO",
@@ -3514,25 +4211,48 @@
         {
           "name": "BINTA BELLO",
           "note": "alternate"
+        },
+        {
+          "name": "BINTA MAIGARI BELLO",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1960-10-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lasunyussuf@gmail.com"
+        }
+      ],
+      "email": "lasunyussuf@gmail.com",
       "id": "70ab94b6-2262-4f7b-bc5f-16cf475bfcac",
       "identifiers": [
         {
           "identifier": "367",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "yussuff-lasun-sulaimon",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/367.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/367.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/APC_-_Yusuf_Lasun.jpg"
         }
       ],
       "name": "YUSUF LASUN",
       "other_names": [
+        {
+          "name": "YUSSUFF LASUN SULAIMON",
+          "note": "alternate"
+        },
         {
           "name": "YUSUF SULAIMON LASUN",
           "note": "alternate"
@@ -3652,6 +4372,7 @@
       ]
     },
     {
+      "birth_date": "1967-07-15",
       "contact_details": [
         {
           "type": "phone",
@@ -3663,16 +4384,27 @@
         {
           "identifier": "611",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "chukwudi-jones-victor-onyereri",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/611.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/611.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/chukwudi-jones-victor-onyereri"
         }
       ],
       "name": "JONES ONYERERI",
       "other_names": [
+        {
+          "name": "CHUKWUDI JONES VICTOR ONYERERI",
+          "note": "alternate"
+        },
         {
           "name": "JONES CHUKWUDI VICTOR ONYERERI",
           "note": "alternate"
@@ -3792,29 +4524,46 @@
       ]
     },
     {
+      "birth_date": "1965-01-11",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "badamasiayuba@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08033173788"
         }
       ],
+      "email": "badamasiayuba@yahoo.com",
       "id": "75824414-7ee6-48d5-bfe5-03e809eb3c7a",
       "identifiers": [
         {
           "identifier": "649",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "badamasi-ayuba",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/649.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/649.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/badamasi-ayuba"
         }
       ],
       "name": "AYUBA BADAMASI",
       "other_names": [
         {
           "name": "AYUBA BADAMASI",
+          "note": "alternate"
+        },
+        {
+          "name": "BADAMASI AYUBA",
           "note": "alternate"
         }
       ]
@@ -3898,27 +4647,48 @@
       ]
     },
     {
+      "birth_date": "1962-06-25",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "fhgbaja@yahoo.com"
+        },
+        {
+          "type": "email",
+          "value": "femigbaja1@gmail.com"
+        },
         {
           "type": "phone",
           "value": "08037181508"
         }
       ],
+      "email": "fhgbaja@yahoo.com",
       "id": "765d47ff-a659-4faa-9fc7-d641fee30ac5",
       "identifiers": [
         {
           "identifier": "803",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "femi-gbajabiamila",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/803.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/803.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/APC_-_Femi_Gbajabiamila.jpg"
         }
       ],
       "name": "OLUFEMI GBAJABIAMILA",
       "other_names": [
+        {
+          "name": "FEMI GBAJABIAMILA",
+          "note": "alternate"
+        },
         {
           "name": "OLUFEMI GBAJABIAMILA",
           "note": "alternate"
@@ -3982,23 +4752,37 @@
       ]
     },
     {
+      "birth_date": "1965-08-14",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "alasadoguwa@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08034502986"
         }
       ],
+      "email": "alasadoguwa@yahoo.com",
+      "gender": "male",
       "id": "77e887ac-e9d6-46e6-8005-3b868b191617",
       "identifiers": [
         {
           "identifier": "917",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "alhassan-ado-garba",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/917.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/917.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/alhassan-ado-garba"
         }
       ],
       "name": "ADO ALHASSAN",
@@ -4006,10 +4790,15 @@
         {
           "name": "ADO GARBA ALHASSAN",
           "note": "alternate"
+        },
+        {
+          "name": "ALHASSAN ADO GARBA",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1962-04-30",
       "contact_details": [
         {
           "type": "phone",
@@ -4021,16 +4810,27 @@
         {
           "identifier": "918",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "munir-babba-danagundi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/918.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/918.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/munir-babba-danagundi"
         }
       ],
       "name": "MUNIR DANAGUNDI",
       "other_names": [
+        {
+          "name": "MUNIR BABBA DANAGUNDI",
+          "note": "alternate"
+        },
         {
           "name": "MUNIR BABBA DANAGUNDI",
           "note": "alternate"
@@ -4150,27 +4950,45 @@
       ]
     },
     {
+      "birth_date": "1960-06-15",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "nikembomo@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "07033105384"
         }
       ],
+      "email": "nikembomo@yahoo.com",
+      "gender": "male",
       "id": "7b2e15e0-94c3-4758-9ac8-316a8469e89e",
       "identifiers": [
         {
           "identifier": "841",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mutu-nicholas-ebomo",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/841.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/841.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/9c5236002b7aa3c51f1303e0f51bb5b3.jpg"
         }
       ],
       "name": "Nicholas Mutu",
       "other_names": [
+        {
+          "name": "MUTU NICHOLAS EBOMO",
+          "note": "alternate"
+        },
         {
           "name": "Nicholas Ebomo Mutu",
           "note": "alternate"
@@ -4300,6 +5118,7 @@
       ]
     },
     {
+      "birth_date": "1969-07-14",
       "contact_details": [
         {
           "type": "phone",
@@ -4311,10 +5130,24 @@
         {
           "identifier": "933",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nasiru-baballe-ila",
+          "scheme": "shineyoureye"
+        }
+      ],
+      "image": "http://www.shineyoureye.org/media_root/images/nasiru-baballe-ila",
+      "images": [
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nasiru-baballe-ila"
         }
       ],
       "name": "NASIRU BABALLE",
       "other_names": [
+        {
+          "name": "NASIRU BABALLE ILA",
+          "note": "alternate"
+        },
         {
           "name": "NASIRU ILA BABALLE",
           "note": "alternate"
@@ -4322,6 +5155,7 @@
       ]
     },
     {
+      "birth_date": "1962-01-18",
       "contact_details": [
         {
           "type": "phone",
@@ -4333,18 +5167,29 @@
         {
           "identifier": "906",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "uzoma-nkem-abonta",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/906.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/906.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/uzoma-nkem-abonta"
         }
       ],
       "name": "Nkem Uzoma",
       "other_names": [
         {
           "name": "Nkem Abonta Uzoma",
+          "note": "alternate"
+        },
+        {
+          "name": "UZOMA NKEM ABONTA",
           "note": "alternate"
         }
       ]
@@ -4378,21 +5223,40 @@
       ]
     },
     {
+      "birth_date": "1958-01-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bugon2007@gmail.com"
+        }
+      ],
+      "email": "bugon2007@gmail.com",
       "id": "85152454-f6ec-4853-af8b-80b43f39ae11",
       "identifiers": [
         {
           "identifier": "620",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "goni-bukar-lawan",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/620.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/620.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/goni-bukar-lawa"
         }
       ],
       "name": "GONI BUKAR",
       "other_names": [
+        {
+          "name": "GONI BUKAR LAWAN",
+          "note": "alternate"
+        },
         {
           "name": "GONI LAWAN BUKAR",
           "note": "alternate"
@@ -4400,6 +5264,7 @@
       ]
     },
     {
+      "birth_date": "1968-06-02",
       "contact_details": [
         {
           "type": "phone",
@@ -4411,12 +5276,19 @@
         {
           "identifier": "543",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nassir-ali-ahmed",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/543.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/543.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nassir-ali-ahmed"
         }
       ],
       "name": "NASSIR ALI",
@@ -4424,21 +5296,39 @@
         {
           "name": "NASSIR AHMED ALI",
           "note": "alternate"
+        },
+        {
+          "name": "NASSIR ALI AHMED",
+          "note": "alternate"
         }
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shadafi2008@yahoo.com"
+        }
+      ],
+      "email": "shadafi2008@yahoo.com",
       "id": "85a8d87b-5fe7-4c70-b1d7-512f8dba2178",
       "identifiers": [
         {
           "identifier": "788",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "salihu-adamu-shadafi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/788.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/788.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/BOSSO-PAIKORO_-_ADAMU_SHADAFI_SALIHU.jpg"
         }
       ],
       "name": "ADAMU SALIHU",
@@ -4446,27 +5336,50 @@
         {
           "name": "ADAMU SHADAFI SALIHU",
           "note": "alternate"
+        },
+        {
+          "name": "SALIHU ADAMU SHADAFI",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1959-07-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "seg4pelvis@yahoo.com"
+        }
+      ],
+      "email": "seg4pelvis@yahoo.com",
       "id": "86250b8a-201b-4d62-9c93-d8f7ab7b4911",
       "identifiers": [
         {
           "identifier": "641",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "samuel-olusegun-williams",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/641.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/641.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/samuel-olusegun-williams"
         }
       ],
       "name": "SAMUEL WILLIAM",
       "other_names": [
         {
           "name": "SAMUEL OLUSEGUN WILLIAM",
+          "note": "alternate"
+        },
+        {
+          "name": "SAMUEL OLUSEGUN WILLIAMS",
           "note": "alternate"
         }
       ]
@@ -4550,6 +5463,7 @@
       ]
     },
     {
+      "birth_date": "1964-07-28",
       "contact_details": [
         {
           "type": "phone",
@@ -4561,18 +5475,29 @@
         {
           "identifier": "673",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "kingsley-sunday-ebanyi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/673.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/673.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/kingsley-ebenyi"
         }
       ],
       "name": "EBENYI KINGSLEY",
       "other_names": [
         {
           "name": "EBENYI SUNDAY KINGSLEY",
+          "note": "alternate"
+        },
+        {
+          "name": "KINGSLEY SUNDAY EBANYI",
           "note": "alternate"
         }
       ]
@@ -4728,29 +5653,46 @@
       ]
     },
     {
+      "birth_date": "1964-12-02",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "hon.sani.rano@nass.gov.ng"
+        },
         {
           "type": "phone",
           "value": "08131924065"
         }
       ],
+      "email": "hon.sani.rano@nass.gov.ng",
       "id": "8d4197d8-4fd0-47f6-8489-64b9e9575ede",
       "identifiers": [
         {
           "identifier": "607",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "sani-mohammed-aliyu-rano",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/607.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/607.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/sani-mohammed-aliyu-ra"
         }
       ],
       "name": "Mohammed Sani",
       "other_names": [
         {
           "name": "Mohammed Aliyu Sani",
+          "note": "alternate"
+        },
+        {
+          "name": "SANI MOHAMMED ALIYU RANO",
           "note": "alternate"
         }
       ]
@@ -5006,6 +5948,7 @@
       ]
     },
     {
+      "birth_date": "1970-04-03",
       "contact_details": [
         {
           "type": "phone",
@@ -5017,16 +5960,27 @@
         {
           "identifier": "860",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "zaphaniah-jisalo-bitrus",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/860.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/860.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/zaphaniah-jisalo-bitrus"
         }
       ],
       "name": "Zaphaniah Jisalo",
       "other_names": [
+        {
+          "name": "ZAPHANIAH JISALO BITRUS",
+          "note": "alternate"
+        },
         {
           "name": "Zaphaniah Bitrus Jisalo",
           "note": "alternate"
@@ -5090,27 +6044,44 @@
       ]
     },
     {
+      "birth_date": "1969-10-19",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "kentfola@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08159500382"
         }
       ],
+      "email": "kentfola@yahoo.com",
       "id": "94fca274-b7f8-4809-a2f4-6566d08ecf63",
       "identifiers": [
         {
           "identifier": "911",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "kehinde-olusegun-odeneye",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/911.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/911.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/kehinde-olesegun-odeneye"
         }
       ],
       "name": "ODENEYE OLUSEGUN",
       "other_names": [
+        {
+          "name": "KEHINDE OLUSEGUN ODENEYE",
+          "note": "alternate"
+        },
         {
           "name": "ODENEYE KEHINDE OLUSEGUN",
           "note": "alternate"
@@ -5168,27 +6139,40 @@
       ]
     },
     {
+      "birth_date": "1965-03-10",
       "contact_details": [
         {
           "type": "phone",
           "value": "08033089367"
         }
       ],
+      "gender": "male",
       "id": "97262ad4-9373-4d3b-bef8-e194f734b671",
       "identifiers": [
         {
           "identifier": "884",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "bright-tamuno-gogo",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/884.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/884.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/bright-tamuno-gog"
         }
       ],
       "name": "GOGO TAMUNO",
       "other_names": [
+        {
+          "name": "BRIGHT TAMUNO GOGO",
+          "note": "alternate"
+        },
         {
           "name": "GOGO BRIGHT TAMUNO",
           "note": "alternate"
@@ -5196,6 +6180,7 @@
       ]
     },
     {
+      "birth_date": "1957-06-01",
       "contact_details": [
         {
           "type": "phone",
@@ -5207,16 +6192,27 @@
         {
           "identifier": "905",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "leonard-okuweh-ogor",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/905.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/905.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/leonard-okuweh-ogor"
         }
       ],
       "name": "OGOR OKUWEH",
       "other_names": [
+        {
+          "name": "LEONARD OKUWEH OGOR",
+          "note": "alternate"
+        },
         {
           "name": "OGOR LEONARD OKUWEH",
           "note": "alternate"
@@ -5280,23 +6276,36 @@
       ]
     },
     {
+      "birth_date": "1969-09-23",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "aminumalle1969@gmail.com"
+        },
         {
           "type": "phone",
           "value": "08030604620"
         }
       ],
+      "email": "aminumalle1969@gmail.com",
       "id": "98615618-8f3a-4f5a-899a-9dd1275d9114",
       "identifiers": [
         {
           "identifier": "701",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "malle-ibrahim-aminu",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/701.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/701.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/malle-ibrahim-aminu"
         }
       ],
       "name": "MALLE AMINU",
@@ -5304,31 +6313,52 @@
         {
           "name": "MALLE IBRAHIM AMINU",
           "note": "alternate"
+        },
+        {
+          "name": "MALLE IBRAHIM AMINU",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1977-06-26",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "bbaba77@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08036043754"
         }
       ],
+      "email": "bbaba77@yahoo.com",
       "id": "99b80f19-88d3-4d3e-9464-d26d12adbc87",
       "identifiers": [
         {
           "identifier": "931",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "babale-bashir",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/931.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/931.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/babale-bashir"
         }
       ],
       "name": "BASHIR BABALE",
       "other_names": [
+        {
+          "name": "BABALE BASHIR",
+          "note": "alternate"
+        },
         {
           "name": "BASHIR BABALE",
           "note": "alternate"
@@ -5470,6 +6500,7 @@
       ]
     },
     {
+      "birth_date": "1966-11-22",
       "contact_details": [
         {
           "type": "phone",
@@ -5481,16 +6512,27 @@
         {
           "identifier": "897",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "aliyu-betara-muktar",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/897.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/897.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/aliyu-betara-muktar"
         }
       ],
       "name": "Aliyu Muktar",
       "other_names": [
+        {
+          "name": "ALIYU BETARA MUKTAR",
+          "note": "alternate"
+        },
         {
           "name": "Aliyu Betara Muktar",
           "note": "alternate"
@@ -5626,21 +6668,33 @@
       ]
     },
     {
+      "birth_date": "1968-01-16",
       "id": "a06bff4f-5aba-4727-9c04-434569f7b234",
       "identifiers": [
         {
           "identifier": "306",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "blessing-ibiba-nsiegbe",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/306.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/306.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/blessing-ibiba-nsiegbe"
         }
       ],
       "name": "NSIEGBE IBIBA",
       "other_names": [
+        {
+          "name": "BLESSING IBIBA NSIEGBE",
+          "note": "alternate"
+        },
         {
           "name": "NSIEGBE BLESSING IBIBA",
           "note": "alternate"
@@ -5782,27 +6836,45 @@
       ]
     },
     {
+      "birth_date": "1963-10-01",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "tajudeenabbas@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08090455566"
         }
       ],
+      "email": "tajudeenabbas@yahoo.com",
+      "gender": "male",
       "id": "a435ef24-0197-44e6-8dbd-8fe1c87206e1",
       "identifiers": [
         {
           "identifier": "645",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "abbas-tajudeen",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/645.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/645.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/abbas-tajudee"
         }
       ],
       "name": "TAJUDEEN ABBAS",
       "other_names": [
+        {
+          "name": "ABBAS TAJUDEEN",
+          "note": "alternate"
+        },
         {
           "name": "TAJUDEEN ABBAS",
           "note": "alternate"
@@ -5832,29 +6904,42 @@
       ]
     },
     {
+      "birth_date": "1953-09-28",
       "contact_details": [
         {
           "type": "phone",
           "value": "08177208333"
         }
       ],
+      "gender": "male",
       "id": "a526c57d-09d5-4230-97fd-f1cf98b359dc",
       "identifiers": [
         {
           "identifier": "746",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "jerry-alagbaso",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/746.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/746.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/jerry-alagbas"
         }
       ],
       "name": "ALAGBOSO JERRY",
       "other_names": [
         {
           "name": "ALAGBOSO JERRY",
+          "note": "alternate"
+        },
+        {
+          "name": "JERRY ALAGBASO",
           "note": "alternate"
         }
       ]
@@ -5960,17 +7045,25 @@
       ]
     },
     {
+      "birth_date": "1955-01-19",
       "id": "a910a5c7-163d-473d-a8ae-c14f3d637908",
       "identifiers": [
         {
           "identifier": "761",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "pally-isumafe-obokhuaime-iriase",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/761.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/761.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/pally-isumafe-obokhuaime-iriase"
         }
       ],
       "name": "O.PALLY IRIASE",
@@ -5978,31 +7071,48 @@
         {
           "name": "O.PALLY ISUMAFE IRIASE",
           "note": "alternate"
+        },
+        {
+          "name": "PALLY ISUMAFE OBOKHUAIME IRIASE",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1967-02-12",
       "contact_details": [
         {
           "type": "phone",
           "value": "07030603617"
         }
       ],
+      "gender": "male",
       "id": "a918818a-4004-4668-bacf-7805da576a0e",
       "identifiers": [
         {
           "identifier": "720",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mohammed-tahir-monguno",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/720.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/720.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mohammed-tahir-mongu"
         }
       ],
       "name": "MOHAMMED MONGUNO",
       "other_names": [
+        {
+          "name": "MOHAMMED TAHIR MONGUNO",
+          "note": "alternate"
+        },
         {
           "name": "MOHAMMED TAHIR MONGUNO",
           "note": "alternate"
@@ -6038,29 +7148,46 @@
       ]
     },
     {
+      "birth_date": "1975-03-22",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "halaalservices@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08091699345"
         }
       ],
+      "email": "halaalservices@yahoo.com",
       "id": "add7f959-73ba-4afc-b236-19a98e9cdb8b",
       "identifiers": [
         {
           "identifier": "613",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "yusuf-bala",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/613.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/613.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/yusuf-bala"
         }
       ],
       "name": "BALA YUSUF",
       "other_names": [
         {
           "name": "BALA YUSUF",
+          "note": "alternate"
+        },
+        {
+          "name": "YUSUF BALA",
           "note": "alternate"
         }
       ]
@@ -6094,21 +7221,40 @@
       ]
     },
     {
+      "birth_date": "1963-10-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "yarimagidi@yahoo.com"
+        }
+      ],
+      "email": "yarimagidi@yahoo.com",
       "id": "ae393303-feda-4be9-be1d-f3d95fc8b05e",
       "identifiers": [
         {
           "identifier": "566",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ismaila-ahmed-gadaka",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/566.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/566.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/ismaila-ahmed-gadaka"
         }
       ],
       "name": "Ismaila Gadaka",
       "other_names": [
+        {
+          "name": "ISMAILA AHMED GADAKA",
+          "note": "alternate"
+        },
         {
           "name": "Ismaila Ahmed Gadaka",
           "note": "alternate"
@@ -6116,6 +7262,7 @@
       ]
     },
     {
+      "birth_date": "1966-03-09",
       "contact_details": [
         {
           "type": "phone",
@@ -6127,16 +7274,27 @@
         {
           "identifier": "666",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "linus-okorie",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/666.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/666.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/linus-okorie"
         }
       ],
       "name": "linus okorie,fca",
       "other_names": [
+        {
+          "name": "LINUS OKORIE",
+          "note": "alternate"
+        },
         {
           "name": "linus abaa okorie,fca",
           "note": "alternate"
@@ -6188,23 +7346,35 @@
       ]
     },
     {
+      "birth_date": "1956-10-14",
       "id": "b0e939a5-5889-4b76-b39d-21d1e21c937e",
       "identifiers": [
         {
           "identifier": "192",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "essien-ekpeyong-ayi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/192.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/192.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/essien-ekpeyong-ayi"
         }
       ],
       "name": "ESSIEN AYI",
       "other_names": [
         {
           "name": "ESSIEN EKPENYONG AYI",
+          "note": "alternate"
+        },
+        {
+          "name": "ESSIEN EKPEYONG AYI",
           "note": "alternate"
         }
       ]
@@ -6238,27 +7408,44 @@
       ]
     },
     {
+      "birth_date": "1975-09-06",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "abdulgi@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08033326671"
         }
       ],
+      "email": "abdulgi@yahoo.com",
       "id": "b1cb36c5-bc2d-4230-b5c4-f3f958c20d55",
       "identifiers": [
         {
           "identifier": "778",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "abdullahi-idris-garba",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/778.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/778.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/abdullahi-idris-garba"
         }
       ],
       "name": "Abdullahi Garba",
       "other_names": [
+        {
+          "name": "ABDULLAHI IDRIS GARBA",
+          "note": "alternate"
+        },
         {
           "name": "Abdullahi Idris Garba",
           "note": "alternate"
@@ -6372,21 +7559,40 @@
       ]
     },
     {
+      "birth_date": "1969-01-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.odebunmi@yahoo.com"
+        }
+      ],
+      "email": "s.odebunmi@yahoo.com",
       "id": "b4c80409-374c-4429-8f08-a2a60bfa3c17",
       "identifiers": [
         {
           "identifier": "752",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "olusegun-dokun-odebunmi",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/752.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/752.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/olusegun-dokun-odebunmi"
         }
       ],
       "name": "OLUSEGUN ODEBUNMI",
       "other_names": [
+        {
+          "name": "OLUSEGUN DOKUN ODEBUNMI",
+          "note": "alternate"
+        },
         {
           "name": "OLUSEGUN DOKUN ODEBUNMI",
           "note": "alternate"
@@ -6500,27 +7706,44 @@
       ]
     },
     {
+      "birth_date": "1969-11-23",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "Nkey_bobo@yahoo.co.uk"
+        },
         {
           "type": "phone",
           "value": "08033307519"
         }
       ],
+      "email": "Nkey_bobo@yahoo.co.uk",
       "id": "b7a2ac57-9d18-4e5d-a177-e41a99fc83a2",
       "identifiers": [
         {
           "identifier": "756",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nkiruka-onyejeocha",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/756.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/756.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nkiruka-onyejeocha"
         }
       ],
       "name": "ONYEJEOCHA NKEIRUKA",
       "other_names": [
+        {
+          "name": "NKIRUKA ONYEJEOCHA",
+          "note": "alternate"
+        },
         {
           "name": "ONYEJEOCHA CHIDUBEM NKEIRUKA",
           "note": "alternate"
@@ -6556,17 +7779,25 @@
       ]
     },
     {
+      "birth_date": "1955-04-25",
       "id": "b97f173d-2163-4f8a-9632-c857511ed427",
       "identifiers": [
         {
           "identifier": "839",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "kenneth-anayo-chikere",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/839.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/839.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/kenneth-anayo-chikere"
         }
       ],
       "name": "KENNETH CHIKERE",
@@ -6574,21 +7805,33 @@
         {
           "name": "KENNETH ANAYO CHIKERE",
           "note": "alternate"
+        },
+        {
+          "name": "KENNETH ANAYO CHIKERE",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1974-07-01",
       "id": "b9bd9f0c-cee1-4451-b7b8-3845f5c72f8c",
       "identifiers": [
         {
           "identifier": "717",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "isah-salihu-bashir",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/717.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/717.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/isa-salihu-bashir"
         }
       ],
       "name": "ISA SALIHU",
@@ -6596,10 +7839,15 @@
         {
           "name": "ISA BASHIR SALIHU",
           "note": "alternate"
+        },
+        {
+          "name": "ISAH SALIHU BASHIR",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1960-10-03",
       "contact_details": [
         {
           "type": "phone",
@@ -6611,16 +7859,27 @@
         {
           "identifier": "686",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "garba-datti-muhammad",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/686.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/686.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/garba-datti-muhammad"
         }
       ],
       "name": "GARBA MUHAMMAD",
       "other_names": [
+        {
+          "name": "GARBA DATTI MUHAMMAD",
+          "note": "alternate"
+        },
         {
           "name": "GARBA DATTI MUHAMMAD",
           "note": "alternate"
@@ -6684,21 +7943,33 @@
       ]
     },
     {
+      "birth_date": "1963-06-01",
       "id": "bc85343e-b96f-48a2-b2ff-2127f061a7c9",
       "identifiers": [
         {
           "identifier": "772",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "awulu-ezekiel-adaji",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/772.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/772.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/awulu-ezekiel-adaji"
         }
       ],
       "name": "Awulu Adaji",
       "other_names": [
+        {
+          "name": "AWULU EZEKIEL ADAJI",
+          "note": "alternate"
+        },
         {
           "name": "Awulu Ezekiel Adaji",
           "note": "alternate"
@@ -6862,23 +8133,42 @@
       ]
     },
     {
+      "birth_date": "1965-03-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ibmahuta@gmail.com"
+        }
+      ],
+      "email": "ibmahuta@gmail.com",
       "id": "bfacc136-b4e0-4021-9c71-5ab1dc45dd74",
       "identifiers": [
         {
           "identifier": "711",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ibrahim-babangida",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/711.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/711.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/ibrahim-babangida"
         }
       ],
       "name": "BABANGIDA IBRAHIM",
       "other_names": [
         {
           "name": "BABANGIDA IBRAHIM",
+          "note": "alternate"
+        },
+        {
+          "name": "IBRAHIM BABANGIDA",
           "note": "alternate"
         }
       ]
@@ -6912,6 +8202,7 @@
       ]
     },
     {
+      "birth_date": "1965-05-09",
       "contact_details": [
         {
           "type": "phone",
@@ -6923,16 +8214,27 @@
         {
           "identifier": "555",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mohammed-alhaji-sanda",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/555.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/555.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mohammed-alhaji-sanda"
         }
       ],
       "name": "MOHAMMED SANDA",
       "other_names": [
+        {
+          "name": "MOHAMMED ALHAJI SANDA",
+          "note": "alternate"
+        },
         {
           "name": "MOHAMMED ALHAJI SANDA",
           "note": "alternate"
@@ -7024,23 +8326,35 @@
       ]
     },
     {
+      "birth_date": "1974-01-28",
       "id": "c349a15f-1885-4ebd-accd-5e000230ea23",
       "identifiers": [
         {
           "identifier": "682",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nasiru-sule-garo",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/682.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/682.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nasiru-sule-gar"
         }
       ],
       "name": "NASIRU SULE",
       "other_names": [
         {
           "name": "NASIRU GARO SULE",
+          "note": "alternate"
+        },
+        {
+          "name": "NASIRU SULE GARO",
           "note": "alternate"
         }
       ]
@@ -7085,18 +8399,29 @@
         {
           "identifier": "679",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "sopuluchukwu-e-ezeonwuka",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/679.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/679.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/Orumba_North-South_-_SOPULUCHUKWU_ELBERT_EZEONWUKA.jpg"
         }
       ],
       "name": "SOPULUCHUKWU EZEONWUKA",
       "other_names": [
         {
           "name": "SOPULUCHUKWU ELBERT EZEONWUKA",
+          "note": "alternate"
+        },
+        {
+          "name": "Sopuluchukwu E. Ezeonwuka",
           "note": "alternate"
         }
       ]
@@ -7280,23 +8605,36 @@
       ]
     },
     {
+      "birth_date": "1952-06-15",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "onawom@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08096492518"
         }
       ],
+      "email": "onawom@yahoo.com",
       "id": "cf6981b7-c365-40ae-b2c7-9c1deaa081c1",
       "identifiers": [
         {
           "identifier": "784",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mohammed-ogoshi-onawo",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/784.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/784.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mohammed-ogoshi-onaw"
         }
       ],
       "name": "MOHAMMED ONAWO",
@@ -7304,31 +8642,52 @@
         {
           "name": "MOHAMMED OGOSHI ONAWO",
           "note": "alternate"
+        },
+        {
+          "name": "MOHAMMED OGOSHI ONAWO",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1968-10-02",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "dawaki2@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "07034945594"
         }
       ],
+      "email": "dawaki2@yahoo.com",
       "id": "cf843d3a-89ef-4b1c-b286-ae49c5038b72",
       "identifiers": [
         {
           "identifier": "593",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mustapha-dawaki-bala",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/593.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/593.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mustapha-dawaki-bala"
         }
       ],
       "name": "MUSTAPHA BALA",
       "other_names": [
+        {
+          "name": "MUSTAPHA DAWAKI BALA",
+          "note": "alternate"
+        },
         {
           "name": "MUSTAPHA DAWAKI BALA",
           "note": "alternate"
@@ -7358,23 +8717,35 @@
       ]
     },
     {
+      "birth_date": "1960-10-04",
       "id": "d0ca0091-8bde-4f07-aa4c-ad6c7f2506ea",
       "identifiers": [
         {
           "identifier": "797",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "jagaba-adams-jagaba",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/797.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/797.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/jagaba-adams-jagaba"
         }
       ],
       "name": "ADAMS JAGABA",
       "other_names": [
         {
           "name": "ADAMS JAGABA JAGABA",
+          "note": "alternate"
+        },
+        {
+          "name": "JAGABA ADAMS JAGABA",
           "note": "alternate"
         }
       ]
@@ -7396,21 +8767,33 @@
       ]
     },
     {
+      "birth_date": "1960-10-01",
       "id": "d1122514-8591-4a96-863c-1826fbea9bc8",
       "identifiers": [
         {
           "identifier": "596",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mohammed-ali-wudil",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/596.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/596.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mohammed-ali-wudil"
         }
       ],
       "name": "MUHAMMED ALI",
       "other_names": [
+        {
+          "name": "MOHAMMAD ALI WUDIL",
+          "note": "alternate"
+        },
         {
           "name": "MUHAMMED WUDIL ALI",
           "note": "alternate"
@@ -7418,29 +8801,46 @@
       ]
     },
     {
+      "birth_date": "1952-06-06",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "jolufak@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "07063098372"
         }
       ],
+      "email": "jolufak@yahoo.com",
       "id": "d1380eb2-87ec-46da-99df-27b2223e2a04",
       "identifiers": [
         {
           "identifier": "787",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "julius-olufemi-fakeye",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/787.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/787.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/julius-olufemi-fakeye"
         }
       ],
       "name": "FAKEYE OLUFEMI",
       "other_names": [
         {
           "name": "FAKEYE OLUFEMI",
+          "note": "alternate"
+        },
+        {
+          "name": "JULIUS OLUFEMI FAKEYE",
           "note": "alternate"
         }
       ]
@@ -7496,23 +8896,42 @@
       ]
     },
     {
+      "birth_date": "1966-12-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "repinfo@nassnig.org"
+        }
+      ],
+      "email": "repinfo@nassnig.org",
       "id": "d3557568-295b-48c2-8d9f-7d6b0753a48a",
       "identifiers": [
         {
           "identifier": "554",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "yakubu-dogara",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/554.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/554.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/APC_-_Yakubu_Dogara.jpg"
         }
       ],
       "name": "DOGARA YAKUBU",
       "other_names": [
         {
           "name": "DOGARA YAKUBU",
+          "note": "alternate"
+        },
+        {
+          "name": "YAKUBU DOGARA",
           "note": "alternate"
         }
       ]
@@ -7568,17 +8987,32 @@
       ]
     },
     {
+      "birth_date": "1960-08-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "muazulawalbtuche@gmail.com"
+        }
+      ],
+      "email": "muazulawalbtuche@gmail.com",
       "id": "d467a019-de86-4406-a5ee-bb82ada812c5",
       "identifiers": [
         {
           "identifier": "260",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mu-azu-b-tudu-lawal",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/260.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/260.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mu-azu-b-tudu-lawal"
         }
       ],
       "name": "LAWAL B/TUDU",
@@ -7586,19 +9020,38 @@
         {
           "name": "LAWAL MUAZU B/TUDU",
           "note": "alternate"
+        },
+        {
+          "name": "MUAZU B/TUDU LAWAL",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1964-09-30",
       "id": "d4e2312b-c244-4cf8-be5e-e58325580b5a",
       "identifiers": [
         {
           "identifier": "899",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "isa-hassan-mohammed",
+          "scheme": "shineyoureye"
+        }
+      ],
+      "image": "http://www.shineyoureye.org/media_root/images/isa-hassan-mohammed",
+      "images": [
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/isa-hassan-mohammed"
         }
       ],
       "name": "ISA MOHAMMED",
       "other_names": [
+        {
+          "name": "ISA HASSAN MOHAMMED",
+          "note": "alternate"
+        },
         {
           "name": "ISA HASSAN MOHAMMED",
           "note": "alternate"
@@ -7628,6 +9081,7 @@
       ]
     },
     {
+      "birth_date": "1963-04-15",
       "contact_details": [
         {
           "type": "phone",
@@ -7639,16 +9093,27 @@
         {
           "identifier": "859",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "emmanuel-yisa-orker-jev",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/859.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/859.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/emmanuel-yisa-orker-jev"
         }
       ],
       "name": "ORKER-JEV YISA",
       "other_names": [
+        {
+          "name": "EMMANUEL YISA ORKER-JEV",
+          "note": "alternate"
+        },
         {
           "name": "ORKER-JEV EMMANUEL YISA",
           "note": "alternate"
@@ -7656,6 +9121,7 @@
       ]
     },
     {
+      "birth_date": "1961-03-05",
       "contact_details": [
         {
           "type": "phone",
@@ -7667,16 +9133,27 @@
         {
           "identifier": "957",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "abdullahi-salame-balarabe",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/957.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/957.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/abdullahi-salame-balarabe"
         }
       ],
       "name": "BALARABE ABDULLAHI",
       "other_names": [
+        {
+          "name": "ABDULLAHI SALAME BALARABE",
+          "note": "alternate"
+        },
         {
           "name": "BALARABE SALAME ABDULLAHI",
           "note": "alternate"
@@ -7712,21 +9189,33 @@
       ]
     },
     {
+      "birth_date": "1956-03-24",
       "id": "d879dab2-dbcf-41ce-a457-17b2552a4946",
       "identifiers": [
         {
           "identifier": "529",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "foingha-jephtha",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/529.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/529.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/foingha-jephtha"
         }
       ],
       "name": "JEPHTHAH FOINGHA",
       "other_names": [
+        {
+          "name": "FOINGHA JEPHTHA",
+          "note": "alternate"
+        },
         {
           "name": "JEPHTHAH FOINGHA",
           "note": "alternate"
@@ -7924,21 +9413,33 @@
       ]
     },
     {
+      "birth_date": "1968-01-20",
       "id": "de5ac455-7e74-4648-816d-03de6b3b97e5",
       "identifiers": [
         {
           "identifier": "550",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nabunkari-mohammed-sa-adu",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/550.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/550.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/nabunkari-mohammed-sa-adu"
         }
       ],
       "name": "SAADU NABUNKAN",
       "other_names": [
+        {
+          "name": "NABUNKARI MOHAMMED SA'ADU",
+          "note": "alternate"
+        },
         {
           "name": "SAADU NABUNKAN",
           "note": "alternate"
@@ -8024,17 +9525,25 @@
       ]
     },
     {
+      "birth_date": "1957-08-25",
       "id": "dee1b701-c30c-4161-815a-54dc12048c41",
       "identifiers": [
         {
           "identifier": "900",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "adamu-gurai",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/900.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/900.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/adamu-gurai"
         }
       ],
       "name": "ADAMU GURAI",
@@ -8068,23 +9577,37 @@
       ]
     },
     {
+      "birth_date": "1976-09-09",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "Abdulmumunijibrin.houseofreps@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08036130007"
         }
       ],
+      "email": "Abdulmumunijibrin.houseofreps@yahoo.com",
+      "gender": "male",
       "id": "dfeacf04-9bd5-4f12-8440-2cb91b58ac9a",
       "identifiers": [
         {
           "identifier": "923",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "abdulmumin-jibrin",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/923.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/923.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/abdulmumin-jibri"
         }
       ],
       "name": "ABDULMUMIN JIBRIN",
@@ -8146,23 +9669,36 @@
       ]
     },
     {
+      "birth_date": "1976-05-15",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "musasarkinadar@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08033016996"
         }
       ],
+      "email": "musasarkinadar@yahoo.com",
       "id": "e0864697-871a-4fb3-bbdc-7c04219bb496",
       "identifiers": [
         {
           "identifier": "574",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "musa-sarkin-adar-kaffe",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/574.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/574.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/musa-sarkin-adar"
         }
       ],
       "name": "MUSA SARKIN",
@@ -8170,33 +9706,54 @@
         {
           "name": "MUSA ADAR SARKIN",
           "note": "alternate"
+        },
+        {
+          "name": "MUSA SARKIN-ADAR KAFFE",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1967-08-10",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "adekunle.akinlade@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08027126622"
         }
       ],
+      "email": "adekunle.akinlade@yahoo.com",
       "id": "e1cda19f-f81d-4d7e-bfcf-5a5134cef83e",
       "identifiers": [
         {
           "identifier": "623",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "akinlade-adekunle-isiaq",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/623.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/623.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/akinlade-a-isiaq"
         }
       ],
       "name": "ADEKUNLE AKINLADE",
       "other_names": [
         {
           "name": "ADEKUNLE ABDULKABIR AKINLADE",
+          "note": "alternate"
+        },
+        {
+          "name": "AKINLADE ABDULKABIR ADEKUNLE ISIAQ",
           "note": "alternate"
         }
       ]
@@ -8230,27 +9787,45 @@
       ]
     },
     {
+      "birth_date": "1962-11-10",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "ayomidiran@gmail.com"
+        },
         {
           "type": "phone",
           "value": "08063035442"
         }
       ],
+      "email": "ayomidiran@gmail.com",
+      "gender": "female",
       "id": "e31fdcad-208b-4cf8-9b7f-a4194f53cd98",
       "identifiers": [
         {
           "identifier": "662",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ayo-hulayat-omidiran",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/662.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/662.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/APC_-_Ayo_Omidiran.jpg"
         }
       ],
       "name": "AYO OMIDIRAN",
       "other_names": [
+        {
+          "name": "AYO HULAYAT OMIDIRAN",
+          "note": "alternate"
+        },
         {
           "name": "AYO HULAYAT OMIDIRAN",
           "note": "alternate"
@@ -8286,23 +9861,43 @@
       ]
     },
     {
+      "birth_date": "1972-08-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amirutukuridris@yahoo.com"
+        }
+      ],
+      "email": "amirutukuridris@yahoo.com",
+      "gender": "male",
       "id": "e4537751-d3a8-4805-b8c3-642f0fd7c5fb",
       "identifiers": [
         {
           "identifier": "730",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "tukur-amiruddin",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/730.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/730.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/tukur-amiruddi"
         }
       ],
       "name": "AMIRUDDIN TUKUR",
       "other_names": [
         {
           "name": "AMIRUDDIN IDRIS TUKUR",
+          "note": "alternate"
+        },
+        {
+          "name": "TUKUR AMIRUDDIN",
           "note": "alternate"
         }
       ]
@@ -8392,27 +9987,44 @@
       ]
     },
     {
+      "birth_date": "1978-01-10",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "dave4matics002@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08036704090"
         }
       ],
+      "email": "dave4matics002@yahoo.com",
       "id": "e58346b8-fd97-4bb1-b24a-84f9cb4bb27c",
       "identifiers": [
         {
           "identifier": "638",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "david-davematics-ombugadu-emmanuel",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/638.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/638.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/david-davematics-ombugadu-emmanuel"
         }
       ],
       "name": "Emmanuel Ombugadu",
       "other_names": [
+        {
+          "name": "DAVID DAVEMATICS OMBUGADU EMMANUEL",
+          "note": "alternate"
+        },
         {
           "name": "Emmanuel David Ombugadu",
           "note": "alternate"
@@ -8498,21 +10110,34 @@
       ]
     },
     {
+      "birth_date": "1962-05-29",
+      "gender": "male",
       "id": "e708ad4d-7700-4557-a9bf-d832c0c3893a",
       "identifiers": [
         {
           "identifier": "829",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "daniel-effiong-asuquo",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/829.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/829.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/daniel-effiong-asuou"
         }
       ],
       "name": "EFFIONG DANIEL",
       "other_names": [
+        {
+          "name": "DANIEL EFFIONG ASUQUO",
+          "note": "alternate"
+        },
         {
           "name": "EFFIONG ASUQUO DANIEL",
           "note": "alternate"
@@ -8520,17 +10145,36 @@
       ]
     },
     {
+      "birth_date": "1970-07-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lafia70@yahoo.com"
+        },
+        {
+          "type": "email",
+          "value": "lafia777@gmail.com"
+        }
+      ],
+      "email": "lafia70@yahoo.com",
       "id": "e8415bea-7bb4-4075-9458-ea4b0d3d1b11",
       "identifiers": [
         {
           "identifier": "713",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mohammed-zakari",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/713.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/713.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mohammed-zakari"
         }
       ],
       "name": "MOHAMMED ZAKARI",
@@ -8576,21 +10220,33 @@
           "value": "07063292163"
         }
       ],
+      "gender": "male",
       "id": "e87ae72e-3445-49f6-9650-9499d7ea69ae",
       "identifiers": [
         {
           "identifier": "854",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "suleiman-yahaya-kwande",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/854.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/854.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/Suleiman-Yahaya-Kwande.jpg"
         }
       ],
       "name": "YAYAHA SULEIMAN",
       "other_names": [
+        {
+          "name": "SULEIMAN YAHAYA KWANDE",
+          "note": "alternate"
+        },
         {
           "name": "YAYAHA KWANDE SULEIMAN",
           "note": "alternate"
@@ -8626,6 +10282,7 @@
       ]
     },
     {
+      "birth_date": "1964-12-18",
       "contact_details": [
         {
           "type": "phone",
@@ -8637,12 +10294,19 @@
         {
           "identifier": "570",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mahmud-lawan-maina-maina",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/570.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/570.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/mahmud-lawan-maina-maina"
         }
       ],
       "name": "MAHHUD MAINA",
@@ -8650,25 +10314,42 @@
         {
           "name": "MAHHUD LAWAN MAINA",
           "note": "alternate"
+        },
+        {
+          "name": "MAHMUD LAWAN MAINA MAINA",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1961-07-18",
+      "gender": "male",
       "id": "ea083b8f-f370-484e-bb84-63541cd0cc1c",
       "identifiers": [
         {
           "identifier": "763",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "sylvester-o-ogbaga",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/763.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/763.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/sylvester-o-ogbaga"
         }
       ],
       "name": "SYLVESTER OGBAGA",
       "other_names": [
+        {
+          "name": "SYLVESTER O OGBAGA",
+          "note": "alternate"
+        },
         {
           "name": "SYLVESTER OBINNA OGBAGA",
           "note": "alternate"
@@ -8676,21 +10357,33 @@
       ]
     },
     {
+      "birth_date": "1960-12-30",
       "id": "eaa0affc-dfca-424b-9470-50faa560ab5d",
       "identifiers": [
         {
           "identifier": "904",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "emmanuel-memga-udende",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/904.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/904.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/emmauel-memga-udende"
         }
       ],
       "name": "Memga Emmanuel",
       "other_names": [
+        {
+          "name": "EMMANUEL MEMGA UDENDE",
+          "note": "alternate"
+        },
         {
           "name": "Memga Udende Emmanuel",
           "note": "alternate"
@@ -8726,23 +10419,42 @@
       ]
     },
     {
+      "birth_date": "1968-05-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jideakinloye@yahoo.com"
+        }
+      ],
+      "email": "jideakinloye@yahoo.com",
       "id": "ebe932ac-37bf-4d9d-8b48-d8541a7dbeec",
       "identifiers": [
         {
           "identifier": "342",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "hazeez-babajide-akinloye",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/342.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/342.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/hazeez-babajide-akinloye"
         }
       ],
       "name": "AKINLOYE BABAJIDE",
       "other_names": [
         {
           "name": "AKINLOYE HAZEEZ BABAJIDE",
+          "note": "alternate"
+        },
+        {
+          "name": "HAZEEZ BABAJIDE AKINLOYE",
           "note": "alternate"
         }
       ]
@@ -8854,21 +10566,33 @@
       ]
     },
     {
+      "birth_date": "1969-09-01",
       "id": "ed60d392-ebe6-49f6-8174-10eb29dbb216",
       "identifiers": [
         {
           "identifier": "564",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "lawali-anka-hassan",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/564.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/564.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/lawali-anka-hassa"
         }
       ],
       "name": "LAWALI HASSAN",
       "other_names": [
+        {
+          "name": "LAWALI ANKA HASSAN",
+          "note": "alternate"
+        },
         {
           "name": "LAWALI ANKA HASSAN",
           "note": "alternate"
@@ -8954,29 +10678,42 @@
       ]
     },
     {
+      "birth_date": "1971-12-24",
       "contact_details": [
         {
           "type": "phone",
           "value": "EVELYNOBORO@GMAIL.CO"
         }
       ],
+      "gender": "female",
       "id": "eed0c790-156d-499e-9745-1dfcfee22bb9",
       "identifiers": [
         {
           "identifier": "518",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ojakovo-omavowan-evelyn",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/518.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/518.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/ojakovo-omavowan-evely"
         }
       ],
       "name": "EVELYN OMAVOWAN",
       "other_names": [
         {
           "name": "EVELYN OBORO OMAVOWAN",
+          "note": "alternate"
+        },
+        {
+          "name": "OJAKOVO OBORO OMAVOWAN EVELYN",
           "note": "alternate"
         }
       ]
@@ -9049,18 +10786,29 @@
         {
           "identifier": "800",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ossai-nicholas-ossai",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/800.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/800.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/Ndokwa-Ukwani_-_NICHOLAS_OSSAI_OSSAI.jpg"
         }
       ],
       "name": "NICHOLAS OSSAI",
       "other_names": [
         {
           "name": "NICHOLAS OSSAI OSSAI",
+          "note": "alternate"
+        },
+        {
+          "name": "OSSAI NICHOLAS OSSAI",
           "note": "alternate"
         }
       ]
@@ -9110,6 +10858,7 @@
       ]
     },
     {
+      "birth_date": "1966-12-18",
       "contact_details": [
         {
           "type": "phone",
@@ -9121,16 +10870,27 @@
         {
           "identifier": "837",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "daniel-oritsegbubemi-reyemeju",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/837.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/837.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/daniel-oritsegbubemi-reyemeju"
         }
       ],
       "name": "daniel reyenieju",
       "other_names": [
+        {
+          "name": "DANIEL ORITSEGBUBEMI REYEMEJU",
+          "note": "alternate"
+        },
         {
           "name": "daniel o. reyenieju",
           "note": "alternate"
@@ -9138,21 +10898,33 @@
       ]
     },
     {
+      "birth_date": "1962-02-02",
       "id": "f8be60de-258a-46a2-97d6-f8014421f6d6",
       "identifiers": [
         {
           "identifier": "939",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "kabiru-marafa-achida",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/939.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/939.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/kabiru-marafa-achida"
         }
       ],
       "name": "KABIRU ACHIDA",
       "other_names": [
+        {
+          "name": "KABIRU MARAFA ACHIDA",
+          "note": "alternate"
+        },
         {
           "name": "KABIRU MARAFA ACHIDA",
           "note": "alternate"
@@ -9210,27 +10982,44 @@
       ]
     },
     {
+      "birth_date": "1970-10-01",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "abbylinkolu@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08058431344"
         }
       ],
+      "email": "abbylinkolu@yahoo.com",
       "id": "f9e6d731-c734-4986-bc94-7f3e749d3270",
       "identifiers": [
         {
           "identifier": "835",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "abiodun-dada-awoleye",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/835.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/835.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/abiodun-dada-awoleye"
         }
       ],
       "name": "abiodun awoleye",
       "other_names": [
+        {
+          "name": "ABIODUN DADA AWOLEYE",
+          "note": "alternate"
+        },
         {
           "name": "abiodun dada awoleye",
           "note": "alternate"
@@ -9238,23 +11027,36 @@
       ]
     },
     {
+      "birth_date": "1958-01-01",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "aminushagary@yahoo.com"
+        },
         {
           "type": "phone",
           "value": "08037871000"
         }
       ],
+      "email": "aminushagary@yahoo.com",
       "id": "fb8aa21b-861f-489c-a935-87faa8c081f9",
       "identifiers": [
         {
           "identifier": "920",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "aminu-shehu-shagari",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/920.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/920.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/aminu-shehu-shagari"
         }
       ],
       "name": "AMINU SHAGARI",
@@ -9262,21 +11064,33 @@
         {
           "name": "AMINU SHEHU SHAGARI",
           "note": "alternate"
+        },
+        {
+          "name": "AMINU SHEHU SHAGARI",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1965-01-15",
       "id": "fb99f755-dd6b-4192-b503-fbafe5053ea4",
       "identifiers": [
         {
           "identifier": "693",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "muhtari-muhammad-chiromawa",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/693.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/693.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/muhtari-muhammad-chiromawa"
         }
       ],
       "name": "MUHAMMADU MUKTAR",
@@ -9284,31 +11098,48 @@
         {
           "name": "MUHAMMADU CHIROMAWA MUKTAR",
           "note": "alternate"
+        },
+        {
+          "name": "MUHTARI MUHAMMAD CHIROMAWA",
+          "note": "alternate"
         }
       ]
     },
     {
+      "birth_date": "1977-10-18",
       "contact_details": [
         {
           "type": "phone",
           "value": "08073916741"
         }
       ],
+      "gender": "male",
       "id": "fbbb9c94-8873-458c-8998-06dcfe3302f5",
       "identifiers": [
         {
           "identifier": "930",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "akinade-fijabi-saheed",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/930.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/930.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/akinads-fijabi-saheed"
         }
       ],
       "name": "FIJABI AKINADE",
       "other_names": [
+        {
+          "name": "AKINADE- FIJABI SAHEED",
+          "note": "alternate"
+        },
         {
           "name": "FIJABI SAHEED AKINADE",
           "note": "alternate"
@@ -9316,29 +11147,47 @@
       ]
     },
     {
+      "birth_date": "1967-05-28",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "Basseyekowa@hotmail.com"
+        },
         {
           "type": "phone",
           "value": "08077039500"
         }
       ],
+      "email": "Basseyekowa@hotmail.com",
+      "gender": "male",
       "id": "fbe2b76b-4ee1-4e2b-9bcf-8f9dbb7a8dbf",
       "identifiers": [
         {
           "identifier": "796",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ewa-henshaw-bassey-eko",
+          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/796.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/796.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/ewa-bassey-ek"
         }
       ],
       "name": "BASSEY EWAH",
       "other_names": [
         {
           "name": "BASSEY EKO EWAH",
+          "note": "alternate"
+        },
+        {
+          "name": "EWA-HENSHAW BASSEY EKO",
           "note": "alternate"
         }
       ]
@@ -9844,7 +11693,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.nass.gov.ng/"
+      "http://www.nass.gov.ng/",
+      "http://www.shineyoureye.org/"
     ]
   },
   "memberships": [
