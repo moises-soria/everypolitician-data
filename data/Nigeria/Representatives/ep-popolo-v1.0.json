@@ -1161,17 +1161,23 @@
       ]
     },
     {
+      "birth_date": "1970-08-29",
       "contact_details": [
         {
           "type": "phone",
           "value": "08089671960"
         }
       ],
+      "gender": "male",
       "id": "24548ea1-20ce-44bb-8995-5ea4d27a21c5",
       "identifiers": [
         {
           "identifier": "619",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20685008",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/619.jpg",
@@ -1180,11 +1186,32 @@
           "url": "http://www.nass.gov.ng/images/mps/619.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tajudeen_Obasa"
+        }
+      ],
       "name": "TAJUDEEN OBASA",
       "other_names": [
         {
           "name": "TAJUDEEN ADEKUNLE OBASA",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tajudeen Obasa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tajudeen Obasa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tajudeen Obasa",
+          "note": "multilingual"
         }
       ]
     },
@@ -1596,11 +1623,16 @@
           "value": "08066527289"
         }
       ],
+      "gender": "male",
       "id": "29dfc79f-bd7c-49ef-a31b-913faabe8e4e",
       "identifiers": [
         {
           "identifier": "794",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22005748",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/794.jpg",
@@ -1609,11 +1641,27 @@
           "url": "http://www.nass.gov.ng/images/mps/794.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kayode_Oladele"
+        }
+      ],
       "name": "KAYODE OLADELE",
       "other_names": [
         {
           "name": "KAYODE OLADELE",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kayode Oladele",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kayode Oladele",
+          "note": "multilingual"
         }
       ]
     },
@@ -1668,11 +1716,17 @@
       ]
     },
     {
+      "birth_date": "1957-12-01",
+      "gender": "male",
       "id": "2f3453b5-6567-4460-91f2-b388d1ab9099",
       "identifiers": [
         {
           "identifier": "634",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4727557",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/634.jpg",
@@ -1681,11 +1735,41 @@
           "url": "http://www.nass.gov.ng/images/mps/634.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aliyu_Musa"
+        }
+      ],
       "name": "Shehu Musa",
       "other_names": [
         {
+          "name": "Aliyu Musa",
+          "note": "alternate"
+        },
+        {
           "name": "Shehu Aliyu Musa",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Aliyu Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aliyu Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Aliyu Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aliyu Musa",
+          "note": "multilingual"
         }
       ]
     },
@@ -1809,6 +1893,8 @@
         }
       ],
       "email": "hon.khadija.ibrahim@nass.gov.ng",
+      "gender": "female",
+      "given_name": "Khadija",
       "id": "329dc28f-bc10-4fc3-b769-61d17e077393",
       "identifiers": [
         {
@@ -1818,6 +1904,10 @@
         {
           "identifier": "khadija-bukar-ibrahim",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q18129932",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/608.jpg",
@@ -1829,6 +1919,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/khadija-bukar-ibrahim"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khadija_Bukar_Abba_Ibrahim"
+        }
+      ],
       "name": "KHADIJA BUKAR .A.",
       "other_names": [
         {
@@ -1838,6 +1934,30 @@
         {
           "name": "KHADIJA IBRAHIM BUKAR .A.",
           "note": "alternate"
+        },
+        {
+          "name": "Khadija Bukar Abba Ibrahim",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Khadija Bukar Abba Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Khadija Bukar Abba Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Khadija Bukar Abba Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Khadija Bukar Abba Ibrahim",
+          "note": "multilingual"
         }
       ]
     },
@@ -2602,7 +2722,7 @@
       ]
     },
     {
-      "birth_date": "1962-12-02",
+      "birth_date": "1962-02-02",
       "contact_details": [
         {
           "type": "phone",
@@ -2610,6 +2730,7 @@
         }
       ],
       "gender": "male",
+      "given_name": "John",
       "id": "40b6599d-8fcc-493d-aa1a-426581d49a40",
       "identifiers": [
         {
@@ -2619,6 +2740,10 @@
         {
           "identifier": "john-dyegh",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q16194615",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/541.jpg",
@@ -2627,7 +2752,16 @@
           "url": "http://www.nass.gov.ng/images/mps/541.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dyegh.jpg"
+        },
+        {
           "url": "http://www.shineyoureye.org/media_root/images/john-dyeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Dyegh"
         }
       ],
       "name": "JOHN DYEGH",
@@ -2635,6 +2769,26 @@
         {
           "name": "JOHN DYEGH",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "John Dyegh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Dyegh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Dyegh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Dyegh",
+          "note": "multilingual"
         }
       ]
     },
@@ -2855,17 +3009,23 @@
       ]
     },
     {
+      "birth_date": "1978-11-19",
       "contact_details": [
         {
           "type": "phone",
           "value": "07055403349"
         }
       ],
+      "gender": "male",
       "id": "477b8b61-168f-47c1-b7c3-5b42c8e9453e",
       "identifiers": [
         {
           "identifier": "850",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26896971",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/850.jpg",
@@ -2874,11 +3034,31 @@
           "url": "http://www.nass.gov.ng/images/mps/850.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Julius_Gbabojor_Pondi"
+        }
+      ],
       "name": "julius pondi",
       "other_names": [
         {
+          "name": "Julius Gbabojor Pondi",
+          "note": "alternate"
+        },
+        {
           "name": "julius gbabojor pondi",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Julius Gbabojor Pondi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Julius Gbabojor Pondi",
+          "note": "multilingual"
         }
       ]
     },
@@ -3576,11 +3756,16 @@
           "value": "08066000626"
         }
       ],
+      "gender": "male",
       "id": "594f85ac-20a5-4758-bd2a-d8b28fe2d808",
       "identifiers": [
         {
           "identifier": "583",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28051589",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/583.jpg",
@@ -3589,16 +3774,29 @@
           "url": "http://www.nass.gov.ng/images/mps/583.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Samaila_Suleiman"
+        }
+      ],
       "name": "SAMAILA SULEIMAN",
       "other_names": [
         {
           "name": "SAMAILA SULEIMAN",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Samaila Suleiman",
+          "note": "multilingual"
         }
       ]
     },
     {
       "birth_date": "1967-12-08",
+      "gender": "female",
+      "given_name": "Beni",
       "id": "59ca73d9-1f43-46c4-9069-498c5cfeed0a",
       "identifiers": [
         {
@@ -3606,8 +3804,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/011c8ynf",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "beni-lar",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q17385635",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/544.jpg",
@@ -3619,6 +3825,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/beni-lar"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Beni_Lar"
+        }
+      ],
       "name": "BENI LAR",
       "other_names": [
         {
@@ -3628,6 +3840,31 @@
         {
           "name": "BENI BUTMAK LAR",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Beni Lar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Beni Lar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Beni Lar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Beni Lar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Beni Lar",
+          "note": "multilingual"
         }
       ]
     },
@@ -4227,6 +4464,7 @@
         }
       ],
       "email": "lasunyussuf@gmail.com",
+      "gender": "male",
       "id": "70ab94b6-2262-4f7b-bc5f-16cf475bfcac",
       "identifiers": [
         {
@@ -4236,6 +4474,10 @@
         {
           "identifier": "yussuff-lasun-sulaimon",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q23304614",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/367.jpg",
@@ -4244,11 +4486,24 @@
           "url": "http://www.nass.gov.ng/images/mps/367.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/YussuffLasun.jpg"
+        },
+        {
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Yusuf_Lasun.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yusuf_Sulaimon_Lasun"
         }
       ],
       "name": "YUSUF LASUN",
       "other_names": [
+        {
+          "name": "Sulaimon Lasun Yussuff",
+          "note": "alternate"
+        },
         {
           "name": "YUSSUFF LASUN SULAIMON",
           "note": "alternate"
@@ -4256,6 +4511,26 @@
         {
           "name": "YUSUF SULAIMON LASUN",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Sulaimon Lasun Yussuff",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sulaimon Lasun Yussuff",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "尤瑟夫·苏莱曼·勒桑",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "尤瑟夫·蘇萊曼·勒桑",
+          "note": "multilingual"
         }
       ]
     },
@@ -4663,6 +4938,7 @@
         }
       ],
       "email": "fhgbaja@yahoo.com",
+      "gender": "male",
       "id": "765d47ff-a659-4faa-9fc7-d641fee30ac5",
       "identifiers": [
         {
@@ -4672,6 +4948,10 @@
         {
           "identifier": "femi-gbajabiamila",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q5442793",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/803.jpg",
@@ -4683,6 +4963,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Femi_Gbajabiamila.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Femi_Gbajabiamila"
+        }
+      ],
       "name": "OLUFEMI GBAJABIAMILA",
       "other_names": [
         {
@@ -4690,8 +4976,32 @@
           "note": "alternate"
         },
         {
+          "name": "Femi Gbaja Biamila",
+          "note": "alternate"
+        },
+        {
           "name": "OLUFEMI GBAJABIAMILA",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Femi Gbaja Biamila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Femi Gbaja Biamila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Femi Gbaja Biamila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Femi Gbaja Biamila",
+          "note": "multilingual"
         }
       ]
     },
@@ -4928,11 +5238,17 @@
           "value": "08030974050"
         }
       ],
+      "gender": "male",
+      "given_name": "Boniface",
       "id": "7a964ca1-67eb-43e9-8986-f2823bef710f",
       "identifiers": [
         {
           "identifier": "631",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20676550",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/631.jpg",
@@ -4941,11 +5257,36 @@
           "url": "http://www.nass.gov.ng/images/mps/631.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Boniface_S._Emerengwa"
+        }
+      ],
       "name": "EMERENGWA BONIFACE",
       "other_names": [
         {
+          "name": "Boniface S. Emerengwa",
+          "note": "alternate"
+        },
+        {
           "name": "EMERENGWA SUNDAY BONIFACE",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Boniface S. Emerengwa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Boniface S. Emerengwa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Boniface S. Emerengwa",
+          "note": "multilingual"
         }
       ]
     },
@@ -6995,11 +7336,17 @@
       ]
     },
     {
+      "birth_date": "1973-04-17",
+      "gender": "male",
       "id": "a7d48bda-e47d-4807-a9e6-07a790800d41",
       "identifiers": [
         {
           "identifier": "683",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18618880",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/683.jpg",
@@ -7008,11 +7355,31 @@
           "url": "http://www.nass.gov.ng/images/mps/683.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Usman_Shehu_Bawa"
+        }
+      ],
       "name": "USMAN SHEHU",
       "other_names": [
         {
           "name": "USMAN ALIYU SHEHU",
           "note": "alternate"
+        },
+        {
+          "name": "Usman Shehu Bawa",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Usman Shehu Bawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Usman Shehu Bawa",
+          "note": "multilingual"
         }
       ]
     },
@@ -7628,23 +7995,38 @@
       ]
     },
     {
+      "birth_date": "1978-06-30",
       "contact_details": [
         {
           "type": "phone",
           "value": "08033140022"
         }
       ],
+      "gender": "male",
       "id": "b62f18fc-dd29-4b02-a5f7-95a42f956543",
       "identifiers": [
         {
           "identifier": "932",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24668829",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/932.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/932.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Abdussamad_Dasuki.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdussamad_Dasuki"
         }
       ],
       "name": "ABDUSSAMAD DASUKI",
@@ -7652,6 +8034,16 @@
         {
           "name": "ABDUSSAMAD DASUKI",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Abdussamad Dasuki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdussamad Dasuki",
+          "note": "multilingual"
         }
       ]
     },
@@ -8327,6 +8719,7 @@
     },
     {
       "birth_date": "1974-01-28",
+      "gender": "male",
       "id": "c349a15f-1885-4ebd-accd-5e000230ea23",
       "identifiers": [
         {
@@ -8336,6 +8729,10 @@
         {
           "identifier": "nasiru-sule-garo",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q6967190",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/682.jpg",
@@ -8347,6 +8744,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/nasiru-sule-gar"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nasiru_Sule_Garo"
+        }
+      ],
       "name": "NASIRU SULE",
       "other_names": [
         {
@@ -8356,6 +8759,35 @@
         {
           "name": "NASIRU SULE GARO",
           "note": "alternate"
+        },
+        {
+          "name": "Nasiru Sule Garo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nasiru Sule Garo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nasiru Sule Garo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nasiru Sule Garo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nasiru Sule Garo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nasiru Sule Garo",
+          "note": "multilingual"
         }
       ]
     },
@@ -8555,11 +8987,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "cc0c8ee4-5f23-4e20-8e71-9f9341f5e6cf",
       "identifiers": [
         {
           "identifier": "575",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25938875",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/575.jpg",
@@ -8568,11 +9005,31 @@
           "url": "http://www.nass.gov.ng/images/mps/575.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joan_Onyemaechi_Mrakpor"
+        }
+      ],
       "name": "JOAN MRAKPOR",
       "other_names": [
         {
           "name": "JOAN ONYEMAECHI MRAKPOR",
           "note": "alternate"
+        },
+        {
+          "name": "Joan Onyemaechi Mrakpor",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Joan Onyemaechi Mrakpor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Onyemaechi Mrakpor",
+          "note": "multilingual"
         }
       ]
     },
@@ -8583,11 +9040,16 @@
           "value": "08092777111"
         }
       ],
+      "gender": "female",
       "id": "ce5bb010-0ada-40a2-9313-4f9e1d0824af",
       "identifiers": [
         {
           "identifier": "651",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22279489",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/651.jpg",
@@ -8596,11 +9058,31 @@
           "url": "http://www.nass.gov.ng/images/mps/651.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Omosede_G._Igbinedion"
+        }
+      ],
       "name": "OMOSEDE IGBINEDION",
       "other_names": [
         {
           "name": "OMOSEDE GABRIELLA IGBINEDION",
           "note": "alternate"
+        },
+        {
+          "name": "Omosede G. Igbinedion",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Omosede G. Igbinedion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Omosede G. Igbinedion",
+          "note": "multilingual"
         }
       ]
     },
@@ -8896,7 +9378,7 @@
       ]
     },
     {
-      "birth_date": "1966-12-22",
+      "birth_date": "1967-12-26",
       "contact_details": [
         {
           "type": "email",
@@ -8904,6 +9386,7 @@
         }
       ],
       "email": "repinfo@nassnig.org",
+      "gender": "male",
       "id": "d3557568-295b-48c2-8d9f-7d6b0753a48a",
       "identifiers": [
         {
@@ -8913,6 +9396,10 @@
         {
           "identifier": "yakubu-dogara",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q19957516",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/554.jpg",
@@ -8924,6 +9411,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Yakubu_Dogara.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yakubu_Dogara"
+        }
+      ],
       "name": "DOGARA YAKUBU",
       "other_names": [
         {
@@ -8933,6 +9426,35 @@
         {
           "name": "YAKUBU DOGARA",
           "note": "alternate"
+        },
+        {
+          "name": "Yakubu Dogara",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Yakubu Dogara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yakubu Dogara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yakubu Dogara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "雅库布·多格拉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "雅庫布·多格拉",
+          "note": "multilingual"
         }
       ]
     },
@@ -9223,11 +9745,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "d9936274-8b09-43dd-8289-2bdc96c0dfe0",
       "identifiers": [
         {
           "identifier": "671",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22087359",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/671.jpg",
@@ -9236,11 +9763,31 @@
           "url": "http://www.nass.gov.ng/images/mps/671.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chukwuemeka_Ujam"
+        }
+      ],
       "name": "UJAM CHUKWUEMEKA",
       "other_names": [
         {
+          "name": "Chukwuemeka Ujam",
+          "note": "alternate"
+        },
+        {
           "name": "UJAM CHUKWUEMEKA",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Chukwuemeka Ujam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chukwuemeka Ujam",
+          "note": "multilingual"
         }
       ]
     },
