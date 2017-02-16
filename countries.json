@@ -8611,11 +8611,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/17937d8e40367a1edbf8e5455122bb132dac279f/data/Scotland/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0c2a7781adddfa3c0ec19ab1757dfe3a0eefc098/data/Scotland/Parliament/ep-popolo-v1.0.json",
         "names": "data/Scotland/Parliament/names.csv",
-        "lastmod": "1487098732",
+        "lastmod": "1487179627",
         "person_count": 302,
-        "sha": "17937d8e40367a1edbf8e5455122bb132dac279f",
+        "sha": "0c2a7781adddfa3c0ec19ab1757dfe3a0eefc098",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -8623,7 +8623,7 @@
             "start_date": "2016-05-05",
             "slug": "5",
             "csv": "data/Scotland/Parliament/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/17937d8e40367a1edbf8e5455122bb132dac279f/data/Scotland/Parliament/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e023c9e0e24c1526f7d8281ce69ed3814de06fb/data/Scotland/Parliament/term-5.csv"
           },
           {
             "end_date": "2016-03-24",
@@ -8662,7 +8662,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9d8a8ff1205fecb374d8207cb45849dcf1e752d6/data/Scotland/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 20551,
+        "statement_count": 21155,
         "type": "unicameral legislature"
       }
     ]
