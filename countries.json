@@ -6993,22 +6993,22 @@
         "slug": "Representatives",
         "sources_directory": "data/Nigeria/Representatives/sources",
         "popolo": "data/Nigeria/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2721e53019dd58c70d9b094baf5ec98937a46162/data/Nigeria/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f69a78a2d1ad6c57d22fad29d6a9f6877cee8784/data/Nigeria/Representatives/ep-popolo-v1.0.json",
         "names": "data/Nigeria/Representatives/names.csv",
-        "lastmod": "1487179296",
+        "lastmod": "1487262123",
         "person_count": 364,
-        "sha": "2721e53019dd58c70d9b094baf5ec98937a46162",
+        "sha": "f69a78a2d1ad6c57d22fad29d6a9f6877cee8784",
         "legislative_periods": [
           {
-            "id": "term/2015",
-            "name": "2015–",
+            "id": "term/8",
+            "name": "8th National Assembly",
             "start_date": "2015-06-09",
-            "slug": "2015",
-            "csv": "data/Nigeria/Representatives/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2721e53019dd58c70d9b094baf5ec98937a46162/data/Nigeria/Representatives/term-2015.csv"
+            "slug": "8",
+            "csv": "data/Nigeria/Representatives/term-8.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f69a78a2d1ad6c57d22fad29d6a9f6877cee8784/data/Nigeria/Representatives/term-8.csv"
           }
         ],
-        "statement_count": 8284,
+        "statement_count": 8286,
         "type": "lower house"
       },
       {
@@ -7016,19 +7016,19 @@
         "slug": "Senate",
         "sources_directory": "data/Nigeria/Senate/sources",
         "popolo": "data/Nigeria/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/37d3866d49b814fd76f178df307e34bae9466595/data/Nigeria/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8fc10dcc1ef59141ed2760bd64b25d5bfe15a304/data/Nigeria/Senate/ep-popolo-v1.0.json",
         "names": "data/Nigeria/Senate/names.csv",
-        "lastmod": "1487178766",
+        "lastmod": "1487262507",
         "person_count": 109,
-        "sha": "37d3866d49b814fd76f178df307e34bae9466595",
+        "sha": "8fc10dcc1ef59141ed2760bd64b25d5bfe15a304",
         "legislative_periods": [
           {
-            "id": "term/2015",
-            "name": "2015–",
+            "id": "term/8",
+            "name": "8th National Assembly",
             "start_date": "2015-06-09",
-            "slug": "2015",
-            "csv": "data/Nigeria/Senate/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/37d3866d49b814fd76f178df307e34bae9466595/data/Nigeria/Senate/term-2015.csv"
+            "slug": "8",
+            "csv": "data/Nigeria/Senate/term-8.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8fc10dcc1ef59141ed2760bd64b25d5bfe15a304/data/Nigeria/Senate/term-8.csv"
           }
         ],
         "statement_count": 2703,
