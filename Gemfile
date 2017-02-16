@@ -4,7 +4,6 @@ abort 'Ruby should be >= 2.3' unless RUBY_VERSION.to_f >= 2.3
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 
 gem 'json'
-gem 'nokogiri'
 gem 'pry'
 gem 'rake'
 gem 'csv_to_popolo', '~> 0.28.0', github: 'tmtmtmtm/csv_to_popolo'

@@ -114,22 +114,17 @@ GEM
     mime-types (3.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
-    mini_portile2 (2.1.0)
     minitest (5.9.0)
     minitest-around (0.3.2)
       minitest (~> 5.0)
     multipart-post (2.0.0)
     netrc (0.11.0)
-    nokogiri (1.6.8)
-      mini_portile2 (~> 2.1.0)
-      pkg-config (~> 1.1.7)
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
     open_uri_redirections (0.2.1)
     parser (2.3.3.1)
       ast (~> 2.2)
     path_expander (1.0.0)
-    pkg-config (1.1.7)
     powerpack (0.1.1)
     pry (0.10.4)
       coderay (~> 1.1.0)
@@ -199,7 +194,6 @@ DEPENDENCIES
   json5
   minitest
   minitest-around
-  nokogiri
   pry
   rake
   rcsv
@@ -216,4 +210,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   1.13.4
+   1.13.7
