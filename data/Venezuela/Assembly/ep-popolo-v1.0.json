@@ -1794,6 +1794,12 @@
     },
     {
       "birth_date": "1988-02-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "miguel_pizarro"
+        }
+      ],
       "gender": "male",
       "given_name": "Miguel",
       "id": "3b7d7a67-ad86-4ba3-8012-e474ce89ef9e",
@@ -1801,6 +1807,10 @@
         {
           "identifier": "Q20668052",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCL_yfBsu5Fo7uBtlthyHIPg",
+          "scheme": "youtube"
         }
       ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_a492754576a4348614334f4a35100f1234d7c8eb.jpg",
@@ -1820,6 +1830,14 @@
         {
           "note": "Wikipedia (eswikiquote)",
           "url": "https://eswikiquote.wikipedia.org/wiki/Miguel_Pizarro_Rodríguez"
+        },
+        {
+          "note": "instagram",
+          "url": "miguel_pizarro"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/miguel_pizarro"
         }
       ],
       "name": "PIZARRO RODRÍGUEZ MIGUEL ALEJANDRO",
