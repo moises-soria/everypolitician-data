@@ -29183,10 +29183,6 @@
       "sort_name": "Pietikäinen Margareta"
     },
     {
-      "id": "7a3d4284-53a5-4931-b03b-00487e15ea9b",
-      "name": "Paula Lehtomäki"
-    },
-    {
       "birth_date": "1967-12-23",
       "contact_details": [
         {
@@ -47740,8 +47736,131 @@
       "sort_name": "Akaan-Penttilä Eero"
     },
     {
+      "birth_date": "1945-12-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PekkaPuska1"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Pekka",
       "id": "e036c8a3-58fe-4bfd-b4ec-67ac49eb49f7",
-      "name": "Pekka Puska"
+      "identifiers": [
+        {
+          "identifier": "242",
+          "scheme": "eduskunta"
+        },
+        {
+          "identifier": "/m/0gdjp3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "113359233",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nm4087525",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0001 1076 6825",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n79021507",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "068573952",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "157768074",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "91942032",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5407283",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pekka_Puska.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pekka_Puska.JPG"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/564078204147621888/Cqc-7biw.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Pekka_Puska"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pekka_Puska"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Pekka_Puska"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Пекка_Пуска"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PekkaPuska1"
+        },
+        {
+          "note": "website",
+          "url": "http://pekkapuska.fi/"
+        }
+      ],
+      "name": "Pekka Puska",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pekka Puska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pekka Puska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Pekka Puska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pekka Puska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pekka Puska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Pekka Puska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Пекка Пуска",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-04-21",
@@ -63556,6 +63675,16 @@
       ]
     },
     {
+      "area_id": "area/helsingin",
+      "end_date": "2017-02-09",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "kesk",
+      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
+      "person_id": "4b3bad19-f195-4492-9bd1-d7275690c17f",
+      "role": "member",
+      "start_date": "2017-02-01"
+    },
+    {
       "area_id": "area/oulun",
       "legislative_period_id": "term/28",
       "on_behalf_of_id": "sd",
@@ -67146,16 +67275,6 @@
           "url": "http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=413&kieli=su"
         }
       ]
-    },
-    {
-      "area_id": "area/helsingin",
-      "end_date": "2017-02-09",
-      "legislative_period_id": "term/37",
-      "on_behalf_of_id": "kesk",
-      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
-      "person_id": "7a3d4284-53a5-4931-b03b-00487e15ea9b",
-      "role": "member",
-      "start_date": "2017-02-01"
     },
     {
       "area_id": "area/lapin",
