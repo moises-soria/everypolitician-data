@@ -11260,11 +11260,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Venezuela/Assembly/sources",
         "popolo": "data/Venezuela/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/21fccdc1e3c65705ee061987cb73b45a7083c51c/data/Venezuela/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ab77635b2e2b86f235cf4dfbf33822975a6910b/data/Venezuela/Assembly/ep-popolo-v1.0.json",
         "names": "data/Venezuela/Assembly/names.csv",
-        "lastmod": "1486867991",
+        "lastmod": "1487559701",
         "person_count": 279,
-        "sha": "21fccdc1e3c65705ee061987cb73b45a7083c51c",
+        "sha": "2ab77635b2e2b86f235cf4dfbf33822975a6910b",
         "legislative_periods": [
           {
             "id": "term/2016",
@@ -11272,7 +11272,7 @@
             "start_date": "2016-01-05",
             "slug": "2016",
             "csv": "data/Venezuela/Assembly/term-2016.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/50345c367016d7fd7303c9de48f8c57e5843460d/data/Venezuela/Assembly/term-2016.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ab77635b2e2b86f235cf4dfbf33822975a6910b/data/Venezuela/Assembly/term-2016.csv"
           },
           {
             "end_date": "2016-01-04",
@@ -11284,7 +11284,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c8cbf3c836c013481cda33395c885ad34a98ee3d/data/Venezuela/Assembly/term-2011.csv"
           }
         ],
-        "statement_count": 7139,
+        "statement_count": 7147,
         "type": "unicameral legislature"
       }
     ]
