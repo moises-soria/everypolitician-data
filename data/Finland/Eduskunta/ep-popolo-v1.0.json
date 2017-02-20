@@ -2556,7 +2556,7 @@
           "url": "http://kansanmuisti.fi/media/images/members/lindstrom-jari.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/815479098436939776/R7FFVe8g.jpg"
+          "url": "https://pbs.twimg.com/profile_images/832986469925060609/y96Eo7ue.jpg"
         }
       ],
       "links": [
@@ -10910,7 +10910,7 @@
           "url": "http://kansanmuisti.fi/media/images/members/jokinen-kalle.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/558005973340930050/awSoB_U6.jpeg"
+          "url": "https://pbs.twimg.com/profile_images/830157739783512065/gUC4Q_cr.jpg"
         }
       ],
       "links": [
@@ -29183,6 +29183,10 @@
       "sort_name": "Pietikäinen Margareta"
     },
     {
+      "id": "7a3d4284-53a5-4931-b03b-00487e15ea9b",
+      "name": "Paula Lehtomäki"
+    },
+    {
       "birth_date": "1967-12-23",
       "contact_details": [
         {
@@ -44650,8 +44654,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/718420478235283456/QObQ0oks.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kai_Mykkänen.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kai_Mykkänen.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/718420478235283456/QObQ0oks.jpg"
         }
@@ -47731,6 +47738,10 @@
         }
       ],
       "sort_name": "Akaan-Penttilä Eero"
+    },
+    {
+      "id": "e036c8a3-58fe-4bfd-b4ec-67ac49eb49f7",
+      "name": "Pekka Puska"
     },
     {
       "birth_date": "1951-04-21",
@@ -67137,6 +67148,16 @@
       ]
     },
     {
+      "area_id": "area/helsingin",
+      "end_date": "2017-02-09",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "kesk",
+      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
+      "person_id": "7a3d4284-53a5-4931-b03b-00487e15ea9b",
+      "role": "member",
+      "start_date": "2017-02-01"
+    },
+    {
       "area_id": "area/lapin",
       "legislative_period_id": "term/36",
       "on_behalf_of_id": "kesk",
@@ -69842,6 +69863,7 @@
     },
     {
       "area_id": "area/helsingin",
+      "end_date": "2017-02-01",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
@@ -73740,6 +73762,15 @@
           "url": "http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=558&kieli=su"
         }
       ]
+    },
+    {
+      "area_id": "area/helsingin",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "kesk",
+      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
+      "person_id": "e036c8a3-58fe-4bfd-b4ec-67ac49eb49f7",
+      "role": "member",
+      "start_date": "2017-02-09"
     },
     {
       "area_id": "area/oulun",
