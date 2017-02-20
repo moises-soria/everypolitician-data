@@ -315,7 +315,7 @@
       ]
     },
     {
-      "birth_date": "1961",
+      "birth_date": "1959-11-20",
       "contact_details": [
         {
           "type": "email",
@@ -577,11 +577,28 @@
         }
       ],
       "email": "abs@sarakimail.com",
+      "gender": "male",
       "id": "223679e6-ac35-4ced-944b-b1109d9e4b1d",
       "identifiers": [
         {
+          "identifier": "0000 0000 4736 0506",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2008062262",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "saraki-abubakar-bukola",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "68739285",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4986999",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/536.jpg",
@@ -593,6 +610,24 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Bukola_Saraki_Senate_President.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bukola_Saraki"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Bukola_Saraki"
+        },
+        {
+          "note": "Wikipedia (enwikisource)",
+          "url": "https://enwikisource.wikipedia.org/wiki/Author:Bukola_Saraki"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Bukola_Saraki"
+        }
+      ],
       "name": "BUKOLA SARAKI",
       "other_names": [
         {
@@ -602,6 +637,51 @@
         {
           "name": "SARAKI ABUBAKAR BUKOLA",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Bukola Saraki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bukola Saraki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bukola Saraki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bukola Saraki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bukola Saraki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bukola Saraki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Bukola Saraki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "布科拉·萨拉基",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "布科拉·薩拉基",
+          "note": "multilingual"
         }
       ]
     },
@@ -1779,7 +1859,7 @@
       ]
     },
     {
-      "birth_date": "1942-04-23",
+      "birth_date": "1949-04-23",
       "contact_details": [
         {
           "type": "email",
@@ -3243,6 +3323,10 @@
         {
           "identifier": "nnaji-gilbert-emeka",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q20604335",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/873.jpg",
@@ -3254,6 +3338,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/aji-gilbert-emeka"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Gilbert_E._Nnaji"
+        }
+      ],
       "name": "GILBERT NNAJI",
       "other_names": [
         {
@@ -3261,8 +3351,17 @@
           "note": "alternate"
         },
         {
+          "name": "Gilbert E. Nnaji",
+          "note": "alternate"
+        },
+        {
           "name": "NNAJI GILBERT EMEKA",
           "note": "alternate"
+        },
+        {
+          "lang": "yo",
+          "name": "Gilbert E. Nnaji",
+          "note": "multilingual"
         }
       ]
     },
