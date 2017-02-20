@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1957-01-01",
       "contact_details": [
         {
           "type": "email",
@@ -15,11 +16,16 @@
         }
       ],
       "email": "senfatimatrajirasaki@gmail.com",
+      "gender": "female",
       "id": "0577f346-e883-4e1d-94eb-e3050d5c15f1",
       "identifiers": [
         {
           "identifier": "fatimat-raji-rasaki",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q22704987",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/942.jpg",
@@ -31,11 +37,36 @@
           "url": "http://www.shineyoureye.org/media_root/images/PDP_-__Fatimat_Raji-Rasaki.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fatimat_Olufunke_Raji-Rasaki"
+        }
+      ],
       "name": "Fatimat Raji-Rasaki",
       "other_names": [
         {
           "name": "Fatimat Olufunke Raji-Rasaki",
           "note": "alternate"
+        },
+        {
+          "name": "Fatimat Olufunke Raji-Rasaki",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Fatimat Olufunke Raji-Rasaki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fatimat Olufunke Raji-Rasaki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fatimat Olufunke Raji-Rasaki",
+          "note": "multilingual"
         }
       ]
     },
@@ -106,11 +137,17 @@
           "value": "08033151232,08122266"
         }
       ],
+      "gender": "male",
+      "given_name": "Emmanuel",
       "id": "10ab1957-94a3-4d99-b31d-6236c624921e",
       "identifiers": [
         {
           "identifier": "bwacha-emmanuel",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q5373159",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/714.jpg",
@@ -122,6 +159,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/bwacha-emmanuel"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emmanuel_Bwacha"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Emmanuel_Bwacha"
+        }
+      ],
       "name": "EMMANUEL BWACHA, CON",
       "other_names": [
         {
@@ -131,6 +178,35 @@
         {
           "name": "EMMANUEL BWACHA, CON",
           "note": "alternate"
+        },
+        {
+          "name": "Emmanuel Bwacha",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Emmanuel Bwacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Emmanuel Bwacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emmanuel Bwacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emmanuel Bwacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Emmanuel Bwacha",
+          "note": "multilingual"
         }
       ]
     },
@@ -175,17 +251,44 @@
       ]
     },
     {
+      "birth_date": "1956-02-17",
       "contact_details": [
         {
           "type": "phone",
           "value": "0802772605"
+        },
+        {
+          "type": "twitter",
+          "value": "benmurraybruce"
         }
       ],
+      "gender": "male",
+      "given_name": "Ben",
       "id": "13721811-4357-419c-8ca7-8f1170b36f1a",
+      "identifiers": [
+        {
+          "identifier": "/g/11btwqtj5t",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Q20155621",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/941.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/941.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ben_Murray-Bruce"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/benmurraybruce"
         }
       ],
       "name": "Ben Murray-Bruce",
@@ -193,11 +296,26 @@
         {
           "name": "Ben Murray-Bruce",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ben Murray-Bruce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ben Murray-Bruce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ben Murray-Bruce",
+          "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1959-11-20",
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "email",
@@ -205,11 +323,17 @@
         }
       ],
       "email": "malindume@yahoo.com",
+      "gender": "male",
+      "given_name": "Mohammed",
       "id": "16f44adf-2bc8-469d-aef1-5d04bfc3a6b9",
       "identifiers": [
         {
           "identifier": "ndume-mohammed-ali",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q3509941",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/409.jpg",
@@ -221,6 +345,20 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Mohammed_Ali_Ndume.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohammed_Ali_Ndume"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ндуме,_Мохаммед_Али"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Mohammed_Ali_Ndume"
+        }
+      ],
       "name": "MOHAMMED NDUME",
       "other_names": [
         {
@@ -228,8 +366,52 @@
           "note": "alternate"
         },
         {
+          "name": "Mohammed Ali Ndume",
+          "note": "alternate"
+        },
+        {
           "name": "NDUME MOHAMMED ALI",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mohammed Ali Ndume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohammed Ali Ndume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mohammed Ali Ndume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mohammed Ali Ndume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mohammed Ali Ndume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohammed Ali Ndume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ндуме, Мохаммед Али",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Mohammed Ali Ndume",
+          "note": "multilingual"
         }
       ]
     },
@@ -247,17 +429,32 @@
       ],
       "email": "izibefien@yahoo.com",
       "gender": "male",
+      "given_name": "Paul",
       "id": "18771cbf-47e1-4e0f-bbc5-a65b1e11a8c8",
       "identifiers": [
         {
           "identifier": "emmanuel-paulker-izibefien",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q5373326",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shineyoureye.org/media_root/images/mmanuel-paulker-izibefi",
       "images": [
         {
           "url": "http://www.shineyoureye.org/media_root/images/mmanuel-paulker-izibefi"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emmanuel_Paulker"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Paul_Emmanuel"
         }
       ],
       "name": "PAULKER EMMANUEL",
@@ -267,8 +464,37 @@
           "note": "alternate"
         },
         {
+          "name": "Emmanuel Paulker",
+          "note": "alternate"
+        },
+        {
           "name": "PAULKER IZIBEFIEN EMMANUEL",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Emmanuel Paulker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Emmanuel Paulker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emmanuel Paulker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emmanuel Paulker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Paul Emmanuel",
+          "note": "multilingual"
         }
       ]
     },
@@ -388,11 +614,17 @@
         }
       ],
       "email": "lidanijoshua@gmail.com",
+      "gender": "male",
+      "given_name": "Joshua",
       "id": "2696e29d-79f3-4db3-b50e-31ceeaae2ae0",
       "identifiers": [
         {
           "identifier": "joshua-lidani-moltobok",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q6290036",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/810.jpg",
@@ -404,6 +636,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/lidani-joshua-m"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joshua_M._Lidani"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Jóṣúà_M._Lidani"
+        }
+      ],
       "name": "JOSHUA MOLTOBOK",
       "other_names": [
         {
@@ -413,6 +655,40 @@
         {
           "name": "JOSHUA LIDANi MOLTOBOK",
           "note": "alternate"
+        },
+        {
+          "name": "Joshua M. Lidani",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Joshua M. Lidani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joshua M. Lidani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joshua M. Lidani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joshua M. Lidani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joshua M. Lidani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Jóṣúà M. Lidani",
+          "note": "multilingual"
         }
       ]
     },
@@ -577,11 +853,16 @@
       ],
       "email": "ikeekweremadu@yahoo.com",
       "gender": "male",
+      "given_name": "Ike",
       "id": "31a25c6a-76fc-4b1b-8bb4-22f15a8d6612",
       "identifiers": [
         {
           "identifier": "ekweremadu-ike",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q13140687",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/817.jpg",
@@ -593,6 +874,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/kweremadu-ike"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ike_Ekweremadu"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Ike_Ekweremadu"
+        }
+      ],
       "name": "IKE EKWEREMADU",
       "other_names": [
         {
@@ -602,6 +893,41 @@
         {
           "name": "IKE EKWEREMADU",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ike Ekweremadu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ike Ekweremadu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ike Ekweremadu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ike Ekweremadu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Ike Ekweremadu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "艾克·艾克沃瑞马杜",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "艾克·艾克沃瑞馬杜",
+          "note": "multilingual"
         }
       ]
     },
@@ -615,11 +941,16 @@
       ],
       "email": "jamesmanager2011@gmail.com",
       "gender": "male",
+      "given_name": "James",
       "id": "34047ee1-4c7e-4e46-a439-1372b2d7e231",
       "identifiers": [
         {
           "identifier": "manager-james-ebiowou",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q6138857",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/70.jpg",
@@ -631,6 +962,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/manager-james-ebiowou"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/James_Manager"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/James_Manager"
+        }
+      ],
       "name": "JAMES MANAGER",
       "other_names": [
         {
@@ -640,6 +981,31 @@
         {
           "name": "MANAGER JAMES EBIOWOU",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "James Manager",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "James Manager",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "James Manager",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "James Manager",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "James Manager",
+          "note": "multilingual"
         }
       ]
     },
@@ -653,11 +1019,16 @@
       ],
       "email": "osscouf@yahoo.com",
       "gender": "male",
+      "given_name": "Hope",
       "id": "37ca02c4-a0d0-4dd4-bc5e-ffe082f9a1b5",
       "identifiers": [
         {
           "identifier": "uzodinma-goodhope-odidika",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q5899569",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/111.jpg",
@@ -669,6 +1040,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/uzodinma-goodhope-odidika"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hope_Uzodinma"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Hope_Uzodinma"
+        }
+      ],
       "name": "HOPE UZODINMA",
       "other_names": [
         {
@@ -678,6 +1059,31 @@
         {
           "name": "UZODINMA GOODHOPE ODIDIKA",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Hope Uzodinma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hope Uzodinma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hope Uzodinma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hope Uzodinma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Hope Uzodinma",
+          "note": "multilingual"
         }
       ]
     },
@@ -695,11 +1101,16 @@
       ],
       "email": "owanenohe@yahoo.com",
       "gender": "male",
+      "given_name": "John",
       "id": "3d51d1a9-c023-4a8b-baae-36fb2618bae0",
       "identifiers": [
         {
           "identifier": "john-enoh-owan-enoh",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q24574659",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/806.jpg",
@@ -711,6 +1122,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/john-enoh-owan-e"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Owan_Enoh"
+        }
+      ],
       "name": "JOHN ENOH",
       "other_names": [
         {
@@ -720,21 +1137,69 @@
         {
           "name": "JOHN OWAN ENOH",
           "note": "alternate"
+        },
+        {
+          "name": "John Owan Enoh",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "John Owan Enoh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Owan Enoh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "John Owan Enoh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Owan Enoh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Owan Enoh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "John Owan Enoh",
+          "note": "multilingual"
         }
       ]
     },
     {
+      "birth_date": "1965",
       "contact_details": [
         {
           "type": "phone",
           "value": "08056000123"
         }
       ],
+      "gender": "male",
       "id": "452c8d72-b078-40fd-8d0c-cfff8cb199fa",
+      "identifiers": [
+        {
+          "identifier": "Q19895375",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/812.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/812.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Osinakachukwu_Ideozu"
         }
       ],
       "name": "OSINAKACHUKWU IDEOZU",
@@ -742,6 +1207,21 @@
         {
           "name": "OSINAKACHUKWU T IDEOZU",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Osinakachukwu Ideozu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Osinakachukwu Ideozu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Osinakachukwu Ideozu",
+          "note": "multilingual"
         }
       ]
     },
@@ -859,17 +1339,36 @@
       ]
     },
     {
+      "birth_date": "1957-04-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "07063212133"
         }
       ],
+      "gender": "male",
+      "given_name": "George",
       "id": "4c8ec63d-76c5-4452-934e-4c67e672b9d5",
+      "identifiers": [
+        {
+          "identifier": "Q5545186",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/876.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/876.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Thompson_Sekibo"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/George_Thompson_Sekibo"
         }
       ],
       "name": "GEORGE SEKIBO",
@@ -877,6 +1376,45 @@
         {
           "name": "GEORGE THOMPSON SEKIBO",
           "note": "alternate"
+        },
+        {
+          "name": "George Thompson Sekibo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "George Thompson Sekibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Thompson Sekibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "George Thompson Sekibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Thompson Sekibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "George Thompson Sekibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Thompson Sekibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "George Thompson Sekibo",
+          "note": "multilingual"
         }
       ]
     },
@@ -1015,11 +1553,16 @@
         }
       ],
       "email": "kabir.marafa@yahoo.com",
+      "gender": "male",
       "id": "54a8e92e-5a77-40f8-bc12-3d22a6d61913",
       "identifiers": [
         {
           "identifier": "kabir-garba-marafa",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q6344204",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/514.jpg",
@@ -1031,6 +1574,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Kabir_Marafa.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kabir_Garba_Marafa"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Kabir_Garba_Marafa"
+        }
+      ],
       "name": "KABIR GARBA",
       "other_names": [
         {
@@ -1040,6 +1593,35 @@
         {
           "name": "Kabir Garba Marafa",
           "note": "alternate"
+        },
+        {
+          "name": "Kabir Garba Marafa",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Kabir Garba Marafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kabir Garba Marafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kabir Garba Marafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kabir Garba Marafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Kabir Garba Marafa",
+          "note": "multilingual"
         }
       ]
     },
@@ -1088,11 +1670,16 @@
         }
       ],
       "email": "info@oluremitinubu.com",
+      "gender": "female",
       "id": "5744450e-41b7-4d7d-b81a-83f42f34437d",
       "identifiers": [
         {
           "identifier": "tinubu-oluremi",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q7088857",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/718.jpg",
@@ -1104,6 +1691,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Oluremi_Tinubu1.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oluremi_Tinubu"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Oluremi_Tinubu"
+        }
+      ],
       "name": "OLUREMI TINUBU",
       "other_names": [
         {
@@ -1113,6 +1710,31 @@
         {
           "name": "TINUBU OLUREMI",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Oluremi Tinubu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oluremi Tinubu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oluremi Tinubu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oluremi Tinubu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Oluremi Tinubu",
+          "note": "multilingual"
         }
       ]
     },
@@ -1157,7 +1779,7 @@
       ]
     },
     {
-      "birth_date": "1949-04-23",
+      "birth_date": "1942-04-23",
       "contact_details": [
         {
           "type": "email",
@@ -1169,11 +1791,17 @@
         }
       ],
       "email": "sborofice@yahoo.com",
+      "gender": "male",
+      "given_name": "Robert",
       "id": "62948032-2e2f-4962-b37e-7f082e722b47",
       "identifiers": [
         {
           "identifier": "boroffice-robert-ajayi",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q3511513",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/818.jpg",
@@ -1182,7 +1810,24 @@
           "url": "http://www.nass.gov.ng/images/mps/818.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Robert_Boroffice.jpg"
+        },
+        {
           "url": "http://www.shineyoureye.org/media_root/images/boroffice-robert-ajayi"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Ajayi_Boroffice"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Robert_Boroffice"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Robert_Ajayi_Boroffice"
         }
       ],
       "name": "ROBERT BOROFFICE",
@@ -1194,6 +1839,40 @@
         {
           "name": "ROBERT AJAYI BOROFFICE",
           "note": "alternate"
+        },
+        {
+          "name": "Robert Ajayi Boroffice",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Robert Ajayi Boroffice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Robert Ajayi Boroffice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Robert Boroffice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Robert Ajayi Boroffice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Robert Ajayi Boroffice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Robert Ajayi Boroffice",
+          "note": "multilingual"
         }
       ]
     },
@@ -1307,17 +1986,35 @@
       ]
     },
     {
+      "birth_date": "1955-03-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "08033129452"
         }
       ],
+      "gender": "male",
       "id": "6b0cdd74-7960-478f-ac93-d230f486a5b9",
+      "identifiers": [
+        {
+          "identifier": "Q5381464",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/808.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/808.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Enyinnaya_Abaribe"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Enyinnaya_Abaribe"
         }
       ],
       "name": "ABARIBE ENYNNAYA",
@@ -1325,6 +2022,45 @@
         {
           "name": "ABARIBE HARCOURT ENYNNAYA",
           "note": "alternate"
+        },
+        {
+          "name": "Enyinnaya Abaribe",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Enyinnaya Abaribe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Enyinnaya Abaribe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Enyinnaya Abaribe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Enyinnaya Abaribe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Enyinnaya Abaribe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Enyinnaya Abaribe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Enyinnaya Abaribe",
+          "note": "multilingual"
         }
       ]
     },
@@ -1386,6 +2122,7 @@
       ]
     },
     {
+      "birth_date": "1970-04-14",
       "contact_details": [
         {
           "type": "email",
@@ -1393,11 +2130,16 @@
         }
       ],
       "email": "smnszif@yahoo.com",
+      "gender": "male",
       "id": "7babc3b9-ede9-44f7-a2cc-af49aba7f70c",
       "identifiers": [
         {
           "identifier": "suleiman-nazif",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q7635965",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/894.jpg",
@@ -1409,16 +2151,55 @@
           "url": "http://www.shineyoureye.org/media_root/images/Bauchi_North_-_SULEIMAN_MOHAMMED_NAZIF.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sulaiman_Mohammed_Nazif"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Sulaiman_Mohammed_Nazif"
+        }
+      ],
       "name": "SULEIMAN NAZIF",
       "other_names": [
         {
           "name": "SULEIMAN MOHAMMED NAZIF",
           "note": "alternate"
+        },
+        {
+          "name": "Sulaiman Mohammed Nazif",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sulaiman Mohammed Nazif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sulaiman Mohammed Nazif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sulaiman Mohammed Nazif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sulaiman Mohammed Nazif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Sulaiman Mohammed Nazif",
+          "note": "multilingual"
         }
       ]
     },
     {
-      "birth_date": "1948-04-08",
+      "birth_date": "1948-04-18",
       "contact_details": [
         {
           "type": "email",
@@ -1426,11 +2207,21 @@
         }
       ],
       "email": "igboss@gmail.com",
+      "gender": "male",
+      "given_name": "David",
       "id": "7c177f56-169a-4779-8b3f-a78776877c37",
       "identifiers": [
         {
+          "identifier": "/m/02z0d34",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "mark-david-a-b",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q459205",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/17.jpg",
@@ -1442,6 +2233,24 @@
           "url": "http://www.shineyoureye.org/media_root/images/mark-david-a-b"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/David_Mark"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Mark"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Марк,_Дэвид"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/David_Mark"
+        }
+      ],
       "name": "DAVID MARK",
       "other_names": [
         {
@@ -1451,10 +2260,71 @@
         {
           "name": "MARK DAVID A.B",
           "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Марк, Дэвид",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "David Mark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "David Mark",
+          "note": "multilingual"
         }
       ]
     },
     {
+      "birth_date": "1957-01-01",
       "contact_details": [
         {
           "type": "email",
@@ -1466,11 +2336,16 @@
         }
       ],
       "email": "senatoraliero@yahoo.com",
+      "gender": "male",
       "id": "7d3a587c-194a-43b6-ba2e-04581d9aa783",
       "identifiers": [
         {
           "identifier": "muhammad-adamu-aliero",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q3510712",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/742.jpg",
@@ -1482,8 +2357,26 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Muhammad_Adamu_Aliero.gif"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Adamu_Aliero"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Adamu_Aliero"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Adamu_Aliero"
+        }
+      ],
       "name": "MUHAMMAD ADAMU",
       "other_names": [
+        {
+          "name": "Adamu Aliero",
+          "note": "alternate"
+        },
         {
           "name": "MUHAMMAD ALIERO ADAMU",
           "note": "alternate"
@@ -1491,6 +2384,46 @@
         {
           "name": "Muhammad Adamu Aliero",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Adamu Aliero",
+          "note": "multilingual"
         }
       ]
     },
@@ -1504,11 +2437,16 @@
       ],
       "email": "ibrahimgabir1@yahoo.com",
       "gender": "male",
+      "given_name": "Abdullahi",
       "id": "830b56fc-139a-4122-a60d-fd64fcaa8796",
       "identifiers": [
         {
           "identifier": "gobir-ibrahim-abdullahi",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q4666129",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/759.jpg",
@@ -1520,8 +2458,22 @@
           "url": "http://www.shineyoureye.org/media_root/images/gobir-ibrahim-abdullahi"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdullahi_Ibrahim_Gobir"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Abdullahi_Ibrahim_Gobir"
+        }
+      ],
       "name": "IBRAHIM GOBIR",
       "other_names": [
+        {
+          "name": "Abdullahi Ibrahim Gobir",
+          "note": "alternate"
+        },
         {
           "name": "GOBIR IBRAHIM ABDULLAHI",
           "note": "alternate"
@@ -1529,6 +2481,31 @@
         {
           "name": "IBRAHIM ABDULLAHI GOBIR",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Abdullahi Ibrahim Gobir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abdullahi Ibrahim Gobir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdullahi Ibrahim Gobir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdullahi Ibrahim Gobir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Abdullahi Ibrahim Gobir",
+          "note": "multilingual"
         }
       ]
     },
@@ -1792,6 +2769,10 @@
         {
           "identifier": "gaya-kabiru-ibrahim",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q6344250",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/128.jpg",
@@ -1803,6 +2784,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/gaya-kabiru-ibrahim"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kabiru_Ibrahim_Gaya"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Kabiru_Ibrahim_Gaya"
+        }
+      ],
       "name": "KABIRU GAYA",
       "other_names": [
         {
@@ -1812,6 +2803,35 @@
         {
           "name": "KABIRU IBRAHIM GAYA",
           "note": "alternate"
+        },
+        {
+          "name": "Kabiru Ibrahim Gaya",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Kabiru Ibrahim Gaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kabiru Ibrahim Gaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kabiru Ibrahim Gaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kabiru Ibrahim Gaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Kabiru Ibrahim Gaya",
+          "note": "multilingual"
         }
       ]
     },
@@ -1826,11 +2846,29 @@
       ]
     },
     {
+      "birth_date": "1954-02-15",
+      "gender": "male",
       "id": "96885e3b-9207-4db4-ab27-ceda4dff7d2e",
+      "identifiers": [
+        {
+          "identifier": "Q7636116",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/157.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/157.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Suleiman_Adokwe"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Suleiman_Adokwe"
         }
       ],
       "name": "SULEIMAN ADOKWE",
@@ -1838,6 +2876,31 @@
         {
           "name": "SULEIMAN ASONYA ADOKWE",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Suleiman Adokwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Suleiman Adokwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Suleiman Adokwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Suleiman Adokwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Suleiman Adokwe",
+          "note": "multilingual"
         }
       ]
     },
@@ -1854,11 +2917,16 @@
         }
       ],
       "email": "adamu.abdullahi@gmail.com",
+      "gender": "male",
       "id": "9de46243-685e-4902-81d4-b3e01faa93d5",
       "identifiers": [
         {
           "identifier": "adamu-abdullahi",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q4665773",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/852.jpg",
@@ -1870,6 +2938,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/adamu-abdulahi"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdulahi_Bala_Adamu"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Abdulahi_Bala_Adamu"
+        }
+      ],
       "name": "ABDULLAHI ADAMU",
       "other_names": [
         {
@@ -1879,6 +2957,35 @@
         {
           "name": "ADAMU ABDULLAHI",
           "note": "alternate"
+        },
+        {
+          "name": "Abdulahi Bala Adamu",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Abdulahi Bala Adamu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abdulahi Bala Adamu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdulahi Bala Adamu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdulahi Bala Adamu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Abdulahi Bala Adamu",
+          "note": "multilingual"
         }
       ]
     },
@@ -1922,11 +3029,16 @@
       ],
       "email": "babajideomoworare@gmail.com",
       "gender": "male",
+      "given_name": "Christopher",
       "id": "a360b7b8-c900-43d3-817b-00212ebfd8af",
       "identifiers": [
         {
           "identifier": "christopher-omoworare-babajide",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q5112997",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/767.jpg",
@@ -1938,6 +3050,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/10932_100744753283352_146783_a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christopher_Omoworare_Babajide"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Christopher_Omoworare_Babajide"
+        }
+      ],
       "name": "OMOWORARE BABAJIDE",
       "other_names": [
         {
@@ -1945,8 +3067,37 @@
           "note": "alternate"
         },
         {
+          "name": "Christopher Omoworare Babajide",
+          "note": "alternate"
+        },
+        {
           "name": "OMOWORARE BABAJIDE",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Christopher Omoworare Babajide",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christopher Omoworare Babajide",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Christopher Omoworare Babajide",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Christopher Omoworare Babajide",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Christopher Omoworare Babajide",
+          "note": "multilingual"
         }
       ]
     },
@@ -1963,11 +3114,17 @@
         }
       ],
       "email": "georgeakume55@yahoo.com",
+      "gender": "male",
+      "given_name": "George",
       "id": "a393d852-9ca7-49de-ad3e-6a190f4da47b",
       "identifiers": [
         {
           "identifier": "akume-george-orpel",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q3510803",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/866.jpg",
@@ -1979,6 +3136,20 @@
           "url": "http://www.shineyoureye.org/media_root/images/akume-george-orpel"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Akume"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/George_Akume"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/George_Akume"
+        }
+      ],
       "name": "GEORGE AKUME",
       "other_names": [
         {
@@ -1988,6 +3159,46 @@
         {
           "name": "GEORGE AKUME",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "George Akume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Akume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "George Akume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Akume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "George Akume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Akume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "George Akume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "George Akume",
+          "note": "multilingual"
         }
       ]
     },
@@ -2056,7 +3267,7 @@
       ]
     },
     {
-      "birth_date": "1965-07-22",
+      "birth_date": "1955-07-22",
       "contact_details": [
         {
           "type": "email",
@@ -2074,6 +3285,10 @@
         {
           "identifier": "ashafa-gbenga",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q5529328",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/526.jpg",
@@ -2082,7 +3297,20 @@
           "url": "http://www.nass.gov.ng/images/mps/526.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/GBAprofile.jpg"
+        },
+        {
           "url": "http://www.shineyoureye.org/media_root/images/ashafa-gbenga"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gbenga_Bareehu_Ashafa"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Gbenga_Bareehu_Ashafa"
         }
       ],
       "name": "BAREEHU ASHAFA",
@@ -2094,6 +3322,35 @@
         {
           "name": "BAREEHU OLUGBENGA ASHAFA",
           "note": "alternate"
+        },
+        {
+          "name": "Gbenga Bareehu Ashafa",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gbenga Bareehu Ashafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gbenga Bareehu Ashafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gbenga Bareehu Ashafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gbenga Bareehu Ashafa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Gbenga Bareehu Ashafa",
+          "note": "multilingual"
         }
       ]
     },
@@ -2254,7 +3511,7 @@
       ]
     },
     {
-      "birth_date": "1950-01-11",
+      "birth_date": "1950-10",
       "contact_details": [
         {
           "type": "email",
@@ -2270,8 +3527,24 @@
       "id": "b41379ca-bae9-4ae5-bc63-57d6114b8662",
       "identifiers": [
         {
+          "identifier": "1667215",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "n2007010845",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "ibrahim-bukar-abba",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "33902863",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4986810",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/655.jpg",
@@ -2283,6 +3556,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/ibrahim-bukar-abba"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bukar_Ibrahim"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Bukar_Ibrahim"
+        }
+      ],
       "name": "BUKAR IBRAHIM",
       "other_names": [
         {
@@ -2292,6 +3575,41 @@
         {
           "name": "IBRAHIM BUKAR ABBA",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Bukar Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bukar Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bukar Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bukar Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bukar Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bukar Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Bukar Ibrahim",
+          "note": "multilingual"
         }
       ]
     },
@@ -2308,11 +3626,17 @@
         }
       ],
       "email": "shaabalafiagi@yahoo.com",
+      "gender": "male",
+      "given_name": "Mohammed",
       "id": "bbf841d2-a7b3-4ac5-a319-d8bdcdf7440f",
       "identifiers": [
         {
           "identifier": "lafiagi-mohammed-shaaba",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q6893329",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/783.jpg",
@@ -2324,6 +3648,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/lafiagi-mohammed-shaaba"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohammed_Shaaba_Lafiagi"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Mohammed_Shaaba_Lafiagi"
+        }
+      ],
       "name": "MOHAMMED LAFIAGI",
       "other_names": [
         {
@@ -2333,6 +3667,55 @@
         {
           "name": "MOHAMMED SHA'ABA LAFIAGI",
           "note": "alternate"
+        },
+        {
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Mohammed Shaaba Lafiagi",
+          "note": "multilingual"
         }
       ]
     },
@@ -2344,11 +3727,16 @@
           "value": "08034509106"
         }
       ],
+      "gender": "male",
       "id": "bd2e8ef2-956f-4ab0-8655-d8074b90a8ae",
       "identifiers": [
         {
           "identifier": "aduda-philip-tanimu",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q7185532",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/716.jpg",
@@ -2360,6 +3748,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/aduda-philip-tanimu"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Philips_Tanimu_Aduda"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Philips_Tanimu_Aduda"
+        }
+      ],
       "name": "PHILIP TANIMU",
       "other_names": [
         {
@@ -2369,6 +3767,35 @@
         {
           "name": "PHILIP ADUDA TANIMU",
           "note": "alternate"
+        },
+        {
+          "name": "Philips Tanimu Aduda",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Philips Tanimu Aduda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Philips Tanimu Aduda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Philips Tanimu Aduda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Philips Tanimu Aduda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Philips Tanimu Aduda",
+          "note": "multilingual"
         }
       ]
     },
@@ -2535,11 +3962,16 @@
         }
       ],
       "email": "senabuibrahim@gmail.com",
+      "gender": "male",
       "id": "c5294fd9-3acc-460a-b6ab-e548fc20e3d8",
       "identifiers": [
         {
           "identifier": "ibrahim-abu",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q4670223",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/879.jpg",
@@ -2551,6 +3983,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/ibrahim-abu"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abu_Ibrahim_(Nigerian_politician)"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Abu_Ibrahim_(Olóṣèlú_ilẹ̀_Nàìjíríà)"
+        }
+      ],
       "name": "ABU IBRAHIM",
       "other_names": [
         {
@@ -2560,6 +4002,31 @@
         {
           "name": "IBRAHIM ABU",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Abu Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abu Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abu Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abu Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Abu Ibrahim",
+          "note": "multilingual"
         }
       ]
     },
@@ -2576,11 +4043,16 @@
         }
       ],
       "email": "solaadeyeye@yahoo.com",
+      "gender": "male",
       "id": "c5e2f0e7-e8c7-43b0-a126-2c15d4d17fe6",
       "identifiers": [
         {
           "identifier": "adeyeye-olusola",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q7088869",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/877.jpg",
@@ -2592,6 +4064,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/adeyeye-olusola"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olusola_Adeyeye"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Olusola_Adeyeye"
+        }
+      ],
       "name": "OLUSOLA ADEYEYE",
       "other_names": [
         {
@@ -2601,6 +4083,31 @@
         {
           "name": "OLUSOLA ADEYEYE",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Olusola Adeyeye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Olusola Adeyeye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Olusola Adeyeye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Olusola Adeyeye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Olusola Adeyeye",
+          "note": "multilingual"
         }
       ]
     },
@@ -2677,7 +4184,7 @@
       ]
     },
     {
-      "birth_date": "1952-12-14",
+      "birth_date": "1958-12-14",
       "contact_details": [
         {
           "type": "email",
@@ -2689,17 +4196,33 @@
         }
       ],
       "email": "ANSSDUE@yahoo.com",
+      "gender": "male",
+      "given_name": "Emmanuel",
       "id": "c780556b-6602-4089-a6c3-05e03c001a52",
       "identifiers": [
         {
           "identifier": "uba-andy-emmanuel-nnamdi",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q5373308",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shineyoureye.org/media_root/images/ubah-andy-emmanuel-nnamdi",
       "images": [
         {
           "url": "http://www.shineyoureye.org/media_root/images/ubah-andy-emmanuel-nnamdi"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emmanuel_Nnamdi_Uba"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Emmanuel_Nnamdi_Uba"
         }
       ],
       "name": "EMMANUEL UBA",
@@ -2709,8 +4232,37 @@
           "note": "alternate"
         },
         {
+          "name": "Emmanuel Nnamdi Uba",
+          "note": "alternate"
+        },
+        {
           "name": "UBA ANDY EMMANUEL NNAMDI",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Emmanuel Nnamdi Uba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Emmanuel Nnamdi Uba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emmanuel Nnamdi Uba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emmanuel Nnamdi Uba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Emmanuel Nnamdi Uba",
+          "note": "multilingual"
         }
       ]
     },
@@ -2767,17 +4319,29 @@
         }
       ],
       "email": "rose_oko@yahoo.com",
+      "gender": "female",
+      "given_name": "Rose",
       "id": "cb162d89-ba46-49cc-84f3-a7d3ee25e62e",
       "identifiers": [
         {
           "identifier": "rose-okoji-ok",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q22806954",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shineyoureye.org/media_root/images/rose-okoji-ok",
       "images": [
         {
           "url": "http://www.shineyoureye.org/media_root/images/rose-okoji-ok"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rose_Okoji_Oko"
         }
       ],
       "name": "ROSE OKO",
@@ -2789,6 +4353,25 @@
         {
           "name": "ROSE OKOJI OKO",
           "note": "alternate"
+        },
+        {
+          "name": "Rose Okoji Oko",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rose Okoji Oko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rose Okoji Oko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rose Okoji Oko",
+          "note": "multilingual"
         }
       ]
     },
@@ -2897,17 +4480,31 @@
       ]
     },
     {
+      "birth_date": "1972-10-28",
       "contact_details": [
         {
           "type": "phone",
           "value": "08055555188, 0802610"
         }
       ],
+      "gender": "male",
       "id": "cf5aea30-b4fc-4eeb-b827-dd023e9ad0e6",
+      "identifiers": [
+        {
+          "identifier": "Q23765700",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/888.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/888.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bassey_Albert"
         }
       ],
       "name": "BASSEY AKPAN",
@@ -2915,6 +4512,20 @@
         {
           "name": "BASSEY ALBERT AKPAN",
           "note": "alternate"
+        },
+        {
+          "name": "Bassey Albert",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bassey Albert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bassey Albert",
+          "note": "multilingual"
         }
       ]
     },
@@ -2986,11 +4597,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "Ahmed",
       "id": "d7ffa4dc-9e10-4383-80b8-6e37e57800ca",
       "identifiers": [
         {
           "identifier": "lawan-ahmad-ibrahim",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q4695864",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/807.jpg",
@@ -3002,6 +4618,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/lawan-ahmed-ibrahim"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ahmed_Ibrahim_Lawan"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Ahmed_Ibrahim_Lawan"
+        }
+      ],
       "name": "AHMAD LAWAN",
       "other_names": [
         {
@@ -3009,8 +4635,37 @@
           "note": "alternate"
         },
         {
+          "name": "Ahmed Ibrahim Lawan",
+          "note": "alternate"
+        },
+        {
           "name": "LAWAN AHMAD IBRAHIM",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ahmed Ibrahim Lawan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ahmed Ibrahim Lawan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ahmed Ibrahim Lawan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ahmed Ibrahim Lawan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Ahmed Ibrahim Lawan",
+          "note": "multilingual"
         }
       ]
     },
@@ -3156,11 +4811,27 @@
           "value": "08155555884"
         }
       ],
+      "gender": "male",
       "id": "df13478a-638f-4cec-8c58-360fc80eb1b0",
+      "identifiers": [
+        {
+          "identifier": "Q28600192",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/511.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/511.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Francis_Alimikhena.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Francis_Alimikhena"
         }
       ],
       "name": "ALIMIKHENA FRANCIS",
@@ -3168,6 +4839,15 @@
         {
           "name": "ALIMIKHENA ASEKHAME FRANCIS",
           "note": "alternate"
+        },
+        {
+          "name": "Francis Alimikhena",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Francis Alimikhena",
+          "note": "multilingual"
         }
       ]
     },
@@ -3383,11 +5063,20 @@
         }
       ],
       "email": "degun_200@yahoo.com",
+      "gender": "male",
       "id": "eb86eee9-9d7e-42f1-b99d-331e8f55a8cd",
       "identifiers": [
         {
           "identifier": "isiaka-adeleke",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "58967646",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6080812",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/758.jpg",
@@ -3399,27 +5088,95 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Isiaka_Adeleke.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Isiaka_Adeleke"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Isiaka_Adetunji_Adeleke"
+        }
+      ],
       "name": "Isiaka Adeleke",
       "other_names": [
         {
           "name": "Isiaka Adetunji Adeleke",
           "note": "alternate"
+        },
+        {
+          "name": "Isiaka Adetunji Adeleke",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Isiaka Adetunji Adeleke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Isiaka Adetunji Adeleke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Isiaka Adetunji Adeleke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Isiaka Adetunji Adeleke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Isiaka Adetunji Adeleke",
+          "note": "multilingual"
         }
       ]
     },
     {
+      "birth_date": "1965-01-26",
       "contact_details": [
         {
           "type": "phone",
           "value": "08033140757"
         }
       ],
+      "gender": "male",
       "id": "ec8587fd-11f3-48f1-a830-267b8a5ad524",
+      "identifiers": [
+        {
+          "identifier": "Q20774324",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olaka_Nwogu"
+        }
+      ],
       "name": "OLAKA NWOGU",
       "other_names": [
         {
           "name": "OLAKA JOHNSON NWOGU",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Olaka Nwogu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Olaka Nwogu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Olaka Nwogu",
+          "note": "multilingual"
         }
       ]
     },
@@ -3514,11 +5271,29 @@
       ]
     },
     {
+      "birth_date": "1956-12-02",
+      "gender": "male",
       "id": "f95eee1d-5f81-4813-8164-7e1cc908e878",
+      "identifiers": [
+        {
+          "identifier": "Q23636295",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/962.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/962.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yusuf_Abubakar_Yusuf"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Yusuf_Abubakar_Yusuf"
         }
       ],
       "name": "Yusuf Yusuf",
@@ -3526,6 +5301,25 @@
         {
           "name": "Yusuf Abubakar Yusuf",
           "note": "alternate"
+        },
+        {
+          "name": "Yusuf Abubakar Yusuf",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Yusuf Abubakar Yusuf",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Yusuf Abubakar Yusuf",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yusuf Abubakar Yusuf",
+          "note": "multilingual"
         }
       ]
     },
@@ -3536,12 +5330,41 @@
           "value": "08022907124"
         }
       ],
+      "gender": "male",
       "id": "fa3e73e7-98b9-45f8-befb-3ba0884a8783",
+      "identifiers": [
+        {
+          "identifier": "Q25753711",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Abubakar_kyari.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Abubakar_kyari.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abubakar_Kyari"
+        }
+      ],
       "name": "ABUBAKAR KYARI",
       "other_names": [
         {
           "name": "ABUBAKAR KYARI",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Abubakar Kyari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abubakar Kyari",
+          "note": "multilingual"
         }
       ]
     },
@@ -3558,11 +5381,17 @@
         }
       ],
       "email": "bagemade@gmail.com",
+      "gender": "male",
+      "given_name": "Barnabas",
       "id": "faa4b925-8dba-42af-a672-ef6621e6cb76",
       "identifiers": [
         {
           "identifier": "gemade-barnabas-andyar-iyorher",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q4861327",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/532.jpg",
@@ -3574,6 +5403,16 @@
           "url": "http://www.shineyoureye.org/media_root/images/gemade-barnabas-andyar-iyorher"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Barnabas_Andyar_Gemade"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Barnabas_Andyar_Gemade"
+        }
+      ],
       "name": "BARNABAS GEMADE",
       "other_names": [
         {
@@ -3581,8 +5420,37 @@
           "note": "alternate"
         },
         {
+          "name": "Barnabas Andyar Gemade",
+          "note": "alternate"
+        },
+        {
           "name": "GEMADE BARNABAS ANDYAR IYORHER",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Barnabas Andyar Gemade",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Barnabas Andyar Gemade",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Barnabas Andyar Gemade",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Barnabas Andyar Gemade",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Barnabas Andyar Gemade",
+          "note": "multilingual"
         }
       ]
     },
@@ -3599,11 +5467,17 @@
         }
       ],
       "email": "dinomelaye@yahoo.com",
+      "gender": "male",
+      "given_name": "Dino",
       "id": "fab3dfb2-07dd-4eb3-b3f0-6196667924e4",
       "identifiers": [
         {
           "identifier": "dino-melaye",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q21063207",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/522.jpg",
@@ -3615,8 +5489,18 @@
           "url": "http://www.shineyoureye.org/media_root/images/Dino_Melaye.jpeg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dino_Melaye"
+        }
+      ],
       "name": "MELAYE DINO",
       "other_names": [
+        {
+          "name": "Dino Melaiye",
+          "note": "alternate"
+        },
         {
           "name": "Dino Melaye",
           "note": "alternate"
@@ -3624,6 +5508,21 @@
         {
           "name": "MELAYE DINO",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Dino Melaiye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dino Melaiye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dino Melaiye",
+          "note": "multilingual"
         }
       ]
     },
@@ -3661,11 +5560,16 @@
         }
       ],
       "email": "burujikashamu@yahoo.com",
+      "gender": "male",
       "id": "fcc1e6c2-aabb-40d2-ab6c-88d0ccfa17b9",
       "identifiers": [
         {
           "identifier": "buruji-kashamu",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q28420151",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/870.jpg",
@@ -3674,7 +5578,16 @@
           "url": "http://www.nass.gov.ng/images/mps/870.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Buruji_Kashamu.jpg"
+        },
+        {
           "url": "http://www.shineyoureye.org/media_root/images/PDP_-_Buruji_Kashamu2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Buruji_Kashamu"
         }
       ],
       "name": "BURUJI KASHAMU",
@@ -3682,6 +5595,15 @@
         {
           "name": "BURUJI KASHAMU",
           "note": "alternate"
+        },
+        {
+          "name": "Buruju Kashamu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Buruju Kashamu",
+          "note": "multilingual"
         }
       ]
     }
