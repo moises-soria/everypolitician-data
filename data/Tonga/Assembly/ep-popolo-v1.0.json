@@ -51,6 +51,10 @@
       "name": "Lord Tu'ilakepa"
     },
     {
+      "id": "2ebcbf91-3afd-45b0-b718-86b28e9ba59f",
+      "name": "‘Akosita Lavulavu"
+    },
+    {
       "contact_details": [
         {
           "type": "cell",
@@ -697,6 +701,15 @@
       ]
     },
     {
+      "area_id": "area/vavaʻu_16",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "b8ba010c-a6c6-4b93-b97f-df2c7f4112ba",
+      "person_id": "2ebcbf91-3afd-45b0-b718-86b28e9ba59f",
+      "role": "member",
+      "start_date": "2016-07-14"
+    },
+    {
       "area_id": "area/the_ongo_niua's",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/unknown",
@@ -995,6 +1008,7 @@
       ]
     },
     {
+      "area_id": "area/vavaʻu_16",
       "end_date": "2016-01-29",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/unknown",
@@ -1268,6 +1282,11 @@
     {
       "id": "area/vava'u_no._15",
       "name": "Vava'u No. 15",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vavaʻu_16",
+      "name": "Vavaʻu 16",
       "type": "constituency"
     }
   ]
