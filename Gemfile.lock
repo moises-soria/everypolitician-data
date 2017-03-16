@@ -21,9 +21,10 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-pull_request.git
-  revision: effcc061e67e19bd9f452207c61d1d9a1abc62cb
+  revision: 14412a00c85bbc012c7d114afaa2531ab4ae3a1a
   specs:
     everypolitician-pull_request (0.4.0)
+      activesupport
       everypolitician-popolo
       octokit
       require_all
@@ -96,7 +97,7 @@ GEM
     ethon (0.9.1)
       ffi (>= 1.3.0)
     facebook_username_extractor (0.2.0)
-    faraday (0.10.1)
+    faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
     flog (4.4.0)
@@ -134,7 +135,7 @@ GEM
     rainbow (2.1.0)
     rake (11.2.2)
     rcsv (0.3.1)
-    require_all (1.3.3)
+    require_all (1.4.0)
     rest-client (2.0.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
@@ -210,4 +211,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   1.13.7
+   1.14.4
