@@ -78,7 +78,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/france-constituencies-mapit",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, osm_rel, name AS name__en FROM data ORDER BY id"
       },
       "type": "area-mapit",
       "merge": {
