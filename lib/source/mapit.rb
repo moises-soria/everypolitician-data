@@ -19,6 +19,10 @@ module Source
         [other_identifiers, mapit_identifier].flatten.compact
       end
 
+      field :links do
+        [mapit_link]
+      end
+
       field :other_names do
         area.select { |k, v| v && k.to_s.start_with?('name__') }.map do |k, v|
           {
@@ -37,6 +41,13 @@ module Source
         {
           identifier: area[:id],
           scheme:     'mapit',
+        }
+      end
+
+      def mapit_link
+        {
+          url:  "http://global.mapit.mysociety.org/area/#{area[:id]}",
+          note: 'mapit',
         }
       end
 
