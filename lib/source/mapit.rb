@@ -24,8 +24,6 @@ module Source
           {
             lang: k.to_s[/name__(\w+)/, 1],
             name: v,
-            note: 'multilingual',
-            # TODO: credit the source
             source: 'mapit',
           }
         end
