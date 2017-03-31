@@ -2577,11 +2577,11 @@
         "slug": "Folketing",
         "sources_directory": "data/Denmark/Folketing/sources",
         "popolo": "data/Denmark/Folketing/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b3a187e416919c6f1f4121d5c934a804ab017d82/data/Denmark/Folketing/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d705a590bd3fc00c7595c1f753259aca02cfd23e/data/Denmark/Folketing/ep-popolo-v1.0.json",
         "names": "data/Denmark/Folketing/names.csv",
-        "lastmod": "1486457307",
+        "lastmod": "1490904343",
         "person_count": 616,
-        "sha": "b3a187e416919c6f1f4121d5c934a804ab017d82",
+        "sha": "d705a590bd3fc00c7595c1f753259aca02cfd23e",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -2655,7 +2655,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6e5a39c5774d5e730b1d0e4cda106dfe4c23f3bc/data/Denmark/Folketing/term-1990.csv"
           }
         ],
-        "statement_count": 41503,
+        "statement_count": 41631,
         "type": "unicameral legislature"
       }
     ]
