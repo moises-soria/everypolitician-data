@@ -41,6 +41,7 @@ deploy_viewer_static() {
 
 main() {
   if [[ "$TRAVIS_PULL_REQUEST" == false && "$TRAVIS_BRANCH" == master ]]; then
+    git diff --name-only $TRAVIS_COMMIT_RANGE -- countries.json
     start_viewer_sinatra
     build_viewer_static
     deploy_viewer_static
