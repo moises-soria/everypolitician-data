@@ -9,7 +9,7 @@
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/denmark-folketing",
+        "scraper": "everypolitician-scrapers/denmark-folketing",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.thedanishparliament.dk",
