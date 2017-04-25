@@ -12,8 +12,8 @@ def fetch_term(q)
   data = {
     id:         name[/^(\d+)/, 1],
     name:       name,
-    start_date: %w(P580 P571).map { |p| t.send(p).to_s }.reject(&:empty?).first,
-    end_date:   %w(P582 P576).map { |p| t.send(p).to_s }.reject(&:empty?).first,
+    start_date: %w[P580 P571].map { |p| t.send(p).to_s }.reject(&:empty?).first,
+    end_date:   %w[P582 P576].map { |p| t.send(p).to_s }.reject(&:empty?).first,
     wikidata:   q,
   }
   puts data.values.to_csv
@@ -24,7 +24,7 @@ def fetch_term(q)
 end
 
 (start_at = ARGV.shift) || abort("Usage: #{$PROGRAM_NAME} <startingID>")
-puts %w(id name start_date end_date wikidata).to_csv
+puts %w[id name start_date end_date wikidata].to_csv
 
 # Start at most-recent term, and follow the 'follows' backwards
 fetch_term start_at

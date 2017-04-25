@@ -20,7 +20,7 @@ def fetch_term(q)
   end
 end
 
-puts %w(id name start_date end_date wikidata).to_csv
+puts %w[id name start_date end_date wikidata].to_csv
 
 # Start at most-recent term, and follow the 'follows' backwards
 fetch_term('Q21157957')

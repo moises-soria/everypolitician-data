@@ -23,5 +23,5 @@ end
 
 rows = @popolo[:persons].map { |p| [wikidata_id(p), p[:id]] }.reject { |r| r.first.nil? }.sort_by(&:last)
 
-puts %w(id uuid).to_csv
+puts %w[id uuid].to_csv
 rows.each { |r| puts r.to_csv }
