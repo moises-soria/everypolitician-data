@@ -50,10 +50,12 @@ namespace :transform do
     raise 'No meta.json file available' unless File.exist? 'meta.json'
     meta_info = json_load('meta.json')
     @legislature.merge! meta_info
-    (@legislature[:identifiers] ||= []) << {
-      scheme:     'wikidata',
-      identifier: @legislature.delete(:wikidata),
-    } if @legislature.key?(:wikidata)
+    if @legislature.key?(:wikidata)
+      (@legislature[:identifiers] ||= []) << {
+        scheme:     'wikidata',
+        identifier: @legislature.delete(:wikidata),
+      }
+    end
 
     # Switch the legislature ID everywhere it's used
     @json[:memberships].select { |m| m[:organization_id] == @legislature[:id] }.each do |m|
@@ -72,9 +74,9 @@ namespace :transform do
 
   task merge_termfile: :ensure_legislature do
     terms = @INSTRUCTIONS.sources_of_type('term')
-            .flat_map { |src| src.to_popolo[:events] }
-            .each { |t| t[:organization_id] = @legislature[:id] }
-            .group_by { |t| t[:id] }
+                         .flat_map { |src| src.to_popolo[:events] }
+                         .each { |t| t[:organization_id] = @legislature[:id] }
+                         .group_by { |t| t[:id] }
 
     @json[:events].each do |e|
       csv_terms = terms[e[:id]] or abort "No term information for #{e[:id]}"
@@ -109,7 +111,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   def unknown_party
     if unknown = @json[:organizations].find { |o| o[:classification] == 'party' && o[:name].downcase == 'unknown' }
-      unknown[:id] = "party/_unknown" if unknown[:id].to_s.empty?
+      unknown[:id] = 'party/_unknown' if unknown[:id].to_s.empty?
       return unknown
     end
     unknown = {
@@ -123,7 +125,7 @@ namespace :transform do
 
   task write: :ensure_behalf_of
   task ensure_behalf_of: :ensure_legislature do
-    leg_ids = @json[:organizations].select { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
+    leg_ids = @json[:organizations].select { |o| %w[legislature chamber].include? o[:classification] }.map { |o| o[:id] }
     @json[:memberships].select { |m| m[:role] == 'member' && leg_ids.include?(m[:organization_id]) }.each do |m|
       m[:on_behalf_of_id] = unknown_party[:id] if m[:on_behalf_of_id].to_s.empty?
     end
@@ -142,9 +144,9 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :remap_gender
   GENDER_MAP = {
-    'male'   => %w(m male homme),
+    'male'   => %w[m male homme],
     'female' => ['f', 'female', 'femme', 'transgender female'],
-    'other'  => %w(o other),
+    'other'  => %w[o other],
   }.freeze
 
   task remap_gender: :load do
@@ -174,7 +176,7 @@ namespace :transform do
       src.to_popolo[:areas].each do |area|
         @json[:areas].select do |a|
           a[:type] == 'constituency' &&
-          a[:id].split('/').last == area[:id].split('/').last
+            a[:id].split('/').last == area[:id].split('/').last
         end.each do |existing|
           DeepMerge.deep_merge!(area, existing, preserve_unmergeables: true)
         end
@@ -191,7 +193,7 @@ namespace :transform do
     missing_ids = @json[:organizations].select { |o| o[:id].to_s.empty? }
     if missing_ids.any?
       raise 'Missing organization ID for "%s"' %
-        missing_ids.map { |o| o[:name] }.join('", "')
+            missing_ids.map { |o| o[:name] }.join('", "')
     end
   end
 
@@ -200,7 +202,7 @@ namespace :transform do
       src.to_popolo[:organizations].each do |org|
         matched = @json[:organizations].select do |o|
           o[:classification] == 'party' &&
-          o[:id].split('/').last.downcase == org[:id].split('/').last.downcase
+            o[:id].split('/').last.downcase == org[:id].split('/').last.downcase
         end
         warn "Party #{org[:id]} not in Popolo" unless matched.any?
         matched.each do |existing|

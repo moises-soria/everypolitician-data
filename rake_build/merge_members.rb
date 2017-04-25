@@ -16,7 +16,7 @@ namespace :merge_members do
   end
 
   def combine_sources
-    all_headers = (%i(id uuid) + @SOURCES.map(&:fields)).flatten.uniq
+    all_headers = (%i[id uuid] + @SOURCES.map(&:fields)).flatten.uniq
 
     merged_rows = []
 
@@ -83,7 +83,7 @@ namespace :merge_members do
     if File.exist? legacy_id_file
       legacy = CSV.table(legacy_id_file, converters: nil).reject { |r| r[:legacy].to_s.empty? }.group_by { |r| r[:id] }
 
-      all_headers |= %i(identifier__everypolitician_legacy)
+      all_headers |= %i[identifier__everypolitician_legacy]
 
       merged_rows.each do |row|
         if legacy.key? row[:uuid]
