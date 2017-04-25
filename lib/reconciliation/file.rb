@@ -15,7 +15,7 @@ module Reconciliation
     end
 
     def write!(h)
-      headers = %w(id uuid).to_csv
+      headers = %w[id uuid].to_csv
       rows    = h.sort_by { |_, v| v }.map(&:to_csv).join
       pathname.write(headers + rows)
     end
