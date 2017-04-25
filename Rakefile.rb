@@ -1,4 +1,3 @@
-
 require 'everypolitician'
 require 'fileutils'
 require 'pathname'
@@ -36,8 +35,6 @@ Rake::TestTask.new do |t|
   t.verbose = true
 end
 
-task default: :test
-
 desc 'Go through the list of open pull requests and close any outdated ones'
 task :close_old_pull_requests do
   require 'close_old_pull_requests'
@@ -48,3 +45,8 @@ end
 
 require 'everypolitician/pull_request/rake_task'
 Everypolitician::PullRequest::RakeTask.new.install_tasks
+
+require 'rubocop/rake_task'
+RuboCop::RakeTask.new
+
+task default: %w[test rubocop]
