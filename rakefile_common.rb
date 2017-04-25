@@ -4,7 +4,7 @@
 #
 
 # Step 1: fetch any missing sources
-# Any recreateable file that is missing on disk (e.g. after running a 
+# Any recreateable file that is missing on disk (e.g. after running a
 # `rake clobber` is fetched from remote.
 
 # Step 2: merge_members
@@ -18,7 +18,7 @@
 # This turns the 'merged.csv' into a Popolo-formatted 'merged.json'
 
 # Step 5: generate_ep_popolo
-# This combines data from other sources with 'merged.json' to make 
+# This combines data from other sources with 'merged.json' to make
 # 'ep-popolo.json'
 
 # Step 6: generate_final_csvs
