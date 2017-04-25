@@ -4,7 +4,7 @@ require_relative '../ocd_id'
 module Source
   class OCD < CSV
     def fields
-      %i(area area_id)
+      %i[area area_id]
     end
 
     def fuzzy_match?

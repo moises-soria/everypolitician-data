@@ -7,7 +7,7 @@ module Source
     end
 
     def fields
-      %i(gender)
+      %i[gender]
     end
 
     def merged_with(csv)

@@ -2,7 +2,7 @@ require_relative 'csv'
 
 module Source
   class Person < CSV
-    # TODO change logic so that headers are gathered _after_ merge, rather
+    # TODO: change logic so that headers are gathered _after_ merge, rather
     # than before, so we don't need an extra field
     attr_reader :additional_headers
 
@@ -17,7 +17,7 @@ module Source
       reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], csv, as_table)
 
       if reconciler.filename
-        pr = reconciler.reconciliation_data rescue abort($!.to_s)
+        pr = reconciler.reconciliation_data rescue abort($ERROR_INFO.to_s)
         matcher = Matcher::Reconciled.new(csv, merge_instructions, pr)
       else
         matcher = Matcher::Exact.new(csv, merge_instructions)
@@ -50,7 +50,7 @@ module Source
       end
       add_warning '* %d of %d unmatched'.magenta % [unmatched.count, as_table.count] if unmatched.any?
       unmatched.sample(10).each do |r|
-        add_warning "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i(id name).include? k }}"
+        add_warning "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i[id name].include? k }}"
       end
       csv
     end
