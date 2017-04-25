@@ -13,7 +13,7 @@ namespace :reconciliation do
     areas = EveryPolitician::Popolo.read(POPOLO).areas.map do |a|
       { id: a.id, name: a.name }
     end
-    header = %w(id wikidata).to_csv
+    header = %w[id wikidata].to_csv
     body = areas.map { |a| [a[:id].split('/').last, "??? #{a[:name]}"].to_csv }.join
     recfile.write(header + body)
     puts "Wrote #{recfile}"
