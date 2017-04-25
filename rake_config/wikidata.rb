@@ -1,7 +1,7 @@
 
 desc 'Handle moved Wikidata'
 namespace :wikidata do
-  task :handle_move, [:from, :to] do |_, args|
+  task :handle_move, %i[from to] do |_, args|
     rfile = @INSTRUCTIONS.sources_of_type('wikidata').first.reconciliation_file
     data = rfile.to_h
     abort "No existing data for #{args[:from]}" unless data[args[:from]]
@@ -21,7 +21,6 @@ namespace :wikidata do
     next unless orphaned.any?
 
     puts orphaned
-    rfile.write!(rfile.to_h.reject { |k, v| orphaned.include? v })
+    rfile.write!(rfile.to_h.reject { |_k, v| orphaned.include? v })
   end
 end
-
