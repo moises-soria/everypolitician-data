@@ -1,27 +1,8 @@
 AllCops:
-  Exclude: 
+  Exclude:
     - 'data/**/*'
     - 'vendor/**/*'
   TargetRubyVersion: 2.1
-
-Metrics/ClassLength:
-  Max: 250
-
-Metrics/MethodLength:
-  Max: 20
-
-Metrics/LineLength:
-  Max: 150
-
-Metrics/AbcSize:
-  Max: 50
-
-Metrics/CyclomaticComplexity:
-  Max: 7
-
-Metrics/PerceivedComplexity:
-  Max: 8
-
 
 inherit_from:
   - .rubocop_base.yml
