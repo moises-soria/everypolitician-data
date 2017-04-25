@@ -26,7 +26,7 @@ module Task
     end
 
     def existing_data_as_hash
-      existing_data.map { |e| [ e[:name], e ] }.to_h
+      existing_data.map { |e| [e[:name], e] }.to_h
     end
 
     def all_countries
