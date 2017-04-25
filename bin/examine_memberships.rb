@@ -7,7 +7,7 @@ person_id = ARGV.shift
 @json = JSON.load(File.read(file), lambda do |h|
   if h.class == Hash
     h.reject! { |_, v| v.nil? || v.empty? }
-    h.reject! { |k, _| %i(created_at updated_at _links).include? k }
+    h.reject! { |k, _| %i[created_at updated_at _links].include? k }
   end
 end, symbolize_names: true)
 
