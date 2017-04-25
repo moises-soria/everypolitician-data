@@ -43,10 +43,10 @@ module Source
       end
 
       def other_identifiers
-        area.select { |k, v| v && k.to_s.start_with?('identifier__') }.map do |k,v|
+        area.select { |k, v| v && k.to_s.start_with?('identifier__') }.map do |k, v|
           {
             identifier: v,
-            scheme: k.to_s.sub('identifier__',''),
+            scheme:     k.to_s.sub('identifier__', ''),
           }
         end
       end

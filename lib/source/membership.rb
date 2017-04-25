@@ -2,7 +2,6 @@ require_relative 'csv'
 
 module Source
   class Membership < CSV
-
     def raw_table
       super.each do |r|
         # if the source has no ID, generate one
@@ -27,7 +26,7 @@ module Source
         reconciler = Reconciler.new(merge_instructions, ENV['GENERATE_RECONCILIATION_INTERFACE'], csv, as_table)
         raise "Can't reconcile memberships with a Reconciliation file yet" unless reconciler.filename
 
-        pr = reconciler.reconciliation_data rescue abort($!.to_s)
+        pr = reconciler.reconciliation_data rescue abort($ERROR_INFO.to_s)
         pr.each { |r| id_map[r[:id]] = r[:uuid] }
       else
         # potentially reuse any IDs we already have from other sources
@@ -37,7 +36,7 @@ module Source
       # Generate UUIDs for any people we don't already know
       (as_table.map { |r| r[:id] }.uniq - id_map.keys).each do |missing_id|
         id_map[missing_id] = SecureRandom.uuid
-        warn "%s -> %s" % [missing_id, id_map[missing_id]]
+        warn '%s -> %s' % [missing_id, id_map[missing_id]]
       end
       write_id_map_file!(id_map)
 
