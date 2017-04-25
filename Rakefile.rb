@@ -20,7 +20,6 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(json))
 end
 
-
 desc 'Install country-list locally'
 task 'countries.json' do
   # By default we build every country, but if EP_COUNTRY_REFRESH is set
@@ -39,7 +38,7 @@ end
 
 task default: :test
 
-desc "Go through the list of open pull requests and close any outdated ones"
+desc 'Go through the list of open pull requests and close any outdated ones'
 task :close_old_pull_requests do
   require 'close_old_pull_requests'
   CloseOldPullRequests.clean.each do |pull_request|
