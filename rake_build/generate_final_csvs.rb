@@ -37,7 +37,7 @@ namespace :term_csvs do
     end.uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| [name.downcase, id] }
 
     filename = 'names.csv'
-    header = %w(name id).to_csv
+    header = %w[name id].to_csv
     csv    = [header, names.map(&:to_csv)].compact.join
     warn "Creating #{filename}"
     File.write(filename, csv)
@@ -69,13 +69,13 @@ namespace :term_csvs do
     data = src.filtered(position_map: POSITION_FILTER_CSV)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
-    csv_headers = %w(id name position start_date end_date type).to_csv
+    csv_headers = %w[id name position start_date end_date type].to_csv
     csv_data = data.select { |r| members.key? r[:id] }.map do |r|
       member = members[r[:id]].first
       if r[:start_date].to_s.empty? && r[:end_date].to_s.empty?
         warn "  ☇ No dates for #{member.name} (#{member.wikidata}) as #{r[:label]}"
       end
-      [ member.id, member.name, r[:label], r[:start_date], r[:end_date], 'cabinet' ].to_csv
+      [member.id, member.name, r[:label], r[:start_date], r[:end_date], 'cabinet'].to_csv
     end
 
     POSITION_CSV.dirname.mkpath
@@ -91,7 +91,7 @@ task :convert_position_filter do
   src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
   map = PositionMap.new(pathname: POSITION_FILTER)
 
-  csv_headers = %w(id label description type).to_csv
+  csv_headers = %w[id label description type].to_csv
   csv_data = src.as_table.group_by { |r| r[:position] }.map do |id, ps|
     [id, ps.first[:label], ps.first[:description], map.type(id) || 'unknown']
   end.sort_by { |d| [d[3].to_s, d[1].to_s.downcase] }.map(&:to_csv)
@@ -102,8 +102,8 @@ end
 
 desc 'Generate the position filter interface'
 task :generate_position_interface do
-  abort "not implemented yet"
-  # TODO make the HTML interface to this again.
+  abort 'not implemented yet'
+  # TODO: make the HTML interface to this again.
   # new_map = PositionMap.new(pathname: POSITION_FILTER).to_json
   # html = Position::Filter::HTML.new(new_map).html
   # POSITION_HTML.write(html)
@@ -111,4 +111,3 @@ task :generate_position_interface do
   # warn "open #{POSITION_HTML}".yellow
   # warn "pbpaste | bundle exec ruby #{POSITION_LEARNER} #{POSITION_FILTER}".yellow
 end
-
