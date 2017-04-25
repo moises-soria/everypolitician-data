@@ -27,7 +27,7 @@ class UuidMapFile
     @mapping = nil
     pathname.parent.mkpath
     ::CSV.open(pathname, 'w') do |csv|
-      csv << %i(id uuid)
+      csv << %i[id uuid]
       data.each { |id, uuid| csv << [id, uuid] }
     end
   end

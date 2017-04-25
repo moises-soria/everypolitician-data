@@ -31,10 +31,10 @@ class Patcher
       end
 
       # These are _expected_ to be different on a term-by-term basis
-      next if %i(term group group_id area area_id).include? h
+      next if %i[term group group_id area area_id].include? h
 
       # Can't do much yet with these ones
-      next if %i(source given_name family_name).include? h
+      next if %i[source given_name family_name].include? h
 
       # Accept multiple values for multi-lingual names
       if h.to_s.start_with? 'name__'
@@ -43,10 +43,10 @@ class Patcher
       end
 
       # TODO: accept multiple values for :website, etc.
-      next if %i(website).include? h
+      next if %i[website].include? h
 
       # Accept values from multiple sources for given fields
-      if %i(email twitter facebook image).include? h
+      if %i[email twitter facebook image].include? h
         existing[h] = [existing[h], incoming[h]].join(';').split(';').map(&:strip).uniq(&:downcase).join(';')
         next
       end

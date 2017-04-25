@@ -18,7 +18,7 @@ class GenderBalancer
 
     def winner
       return if total < MIN_SELECTIONS
-      %w(male female other).find { |g| percent(g) >= VOTE_THRESHOLD }
+      %w[male female other].find { |g| percent(g) >= VOTE_THRESHOLD }
     end
 
     private
