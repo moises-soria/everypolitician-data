@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/chemiparlamenti.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/georgia-chemiparlamenti",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
+      "file": "archive/chemiparlamenti-8.csv",
       "source": "http://www.chemiparlamenti.ge/",
       "type": "membership"
     },
