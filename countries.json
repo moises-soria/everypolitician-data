@@ -707,11 +707,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19e1a445bf5263e8aa30524112fce12ba503f86b/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/24f610fe72238bb8f90063bdbb03df3546a05fb7/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
-        "lastmod": "1495334659",
+        "lastmod": "1495441869",
         "person_count": 259,
-        "sha": "19e1a445bf5263e8aa30524112fce12ba503f86b",
+        "sha": "24f610fe72238bb8f90063bdbb03df3546a05fb7",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -812,7 +812,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d1e45f767a9036e6db247147c8248b11f7d3be9/data/Australia/Senate/term-35.csv"
           }
         ],
-        "statement_count": 23581,
+        "statement_count": 23584,
         "type": "upper house"
       }
     ]
@@ -961,11 +961,11 @@
         "slug": "House",
         "sources_directory": "data/Bangladesh/House/sources",
         "popolo": "data/Bangladesh/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f916e239bdcd6bf1ef12899cda1ea7a635f3db88/data/Bangladesh/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/63f8fa07a0ec39be902451d1b4c4e7addd761bd8/data/Bangladesh/House/ep-popolo-v1.0.json",
         "names": "data/Bangladesh/House/names.csv",
-        "lastmod": "1494862028",
+        "lastmod": "1495446281",
         "person_count": 548,
-        "sha": "f916e239bdcd6bf1ef12899cda1ea7a635f3db88",
+        "sha": "63f8fa07a0ec39be902451d1b4c4e7addd761bd8",
         "legislative_periods": [
           {
             "id": "term/10",
@@ -985,7 +985,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e610b1cbd69d99c3f01e05a11698971d19c43f2/data/Bangladesh/House/term-9.csv"
           }
         ],
-        "statement_count": 13350,
+        "statement_count": 13352,
         "type": "unicameral legislature"
       }
     ]
@@ -1329,11 +1329,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Brazil/Deputies/sources",
         "popolo": "data/Brazil/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7929e0590ae2adbca84480886da635ca60e526e1/data/Brazil/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3ebf8fab33ef0d1a50d49f4878f6f8922aee4485/data/Brazil/Deputies/ep-popolo-v1.0.json",
         "names": "data/Brazil/Deputies/names.csv",
-        "lastmod": "1495150747",
+        "lastmod": "1495440847",
         "person_count": 942,
-        "sha": "7929e0590ae2adbca84480886da635ca60e526e1",
+        "sha": "3ebf8fab33ef0d1a50d49f4878f6f8922aee4485",
         "legislative_periods": [
           {
             "end_date": "2019-01-31",
@@ -1354,7 +1354,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/59dff0d612de4eff9f893865e702c30f38b56bca/data/Brazil/Deputies/term-54.csv"
           }
         ],
-        "statement_count": 47000,
+        "statement_count": 47042,
         "type": "lower house"
       }
     ]
@@ -1942,11 +1942,11 @@
         "slug": "Senate",
         "sources_directory": "data/Canada/Senate/sources",
         "popolo": "data/Canada/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c7ea9ca71e32fdb8f332a5cc73f9aeb7cae17576/data/Canada/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/50177a0e2b7790b706a16ca90b3d6517da2f0a52/data/Canada/Senate/ep-popolo-v1.0.json",
         "names": "data/Canada/Senate/names.csv",
-        "lastmod": "1495445792",
+        "lastmod": "1495447853",
         "person_count": 98,
-        "sha": "c7ea9ca71e32fdb8f332a5cc73f9aeb7cae17576",
+        "sha": "50177a0e2b7790b706a16ca90b3d6517da2f0a52",
         "legislative_periods": [
           {
             "id": "term/42",
@@ -1954,10 +1954,10 @@
             "start_date": "2015-12-03",
             "slug": "42",
             "csv": "data/Canada/Senate/term-42.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c7ea9ca71e32fdb8f332a5cc73f9aeb7cae17576/data/Canada/Senate/term-42.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/50177a0e2b7790b706a16ca90b3d6517da2f0a52/data/Canada/Senate/term-42.csv"
           }
         ],
-        "statement_count": 3099,
+        "statement_count": 6186,
         "type": "upper house"
       }
     ]
