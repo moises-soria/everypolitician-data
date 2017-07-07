@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "035d6556-cc02-4d77-af48-1374de549d54",
+      "image": "http://parliament.gov.gy/images/member_photos/4027/mr._nigel_d._dharamlall,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4027/mr._nigel_d._dharamlall,_m.p..jpg"
+        }
+      ],
+      "name": "Nigel D. Dharamlall"
+    },
+    {
       "gender": "male",
       "honorific_prefix": "Dr.",
       "id": "0ca3d01e-f74b-4610-8768-077260101426",
@@ -164,6 +174,16 @@
       "name": "Jennifer R.A. Westford"
     },
     {
+      "id": "2905c596-604f-4dd4-bf0e-507b4b2bc38f",
+      "image": "http://parliament.gov.gy/images/member_photos/4028/mrs._yvonne_pearson-_fredericks,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4028/mrs._yvonne_pearson-_fredericks,_m.p..jpg"
+        }
+      ],
+      "name": "Yvonne P. Fredericks"
+    },
+    {
       "gender": "male",
       "id": "2e062152-3c11-4af3-be84-c9282d29bbed",
       "identifiers": [
@@ -179,6 +199,28 @@
         }
       ],
       "name": "Clive R. Jagan"
+    },
+    {
+      "id": "37eecf18-7080-4ad2-abc1-7bfd78a6445c",
+      "image": "http://parliament.gov.gy/images/member_photos/266/dr._vindhya_v._persaud,_m.s.,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/266/dr._vindhya_v._persaud,_m.s.,_m.p..jpg"
+        }
+      ],
+      "name": "Vindhya Vasini Persaud"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mrs.",
+      "id": "39635ccd-a17c-4e1a-98c1-8ce1b27bdec9",
+      "image": "http://parliament.gov.gy/images/member_photos/92/ms._indra_chanderpal,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/92/ms._indra_chanderpal,_m.p..jpg"
+        }
+      ],
+      "name": "Indranie Chandarpal"
     },
     {
       "gender": "male",
@@ -512,6 +554,16 @@
       "name": "Sydney C. Allicock"
     },
     {
+      "id": "7571af0e-fa87-43d1-8b2b-31354014b22c",
+      "image": "http://parliament.gov.gy/images/member_photos/136/dr._vishwa_d.b._mahadeo,_m.p..jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/136/dr._vishwa_d.b._mahadeo,_m.p..jpg"
+        }
+      ],
+      "name": "Vishwa D.B Mahadeo"
+    },
+    {
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "7c55dda1-d45a-4ee4-b6ed-f45db7668758",
@@ -635,6 +687,36 @@
         }
       ],
       "name": "Gail Teixeira"
+    },
+    {
+      "id": "8d571df8-22e8-4a03-af1e-753d532391e2",
+      "image": "http://parliament.gov.gy/images/member_photos/4024/zulfikar-mustapha.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4024/zulfikar-mustapha.jpg"
+        }
+      ],
+      "name": "Mustapha Zulfikar"
+    },
+    {
+      "id": "8f4833e1-a4d7-41e9-86d3-bf08b4b08fe9",
+      "image": "http://parliament.gov.gy/images/member_photos/130/dharamkumar_seeraj,_m.p.__small.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/130/dharamkumar_seeraj,_m.p.__small.jpg"
+        }
+      ],
+      "name": "Dharamkumar Seeraj"
+    },
+    {
+      "id": "9397129b-f243-400f-9937-db55c8d8d85d",
+      "image": "http://parliament.gov.gy/images/member_photos/139/ganga_persaud.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/139/ganga_persaud.jpg"
+        }
+      ],
+      "name": "Ganga Persaud"
     },
     {
       "gender": "female",
@@ -776,6 +858,17 @@
         }
       ],
       "name": "Simona Broomes"
+    },
+    {
+      "honorific_prefix": "Dr.",
+      "id": "add79e65-8b06-4c89-b02f-83594ff29ce8",
+      "image": "http://parliament.gov.gy/images/member_photos/137/frank-2.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/137/frank-2.jpg"
+        }
+      ],
+      "name": "Frank C.S. Anthony"
     },
     {
       "gender": "male",
@@ -1159,6 +1252,18 @@
   "memberships": [
     {
       "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "035d6556-cc02-4d77-af48-1374de549d54",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/nigel-d-dharamlall/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/11",
       "on_behalf_of_id": "APNU-AFC",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "0ca3d01e-f74b-4610-8768-077260101426",
@@ -1268,6 +1373,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "2905c596-604f-4dd4-bf0e-507b4b2bc38f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/yvonne-p-fredericks/"
+        }
+      ]
+    },
+    {
       "end_date": "2016-11-02",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "PPP-Civic",
@@ -1277,6 +1394,30 @@
       "sources": [
         {
           "url": "http://parliament.gov.gy/about-parliament/parliamentarian/clive-r.-jagan/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "37eecf18-7080-4ad2-abc1-7bfd78a6445c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-vindhya-vasini-persaud/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "39635ccd-a17c-4e1a-98c1-8ce1b27bdec9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/indranie-chandarpal/"
         }
       ]
     },
@@ -1517,6 +1658,19 @@
       ]
     },
     {
+      "area_id": "6",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "7571af0e-fa87-43d1-8b2b-31354014b22c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-vishwa-db-mahadeo/"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "APNU-AFC",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
@@ -1600,6 +1754,43 @@
       "sources": [
         {
           "url": "http://parliament.gov.gy/about-parliament/parliamentarian/gail-teixeira/"
+        }
+      ]
+    },
+    {
+      "area_id": "6",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "8d571df8-22e8-4a03-af1e-753d532391e2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mustapha-zulfikar/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "8f4833e1-a4d7-41e9-86d3-bf08b4b08fe9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dharamkumar-seeraj/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "9397129b-f243-400f-9937-db55c8d8d85d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ganga-persaud/"
         }
       ]
     },
@@ -1699,6 +1890,18 @@
       "sources": [
         {
           "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-simona-broomes-mp/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "add79e65-8b06-4c89-b02f-83594ff29ce8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/frank-anthony/"
         }
       ]
     },
