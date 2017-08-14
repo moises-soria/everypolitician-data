@@ -6889,14 +6889,96 @@
     {
       "birth_date": "1990-08-28",
       "gender": "male",
+      "given_name": "Ivan",
       "id": "857c84ff-3bae-40b3-8c8a-f8466992e6ca",
+      "identifiers": [
+        {
+          "identifier": "Q18668688",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44569",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44569"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sinčić.jpg"
         }
       ],
-      "name": "Ivan Sinčić"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ivan_Vilibor_Sinčić"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Vilibor_Sinčić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ivan_Vilibor_Sinčić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Ivan_Vilibor_Sinčić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ivan_Vilibor_Sinčić"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Ivan_Vilibor_Sinčić"
+        }
+      ],
+      "name": "Ivan Sinčić",
+      "other_names": [
+        {
+          "name": "Ivan Vilibor Sinčić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ivan Vilibor Sinčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivan Vilibor Sinčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ivan Vilibor Sinčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ivan Vilibor Sinčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Vilibor Sinčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ivan Vilibor Sinčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Иван Вилибор Синчич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ivan Vilibor Sinčić",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-02-26",
