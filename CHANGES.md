@@ -1,5 +1,15 @@
 ﻿# This file documents substantial changes to the format of data files
 
+2017-08-15
+
+To reduce data bloat, we will no longer be including 'lang__xx' data where that
+is identical to 'lang__en'.
+
+This currently only applies to Areas, but will be applied to other
+collections over time.
+
+Other language fallback chains may be implemented later.
+
 2016-12-12
 
 Information on 'sources' is now provided on `Membership` rather than

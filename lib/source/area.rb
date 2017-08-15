@@ -20,7 +20,9 @@ module Source
       end
 
       field :other_names do
-        area.select { |k, v| v && k.to_s.start_with?('name__') }.map do |k, v|
+        area.select { |k, v| v && k.to_s.start_with?('name__') }
+            .reject { |k, v| (v == area[:name__en]) && (k != :name__en) }
+            .map do |k, v|
           {
             lang: k.to_s[/name__(\w+)/, 1],
             name: v,
