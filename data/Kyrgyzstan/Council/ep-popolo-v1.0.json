@@ -1019,13 +1019,41 @@
         {
           "identifier": "389",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13169568",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ky)",
+          "url": "https://ky.wikipedia.org/wiki/Келдибеков,_Ахматбек_Келдибекович"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Келдибеков,_Ахматбек_Келдибекович"
         }
       ],
       "name": "KELDIBEKOV Axmatbek Keldibekovich",
       "other_names": [
         {
+          "name": "Келдибеков, Ахматбек Келдибекович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ky",
+          "name": "Келдибеков, Ахматбек Келдибекович",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "КЕЛДИБЕКОВ Ахматбек Келдибекович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Келдибеков, Ахматбек Келдибекович",
           "note": "multilingual"
         }
       ]
