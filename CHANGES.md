@@ -1,4 +1,9 @@
-﻿# This file documents substantial changes to the format of data files
+# This file documents substantial changes to the format of data files
+
+2017-08-18
+
+The term-by-term CSV files now have an extra `wikidata` column to
+reflect the Wikidata ID for the member, where known.
 
 2017-08-15
 
