@@ -7,14 +7,14 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-dataview-terms.git
-  revision: f2fc1dd7c8cc4cab65d4a8e1bca7e1790264f808
+  revision: 6db80fb83b0c8dea02e09675abddf693bda8f704
   specs:
-    everypolitician-dataview-terms (0.0.1)
+    everypolitician-dataview-terms (0.0.2)
       everypolitician-popolo
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-popolo.git
-  revision: 40dc460d8340df9ae78469b755ce73b4fd074ce3
+  revision: 4785fef26da455232240a10f79453fd0524a173c
   specs:
     everypolitician-popolo (0.8.0)
       require_all
