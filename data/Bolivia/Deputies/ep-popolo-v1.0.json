@@ -882,12 +882,17 @@
       "name": "Delia Canaviri Condori"
     },
     {
-      "gender": "female",
+      "birth_date": "1986-07-16",
+      "gender": "male",
       "id": "788123d5-6e04-4658-9395-d6edd9b7d357",
       "identifiers": [
         {
           "identifier": "cruz.cc",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27495049",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cruz.cc.jpg",
@@ -896,7 +901,34 @@
           "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/cruz.cc.jpg"
         }
       ],
-      "name": "Carmen Muriel Cruz Claros"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Muriel_Cruz"
+        }
+      ],
+      "name": "Carmen Muriel Cruz Claros",
+      "other_names": [
+        {
+          "name": "Muriel Cruz",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Muriel Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Muriel Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Muriel Cruz",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
