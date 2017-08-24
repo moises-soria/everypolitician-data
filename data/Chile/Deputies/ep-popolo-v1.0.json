@@ -3144,6 +3144,7 @@
     },
     {
       "birth_date": "1950-04-12",
+      "death_date": "2017-08-19",
       "gender": "male",
       "given_name": "Luis",
       "id": "2cee0919-1757-4636-8fb3-21c020075a57",
@@ -4820,6 +4821,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Karla Rubilar",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Karla Rubilar",
           "note": "multilingual"
@@ -5801,6 +5807,10 @@
         {
           "identifier": "514",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02z4_by",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q3186176",
@@ -7629,6 +7639,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Francisco_Huenchumilla"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Francisco_Huenchumilla"
         },
@@ -8260,7 +8274,6 @@
           "value": "luis.rocafull"
         }
       ],
-      "death_date": "2014-03-11",
       "email": "luis.rocafull",
       "gender": "male",
       "given_name": "Luis",
@@ -8531,6 +8544,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gabriel_Boric"
+        },
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Gabriel_Boric"
@@ -10360,6 +10377,10 @@
         {
           "type": "email",
           "value": "rojoedwards"
+        },
+        {
+          "type": "twitter",
+          "value": "RojoEdwards"
         }
       ],
       "email": "rojoedwards",
@@ -10385,13 +10406,17 @@
       "links": [
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/José_Manuel_Edwards"
+          "url": "https://es.wikipedia.org/wiki/Rojo_Edwards"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RojoEdwards"
         }
       ],
       "name": "Rojo Edwards Silva",
       "other_names": [
         {
-          "name": "José Manuel Edwards Silva",
+          "name": "Rojo Edwards",
           "note": "alternate"
         },
         {
@@ -10401,7 +10426,7 @@
         },
         {
           "lang": "es",
-          "name": "José Manuel Edwards Silva",
+          "name": "Rojo Edwards",
           "note": "multilingual"
         },
         {
@@ -13000,6 +13025,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jorge_Insunza"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Jorge_Insunza"
         }
@@ -15128,6 +15157,7 @@
     },
     {
       "birth_date": "1924-04-28",
+      "death_date": "2017-08-16",
       "gender": "male",
       "given_name": "Vicente",
       "id": "a1b4aeea-6890-4f86-bc7b-f87c0169750c",
@@ -15149,8 +15179,16 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vicente_Sota"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Vicente_Sota"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Vicente_Sota"
         }
       ],
       "name": "Vicente Sota Barros",
@@ -15397,6 +15435,11 @@
         {
           "lang": "fr",
           "name": "Mariana Aylwin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мариана Эйлвин",
           "note": "multilingual"
         }
       ],
@@ -17261,7 +17304,6 @@
       "sort_name": "Herrera"
     },
     {
-      "birth_date": "1965-07-18",
       "contact_details": [
         {
           "type": "email",
@@ -17270,43 +17312,14 @@
       ],
       "email": "asantana",
       "gender": "male",
-      "given_name": "Alejandro",
       "id": "c396b458-7e80-4123-bc9b-78162da99311",
       "identifiers": [
         {
           "identifier": "952",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q29044330",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alejandro_Santana_Tirachini.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alejandro_Santana_Tirachini.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Alejandro_Santana"
         }
       ],
       "name": "Alejandro Santana Tirachini",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Alejandro Santana Tirachini",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Alejandro Santana Tirachini",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Santana"
     },
     {
@@ -18329,12 +18342,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Carolina_Goic_Boroevic.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Carolina_Goic_Boroevic.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -18350,7 +18357,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.goic17.cl"
+          "url": "http://www.carolinagoic.cl"
         }
       ],
       "name": "Carolina Goic Boroevic",
@@ -24374,6 +24381,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "gd",
+          "name": "Pàrtaidh Comannach na Sile",
+          "note": "multilingual"
+        },
+        {
           "lang": "pms",
           "name": "PCCh",
           "note": "multilingual"
@@ -25551,7 +25563,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Udi.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/UDI_2017.svg",
       "name": "Unión Demócrata Independiente",
       "other_names": [
         {
