@@ -36577,13 +36577,36 @@
       "birth_date": "1965-06-24",
       "gender": "female",
       "id": "d5625862-d7a2-4010-87f1-146bb427481a",
+      "identifiers": [
+        {
+          "identifier": "Q37607146",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/82c/82cb4aca285fd41a11a481e3eaf41986.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/82c/82cb4aca285fd41a11a481e3eaf41986.jpg"
         }
       ],
-      "name": "Савченко Светлана Борисовна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Савченко,_Светлана_Борисовна"
+        }
+      ],
+      "name": "Савченко Светлана Борисовна",
+      "other_names": [
+        {
+          "name": "Светлана Борисовна Савченко",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Светлана Борисовна Савченко",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-01-19",
