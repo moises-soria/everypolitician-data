@@ -3594,6 +3594,10 @@
         {
           "identifier": "490",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12864811",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A2%E1%83%A7%E1%83%94%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
@@ -3604,6 +3608,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ზურაბ_ტყემალაძე"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=234:tkemaladze-zurab&Itemid=129&lang=ge"
         },
@@ -3612,7 +3620,23 @@
           "url": "http://ka.wikipedia.org/wiki/%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_%E1%83%A2%E1%83%A7%E1%83%94%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94"
         }
       ],
-      "name": "Zurab Tkemaladze"
+      "name": "Zurab Tkemaladze",
+      "other_names": [
+        {
+          "name": "ზურაბ ტყემალაძე",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Zurab Tkemaladze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ზურაბ ტყემალაძე",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -3974,6 +3998,7 @@
       "name": "Irakli Beraia"
     },
     {
+      "birth_date": "1968-01-09",
       "contact_details": [
         {
           "type": "email",
@@ -3991,6 +4016,10 @@
         {
           "identifier": "453",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12867007",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%AD%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%98%E1%83%9A%E1%83%98_jpg_200x168_q85.jpg",
@@ -4001,6 +4030,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mikheil_Machavariani"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/მიხეილ_მაჭავარიანი"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=84:machavariani-mikheil&Itemid=129&lang=ge"
         },
@@ -4009,7 +4046,23 @@
           "url": "http://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%98%E1%83%9A_%E1%83%9B%E1%83%90%E1%83%AD%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98%E1%83%90%E1%83%9C%E1%83%98"
         }
       ],
-      "name": "Mikheil Machavariani"
+      "name": "Mikheil Machavariani",
+      "other_names": [
+        {
+          "name": "მიხეილ მაჭავარიანი",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mikheil Machavariani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "მიხეილ მაჭავარიანი",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
