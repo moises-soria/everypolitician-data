@@ -286,6 +286,10 @@
         {
           "identifier": "2015-694",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q34345403",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/MULONGO694.jpg",
@@ -296,11 +300,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Simon_Mulongo"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=694&const=Bubulo+County+East&dist_id=34&distname=Manafwa"
         }
       ],
       "name": "Simon Mulongo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Simon Mulongo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mulongo, Simon"
     },
     {
@@ -1593,14 +1608,34 @@
         }
       ],
       "gender": "male",
+      "given_name": "John",
       "id": "0fd6df04-aeae-43d4-a36c-66f211a8d55b",
+      "identifiers": [
+        {
+          "identifier": "Q33978057",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Ikojo%20John%20Bosco.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Ikojo%20John%20Bosco.jpg"
         }
       ],
-      "name": "John Bosco Ikojo"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Bosco_Ikojo"
+        }
+      ],
+      "name": "John Bosco Ikojo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "John Bosco Ikojo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-10-03",
@@ -9762,13 +9797,39 @@
       ],
       "gender": "male",
       "id": "5e13a600-e1c7-40e0-8374-97999240287e",
+      "identifiers": [
+        {
+          "identifier": "Q36824970",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Mangusho.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Mangusho.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mangusho.jpg"
         }
       ],
-      "name": "Lawrence Cherop Mangusho"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lawrence_Mangusho"
+        }
+      ],
+      "name": "Lawrence Cherop Mangusho",
+      "other_names": [
+        {
+          "name": "Lawrence Mangusho",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lawrence Mangusho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-05-01",
@@ -20390,13 +20451,36 @@
       ],
       "gender": "male",
       "id": "c5b6e7a5-529c-4981-8a1f-db51eb413a8b",
+      "identifiers": [
+        {
+          "identifier": "Q36490457",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/OKINI%20PP.%20OJARA.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/OKINI%20PP.%20OJARA.jpg"
         }
       ],
-      "name": "Ojara Okin"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Okin_Ojara"
+        }
+      ],
+      "name": "Ojara Okin",
+      "other_names": [
+        {
+          "name": "Okin Ojara",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Okin Ojara",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1945-09-26",
@@ -21160,6 +21244,10 @@
         {
           "identifier": "2015-407",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q37122067",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/BOONA407.jpg",
@@ -21170,11 +21258,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emma_Boona"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=407&const=Woman+Representative&dist_id=61&distname=Mbarara"
         }
       ],
       "name": "Emma Boona",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Emma Boona",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Boona, Emma"
     },
     {
