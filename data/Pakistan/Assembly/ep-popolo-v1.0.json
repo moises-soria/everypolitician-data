@@ -18967,11 +18967,16 @@
       "patronymic_name": "Momin Khan"
     },
     {
+      "gender": "female",
       "id": "e0fde1bd-2ead-47a6-8858-ca60bb2333c4",
       "identifiers": [
         {
           "identifier": "958",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19517998",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.na.gov.pk/uploads/images/294.jpg",
@@ -18980,7 +18985,34 @@
           "url": "http://www.na.gov.pk/uploads/images/294.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shazia_Ashfaq_Mattu"
+        }
+      ],
       "name": "Shazia Sohail Mir",
+      "other_names": [
+        {
+          "name": "Shazia Ashfaq Mattu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Shazia Ashfaq Mattu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Shazia Ashfaq Mattu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Shazia Ashfaq Mattu",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "w/o Sohail Afzal Mir"
     },
     {
@@ -21528,11 +21560,16 @@
         }
       ],
       "gender": "male",
+      "given_name": "Khalil",
       "id": "ffc416bf-43c5-4a80-b4b8-ff6c7207e54c",
       "identifiers": [
         {
           "identifier": "991",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19560993",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.na.gov.pk/uploads/images/pic25.jpg",
@@ -21541,7 +21578,29 @@
           "url": "http://www.na.gov.pk/uploads/images/pic25.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khalil_Francis"
+        }
+      ],
       "name": "Khalil George",
+      "other_names": [
+        {
+          "name": "Khalil Francis",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Khalil Francis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Khalil Francis",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "George Francis"
     }
   ],
