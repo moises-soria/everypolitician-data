@@ -1956,6 +1956,12 @@
       "gender": "female",
       "given_name": "Miriam",
       "id": "0827d752-5dbf-4cac-9dff-f78c10198274",
+      "identifiers": [
+        {
+          "identifier": "Q27756359",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/127_11.jpg",
       "images": [
         {
@@ -1967,6 +1973,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Miriam_Alconchel_Gonzaga"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Miriam_Alconchel_Gonzaga"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Miriam_Alconchel"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/miriam.alconchelgonzaga"
         },
@@ -1976,6 +1994,33 @@
         }
       ],
       "name": "Miriam Alconchel Gonzaga",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Miriam Alconchel Gonzaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mirian Alconchel Gonzaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Miriam Alconchel Gonzaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mirian Alconchel Gonzaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mirian Alconchel Gonzaga",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alconchel Gonzaga, Miriam"
     },
     {
@@ -4491,13 +4536,57 @@
       "gender": "female",
       "given_name": "Sara",
       "id": "1366b4d4-536e-4a31-9707-be600efc317e",
+      "identifiers": [
+        {
+          "identifier": "Q27757176",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/143_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/143_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sara_Carreño_2016_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sara_Carreño"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sara_Carreño_Valero"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sara_Carreño_Valero"
         }
       ],
       "name": "Sara Carreño Valero",
+      "other_names": [
+        {
+          "name": "Sara Carreño",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Sara Carreño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sara Carreño Valero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sara Carreño Valero",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Carreño Valero, Sara"
     },
     {
@@ -11296,6 +11385,12 @@
       "gender": "female",
       "given_name": "Rosa Ana",
       "id": "3ccaf884-5c1a-449d-a4d1-6092f34ec52d",
+      "identifiers": [
+        {
+          "identifier": "Q27999251",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/79_11.jpg",
       "images": [
         {
@@ -11307,6 +11402,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Rosa_Ana_Alonso_Clusa"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Rosa_Ana_Alonso_Clusa"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rosa_Ana_Alonso_Clusa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rosa_Ana_Alonso_Clusa"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/rosana.alonsoclusa"
         },
@@ -11316,6 +11427,38 @@
         }
       ],
       "name": "Rosa Ana Alonso Clusa",
+      "other_names": [
+        {
+          "lang": "ast",
+          "name": "Rosa Ana Alonso Clusa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Rosa Ana Alonso Clusa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rosa Ana Alonso Clusa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rosa Ana Alonso Clusa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rosa Ana Alonso Clusa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rosa Ana Alonso Clusa",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alonso Clusa, Rosa Ana"
     },
     {
@@ -31813,10 +31956,19 @@
       "gender": "male",
       "given_name": "Pablo",
       "id": "94268599-dda6-4cb1-8409-1d919ff88da3",
+      "identifiers": [
+        {
+          "identifier": "Q27999127",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/263_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/263_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pablo_Bustinduy_2015_(cropped).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/832145332792336384/y1T9wLgm.jpg"
@@ -31824,11 +31976,54 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Pablo_Bustinduy_Amador"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pablo_Bustinduy"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pablo_Bustinduy"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/pbustinduy"
         }
       ],
       "name": "Pablo Bustinduy Amador",
+      "other_names": [
+        {
+          "name": "Pablo Bustinduy",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Pablo Bustinduy Amador",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pablo Bustinduy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pablo Bustinduy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pablo Bustinduy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pablo Bustinduy",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bustinduy Amador, Pablo"
     },
     {
@@ -32915,6 +33110,12 @@
       "gender": "female",
       "given_name": "Ana Belén",
       "id": "99c25392-42b2-4469-ab40-778e2c63c769",
+      "identifiers": [
+        {
+          "identifier": "Q27756480",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/280_11.jpg",
       "images": [
         {
@@ -32926,6 +33127,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ana_Belén_Terrón_Berbel"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ana_Belén_Terrón_Berbel"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/AnaTerronB"
         },
@@ -32935,6 +33144,23 @@
         }
       ],
       "name": "Ana Belén Terrón Berbel",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Ana Belén Terrón Berbel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ana Belén Terrón Berbel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ana Belén Terrón Berbel",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Terrón Berbel, Ana Belén"
     },
     {
@@ -36977,6 +37203,7 @@
       "sort_name": "Montón Giménez, Carmen"
     },
     {
+      "birth_date": "1960-01-03",
       "contact_details": [
         {
           "type": "twitter",
@@ -36991,9 +37218,25 @@
         {
           "identifier": "47",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29817048",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_del_Carmen_Navarro_Cruz"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_del_Carmen_Navarro_Cruz"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Carmen_Navarro"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/cnavarrocruz"
@@ -37004,6 +37247,30 @@
         {
           "name": "María del Carmen Navarro Cruz",
           "note": "alternate"
+        },
+        {
+          "name": "María del Carmen Navarro Cruz",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "María del Carmen Navarro Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María del Carmen Navarro Cruz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carmen Navarro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carmen Navarro",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Navarro Cruz, María del Carmen"
@@ -37025,6 +37292,12 @@
       "gender": "female",
       "given_name": "Sonia",
       "id": "a986b9d8-50a5-47eb-b2a6-5caa244f0f36",
+      "identifiers": [
+        {
+          "identifier": "Q27756341",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/331_11.jpg",
       "images": [
         {
@@ -37036,11 +37309,65 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Sonia_Ferrer_Tesoro"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sonia_Ferrer_Tesoro"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sonia_Ferrer_Tesoro"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/soniafetesoro"
         }
       ],
       "name": "Sonia Ferrer Tesoro",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sonia Ferrer Tesoro",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ferrer Tesoro, Sonia"
     },
     {
@@ -44216,6 +44543,12 @@
       "gender": "male",
       "given_name": "Íñigo Jesús",
       "id": "c6ddd231-f0a8-4cc0-bec8-492ba73ced3e",
+      "identifiers": [
+        {
+          "identifier": "Q27756223",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/71_11.jpg",
       "images": [
         {
@@ -44227,6 +44560,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Íñigo_Jesús_Alli_Martínez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Íñigo_Alli_Martínez"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/inigo.alli.9"
         },
@@ -44236,6 +44577,28 @@
         }
       ],
       "name": "Íñigo Jesús Alli Martínez",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Íñigo Alli Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Íñigo Jesús Alli Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Íñigo Alli Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Íñigo Alli Martínez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alli Martínez, Íñigo Jesús"
     },
     {
