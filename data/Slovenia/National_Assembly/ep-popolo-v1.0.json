@@ -12610,7 +12610,66 @@
     {
       "classification": "party",
       "id": "Levica",
-      "name": "Poslanska skupina Levica"
+      "identifiers": [
+        {
+          "identifier": "Q17100146",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.zdruzena-levica.si/"
+        }
+      ],
+      "name": "Poslanska skupina Levica",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "United Left (Slovenia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Združena levica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gauche unie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Уједињена левица",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Združena levica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sinistra Unita",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zjednoczona Lewica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединённые левые",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "联合左翼",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
