@@ -40,8 +40,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name__ar",
-        "existing_field": "name__ar",
+        "incoming_field": "name__en",
+        "existing_field": "name__en",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
