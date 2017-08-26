@@ -37,12 +37,13 @@ class WikidataLookup
     @wikidata_results ||= Hash[Wikisnakker::Item.find(wikidata_ids).map { |r| [r.id, r] }]
   end
 
-  def names_from(labels)
+  def names_from(labels, source)
     labels.values.flatten.map do |label|
       {
-        lang: label[:language],
-        name: label[:value],
-        note: 'multilingual',
+        lang:   label[:language],
+        name:   label[:value],
+        note:   'multilingual',
+        source: source,
       }
     end
   end
@@ -56,8 +57,14 @@ class WikidataLookup
           identifier: result.id,
         },
       ],
-      other_names: names_from(result.labels) + names_from(result.all_aliases),
+      other_names: other_names_for(result),
     }.merge(other_fields_for(result))
+  end
+
+  def other_names_for(result)
+    names = names_from(result.labels, 'wikidata-label') + names_from(result.all_aliases, 'wikidata-alias')
+    en = names.select { |n| n[:lang] == 'en' }.map { |n| n[:name] }
+    names.reject { |n| n[:lang] != 'en' && en.include?(n[:name]) }
   end
 
   # to override in subclasses
