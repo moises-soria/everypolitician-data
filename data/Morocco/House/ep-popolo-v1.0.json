@@ -8229,13 +8229,19 @@
       ]
     },
     {
+      "birth_date": "1946-05-15",
       "family_name": "Elmalki",
-      "given_name": "Elhabib",
+      "gender": "male",
+      "given_name": "Habib",
       "id": "6d21d77a-36bc-4eb0-9740-0d31ab5882fa",
       "identifiers": [
         {
           "identifier": "helmalki",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3125332",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_176.jpg?itok=i3HS_Q6O",
@@ -8244,11 +8250,43 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_176.jpg?itok=i3HS_Q6O"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/حبيب_المالكي"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Habib_El_Malki"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Habib_El_Malki"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Habib_El_Maliki"
+        }
+      ],
       "name": "Habib EL MALKI",
       "other_names": [
         {
+          "name": "Habib el-Malki",
+          "note": "alternate"
+        },
+        {
           "lang": "ar",
           "name": "الحبيب المالكي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حبيب المالكي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Habib El Malki",
           "note": "multilingual"
         },
         {
@@ -8257,8 +8295,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Habib El Malki",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
-          "name": "Elhabib Elmalki",
+          "name": "Habib el-Malki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Habib El Malki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Habib El Malki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Habib El Maliki",
           "note": "multilingual"
         }
       ],
@@ -10396,13 +10454,19 @@
       "name": "Tarik KABBAGE"
     },
     {
+      "birth_date": "1957-04-25",
       "family_name": "Lazrek",
+      "gender": "male",
       "given_name": "Noureddine",
       "id": "8ddae2ea-63dc-448a-b172-be7a6b592e09",
       "identifiers": [
         {
           "identifier": "nlazrek",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3344896",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_165.jpg?itok=YrbYWTt8",
@@ -10411,8 +10475,23 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_165.jpg?itok=YrbYWTt8"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نور_الدين_الأزرق"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Noureddine_Lazrek"
+        }
+      ],
       "name": "Noureddine LAZREK",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "نور الدين الأزرق",
+          "note": "multilingual"
+        },
         {
           "lang": "ar",
           "name": "نور الدين الازرق",
@@ -17507,13 +17586,23 @@
       ]
     },
     {
+      "birth_date": "1973",
       "family_name": "El Mansouri",
-      "given_name": "Fatima Ezzahra",
+      "gender": "female",
+      "given_name": "Fatima",
       "id": "f6f4f518-2a9a-4625-ad91-6384af473e41",
       "identifiers": [
         {
           "identifier": "felmansouri",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0nb7r8r",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3067221",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_376.jpg?itok=abKcJeuH",
@@ -17522,8 +17611,30 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_376.jpg?itok=abKcJeuH"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فاطمة_الزهراء_المنصوري"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fatima-Zahra_Mansouri"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fatima-Zahra_Mansouri"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Fatima_Zahra_Mansouri"
+        }
+      ],
       "name": "Fatima Ezzahra ELMANSOURI",
       "other_names": [
+        {
+          "name": "Fatima-Zahra Mansouri",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "فاطمة الزهراء المنصوري",
@@ -17535,8 +17646,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Fatima-Zahra Mansouri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fatima-Zahra Mansouri",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
-          "name": "Fatima Ezzahra El Mansouri",
+          "name": "Fatima-Zahra Mansouri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fatima Zahra Mansouri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fatima-Zahra Mansouri",
           "note": "multilingual"
         }
       ],
