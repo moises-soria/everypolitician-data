@@ -967,6 +967,7 @@
       ]
     },
     {
+      "birth_date": "1974-02-06",
       "contact_details": [
         {
           "type": "email",
@@ -974,15 +975,42 @@
         }
       ],
       "email": "gaiduk@house.gov.by",
+      "gender": "female",
       "id": "1ec3c237-4d29-40bd-bd31-b13620556734",
+      "identifiers": [
+        {
+          "identifier": "Q31031181",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://house.gov.by/images/storage/person/000683_143567.jpg",
       "images": [
         {
           "url": "http://house.gov.by/images/storage/person/000683_143567.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Аксана_Вячаславаўна_Гайдук"
+        }
+      ],
       "name": "GAJDUK OKSANA",
       "other_names": [
+        {
+          "name": "Oksana Gajduk",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Аксана Вячаславаўна Гайдук",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oksana Gajduk",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Гайдук Оксана Вячеславовна",
@@ -4969,6 +4997,7 @@
       ]
     },
     {
+      "birth_date": "1962-09-28",
       "contact_details": [
         {
           "type": "email",
@@ -4976,18 +5005,72 @@
         }
       ],
       "email": "anisim@house.gov.by",
+      "gender": "female",
+      "given_name": "Alena",
       "id": "aba2228e-a1d3-4e6c-bfd8-1eb5fecbc68b",
+      "identifiers": [
+        {
+          "identifier": "Q26897630",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://house.gov.by/images/storage/person/000683_178005.jpg",
       "images": [
         {
           "url": "http://house.gov.by/images/storage/person/000683_178005.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Алена_Анісім._2015.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Алена_Мікалаеўна_Анісім"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alena_Anisim"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Анисим,_Елена_Николаевна"
         }
       ],
       "name": "ANISIM ELENA",
       "other_names": [
         {
+          "name": "Aliena Anisim",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Алена Мікалаеўна Анісім",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aliena Anisim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alena Anisim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alena Anisim",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Анисим Елена Николаевна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Елена Николаевна Анисим",
           "note": "multilingual"
         }
       ]
