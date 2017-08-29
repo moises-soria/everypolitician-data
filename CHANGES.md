@@ -1,5 +1,10 @@
 # This file documents substantial changes to the format of data files
 
+2017-08-29
+
+We no longer include 'lang__xx' names if identical to 'lang__en' for
+Member names.
+
 2017-08-25
 
 We no longer include 'lang__xx' names if identical to 'lang__en' for

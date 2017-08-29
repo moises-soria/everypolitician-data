@@ -4,6 +4,7 @@ require 'deep_merge'
 # Transform the results from generic CSV-to-Popolo into EP-Popolo
 #
 #   - remove all Executive Memberships
+#   - remove duplicated names
 #   - merge legislature data from meta.json
 #     - ensure all legislative memberships are on that
 #   - merge term data from terms.csv
@@ -103,6 +104,19 @@ namespace :transform do
         warn "Discarding duplicate membership: #{dupe}".yellow
       end
       @json[:memberships].uniq!
+    end
+  end
+
+  #---------------------------------------------------------------------
+  # Don't duplicate `name` or `name__en` into multilingual
+  #---------------------------------------------------------------------
+  task write: :fallback_names
+  task fallback_names: :load do
+    @json[:persons].reject { |p| p[:other_names].to_a.empty? }.each do |p|
+      skip = Set.new([p[:name].downcase]) + p[:other_names].select { |n| n[:lang] == 'en' }.map { |n| n[:name].downcase }
+      p[:other_names].delete_if { |n| n[:lang] != 'en' && skip.include?(n[:name].downcase) }
+      p[:other_names].delete_if { |n| n[:lang] == 'en' && n[:name].downcase == p[:name].downcase }
+      p.delete(:other_names) if p[:other_names].empty?
     end
   end
 
