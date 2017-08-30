@@ -1,5 +1,11 @@
 # This file documents substantial changes to the format of data files
 
+2017-08-30
+
+The term-by-term CSV files now also have extra `wikidata_group` and
+`wikidata_area` columns to reflect the Wikidata ID for the party/group
+and constituency/area, where known.
+
 2017-08-29
 
 We no longer include 'lang__xx' names if identical to 'lang__en' for
