@@ -5,7 +5,7 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 
 gem 'close_old_pull_requests', github: 'everypolitician/close_old_pull_requests'
 gem 'colorize'
-gem 'csv_to_popolo', '~> 0.28.0', github: 'tmtmtmtm/csv_to_popolo'
+gem 'csv_to_popolo', github: 'tmtmtmtm/csv_to_popolo'
 gem 'csvlint'
 gem 'deep_merge'
 gem 'everypolitician', github: 'everypolitician/everypolitician-ruby'
@@ -26,7 +26,7 @@ gem 'sass'
 gem 'slop', '~> 3.6.0' # tied to pry version
 gem 'twitter_username_extractor', github: 'everypolitician/twitter_username_extractor'
 gem 'unicode_utils'
-gem 'wikisnakker', '~> 0.7.0', github: 'everypolitician/wikisnakker'
+gem 'wikisnakker', github: 'everypolitician/wikisnakker'
 gem 'yajl-ruby', require: 'yajl'
 
 group :test do
