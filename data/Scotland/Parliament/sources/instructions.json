@@ -60,6 +60,18 @@
       }
     },
     {
+      "file": "morph/areas.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "area-wikidata",
+      "merge": {
+        "reconciliation_file": "reconciliation/areas.csv"
+      }
+    },
+    {
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "create": {
