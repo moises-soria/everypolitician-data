@@ -26177,502 +26177,2577 @@
   "areas": [
     {
       "id": "uk.org.publicwhip/cons/10716",
+      "identifiers": [
+        {
+          "identifier": "Q1053991",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Central Scotland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Central Scotland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Écosse du centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Meadhan na h-Alba",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10717",
+      "identifiers": [
+        {
+          "identifier": "Q1529479",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow (Wahlregion)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "格拉斯哥 (蘇格蘭議會地區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10718",
+      "identifiers": [
+        {
+          "identifier": "Q1549306",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Highlands and Islands",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Highlands and Islands",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Highlands et les Îles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "A' Ghàidhealtachd agus na h-Eileanan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ハイランド・アンド・アイランズ選挙区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10719",
+      "identifiers": [
+        {
+          "identifier": "Q6684773",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Lothians",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lothians",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Lodainn",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10720",
+      "identifiers": [
+        {
+          "identifier": "Q1931762",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mid Scotland and Fife",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mid Scotland and Fife",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Moyenne Écosse et Fife",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Alba Mheadhanach agus Fìobh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中蘇格蘭及法夫 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ミッド・スコットランド・アンド・ファイフ",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10721",
+      "identifiers": [
+        {
+          "identifier": "Q1647853",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "North East Scotland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "North East Scotland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Écosse du nord-est",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Ear-thuath na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東北蘇格蘭 (蘇格蘭議會地區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10722",
+      "identifiers": [
+        {
+          "identifier": "Q7569048",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "South of Scotland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "South of Scotland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Écosse du sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Taobh a Deas na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "蘇格蘭南部 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10723",
+      "identifiers": [
+        {
+          "identifier": "Q7987073",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "West of Scotland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "West of Scotland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Alba Taobh an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10724",
+      "identifiers": [
+        {
+          "identifier": "Q319474",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aberdeen Central",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Aberdeen Central (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aberdeen Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Obar Dheathain Meadhain",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10725",
+      "identifiers": [
+        {
+          "identifier": "Q319490",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aberdeen North",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Aberdeen North (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aberdeen North",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10726",
+      "identifiers": [
+        {
+          "identifier": "Q319503",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aberdeen South",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Aberdeen South (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aberdeen South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Obar Dheathain a Deas",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10727",
+      "identifiers": [
+        {
+          "identifier": "Q408547",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Airdrie and Shotts",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Airdrie and Shotts (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Airdrie and Shotts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "An t-Àrd-Ruigh agus Shotts",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10728",
+      "identifiers": [
+        {
+          "identifier": "Q544339",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Angus",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Angus (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Angus",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10729",
+      "identifiers": [
+        {
+          "identifier": "Q652587",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Argyll and Bute",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Argyll and Bute (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Argyll and Bute",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Earra-Ghàidheal agus Bòd",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10730",
+      "identifiers": [
+        {
+          "identifier": "Q793213",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ayr",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ayr (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ayr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Inbhir Àir",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10731",
+      "identifiers": [
+        {
+          "identifier": "Q806428",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Banff and Buchan",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Banff and Buchan (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Banff and Buchan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Banbh is Buchan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "班夫和布臣 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10732",
+      "identifiers": [
+        {
+          "identifier": "Q1026012",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Caithness, Sutherland and Easter Ross",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Caithness, Sutherland and Easter Ross (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Caithness, Sutherland and Easter Ross",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10733",
+      "identifiers": [
+        {
+          "identifier": "Q925833",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Carrick, Cumnock and Doon Valley",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Carrick, Cumnock and Doon Valley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Carraig, Cumnaig agus Srath Dhùn",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10734",
+      "identifiers": [
+        {
+          "identifier": "Q1053782",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Central Fife",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Central Fife (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Central Fife",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Meadhan Fhìobha",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10735",
+      "identifiers": [
+        {
+          "identifier": "Q1103746",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Clydebank and Milngavie",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Clydebank and Milngavie (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Clydebank and Milngavie",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10736",
+      "identifiers": [
+        {
+          "identifier": "Q1022403",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Clydesdale",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clydesdale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dail Chluaidh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10737",
+      "identifiers": [
+        {
+          "identifier": "Q1104440",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Coatbridge and Chryston",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Coatbridge and Chryston (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Coatbridge and Chryston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Coatbridge agus Chryston",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10738",
+      "identifiers": [
+        {
+          "identifier": "Q1143732",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cumbernauld and Kilsyth",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cumbernauld and Kilsyth (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cumbernauld and Kilsyth",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Comar nan Allt agus Cill Saidh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10739",
+      "identifiers": [
+        {
+          "identifier": "Q1144044",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cunninghame North",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cunninghame North (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cunninghame North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Coineagan a Tuath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10740",
+      "identifiers": [
+        {
+          "identifier": "Q1144052",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cunninghame South",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cunninghame South (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cunninghame South",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10741",
+      "identifiers": [
+        {
+          "identifier": "Q1719129",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dumbarton",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dumbarton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "敦巴頓 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ダンバートン",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10742",
+      "identifiers": [
+        {
+          "identifier": "Q1264977",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dumfries",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Dumfries (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dumfries",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10743",
+      "identifiers": [
+        {
+          "identifier": "Q1265537",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dundee East",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Dundee East (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dundee East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Dè an Ear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10744",
+      "identifiers": [
+        {
+          "identifier": "Q956266",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dundee West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dundee West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Dè an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10745",
+      "identifiers": [
+        {
+          "identifier": "Q1265629",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dunfermline East",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Dunfermline East (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dunfermline East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Phàrlain an Ear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10746",
+      "identifiers": [
+        {
+          "identifier": "Q1265627",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dunfermline West",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Dunfermline West (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dunfermline West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Phàrlain an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10747",
+      "identifiers": [
+        {
+          "identifier": "Q477746",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "East Kilbride",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "East Kilbride",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Cille Bhrìghde an Ear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10748",
+      "identifiers": [
+        {
+          "identifier": "Q1277940",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "East Lothian",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "East Lothian (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "East Lothian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Lodainn an Ear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10749",
+      "identifiers": [
+        {
+          "identifier": "Q1278307",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Eastwood",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Eastwood (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eastwood",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "A' Choille Shear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10750",
+      "identifiers": [
+        {
+          "identifier": "Q597563",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh Central",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Èideann Meadhain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "愛丁堡中 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10751",
+      "identifiers": [
+        {
+          "identifier": "Q1284726",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh East and Musselburgh",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Edinburgh East and Musselburgh (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Edinburgh East and Musselburgh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10752",
+      "identifiers": [
+        {
+          "identifier": "Q5338228",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh North and Leith",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh North and Leith",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10753",
+      "identifiers": [
+        {
+          "identifier": "Q1284757",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh Pentlands",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Edinburgh Pentlands (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Edinburgh Pentlands",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Èideann Pentlands",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10754",
+      "identifiers": [
+        {
+          "identifier": "Q1284766",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh South",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10755",
+      "identifiers": [
+        {
+          "identifier": "Q5338286",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh West",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10756",
+      "identifiers": [
+        {
+          "identifier": "Q1394345",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Falkirk East",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Falkirk East (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Falkirk East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "An Eaglais Bhreac an Ear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10757",
+      "identifiers": [
+        {
+          "identifier": "Q1394351",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Falkirk West",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Falkirk West (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Falkirk West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "An Eaglais Bhreac an Iar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "福爾柯克西 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10758",
+      "identifiers": [
+        {
+          "identifier": "Q1492557",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Galloway and Upper Nithsdale",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Galloway and Upper Nithsdale (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Galloway and Upper Nithsdale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Gall-Ghaidhealaibh agus Bràigh Nid",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10759",
+      "identifiers": [
+        {
+          "identifier": "Q1529483",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Anniesland",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Anniesland (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Anniesland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Fearann Anna",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10760",
+      "identifiers": [
+        {
+          "identifier": "Q1529489",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Baillieston",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Baillieston (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Baillieston",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10761",
+      "identifiers": [
+        {
+          "identifier": "Q1458360",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Cathcart",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Glasgow Cathcart",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Cathcart",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10762",
+      "identifiers": [
+        {
+          "identifier": "Q1529502",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Govan",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Govan (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Govan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu - Baile a' Ghobhainn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "格拉斯哥加文 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10763",
+      "identifiers": [
+        {
+          "identifier": "Q1529510",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Kelvin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Kelvin (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Kelvin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Ceilbhinn (Sgìre Phàrlamaid na h-Alba)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10764",
+      "identifiers": [
+        {
+          "identifier": "Q781509",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Maryhill",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Glasgow Maryhill",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10765",
+      "identifiers": [
+        {
+          "identifier": "Q1529523",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Pollok",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Pollok (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Pollok",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Pollaig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "格拉斯哥波洛克 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10766",
+      "identifiers": [
+        {
+          "identifier": "Q1529529",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Rutherglen",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Rutherglen (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Rutherglen",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10767",
+      "identifiers": [
+        {
+          "identifier": "Q1529535",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Shettleston",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Shettleston (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Shettleston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Baile Nighean Sheadna",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10768",
+      "identifiers": [
+        {
+          "identifier": "Q1529542",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Springburn",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Glasgow Springburn (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Glasgow Springburn",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10769",
+      "identifiers": [
+        {
+          "identifier": "Q1537951",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gordon",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Gordon (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gordon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Gòrdan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "戈登 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10770",
+      "identifiers": [
+        {
+          "identifier": "Q1544755",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Greenock and Inverclyde",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Greenock and Inverclyde (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Greenock and Inverclyde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Grianaig agus Inbhir Chluaidh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10771",
+      "identifiers": [
+        {
+          "identifier": "Q1573509",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hamilton North and Bellshill",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Hamilton North and Bellshill (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hamilton North and Bellshill",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10772",
+      "identifiers": [
+        {
+          "identifier": "Q1573521",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hamilton South",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Hamilton South (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hamilton South",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10773",
+      "identifiers": [
+        {
+          "identifier": "Q1671714",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Inverness East, Nairn and Lochaber",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Inverness East, Nairn and Lochaber (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Inverness East, Nairn and Lochaber",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Inbhir Nis an Ear, Inbhir Narann agus Loch Abar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10774",
+      "identifiers": [
+        {
+          "identifier": "Q1283466",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kilmarnock and Loudoun",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kilmarnock and Loudoun",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10775",
+      "identifiers": [
+        {
+          "identifier": "Q1392204",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kirkcaldy",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kirkcaldy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Cair Chaladain",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10776",
+      "identifiers": [
+        {
+          "identifier": "Q1569402",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Linlithgow",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Linlithgow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "林利斯戈 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10777",
+      "identifiers": [
+        {
+          "identifier": "Q519563",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Livingston",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Livingston",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10778",
+      "identifiers": [
+        {
+          "identifier": "Q1932003",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Midlothian",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Midlothian (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Midlothian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Lodainn Mheadhanach",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10779",
+      "identifiers": [
+        {
+          "identifier": "Q1799307",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Moray",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Moray",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Moireabh",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10780",
+      "identifiers": [
+        {
+          "identifier": "Q1949654",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Motherwell and Wishaw",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Motherwell and Wishaw (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Motherwell and Wishaw",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Tobar na Màthar is Wishaw",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10781",
+      "identifiers": [
+        {
+          "identifier": "Q914974",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "North East Fife",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "North East Fife",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Fìobh an Ear-Thuath",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東北法夫 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "東北法夫 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "东北法夫 (苏格兰议会选区)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10782",
+      "identifiers": [
+        {
+          "identifier": "Q2000826",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "North Tayside",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "North Tayside (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "North Tayside",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Taobh Tatha a Tuath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10783",
+      "identifiers": [
+        {
+          "identifier": "Q2013461",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ochil",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ochil",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Ochail",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10784",
+      "identifiers": [
+        {
+          "identifier": "Q1248274",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Orkney Islands",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Orkney",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Arcaibh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "奧克尼群島",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10785",
+      "identifiers": [
+        {
+          "identifier": "Q2046526",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Paisley North",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Paisley North (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paisley North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàislig a Tuath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10786",
+      "identifiers": [
+        {
+          "identifier": "Q1535300",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Paisley South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Paisley South",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10787",
+      "identifiers": [
+        {
+          "identifier": "Q2072556",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Perth",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Perth",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Peairt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Перт",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10788",
+      "identifiers": [
+        {
+          "identifier": "Q976545",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ross, Skye and Inverness West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ross, Skye and Inverness West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Ros, an t-Eilean Sgitheanach is Inbhir Nis an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10789",
+      "identifiers": [
+        {
+          "identifier": "Q2170724",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Roxburgh and Berwickshire",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Roxburgh and Berwickshire (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Roxburgh and Berwickshire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Rosbrog is Siorrachd Bearaig",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10790",
+      "identifiers": [
+        {
+          "identifier": "Q2278508",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Shetland Islands",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Shetland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Sealtainn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シェトランド",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шетланд",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10791",
+      "identifiers": [
+        {
+          "identifier": "Q2350325",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Stirling",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Stirling (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stirling",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "スターリング",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10792",
+      "identifiers": [
+        {
+          "identifier": "Q2353886",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Strathkelvin and Bearsden",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Strathkelvin and Bearsden (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Strathkelvin and Bearsden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Srath Chelbhinn agus Bearsden",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10793",
+      "identifiers": [
+        {
+          "identifier": "Q2462129",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tweeddale, Ettrick and Lauderdale",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tweeddale, Ettrick and Lauderdale (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tweeddale, Ettrick and Lauderdale",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10794",
+      "identifiers": [
+        {
+          "identifier": "Q1422051",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "West Aberdeenshire and Kincardine",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "West Aberdeenshire and Kincardine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Obar Dheathain an Iar agus Ceann Chàrdainn",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10795",
+      "identifiers": [
+        {
+          "identifier": "Q1961874",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Western Isles",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Na h-Eileanan an Iar (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Na h-Eileanan an Iar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Na h-Eileanan an Iar (sgìre Phàrlamaid na h-Alba)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10796",
+      "identifiers": [
+        {
+          "identifier": "Q2564346",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "West Renfrewshire",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "West Renfrewshire (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "West Renfrewshire",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10797",
+      "identifiers": [
+        {
+          "identifier": "Q319480",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aberdeen Donside",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aberdeen Donside",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Obar Dheathain Oir Dheathain",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10798",
+      "identifiers": [
+        {
+          "identifier": "Q319507",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aberdeen South and North Kincardine",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aberdeen South and North Kincardine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Obar Dheathain a Deas agus Ceann Chàrdainn a Tuath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10799",
+      "identifiers": [
+        {
+          "identifier": "Q319516",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aberdeenshire East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aberdeenshire East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Obar Dheathain an Ear",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿伯丁郡東 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10800",
+      "identifiers": [
+        {
+          "identifier": "Q319521",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aberdeenshire West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aberdeenshire West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Obar Dheathain an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10801",
+      "identifiers": [
+        {
+          "identifier": "Q1589906",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Almond Valley",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Almond Valley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Srath Amain",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10802",
+      "identifiers": [
+        {
+          "identifier": "Q544582",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Angus North and Mearns",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Angus North and Mearns",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Aonghas a Tuath agus a' Mhaoirne",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10803",
+      "identifiers": [
+        {
+          "identifier": "Q544610",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Angus South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Angus South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Aonghas a Deas",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10804",
+      "identifiers": [
+        {
+          "identifier": "Q806431",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Banffshire and Buchan Coast",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Banffshire and Buchan Coast",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Bhanbh is Costa Bhuchan",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10805",
+      "identifiers": [
+        {
+          "identifier": "Q1026011",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Caithness, Sutherland and Ross",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Caithness, Sutherland and Ross",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Gallaibh, Cataibh is Ros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ケイスネス、サザランド及びイースター・ロス",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10806",
+      "identifiers": [
+        {
+          "identifier": "Q1094628",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Clackmannanshire and Dunblane",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clackmannanshire and Dunblane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Chlach Mhanann agus Dùn Blàthain)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10807",
+      "identifiers": [
+        {
+          "identifier": "Q1138189",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cowdenbeath",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cowdenbeath (Wahlkreis)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cowdenbeath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10808",
+      "identifiers": [
+        {
+          "identifier": "Q287509",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dumfriesshire",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dumfriesshire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Dhùn Phris",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10809",
+      "identifiers": [
+        {
+          "identifier": "Q1265528",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dundee City East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dundee City East",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Baile Dhùn Dè an Ear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10810",
+      "identifiers": [
+        {
+          "identifier": "Q1265524",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dundee City West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dundee City West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Baile Dhùn Dè an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10811",
+      "identifiers": [
+        {
+          "identifier": "Q1265614",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dunfermline",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Dunfermline (Wahlkreis)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dunfermline",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10812",
+      "identifiers": [
+        {
+          "identifier": "Q1284729",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh Eastern",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh Eastern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Èideann an Ear",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10813",
+      "identifiers": [
+        {
+          "identifier": "Q1284756",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh Northern and Leith",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh Northern and Leith",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10814",
+      "identifiers": [
+        {
+          "identifier": "Q5338259",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh Southern",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh Southern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Èideann a Deas",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10815",
+      "identifiers": [
+        {
+          "identifier": "Q1284768",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Edinburgh Western",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edinburgh Western",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Dùn Èideann an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -26682,112 +28757,548 @@
     },
     {
       "id": "uk.org.publicwhip/cons/10817",
+      "identifiers": [
+        {
+          "identifier": "Q1371899",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ettrick, Roxburgh and Berwickshire",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ettrick, Roxburgh and Berwickshire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Eadraig, Rosbrog agus Siorrachd Bhearaig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エトリック＝ロクスバラ＝バーウィックシャー",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10818",
+      "identifiers": [
+        {
+          "identifier": "Q1492567",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Galloway and West Dumfries",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Galloway and West Dumfries",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Gall-Ghàidhealaibh agus Dùn Phris an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10819",
+      "identifiers": [
+        {
+          "identifier": "Q1529515",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Maryhill and Springburn",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Glasgow Maryhill and Springburn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Cnoc Màiri agus Allt an Fhuarain",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10820",
+      "identifiers": [
+        {
+          "identifier": "Q1529525",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Provan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Glasgow Provan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Provan",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10821",
+      "identifiers": [
+        {
+          "identifier": "Q178524",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Glasgow Southside",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Glasgow Southside",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Glaschu Taobh a Deas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "格拉斯哥南 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "格拉斯哥南區 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "格拉斯哥南区 (苏格兰议会选区)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10822",
+      "identifiers": [
+        {
+          "identifier": "Q1573419",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hamilton, Larkhall and Stonehouse",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hamilton, Larkhall and Stonehouse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Hamilton, Taigh na h-Uiseig agus an Taigh Cloiche",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10823",
+      "identifiers": [
+        {
+          "identifier": "Q1396337",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Inverness and Nairn",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Inverness and Nairn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Inbhir Nis is Inbhir Narann",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10824",
+      "identifiers": [
+        {
+          "identifier": "Q1741403",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kilmarnock and Irvine Valley",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kilmarnock and Irvine Valley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Cille Mhearnaig agus Srath Irbhinn",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10825",
+      "identifiers": [
+        {
+          "identifier": "Q999244",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mid Fife and Glenrothes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mid Fife and Glenrothes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Fìobh Meadhanach agus Gleann Rathais",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10826",
+      "identifiers": [
+        {
+          "identifier": "Q1932000",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Midlothian North and Musselburgh",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Midlothian North and Musselburgh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Lodainn Mheadhanach a Tuath agus Baile nam Feusgan",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10827",
+      "identifiers": [
+        {
+          "identifier": "Q1931997",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Midlothian South, Tweeddale and Lauderdale",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Midlothian South, Tweeddale and Lauderdale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Lodainn Mheadhanach a Deas, Srath Thuaidh agus Srath Labhdair",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10828",
+      "identifiers": [
+        {
+          "identifier": "Q2046519",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Paisley",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Paisley (Wahlkreis, Schottland)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paisley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàislig",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10829",
+      "identifiers": [
+        {
+          "identifier": "Q124813",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Perthshire North",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Perthshire North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Pheairt a Tuath",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10830",
+      "identifiers": [
+        {
+          "identifier": "Q1512696",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Perthshire South and Kinross-shire",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Perthshire South and Kinross-shire",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10831",
+      "identifiers": [
+        {
+          "identifier": "Q959590",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Renfrewshire North and West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Renfrewshire North and West",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Rinn Friù a Tuath agus an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10832",
+      "identifiers": [
+        {
+          "identifier": "Q2143939",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Renfrewshire South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Renfrewshire South",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Siorrachd Rinn Friù a Deas",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10833",
+      "identifiers": [
+        {
+          "identifier": "Q2177847",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rutherglen",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rutherglen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "An Ruadh-ghleann",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10834",
+      "identifiers": [
+        {
+          "identifier": "Q2293327",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Skye, Lochaber and Badenoch",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Skye, Lochaber and Badenoch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "An t-Eilean Sgitheanach, Loch Abar agus Bàideanach",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10835",
+      "identifiers": [
+        {
+          "identifier": "Q1623093",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Uddingston and Bellshill",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Uddingston and Bellshill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Uddingston agus Bellshill",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10836",
+      "identifiers": [
+        {
+          "identifier": "Q1871077",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Lothian",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Lothian (Wahlregion)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lothian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Lodainn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "洛錫安 (蘇格蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10837",
+      "identifiers": [
+        {
+          "identifier": "Q1749544",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "South Scotland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "South Scotland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Écosse du sud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Alba a Deas",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "uk.org.publicwhip/cons/10838",
+      "identifiers": [
+        {
+          "identifier": "Q2564353",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "West Scotland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "West Scotland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Écosse de l'ouest",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Alba an Iar",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
