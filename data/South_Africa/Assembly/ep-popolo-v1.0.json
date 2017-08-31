@@ -7107,12 +7107,17 @@
       ],
       "email": "pjgr@vodamail.co.za",
       "gender": "male",
+      "given_name": "Pieter",
       "honorific_prefix": "Dr",
       "id": "8d1f884a-721d-4183-8b43-fd2a1601aa3d",
       "identifiers": [
         {
           "identifier": "petrus-johannes-groenewald",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11816850",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/74/d5/74d5cd385284f389a0d4a16067a778ca.jpg",
@@ -7121,7 +7126,28 @@
           "url": "http://www.pa.org.za/media_root/cache/74/d5/74d5cd385284f389a0d4a16067a778ca.jpg"
         }
       ],
-      "name": "Petrus Johannes Groenewald"
+      "links": [
+        {
+          "note": "Wikipedia (afwikiquote)",
+          "url": "https://afwikiquote.wikipedia.org/wiki/Pieter_Groenewald"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pieter_Groenewald"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Pieter_Groenewald"
+        }
+      ],
+      "name": "Petrus Johannes Groenewald",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Pieter Groenewald",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
