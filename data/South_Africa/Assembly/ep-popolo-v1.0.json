@@ -3888,6 +3888,10 @@
         {
           "identifier": "makhosi-busisiwe-khoza",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q37993392",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/d5/32/d532715c96dd5a8f1e46e43c12eed58d.jpg",
@@ -3896,7 +3900,20 @@
           "url": "http://www.pa.org.za/media_root/cache/d5/32/d532715c96dd5a8f1e46e43c12eed58d.jpg"
         }
       ],
-      "name": "Makhosi Busisiwe Khoza"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Makhosi_Khoza"
+        }
+      ],
+      "name": "Makhosi Busisiwe Khoza",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Makhosi Khoza",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
