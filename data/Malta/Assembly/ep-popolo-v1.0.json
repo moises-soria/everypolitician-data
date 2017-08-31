@@ -733,21 +733,61 @@
         }
       ],
       "email": "manuel.mallia@gov.mt",
+      "family_name": "Mallia",
       "gender": "male",
+      "given_name": "Emanuel",
       "id": "4fbea3cf-ce49-425f-9f99-44cfc18f4f49",
       "identifiers": [
         {
           "identifier": "mallia-emmanuel",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5373281",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.mt/file.aspx?f=31725",
       "images": [
         {
           "url": "http://www.parlament.mt/file.aspx?f=31725"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Minister_Dr._Emmanuel_Mallia.jpg"
         }
       ],
-      "name": "Emmanuel Mallia"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emmanuel_Mallia"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Mallia"
+        },
+        {
+          "note": "Wikipedia (mt)",
+          "url": "https://mt.wikipedia.org/wiki/Emanuel_Mallia"
+        }
+      ],
+      "name": "Emmanuel Mallia",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Manuel Mallia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Emanuel Mallia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
