@@ -4,19 +4,6 @@
   ],
   "persons": [
     {
-      "id": "02c031ba-10b5-487a-82bd-365021b72aeb",
-      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/Jeff%20Baron%20resized.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/Jeff%20Baron%20resized.jpg"
-        },
-        {
-          "url": "https://elections.gov.bm/images/party/JEFF-BARON-OBA.jpg"
-        }
-      ],
-      "name": "Jeff Baron"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -187,8 +174,11 @@
     },
     {
       "id": "26605f25-62ee-494c-aff4-81d49db845dd",
-      "image": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg",
+      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Wayne%20Caines%20resized.jpg",
       "images": [
+        {
+          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Wayne%20Caines%20resized.jpg"
+        },
         {
           "url": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg"
         }
@@ -833,26 +823,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "rming@parliament.bm"
-        }
-      ],
-      "email": "rming@parliament.bm",
-      "id": "87cc66e4-a588-402c-b8a1-40ff7e0f1159",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/Senate_Picture/Mrs.%20Renne%20Ming.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/Senate_Picture/Mrs.%20Renne%20Ming.jpg"
-        },
-        {
-          "url": "https://elections.gov.bm/images/party/RENEE-MING-PLP.jpg"
-        }
-      ],
-      "name": "Renee Ming"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "lwscott@parliament.bm"
         }
       ],
@@ -1121,6 +1091,16 @@
       "name": "Mark Pettingill"
     },
     {
+      "id": "c054ff1b-91c3-4fd7-b5fc-c2b1bfbd3960",
+      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Tinee%20Furbert.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Tinee%20Furbert.jpg"
+        }
+      ],
+      "name": "Tinee Furbert"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1179,6 +1159,23 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rming@parliament.bm"
+        }
+      ],
+      "email": "rming@parliament.bm",
+      "id": "d3475019-37ee-41f5-ba05-f3148fb9c4f3",
+      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/Senate_Picture/Mrs.%20Renne%20Ming.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/Senate_Picture/Mrs.%20Renne%20Ming.jpg"
+        }
+      ],
+      "name": "Renee Ming"
     },
     {
       "gender": "male",
@@ -1306,17 +1303,14 @@
       "name": "Trevor Moniz"
     },
     {
-      "id": "efe3c392-7d6d-434d-8129-c8979a21bb58",
-      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/7231HOA%20SenatorTineeFurbertGT34.jpg",
+      "id": "eed74cde-6194-4806-9ddb-623b3df54d6d",
+      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/Jeff%20Baron%20resized.jpg",
       "images": [
         {
-          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/7231HOA%20SenatorTineeFurbertGT34.jpg"
-        },
-        {
-          "url": "https://elections.gov.bm/images/party/TINEE-FURBERT-PLP.jpg"
+          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/Jeff%20Baron%20resized.jpg"
         }
       ],
-      "name": "Tinee Furbert"
+      "name": "Jeff Baron"
     }
   ],
   "organizations": [
@@ -2318,19 +2312,6 @@
   },
   "memberships": [
     {
-      "area_id": "25",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "OBA",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "02c031ba-10b5-487a-82bd-365021b72aeb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Jeff_Baron.aspx"
-        }
-      ]
-    },
-    {
       "area_id": "33",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
@@ -2876,19 +2857,6 @@
       ]
     },
     {
-      "area_id": "01",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "87cc66e4-a588-402c-b8a1-40ff7e0f1159",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Renee_Ming.aspx"
-        }
-      ]
-    },
-    {
       "area_id": "24",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
@@ -3037,7 +3005,12 @@
       "on_behalf_of_id": "PLP",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
       "person_id": "ac1d407c-723d-452e-838a-21133b3709a8",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Christopher_Famous.aspx"
+        }
+      ]
     },
     {
       "area_id": "34",
@@ -3118,145 +3091,171 @@
       ]
     },
     {
-      "area_id": "03",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "cceb16f2-0596-4908-a9e3-bd8bf12ac8c5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Lavita_Foggo.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "03",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "cceb16f2-0596-4908-a9e3-bd8bf12ac8c5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Lavita_Foggo.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "08",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "OBA",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "d1daf36a-d8c4-4b5e-a422-f22c4d8241e1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Cole_Simons.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "08",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "OBA",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "d1daf36a-d8c4-4b5e-a422-f22c4d8241e1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Cole_Simons.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "26",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Mr_Neville_Tyrrell.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "26",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Mr_Neville_Tyrrell.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "12",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "OBA",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "da919d3c-7428-4060-8210-3f891d64a165",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Craig_Cannonier.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "12",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "OBA",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "da919d3c-7428-4060-8210-3f891d64a165",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Craig_Cannonier.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "09",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "OBA",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Trevor_Moniz.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "09",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "OBA",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Trevor_Moniz.aspx"
-        }
-      ]
-    },
-    {
       "area_id": "04",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "PLP",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "efe3c392-7d6d-434d-8129-c8979a21bb58",
+      "person_id": "c054ff1b-91c3-4fd7-b5fc-c2b1bfbd3960",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.parliament.bm/Tinee_Furbert.aspx"
+          "url": "http://www.parliament.bm/Tinee_Furbert_MP.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "03",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "PLP",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "cceb16f2-0596-4908-a9e3-bd8bf12ac8c5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Lavita_Foggo.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "03",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "PLP",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "cceb16f2-0596-4908-a9e3-bd8bf12ac8c5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Lavita_Foggo.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "08",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "d1daf36a-d8c4-4b5e-a422-f22c4d8241e1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Cole_Simons.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "08",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "d1daf36a-d8c4-4b5e-a422-f22c4d8241e1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Cole_Simons.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "01",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "PLP",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "d3475019-37ee-41f5-ba05-f3148fb9c4f3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Renee_Ming_MP.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "26",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "PLP",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Mr_Neville_Tyrrell.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "26",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "PLP",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Mr_Neville_Tyrrell.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "12",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "da919d3c-7428-4060-8210-3f891d64a165",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Craig_Cannonier.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "12",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "da919d3c-7428-4060-8210-3f891d64a165",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Craig_Cannonier.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "09",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Trevor_Moniz.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "09",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Trevor_Moniz.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "25",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "eed74cde-6194-4806-9ddb-623b3df54d6d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.bm/Jeff_Baron_MP_.aspx"
         }
       ]
     }
