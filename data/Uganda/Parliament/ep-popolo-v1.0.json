@@ -1652,6 +1652,7 @@
       "sort_name": "Banyenzaki, Henry"
     },
     {
+      "birth_date": "1960-01-01",
       "contact_details": [
         {
           "type": "phone",
@@ -1659,14 +1660,37 @@
         }
       ],
       "gender": "male",
+      "given_name": "Ivan",
       "id": "119064c8-9e60-47fb-a672-e62dd980993d",
+      "identifiers": [
+        {
+          "identifier": "Q6096678",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/KORETA%20IVAN%20(LT.%20GEN).jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/KORETA%20IVAN%20(LT.%20GEN).jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ivan_Koreta_Atlas_Drop_11,_Soroti,_Uganda,_April_2011.jpg"
         }
       ],
-      "name": "Lt. Gen. Ivan Koreta"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Koreta"
+        }
+      ],
+      "name": "Lt. Gen. Ivan Koreta",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivan Koreta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
