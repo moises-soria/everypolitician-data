@@ -1454,14 +1454,23 @@
           "value": "dragomirkaric"
         }
       ],
+      "gender": "male",
       "id": "278ffb5a-bae5-43fc-a687-ba48143d5b15",
       "identifiers": [
         {
           "identifier": "609",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q37973221",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dragomir_Karić"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/dragomir.karic"
@@ -1472,6 +1481,13 @@
         }
       ],
       "name": "DRAGOMIR KARIC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dragomir Karić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DRAGOMIR KARIC"
     },
     {
@@ -7445,7 +7461,7 @@
       "sort_name": "BÁLINT PÁSZTOR"
     },
     {
-      "birth_date": "1975",
+      "birth_date": "1975-09-19",
       "contact_details": [
         {
           "type": "twitter",
@@ -7453,14 +7469,31 @@
         }
       ],
       "gender": "male",
+      "given_name": "Ivan",
       "id": "cf77dcb1-b502-4a77-98b7-592b3ca312f7",
       "identifiers": [
         {
           "identifier": "572",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q15733587",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Karić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ivan_Karić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ivan_Karić"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/ivan.karic.773"
@@ -7471,18 +7504,76 @@
         }
       ],
       "name": "IVAN KARIC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivan Karić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "IVAN KARIC"
     },
     {
-      "birth_date": "1982",
+      "birth_date": "1982-09-02",
+      "gender": "female",
+      "given_name": "Aleksandra",
       "id": "d066cb15-9a36-4cf9-8a91-dbde35aed7dc",
       "identifiers": [
         {
           "identifier": "336",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12748249",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Aleksandra_Jerkov.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Aleksandra_Jerkov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aleksandra_Jerkov"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aleksandra_Jerkov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Aleksandra_Jerkov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ерков,_Александра"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Александра_Јерков"
         }
       ],
       "name": "ALEKSANDRA MA JERKOV",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aleksandra Jerkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ерков, Александра",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Александра Јерков",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ALEKSANDRA MA JERKOV"
     },
     {
@@ -8342,16 +8433,50 @@
       "sort_name": "IGOR MA BECIC"
     },
     {
-      "birth_date": "1975",
+      "birth_date": "1975-11-02",
       "gender": "male",
+      "given_name": "Aleksandar",
       "id": "eabf8c75-bd2b-49a3-992b-5faf79d7c239",
       "identifiers": [
         {
           "identifier": "440",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 4509 0178",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "78533547",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q15710913",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aleksandar_Jugović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Aleksandar_Jugović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Aleksandar_Jugović"
         }
       ],
       "name": "ALEKSANDAR JUGOVIC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aleksandar Jugović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ALEKSANDAR JUGOVIC"
     },
     {
