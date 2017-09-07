@@ -2509,14 +2509,38 @@
     },
     {
       "birth_date": "1964-08-21",
+      "gender": "male",
       "id": "8470eafb-bbff-4c1b-822f-d0884e7ca817",
+      "identifiers": [
+        {
+          "identifier": "Q27063175",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/DSC_2598.jpg?itok=EclZTQms",
       "images": [
         {
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/DSC_2598.jpg?itok=EclZTQms"
         }
       ],
-      "name": "Chama Davies"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Chama_Davies"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Davies_Chama"
+        }
+      ],
+      "name": "Chama Davies",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Davies Chama",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-04-12",
@@ -2723,11 +2747,28 @@
         }
       ],
       "email": "bmushimba@parliament.gov.zm",
+      "gender": "male",
       "id": "8f870544-ae5f-48cd-99a1-b3c3faef15bb",
+      "identifiers": [
+        {
+          "identifier": "Q27662555",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Brian%20Mushimba.jpeg?itok=weKal40A",
       "images": [
         {
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Brian%20Mushimba.jpeg?itok=weKal40A"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Brian_Mushimba"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Brian_Mushimba"
         }
       ],
       "name": "Brian Mushimba"
@@ -3569,8 +3610,28 @@
     },
     {
       "birth_date": "1957-12-10",
+      "gender": "female",
       "id": "b24a1628-f4ce-4891-8d75-f603c616a76a",
-      "name": "Joyce Nonde Simukoko"
+      "identifiers": [
+        {
+          "identifier": "Q27063131",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joyce_Nonde-Simukoko"
+        }
+      ],
+      "name": "Joyce Nonde Simukoko",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joyce Nonde-Simukoko",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1994-03-19",
@@ -4170,14 +4231,38 @@
     },
     {
       "birth_date": "1957-05-26",
+      "gender": "male",
       "id": "d3074b5b-e19d-422f-850c-23ca22ae2aca",
+      "identifiers": [
+        {
+          "identifier": "Q27063686",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon%20G%20N%20Sumaili.JPG?itok=ZXDX-ORI",
       "images": [
         {
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon%20G%20N%20Sumaili.JPG?itok=ZXDX-ORI"
         }
       ],
-      "name": "Godfridah Nsenduluka Sumaili"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Godfridah_Nsenduluka_Sumaili"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Godfridah_Sumaili"
+        }
+      ],
+      "name": "Godfridah Nsenduluka Sumaili",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Godfridah Sumaili",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-04-21",
