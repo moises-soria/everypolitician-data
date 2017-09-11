@@ -929,10 +929,15 @@
       "sort_name": "Cervera Soto, Santiago"
     },
     {
+      "birth_date": "1977-01-28",
       "contact_details": [
         {
           "type": "email",
           "value": "celia.alberto@congreso.es"
+        },
+        {
+          "type": "twitter",
+          "value": "AlbertoCelia"
         }
       ],
       "email": "celia.alberto@congreso.es",
@@ -944,6 +949,24 @@
         {
           "identifier": "173",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27919572",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Celia_Alberto_Pérez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Celia_Alberto_Pérez"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlbertoCelia"
         }
       ],
       "name": "Celia Alberto",
@@ -951,6 +974,25 @@
         {
           "name": "Celia Alberto Pérez",
           "note": "alternate"
+        },
+        {
+          "name": "Celia Alberto Pérez",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Celia Alberto Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Celia Alberto Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Celia Alberto Pérez",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Alberto Pérez, Celia"
@@ -1861,13 +1903,41 @@
       "gender": "male",
       "given_name": "Íñigo",
       "id": "0d75093f-535d-4b9a-a891-14488c0ee91d",
+      "identifiers": [
+        {
+          "identifier": "Q27755741",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/118_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/118_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Íñigo_Barandiaran_Benito"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Iñigo_Barandiaran_Benito"
+        }
+      ],
       "name": "Íñigo Barandiaran Benito",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Iñigo Barandiaran Benito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Iñigo Barandiaran Benito",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Barandiaran Benito, Íñigo"
     },
     {
@@ -7197,12 +7267,30 @@
         {
           "identifier": "18",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21001117",
+          "scheme": "wikidata"
         }
       ],
-      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/29_11.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Isabel_Borrego,_Secretary_of_State_for_Tourism,_Spain_(17165066792).jpg",
       "images": [
         {
-          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/29_11.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Isabel_Borrego,_Secretary_of_State_for_Tourism,_Spain_(17165066792).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Isabel_Borrego_Cortés"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Isabel_María_Borrego_Cortés"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Isabel_Borrego"
         }
       ],
       "name": "Isabel María Borrego",
@@ -7214,6 +7302,20 @@
         {
           "name": "Isabel María Borrego Cortés",
           "note": "alternate"
+        },
+        {
+          "name": "Isabel María Borrego Cortés",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Isabel Borrego Cortés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Isabel María Borrego Cortés",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Borrego Cortés, Isabel María"
@@ -7666,6 +7768,10 @@
         {
           "identifier": "214",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755530",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/52_11.jpg",
@@ -7674,8 +7780,26 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/52_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Concepción_de_Santa_Ana"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Concepción_de_Santa_Ana"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Concepción_de_Santa_Ana"
+        }
+      ],
       "name": "María de la Concepción de Santa",
       "other_names": [
+        {
+          "name": "Concepción de Santa Ana",
+          "note": "alternate"
+        },
         {
           "name": "María de la Concepción de Santa Ana Fernández",
           "note": "alternate"
@@ -7683,6 +7807,16 @@
         {
           "name": "María de la Concepción de Santa Ana Fernández",
           "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Concepción de Santa Ana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Concepción de Santa Ana",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Santa Ana Fernández, María de la Concepción de"
@@ -10284,6 +10418,10 @@
         {
           "identifier": "120",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755777",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/529248900431872000/qtCXsN8f.jpeg",
@@ -10294,6 +10432,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_Jesús_Bonilla_Domínguez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Jesús_Bonilla_Domínguez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/María_Jesús_Bonilla_Domínguez"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Mbonilladomingu"
         }
@@ -10301,12 +10451,9 @@
       "name": "María Jesús Bonilla",
       "other_names": [
         {
+          "lang": "en",
           "name": "María Jesús Bonilla Domínguez",
-          "note": "alternate"
-        },
-        {
-          "name": "María Jesús Bonilla Domínguez",
-          "note": "alternate"
+          "note": "multilingual"
         }
       ],
       "sort_name": "Bonilla Domínguez, María Jesús"
@@ -21146,6 +21293,12 @@
       "gender": "female",
       "given_name": "Pilar",
       "id": "91866180-2234-4630-a3d0-ff7f9272ae7c",
+      "identifiers": [
+        {
+          "identifier": "Q25509804",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/172_11.jpg",
       "images": [
         {
@@ -21157,6 +21310,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pilar_Cancela_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pilar_Cancela"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Pilar_Cancela"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/pilar.cancelarodriguez"
         },
@@ -21166,6 +21331,18 @@
         }
       ],
       "name": "Pilar Cancela Rodríguez",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Pilar Cancela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Pilar Cancela",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Cancela Rodríguez, Pilar"
     },
     {
@@ -26213,6 +26390,10 @@
         {
           "identifier": "250",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27756120",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/217_11.jpg",
@@ -26222,6 +26403,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_Luz_Bajo_Prieto"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Luz_Bajo_Prieto"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/María_Luz_Bajo_Prieto"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/belen.bajo"
@@ -26236,6 +26429,25 @@
         {
           "name": "María Luz Bajo Prieto",
           "note": "alternate"
+        },
+        {
+          "name": "María Luz Bajo Prieto",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "María Luz Bajo Prieto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Luz Bajo Prieto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Luz Bajo Prieto",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Bajo Prieto, María Luz"
@@ -27237,6 +27449,7 @@
       "sort_name": "Sánchez de Alcázar Ocaña, Miguel"
     },
     {
+      "birth_date": "1975-01-27",
       "contact_details": [
         {
           "type": "email",
@@ -27256,6 +27469,10 @@
         {
           "identifier": "211",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12382952",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/786290919666487297/8wCfFNcJ.jpg",
@@ -27265,6 +27482,22 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Ana_Belén_Vázquez_Blanco"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ana_Belén_Vázquez_Blanco"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ana_Belén_Vázquez_Blanco"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Ana_Belén_Vázquez"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/anadebande"
@@ -35933,6 +36166,12 @@
       "gender": "female",
       "given_name": "Silvia",
       "id": "ee218b04-ba5d-4ec9-901e-8f6c6f12cc99",
+      "identifiers": [
+        {
+          "identifier": "Q27755785",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/15_11.jpg",
       "images": [
         {
@@ -35944,11 +36183,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Silvia_Valmaña_Ochaíta"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Silvia_Valmaña_Ochaíta"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Silvia_Valmaña_Ochaita"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/svalmana"
         }
       ],
       "name": "Silvia Valmaña Ochaíta",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Silvia Valmaña Ochaita",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Silvia Valmaña Ochaita",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Valmaña Ochaíta, Silvia"
     },
     {
@@ -37838,6 +38101,10 @@
         {
           "identifier": "172",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755663",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/868233111791960064/jY_czAub.jpg",
@@ -37847,6 +38114,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Matilde_Pastora_Asian_González"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Matilde_Pastora_Asian_González"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Matilde_Asian"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/MatildeAsian"
@@ -37861,6 +38140,30 @@
         {
           "name": "Matilde Pastora Asian González",
           "note": "alternate"
+        },
+        {
+          "name": "Matilde Pastora Asian González",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Matilde Pastora Asian González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Matilde Pastora Asian González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Matilde Pastora Asian González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Matilde Pastora Asian González",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Asian González, Matilde Pastora"
