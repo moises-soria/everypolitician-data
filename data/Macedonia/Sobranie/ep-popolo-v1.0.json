@@ -268,12 +268,17 @@
       ]
     },
     {
+      "birth_date": "1970",
       "gender": "female",
       "id": "0adb2b9d-b081-4165-9435-2fcb05d04fe2",
       "identifiers": [
         {
           "identifier": "selvije-saliu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q39250871",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg",
@@ -282,7 +287,20 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg"
         }
       ],
-      "name": "Selvije Saliu"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Selvie_Saliu"
+        }
+      ],
+      "name": "Selvije Saliu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Selvie Saliu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-10-28",
