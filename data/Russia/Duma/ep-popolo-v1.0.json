@@ -33940,12 +33940,17 @@
       ]
     },
     {
+      "death_date": "2017-09-05",
       "gender": "female",
       "id": "d33d429c-1f76-4291-bdb3-f7d6f98d75ad",
       "identifiers": [
         {
           "identifier": "131137",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q39040624",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/dd0/dd08ce09569a8c61e91daf9db6237914.jpg",
@@ -33954,7 +33959,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/dd0/dd08ce09569a8c61e91daf9db6237914.jpg"
         }
       ],
-      "name": "Назарова Марина Юрьевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Назарова,_Марина_Юрьевна"
+        }
+      ],
+      "name": "Назарова Марина Юрьевна",
+      "other_names": [
+        {
+          "name": "Назарова, Марина Юрьевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Назарова, Марина Юрьевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-08-18",
