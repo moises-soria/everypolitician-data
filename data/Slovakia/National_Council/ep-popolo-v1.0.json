@@ -8634,10 +8634,22 @@
       "family_name": "Uhrík",
       "given_name": "Milan",
       "id": "4c355a2f-212e-41f2-a4e6-28d7f3fda3e9",
+      "identifiers": [
+        {
+          "identifier": "Q38655134",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=947&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=947&ImageWidth=140"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Milan_Uhrík"
         }
       ],
       "name": "Milan Uhrík"
