@@ -1636,6 +1636,10 @@
         {
           "identifier": "356",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q39082296",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.kenesh.kg/MyFiles/image/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C_%20%D0%90_.jpg",
@@ -1644,11 +1648,26 @@
           "url": "http://www.kenesh.kg/MyFiles/image/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C_%20%D0%90_.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Султанов,_Марат_Абдыразакович"
+        }
+      ],
       "name": "SULTANOV Marat Abdyrazakovich",
       "other_names": [
         {
+          "name": "Султанов, Марат Абдыразакович",
+          "note": "alternate"
+        },
+        {
           "lang": "ru",
           "name": "СУЛТАНОВ Марат Абдыразакович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Султанов, Марат Абдыразакович",
           "note": "multilingual"
         }
       ]
