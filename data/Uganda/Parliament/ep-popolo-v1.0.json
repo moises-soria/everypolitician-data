@@ -8006,7 +8006,26 @@
     {
       "gender": "male",
       "id": "5a3b08e7-6341-4be6-83e1-d4af981386ee",
-      "name": "Andrew Kaluya Kiiza"
+      "identifiers": [
+        {
+          "identifier": "Q38587500",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Kaluya"
+        }
+      ],
+      "name": "Andrew Kaluya Kiiza",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Andrew Kaluya",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-04-10",
@@ -15099,13 +15118,32 @@
       ],
       "gender": "male",
       "id": "a8df37e8-dd05-4330-b746-9da935f5e8d6",
+      "identifiers": [
+        {
+          "identifier": "Q39073765",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Mulindwa.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Mulindwa.jpg"
         }
       ],
-      "name": "Isaac Mulindwa Sozi"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Isaac_Mulindwa_(politician)"
+        }
+      ],
+      "name": "Isaac Mulindwa Sozi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Isaac Mulindwa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-07-11",
