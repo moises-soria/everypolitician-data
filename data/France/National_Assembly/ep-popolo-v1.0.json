@@ -17571,18 +17571,38 @@
     },
     {
       "birth_date": "1940-10-31",
+      "family_name": "Wiltzer",
       "gender": "male",
+      "given_name": "Pierre-André",
       "id": "33ab19e3-5bf7-4847-a122-cf669bb317b3",
       "identifiers": [
         {
+          "identifier": "2958",
+          "scheme": "assemblee_nationale"
+        },
+        {
           "identifier": "7403",
           "scheme": "sycomore"
+        },
+        {
+          "identifier": "Q3382825",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-nationale.fr/12/tribun/photos/2958.jpg",
       "images": [
         {
           "url": "http://www.assemblee-nationale.fr/12/tribun/photos/2958.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pierre-André_Wiltzer"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Pierre-André_Wiltzer"
         }
       ],
       "name": "Pierre-André WILTZER"
@@ -70764,21 +70784,219 @@
     },
     {
       "birth_date": "1953-01-01",
+      "family_name": "Douste-Blazy",
       "gender": "male",
+      "given_name": "Philippe",
       "id": "d0e19eff-8fe7-4a20-8f1f-0ee45b009ae2",
       "identifiers": [
         {
+          "identifier": "1162",
+          "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "12220127h",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "1028",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/03hxrd",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1115092510",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 9595 3197",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2001106790",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "Philippe-Douste-Blazy",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "030872693",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "2574",
           "scheme": "sycomore"
+        },
+        {
+          "identifier": "55963195",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q366016",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-nationale.fr/12/tribun/photos/1162.jpg",
       "images": [
         {
           "url": "http://www.assemblee-nationale.fr/12/tribun/photos/1162.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Philippe_Douste-Blazy_ABr124875_cropped.jpg"
         }
       ],
-      "name": "Philippe DOUSTE-BLAZY"
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Філіп_Дуст-Блазі"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/فیلیپ_دوست-بلازی"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/フィリップ・ドスト＝ブラジ"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Felip_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (plwikiquote)",
+          "url": "https://plwikiquote.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дуст-Блази,_Филипп"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Philippe_Douste-Blazy"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Філіпп_Дуст-Блазі"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/菲利普·道斯特·布拉齊"
+        },
+        {
+          "note": "website",
+          "url": "http://news.pdousteblazy.com"
+        }
+      ],
+      "name": "Philippe DOUSTE-BLAZY",
+      "other_names": [
+        {
+          "lang": "be",
+          "name": "Філіп Дуст-Блазі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "فیلیپ دوست-بلازی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フィリップ・ドスト＝ブラジ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Felip Douste-Blazy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дуст-Блази, Филипп",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Філіпп Дуст-Блазі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "菲利普·道斯特·布拉齊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "菲利普·道斯特·布拉齐",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "菲利普·道斯特·布拉齐",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "菲利普·道斯特·布拉齊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "菲利普·道斯特·布拉齊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "菲利普·道斯特·布拉齐",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "菲利普·道斯特·布拉齊",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1983-01-11",
@@ -72861,18 +73079,58 @@
     },
     {
       "birth_date": "1951-05-11",
+      "family_name": "Bertrand",
       "gender": "male",
+      "given_name": "Léon",
       "id": "d79e16f3-ca3c-44e3-b5c2-2cef1ae31e4a",
       "identifiers": [
         {
+          "identifier": "490",
+          "scheme": "assemblee_nationale"
+        },
+        {
+          "identifier": "/m/02pnbxl",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "101327307",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "745",
           "scheme": "sycomore"
+        },
+        {
+          "identifier": "191797005",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3270740",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-nationale.fr/12/tribun/photos/490.jpg",
       "images": [
         {
           "url": "http://www.assemblee-nationale.fr/12/tribun/photos/490.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Léon_Bertrand"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Léon_Bertrand_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Léon_Bertrand"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Léon_Bertrand"
         }
       ],
       "name": "Léon BERTRAND"
