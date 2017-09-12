@@ -710,6 +710,10 @@
         {
           "identifier": "1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q38454394",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_20caf4a413264a03883277390e8c6d3f5cb92ea3.jpg",
@@ -718,7 +722,20 @@
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_20caf4a413264a03883277390e8c6d3f5cb92ea3.jpg"
         }
       ],
-      "name": "ELVIS EDUARDO AMOROSO"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Elvis_Amoroso"
+        }
+      ],
+      "name": "ELVIS EDUARDO AMOROSO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Elvis Amoroso",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -4024,13 +4041,36 @@
     {
       "gender": "female",
       "id": "a44fe614-28fb-43dc-abfa-2646c8f3d1e1",
+      "identifiers": [
+        {
+          "identifier": "Q38794636",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_7b951739593ab746ad1eb8dde362b09fb24a6fee.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_7b951739593ab746ad1eb8dde362b09fb24a6fee.jpg"
         }
       ],
-      "name": "ARELLANO GABY ANDREINA"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gaby_Arellano"
+        }
+      ],
+      "name": "ARELLANO GABY ANDREINA",
+      "other_names": [
+        {
+          "name": "Gaby Arellano",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Gaby Arellano",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
