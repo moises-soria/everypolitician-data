@@ -3268,13 +3268,44 @@
       "gender": "female",
       "given_name": "María Dolores",
       "id": "15ec13e5-8f18-4c69-bdab-9651d0b6ea5b",
+      "identifiers": [
+        {
+          "identifier": "Q25509659",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/242_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/242_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_Dolores_Galovart_Carrera"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Dolores_Galovart_Carrera"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lola_Galovart"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Dolores_Galovart"
+        }
+      ],
       "name": "María Dolores Galovart Carrera",
+      "other_names": [
+        {
+          "lang": "gl",
+          "name": "Dolores Galovart",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Galovart Carrera, María Dolores"
     },
     {
@@ -34258,6 +34289,12 @@
       "gender": "female",
       "given_name": "Carmen Rocío",
       "id": "e1eea0ad-5354-4509-9f7d-86024606ef77",
+      "identifiers": [
+        {
+          "identifier": "Q27756439",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/297_11.jpg",
       "images": [
         {
@@ -34268,6 +34305,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Carmen_Rocío_Cuello_Pérez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carmen_Rocío_Cuello_Pérez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Carmen_Cuello"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/carmen.cuelloperez"
@@ -34583,16 +34632,41 @@
       "gender": "female",
       "given_name": "Alexandra",
       "id": "e512ea96-9398-4be2-9b8e-40ed4acc519e",
+      "identifiers": [
+        {
+          "identifier": "Q22984480",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/274_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/274_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alexandra_Fernández_Gómez.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/781205054124687360/HrgITZrP.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Alexandra_Fernández_Gómez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alexandra_Fernández_Gómez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alexandra_Fernández_Gómez"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Alexandra_Fernández_Gómez"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/aKollontai"
