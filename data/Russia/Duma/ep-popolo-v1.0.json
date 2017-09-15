@@ -17042,13 +17042,45 @@
       "birth_date": "1975-06-13",
       "gender": "male",
       "id": "6345c4e8-45b4-4aeb-9026-2a3236e09ddd",
+      "identifiers": [
+        {
+          "identifier": "Q39344331",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/8a1/8a1c177b9e6ad1587d64e4e56ab6f194.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/8a1/8a1c177b9e6ad1587d64e4e56ab6f194.jpg"
         }
       ],
-      "name": "Ишсарин Рамзил Рафаилович"
+      "links": [
+        {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Ишһарин_Рәмзил_Рафаил_улы"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ишсарин,_Рамзил_Рафаилович"
+        }
+      ],
+      "name": "Ишсарин Рамзил Рафаилович",
+      "other_names": [
+        {
+          "name": "Ишсарин, Рамзил Рафаилович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ba",
+          "name": "Ишһарин Рәмзил Рафаил улы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ишсарин, Рамзил Рафаилович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1941-02-23",
