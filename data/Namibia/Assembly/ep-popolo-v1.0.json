@@ -1079,6 +1079,10 @@
         {
           "identifier": "Nambahu-Tommy",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q38376391",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Nambahu.jpg",
@@ -1087,7 +1091,20 @@
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Nambahu.jpg"
         }
       ],
-      "name": "Nambahu, Tommy"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tommy_Nambahu"
+        }
+      ],
+      "name": "Nambahu, Tommy",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tommy Nambahu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "1ae9a95e-169d-4c6a-9d66-2f5d6fe3cc4d",
