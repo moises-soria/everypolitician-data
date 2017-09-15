@@ -7037,14 +7037,44 @@
       "name": "Abayon, Harlin C."
     },
     {
+      "gender": "male",
+      "given_name": "Raul",
       "id": "96827f5d-b2b1-4771-b6a1-4b6707d7d0af",
+      "identifiers": [
+        {
+          "identifier": "Q12969815",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congress.gov.ph/members/images/16th/daza.jpg",
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/16th/daza.jpg"
         }
       ],
-      "name": "Daza, Raul A."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raul_Daza"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Raul_Daza"
+        }
+      ],
+      "name": "Daza, Raul A.",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Raul Daza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raul A. Daza",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
