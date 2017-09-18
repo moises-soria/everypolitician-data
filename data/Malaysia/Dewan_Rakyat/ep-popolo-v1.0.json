@@ -3336,6 +3336,20 @@
         {
           "identifier": "fauzi_abdul_rahman",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20457974",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fauzi_Abdul_Rahman"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Fauzi_Abdul_Rahman"
         }
       ],
       "name": "Fauzi Abdul Rahman"
@@ -12261,11 +12275,26 @@
       "name": "Edmund Langgu Saga"
     },
     {
+      "gender": "male",
       "id": "5a77d153-908a-487b-a1d4-47a68a3aabbf",
       "identifiers": [
         {
           "identifier": "mohamed_hanipa_maidin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20451479",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohamed_Hanipa_Maidin"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Mohamed_Hanipa_Maidin"
         }
       ],
       "name": "Mohamed Hanipa Maidin"
@@ -28294,14 +28323,40 @@
       ]
     },
     {
+      "gender": "male",
       "id": "dc5e42eb-b576-4bce-8aeb-b25590d296a8",
       "identifiers": [
         {
           "identifier": "mansor_othman",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6787389",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mansor Othman"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mansor_Othman"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Mansor_Othman"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/曼梳奥曼"
+        }
+      ],
+      "name": "Mansor Othman",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "曼梳奥曼",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
