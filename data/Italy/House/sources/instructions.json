@@ -4,7 +4,7 @@
       "file": "morph/camera.csv",
       "create": {
         "from": "morph",
-        "scraper": "andylolz/italy-camera",
+        "scraper": "everypolitician-scrapers/italy-camera",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.camera.it/leg17/313",

@@ -4,7 +4,7 @@
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
-        "scraper": "andylolz/gibraltar-parliament",
+        "scraper": "everypolitician-scrapers/gibraltar-parliament",
         "query": "SELECT * FROM data"
       },
       "source": "http://www.parliament.gi/",
@@ -14,7 +14,7 @@
       "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
-        "scraper": "andylolz/gibraltar-wikipedia",
+        "scraper": "everypolitician-scrapers/gibraltar-wikipedia",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "source": "https://en.wikipedia.org/",
@@ -30,7 +30,7 @@
       "file": "morph/terms.csv",
       "create": {
         "from": "morph",
-        "scraper": "andylolz/gibraltar-parliament",
+        "scraper": "everypolitician-scrapers/gibraltar-parliament",
         "query": "SELECT * FROM terms ORDER BY id"
       },
       "source": "http://www.parliament.gi/",
