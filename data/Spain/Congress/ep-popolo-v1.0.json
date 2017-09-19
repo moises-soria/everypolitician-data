@@ -2617,6 +2617,12 @@
       "gender": "female",
       "given_name": "María Aurora",
       "id": "1135d7ba-0cbc-4140-b1b6-b5b7b6dcea98",
+      "identifiers": [
+        {
+          "identifier": "Q27758392",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/152_11.jpg",
       "images": [
         {
@@ -2627,6 +2633,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Aurora_Flórez_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Aurora_Flórez"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/M_Aurora_Florez"
@@ -10588,6 +10602,12 @@
       "gender": "female",
       "given_name": "María del Mar",
       "id": "4769aa46-88cd-426e-937a-4676e9008567",
+      "identifiers": [
+        {
+          "identifier": "Q27758431",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/293_11.jpg",
       "images": [
         {
@@ -10599,11 +10619,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_del_Mar_Rominguera_Salazar"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_del_Mar_Rominguera_Salazar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mar_Rominguera"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/rominguera"
         }
       ],
       "name": "María del Mar Rominguera Salazar",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "María del Mar Rominguera Salaza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María del Mar Rominguera Salaza",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rominguera Salazar, María del Mar"
     },
     {
@@ -20767,6 +20811,10 @@
         {
           "type": "email",
           "value": "carolina.espana@congreso.es"
+        },
+        {
+          "type": "twitter",
+          "value": "CarolinaEspanaR"
         }
       ],
       "email": "carolina.espana@congreso.es",
@@ -20778,12 +20826,30 @@
         {
           "identifier": "235",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755547",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/20_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/20_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carolina_España_Reina"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Carolina_España"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CarolinaEspanaR"
         }
       ],
       "name": "Carolina España",
@@ -20795,6 +20861,25 @@
         {
           "name": "Carolina España Reina",
           "note": "alternate"
+        },
+        {
+          "name": "Carolina España Reina",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Carolina España Reina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carolina España Reina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carolina España Reina",
+          "note": "multilingual"
         }
       ],
       "sort_name": "España Reina, Carolina"
@@ -36864,6 +36949,10 @@
         {
           "type": "email",
           "value": "maria.carreno@congreso.es"
+        },
+        {
+          "type": "twitter",
+          "value": "Carre1Ascension"
         }
       ],
       "email": "maria.carreno@congreso.es",
@@ -36875,6 +36964,10 @@
         {
           "identifier": "249",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27756153",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/110_11.jpg",
@@ -36885,8 +36978,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Ascensión_Carreño_Fernández"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ascensión_Carreño"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/ascension.carreno"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Carre1Ascension"
         }
       ],
       "name": "María Ascensión Carreño",
@@ -36898,6 +37003,25 @@
         {
           "name": "María Ascensión Carreño Fernández",
           "note": "alternate"
+        },
+        {
+          "name": "María Ascensión Carreño Fernández",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "María Ascensión Carreño Fernández",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Ascensión Carreño Fernández",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Ascensión Carreño Fernández",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Carreño Fernández, María Ascensión"
@@ -43444,7 +43568,7 @@
       "start_date": "2014-04-24"
     },
     {
-      "area_id": "area/Ávila",
+      "area_id": "area/ávila",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "GP",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -45553,7 +45677,7 @@
       ]
     },
     {
-      "area_id": "area/araba/Álava",
+      "area_id": "area/araba/álava",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "EAJ-PNV",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -45837,7 +45961,7 @@
       "start_date": "2011-11-30"
     },
     {
-      "area_id": "area/araba/Álava",
+      "area_id": "area/araba/álava",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "GP",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -47026,7 +47150,7 @@
       "start_date": "2011-11-29"
     },
     {
-      "area_id": "area/araba/Álava",
+      "area_id": "area/araba/álava",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "GS",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -47447,7 +47571,7 @@
       ]
     },
     {
-      "area_id": "area/Ávila",
+      "area_id": "area/ávila",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "1",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -49628,7 +49752,7 @@
       ]
     },
     {
-      "area_id": "area/Ávila",
+      "area_id": "area/ávila",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "1",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -49641,7 +49765,7 @@
       ]
     },
     {
-      "area_id": "area/Ávila",
+      "area_id": "area/ávila",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "GP",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -52376,7 +52500,7 @@
       "start_date": "2011-12-07"
     },
     {
-      "area_id": "area/Ávila",
+      "area_id": "area/ávila",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "5",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -52389,7 +52513,7 @@
       ]
     },
     {
-      "area_id": "area/Ávila",
+      "area_id": "area/ávila",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "GS",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -52928,7 +53052,7 @@
       ]
     },
     {
-      "area_id": "area/araba/Álava",
+      "area_id": "area/araba/álava",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "GP-EC-EM",
       "organization_id": "a0ade8ef-8127-47eb-8cb5-9403d5dbeb4c",
@@ -54240,7 +54364,7 @@
       "type": "constituency"
     },
     {
-      "id": "area/araba/Álava",
+      "id": "area/araba/álava",
       "name": "Araba/Álava",
       "type": "constituency"
     },
@@ -54475,7 +54599,7 @@
       "type": "constituency"
     },
     {
-      "id": "area/Ávila",
+      "id": "area/ávila",
       "name": "Ávila",
       "type": "constituency"
     }
