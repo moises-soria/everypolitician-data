@@ -36491,7 +36491,27 @@
     {
       "classification": "party",
       "id": "party/대한애국당",
-      "name": "대한애국당"
+      "identifiers": [
+        {
+          "identifier": "Q34075424",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "대한애국당",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Korean Patriots Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "대한애국당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -37687,7 +37707,57 @@
     {
       "classification": "party",
       "id": "party/바른정당",
-      "name": "바른정당"
+      "identifiers": [
+        {
+          "identifier": "Q28059857",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://bareun.party/"
+        }
+      ],
+      "name": "바른정당",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bareun Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "바른정당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "正しい政党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Bareun-Partei",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Правильная партия",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "개혁보수신당",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -37994,7 +38064,27 @@
     {
       "classification": "party",
       "id": "party/새민중정당",
-      "name": "새민중정당"
+      "identifiers": [
+        {
+          "identifier": "Q38254010",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "새민중정당",
+      "other_names": [
+        {
+          "lang": "ko",
+          "name": "새민중정당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "People's New Political Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
