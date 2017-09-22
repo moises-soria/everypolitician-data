@@ -4969,6 +4969,7 @@
       ]
     },
     {
+      "birth_date": "1977-06-03",
       "contact_details": [
         {
           "type": "email",
@@ -4976,14 +4977,55 @@
         }
       ],
       "email": "gaal.gergely@parlament.hu",
+      "gender": "male",
+      "given_name": "Gergely",
       "id": "59726726-5da6-49a5-9d05-4f1cdad272eb",
+      "identifiers": [
+        {
+          "identifier": "Q16216558",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/g065.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/g065.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Gaal_Gergely_2006.jpg"
         }
       ],
-      "name": "Gaal, Gergely"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gergely_Gaal"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gergely_Gaal"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Gaal_Gergely"
+        }
+      ],
+      "name": "Gaal, Gergely",
+      "other_names": [
+        {
+          "name": "Gaal Gergely",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gergely Gaal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gaal Gergely",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-12-01",
