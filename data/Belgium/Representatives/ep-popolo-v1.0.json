@@ -8123,6 +8123,10 @@
       "sort_name": "D'Haese Christoph"
     },
     {
+      "id": "bb953372-bbd9-40b1-9e5c-bb705db9ed84",
+      "name": "Isabelle Galant"
+    },
+    {
       "birth_date": "1983-02-13",
       "contact_details": [
         {
@@ -14411,6 +14415,7 @@
     },
     {
       "area_id": "area/henegouwen",
+      "end_date": "2017-08-24",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/mr",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15336,6 +15341,20 @@
           "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
         }
       ]
+    },
+    {
+      "area_id": "area/henegouwen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "bb953372-bbd9-40b1-9e5c-bb705db9ed84",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
+        }
+      ],
+      "start_date": "2017-08-24"
     },
     {
       "area_id": "area/henegouwen",
