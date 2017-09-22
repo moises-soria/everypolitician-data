@@ -672,17 +672,54 @@
     },
     {
       "birth_date": "1967-01-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RociodeFrutos"
+        }
+      ],
       "family_name": "De Frutos Madrazo",
       "gender": "female",
       "given_name": "María del Rocío",
       "id": "044dd255-7bbc-440c-afe0-263fc50442a4",
+      "identifiers": [
+        {
+          "identifier": "Q25509676",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/148_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/148_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rocío_de_Frutos_Madrazo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rocío_de_Frutos"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Rocío_de_Frutos"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RociodeFrutos"
+        }
+      ],
       "name": "María del Rocío De Frutos Madrazo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rocío de Frutos",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "De Frutos Madrazo, María del Rocío"
     },
     {
@@ -7135,8 +7172,32 @@
       "id": "34294abb-e76d-4ad3-97a0-368b995a6c63",
       "identifiers": [
         {
+          "identifier": "XX4767066",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "594139",
+          "scheme": "dialnet"
+        },
+        {
           "identifier": "189",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1057448168",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2008147829",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "310574790",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q27755599",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/215_11.jpg",
@@ -7145,15 +7206,31 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/215_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Pilar_Cortés_Bureta"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pilar_Cortés_Bureta"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pilar_Cortés_Bureta"
+        }
+      ],
       "name": "Pilar Cortés",
       "other_names": [
         {
-          "name": "Pilar Cortés Bureta",
-          "note": "alternate"
+          "lang": "bn",
+          "name": "পিলার কোর্তেস বুরেতা",
+          "note": "multilingual"
         },
         {
+          "lang": "en",
           "name": "Pilar Cortés Bureta",
-          "note": "alternate"
+          "note": "multilingual"
         }
       ],
       "sort_name": "Cortés Bureta, Pilar"
@@ -9753,6 +9830,12 @@
       "gender": "female",
       "given_name": "María del Carmen",
       "id": "429025b8-2712-412c-8339-9ba51abcd99e",
+      "identifiers": [
+        {
+          "identifier": "Q27755804",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/27_11.jpg",
       "images": [
         {
@@ -9763,6 +9846,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_del_Carmen_González_Guinda"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_del_Carmen_González_Guinda"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/María_del_Carmen_González_Guinda"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/CarmenGGuinda"
@@ -16273,6 +16368,12 @@
       "gender": "female",
       "given_name": "Esther",
       "id": "707e786b-3d72-42ee-acaa-ab1a6cc85b0c",
+      "identifiers": [
+        {
+          "identifier": "Q27758382",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/122_11.jpg",
       "images": [
         {
@@ -16283,6 +16384,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Esther_Peña_Camarero"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Esther_Peña_Camarero"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Esther_Peña_Camarero"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/estherpcamarero"
