@@ -439,21 +439,52 @@
       "sort_name": "VEROLJUB ARSIC"
     },
     {
-      "birth_date": "1957",
+      "birth_date": "1957-09-15",
       "contact_details": [
         {
           "type": "twitter",
           "value": "milankakaric"
         }
       ],
+      "gender": "female",
       "id": "12a0485d-d9de-4890-a139-6a1c3ecdecb2",
       "identifiers": [
         {
           "identifier": "591",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1565935",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Milanka_Karic.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Milanka_Karic.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milanka_Karić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Milanka_Karić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Milanka_Karić"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Milanka_Karić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Миланка_Карић"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/milanka.karic"
@@ -464,6 +495,23 @@
         }
       ],
       "name": "MILANKA KARIC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Milanka Karić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Миланка Карић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Миланка Карић",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MILANKA KARIC"
     },
     {
