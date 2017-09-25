@@ -1269,9 +1269,26 @@
         {
           "identifier": "4214",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q18132152",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nik_Gugger"
         }
       ],
       "name": "Niklaus-Samuel Gugger",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nik Gugger",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gugger, Niklaus-Samuel"
     },
     {
@@ -11152,6 +11169,10 @@
         {
           "identifier": "4215",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q40643979",
+          "scheme": "wikidata"
         }
       ],
       "name": "Hansjörg Brunner",
@@ -31494,6 +31515,7 @@
     },
     {
       "birth_date": "1925-09-29",
+      "death_date": "1997-06-16",
       "family_name": "Jelmini",
       "gender": "male",
       "given_name": "Camillo",
@@ -31502,6 +31524,10 @@
         {
           "identifier": "785",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q40644001",
+          "scheme": "wikidata"
         }
       ],
       "name": "Camillo Jelmini",
