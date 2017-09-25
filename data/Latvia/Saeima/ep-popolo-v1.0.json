@@ -9495,13 +9495,33 @@
       ]
     },
     {
+      "birth_date": "1976",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "rputnins"
+        }
+      ],
       "family_name": "Putniņš",
+      "gender": "male",
       "given_name": "Renārs",
       "id": "b2ec080e-b864-46cf-9af2-4788b3f42c91",
+      "identifiers": [
+        {
+          "identifier": "Q40649266",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/b1ee955e8611fc2fc2257d7b0032d872/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/b1ee955e8611fc2fc2257d7b0032d872/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/rputnins"
         }
       ],
       "name": "Renārs Putniņš"
