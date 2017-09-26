@@ -15532,15 +15532,35 @@
       ]
     },
     {
+      "birth_date": "1974-06-18",
       "gender": "male",
       "id": "761374c6-71b7-4e08-be15-8240990f6529",
+      "identifiers": [
+        {
+          "identifier": "Q40999475",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/196357.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/196357.jpg"
         }
       ],
-      "name": "DEJORGE PATRÍCIO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Dejorge_Patrício"
+        }
+      ],
+      "name": "DEJORGE PATRÍCIO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dejorge Patrício",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-04-11",
@@ -30656,12 +30676,25 @@
       "name": "ALEXANDRE TOLEDO"
     },
     {
+      "birth_date": "1980-07-10",
       "gender": "male",
       "id": "e23dc1b0-e836-444f-9a38-0a0898643bbb",
+      "identifiers": [
+        {
+          "identifier": "Q40999389",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/195826.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/195826.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Marcelo_Delaroli"
         }
       ],
       "name": "MARCELO DELAROLI"
