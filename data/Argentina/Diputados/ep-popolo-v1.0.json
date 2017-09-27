@@ -30522,7 +30522,521 @@
     },
     {
       "id": "area/ciudad_de_buenos_aires",
+      "identifiers": [
+        {
+          "identifier": "/m/01ly5m",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "AR07",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "3433955",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Regional/South_America/Argentina/Provinces/Buenos_Aires_City/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "118659776",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "4008756-6",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "7593303",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "1224652",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "155960902",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1486",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ciudad De Buenos Aires",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بوينس آيرس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Буэнас-Айрэс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Буенос Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Buenos Aires",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Bonaero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "بوئنوس آیرس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "בואנוס איירס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ブエノスアイレス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ბუენოს-აირესი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "부에노스아이레스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Bonaëropolis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Buenos Airės",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Buenosairesa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Буенос Аирес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "बुएनोस आइरेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "بیونس آئرس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Буенос Ајрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "Буэнос Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "บัวโนสไอเรส",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Буенос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "布宜諾斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sgs",
+          "name": "Buenas Airēs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Буэнас-Айрэс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Lungsod ng Buenos Aires",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "بیونس آئرس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "ब्यूनस आयर्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Բուենոս Այրես",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "బ్యూనస్ ఏరీస్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "புவெனஸ் ஐரிஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "বুয়েনোস আইরেস",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μπουένος Άιρες",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "බුවනොස් අයිරීස්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "બ્યુનોસ એરેસ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "布宜诺斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "布宜諾斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "布宜诺斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "布宜諾斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "布宜诺斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "布宜諾斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "布宜諾斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "布宜诺斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "xmf",
+          "name": "ბუენოს–აირესი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ब्यूनस आयर्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lrc",
+          "name": "بوئنس آیرس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Búenos Aíres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ab",
+          "name": "Буенос-Аирес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "am",
+          "name": "ብዌኖስ አይሬስ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "بوينوس ايريس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Buenos Ayres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bo",
+          "name": "པུ་ཨེ་ནོ་སི་ཨས་རི་སི།",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bpy",
+          "name": "বুৱেনোস আইরেস",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bxr",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cbk_zam",
+          "name": "Ciudad de Buenos Aires",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ce",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ckb",
+          "name": "بۆینس ئایرس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ht",
+          "name": "Bwènozè",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jbo",
+          "name": "buenosaires",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kaa",
+          "name": "Buenos-Ayres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lad",
+          "name": "Buenos Ayres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Bonesaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ബ്യൂണസ് അയേഴ്സ്",
+          "note": "multilingual"
+        },
+        {
+          "lang": "my",
+          "name": "ဗျူနိုအေးရိစ်မြို့",
+          "note": "multilingual"
+        },
+        {
+          "lang": "myv",
+          "name": "Буэнос-Айрес ош",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Bouonézâr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rue",
+          "name": "Буенос Аірес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sah",
+          "name": "Буэнос Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tk",
+          "name": "Buenos-Aýres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ug",
+          "name": "Buénos Ayrés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Buenos Ayres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "布宜诺斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yi",
+          "name": "בוענאס איירעס",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "布宜諾斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ba",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "new",
+          "name": "बुयनोस आयरेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "or",
+          "name": "ବୁଏନ୍ସ ଏଆରସ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਬੁਏਨਸ ਆਇਰਸ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lez",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "crh_latn",
+          "name": "Buenos Ayres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lzh",
+          "name": "布宜諾斯艾利斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kbd",
+          "name": "Буэнос Аирэс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ady",
+          "name": "Буэнос Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk_cyrl",
+          "name": "Буэнос-Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg_cyrl",
+          "name": "Буэнос Айрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "azb",
+          "name": "بوئنوس آیرس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "dty",
+          "name": "ब्यूनस आयर्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kbp",
+          "name": "Puyenezɛrɩ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "olo",
+          "name": "Buenos-Aires",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
