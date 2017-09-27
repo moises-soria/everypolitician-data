@@ -19,7 +19,8 @@ namespace :term_csvs do
       # TODO: make this a separate task
       next unless term.id == terms.last.id
       latest = Pathname.new('unstable/latest.csv')
-      csv = CSV.table(path).delete_if { |r| r[:end_date] }.tap do |t|
+      today = Date.today.iso8601
+      csv = CSV.table(path).delete_if { |r| r[:end_date] && r[:end_date] < today }.tap do |t|
         %i[chamber end_date].each { |col| t.delete(col) }
       end
       term_start = popolo.terms.find { |t| t.id.split('/').last == term.id }.start_date
