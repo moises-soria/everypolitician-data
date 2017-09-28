@@ -38,7 +38,7 @@
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/María_José_García-Pelayo_Jurado"
+          "url": "https://fr.wikipedia.org/wiki/María_José_García-Pelayo"
         }
       ],
       "name": "María José García-Pelayo Jurado",
@@ -3605,6 +3605,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Cayetana_Álvarez_de_Toledo"
+        },
+        {
+          "note": "Wikipedia (eswikiquote)",
+          "url": "https://eswikiquote.wikipedia.org/wiki/Cayetana_Álvarez_de_Toledo"
         },
         {
           "note": "twitter",
@@ -7231,6 +7235,11 @@
           "lang": "en",
           "name": "Pilar Cortés Bureta",
           "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "पिलर कोर्टेज बुरेटा",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Cortés Bureta, Pilar"
@@ -10811,10 +10820,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cipria-Ciscar_EDIIMA20151014_0863_5_(cropped).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Cipria-Ciscar_EDIIMA20151014_0863_5.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cipria-Ciscar_EDIIMA20151014_0863_5_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Cipria-Ciscar_EDIIMA20151014_0863_5.jpg"
         }
       ],
       "links": [
@@ -12411,6 +12420,12 @@
       "gender": "female",
       "given_name": "María Auxiliadora",
       "id": "598fa485-7305-44a1-ae90-b7a088a2e4ec",
+      "identifiers": [
+        {
+          "identifier": "Q27756498",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/84_11.jpg",
       "images": [
         {
@@ -12421,6 +12436,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Auxiliadora_Honorato_Chulián"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Auxiliadora_Honorato"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/auxihonorato"
@@ -13351,10 +13374,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ana-Oramas-diputada-CC-Congreso_EDIIMA20170622_0330_19.jpg",
+      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/302_11.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ana-Oramas-diputada-CC-Congreso_EDIIMA20170622_0330_19.jpg"
+          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/302_11.jpg"
         }
       ],
       "links": [
@@ -14451,6 +14474,12 @@
       "gender": "female",
       "given_name": "Ángeles",
       "id": "697b7f05-e0b0-40ab-bde3-8ecb6bac20c6",
+      "identifiers": [
+        {
+          "identifier": "Q27755538",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/244_11.jpg",
       "images": [
         {
@@ -14461,6 +14490,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ángeles_Isac_García"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ángeles_Isac"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/angeles_isac"
@@ -15517,8 +15554,16 @@
       "id": "6c1cf88e-25ad-4066-a83a-595c9d3c7392",
       "identifiers": [
         {
+          "identifier": "XX1439282",
+          "scheme": "bne"
+        },
+        {
           "identifier": "14582877h",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "a10306833",
+          "scheme": "cantic"
         },
         {
           "identifier": "229",
@@ -15533,8 +15578,20 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "130593214",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8604 926X",
+          "scheme": "isni"
+        },
+        {
           "identifier": "n00023020",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "n2015095036",
+          "scheme": "nukat"
         },
         {
           "identifier": "095683534",
@@ -18037,6 +18094,10 @@
           "url": "https://es.wikipedia.org/wiki/Joan_Tardà"
         },
         {
+          "note": "Wikipedia (eswikiquote)",
+          "url": "https://eswikiquote.wikipedia.org/wiki/Joan_Tardà"
+        },
+        {
           "note": "Wikipedia (eu)",
           "url": "https://eu.wikipedia.org/wiki/Joan_Tardà"
         },
@@ -19968,12 +20029,30 @@
         {
           "identifier": "61",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755581",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/99_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/99_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_Eugenia_Romero_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Eugenia_Romero_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/María_Eugenia_Romero_Rodríguez"
         }
       ],
       "name": "María Eugenia Romero",
@@ -19985,6 +20064,30 @@
         {
           "name": "María Eugenia Romero Rodríguez",
           "note": "alternate"
+        },
+        {
+          "name": "María Eugenia Romero Rodríguez",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "María Eugenia Romero Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María Eugenia Romero Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Eugenia Romero Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Eugenia Romero Rodríguez",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Romero Rodríguez, María Eugenia"
@@ -20655,6 +20758,12 @@
       "gender": "female",
       "given_name": "María Tamara",
       "id": "8dd4d064-53bf-48b3-bffc-7e524b5eee85",
+      "identifiers": [
+        {
+          "identifier": "Q27758345",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/332_11.jpg",
       "images": [
         {
@@ -20665,6 +20774,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/María_Tamara_Raya_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Tamara_Raya_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tamara_Raya"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/tamarayar"
@@ -21563,6 +21684,9 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/172_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pilar_Cancela.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/378800000693031957/91dc938e2d626a0d8e80ecb0ba210577.jpeg"
         }
       ],
@@ -21619,16 +21743,41 @@
       "gender": "female",
       "given_name": "Isabel",
       "id": "91c3ad6c-f17b-46db-8f87-e288c9b21a95",
+      "identifiers": [
+        {
+          "identifier": "Q27756490",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/92_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/92_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Isabel_Franco_2016_(cropped).jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/885499726971514881/AwvbTlsJ.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Isabel_Franco_Carmona"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Isabel_Franco"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Isabel_Franco_Carmona"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Isabel_Franco_Carmona"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Isabel-Franco-Carmona-172363716445736"
@@ -21639,6 +21788,17 @@
         }
       ],
       "name": "Isabel Franco Carmona",
+      "other_names": [
+        {
+          "name": "Isabel Franco",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Isabel Franco",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Franco Carmona, Isabel"
     },
     {
@@ -24801,6 +24961,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/José_Antonio_Nieto_Ballesteros"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:José_Antonio_Nieto"
         },
@@ -26559,12 +26723,67 @@
           "note": "alternate"
         },
         {
+          "lang": "af",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
         {
           "lang": "de",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
@@ -26579,7 +26798,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "en-ca",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
@@ -26589,12 +26838,67 @@
           "note": "multilingual"
         },
         {
+          "lang": "frc",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
           "lang": "gl",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
         {
+          "lang": "gsw",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
@@ -26609,7 +26913,72 @@
           "note": "multilingual"
         },
         {
+          "lang": "jam",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
@@ -26619,7 +26988,57 @@
           "note": "multilingual"
         },
         {
+          "lang": "nrm",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
@@ -26629,7 +27048,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "sc",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Cristóbal Montoro",
           "note": "multilingual"
         },
@@ -26641,6 +27085,46 @@
         {
           "lang": "uk",
           "name": "Крістобаль Монторо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Cristóbal Montoro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Cristóbal Montoro",
           "note": "multilingual"
         }
       ],
@@ -28015,8 +28499,68 @@
           "note": "alternate"
         },
         {
+          "lang": "an",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Francisco Caamaño Domínguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Francisco Caamaño",
           "note": "multilingual"
         },
         {
@@ -28025,7 +28569,217 @@
           "note": "multilingual"
         },
         {
+          "lang": "frc",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
           "lang": "gl",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Francisco Caamaño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Francisco Caamaño",
           "note": "multilingual"
         }
@@ -28957,8 +29711,36 @@
       "id": "bb8b3468-016c-4b8c-9906-a7ce148f20d6",
       "identifiers": [
         {
+          "identifier": "XX940259",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "9349",
+          "scheme": "dialnet"
+        },
+        {
           "identifier": "264",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0001 1697 1942",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr92033654",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "069836191",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "107585383",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12392976",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/635463279003963392/kP7-AwTM.jpg",
@@ -28969,6 +29751,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Marta_González_Vázquez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Marta_González_Vázquez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marta_González_Vázquez"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Marta_González"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/MartaGlezVzqz"
         }
@@ -28976,12 +29774,9 @@
       "name": "Marta González",
       "other_names": [
         {
+          "lang": "en",
           "name": "Marta González Vázquez",
-          "note": "alternate"
-        },
-        {
-          "name": "Marta González Vázquez",
-          "note": "alternate"
+          "note": "multilingual"
         }
       ],
       "sort_name": "González Vázquez, Marta"
@@ -32172,10 +32967,30 @@
       "gender": "female",
       "given_name": "Juana Amalia",
       "id": "d219f1fe-0c9e-4512-9516-42390cecf475",
+      "identifiers": [
+        {
+          "identifier": "Q27756428",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/317_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/317_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Juana_Amalia_Rodríguez_Hernández"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juana_Amalia_Rodríguez_Hernández"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Juana_Amalia_Rodríguez_Hernández"
         }
       ],
       "name": "Juana Amalia Rodríguez Hernández",
@@ -33575,20 +34390,60 @@
     },
     {
       "birth_date": "1960-03-29",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "garridoirene1"
+        }
+      ],
       "family_name": "Garrido Valenzuela",
       "gender": "female",
       "given_name": "Irene",
       "id": "d9744661-1bff-4e27-a7cb-e95055876212",
       "identifiers": [
         {
+          "identifier": "XX939534",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "2034448",
+          "scheme": "dialnet"
+        },
+        {
           "identifier": "138",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12390717",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/18_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/18_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Irene_Garrido_Valenzuela"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Irene_Garrido_Valenzuela"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Irene_Garrido_Valenzuela"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Irene_Garrido"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/garridoirene1"
         }
       ],
       "name": "Irene Garrido",
@@ -33600,6 +34455,20 @@
         {
           "name": "Irene Garrido Valenzuela",
           "note": "alternate"
+        },
+        {
+          "name": "Irene Garrido Valenzuela",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Irene Garrido Valenzuela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irene Garrido Valenzuela",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Garrido Valenzuela, Irene"
@@ -35534,6 +36403,10 @@
         {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/Alberto_Ruiz-Gallardón"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Alberto_Ruiz-Gallardón"
         },
         {
           "note": "Wikipedia (nl)",
@@ -39462,10 +40335,23 @@
       "gender": "female",
       "given_name": "Zaida",
       "id": "ff5ffa72-2195-408f-bbed-1f43f9c576e2",
+      "identifiers": [
+        {
+          "identifier": "XX4946297",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "Q27701606",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/165_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/165_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Zaida_Cantera_2015_(cropped).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/765933066531565568/iGjI1N4D.jpg"
@@ -39473,11 +40359,34 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Zaida_Cantera_de_Castro"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Zaida_Cantera"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Zaida_Cantera"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Zaida_Cantera"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/ZaidaCantera"
         }
       ],
       "name": "Zaida Cantera de Castro",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Zaida Cantera",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Cantera de Castro, Zaida"
     },
     {
