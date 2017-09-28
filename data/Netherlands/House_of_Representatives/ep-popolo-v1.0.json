@@ -19623,12 +19623,101 @@
     {
       "classification": "party",
       "id": "party/denk",
-      "name": "DENK"
+      "identifiers": [
+        {
+          "identifier": "Q28147283",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.bewegingdenk.nl/"
+        }
+      ],
+      "name": "DENK",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "DENK",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Denk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Denk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Denk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "思考 (荷蘭)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/forum_voor_democratie",
-      "name": "Forum voor Democratie"
+      "identifiers": [
+        {
+          "identifier": "Q28163962",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/FvD.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "https://forumvoordemocratie.nl/"
+        }
+      ],
+      "name": "Forum voor Democratie",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Forum voor Democratie",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Foro para la Democracia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "民主主義フォーラム",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "民主論壇",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Democracy forum",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
