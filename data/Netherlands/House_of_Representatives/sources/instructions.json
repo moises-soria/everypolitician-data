@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/wikipedia.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/netherlands-tweede-kamer-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY term, name, start_date"
-      },
+      "file": "archive/wikipedia-2012.csv",
       "source": "http://nl.wikipedia.org/",
       "type": "membership"
     },
