@@ -1635,8 +1635,22 @@
     },
     {
       "gender": "male",
+      "given_name": "Alonso",
       "id": "20ee51df-dd95-477a-b7d0-6ee524404014",
+      "identifiers": [
+        {
+          "identifier": "Q27308652",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Horacio Fernando Alonso",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alonso Horacio Fernando",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alonso, Horacio Fernando"
     },
     {
@@ -3321,7 +3335,26 @@
     {
       "gender": "male",
       "id": "424a530e-5d9a-49a4-9cc5-d612dedca5cf",
+      "identifiers": [
+        {
+          "identifier": "Q28736720",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Andrés_Ernesto_Guzmán"
+        }
+      ],
       "name": "Andres Ernesto Guzman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Andrés Ernesto Guzmán",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Guzman, Andres Ernesto"
     },
     {
@@ -3342,7 +3375,14 @@
     },
     {
       "gender": "female",
+      "given_name": "Gabriela",
       "id": "42f31417-f492-4e46-90ae-17a49ca6a8be",
+      "identifiers": [
+        {
+          "identifier": "Q27306974",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gabriela Romina Albornoz",
       "sort_name": "Albornoz, Gabriela Romina"
     },
@@ -4248,8 +4288,38 @@
     },
     {
       "gender": "male",
+      "given_name": "José",
       "id": "527fc195-1dfb-4cbe-adee-45b20ea08329",
+      "identifiers": [
+        {
+          "identifier": "Q24960878",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Diputado_Jose_Luis_Patiño.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Diputado_Jose_Luis_Patiño.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Luis_Patiño"
+        }
+      ],
       "name": "Jose Luis Patiño",
+      "other_names": [
+        {
+          "name": "José Luis Patiño",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "José Luis Patiño",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Patiño, Jose Luis"
     },
     {
@@ -4775,9 +4845,24 @@
       "sort_name": "BROWN, CARLOS RAMON"
     },
     {
+      "birth_date": "1965-06-01",
       "gender": "male",
+      "given_name": "Gustavo",
       "id": "5de17d17-138f-4a87-b05b-2d45aeffec6b",
+      "identifiers": [
+        {
+          "identifier": "Q27307210",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Gustavo Hector Arrieta",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gustavo Héctor Arrieta",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Arrieta, Gustavo Hector"
     },
     {
@@ -6292,6 +6377,7 @@
       "sort_name": "Nanni, Miguel"
     },
     {
+      "birth_date": "1962",
       "contact_details": [
         {
           "type": "twitter",
@@ -6299,14 +6385,36 @@
         }
       ],
       "gender": "male",
+      "given_name": "Juan",
       "id": "778d577e-ab47-4e4f-b302-9842174b38d1",
-      "image": "https://pbs.twimg.com/profile_images/891318300847857664/iFf6_DzN.jpg",
+      "identifiers": [
+        {
+          "identifier": "/m/013cczns",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q20090781",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Juan_Carlos_Giordano.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Juan_Carlos_Giordano.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/891318300847857664/iFf6_DzN.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Giordano"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Carlos_Giordano"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/GiordanoGringo"
@@ -7935,6 +8043,7 @@
       "sort_name": "Urroz, Paula Marcela"
     },
     {
+      "birth_date": "1986-06-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -7942,14 +8051,40 @@
         }
       ],
       "gender": "female",
+      "given_name": "Soledad",
       "id": "8fa651e7-4611-42ca-b128-16623c06f8e8",
-      "image": "https://pbs.twimg.com/profile_images/880952339410165760/LO1rvyxx.jpg",
+      "identifiers": [
+        {
+          "identifier": "Q21649452",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SoledadSosaPic.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SoledadSosaPic.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/880952339410165760/LO1rvyxx.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Soledad_Sosa"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Soledad_Sosa"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/solesosa.mza"
+        },
+        {
+          "note": "instagram",
+          "url": "solesosa.mza"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/solesosa_mza"
@@ -8912,9 +9047,154 @@
       "sort_name": "Carmona, Guillermo Ramon"
     },
     {
+      "birth_date": "1976-09-14",
       "gender": "male",
+      "given_name": "Agustín",
       "id": "a253958a-86a0-485e-a5ef-0697a0f0f4df",
+      "identifiers": [
+        {
+          "identifier": "C478",
+          "scheme": "atp"
+        },
+        {
+          "identifier": "/m/07k71b",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "10011976",
+          "scheme": "itf"
+        },
+        {
+          "identifier": "Q280765",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Agustin_Calleri_-_Open_Godo_2007.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Agustin_Calleri_-_Open_Godo_2007.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أجوستين_كاليري"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/آگوستین_کالری"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/アグスティン・カレリ"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/ऑगुस्तिन_कॅलेरी"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кальери,_Агустин"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Agustín_Calleri"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/阿古斯丁·卡萊里"
+        }
+      ],
       "name": "Agustin Santiago Calleri",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أجوستين كاليري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Agustín Calleri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "آگوستین کالری",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アグスティン・カレリ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "ऑगुस्तिन कॅलेरी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кальери, Агустин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿古斯丁·卡萊里",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Calleri, Agustin Santiago"
     },
     {
@@ -12515,8 +12795,75 @@
       "sort_name": "Rista, Olga Maria"
     },
     {
+      "birth_date": "1962-06-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "juanfbrugge"
+        }
+      ],
+      "family_name": "Brügge",
       "gender": "male",
+      "given_name": "Juan",
       "id": "eef206e3-f397-41b6-b785-f72d4955dae3",
+      "identifiers": [
+        {
+          "identifier": "/g/11bwf57wrm",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Q20737416",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "UC2K3m3WluxsDQnEFSdggcNA",
+          "scheme": "youtube"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Juan_Fernando_Brügge.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Juan_Fernando_Brügge.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Juan_Fernando_Brügge"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Juan_Fernando_Brügge"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Fernando_Brügge"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Juan_Fernando_Brügge"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/JuanFernandoBrugge"
+        },
+        {
+          "note": "instagram",
+          "url": "juanfbrugge"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/juanfbrugge"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/juanfbrugge"
+        },
+        {
+          "note": "website",
+          "url": "http://www.juanbrugge.com.ar/"
+        }
+      ],
       "name": "Juan Fernando Brügge",
       "sort_name": "Brügge, Juan Fernando"
     },
