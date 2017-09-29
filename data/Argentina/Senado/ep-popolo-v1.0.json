@@ -4888,7 +4888,39 @@
     {
       "classification": "party",
       "id": "party/frente_cívico_por_santiago",
-      "name": "Frente Cívico por Santiago"
+      "identifiers": [
+        {
+          "identifier": "Q3088428",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Frente Cívico por Santiago",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Front civique pour Santiago",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Civic Front for Santiago",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Cívico por Santiago",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Civico por Santiago",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -4913,7 +4945,214 @@
     {
       "classification": "party",
       "id": "party/frente_para_la_victoria",
-      "name": "Frente para la Victoria"
+      "identifiers": [
+        {
+          "identifier": "Q1072438",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Frente_para_la_Victoria.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.frenteparalavictoria.org/"
+        }
+      ],
+      "name": "Frente para la Victoria",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Front na rzecz Zwycięstwa",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "승리를 위한 전선",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт за победу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Front pour la victoire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Front for Victory",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per a la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Фронт за перемогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte per la Vittoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Fronta za vítězství",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nb",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Фронт за перамогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Fronto por la Venko",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente para a Vitória",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Μέτωπο Για τη Νίκη",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ro",
+          "name": "Frontul pentru Victorie",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "id",
+          "name": "Front untuk Kemenangan",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "Фронт за победа",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт победы",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria, FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -4923,12 +5162,167 @@
     {
       "classification": "party",
       "id": "party/movimiento_popular_neuquino",
-      "name": "Movimiento Popular Neuquino"
+      "identifiers": [
+        {
+          "identifier": "Q7002024",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Movimiento Popular Neuquino",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Neuquén People's Movement",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Popular Neuquino",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/unión_cívica_radical",
-      "name": "Unión Cívica Radical"
+      "identifiers": [
+        {
+          "identifier": "Q123585",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Escudo_de_la_UCR.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ucr.org.ar/"
+        }
+      ],
+      "name": "Unión Cívica Radical",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Unió Cívica Radical",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Radikální občanská unie",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Radical Civic Union",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Union civique radicale",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Unione Civica Radicale",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "急進市民同盟",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ka",
+          "name": "რადიკალური სამოქალაქო კავშირი",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lt",
+          "name": "Argentinos radikali pilietinė sąjunga",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Radicale Burgerunie",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Radykalna Unia Obywatelska",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "União Cívica Radical",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Гражданский радикальный союз",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Громадянський радикальний союз",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "激进公民联盟",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Радыкальны грамадзянскі саюз",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Ριζοσπαστική Πολιτική Ένωση",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "급진시민연합",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "UCR",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Unión Cívica Radical",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Union Civica Radical",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
