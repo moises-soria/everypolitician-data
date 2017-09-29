@@ -104,6 +104,12 @@
       "gender": "female",
       "given_name": "Inés Imelda",
       "id": "0e0edf7d-f095-4366-91c2-55c59bc86e77",
+      "identifiers": [
+        {
+          "identifier": "Q18711914",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/427.png",
       "images": [
         {
@@ -121,6 +127,13 @@
         }
       ],
       "name": "Inés Imelda Blas",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Inés Blas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Blas, Inés Imelda"
     },
     {
@@ -366,6 +379,7 @@
       "sort_name": "Caserio, Carlos Alberto"
     },
     {
+      "birth_date": "1970-08-17",
       "contact_details": [
         {
           "type": "email",
@@ -385,6 +399,12 @@
       "gender": "female",
       "given_name": "María de los Ángeles",
       "id": "1ddf933a-b7cb-4ab9-afd6-49c22a4a86de",
+      "identifiers": [
+        {
+          "identifier": "Q27309047",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/470.png",
       "images": [
         {
@@ -398,6 +418,13 @@
         }
       ],
       "name": "María de los Ángeles Sacnun",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sacnún María de los Ángeles",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Sacnun, María de los Ángeles"
     },
     {
@@ -416,6 +443,12 @@
       "gender": "male",
       "given_name": "Gerardo Antenor",
       "id": "22643c2a-98e2-46e7-a852-a28e73326373",
+      "identifiers": [
+        {
+          "identifier": "Q18711897",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/446.png",
       "images": [
         {
@@ -441,6 +474,12 @@
       "gender": "male",
       "given_name": "Marcelo Jorge",
       "id": "239aee0f-e3fc-493d-9c51-e9735c02bdeb",
+      "identifiers": [
+        {
+          "identifier": "Q18711863",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/382.png",
       "images": [
         {
@@ -557,6 +596,12 @@
       "gender": "female",
       "given_name": "Hilda Clelia",
       "id": "2bd17cd7-f279-4f73-b01d-0801a6fde436",
+      "identifiers": [
+        {
+          "identifier": "Q18711912",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/419.png",
       "images": [
         {
@@ -1262,6 +1307,12 @@
       "gender": "female",
       "given_name": "Carmen Lucila",
       "id": "5314ce21-bdc2-43b4-bc6b-9497397410fb",
+      "identifiers": [
+        {
+          "identifier": "Q18711932",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/440.png",
       "images": [
         {
@@ -2357,13 +2408,32 @@
       "gender": "male",
       "given_name": "José Miguel Ángel",
       "id": "86fbd268-3876-42cb-abc3-c8ab16513515",
+      "identifiers": [
+        {
+          "identifier": "Q6293394",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/294.png",
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/294.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/José_Mayans"
+        }
+      ],
       "name": "José Miguel Ángel Mayans",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "José Mayans",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mayans, José Miguel Ángel"
     },
     {
@@ -3345,7 +3415,6 @@
       "sort_name": "García Larraburu, Silvina Marcela"
     },
     {
-      "birth_date": "1971",
       "contact_details": [
         {
           "type": "email",
@@ -3367,7 +3436,7 @@
       "id": "b657902d-8f2f-4943-a6ed-d6a7119a66ef",
       "identifiers": [
         {
-          "identifier": "Q21003821",
+          "identifier": "Q18711852",
           "scheme": "wikidata"
         }
       ],
@@ -3375,16 +3444,9 @@
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/434.png"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Eduardo_Aguilar_en_el_Impenetrable.JPG"
         }
       ],
       "links": [
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Eduardo_Aguilar"
-        },
         {
           "note": "facebook",
           "url": "https://facebook.com/EduardoAguilarChaco"
@@ -3395,13 +3457,6 @@
         }
       ],
       "name": "Eduardo Alberto Aguilar",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Eduardo Aguilar",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Aguilar, Eduardo Alberto"
     },
     {
@@ -3518,6 +3573,7 @@
       "sort_name": "Odarda, María Magdalena"
     },
     {
+      "birth_date": "1950-09-25",
       "contact_details": [
         {
           "type": "email",
@@ -3537,6 +3593,12 @@
       "gender": "female",
       "given_name": "Marta",
       "id": "c4b4c18f-0b61-4b0b-8951-8905dc7299df",
+      "identifiers": [
+        {
+          "identifier": "Q27308136",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/476.png",
       "images": [
         {
@@ -3551,6 +3613,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/MLVarela"
+        },
+        {
+          "note": "website",
+          "url": "http://www.martavarela.com.ar/"
         }
       ],
       "name": "Marta Varela",
@@ -3592,6 +3658,7 @@
       "sort_name": "Fernández Sagasti, Anabel"
     },
     {
+      "birth_date": "1961-10-31",
       "contact_details": [
         {
           "type": "email",
@@ -3607,13 +3674,35 @@
       "gender": "male",
       "given_name": "Daniel Raúl",
       "id": "d28cfea9-4fa2-4faa-8acf-ba103a66fa0c",
+      "identifiers": [
+        {
+          "identifier": "Q5218500",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/370.png",
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/370.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Daniel_Persico.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Pérsico"
         }
       ],
       "name": "Daniel Raúl Pérsico",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Daniel Pérsico",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pérsico, Daniel Raúl"
     },
     {
@@ -4418,6 +4507,12 @@
       "gender": "male",
       "given_name": "Guillermo Juan",
       "id": "f91fe30e-f02b-4d64-b209-1d737bed25ac",
+      "identifiers": [
+        {
+          "identifier": "Q18711889",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/439.png",
       "images": [
         {
