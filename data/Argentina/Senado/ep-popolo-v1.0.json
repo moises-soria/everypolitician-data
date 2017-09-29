@@ -1176,6 +1176,12 @@
       "gender": "female",
       "given_name": "María Ester",
       "id": "45f80f3f-d1d4-407c-acaf-2b0cddbef848",
+      "identifiers": [
+        {
+          "identifier": "Q19264150",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/426.png",
       "images": [
         {
@@ -1215,6 +1221,12 @@
       "gender": "female",
       "given_name": "Silvia Beatriz",
       "id": "49eaf48e-d8af-4dad-9f3d-9232abb2264d",
+      "identifiers": [
+        {
+          "identifier": "Q18711909",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/451.png",
       "images": [
         {
@@ -1232,6 +1244,13 @@
         }
       ],
       "name": "Silvia Beatriz Elías de Perez",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvia Beatriz Elías de Pérez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Elías de Perez, Silvia Beatriz"
     },
     {
@@ -1906,6 +1925,12 @@
       "gender": "male",
       "given_name": "Salvador",
       "id": "75e3d799-25e4-4851-a27c-33e3cf946887",
+      "identifiers": [
+        {
+          "identifier": "Q18711860",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/422.png",
       "images": [
         {
@@ -1961,6 +1986,7 @@
       "sort_name": "Pais, Juan Mario"
     },
     {
+      "birth_date": "1958-05-30",
       "contact_details": [
         {
           "type": "email",
@@ -1984,6 +2010,12 @@
       "gender": "female",
       "given_name": "Marina Raquel",
       "id": "7ddb3ad3-614b-4a31-ba84-e24c5ebf8263",
+      "identifiers": [
+        {
+          "identifier": "Q6763895",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/364.png",
       "images": [
         {
@@ -1992,11 +2024,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marina_Riofrío"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/MarinaRRiofrio"
         }
       ],
       "name": "Marina Raquel Riofrío",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marina Riofrío",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Riofrío, Marina Raquel"
     },
     {
@@ -3415,6 +3458,7 @@
       "sort_name": "García Larraburu, Silvina Marcela"
     },
     {
+      "birth_date": "1971",
       "contact_details": [
         {
           "type": "email",
@@ -3444,9 +3488,16 @@
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/434.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Eduardo_Aguilar_en_el_Impenetrable.JPG"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Eduardo_Aguilar"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/EduardoAguilarChaco"
@@ -3457,6 +3508,13 @@
         }
       ],
       "name": "Eduardo Alberto Aguilar",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Eduardo Aguilar",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Aguilar, Eduardo Alberto"
     },
     {
@@ -4200,6 +4258,12 @@
       "gender": "female",
       "given_name": "Mirtha María Teresita",
       "id": "ef43d63c-b5a6-4a58-80bb-442cd03f623c",
+      "identifiers": [
+        {
+          "identifier": "Q18711924",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/420.png",
       "images": [
         {
