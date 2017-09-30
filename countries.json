@@ -477,11 +477,11 @@
         "slug": "Diputados",
         "sources_directory": "data/Argentina/Diputados/sources",
         "popolo": "data/Argentina/Diputados/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3a368a1d27869f3e3e404394de4c08f43fd22a/data/Argentina/Diputados/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/714495c7252d586c50205b1d43c37654d7b1cd83/data/Argentina/Diputados/ep-popolo-v1.0.json",
         "names": "data/Argentina/Diputados/names.csv",
-        "lastmod": "1506526974",
+        "lastmod": "1506678620",
         "person_count": 396,
-        "sha": "4d3a368a1d27869f3e3e404394de4c08f43fd22a",
+        "sha": "714495c7252d586c50205b1d43c37654d7b1cd83",
         "legislative_periods": [
           {
             "end_date": "2017-12-31",
@@ -490,7 +490,7 @@
             "start_date": "2017-01-01",
             "slug": "135",
             "csv": "data/Argentina/Diputados/term-135.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3a368a1d27869f3e3e404394de4c08f43fd22a/data/Argentina/Diputados/term-135.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/714495c7252d586c50205b1d43c37654d7b1cd83/data/Argentina/Diputados/term-135.csv"
           },
           {
             "end_date": "2016-12-31",
@@ -499,7 +499,7 @@
             "start_date": "2016-01-01",
             "slug": "134",
             "csv": "data/Argentina/Diputados/term-134.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3a368a1d27869f3e3e404394de4c08f43fd22a/data/Argentina/Diputados/term-134.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/714495c7252d586c50205b1d43c37654d7b1cd83/data/Argentina/Diputados/term-134.csv"
           },
           {
             "end_date": "2015-12-31",
@@ -508,10 +508,10 @@
             "start_date": "2015-01-01",
             "slug": "133",
             "csv": "data/Argentina/Diputados/term-133.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3a368a1d27869f3e3e404394de4c08f43fd22a/data/Argentina/Diputados/term-133.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/714495c7252d586c50205b1d43c37654d7b1cd83/data/Argentina/Diputados/term-133.csv"
           }
         ],
-        "statement_count": 20366,
+        "statement_count": 20529,
         "type": "lower house"
       },
       {
@@ -519,11 +519,11 @@
         "slug": "Senado",
         "sources_directory": "data/Argentina/Senado/sources",
         "popolo": "data/Argentina/Senado/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Argentina/Senado/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/25faa250c55756b638ebd669b4aa5a79ba468611/data/Argentina/Senado/ep-popolo-v1.0.json",
         "names": "data/Argentina/Senado/names.csv",
-        "lastmod": "1504041576",
+        "lastmod": "1506698408",
         "person_count": 72,
-        "sha": "978250b8810496107ac98596414204e5bca839be",
+        "sha": "25faa250c55756b638ebd669b4aa5a79ba468611",
         "legislative_periods": [
           {
             "end_date": "2017-12-09",
@@ -532,10 +532,10 @@
             "start_date": "2015-12-10",
             "slug": "2015",
             "csv": "data/Argentina/Senado/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Argentina/Senado/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/25faa250c55756b638ebd669b4aa5a79ba468611/data/Argentina/Senado/term-2015.csv"
           }
         ],
-        "statement_count": 2939,
+        "statement_count": 3246,
         "type": "upper house"
       }
     ]
@@ -3537,11 +3537,11 @@
         "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/74681e94de43049d33b0f4933eb7b81b5ccc8cf2/data/Germany/Bundestag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d74b01465db5a53a93033bdbed086a07fc69e613/data/Germany/Bundestag/ep-popolo-v1.0.json",
         "names": "data/Germany/Bundestag/names.csv",
-        "lastmod": "1506753448",
+        "lastmod": "1506759139",
         "person_count": 4073,
-        "sha": "74681e94de43049d33b0f4933eb7b81b5ccc8cf2",
+        "sha": "d74b01465db5a53a93033bdbed086a07fc69e613",
         "legislative_periods": [
           {
             "id": "term/19",
@@ -3549,7 +3549,7 @@
             "start_date": "2017-10-24",
             "slug": "19",
             "csv": "data/Germany/Bundestag/term-19.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/74681e94de43049d33b0f4933eb7b81b5ccc8cf2/data/Germany/Bundestag/term-19.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d74b01465db5a53a93033bdbed086a07fc69e613/data/Germany/Bundestag/term-19.csv"
           },
           {
             "end_date": "2017-10-24",
@@ -3558,7 +3558,7 @@
             "start_date": "2013-10-22",
             "slug": "18",
             "csv": "data/Germany/Bundestag/term-18.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-18.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-18.csv"
           },
           {
             "end_date": "2013-10-22",
@@ -3567,7 +3567,7 @@
             "start_date": "2009-10-27",
             "slug": "17",
             "csv": "data/Germany/Bundestag/term-17.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-17.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-17.csv"
           },
           {
             "end_date": "2009-10-27",
@@ -3576,7 +3576,7 @@
             "start_date": "2005-10-18",
             "slug": "16",
             "csv": "data/Germany/Bundestag/term-16.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-16.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-16.csv"
           },
           {
             "end_date": "2005-10-18",
@@ -3585,7 +3585,7 @@
             "start_date": "2002-10-17",
             "slug": "15",
             "csv": "data/Germany/Bundestag/term-15.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-15.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-15.csv"
           },
           {
             "end_date": "2002-10-17",
@@ -3603,7 +3603,7 @@
             "start_date": "1994-11-10",
             "slug": "13",
             "csv": "data/Germany/Bundestag/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-13.csv"
           },
           {
             "end_date": "1994-11-10",
@@ -3612,7 +3612,7 @@
             "start_date": "1990-12-20",
             "slug": "12",
             "csv": "data/Germany/Bundestag/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-12.csv"
           },
           {
             "end_date": "1990-12-20",
@@ -3621,7 +3621,7 @@
             "start_date": "1987-02-18",
             "slug": "11",
             "csv": "data/Germany/Bundestag/term-11.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-11.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-11.csv"
           },
           {
             "end_date": "1987-02-18",
@@ -3630,7 +3630,7 @@
             "start_date": "1983-03-29",
             "slug": "10",
             "csv": "data/Germany/Bundestag/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-10.csv"
           },
           {
             "end_date": "1983-03-29",
@@ -3639,7 +3639,7 @@
             "start_date": "1980-11-04",
             "slug": "9",
             "csv": "data/Germany/Bundestag/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-9.csv"
           },
           {
             "end_date": "1980-11-04",
@@ -3648,7 +3648,7 @@
             "start_date": "1976-12-14",
             "slug": "8",
             "csv": "data/Germany/Bundestag/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-8.csv"
           },
           {
             "end_date": "1976-12-14",
@@ -3657,7 +3657,7 @@
             "start_date": "1972-12-13",
             "slug": "7",
             "csv": "data/Germany/Bundestag/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-7.csv"
           },
           {
             "end_date": "1972-12-13",
@@ -3666,7 +3666,7 @@
             "start_date": "1969-10-20",
             "slug": "6",
             "csv": "data/Germany/Bundestag/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-6.csv"
           },
           {
             "end_date": "1969-10-20",
@@ -3675,7 +3675,7 @@
             "start_date": "1965-10-19",
             "slug": "5",
             "csv": "data/Germany/Bundestag/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-5.csv"
           },
           {
             "end_date": "1965-10-19",
@@ -3684,7 +3684,7 @@
             "start_date": "1961-10-17",
             "slug": "4",
             "csv": "data/Germany/Bundestag/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-4.csv"
           },
           {
             "end_date": "1961-10-17",
@@ -3693,7 +3693,7 @@
             "start_date": "1957-10-15",
             "slug": "3",
             "csv": "data/Germany/Bundestag/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-3.csv"
           },
           {
             "end_date": "1957-10-15",
@@ -3702,7 +3702,7 @@
             "start_date": "1953-10-06",
             "slug": "2",
             "csv": "data/Germany/Bundestag/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-2.csv"
           },
           {
             "end_date": "1953-10-06",
@@ -3711,10 +3711,10 @@
             "start_date": "1949-09-07",
             "slug": "1",
             "csv": "data/Germany/Bundestag/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/664afd90b0d422707811d8bef592f76ca84ebd41/data/Germany/Bundestag/term-1.csv"
           }
         ],
-        "statement_count": 195054,
+        "statement_count": 197987,
         "type": "unicameral legislature"
       }
     ]
