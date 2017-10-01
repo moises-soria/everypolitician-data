@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1975",
       "contact_details": [
         {
           "type": "email",
@@ -12,11 +13,16 @@
       ],
       "email": "oandrade@parlamento.gub.uy",
       "gender": "male",
+      "given_name": "Óscar",
       "id": "037d8102-5ba4-41e7-b38a-a68a8c94a567",
       "identifiers": [
         {
           "identifier": "4809917",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18693104",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09917.jpg",
@@ -25,7 +31,20 @@
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09917.jpg"
         }
       ],
-      "name": "Oscar Andrade"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Óscar_Andrade_(político)"
+        }
+      ],
+      "name": "Oscar Andrade",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Óscar Andrade",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -354,6 +373,7 @@
       "sort_name": "Puig , Luis"
     },
     {
+      "birth_date": "1954",
       "contact_details": [
         {
           "type": "email",
@@ -361,18 +381,30 @@
         }
       ],
       "email": "gbianchi@parlamento.gub.uy",
+      "family_name": "Bianchi",
       "gender": "female",
+      "given_name": "Graciela",
       "id": "18e2aae9-6b36-4d56-b169-9f7f082169c5",
       "identifiers": [
         {
           "identifier": "4808879",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19299074",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08879_1.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08879_1.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Graciela_Bianchi"
         }
       ],
       "name": "Graciela Bianchi",
@@ -901,6 +933,7 @@
       "sort_name": "Mier , Sergio"
     },
     {
+      "birth_date": "1976-11-01",
       "contact_details": [
         {
           "type": "email",
@@ -909,17 +942,51 @@
       ],
       "email": "mgelman@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Macarena",
       "id": "3f7c7576-8113-4c20-8025-1e01901c7f9e",
       "identifiers": [
         {
           "identifier": "4811588",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0113k6ln",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q16596518",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11588_0.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11588_0.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Macarena_Gelman_acto.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Macarena_Gelman"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Macarena_Gelman"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Macarena_Gelman"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Macarena_Gelman"
+        },
+        {
+          "note": "website",
+          "url": "http://ir.uy"
         }
       ],
       "name": "Macarena Gelman",
@@ -951,6 +1018,7 @@
       "sort_name": "Aristimuño , Saúl"
     },
     {
+      "birth_date": "1956-04-04",
       "contact_details": [
         {
           "type": "email",
@@ -959,17 +1027,28 @@
       ],
       "email": "ipassada@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Ivonne",
       "id": "465e9473-122b-4c99-a877-2f51680e2ccb",
       "identifiers": [
         {
           "identifier": "4807769",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5923354",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07769.jpg",
       "images": [
         {
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07769.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ivonne_Passada"
         }
       ],
       "name": "Ivonne Passada"
@@ -1044,6 +1123,7 @@
       ]
     },
     {
+      "birth_date": "1961-09-23",
       "contact_details": [
         {
           "type": "email",
@@ -1052,11 +1132,20 @@
       ],
       "email": "lgalan@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Lilián",
       "id": "4b9459f1-0ff8-453c-8d35-0f06e36336c8",
       "identifiers": [
         {
+          "identifier": "9284",
+          "scheme": "autores_uy"
+        },
+        {
           "identifier": "4811525",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20859060",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11525_0.JPG",
@@ -1065,7 +1154,20 @@
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11525_0.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Lilián_Galán"
+        }
+      ],
       "name": "Lilián Raquel Galán Pérez",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lilián Galán",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Galán Pérez , Lilián Raquel"
     },
     {
@@ -1724,19 +1826,30 @@
       "name": "María Cristina Lustemberg Haro"
     },
     {
+      "birth_date": "1955-01-06",
       "contact_details": [
         {
           "type": "email",
           "value": "mmontaner@parlamento.gub.uy"
         }
       ],
+      "death_date": "2016-03-09",
       "email": "mmontaner@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Martha",
       "id": "80c8f042-e03d-415e-986b-10ae456862dc",
       "identifiers": [
         {
+          "identifier": "9040",
+          "scheme": "autores_uy"
+        },
+        {
           "identifier": "4802945",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6002146",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02945.jpg",
@@ -1745,9 +1858,23 @@
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02945.jpg"
         }
       ],
-      "name": "Martha Montaner"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Martha_Montaner"
+        }
+      ],
+      "name": "Martha Montaner",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Марта Монтанер",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1959-02-16",
       "contact_details": [
         {
           "type": "email",
@@ -1756,17 +1883,28 @@
       ],
       "email": "msantalla@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Mercedes",
       "id": "8137a92c-e73a-426e-8078-353cbc868331",
       "identifiers": [
         {
           "identifier": "4809943",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18817085",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09943_1.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09943_1.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mercedes_Santalla"
         }
       ],
       "name": "Mercedes Santalla",
@@ -2052,17 +2190,47 @@
         }
       ],
       "email": "birazabal@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "Benjamín",
       "id": "90c9a714-3f10-4a15-a811-bfc1be956c77",
+      "identifiers": [
+        {
+          "identifier": "Q817770",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11848_0.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11848_0.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Benjamín_Irazábal"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Benjamín_Irazábal"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Benjamín_Irazábal"
+        }
+      ],
       "name": "Benjamín Eduardo Irazábal Calleri",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Benjamín Irazábal",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Irazábal Calleri , Benjamín Eduardo"
     },
     {
+      "birth_date": "1962-02-17",
       "contact_details": [
         {
           "type": "email",
@@ -2071,20 +2239,80 @@
       ],
       "email": "odelossantos@parlamento.gub.uy",
       "gender": "male",
+      "given_name": "Óscar",
       "id": "90d7c7a5-97f0-4d7d-8247-5971bc764ec9",
       "identifiers": [
         {
           "identifier": "4800659",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "141815906",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2011001940",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "147333911",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q293514",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00659_1.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00659_1.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flaco.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Óscar_de_los_Santos"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Óscar_de_los_Santos"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Óscar_de_los_Santos"
         }
       ],
       "name": "Oscar De los Santos",
+      "other_names": [
+        {
+          "name": "Óscar de los Santos",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Óscar de los Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Óscar de los Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Óscar de los Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Óscar de los Santos",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "De los Santos , Oscar"
     },
     {
@@ -2392,6 +2620,7 @@
       "sort_name": "Varela Nestier , Carlos"
     },
     {
+      "birth_date": "1961-10-16",
       "contact_details": [
         {
           "type": "email",
@@ -2400,17 +2629,35 @@
       ],
       "email": "gbesozzi@parlamento.gub.uy",
       "gender": "male",
+      "given_name": "Guillermo",
       "id": "9de69cd6-448a-4798-857f-ba1cb05bd551",
       "identifiers": [
         {
           "identifier": "4810003",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1553996",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10003.jpg",
       "images": [
         {
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10003.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Gbesozzi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Guillermo_Besozzi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Guillermo_Besozzi"
         }
       ],
       "name": "Guillermo Besozzi"
@@ -2571,6 +2818,7 @@
       "sort_name": "Asti , Alfredo"
     },
     {
+      "birth_date": "1973-10-24",
       "contact_details": [
         {
           "type": "email",
@@ -2579,17 +2827,28 @@
       ],
       "email": "valonso@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Verónica",
       "id": "a82b5637-13b7-48b7-b701-742684a69917",
       "identifiers": [
         {
           "identifier": "4809891",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6160714",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09891.jpg",
       "images": [
         {
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09891.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Verónica_Alonso"
         }
       ],
       "name": "Verónica Alonso"
@@ -2882,6 +3141,7 @@
       "sort_name": "Iturralde Viñas , Pablo"
     },
     {
+      "birth_date": "1952",
       "contact_details": [
         {
           "type": "email",
@@ -2890,17 +3150,31 @@
       ],
       "email": "edurubio@parlamento.gub.uy",
       "gender": "male",
+      "given_name": "Eduardo",
       "id": "b8ad902f-d7d6-4540-8411-514ca3267feb",
       "identifiers": [
         {
           "identifier": "4805252",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5819663",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05252_1.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05252_1.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Eduardo_rubio_42aniversario.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Eduardo_Rubio_(político)"
         }
       ],
       "name": "Eduardo Rubio",
@@ -3100,6 +3374,7 @@
       "name": "Víctor Semproni"
     },
     {
+      "birth_date": "1974-08-29",
       "contact_details": [
         {
           "type": "email",
@@ -3108,17 +3383,31 @@
       ],
       "email": "ceguiluz@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Cecilia",
       "id": "c24c7ac7-f703-436e-abd5-c63712ccce46",
       "identifiers": [
         {
           "identifier": "4809964",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5759799",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09964_1.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09964_1.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cecilia_Eguiluz.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cecilia_Eguiluz"
         }
       ],
       "name": "Cecilia Eguiluz",
@@ -3295,6 +3584,7 @@
       "sort_name": "Peña , Adrián"
     },
     {
+      "birth_date": "1959-10-25",
       "contact_details": [
         {
           "type": "email",
@@ -3303,17 +3593,40 @@
       ],
       "email": "acastaingdebat@parlamento.gub.uy",
       "gender": "male",
+      "given_name": "Armando",
       "id": "ce284048-8583-4f4c-ab82-9652a7f4164d",
       "identifiers": [
         {
           "identifier": "4808584",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04n2bhj",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q678225",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08584_0.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08584_0.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Armando_Castaingdebat"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Armando_Castaingdebat"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Armando_Castaingdebat"
         }
       ],
       "name": "Armando Castaingdebat",
@@ -3504,6 +3817,7 @@
       "sort_name": "Bacigalupe Aunés , Ruben Aníbal"
     },
     {
+      "birth_date": "1946-04-25",
       "contact_details": [
         {
           "type": "email",
@@ -3512,20 +3826,45 @@
       ],
       "email": "bsanseverino@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Bertha",
       "id": "e467f5eb-28e7-4d0b-a61f-244163ecd2d0",
       "identifiers": [
         {
+          "identifier": "6199",
+          "scheme": "autores_uy"
+        },
+        {
           "identifier": "4808461",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2835884",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08461_1.JPG",
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08461_1.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bertha_Sanseverino_Flickr.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Bertha_Sanseverino"
         }
       ],
       "name": "Berta Sanseverino",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bertha Sanseverino",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Sanseverino , Berta"
     },
     {
@@ -3745,6 +4084,7 @@
       "sort_name": "Ríos , Silvio"
     },
     {
+      "birth_date": "1987-01-13",
       "contact_details": [
         {
           "type": "email",
@@ -3753,11 +4093,16 @@
       ],
       "email": "mmutti@parlamento.gub.uy",
       "gender": "female",
+      "given_name": "Manuela",
       "id": "fb2306b6-4574-4628-ba23-f59b9d50d8b1",
       "identifiers": [
         {
           "identifier": "4811594",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20994912",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11594_2.JPG",
@@ -3766,7 +4111,29 @@
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11594_2.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Manuela_Mutti"
+        }
+      ],
       "name": "María Manuela Mutti Fornaroli",
+      "other_names": [
+        {
+          "name": "Manuela Mutti",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Manuela Mutti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Manuela Mutti",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mutti Fornaroli , María Manuela"
     },
     {
