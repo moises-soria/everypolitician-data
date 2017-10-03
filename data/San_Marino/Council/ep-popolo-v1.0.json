@@ -26,18 +26,29 @@
     {
       "birth_date": "1985-05-18",
       "family_name": "Carattoni",
+      "gender": "male",
       "given_name": "Enrico",
       "id": "03e1107c-ecad-4c71-add3-8eabd78c6d3d",
       "identifiers": [
         {
           "identifier": "17141949",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q40112930",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17021238_17000062_EnricoCarattoni.jpg",
       "images": [
         {
           "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17021238_17000062_EnricoCarattoni.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Enrico_Carattoni"
         }
       ],
       "name": "Enrico Carattoni",
