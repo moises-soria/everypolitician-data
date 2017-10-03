@@ -1,4 +1,556 @@
 {
+  "cultura,_educacion_y_trabajo": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556960"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Partido de la Cultura, Educación y Trabajo",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "avanzar_san_luis": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556555"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Avanzar San Luis",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "bloque_de_los_trabajadores": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556372"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Bloque de Los Trabajadores",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "bloque_social_cristiano": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556608"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Bloque Social Cristiano",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "brigadier_general_juan_bautista_bustos": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556452"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Brigadier General Juan Bautista Bustos",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "chubut_somos_todos": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q26258776"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Chubut Somos Todos",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "coalicion_civica": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1104292"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Coalición Cívica ARI",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Civic Coalition ARI",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Sostegno per una Repubblica Egualitaria",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Coalición Cívica ARI",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pl",
+        "name": "Umocnienie Republiki Równości",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Afirmación para una República Igualitaria",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "it",
+        "name": "Alternativa per una Repubblica Egualitaria",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Alternativa por una República de Iguales",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Afirmacion para una Republica Igualitaria",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Alternativa por una Republica de Iguales",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Afirmación para una República Igualitaria",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Coalicion Civica ARI",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Afirmacion para una República Igualitaria",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Afirmación para una Republica Igualitaria",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Coalición Civica ARI",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Coalicion Cívica ARI",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.ccari.org.ar/index_web.htm",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Coalic_civica_ari_logo.png"
+  },
+  "compromiso_con_san_juan": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556474"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Compromiso con San Juan",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "compromiso_federal": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5668474"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Alianza Compromiso Federal",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Federal Commitment",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "concertacion_forja": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5870697"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Fuerza de Orientación Radical de la Joven Argentina",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Fuerza de Orientacion Radical de la Joven Argentina",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
+  },
+  "del_bicentenario": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556340"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Del Bicentenario",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "democrata_progresista": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q287777"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Democratic Progressive Party",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Demócrata Progresista",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "民主進步黨 (阿根廷)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "民主進歩党 (アルゼンチン)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Democrata Progresista",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.partidodemocrataprogresista.com/",
+        "note": "website"
+      }
+    ]
+  },
+  "dialogo_y_trabajo": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556839"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Dialogo y Trabajo",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "federal_unidos_por_una_nueva_argentina": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q15120034"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Renewal Front",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Renovador",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Fronte Rinnovatore",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "復興陣線",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "重建陣線",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "重建阵线",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.frenterenovador.org.ar/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Frenterenovador2015.PNG"
+  },
+  "frente_civico_por_santiago": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3088428"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Front civique pour Santiago",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Civic Front for Santiago",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Cívico por Santiago",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Civico por Santiago",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
+  },
+  "frente_civico_y_social_de_catamarca": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7248613"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Progressive, Civic and Social Front",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Progresista, Cívico y Social",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "id",
+        "name": "Front Progresif",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Progresista, Civico y Social",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
+  },
+  "frente_de_izquierda_y_de_los_trabajadores": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q598744"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Frente de Izquierda y de los Trabajadores",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Workers' Left Front",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Fronte di Sinistra e dei Lavoratori",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "工人左翼阵线",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ko",
+        "name": "노동자의 좌파전선",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "FIT",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Frente de Izquierda",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
+  },
+  "frente_de_la_concordia_misionero": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556499"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Frente de la Concordia Misionero",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "frente_norte": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556530"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Frente Norte",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
   "frente_para_la_victoria_-_pj": {
     "identifiers": [
       {
@@ -208,323 +760,7 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Frente_para_la_Victoria.svg"
   },
-  "union_pro": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q1507720"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "de",
-        "name": "Propuesta Republicana",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "Propuesta Republicana",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Propuesta Republicana",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Republican Proposal",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Proposta Repubblicana",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "be",
-        "name": "Рэспубліканская прапанова",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ko",
-        "name": "제안공화당",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ru",
-        "name": "Республиканское предложение",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "nb",
-        "name": "Propuesta Republicana",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "uk",
-        "name": "Республіканська пропозиція",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "hy",
-        "name": "Հանրապետական առաջարկություն",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "cs",
-        "name": "Republikánský návrh",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "la",
-        "name": "Propositum republicanum",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "Propuesta Republicana",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "Proposta Republicana",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-hant",
-        "name": "共和議案黨",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "共和提案",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "共和計畫",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "he",
-        "name": "PRO",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "Proposition républicaine",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "PRO",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Partido PRO",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "it",
-        "name": "Propuesta Republicana",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "nb",
-        "name": "PRO",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "zh",
-        "name": "共和倡議",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "阿根廷共和党",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "共和提案党",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.pro.com.ar",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Propuesta_Republicana.png"
-  },
-  "ucr": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q123585"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "ca",
-        "name": "Unió Cívica Radical",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "cs",
-        "name": "Radikální občanská unie",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Radical Civic Union",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "Union civique radicale",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Unione Civica Radicale",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ja",
-        "name": "急進市民同盟",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ka",
-        "name": "რადიკალური სამოქალაქო კავშირი",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "lt",
-        "name": "Argentinos radikali pilietinė sąjunga",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "nl",
-        "name": "Radicale Burgerunie",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pl",
-        "name": "Radykalna Unia Obywatelska",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "União Cívica Radical",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ru",
-        "name": "Гражданский радикальный союз",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "uk",
-        "name": "Громадянський радикальний союз",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "激进公民联盟",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "be",
-        "name": "Радыкальны грамадзянскі саюз",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "el",
-        "name": "Ριζοσπαστική Πολιτική Ένωση",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ko",
-        "name": "급진시민연합",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "UCR",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "Unión Cívica Radical",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "Union Civica Radical",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.ucr.org.ar/",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Escudo_de_la_UCR.svg"
-  },
-  "federal_unidos_por_una_nueva_argentina": {
+  "frente_renovador": {
     "identifiers": [
       {
         "scheme": "wikidata",
@@ -576,6 +812,69 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Frenterenovador2015.PNG"
+  },
+  "gen": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5692773"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Generación para un Encuentro Nacional",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Partito GEN",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "統一國家一代黨",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "统一国家一代党",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Generacion para un Encuentro Nacional",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.partidogen.org",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Partidogen.jpg"
+  },
+  "juntos_por_argentina": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556267"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Juntos por Argentina",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
   },
   "justicialista": {
     "identifiers": [
@@ -846,6 +1145,140 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/PJ-logo.png"
   },
+  "libertad_valores_y_cambio": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556856"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Libertad Valores y Cambio",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "libres_del_sur": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5501084"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Freemen of the South Movement",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Movimiento Libres del Sur",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Movimiento Libres del Sur",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Movimento Libero del Sud",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Movimiento libres del sur",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Movimiento Libres del Sur (siglo XXI)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://libresdelsur.org.ar",
+        "note": "website"
+      }
+    ]
+  },
+  "mov_pop_neuquino": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7002024"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Neuquén People's Movement",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Movimiento Popular Neuquino",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "movimiento_solidario_popular": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41557014"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Movimiento Solidario Popular",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "partido_bloquista_de_san_juan": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q6156958"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Unión Cívica Radical Bloquista",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "Гражданский радикальный союз Блоквиста",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Union Civica Radical Bloquista",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
+  },
   "partido_socialista": {
     "identifiers": [
       {
@@ -995,466 +1428,35 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_Partido_Socialista_Argentina.png"
   },
-  "frente_civico_por_santiago": {
+  "peronismo_para_la_victoria": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q3088428"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "fr",
-        "name": "Front civique pour Santiago",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Civic Front for Santiago",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Frente Cívico por Santiago",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Frente Civico por Santiago",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ]
-  },
-  "compromiso_federal": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q5668474"
+        "identifier": "Q41556247"
       }
     ],
     "other_names": [
       {
         "lang": "es",
-        "name": "Alianza Compromiso Federal",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Federal Commitment",
+        "name": "Peronismo para la Victoria",
         "note": "multilingual",
         "source": "wikidata-label"
       }
     ]
   },
-  "gen": {
+  "primero_tucuman": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q5692773"
+        "identifier": "Q41556939"
       }
     ],
     "other_names": [
       {
         "lang": "es",
-        "name": "Generación para un Encuentro Nacional",
+        "name": "Primero Tucuman",
         "note": "multilingual",
         "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Partito GEN",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-hant",
-        "name": "統一國家一代黨",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "统一国家一代党",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Generacion para un Encuentro Nacional",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.partidogen.org",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Partidogen.jpg"
-  },
-  "coalicion_civica": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q1104292"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "de",
-        "name": "Coalición Cívica ARI",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Civic Coalition ARI",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Sostegno per una Repubblica Egualitaria",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Coalición Cívica ARI",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pl",
-        "name": "Umocnienie Republiki Równości",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "de",
-        "name": "Afirmación para una República Igualitaria",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "it",
-        "name": "Alternativa per una Repubblica Egualitaria",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Alternativa por una República de Iguales",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Afirmacion para una Republica Igualitaria",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Alternativa por una Republica de Iguales",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Afirmación para una República Igualitaria",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Coalicion Civica ARI",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Afirmacion para una República Igualitaria",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Afirmación para una Republica Igualitaria",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Coalición Civica ARI",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Coalicion Cívica ARI",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.ccari.org.ar/index_web.htm",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Coalic_civica_ari_logo.png"
-  },
-  "mov_pop_neuquino": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q7002024"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Neuquén People's Movement",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Movimiento Popular Neuquino",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ]
-  },
-  "frente_civico_y_social_de_catamarca": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q7248613"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Progressive, Civic and Social Front",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Frente Progresista, Cívico y Social",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "id",
-        "name": "Front Progresif",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Frente Progresista, Civico y Social",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ]
-  },
-  "libres_del_sur": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q5501084"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Freemen of the South Movement",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Movimiento Libres del Sur",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "de",
-        "name": "Movimiento Libres del Sur",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Movimento Libero del Sud",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Movimiento libres del sur",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Movimiento Libres del Sur (siglo XXI)",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://libresdelsur.org.ar",
-        "note": "website"
-      }
-    ]
-  },
-  "frente_de_izquierda_y_de_los_trabajadores": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q598744"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "es",
-        "name": "Frente de Izquierda y de los Trabajadores",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Workers' Left Front",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Fronte di Sinistra e dei Lavoratori",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "工人左翼阵线",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ko",
-        "name": "노동자의 좌파전선",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "FIT",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "Frente de Izquierda",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ]
-  },
-  "frente_renovador": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q15120034"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Renewal Front",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Frente Renovador",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Fronte Rinnovatore",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "復興陣線",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-hant",
-        "name": "重建陣線",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "重建阵线",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.frenterenovador.org.ar/",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Frenterenovador2015.PNG"
-  },
-  "solidario_si": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q6064404"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "es",
-        "name": "Partido Solidario",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "Partido Solidário",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "PSOL",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "PSOL",
-        "note": "multilingual",
-        "source": "wikidata-alias"
       }
     ]
   },
@@ -1523,100 +1525,481 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Partdetrabsoc.jpg"
   },
-  "democrata_progresista": {
+  "salta_somos_todos": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q287777"
+        "identifier": "Q41556881"
       }
     ],
     "other_names": [
       {
-        "lang": "en",
-        "name": "Democratic Progressive Party",
+        "lang": "es",
+        "name": "Salta Somos Todos",
         "note": "multilingual",
         "source": "wikidata-label"
+      }
+    ]
+  },
+  "solidario_si": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q6064404"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Partido Solidario",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Solidário",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "PSOL",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
-        "name": "Partido Demócrata Progresista",
+        "name": "PSOL",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
+  },
+  "trabajo_y_dignidad": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41556400"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Trabajo y Dignidad",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "ucr": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q123585"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ca",
+        "name": "Unió Cívica Radical",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
-        "lang": "zh",
-        "name": "民主進步黨 (阿根廷)",
+        "lang": "cs",
+        "name": "Radikální občanská unie",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Radical Civic Union",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Union civique radicale",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Unione Civica Radicale",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ja",
-        "name": "民主進歩党 (アルゼンチン)",
+        "name": "急進市民同盟",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
-        "lang": "es",
-        "name": "Partido Democrata Progresista",
+        "lang": "ka",
+        "name": "რადიკალური სამოქალაქო კავშირი",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "lt",
+        "name": "Argentinos radikali pilietinė sąjunga",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Radicale Burgerunie",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pl",
+        "name": "Radykalna Unia Obywatelska",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "União Cívica Radical",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "Гражданский радикальный союз",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Громадянський радикальний союз",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "激进公民联盟",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be",
+        "name": "Радыкальны грамадзянскі саюз",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "el",
+        "name": "Ριζοσπαστική Πολιτική Ένωση",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ko",
+        "name": "급진시민연합",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "UCR",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Unión Cívica Radical",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Union Civica Radical",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
     ],
     "links": [
       {
-        "url": "http://www.partidodemocrataprogresista.com/",
+        "url": "http://www.ucr.org.ar/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Escudo_de_la_UCR.svg"
   },
-  "concertacion_forja": {
+  "unidos_por_una_nueva_argentina": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q5870697"
+        "identifier": "Q21044814"
       }
     ],
     "other_names": [
       {
         "lang": "es",
-        "name": "Fuerza de Orientación Radical de la Joven Argentina",
+        "name": "Unidos por una Nueva Alternativa",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "United for a New Alternative",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "聯合新選擇",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Una_logo.png"
+  },
+  "union_celeste_y_blanco": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q6156941"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Unión Celeste y Blanco",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "es",
-        "name": "Fuerza de Orientacion Radical de la Joven Argentina",
+        "name": "Union Celeste y Blanco",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
+    ],
+    "links": [
+      {
+        "url": "http://www.unioncelesteyblanco.com/",
+        "note": "website"
+      }
     ]
   },
-  "partido_bloquista_de_san_juan": {
+  "union_por_cordoba": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q6156958"
+        "identifier": "Q6157188"
       }
     ],
     "other_names": [
       {
         "lang": "es",
-        "name": "Unión Cívica Radical Bloquista",
+        "name": "Unión por Córdoba",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Union por Cordoba",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
+  },
+  "union_por_entre_rios": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q41525292"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Unión por Entre Ríos",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "union_pro": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1507720"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Propuesta Republicana",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Propuesta Republicana",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Propuesta Republicana",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Republican Proposal",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Proposta Repubblicana",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be",
+        "name": "Рэспубліканская прапанова",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ko",
+        "name": "제안공화당",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ru",
-        "name": "Гражданский радикальный союз Блоквиста",
+        "name": "Республиканское предложение",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
+        "lang": "nb",
+        "name": "Propuesta Republicana",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Республіканська пропозиція",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hy",
+        "name": "Հանրապետական առաջարկություն",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cs",
+        "name": "Republikánský návrh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "la",
+        "name": "Propositum republicanum",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "Propuesta Republicana",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Proposta Republicana",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "共和議案黨",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "共和提案",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "共和計畫",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "PRO",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Proposition républicaine",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "es",
-        "name": "Union Civica Radical Bloquista",
+        "name": "PRO",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Partido PRO",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "it",
+        "name": "Propuesta Republicana",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nb",
+        "name": "PRO",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "共和倡議",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "阿根廷共和党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "共和提案党",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
-    ]
+    ],
+    "links": [
+      {
+        "url": "http://www.pro.com.ar",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Propuesta_Republicana.png"
   }
 }
