@@ -10101,6 +10101,12 @@
     },
     {
       "birth_date": "1959-09-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mangonui08"
+        }
+      ],
       "family_name": "Jones",
       "gender": "male",
       "given_name": "Shane",
@@ -10115,6 +10121,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Shane_Jones.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/476088244484833280/lwQvHIjr.jpeg"
         }
       ],
       "links": [
@@ -10133,6 +10142,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Shane_Jones"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mangonui08"
         }
       ],
       "name": "Shane Jones",
