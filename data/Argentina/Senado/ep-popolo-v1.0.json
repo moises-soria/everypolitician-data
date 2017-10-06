@@ -4545,67 +4545,1095 @@
     {
       "classification": "party",
       "id": "party/alianza_cambiemos",
-      "name": "Alianza Cambiemos"
+      "identifiers": [
+        {
+          "identifier": "Q20749344",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cambiemos_logo.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://cambiemos.com"
+        }
+      ],
+      "name": "Alianza Cambiemos",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Cambiemos",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Камбьемос",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "si",
+          "name": "කම්බියමොස්",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "讓我們改變",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "变革阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "カンビエモス",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "DERECHA",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "我們改變",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "變革陣線",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "我们改变",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "让我们改变",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_compromiso_federal",
-      "name": "Alianza Compromiso Federal"
+      "identifiers": [
+        {
+          "identifier": "Q5668474",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alianza Compromiso Federal",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Alianza Compromiso Federal",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Federal Commitment",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_encuentro_corrientes",
-      "name": "Alianza Encuentro Corrientes"
+      "identifiers": [
+        {
+          "identifier": "Q41654015",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alianza Encuentro Corrientes",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Alianza Encuentro Corrientes",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_frente_popular_riojano",
-      "name": "Alianza Frente Popular Riojano"
+      "identifiers": [
+        {
+          "identifier": "Q41629099",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alianza Frente Popular Riojano",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Alianza Frente Popular Riojano",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_frente_progresista",
-      "name": "Alianza Frente Progresista"
+      "identifiers": [
+        {
+          "identifier": "Q41557258",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alianza Frente Progresista",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Alianza Frente Progresista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_frente_p/_victoria_(peronismo_pampeano)",
-      "name": "Alianza Frente p/ Victoria (Peronismo Pampeano)"
+      "identifiers": [
+        {
+          "identifier": "Q1072438",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Frente_para_la_Victoria.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.frenteparalavictoria.org/"
+        }
+      ],
+      "name": "Alianza Frente p/ Victoria (Peronismo Pampeano)",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Front na rzecz Zwycięstwa",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "승리를 위한 전선",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт за победу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Front pour la victoire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Front for Victory",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per a la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Фронт за перемогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte per la Vittoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Fronta za vítězství",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nb",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Фронт за перамогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Fronto por la Venko",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente para a Vitória",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Μέτωπο Για τη Νίκη",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ro",
+          "name": "Frontul pentru Victorie",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "id",
+          "name": "Front untuk Kemenangan",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "Фронт за победа",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт победы",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria, FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_frente_para_la_victoria",
-      "name": "Alianza Frente para la Victoria"
+      "identifiers": [
+        {
+          "identifier": "Q1072438",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Frente_para_la_Victoria.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.frenteparalavictoria.org/"
+        }
+      ],
+      "name": "Alianza Frente para la Victoria",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Front na rzecz Zwycięstwa",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "승리를 위한 전선",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт за победу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Front pour la victoire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Front for Victory",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per a la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Фронт за перемогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte per la Vittoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Fronta za vítězství",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nb",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Фронт за перамогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Fronto por la Venko",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente para a Vitória",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Μέτωπο Για τη Νίκη",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ro",
+          "name": "Frontul pentru Victorie",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "id",
+          "name": "Front untuk Kemenangan",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "Фронт за победа",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт победы",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria, FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_frente_para_la_victoria_riojano",
-      "name": "Alianza Frente para la Victoria Riojano"
+      "identifiers": [
+        {
+          "identifier": "Q1072438",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Frente_para_la_Victoria.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.frenteparalavictoria.org/"
+        }
+      ],
+      "name": "Alianza Frente para la Victoria Riojano",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "勝利陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Front na rzecz Zwycięstwa",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "승리를 위한 전선",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт за победу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Front pour la victoire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Front for Victory",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per a la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Фронт за перемогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte per la Vittoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Fronta za vítězství",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "胜利阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nb",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Фронт за перамогу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Fronto por la Venko",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Frente para a Vitória",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Μέτωπο Για τη Νίκη",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ro",
+          "name": "Frontul pentru Victorie",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "id",
+          "name": "Front untuk Kemenangan",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "Фронт за победа",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт победы",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Frente para la Victoria, FPV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Front per la Victòria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Frente para la Victoria",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_unen",
-      "name": "Alianza Unen"
+      "identifiers": [
+        {
+          "identifier": "Q15984938",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Unen.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://somosunen.org"
+        }
+      ],
+      "name": "Alianza Unen",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "UNEN",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Broad Front UNEN",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Ampio UNEN",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "프렌테 암플리오 우넨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "團結會議廣泛陣線",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_unión_pro",
-      "name": "Alianza Unión Pro"
+      "identifiers": [
+        {
+          "identifier": "Q1507720",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Propuesta_Republicana.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pro.com.ar"
+        }
+      ],
+      "name": "Alianza Unión Pro",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Republican Proposal",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Proposta Repubblicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Рэспубліканская прапанова",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "제안공화당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Республиканское предложение",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nb",
+          "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Республіканська пропозиція",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hy",
+          "name": "Հանրապետական առաջարկություն",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Republikánský návrh",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "la",
+          "name": "Propositum republicanum",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Proposta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "共和議案黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "共和提案",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "共和計畫",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "he",
+          "name": "PRO",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Proposition républicaine",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "PRO",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido PRO",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nb",
+          "name": "PRO",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "共和倡議",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "阿根廷共和党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "共和提案党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_unión_por_córdoba",
-      "name": "Alianza Unión por Córdoba"
+      "identifiers": [
+        {
+          "identifier": "Q41629046",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alianza Unión por Córdoba",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Alianza Unión por Córdoba",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/alianza_unión_por_entre_ríos",
-      "name": "Alianza Unión por Entre Ríos"
+      "identifiers": [
+        {
+          "identifier": "Q41628756",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alianza Unión por Entre Ríos",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Alianza Unión por Entre Ríos",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/chubut_somos_todos",
-      "name": "Chubut Somos Todos"
+      "identifiers": [
+        {
+          "identifier": "Q26258776",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Chubut Somos Todos",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Chubut Somos Todos",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -4623,7 +5651,52 @@
     {
       "classification": "party",
       "id": "party/frente_amplio_progresista",
-      "name": "Frente Amplio Progresista"
+      "identifiers": [
+        {
+          "identifier": "Q1455518",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_fap_2012.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.binnerpresidente.com"
+        }
+      ],
+      "name": "Frente Amplio Progresista",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Frente Amplio Progresista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Broad Progressive Front",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Amplio Progresista (Argentina)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Шырокі прагрэсіўны фронт, Аргенціна",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Ampio Progressista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -4665,22 +5738,102 @@
     {
       "classification": "party",
       "id": "party/frente_cívico_y_social",
-      "name": "Frente Cívico y Social"
+      "identifiers": [
+        {
+          "identifier": "Q7248613",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Frente Cívico y Social",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Progressive, Civic and Social Front",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Progresista, Cívico y Social",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "id",
+          "name": "Front Progresif",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Progresista, Civico y Social",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/frente_popular",
-      "name": "Frente Popular"
+      "identifiers": [
+        {
+          "identifier": "Q41653620",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Frente Popular",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Frente Popular",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/frente_popular_salteño",
-      "name": "Frente Popular Salteño"
+      "identifiers": [
+        {
+          "identifier": "Q41530193",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Frente Popular Salteño",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Frente Popular Salteño",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/frente_renovador_de_la_concordia",
-      "name": "Frente Renovador de la Concordia"
+      "identifiers": [
+        {
+          "identifier": "Q5505872",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Frente Renovador de la Concordia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Front for the Renewal of Concord",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Renovador de la Concordia Social",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -4897,7 +6050,39 @@
     {
       "classification": "party",
       "id": "party/movimiento_popular_fueguino",
-      "name": "Movimiento Popular Fueguino"
+      "identifiers": [
+        {
+          "identifier": "Q5507109",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.mopof.org/mpf/"
+        }
+      ],
+      "name": "Movimiento Popular Fueguino",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fueguino People's Movement",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Popular Fueguino",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Народное движение Огненной Земли",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -5067,7 +6252,21 @@
     {
       "classification": "party",
       "id": "party/unión_por_chaco",
-      "name": "Unión por Chaco"
+      "identifiers": [
+        {
+          "identifier": "Q41557246",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Unión por Chaco",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Unión por Chaco",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     }
   ],
   "meta": {
