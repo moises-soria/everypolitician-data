@@ -10355,6 +10355,11 @@
     },
     {
       "classification": "party",
+      "id": "party/glas",
+      "name": "GLAS"
+    },
+    {
+      "classification": "party",
       "id": "party/hds",
       "identifiers": [
         {
@@ -14682,7 +14687,7 @@
     {
       "area_id": "area/9th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/most",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "187edb3d-90b4-489b-8873-b10b268a74ba",
       "role": "member",
@@ -15164,7 +15169,7 @@
     {
       "area_id": "area/2nd",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "316d8368-73d1-4c92-88d4-f19c32b06d91",
       "role": "member",
@@ -15553,7 +15558,7 @@
     {
       "area_id": "area/8th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "430ce6bf-ce00-4b42-8d93-338447ce2fb7",
       "role": "member",
@@ -16303,7 +16308,7 @@
     {
       "area_id": "area/6th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "5d57d36c-35f0-4c70-b271-24a4e84af7f0",
       "role": "member",
@@ -16899,6 +16904,7 @@
     },
     {
       "area_id": "area/7th",
+      "end_date": "2017-06-29",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -18740,6 +18746,7 @@
     },
     {
       "area_id": "area/10th",
+      "end_date": "2017-06-09",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -19231,6 +19238,7 @@
     },
     {
       "area_id": "area/10th",
+      "end_date": "2017-06-19",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -19820,6 +19828,7 @@
     },
     {
       "area_id": "area/4th",
+      "end_date": "2017-06-19",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hns",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -19874,7 +19883,7 @@
     {
       "area_id": "area/1st",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "dd247e28-04d0-45a6-82c8-b43dcaeae93c",
       "role": "member",
@@ -19966,7 +19975,7 @@
     {
       "area_id": "area/8th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "e09352ec-d388-43bd-a136-37f63e8b7072",
       "role": "member",
@@ -20084,7 +20093,7 @@
     {
       "area_id": "area/2nd",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "e5b9eaef-069b-48b5-8e91-8c4b92acdb3d",
       "role": "member",
