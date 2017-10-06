@@ -134,10 +134,6 @@
       "name": "Dupner CLÉMENT"
     },
     {
-      "id": "1cbe8792-0777-4354-b0ed-b31f2f4e02a8",
-      "name": "M’Zou Naya JEAN-BAPTISTE"
-    },
-    {
       "id": "1da8f2fe-a2eb-438e-b28e-9f7b1a8a38e5",
       "identifiers": [
         {
@@ -565,10 +561,6 @@
       ]
     },
     {
-      "id": "89f718f8-e8c2-4770-8d4a-750be7a57985",
-      "name": "Dionald POLYTE (1)"
-    },
-    {
       "id": "8c8367c5-063f-4ec5-b5a2-06520c5903f8",
       "identifiers": [
         {
@@ -637,6 +629,26 @@
         }
       ],
       "name": "Jean Rupert LAFOREST"
+    },
+    {
+      "id": "98d69180-646f-4c78-9577-39441847c98c",
+      "identifiers": [
+        {
+          "identifier": "m'zou_naya_jean-baptiste",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "M’Zou Naya JEAN-BAPTISTE"
+    },
+    {
+      "id": "9aaf3181-36f7-44c1-bf6e-80661f719877",
+      "identifiers": [
+        {
+          "identifier": "jules_lyonel_anelus",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jules Lyone ANELUS"
     },
     {
       "id": "9b47543d-4132-4c93-a7a0-06105952f7ff",
@@ -719,10 +731,6 @@
       "name": "Orélien JOACHIM"
     },
     {
-      "id": "b15b2712-07b3-47f7-b9de-96483e4a15d2",
-      "name": "Jules Lyone ANELUS"
-    },
-    {
       "id": "b4513456-bf26-494b-9b26-814b00e43e24",
       "identifiers": [
         {
@@ -781,6 +789,16 @@
         }
       ],
       "name": "Marie Jossie ETIENNE"
+    },
+    {
+      "id": "c2b3d7b5-b346-469c-ae1d-6c4a5c6788b4",
+      "identifiers": [
+        {
+          "identifier": "dionald_polyte",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Dionald POLYTE (1)"
     },
     {
       "id": "c56317ca-3d5b-4a47-86a4-fc2c893bb02e",
@@ -2229,19 +2247,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:3",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "party/repons_peyizan",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "1cbe8792-0777-4354-b0ed-b31f2f4e02a8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ht/departement:centre/arrondissement:lascahobas/circonscription:2",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/alternative",
@@ -2749,19 +2754,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:grande_anse/arrondissement:corail/circonscription:2",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "party/inite",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "89f718f8-e8c2-4770-8d4a-750be7a57985",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:4",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/repons_peyizan",
@@ -2845,6 +2837,32 @@
       "on_behalf_of_id": "party/inite",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "97cd402b-b68c-4087-9b73-040598199054",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:3",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/repons_peyizan",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "98d69180-646f-4c78-9577-39441847c98c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:gonaives/circonscription:2",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/ansanm_nou_fÒ",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "9aaf3181-36f7-44c1-bf6e-80661f719877",
       "role": "member",
       "sources": [
         {
@@ -2957,19 +2975,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:gonaives/circonscription:2",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "party/ansanm_nou_fÒ",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "b15b2712-07b3-47f7-b9de-96483e4a15d2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:gonaives/circonscription:1",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/mochrena",
@@ -3040,6 +3045,19 @@
       "on_behalf_of_id": "party/rasanble",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "c22f249d-e5f1-4491-9997-4345f3940123",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ht/departement:grande_anse/arrondissement:corail/circonscription:2",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/inite",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "c2b3d7b5-b346-469c-ae1d-6c4a5c6788b4",
       "role": "member",
       "sources": [
         {
