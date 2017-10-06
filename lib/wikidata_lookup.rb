@@ -116,7 +116,9 @@ class P39sLookup < WikidataLookup
         [p.to_s, qualifiers[p].value.to_s]
       end]
 
-      title = label = posn.value.to_s
+      # Wikisnakker sometimes returns 'nil' from `to_s`
+      # TODO: ensure that gets fixed upstream
+      title = label = posn.value.to_s.to_s
       title += " (of #{qual_data['P642']})" if qual_data['P642']
 
       {
