@@ -7012,12 +7012,20 @@
         "slug": "House",
         "sources_directory": "data/New_Zealand/House/sources",
         "popolo": "data/New_Zealand/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/37686c8c20ea45b2a6c029f001464fe43ccbf64c/data/New_Zealand/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/235eaa0221d6a1e7b816833466d6f839cc4821bb/data/New_Zealand/House/ep-popolo-v1.0.json",
         "names": "data/New_Zealand/House/names.csv",
-        "lastmod": "1507286965",
-        "person_count": 232,
-        "sha": "37686c8c20ea45b2a6c029f001464fe43ccbf64c",
+        "lastmod": "1507379281",
+        "person_count": 264,
+        "sha": "235eaa0221d6a1e7b816833466d6f839cc4821bb",
         "legislative_periods": [
+          {
+            "id": "term/52",
+            "name": "52nd Parliament",
+            "start_date": "2017-10-12",
+            "slug": "52",
+            "csv": "data/New_Zealand/House/term-52.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/235eaa0221d6a1e7b816833466d6f839cc4821bb/data/New_Zealand/House/term-52.csv"
+          },
           {
             "end_date": "2017-08-18",
             "id": "term/51",
@@ -7025,7 +7033,7 @@
             "start_date": "2014-10-20",
             "slug": "51",
             "csv": "data/New_Zealand/House/term-51.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4e25b06eee8b320b03cf2c9ac2c39bc9df302b4b/data/New_Zealand/House/term-51.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/235eaa0221d6a1e7b816833466d6f839cc4821bb/data/New_Zealand/House/term-51.csv"
           },
           {
             "end_date": "2014-09-19",
@@ -7034,7 +7042,7 @@
             "start_date": "2011-12-20",
             "slug": "50",
             "csv": "data/New_Zealand/House/term-50.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b1a3933dfe4a9702d65fdb968f2c77be0ba0e72/data/New_Zealand/House/term-50.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/235eaa0221d6a1e7b816833466d6f839cc4821bb/data/New_Zealand/House/term-50.csv"
           },
           {
             "end_date": "2011-10-20",
@@ -7043,7 +7051,7 @@
             "start_date": "2008-12-08",
             "slug": "49",
             "csv": "data/New_Zealand/House/term-49.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/37686c8c20ea45b2a6c029f001464fe43ccbf64c/data/New_Zealand/House/term-49.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/235eaa0221d6a1e7b816833466d6f839cc4821bb/data/New_Zealand/House/term-49.csv"
           },
           {
             "end_date": "2008-10-03",
@@ -7052,10 +7060,10 @@
             "start_date": "2005-11-07",
             "slug": "48",
             "csv": "data/New_Zealand/House/term-48.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/37686c8c20ea45b2a6c029f001464fe43ccbf64c/data/New_Zealand/House/term-48.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/235eaa0221d6a1e7b816833466d6f839cc4821bb/data/New_Zealand/House/term-48.csv"
           }
         ],
-        "statement_count": 13114,
+        "statement_count": 14232,
         "type": "unicameral legislature"
       }
     ]
