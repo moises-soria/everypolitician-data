@@ -1957,7 +1957,7 @@
       "birth_date": "1987-09-17",
       "family_name": "Frølich",
       "gender": "male",
-      "given_name": "Peter Christian",
+      "given_name": "Peter",
       "id": "06f23d84-6528-49dd-a520-0bdd29f29efb",
       "identifiers": [
         {
@@ -2000,8 +2000,15 @@
           "url": "https://no.wikipedia.org/wiki/Peter_Christian_Frølich"
         }
       ],
-      "name": "Peter Christian Frølich",
-      "sort_name": "Frølich, Peter Christian"
+      "name": "Peter Frølich",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Peter Christian Frølich",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Frølich, Peter"
     },
     {
       "birth_date": "1887-05-07",
@@ -53311,7 +53318,7 @@
       "birth_date": "1976-05-02",
       "family_name": "Søreide",
       "gender": "female",
-      "given_name": "Ine Marie Eriksen",
+      "given_name": "Ine M. Eriksen",
       "id": "dd8a7892-2a84-45cd-8b7f-3b293488f3e2",
       "identifiers": [
         {
@@ -53402,8 +53409,13 @@
           "url": "https://sv.wikipedia.org/wiki/Ine_Marie_Eriksen_Søreide"
         }
       ],
-      "name": "Ine Marie Eriksen Søreide",
+      "name": "Ine M. Eriksen Søreide",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Ine Marie Eriksen Søreide",
+          "note": "multilingual"
+        },
         {
           "lang": "es",
           "name": "Ine Marie Eriksen Soreide",
@@ -53430,7 +53442,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Søreide, Ine Marie Eriksen"
+      "sort_name": "Søreide, Ine M. Eriksen"
     },
     {
       "birth_date": "1923-02-10",
@@ -64286,7 +64298,7 @@
     },
     {
       "classification": "party",
-      "id": "Rødt",
+      "id": "R",
       "name": "Rødt"
     },
     {
@@ -88702,7 +88714,7 @@
     {
       "area_id": "Os",
       "legislative_period_id": "term/2017-2021",
-      "on_behalf_of_id": "Rødt",
+      "on_behalf_of_id": "R",
       "organization_id": "b383457f-4845-4cfe-82ef-1746ae994ce0",
       "person_id": "9d6720e6-0485-4971-8447-c06ed3014b45",
       "role": "member",
