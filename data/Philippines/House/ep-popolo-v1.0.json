@@ -9364,12 +9364,30 @@
       "name": "Bordado, Gabriel Jr. H."
     },
     {
+      "birth_date": "1955-01-26",
+      "death_date": "2017-10-08",
       "gender": "female",
       "id": "c5c42ac6-4942-4c32-baf7-3dae194f83bf",
       "identifiers": [
         {
           "identifier": "abad-h",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 2756 8078",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n87933697",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "68001433",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12964580",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/abad-h.jpg",
@@ -9378,7 +9396,24 @@
           "url": "http://www.congress.gov.ph/members/images/16th/abad-h.jpg"
         }
       ],
-      "name": "Abad, Henedina R."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Henedina_Abad"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Henedina_Abad"
+        }
+      ],
+      "name": "Abad, Henedina R.",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Henedina Abad",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
