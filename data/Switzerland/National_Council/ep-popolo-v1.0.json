@@ -10436,6 +10436,7 @@
     },
     {
       "birth_date": "1953-04-03",
+      "death_date": "2017-10-11",
       "family_name": "Suter",
       "gender": "male",
       "given_name": "Marc Frédéric",
@@ -10448,9 +10449,26 @@
         {
           "identifier": "221",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q42211856",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.marcsuterlaw.ch"
         }
       ],
       "name": "Marc Frédéric Suter",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marc F. Suter",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Suter, Marc Frédéric"
     },
     {
