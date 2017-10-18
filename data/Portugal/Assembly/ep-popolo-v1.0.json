@@ -8338,18 +8338,65 @@
       "name": "Moura e Silva"
     },
     {
+      "birth_date": "1954-10-28",
       "gender": "male",
+      "given_name": "Manuel",
       "id": "3d6a057b-8b59-4dba-aa96-ad15cbdf7be6",
       "identifiers": [
         {
+          "identifier": "/m/0b74cgj",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "2050",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "120687357",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1382767",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2050&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2050&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Manuel_Pinho.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Manuel_Pinho"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Manuel_Pinho"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Manuel_Pinho"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Manuel_Pinho"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Pinho"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Manuel_Pinho"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Manuel_Pinho"
         }
       ],
       "name": "Manuel Pinho"
@@ -11101,17 +11148,28 @@
     {
       "birth_date": "1948-05-13",
       "gender": "female",
+      "given_name": "Maria",
       "id": "497a51d8-3edf-4c91-9be7-c52a14fec34e",
       "identifiers": [
         {
           "identifier": "695",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q1896446",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=695&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=695&type=deputado"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Maria_da_Luz_Rosinha"
         }
       ],
       "name": "Maria da Luz Rosinha"
@@ -16372,17 +16430,36 @@
     {
       "birth_date": "1958-07-11",
       "gender": "male",
+      "given_name": "João",
       "id": "6ea7d004-d016-4290-a6e3-17ebfaac9bf2",
       "identifiers": [
         {
+          "identifier": "25798",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "64",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q11728710",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=64&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=64&type=deputado"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/João_Gouveia"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/João_Gouveia"
         }
       ],
       "name": "João Gouveia"
@@ -17412,20 +17489,73 @@
     {
       "birth_date": "1946-07-18",
       "gender": "female",
+      "given_name": "Teresa",
       "id": "773bb9f0-a511-4355-9f69-dd96f0cab9ee",
       "identifiers": [
         {
+          "identifier": "0000 0000 6780 8603",
+          "scheme": "isni"
+        },
+        {
           "identifier": "317",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "184114918",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "65976616",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7702196",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=317&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=317&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Teresa_Gouveia_na_Exponor.JPG"
         }
       ],
-      "name": "Teresa Patrício Gouveia"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Teresa_Gouveia"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Teresa_Gouveia"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Teresa_Patrício_de_Gouveia"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Teresa_Patrício_Gouveia"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Teresa_Patrício_Gouveia"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Teresa_Patrício_Gouveia"
+        }
+      ],
+      "name": "Teresa Patrício Gouveia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Teresa Patrício de Gouveia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-02-04",
@@ -20818,17 +20948,51 @@
     {
       "birth_date": "1965-04-28",
       "gender": "male",
+      "given_name": "Paulo",
       "id": "8f9d2c5f-48f0-47f0-a448-2ae4d6745bee",
       "identifiers": [
         {
+          "identifier": "0000 0000 6768 4831",
+          "scheme": "isni"
+        },
+        {
           "identifier": "722",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "109263855",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "68124472",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7155277",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=722&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=722&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vital_Moreira,_acompanhado_de_Edite_Estrela_e_Paulo_Pedroso.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paulo_Pedroso"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Paulo_Pedroso"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Paulo_Pedroso"
         }
       ],
       "name": "Paulo Pedroso"
@@ -23128,12 +23292,30 @@
     },
     {
       "birth_date": "1951-10-29",
+      "death_date": "2007-10-09",
       "gender": "male",
+      "given_name": "Fausto",
       "id": "a12b28be-99ff-403f-b344-536682b35d82",
       "identifiers": [
         {
+          "identifier": "28309",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/055287",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1344",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "99126003",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1378001",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1344&type=deputado",
@@ -23142,7 +23324,49 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1344&type=deputado"
         }
       ],
-      "name": "Fausto Correia"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Fausto_Correia"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fausto_Correia"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Fausto_Correia"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Fausto_Correia"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fausto_de_Sousa_Correia"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Fausto_Correia"
+        }
+      ],
+      "name": "Fausto Correia",
+      "other_names": [
+        {
+          "name": "Fausto de Sousa Correia",
+          "note": "alternate"
+        },
+        {
+          "lang": "ja",
+          "name": "ファウスト・コレイア",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Fausto de Sousa Correia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-07-17",
@@ -31738,17 +31962,40 @@
     {
       "birth_date": "1944-07-13",
       "gender": "male",
+      "given_name": "Joel",
       "id": "e3db31f0-de6e-40a0-a7ec-abe8fa752e46",
       "identifiers": [
         {
+          "identifier": "31730",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "507",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q6213542",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=507&type=deputado",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=507&type=deputado"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joel_Hasse_Ferreira"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Joel_Hasse_Ferreira"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Joel_Hasse_Ferreira"
         }
       ],
       "name": "Joel Hasse Ferreira"
@@ -35332,6 +35579,7 @@
       ],
       "email": "mseufert@cds.parlamento.pt",
       "gender": "male",
+      "given_name": "Michael",
       "id": "f95c3eb1-a61e-45c9-99af-a95d5cb9c3b5",
       "identifiers": [
         {
@@ -35341,6 +35589,10 @@
         {
           "identifier": "4157",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q6834299",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4157&type=deputado",
@@ -35353,6 +35605,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Seufert"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Michael_Seufert"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Michael_Seufert"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/seufert"
