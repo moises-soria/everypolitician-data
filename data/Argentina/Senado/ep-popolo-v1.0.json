@@ -435,6 +435,7 @@
       "sort_name": "Montenegro Gerardo Antenor"
     },
     {
+      "birth_date": "1948",
       "contact_details": [
         {
           "type": "email",
@@ -448,7 +449,7 @@
       "id": "239aee0f-e3fc-493d-9c51-e9735c02bdeb",
       "identifiers": [
         {
-          "identifier": "Q18711863",
+          "identifier": "Q5995804",
           "scheme": "wikidata"
         }
       ],
@@ -456,9 +457,25 @@
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/382.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Marcelo_Fuentes.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marcelo_Fuentes"
         }
       ],
       "name": "Marcelo Jorge Fuentes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marcelo Fuentes",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Fuentes Marcelo Jorge"
     },
     {
@@ -4367,10 +4384,19 @@
       "gender": "female",
       "given_name": "María Graciela",
       "id": "f4e826fd-6e3f-4dbe-9c13-9ab26a65b306",
+      "identifiers": [
+        {
+          "identifier": "Q41658555",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/417.png",
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/417.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/María_Graciela_de_la_Rosa.png"
         }
       ],
       "name": "María Graciela de la Rosa",
