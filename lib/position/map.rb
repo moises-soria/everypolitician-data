@@ -41,8 +41,8 @@ class PositionMap
   end
 
   def raw_json
-    @json ||= json5_parse(pathname.read).each do |_s, fs|
-      fs.each { |_, fss| fss.each { |f| f.delete :count } }
+    @json ||= json5_parse(pathname.read).each_value do |fs|
+      fs.each_value { |fss| fss.each { |f| f.delete :count } }
     end
   end
 

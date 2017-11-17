@@ -6,7 +6,7 @@ namespace :fetch_sources do
   CLOBBER.include FileList.new(@recreatable.map(&:filename))
 
   task :no_duplicate_names do
-    @SOURCES.map(&:pathname).uniq.map(&:basename).group_by { |b| b }.select { |_, bs| bs.count > 1 }.each do |base, _|
+    @SOURCES.map(&:pathname).uniq.map(&:basename).group_by { |b| b }.select { |_, bs| bs.count > 1 }.each_key do |base|
       abort "More than one source called #{base}"
     end
   end

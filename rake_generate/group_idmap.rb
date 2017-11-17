@@ -27,7 +27,7 @@ namespace :generate do
 
     ::CSV.open(wikidata, 'w') do |csv|
       csv << %i[id wikidata]
-      mapping.each { |_id, h| csv << [h[:uuid] || h[:id], h[:wikidata]] }
+      mapping.each_value { |h| csv << [h[:uuid] || h[:id], h[:wikidata]] }
     end
   end
 end
