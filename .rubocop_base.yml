@@ -11,6 +11,9 @@ Lint/AssignmentInCondition:
 Lint/Debugger:
   Enabled: false
 
+Lint/RescueWithoutErrorClass:
+  Enabled: false
+
 Metrics/LineLength:
   Max: 120
 
