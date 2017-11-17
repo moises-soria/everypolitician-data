@@ -14,12 +14,12 @@ end
 
 EveryPolitician.countries_json = 'countries.json'
 
-puts <<'eoheader'
+puts <<'TABLEHEADER'
 {| class="wikitable sortable"
 |-
 ! Country !! Legislature !! Total Members !! Matched to Wikidata !! Percentage !! Parties !! Matched !! Pct
 |-
-eoheader
+TABLEHEADER
 
 total = { persons: 0, matched: 0 }
 EveryPolitician.countries.each do |c|
