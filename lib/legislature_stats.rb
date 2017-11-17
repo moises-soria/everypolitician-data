@@ -84,7 +84,7 @@ class StatsFile
   end
 
   def now
-    DateTime.now.to_date
+    Time.now.to_date
   end
 
   def people

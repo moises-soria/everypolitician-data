@@ -38,7 +38,7 @@ def display_name(name)
 end
 
 def name_at(p, date)
-  date = DateTime.now.to_date.to_s if date.to_s.empty?
+  date = Time.now.to_date.to_s if date.to_s.empty?
   at_date = p[:other_names].select do |n|
     n[:note].to_s == 'Main' && (n[:end_date] || '9999-99-99') >= date && (n[:start_date] || '0000-00-00') <= date
   end

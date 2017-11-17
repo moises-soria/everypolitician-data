@@ -26,7 +26,7 @@ data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
   raise "No statsfile for #{l.country.name}/#{l.name}" unless File.exist? statsfile
   stats = JSON.parse(open(statsfile).read, symbolize_names: true)
 
-  now = DateTime.now.to_date
+  now = Time.now.to_date
   last_build = Time.at(l.lastmod.to_i).to_date
 
   latest = stats[:people][:latest_term]
