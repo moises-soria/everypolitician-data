@@ -1,6 +1,10 @@
 # A base Rubocop configuration that other repos can inherit from
 # http://rubocop.readthedocs.io/en/latest/configuration/#inheriting-configuration-from-a-remote-url
 
+Layout/AlignHash:
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle: table
+
 Lint/AssignmentInCondition:
   Enabled: false
 
@@ -10,18 +14,13 @@ Lint/Debugger:
 Metrics/LineLength:
   Max: 120
 
+Naming/ClassAndModuleCamelCase:
+  Enabled: false
+
 Performance/Casecmp:
   Enabled: false
 
-
-Style/AlignHash:
-  EnforcedHashRocketStyle: table
-  EnforcedColonStyle: table
-
 Style/AndOr:
-  Enabled: false
-
-Style/ClassAndModuleCamelCase:
   Enabled: false
 
 Style/CollectionMethods:
