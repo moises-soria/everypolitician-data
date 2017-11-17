@@ -1,6 +1,4 @@
 #!/bin/env ruby
-# encoding: utf-8
-
 #---------------------------------------------------------------------
 # convert Wikidata direct-match instructions to use reconciliation
 #---------------------------------------------------------------------

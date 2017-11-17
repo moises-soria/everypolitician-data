@@ -1,6 +1,4 @@
 #!/bin/env ruby
-# encoding: utf-8
-
 #---------------------------------------------------------------------
 # This should really be a scraper on morph but it blows its memory
 # limits, so for now will just run locally
