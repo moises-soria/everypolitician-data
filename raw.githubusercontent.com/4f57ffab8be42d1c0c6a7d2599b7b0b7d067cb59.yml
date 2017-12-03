@@ -1,0 +1,71 @@
+---
+request:
+  method: get
+  uri: https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/data/New_Zealand/House/sources/manual/terms.csv
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - "*/*"
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Content-Security-Policy:
+    - default-src 'none'; style-src 'unsafe-inline'; sandbox
+    Strict-Transport-Security:
+    - max-age=31536000
+    X-Content-Type-Options:
+    - nosniff
+    X-Frame-Options:
+    - deny
+    X-Xss-Protection:
+    - 1; mode=block
+    Etag:
+    - '"aa14ec0db11f1dc5964a29f3255daaeb9cd7de89"'
+    Content-Type:
+    - text/plain; charset=utf-8
+    Cache-Control:
+    - max-age=300
+    X-Geo-Block-List:
+    - ''
+    X-Github-Request-Id:
+    - 566C:CA32:236268:26CF2B:5A24074C
+    Content-Length:
+    - '340'
+    Accept-Ranges:
+    - bytes
+    Date:
+    - Sun, 03 Dec 2017 14:16:46 GMT
+    Via:
+    - 1.1 varnish
+    Connection:
+    - keep-alive
+    X-Served-By:
+    - cache-sjc3641-SJC
+    X-Cache:
+    - MISS
+    X-Cache-Hits:
+    - '0'
+    X-Timer:
+    - S1512310605.287028,VS0,VE920
+    Vary:
+    - Authorization,Accept-Encoding
+    Access-Control-Allow-Origin:
+    - "*"
+    X-Fastly-Request-Id:
+    - e8a2ed058ce925c4cec3ed7467af04a268134160
+    Expires:
+    - Sun, 03 Dec 2017 14:21:46 GMT
+    Source-Age:
+    - '0'
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Sun, 03 Dec 2017 14:16:46 GMT
