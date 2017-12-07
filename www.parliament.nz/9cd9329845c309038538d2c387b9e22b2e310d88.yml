@@ -26,12 +26,12 @@ response:
     Strict-Transport-Security:
     - max-age=31536000
     Set-Cookie:
-    - ApplicationGatewayAffinity=7eeb87b4595ce0c5826bcde86afcdd9f4d8f327698068ffe92d9f0a16987e129;Path=/;Domain=www.parliament.nz
+    - ApplicationGatewayAffinity=20c92632dbc67dd8b5b8cd8b964b40a4389bf041beb838e14f6afb8b05805f5a;Path=/;Domain=www.parliament.nz
     Date:
-    - Wed, 06 Dec 2017 09:44:06 GMT
+    - Thu, 07 Dec 2017 11:56:18 GMT
     Content-Length:
-    - '10509'
+    - '10470'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 06 Dec 2017 09:44:07 GMT
+recorded_at: Thu, 07 Dec 2017 11:56:19 GMT
