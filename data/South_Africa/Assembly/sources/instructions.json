@@ -1,18 +1,33 @@
 {
   "sources": [
     {
+      "file": "morph/wikidata-memberships.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/south-africa-national-assembly-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "membership",
+    },
+    {
       "file": "morph/peoplesassembly.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/south-africa-national-assembly",
         "notes": "return to 'SELECT *' once build is working",
-        "query": "SELECT id,name,honorific_prefix,party,party_id,area,email,term,image,source FROM data ORDER BY id"
+        "query": "SELECT id,honorific_prefix,email,image,source FROM data ORDER BY id"
       },
       "source": "http://www.pa.org.za",
-      "type": "membership"
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/peoplesassembly.csv"
+      }
     },
     {
-      "file": "morph/wikidata.csv",
+      "file": "morph/wikidata-bio.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/south-african-national-assembly-members-wikidata",
@@ -21,9 +36,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
+        "incoming_field": "id",
+        "existing_field": "id",
       }
     },
     {
