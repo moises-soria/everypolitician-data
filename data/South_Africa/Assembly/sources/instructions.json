@@ -38,6 +38,7 @@
       "merge": {
         "incoming_field": "id",
         "existing_field": "id",
+        "reconciliation_file": "idmap/wikidata-memberships.csv"
       }
     },
     {
