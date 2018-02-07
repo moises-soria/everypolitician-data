@@ -827,16 +827,6 @@
       "name": "Tandiwe Elizabeth Kenye"
     },
     {
-      "id": "10417079-51e9-4f81-beab-4fce181a926d",
-      "identifiers": [
-        {
-          "identifier": "Q47529891",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Stella Tembisa Ndabeni-Abrahams"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -1102,11 +1092,25 @@
       "name": "Maliyakhe Lymon Shelembe"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mbabamatm@gmail.com"
+        }
+      ],
+      "email": "mbabamatm@gmail.com",
+      "honorific_prefix": "Ms",
       "id": "1533cebd-f42c-42b6-9fe7-3bda0b201293",
       "identifiers": [
         {
           "identifier": "Q47529973",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/de/45/de4591726d13093cca959c0b7b5a737f.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/de/45/de4591726d13093cca959c0b7b5a737f.jpg"
         }
       ],
       "name": "Thandeka Moloko Mbabama"
@@ -1241,12 +1245,26 @@
       "name": "Deidre Carter"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "albertina.barlow@dpw.gov.za"
+        }
+      ],
+      "email": "albertina.barlow@dpw.gov.za",
       "gender": "female",
+      "honorific_prefix": "Mr",
       "id": "16604189-a35a-4d97-9d42-2759121fbd35",
       "identifiers": [
         {
           "identifier": "Q24233839",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/0a/a1/0aa143fe91735b5d626d8a775efb6b71.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/0a/a1/0aa143fe91735b5d626d8a775efb6b71.jpg"
         }
       ],
       "links": [
@@ -1303,8 +1321,16 @@
     },
     {
       "birth_date": "1942-09-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cnqakula@parliament.gov.za"
+        }
+      ],
+      "email": "cnqakula@parliament.gov.za",
       "gender": "male",
       "given_name": "Charles",
+      "honorific_prefix": "Mr",
       "id": "180f6b0e-865a-430e-a117-0a8deb0d241a",
       "identifiers": [
         {
@@ -1314,6 +1340,12 @@
         {
           "identifier": "Q5081288",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/b7/bd/b7bd8fa1872f6924f6c151d0c3a7fcd4.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/b7/bd/b7bd8fa1872f6924f6c151d0c3a7fcd4.jpg"
         }
       ],
       "links": [
@@ -2285,6 +2317,42 @@
         }
       ],
       "name": "Dipuo Peters"
+    },
+    {
+      "birth_date": "1958-04-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lzulu@parliament.gov.za"
+        }
+      ],
+      "email": "lzulu@parliament.gov.za",
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "20b39b2a-19cd-4524-aef5-4315b3585640",
+      "identifiers": [
+        {
+          "identifier": "l-d-zulu",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20982109",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/65/67/6567c3a0b22e358cf31e18430fc59338.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/65/67/6567c3a0b22e358cf31e18430fc59338.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lindiwe_Zulu"
+        }
+      ],
+      "name": "Lindiwe Zulu"
     },
     {
       "contact_details": [
@@ -3596,22 +3664,6 @@
       ]
     },
     {
-      "id": "370c0ba6-3fd1-4a3c-a9c5-13e3eb7ad7aa",
-      "identifiers": [
-        {
-          "identifier": "Q28086077",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Kebby_Maphatsoe"
-        }
-      ],
-      "name": "Kebby Maphatsoe"
-    },
-    {
       "birth_date": "1984-11-09",
       "contact_details": [
         {
@@ -4559,6 +4611,48 @@
         }
       ],
       "name": "Zukisa Cheryl Faku"
+    },
+    {
+      "birth_date": "1965-04-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tmasoga@tourism.gov.za"
+        }
+      ],
+      "email": "tmasoga@tourism.gov.za",
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "4e884ab0-11d9-4b5f-be96-d8bece6c4395",
+      "identifiers": [
+        {
+          "identifier": "tokozile-xasa",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33870385",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tokozile_Xasa"
+        }
+      ],
+      "name": "Tokozile Xasa",
+      "other_names": [
+        {
+          "name": "Thokozile Xasa",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "id": "4ea301f3-1e5d-42b1-9a64-b94fccc29355",
@@ -6270,88 +6364,6 @@
       "name": "Makashule Gana"
     },
     {
-      "birth_date": "1948-05-12",
-      "family_name": "Davies",
-      "gender": "male",
-      "given_name": "Rob",
-      "id": "6617e47b-dc82-46d3-a74a-87bd876b1f3d",
-      "identifiers": [
-        {
-          "identifier": "12473977c",
-          "scheme": "bnf"
-        },
-        {
-          "identifier": "/m/05zzk0s",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "1057549010",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "0000 0000 8111 2979",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "n79052193",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "072156775",
-          "scheme": "nta"
-        },
-        {
-          "identifier": "033932743",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "32097330",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q1450938",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Rob_Davies_-_World_Economic_Forum_on_Africa_2012.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Rob_Davies_-_World_Economic_Forum_on_Africa_2012.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Rob_Davies"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Rob_Davies"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Rob_Davies_(politician)"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Rob_Davies"
-        }
-      ],
-      "name": "Rob Davies",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "روب ديفيز",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Роб Дэвис",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -6381,6 +6393,13 @@
       "name": "Sheila Coleen Nkhensani Shope-Sithole"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dsenokoayane@parliament.gov.za"
+        }
+      ],
+      "email": "dsenokoayane@parliament.gov.za",
       "gender": "female",
       "id": "671e8c42-ec57-4ef2-a011-c1f667ea33ba",
       "identifiers": [
@@ -6389,7 +6408,19 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Doreen Zamantungwa Sbusisiwe Senokoanyane"
+      "image": "https://www.pa.org.za/media_root/cache/85/39/8539ee6aee923aa74954d89ef634b183.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/85/39/8539ee6aee923aa74954d89ef634b183.jpg"
+        }
+      ],
+      "name": "Doreen Zamantungwa Sbusisiwe Senokoanyane",
+      "other_names": [
+        {
+          "name": "Doreen Senokoanyane",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -6785,24 +6816,6 @@
       "name": "Nosilivere Winifred Magadla"
     },
     {
-      "birth_date": "1958-04-21",
-      "gender": "female",
-      "id": "73423a03-a931-408f-8c20-3f9ad0646ab4",
-      "identifiers": [
-        {
-          "identifier": "Q20982109",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Lindiwe_Zulu"
-        }
-      ],
-      "name": "Lindiwe Zulu"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -7048,6 +7061,41 @@
         }
       ],
       "name": "Thomas Zwelakhe Hadebe"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sndabeni-abrahams@parliament.gov.za"
+        }
+      ],
+      "email": "sndabeni-abrahams@parliament.gov.za",
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "770ae819-4e7f-4cd3-9723-931d16ac6901",
+      "identifiers": [
+        {
+          "identifier": "stella-tembisa-ndabeni-abrahams",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q47529891",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/22/79/2279de424a5772aca99fd9804402d4eb.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/22/79/2279de424a5772aca99fd9804402d4eb.jpg"
+        }
+      ],
+      "name": "Stella Tembisa Ndabeni-Abrahams",
+      "other_names": [
+        {
+          "name": "Stella Ndabeni-Abrahams",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -8043,6 +8091,58 @@
       "name": "Dorries Eunice Dlakude"
     },
     {
+      "birth_date": "1967-01-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ministersoffice@dac.gov.za"
+        }
+      ],
+      "email": "ministersoffice@dac.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "848e70b7-d12f-4624-945d-117a56aa0f1b",
+      "identifiers": [
+        {
+          "identifier": "emmanuel-nkosinathi-mthethwa",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04mzz7k",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1966829",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/67/07/6707b604b13a194adf020cdb2568db8e.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/67/07/6707b604b13a194adf020cdb2568db8e.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nathi_Mthethwa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nathi_Mthethwa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nathi_Mthethwa"
+        },
+        {
+          "note": "Wikipedia (ss)",
+          "url": "https://ss.wikipedia.org/wiki/Nathi_Mthethwa"
+        }
+      ],
+      "name": "Nathi Mthethwa"
+    },
+    {
       "birth_date": "1961-09-26",
       "family_name": "Brown",
       "gender": "female",
@@ -8222,6 +8322,14 @@
       "name": "Annette Steyn"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hbucwa@gmail.com"
+        }
+      ],
+      "email": "hbucwa@gmail.com",
+      "honorific_prefix": "Ms",
       "id": "87f1360a-d65d-4979-9dc6-62bc1fd45bb2",
       "identifiers": [
         {
@@ -8229,41 +8337,13 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://www.pa.org.za/media_root/cache/5f/2e/5f2e480103a05a1db42dd9ad03936842.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/5f/2e/5f2e480103a05a1db42dd9ad03936842.jpg"
+        }
+      ],
       "name": "Hlomela Bucwa"
-    },
-    {
-      "birth_date": "1967-01-23",
-      "gender": "male",
-      "id": "887a2b37-b179-449f-a4ef-88da4c7589a9",
-      "identifiers": [
-        {
-          "identifier": "/m/04mzz7k",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q1966829",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Nathi_Mthethwa"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Nathi_Mthethwa"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Nathi_Mthethwa"
-        },
-        {
-          "note": "Wikipedia (ss)",
-          "url": "https://ss.wikipedia.org/wiki/Nathi_Mthethwa"
-        }
-      ],
-      "name": "Nathi Mthethwa"
     },
     {
       "contact_details": [
@@ -8432,6 +8512,41 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kebbymaphatsoe@yahoo.com"
+        }
+      ],
+      "email": "kebbymaphatsoe@yahoo.com",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "8d304b2a-fb7e-486e-a31b-f53466881f69",
+      "identifiers": [
+        {
+          "identifier": "emmanuel-ramaotoana-kebby-maphatsoe",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28086077",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kebby_Maphatsoe"
+        }
+      ],
+      "name": "Kebby Maphatsoe"
     },
     {
       "contact_details": [
@@ -9127,16 +9242,6 @@
       "name": "Puleng Peter Mabe"
     },
     {
-      "id": "9c6dd4c6-1a4d-4007-8dbe-5f655566518f",
-      "identifiers": [
-        {
-          "identifier": "Q47529988",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Gerhardus Cornelius Oosthuizen"
-    },
-    {
       "birth_date": "1949-09-12",
       "gender": "male",
       "given_name": "Jeremy",
@@ -9406,6 +9511,78 @@
       "name": "Thembekile Richard Majola"
     },
     {
+      "birth_date": "1953-04-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nmasondo@parliament.gov.za"
+        }
+      ],
+      "email": "nmasondo@parliament.gov.za",
+      "gender": "male",
+      "given_name": "Amos",
+      "honorific_prefix": "Mr",
+      "id": "a52ad276-9679-42a3-b1b7-0e89fa14c098",
+      "identifiers": [
+        {
+          "identifier": "nkosiyakhe-amos-masondo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/06s586",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q474285",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/2b/87/2b8707606070eca3920de69032e8e0b2.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/2b/87/2b8707606070eca3920de69032e8e0b2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Amos_Masondo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Amos_Masondo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Amos_Masondo"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Amos_Masondo"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Масондо,_Амос"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Amos_Masondo"
+        }
+      ],
+      "name": "Amos Masondo",
+      "other_names": [
+        {
+          "name": "Nkosiyakhe Amos Masondo",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Масондо, Амос",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "gender": "female",
       "given_name": "Annette",
       "id": "a68fbeab-5b95-413a-9c3c-a689466a7f81",
@@ -9486,24 +9663,6 @@
         }
       ],
       "name": "Duduzile Promise Manana"
-    },
-    {
-      "birth_date": "1965-04-28",
-      "gender": "female",
-      "id": "a784ee2a-3e57-4e78-aa81-9d8593a3474b",
-      "identifiers": [
-        {
-          "identifier": "Q33870385",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tokozile_Xasa"
-        }
-      ],
-      "name": "Tokozile Xasa"
     },
     {
       "birth_date": "1928-08-27",
@@ -10598,6 +10757,61 @@
       "name": "Rembuluwani Moses Tseli"
     },
     {
+      "birth_date": "1957-03-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "emolewa@gmail.com"
+        }
+      ],
+      "email": "emolewa@gmail.com",
+      "gender": "female",
+      "given_name": "Edna",
+      "honorific_prefix": "Ms",
+      "id": "b4827225-aec5-429f-979f-819f316afd45",
+      "identifiers": [
+        {
+          "identifier": "bomo-edna-edith-molewa",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5340080",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/f2/b7/f2b7bb26c92b9f2a88075185f827b55c.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/f2/b7/f2b7bb26c92b9f2a88075185f827b55c.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Edna_Molewa.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/إدنا_مولوا"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edna_Molewa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Edna_Molewa"
+        }
+      ],
+      "name": "Edna Molewa",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "إدنا مولوا",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -10757,9 +10971,21 @@
     },
     {
       "birth_date": "1949-09-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tmagwaza@anc.org.za"
+        }
+      ],
+      "email": "tmagwaza@anc.org.za",
       "gender": "female",
-      "id": "bad9918b-6659-4a2b-ba1d-433f35410fa",
+      "honorific_prefix": "Ms",
+      "id": "bad9918b-6659-4a2b-ba1d-433f35410fa3",
       "identifiers": [
+        {
+          "identifier": "baleka-mbete",
+          "scheme": "everypolitician_legacy"
+        },
         {
           "identifier": "/m/0826d2",
           "scheme": "freebase"
@@ -10769,8 +10995,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vladimir_Putin_in_South_Africa_5-6_September_2006-14_(cropped).jpg",
+      "image": "https://www.pa.org.za/media_root/cache/23/ad/23ad09709b68e2681e8eea716eb67d94.jpg",
       "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/23/ad/23ad09709b68e2681e8eea716eb67d94.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vladimir_Putin_in_South_Africa_5-6_September_2006-14_(cropped).jpg"
         }
@@ -11039,11 +11268,25 @@
       "name": "Nokhaya Adelaide Mnisi"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hgroenewald@parliament.gov.za"
+        }
+      ],
+      "email": "hgroenewald@parliament.gov.za",
+      "honorific_prefix": "Mr",
       "id": "c0a269a4-a45e-4325-9d53-b76d9c5bb646",
       "identifiers": [
         {
           "identifier": "Q47529958",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/87/00/8700435f414b52160dfc355bdf7b35b0.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/87/00/8700435f414b52160dfc355bdf7b35b0.jpg"
         }
       ],
       "name": "Hermanus Bernadus Groenewald"
@@ -11206,38 +11449,13 @@
       "name": "Thembisile Cheryl Majola-Embalo"
     },
     {
-      "birth_date": "1952-09-06",
-      "gender": "female",
-      "id": "c4b67ac9-c1b9-4e4a-866b-d431af6b9418",
-      "identifiers": [
+      "contact_details": [
         {
-          "identifier": "Q16765128",
-          "scheme": "wikidata"
+          "type": "email",
+          "value": "cmsimang@parliament.gov.za"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hlengiwe_Mkhize_(cropped).jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hlengiwe_Mkhize_(cropped).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Hlengiwe_Mkhize"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Hlengiwe_Mkhize"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Hlengiwe_Mkhize"
-        }
-      ],
-      "name": "Hlengiwe Mkhize"
-    },
-    {
+      "email": "cmsimang@parliament.gov.za",
       "id": "c4e3374e-12ba-477b-b654-abd17a9b343c",
       "identifiers": [
         {
@@ -11245,7 +11463,19 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Christian Themba Msimang"
+      "image": "https://www.pa.org.za/media_root/cache/3f/42/3f42e513e2bb2a9fddf02ef5d6dd0bf7.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/3f/42/3f42e513e2bb2a9fddf02ef5d6dd0bf7.jpg"
+        }
+      ],
+      "name": "Christian Themba Msimang",
+      "other_names": [
+        {
+          "name": "Prof Christian Themba Msimang",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "birth_date": "1954-03-02",
@@ -12124,6 +12354,41 @@
           "lang": "ru",
           "name": "Давид ван Ройн",
           "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "goosthuizen@parliament.gov.za"
+        }
+      ],
+      "email": "goosthuizen@parliament.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "d287ac5f-ce35-4570-b217-7005605d99d4",
+      "identifiers": [
+        {
+          "identifier": "gerhardus-cornelius-oosthuizen",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q47529988",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/0e/71/0e71d734a9d6443601dcd487f294e7bc.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/0e/71/0e71d734a9d6443601dcd487f294e7bc.jpg"
+        }
+      ],
+      "name": "Gerhardus Cornelius Oosthuizen",
+      "other_names": [
+        {
+          "name": "Gerhardus Oosthuizen",
+          "note": "alternate"
         }
       ]
     },
@@ -13122,56 +13387,6 @@
       "name": "Hlayiseka Crucief Chewane"
     },
     {
-      "birth_date": "1953-04-21",
-      "gender": "male",
-      "given_name": "Amos",
-      "id": "e505b897-d998-4f85-849a-7878b8db58b8",
-      "identifiers": [
-        {
-          "identifier": "/m/06s586",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q474285",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Amos_Masondo"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Amos_Masondo"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Amos_Masondo"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Amos_Masondo"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Масондо,_Амос"
-        },
-        {
-          "note": "Wikipedia (tl)",
-          "url": "https://tl.wikipedia.org/wiki/Amos_Masondo"
-        }
-      ],
-      "name": "Amos Masondo",
-      "other_names": [
-        {
-          "lang": "ru",
-          "name": "Масондо, Амос",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -13449,11 +13664,24 @@
       "name": "Agnes Tuck"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "democraticken@gmail.com"
+        }
+      ],
+      "email": "democraticken@gmail.com",
       "id": "ec94ba1b-0053-49d3-87d4-8a26d98049f6",
       "identifiers": [
         {
           "identifier": "Q47529966",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/fd/ae/fdaee46ce9015b5eb13b11e4e206dc05.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/fd/ae/fdaee46ce9015b5eb13b11e4e206dc05.jpg"
         }
       ],
       "name": "Ken Peter Robertson"
@@ -13486,6 +13714,58 @@
         }
       ],
       "name": "Hlengiwe Octavia Mkhaliphi"
+    },
+    {
+      "birth_date": "1952-09-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "behlem@mweb.co.za"
+        }
+      ],
+      "email": "behlem@mweb.co.za",
+      "gender": "female",
+      "id": "ee05a73d-2624-4b12-86c1-255a08da7361",
+      "identifiers": [
+        {
+          "identifier": "hlengiwe-buhle-mkhize",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16765128",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hlengiwe_Mkhize_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hlengiwe_Mkhize"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hlengiwe_Mkhize"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hlengiwe_Mkhize"
+        }
+      ],
+      "name": "Hlengiwe Mkhize",
+      "other_names": [
+        {
+          "name": "Prof Hlengiwe Mkhize",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -13775,46 +14055,6 @@
         }
       ],
       "name": "Brandon Rodney Topham"
-    },
-    {
-      "birth_date": "1957-03-23",
-      "gender": "female",
-      "given_name": "Edna",
-      "id": "f14e6c6e-64f3-454f-98d3-8066db1b3611",
-      "identifiers": [
-        {
-          "identifier": "Q5340080",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Edna_Molewa.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Edna_Molewa.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/إدنا_مولوا"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Edna_Molewa"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Edna_Molewa"
-        }
-      ],
-      "name": "Edna Molewa",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "إدنا مولوا",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "birth_date": "1936-09-26",
@@ -14237,11 +14477,24 @@
       "name": "Ahmed Munzoor Shaik Emam"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mbara@parliament.gov.za"
+        }
+      ],
+      "email": "mbara@parliament.gov.za",
       "id": "f3747b80-5c7c-432b-a19b-106edb93bcaf",
       "identifiers": [
         {
           "identifier": "Q47529716",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
         }
       ],
       "name": "Mbulelo Richmond Bara"
@@ -14506,6 +14759,103 @@
         {
           "name": "Bongani Thomas Bongo",
           "note": "alternate"
+        }
+      ]
+    },
+    {
+      "birth_date": "1948-05-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ineethling@thedti.gov.za"
+        }
+      ],
+      "email": "ineethling@thedti.gov.za",
+      "family_name": "Davies",
+      "gender": "male",
+      "given_name": "Rob",
+      "honorific_prefix": "Mr",
+      "id": "f8247899-02e9-4333-b11d-347fac8c2993",
+      "identifiers": [
+        {
+          "identifier": "12473977c",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "robert-haydn-davies",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05zzk0s",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1057549010",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8111 2979",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n79052193",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "072156775",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "033932743",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "32097330",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1450938",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/c1/df/c1dff2a58fbc17d0d91a1fb6b67bda68.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/c1/df/c1dff2a58fbc17d0d91a1fb6b67bda68.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Rob_Davies_-_World_Economic_Forum_on_Africa_2012.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rob_Davies"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Rob_Davies"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rob_Davies_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rob_Davies"
+        }
+      ],
+      "name": "Rob Davies",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "روب ديفيز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Роб Дэвис",
+          "note": "multilingual"
         }
       ]
     },
@@ -15301,14 +15651,6 @@
       ]
     },
     {
-      "area_id": "Q130840",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "10417079-51e9-4f81-beab-4fce181a926d",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -15429,6 +15771,11 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "1533cebd-f42c-42b6-9fe7-3bda0b201293",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/thandeka-moloko-mbabama/"
+        }
+      ],
       "start_date": "2016-11-08"
     },
     {
@@ -15482,7 +15829,12 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "16604189-a35a-4d97-9d42-2759121fbd35",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/nkosinathi-nhleko/"
+        }
+      ]
     },
     {
       "end_date": "2015-03-15",
@@ -15498,6 +15850,11 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "180f6b0e-865a-430e-a117-0a8deb0d241a",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/c-nqakula/"
+        }
+      ],
       "start_date": "2014-05-30"
     },
     {
@@ -15673,6 +16030,18 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "208bac95-a44c-448f-a2cd-563a8661718f",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "20b39b2a-19cd-4524-aef5-4315b3585640",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/l-d-zulu/"
+        }
+      ]
     },
     {
       "area_id": "Q127167",
@@ -16156,13 +16525,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "370c0ba6-3fd1-4a3c-a9c5-13e3eb7ad7aa",
-      "role": "member"
-    },
-    {
       "area_id": "Q127167",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
@@ -16549,6 +16911,18 @@
       "sources": [
         {
           "url": "https://www.pa.org.za/person/zukisa-cheryl-faku/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "4e884ab0-11d9-4b5f-be96-d8bece6c4395",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/tokozile-xasa/"
         }
       ]
     },
@@ -17157,13 +17531,6 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "6617e47b-dc82-46d3-a74a-87bd876b1f3d",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "66542893-9b6b-4892-a56b-056ab2756338",
       "role": "member",
       "sources": [
@@ -17179,6 +17546,11 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "671e8c42-ec57-4ef2-a011-c1f667ea33ba",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/senokoanyane-doreen/"
+        }
+      ],
       "start_date": "2016-02-05"
     },
     {
@@ -17339,13 +17711,6 @@
     },
     {
       "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "73423a03-a931-408f-8c20-3f9ad0646ab4",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "7364d35f-58dd-4cb4-b98c-2243fcfe2aac",
@@ -17422,6 +17787,19 @@
       "sources": [
         {
           "url": "https://www.pa.org.za/person/thomas-zwelakhe-hadebe/"
+        }
+      ]
+    },
+    {
+      "area_id": "Q130840",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "770ae819-4e7f-4cd3-9723-931d16ac6901",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/stella-tembisa-ndabeni-abrahams/"
         }
       ]
     },
@@ -17739,6 +18117,18 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "848e70b7-d12f-4624-945d-117a56aa0f1b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/emmanuel-nkosinathi-mthethwa/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "85275af1-10d3-4b08-9111-6ec563df6f9c",
       "role": "member"
     },
@@ -17799,14 +18189,12 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "87f1360a-d65d-4979-9dc6-62bc1fd45bb2",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/hlomela-bucwa/"
+        }
+      ],
       "start_date": "2016-11-08"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "887a2b37-b179-449f-a4ef-88da4c7589a9",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -17863,6 +18251,18 @@
       "sources": [
         {
           "url": "https://www.pa.org.za/person/petrus-johannes-groenewald/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "8d304b2a-fb7e-486e-a31b-f53466881f69",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/emmanuel-ramaotoana-kebby-maphatsoe/"
         }
       ]
     },
@@ -18165,13 +18565,6 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "9c6dd4c6-1a4d-4007-8dbe-5f655566518f",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "9c96dc41-19d0-42a4-ab74-3878a91167d0",
       "role": "member"
     },
@@ -18273,6 +18666,19 @@
       ]
     },
     {
+      "area_id": "Q133083",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "a52ad276-9679-42a3-b1b7-0e89fa14c098",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/nkosiyakhe-amos-masondo/"
+        }
+      ]
+    },
+    {
       "area_id": "Q130840",
       "end_date": "2016-08-06",
       "legislative_period_id": "term/26",
@@ -18306,13 +18712,6 @@
           "url": "https://www.pa.org.za/person/duduzile-promise-manana/"
         }
       ]
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "a784ee2a-3e57-4e78-aa81-9d8593a3474b",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -18543,6 +18942,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "b4827225-aec5-429f-979f-819f316afd45",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/bomo-edna-edith-molewa/"
+        }
+      ]
+    },
+    {
       "area_id": "Q160284",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
@@ -18618,8 +19029,13 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "bad9918b-6659-4a2b-ba1d-433f35410fa",
-      "role": "member"
+      "person_id": "bad9918b-6659-4a2b-ba1d-433f35410fa3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/baleka-mbete/"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/26",
@@ -18697,6 +19113,11 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "c0a269a4-a45e-4325-9d53-b76d9c5bb646",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/hermanus-bernadus-groenewald/"
+        }
+      ],
       "start_date": "2015-11-12"
     },
     {
@@ -18777,17 +19198,15 @@
     },
     {
       "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "c4b67ac9-c1b9-4e4a-866b-d431af6b9418",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "c4e3374e-12ba-477b-b654-abd17a9b343c",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/christian-themba-msimang/"
+        }
+      ],
       "start_date": "2014-08-23"
     },
     {
@@ -19159,6 +19578,18 @@
       "sources": [
         {
           "url": "https://www.pa.org.za/person/david-douglas-van-rooyen/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "d287ac5f-ce35-4570-b217-7005605d99d4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/gerhardus-cornelius-oosthuizen/"
         }
       ]
     },
@@ -19585,14 +20016,6 @@
       "start_date": "2015-05-20"
     },
     {
-      "area_id": "Q133083",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e505b897-d998-4f85-849a-7878b8db58b8",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -19710,6 +20133,11 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "ec94ba1b-0053-49d3-87d4-8a26d98049f6",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/ken-peter-robertson/"
+        }
+      ],
       "start_date": "2015-10-06"
     },
     {
@@ -19721,6 +20149,18 @@
       "sources": [
         {
           "url": "https://www.pa.org.za/person/hlengiwe-octavia-hlophe/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "ee05a73d-2624-4b12-86c1-255a08da7361",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/hlengiwe-buhle-mkhize/"
         }
       ]
     },
@@ -19854,13 +20294,6 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "f14e6c6e-64f3-454f-98d3-8066db1b3611",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f1d5837a-5552-4b82-88a7-8c1d015d4540",
       "role": "member",
       "sources": [
@@ -19903,6 +20336,11 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f3747b80-5c7c-432b-a19b-106edb93bcaf",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/mbulelo-richmond-bara/"
+        }
+      ],
       "start_date": "2016-11-14"
     },
     {
@@ -19994,6 +20432,18 @@
       "sources": [
         {
           "url": "https://www.pa.org.za/person/bongani-thomas-bongo/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "f8247899-02e9-4333-b11d-347fac8c2993",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.pa.org.za/person/robert-haydn-davies/"
         }
       ]
     },
