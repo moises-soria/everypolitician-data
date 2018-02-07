@@ -16,7 +16,7 @@
         "from": "morph",
         "scraper": "tmtmtmtm/south-africa-national-assembly",
         "notes": "return to 'SELECT *' once build is working",
-        "query": "SELECT id,name,honorific_prefix,email,image,source FROM data ORDER BY id"
+        "query": "SELECT id,honorific_prefix,email,image,source FROM data ORDER BY id"
       },
       "source": "http://www.pa.org.za",
       "type": "person",
