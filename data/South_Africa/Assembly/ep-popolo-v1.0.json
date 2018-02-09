@@ -2705,6 +2705,35 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "ttongwane@parliament.gov.za"
+        }
+      ],
+      "email": "ttongwane@parliament.gov.za",
+      "gender": "female",
+      "honorific_prefix": "Mrs",
+      "id": "2ad55aa2-a036-452c-a740-f4f83cb3b400",
+      "identifiers": [
+        {
+          "identifier": "tshoganetso-mpho-adolphina-gasebonwe-tongwane",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4203",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg"
+        }
+      ],
+      "name": "Tshoganetso Mpho Adolphina Tongwane"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "percy.tshabane@dpsa.gov.za"
         }
       ],
@@ -9238,30 +9267,6 @@
         }
       ],
       "name": "Dennis Dumisani Gamede"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ttongwane@parliament.gov.za"
-        }
-      ],
-      "email": "ttongwane@parliament.gov.za",
-      "honorific_prefix": "Mrs",
-      "id": "945aa883-f1d7-4192-94bf-4854a05b7146",
-      "identifiers": [
-        {
-          "identifier": "4203",
-          "scheme": "peoples_assembly"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg"
-        }
-      ],
-      "name": "Tshoganetso Mpho Adolphina Tongwane"
     },
     {
       "birth_date": "1968-10-28",
@@ -18409,6 +18414,14 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "2ad55aa2-a036-452c-a740-f4f83cb3b400",
+      "role": "member",
+      "start_date": "2014-05-30"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "2b7936fa-e233-414b-98a0-ad5a777cda88",
       "role": "member"
     },
@@ -19899,14 +19912,6 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "93a1f0c0-3492-45ee-a3ff-d57a68524d71",
       "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "945aa883-f1d7-4192-94bf-4854a05b7146",
-      "role": "member",
-      "start_date": "2014-05-30"
     },
     {
       "area_id": "Q133083",
