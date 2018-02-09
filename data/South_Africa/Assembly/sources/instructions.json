@@ -8,14 +8,14 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "membership",
+      "type": "membership"
     },
     {
       "file": "morph/peoplesassembly.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/south-africa-national-assembly",
-        "query": "SELECT id,honorific_prefix,name,email,image FROM data ORDER BY id"
+        "query": "SELECT id,honorific_prefix,name,email,image,identifier__peoples_assembly FROM data ORDER BY id"
       },
       "source": "http://www.pa.org.za",
       "type": "person",
