@@ -3511,10 +3511,6 @@
       "name": "Beatrice Thembekile Ngcobo"
     },
     {
-      "id": "32e9fd44-e231-404b-b0f3-200b98336204",
-      "name": "Hlengiwe Octavia Mkhaliphi"
-    },
-    {
       "birth_date": "1960-10-26",
       "death_date": "2014-08-16",
       "gender": "male",
@@ -14307,6 +14303,35 @@
       "name": "Ken Peter Robertson"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Hlengiwe44maxon@gmail.com"
+        }
+      ],
+      "email": "Hlengiwe44maxon@gmail.com",
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "ecb29e9d-5fe8-47bf-89e8-7ac6d9098fb5",
+      "identifiers": [
+        {
+          "identifier": "hlengiwe-octavia-hlophe",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "6678",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/99/64/996489d2aa9502f6f83e9163956d54c3.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/99/64/996489d2aa9502f6f83e9163956d54c3.jpg"
+        }
+      ],
+      "name": "Hlengiwe Octavia Mkhaliphi"
+    },
+    {
       "birth_date": "1952-09-06",
       "contact_details": [
         {
@@ -18547,13 +18572,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q15613585",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "32e9fd44-e231-404b-b0f3-200b98336204",
-      "role": "member"
-    },
-    {
       "end_date": "2014-08-16",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
@@ -21150,6 +21168,13 @@
       "person_id": "ec94ba1b-0053-49d3-87d4-8a26d98049f6",
       "role": "member",
       "start_date": "2015-10-06"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "ecb29e9d-5fe8-47bf-89e8-7ac6d9098fb5",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
