@@ -123,6 +123,45 @@
       "name": "Anchen Dreyer"
     },
     {
+      "gender": "male",
+      "id": "02757ec8-7afc-4536-8d33-cab799bac22f",
+      "identifiers": [
+        {
+          "identifier": "bonisile-nesi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Bonisile Alfred Nesi"
+    },
+    {
+      "gender": "female",
+      "given_name": "Annette",
+      "id": "029fc882-223e-4417-a885-e9f896b797f8",
+      "identifiers": [
+        {
+          "identifier": "annette-theresa-lovemore",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4769095",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Annette_Lovemore_DA_MP.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Annette_Lovemore_DA_MP.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Annette_Lovemore"
+        }
+      ],
+      "name": "Annette Lovemore"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -189,6 +228,17 @@
       "name": "Angie Motshekga"
     },
     {
+      "gender": "male",
+      "id": "04589367-741e-48ee-876f-5bf64d5a00c2",
+      "identifiers": [
+        {
+          "identifier": "timothy-zanoxolo-matsebane-khoza",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Timothy Khoza"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -231,8 +281,30 @@
       "name": "Madala Louis David Ntombela"
     },
     {
+      "gender": "female",
+      "id": "0529c3c1-96c9-42b8-a56d-d5be65c93acd",
+      "identifiers": [
+        {
+          "identifier": "raesibe-eunice-nyalungu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Raesibe Eunice Nyalungu"
+    },
+    {
       "id": "05718eb9-80fa-4958-a09c-cecb99c9ce4c",
       "name": "Kenneth Mubu"
+    },
+    {
+      "gender": "male",
+      "id": "0628015d-7afe-427c-8216-9ef7f0be48dd",
+      "identifiers": [
+        {
+          "identifier": "monwabisi-bevan-goqwana",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Monwabisi Bevan Goqwana"
     },
     {
       "contact_details": [
@@ -504,6 +576,43 @@
       "name": "Thapelo Dorothy Chiloane"
     },
     {
+      "birth_date": "1960-05-13",
+      "family_name": "Peters",
+      "gender": "female",
+      "id": "0c726e19-c486-4e44-a3f7-050694443fef",
+      "identifiers": [
+        {
+          "identifier": "elizabeth-dipuo-peters",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5280133",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/H.E._Dipuo_Peters_-_Energy_Minister_in_South_Africa.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/H.E._Dipuo_Peters_-_Energy_Minister_in_South_Africa.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dipuo_Peters"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dipuo_Peters"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dipuo_Peters"
+        }
+      ],
+      "name": "Dipuo Peters"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -552,6 +661,28 @@
         }
       ],
       "name": "Barbara Thomson"
+    },
+    {
+      "birth_date": "1983-08-11",
+      "gender": "male",
+      "id": "0d715409-1c64-43ca-bb78-403248f866b3",
+      "identifiers": [
+        {
+          "identifier": "makashule-gana",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6738820",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Makashule_Gana"
+        }
+      ],
+      "name": "Makashule Gana"
     },
     {
       "contact_details": [
@@ -649,6 +780,17 @@
         }
       ],
       "name": "Tandiwe Elizabeth Kenye"
+    },
+    {
+      "gender": "male",
+      "id": "10c5b8ac-0420-4f94-8cb1-be97af8a1ed9",
+      "identifiers": [
+        {
+          "identifier": "marthinus-christoffel-johannes-van-schalkwyk",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Marthinus van Schalkwyk"
     },
     {
       "contact_details": [
@@ -846,14 +988,6 @@
       "name": "Mandlenkosi Phillip Galo"
     },
     {
-      "id": "13f1a350-3214-4c53-8e7d-f354a4f19d1d",
-      "name": "Lumka Elizabeth Yengeni"
-    },
-    {
-      "id": "14bc3eca-da28-4a6f-90ee-03857632f800",
-      "name": "Bennet Mzwenqaba Bhanga"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -948,8 +1082,15 @@
       ]
     },
     {
-      "id": "157c8f26-e11e-4b0f-8e7e-426a22afabd7",
-      "name": "Bonisile Alfred Nesi"
+      "gender": "female",
+      "id": "1591b26b-50b2-4628-a68e-712f33eb3ce0",
+      "identifiers": [
+        {
+          "identifier": "pumza-ntobongwana",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Pumza Ntobongwana"
     },
     {
       "contact_details": [
@@ -1207,6 +1348,17 @@
       "name": "Charles Nqakula"
     },
     {
+      "gender": "female",
+      "id": "18828e6e-90b4-45fc-bab9-e14e5b3bff78",
+      "identifiers": [
+        {
+          "identifier": "amy-tuck",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Agnes Tuck"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1229,10 +1381,6 @@
         }
       ],
       "name": "Liezl Linda van der Merwe"
-    },
-    {
-      "id": "19432898-59b3-4488-99bd-9e3be3ddea89",
-      "name": "Kgotso Zachariah Morapela"
     },
     {
       "contact_details": [
@@ -1658,8 +1806,15 @@
       "name": "Sarel Jacobus Francois Marais"
     },
     {
-      "id": "1e2b443b-12ad-4432-b250-66e238030463",
-      "name": "Pumza Ntobongwana"
+      "gender": "male",
+      "id": "1d2006c6-dce6-48ab-8da0-ab373a7b5fbe",
+      "identifiers": [
+        {
+          "identifier": "andrew-grant-whitfield",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Andrew Grant Whitfield"
     },
     {
       "contact_details": [
@@ -1746,39 +1901,6 @@
         }
       ],
       "name": "Thandi Cecilia Memela"
-    },
-    {
-      "birth_date": "1960-05-13",
-      "family_name": "Peters",
-      "gender": "female",
-      "id": "208bac95-a44c-448f-a2cd-563a8661718f",
-      "identifiers": [
-        {
-          "identifier": "Q5280133",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/H.E._Dipuo_Peters_-_Energy_Minister_in_South_Africa.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/H.E._Dipuo_Peters_-_Energy_Minister_in_South_Africa.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Dipuo_Peters"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Dipuo_Peters"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Dipuo_Peters"
-        }
-      ],
-      "name": "Dipuo Peters"
     },
     {
       "birth_date": "1958-04-21",
@@ -1988,6 +2110,17 @@
       "name": "James Vos"
     },
     {
+      "gender": "female",
+      "id": "27c4074e-1c42-452f-8e71-55990006a65d",
+      "identifiers": [
+        {
+          "identifier": "johanna-fredrika-juanita-terblanche",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Johanna Fredrika Terblanche"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2167,6 +2300,17 @@
       "name": "Dipuo Bertha Letsatsi-Duba"
     },
     {
+      "gender": "female",
+      "id": "2b7ad6f1-b74b-42f6-b31b-cf1b182c7896",
+      "identifiers": [
+        {
+          "identifier": "joyce-clementine-moloi-moropa",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Joyce Clementine Moloi-Moropa"
+    },
+    {
       "birth_date": "1962-02-01",
       "contact_details": [
         {
@@ -2257,10 +2401,6 @@
       "name": "Bertha Peace Mabe"
     },
     {
-      "id": "2c2123fa-1c5a-4dea-833a-5af218f8342b",
-      "name": "Heinrich Cyril Volmink"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -2295,6 +2435,47 @@
         }
       ],
       "name": "Shahid Esau"
+    },
+    {
+      "birth_date": "1967",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TarniaBaker"
+        }
+      ],
+      "death_date": "2017-10-06",
+      "family_name": "Baker",
+      "gender": "female",
+      "id": "2d5454af-78de-494d-8f7e-197879db24f0",
+      "identifiers": [
+        {
+          "identifier": "tarnia-elena-baker",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41705189",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tarnia_Baker"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/TarniaBaker"
+        }
+      ],
+      "name": "Tarnia Baker",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ターニア・ベイカー",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-06-06",
@@ -2454,6 +2635,17 @@
         }
       ],
       "name": "Sej Motau"
+    },
+    {
+      "gender": "female",
+      "id": "2eef19b8-93f9-420c-be2d-78095c8772e8",
+      "identifiers": [
+        {
+          "identifier": "agnes-noluthando-daphne-qikani",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Agnes Daphne Noluthando Qikani"
     },
     {
       "contact_details": [
@@ -2895,10 +3087,6 @@
       "name": "Tandi Mahambehlala"
     },
     {
-      "id": "368e479e-84c1-4ad1-902c-70cc318d57e6",
-      "name": "Marthinus van Schalkwyk"
-    },
-    {
       "birth_date": "1984-11-09",
       "contact_details": [
         {
@@ -3158,6 +3346,17 @@
       "name": "Cassel Mathale"
     },
     {
+      "gender": "male",
+      "id": "39781c4c-8d20-4c81-a16f-fbca5a8eca9c",
+      "identifiers": [
+        {
+          "identifier": "abinaar-modikela-matlhoko",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abinaar Modikela Matlhoko"
+    },
+    {
       "birth_date": "1962-10-23",
       "contact_details": [
         {
@@ -3355,10 +3554,6 @@
       "name": "Fatima Chohan"
     },
     {
-      "id": "3e2c404a-e2c8-4654-bfa1-79daf515b572",
-      "name": "Johanna Fredrika Terblanche"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -3548,43 +3743,6 @@
       "name": "Nozabelo Ruth Bhengu"
     },
     {
-      "birth_date": "1967",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "TarniaBaker"
-        }
-      ],
-      "death_date": "2017-10-06",
-      "family_name": "Baker",
-      "gender": "female",
-      "id": "42bba9ee-f8c5-4bfe-96ef-0ec983c6f27f",
-      "identifiers": [
-        {
-          "identifier": "Q41705189",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tarnia_Baker"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/TarniaBaker"
-        }
-      ],
-      "name": "Tarnia Baker",
-      "other_names": [
-        {
-          "lang": "ja",
-          "name": "ターニア・ベイカー",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -3734,6 +3892,72 @@
       "name": "Sheilla Tembalam Xego"
     },
     {
+      "birth_date": "1963-12-18",
+      "gender": "female",
+      "given_name": "Tina",
+      "id": "4650103d-65aa-4566-95ab-3b6864f52d26",
+      "identifiers": [
+        {
+          "identifier": "tina-monica-joemat-pettersson",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4956754",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tina_Joemat-Peterson.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tina_Joemat-Peterson.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Tina_Joemat-Pettersson"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Tina_Joemat-Pettersson"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tina_Joemat-Pettersson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tina_Joemat-Pettersson"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Tina_Joemat-Peterson"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tina_Joemat-Pettersson"
+        }
+      ],
+      "name": "Tina Joemat-Peterson",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Tina Joemat-Pettersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tina Joemat-Pettersson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tina Joemat-Pettersson",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3794,6 +4018,27 @@
         }
       ],
       "name": "Nontando Nolutshungu"
+    },
+    {
+      "gender": "female",
+      "id": "47d82630-80db-4895-98ff-078d573a5c09",
+      "identifiers": [
+        {
+          "identifier": "makhosi-busisiwe-khoza",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q37993392",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Makhosi_Khoza"
+        }
+      ],
+      "name": "Makhosi Khoza"
     },
     {
       "contact_details": [
@@ -4054,10 +4299,6 @@
       "name": "Tokozile Xasa"
     },
     {
-      "id": "4ef0ae0e-fe9a-469b-8e15-efb94b78ab87",
-      "name": "Agnes Daphne Noluthando Qikani"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -4308,6 +4549,17 @@
         }
       ],
       "name": "Pallo Jordan"
+    },
+    {
+      "gender": "male",
+      "id": "511738a9-d0f9-4189-90c8-9c7590c0b38a",
+      "identifiers": [
+        {
+          "identifier": "heinrich-cyril-volmink",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Heinrich Cyril Volmink"
     },
     {
       "contact_details": [
@@ -4643,6 +4895,17 @@
       "name": "John Harold Jeffery"
     },
     {
+      "gender": "female",
+      "id": "55dd2925-994f-4a2b-9c36-85cf05d8fcd9",
+      "identifiers": [
+        {
+          "identifier": "asanda-matshobeni",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Asanda Matshobeni"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -4759,10 +5022,6 @@
         }
       ],
       "name": "Lulama Maxwell Ntshayisa"
-    },
-    {
-      "id": "5aa5a438-8933-40ea-8fca-d39bbda92d15",
-      "name": "Johanna Mmule Maluleke"
     },
     {
       "contact_details": [
@@ -4915,10 +5174,6 @@
     {
       "id": "5c5bb3a8-4221-453e-b160-e235b9cca4f2",
       "name": "Michael Malisa Tshishonga"
-    },
-    {
-      "id": "5c6a564e-7e54-4ebf-a7f1-cb5053f0b75b",
-      "name": "Joyce Clementine Moloi-Moropa"
     },
     {
       "contact_details": [
@@ -5222,10 +5477,6 @@
       "name": "Patrick George Atkinson"
     },
     {
-      "id": "603f0ce8-f772-43fc-84a5-741ae3c56927",
-      "name": "Seropane Senyane Alton Mphethi"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -5384,6 +5635,17 @@
       "name": "Stevens Mokgalapa"
     },
     {
+      "gender": "male",
+      "id": "62ff32c0-166b-4e92-a5ae-43d0660c8971",
+      "identifiers": [
+        {
+          "identifier": "nicholous-pro-khoza",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Nicholous Pro Khoza"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5470,24 +5732,6 @@
       "name": "Nqabayomzi Lawrence Saziso Kwankwa"
     },
     {
-      "birth_date": "1983-08-11",
-      "gender": "male",
-      "id": "6551936f-47b6-4893-aaf2-4d797f75359c",
-      "identifiers": [
-        {
-          "identifier": "Q6738820",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Makashule_Gana"
-        }
-      ],
-      "name": "Makashule Gana"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -5511,6 +5755,17 @@
         }
       ],
       "name": "Sheila Coleen Nkhensani Shope-Sithole"
+    },
+    {
+      "gender": "male",
+      "id": "66de2926-e7fb-406b-ac1b-d6f097f6120d",
+      "identifiers": [
+        {
+          "identifier": "mangaqa-albert-mncwango",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Mangaqa Albert Mncwango"
     },
     {
       "contact_details": [
@@ -5770,6 +6025,17 @@
       "name": "James Lorimer"
     },
     {
+      "gender": "male",
+      "id": "6a3f1515-ef3a-484d-ac83-a02268a36647",
+      "identifiers": [
+        {
+          "identifier": "kgotso-zachariah-morapela",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kgotso Zachariah Morapela"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5820,6 +6086,17 @@
       "name": "Simphiwe Donatus Bekwa"
     },
     {
+      "gender": "male",
+      "id": "6c793c31-b30b-4769-919a-3f16b16d92dc",
+      "identifiers": [
+        {
+          "identifier": "joseph-job-mc-gluwa",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Joseph Job McGluwa"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5847,10 +6124,6 @@
     {
       "id": "6e38db8b-db8b-4048-a7c8-8e4fc49f44ea",
       "name": "Brian Molefe"
-    },
-    {
-      "id": "6f60bc02-e9af-4ced-a9bb-6cc5eafb4789",
-      "name": "Solomon Patrick Mabilo"
     },
     {
       "contact_details": [
@@ -5989,10 +6262,6 @@
       "name": "Leonard Jones Basson"
     },
     {
-      "id": "742dc23e-9b3b-4cd3-bf59-8d6ab6094045",
-      "name": "Trevor John Bonhomme"
-    },
-    {
       "birth_date": "1953-12-07",
       "contact_details": [
         {
@@ -6061,10 +6330,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "id": "74eec718-ed3c-4ea8-a997-e7be5d4c6fa9",
-      "name": "Mangaqa Albert Mncwango"
     },
     {
       "contact_details": [
@@ -6293,10 +6558,6 @@
       "name": "Susan Shabangu"
     },
     {
-      "id": "78144089-f7b4-40b9-9f2b-066d8228da1a",
-      "name": "Timothy Khoza"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -6364,10 +6625,6 @@
         }
       ],
       "name": "David Maynier"
-    },
-    {
-      "id": "798eed18-48f9-471f-afd5-34cd076aa978",
-      "name": "Nicholous Pro Khoza"
     },
     {
       "contact_details": [
@@ -6443,10 +6700,6 @@
     {
       "id": "7c0133aa-26d8-4368-a3bc-1b24a6c1f23b",
       "name": "Nomakhaya Mdaka"
-    },
-    {
-      "id": "7cfa3070-b807-457b-b245-61d02ff9040f",
-      "name": "Andrew Grant Whitfield"
     },
     {
       "contact_details": [
@@ -6743,10 +6996,6 @@
         }
       ],
       "name": "Zukile Luyenge"
-    },
-    {
-      "id": "81f5a1ef-944e-4861-aa10-c42c9c3997f8",
-      "name": "Asanda Matshobeni"
     },
     {
       "contact_details": [
@@ -7059,6 +7308,38 @@
       "name": "Hlomela Bucwa"
     },
     {
+      "birth_date": "1954-03-02",
+      "gender": "male",
+      "id": "88e6b139-3bdc-477d-b1ad-a4091392ca4f",
+      "identifiers": [
+        {
+          "identifier": "phumelele-stone-sizani",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16186490",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Stonesizani.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Stonesizani.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Stone_Sizani"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stone_Sizani"
+        }
+      ],
+      "name": "Stone Sizani"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -7108,30 +7389,6 @@
       "name": "Makgathatso Charlotte Chana Pilane-Majake"
     },
     {
-      "birth_date": "1949-11-28",
-      "gender": "female",
-      "id": "89987d88-c244-4a92-9e00-4818584fdc01",
-      "identifiers": [
-        {
-          "identifier": "Q7061817",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Nosimo-21-02-09.JPG",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Nosimo-21-02-09.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Nosimo_Balindlela"
-        }
-      ],
-      "name": "Nosimo Balindlela"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -7155,6 +7412,17 @@
         }
       ],
       "name": "Cathrine Matsimbi"
+    },
+    {
+      "gender": "female",
+      "id": "8c2f5b5c-c889-459e-8f38-0fed1538cfd6",
+      "identifiers": [
+        {
+          "identifier": "m-scheepers",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Maureen Angela Scheepers"
     },
     {
       "contact_details": [
@@ -7613,10 +7881,6 @@
       "name": "Xitlhangoma Mabasa"
     },
     {
-      "id": "957d566b-feee-4b74-b9a1-aa8ea095aa57",
-      "name": "Mzwandile Collen Masina"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -7914,10 +8178,6 @@
       "name": "Madala Masuku"
     },
     {
-      "id": "9c0fd945-0250-4dc5-a5bd-61eaf539e9e6",
-      "name": "Puleng Peter Mabe"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -7933,6 +8193,28 @@
         }
       ],
       "name": "Nomvula Mokonyane"
+    },
+    {
+      "birth_date": "1955-08-21",
+      "gender": "male",
+      "id": "9d37aa5d-0a86-4978-ace6-b358115c556c",
+      "identifiers": [
+        {
+          "identifier": "ngoako-abel-ramatlhodi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20981883",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngoako_Ramatlhodi"
+        }
+      ],
+      "name": "Ngoako Ramatlhodi"
     },
     {
       "contact_details": [
@@ -7985,25 +8267,6 @@
       "name": "Evelyn Wilson"
     },
     {
-      "birth_date": "1987-09-15",
-      "gender": "male",
-      "given_name": "Marius",
-      "id": "a002feb6-7580-4fa3-90fb-71d33f606de8",
-      "identifiers": [
-        {
-          "identifier": "Q17037520",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Marius_Redelinghuys"
-        }
-      ],
-      "name": "Marius Redelinghuys"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -8046,8 +8309,15 @@
       "name": "Malcolm John Figg"
     },
     {
-      "id": "a11e5aa7-0827-4bb4-ac8e-c354346d34fd",
-      "name": "Elvis Kholwana Siwela"
+      "gender": "male",
+      "id": "a178ee5e-cbf7-4b2c-9f9d-4be14caee324",
+      "identifiers": [
+        {
+          "identifier": "abram-molefe-mudau",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abram Molefe Mudau"
     },
     {
       "contact_details": [
@@ -8250,30 +8520,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "gender": "female",
-      "given_name": "Annette",
-      "id": "a68fbeab-5b95-413a-9c3c-a689466a7f81",
-      "identifiers": [
-        {
-          "identifier": "Q4769095",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Annette_Lovemore_DA_MP.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Annette_Lovemore_DA_MP.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Annette_Lovemore"
-        }
-      ],
-      "name": "Annette Lovemore"
     },
     {
       "contact_details": [
@@ -8852,6 +9098,17 @@
       "name": "Ross Kriel Purdon"
     },
     {
+      "gender": "male",
+      "id": "ae5369f6-39d2-490a-99ea-a720c93fbd08",
+      "identifiers": [
+        {
+          "identifier": "itumeleng-mosala",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Itumeleng Mosala"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -8919,68 +9176,6 @@
       "name": "Deborah Dineo Raphuti"
     },
     {
-      "birth_date": "1963-12-18",
-      "gender": "female",
-      "given_name": "Tina",
-      "id": "b02ce373-f841-4d46-b1df-e90ab6a693b8",
-      "identifiers": [
-        {
-          "identifier": "Q4956754",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tina_Joemat-Peterson.png",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tina_Joemat-Peterson.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Tina_Joemat-Pettersson"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Tina_Joemat-Pettersson"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Tina_Joemat-Pettersson"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Tina_Joemat-Pettersson"
-        },
-        {
-          "note": "Wikipedia (id)",
-          "url": "https://id.wikipedia.org/wiki/Tina_Joemat-Peterson"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Tina_Joemat-Pettersson"
-        }
-      ],
-      "name": "Tina Joemat-Peterson",
-      "other_names": [
-        {
-          "lang": "af",
-          "name": "Tina Joemat-Pettersson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tina Joemat-Pettersson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Tina Joemat-Pettersson",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -9004,6 +9199,29 @@
         }
       ],
       "name": "Mohlopi Philemon Mapulane"
+    },
+    {
+      "birth_date": "1987-09-15",
+      "gender": "male",
+      "given_name": "Marius",
+      "id": "b125dc72-aa32-4d8d-b8d6-bfe1a4f02054",
+      "identifiers": [
+        {
+          "identifier": "marius-helenis-redelinghuys",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17037520",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marius_Redelinghuys"
+        }
+      ],
+      "name": "Marius Redelinghuys"
     },
     {
       "contact_details": [
@@ -9243,6 +9461,17 @@
       "name": "Nthako Sam Matiase"
     },
     {
+      "gender": "male",
+      "id": "b569cc6c-a197-4531-9a8c-b2a17f8318e2",
+      "identifiers": [
+        {
+          "identifier": "elvis-kholwana-siwela",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Elvis Kholwana Siwela"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -9266,6 +9495,17 @@
         }
       ],
       "name": "Mathume Joseph Phaahla"
+    },
+    {
+      "gender": "female",
+      "id": "b5e744c2-de8c-424f-825f-208fb1d59374",
+      "identifiers": [
+        {
+          "identifier": "lumka-elizabeth-yengeni",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Lumka Elizabeth Yengeni"
     },
     {
       "contact_details": [
@@ -9316,6 +9556,17 @@
         }
       ],
       "name": "Pinky Sharon Kekana"
+    },
+    {
+      "gender": "male",
+      "id": "ba4801f4-cdc1-4b4c-a215-f9a3785d0fdd",
+      "identifiers": [
+        {
+          "identifier": "puleng-peter-mabe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Puleng Peter Mabe"
     },
     {
       "birth_date": "1949-09-24",
@@ -9426,6 +9677,17 @@
         }
       ],
       "name": "Mathews Wolmarans"
+    },
+    {
+      "gender": "male",
+      "id": "bcafe765-f8bd-45c2-b351-f5440690f809",
+      "identifiers": [
+        {
+          "identifier": "trevor-bonhomme",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Trevor John Bonhomme"
     },
     {
       "birth_date": "1955-07-25",
@@ -9661,10 +9923,6 @@
       "name": "Hermanus Bernadus Groenewald"
     },
     {
-      "id": "c0c32783-4e44-4e19-a7e5-dfac1d8c5edb",
-      "name": "Itumeleng Mosala"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -9715,10 +9973,6 @@
       "name": "Sibongile Pearm Tsoleli"
     },
     {
-      "id": "c1e450b1-1e8a-44df-be2d-7f7e9a65cbaf",
-      "name": "Abinaar Modikela Matlhoko"
-    },
-    {
       "birth_date": "1966-03-22",
       "contact_details": [
         {
@@ -9757,6 +10011,39 @@
         }
       ],
       "name": "Pieter van Dalen"
+    },
+    {
+      "birth_date": "1960",
+      "gender": "male",
+      "id": "c24c69fc-d584-44a3-a912-f72e24fd9cd5",
+      "identifiers": [
+        {
+          "identifier": "mcebisi-jonas",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22278431",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mcebisi_Jonas"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/음체비시_조너스"
+        }
+      ],
+      "name": "Mcebisi Jonas",
+      "other_names": [
+        {
+          "lang": "ko",
+          "name": "음체비시 조너스",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -9803,34 +10090,6 @@
     {
       "id": "c4e3374e-12ba-477b-b654-abd17a9b343c",
       "name": "Christian Themba Msimang"
-    },
-    {
-      "birth_date": "1954-03-02",
-      "gender": "male",
-      "id": "c5a72914-c6ec-41c3-a614-057fa9dc8e73",
-      "identifiers": [
-        {
-          "identifier": "Q16186490",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Stonesizani.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Stonesizani.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Stone_Sizani"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Stone_Sizani"
-        }
-      ],
-      "name": "Stone Sizani"
     },
     {
       "birth_date": "1953-08-15",
@@ -9883,10 +10142,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "id": "c700ee76-1fd1-4b56-9108-c8c78cd4cbc7",
-      "name": "Joseph Job McGluwa"
     },
     {
       "contact_details": [
@@ -10077,6 +10332,29 @@
         }
       ],
       "name": "Hendrietta Bogopane-Zulu"
+    },
+    {
+      "birth_date": "1961-10-21",
+      "gender": "male",
+      "given_name": "Paul",
+      "id": "c8dbcc3f-e1d7-4cf5-b5e3-d7587e44781b",
+      "identifiers": [
+        {
+          "identifier": "shipokasa-paulus-mashatile",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7152252",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Mashatile"
+        }
+      ],
+      "name": "Paul Mashatile"
     },
     {
       "contact_details": [
@@ -10417,10 +10695,6 @@
         }
       ],
       "name": "Regina Mina Mpontseng Lesoma"
-    },
-    {
-      "id": "cf29c178-ee01-4203-b4b6-84a827e5b941",
-      "name": "Abram Molefe Mudau"
     },
     {
       "contact_details": [
@@ -10998,10 +11272,6 @@
       "name": "Cornelius Petrus Mulder"
     },
     {
-      "id": "d97b90ee-d70d-4e72-983a-540b355ca9ce",
-      "name": "Raesibe Eunice Nyalungu"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -11402,8 +11672,64 @@
       "name": "Enock Muzi Mthethwa"
     },
     {
+      "birth_date": "1958-12-05",
+      "gender": "male",
+      "id": "e0dd1766-033c-4137-80d5-4aaa91f13eca",
+      "identifiers": [
+        {
+          "identifier": "nhlanhla-musa-nene",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Nhlanhla-Nene",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "Q7023365",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nhlanhla_Nene"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nhlanhla_Nene"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nhlanhla_Nene"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/은란라_네네"
+        }
+      ],
+      "name": "Nhlanhla Nene",
+      "other_names": [
+        {
+          "lang": "ko",
+          "name": "은란라 네네",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "id": "e15b4675-2e1d-462c-b969-2b061f60b246",
       "name": "Yolanda Rachel Botha"
+    },
+    {
+      "gender": "female",
+      "id": "e19088dd-14c6-4f67-bd32-c87d24533a17",
+      "identifiers": [
+        {
+          "identifier": "johanna-mmule-maluleke",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Johanna Mmule Maluleke"
     },
     {
       "contact_details": [
@@ -11493,51 +11819,6 @@
       "name": "Tete Ramalie Jonas Ezekiel Ramokhoase"
     },
     {
-      "birth_date": "1958-12-05",
-      "gender": "male",
-      "id": "e345b7eb-1701-4293-a483-3eba89bf97cf",
-      "identifiers": [
-        {
-          "identifier": "Nhlanhla-Nene",
-          "scheme": "quora"
-        },
-        {
-          "identifier": "Q7023365",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Nhlanhla_Nene"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Nhlanhla_Nene"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Nhlanhla_Nene"
-        },
-        {
-          "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/은란라_네네"
-        }
-      ],
-      "name": "Nhlanhla Nene",
-      "other_names": [
-        {
-          "lang": "ko",
-          "name": "은란라 네네",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "e3dcefdf-e755-4d11-85ce-26a85a171205",
-      "name": "Hlayiseka Crucief Chewane"
-    },
-    {
       "birth_date": "1953-01-13",
       "contact_details": [
         {
@@ -11615,6 +11896,28 @@
       "name": "Millicent Ntombizodwa Sibongile Manana"
     },
     {
+      "gender": "male",
+      "id": "e5b92695-aae5-462b-b743-663042742a21",
+      "identifiers": [
+        {
+          "identifier": "hlayiseka-crucief-chewane",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Hlayiseka Crucief Chewane"
+    },
+    {
+      "gender": "male",
+      "id": "e64b1d81-d8dd-44e9-b307-f5e336f172b9",
+      "identifiers": [
+        {
+          "identifier": "seropane-senyane-alton-mphethi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Seropane Senyane Alton Mphethi"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -11638,24 +11941,6 @@
         }
       ],
       "name": "Steven Mahlubanzima Jafta"
-    },
-    {
-      "birth_date": "1955-08-21",
-      "gender": "male",
-      "id": "e6c732f4-22c6-483a-90f2-1c6f17662a89",
-      "identifiers": [
-        {
-          "identifier": "Q20981883",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ngoako_Ramatlhodi"
-        }
-      ],
-      "name": "Ngoako Ramatlhodi"
     },
     {
       "contact_details": [
@@ -11733,35 +12018,6 @@
       "name": "Fezeka Sister Loliwe"
     },
     {
-      "birth_date": "1960",
-      "gender": "male",
-      "id": "e9e7f939-dc98-4681-a991-b3b85ddedb5e",
-      "identifiers": [
-        {
-          "identifier": "Q22278431",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mcebisi_Jonas"
-        },
-        {
-          "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/음체비시_조너스"
-        }
-      ],
-      "name": "Mcebisi Jonas",
-      "other_names": [
-        {
-          "lang": "ko",
-          "name": "음체비시 조너스",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -11779,21 +12035,59 @@
       "name": "Mosebenzi Zwane"
     },
     {
-      "contact_details": [
+      "gender": "male",
+      "id": "ea8a7bbe-dcc8-45d4-a761-b6dc1102a82c",
+      "identifiers": [
         {
-          "type": "email",
-          "value": "atuck@parliament.gov.za"
+          "identifier": "mzwandile-collen-masina",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "email": "atuck@parliament.gov.za",
-      "id": "ebfb9ff0-30ce-4584-954d-a39b10f3751f",
-      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
-      "images": [
+      "name": "Mzwandile Collen Masina"
+    },
+    {
+      "birth_date": "1953-07-05",
+      "family_name": "James",
+      "gender": "male",
+      "given_name": "Wilmot",
+      "id": "eaf1136c-23d6-4ce6-9a72-ba7f4113f98e",
+      "identifiers": [
         {
-          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+          "identifier": "12181916c",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "wilmot-godfrey-james",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0001 0936 4431",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "074097059",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "030396603",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "112347314",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q8022831",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Agnes Tuck"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wilmot_James"
+        }
+      ],
+      "name": "Wilmot James"
     },
     {
       "contact_details": [
@@ -12174,25 +12468,6 @@
         }
       ],
       "name": "Benedict Anthony Duke Martins"
-    },
-    {
-      "birth_date": "1961-10-21",
-      "gender": "male",
-      "given_name": "Paul",
-      "id": "f0321ad6-70d2-402c-9789-2b33964eacf8",
-      "identifiers": [
-        {
-          "identifier": "Q7152252",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Paul_Mashatile"
-        }
-      ],
-      "name": "Paul Mashatile"
     },
     {
       "birth_date": "1953-02-16",
@@ -12614,10 +12889,6 @@
       ]
     },
     {
-      "id": "f20b54c0-6eae-46f6-8c3b-fcc3304a5a2b",
-      "name": "Monwabisi Bevan Goqwana"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -12839,46 +13110,6 @@
       "name": "Mamonare Patricia Chueu"
     },
     {
-      "birth_date": "1953-07-05",
-      "family_name": "James",
-      "gender": "male",
-      "given_name": "Wilmot",
-      "id": "f3d8aa7e-a29e-489e-baba-150dd59fe780",
-      "identifiers": [
-        {
-          "identifier": "12181916c",
-          "scheme": "bnf"
-        },
-        {
-          "identifier": "0000 0001 0936 4431",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "074097059",
-          "scheme": "nta"
-        },
-        {
-          "identifier": "030396603",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "112347314",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q8022831",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Wilmot_James"
-        }
-      ],
-      "name": "Wilmot James"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -12902,6 +13133,56 @@
         }
       ],
       "name": "Moses Siphosezwe Amos Masango"
+    },
+    {
+      "birth_date": "1949-11-28",
+      "gender": "female",
+      "id": "f45fe41d-7e21-41f6-b273-8f9a670bbc34",
+      "identifiers": [
+        {
+          "identifier": "zisiwe-beauty-nosimo-balindlela",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7061817",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Nosimo-21-02-09.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Nosimo-21-02-09.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nosimo_Balindlela"
+        }
+      ],
+      "name": "Nosimo Balindlela"
+    },
+    {
+      "gender": "male",
+      "id": "f5176fe2-fcf5-4f57-93cf-3f6678380687",
+      "identifiers": [
+        {
+          "identifier": "bennet-mzwenqaba-bhanga",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Bennet Mzwenqaba Bhanga"
+    },
+    {
+      "gender": "male",
+      "id": "f59f63c0-c5be-421d-9c4c-63c323715e7a",
+      "identifiers": [
+        {
+          "identifier": "solomon-patrick-mabilo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Solomon Patrick Mabilo"
     },
     {
       "birth_date": "1965",
@@ -13144,23 +13425,6 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "fa022f08-9e0e-445e-9777-c819a66c301c",
-      "identifiers": [
-        {
-          "identifier": "Q37993392",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Makhosi_Khoza"
-        }
-      ],
-      "name": "Makhosi Khoza"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -13336,10 +13600,6 @@
         }
       ],
       "name": "Bridget Staff Masango"
-    },
-    {
-      "id": "fcef4bfc-df21-4fc4-8dd7-67630cceb189",
-      "name": "Maureen Angela Scheepers"
     },
     {
       "contact_details": [
@@ -13545,6 +13805,24 @@
       "role": "member"
     },
     {
+      "area_id": "Q130840",
+      "end_date": "2016-10-02",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "02757ec8-7afc-4536-8d33-cab799bac22f",
+      "role": "member"
+    },
+    {
+      "area_id": "Q130840",
+      "end_date": "2016-08-06",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "029fc882-223e-4417-a885-e9f896b797f8",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -13557,6 +13835,15 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "044c3246-5842-494f-89df-bc41a4fd2d1f",
       "role": "member"
+    },
+    {
+      "end_date": "2017-08-02",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "04589367-741e-48ee-876f-5bf64d5a00c2",
+      "role": "member",
+      "start_date": "2014-05-26"
     },
     {
       "area_id": "Q134907",
@@ -13576,12 +13863,28 @@
       "role": "member"
     },
     {
+      "end_date": "2016-07-21",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "0529c3c1-96c9-42b8-a56d-d5be65c93acd",
+      "role": "member"
+    },
+    {
       "area_id": "Q133083",
       "end_date": "2015-08-31",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "05718eb9-80fa-4958-a09c-cecb99c9ce4c",
+      "role": "member"
+    },
+    {
+      "end_date": "2016-06-27",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "0628015d-7afe-427c-8216-9ef7f0be48dd",
       "role": "member"
     },
     {
@@ -13662,6 +13965,14 @@
       "start_date": "2015-02-24"
     },
     {
+      "end_date": "2017-03-31",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "0c726e19-c486-4e44-a3f7-050694443fef",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -13674,6 +13985,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "0d6fdfae-44c1-4dda-966c-89d97d99f60d",
+      "role": "member"
+    },
+    {
+      "end_date": "2016-11-14",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "0d715409-1c64-43ca-bb78-403248f866b3",
       "role": "member"
     },
     {
@@ -13713,6 +14032,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "0ff3ad8e-d9bd-4eae-adb7-689800338e25",
+      "role": "member"
+    },
+    {
+      "end_date": "2014-05-25",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "10c5b8ac-0420-4f94-8cb1-be97af8a1ed9",
       "role": "member"
     },
     {
@@ -13770,23 +14097,6 @@
       "role": "member"
     },
     {
-      "end_date": "2017-10-02",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "13f1a350-3214-4c53-8e7d-f354a4f19d1d",
-      "role": "member"
-    },
-    {
-      "area_id": "Q130840",
-      "end_date": "2016-08-06",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "14bc3eca-da28-4a6f-90ee-03857632f800",
-      "role": "member"
-    },
-    {
       "area_id": "Q81725",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q6972795",
@@ -13811,12 +14121,11 @@
       "role": "member"
     },
     {
-      "area_id": "Q130840",
-      "end_date": "2016-10-02",
+      "end_date": "2016-08-23",
       "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
+      "on_behalf_of_id": "Q15613585",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "157c8f26-e11e-4b0f-8e7e-426a22afabd7",
+      "person_id": "1591b26b-50b2-4628-a68e-712f33eb3ce0",
       "role": "member"
     },
     {
@@ -13865,19 +14174,19 @@
       "start_date": "2014-05-30"
     },
     {
+      "area_id": "Q132418",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "18828e6e-90b4-45fc-bab9-e14e5b3bff78",
+      "role": "member",
+      "start_date": "2015-03-30"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "191d5b66-a26a-4ed9-9aa5-4c356af1df8b",
-      "role": "member"
-    },
-    {
-      "area_id": "Q160284",
-      "end_date": "2015-10-31",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q15613585",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "19432898-59b3-4488-99bd-9e3be3ddea89",
       "role": "member"
     },
     {
@@ -13959,11 +14268,11 @@
       "role": "member"
     },
     {
-      "end_date": "2016-08-23",
+      "end_date": "2016-08-06",
       "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q15613585",
+      "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "1e2b443b-12ad-4432-b250-66e238030463",
+      "person_id": "1d2006c6-dce6-48ab-8da0-ab373a7b5fbe",
       "role": "member"
     },
     {
@@ -13988,14 +14297,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "1f894a0c-e473-426a-91e5-bccd4e76046f",
-      "role": "member"
-    },
-    {
-      "end_date": "2017-03-31",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "208bac95-a44c-448f-a2cd-563a8661718f",
       "role": "member"
     },
     {
@@ -14061,6 +14362,14 @@
       "role": "member"
     },
     {
+      "end_date": "2017-09-07",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "27c4074e-1c42-452f-8e71-55990006a65d",
+      "role": "member"
+    },
+    {
       "area_id": "Q130840",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -14123,6 +14432,14 @@
       "role": "member"
     },
     {
+      "end_date": "2016-03-02",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "2b7ad6f1-b74b-42f6-b31b-cf1b182c7896",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q6972795",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -14148,20 +14465,19 @@
       "start_date": "2017-02-24"
     },
     {
-      "area_id": "Q133083",
-      "end_date": "2017-03-14",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "2c2123fa-1c5a-4dea-833a-5af218f8342b",
-      "role": "member"
-    },
-    {
       "area_id": "Q127167",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "2c34b310-1387-4852-bf41-dc573573bcb1",
+      "role": "member"
+    },
+    {
+      "end_date": "2017-10-06",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "2d5454af-78de-494d-8f7e-197879db24f0",
       "role": "member"
     },
     {
@@ -14194,6 +14510,14 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "2eee58c6-652b-48cb-abb8-5768581eb88b",
+      "role": "member"
+    },
+    {
+      "end_date": "2016-12-05",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "2eef19b8-93f9-420c-be2d-78095c8772e8",
       "role": "member"
     },
     {
@@ -14313,14 +14637,6 @@
       "role": "member"
     },
     {
-      "end_date": "2014-05-25",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "368e479e-84c1-4ad1-902c-70cc318d57e6",
-      "role": "member"
-    },
-    {
       "area_id": "Q127167",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
@@ -14371,6 +14687,15 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "393823b6-499c-4ee5-b9d6-696c6ec13d39",
+      "role": "member"
+    },
+    {
+      "area_id": "Q165956",
+      "end_date": "2016-08-19",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "39781c4c-8d20-4c81-a16f-fbca5a8eca9c",
       "role": "member"
     },
     {
@@ -14428,14 +14753,6 @@
       "role": "member"
     },
     {
-      "end_date": "2017-09-07",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "3e2c404a-e2c8-4654-bfa1-79daf515b572",
-      "role": "member"
-    },
-    {
       "area_id": "Q134907",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -14488,14 +14805,6 @@
       "role": "member"
     },
     {
-      "end_date": "2017-10-06",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "42bba9ee-f8c5-4bfe-96ef-0ec983c6f27f",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -14534,6 +14843,14 @@
       "role": "member"
     },
     {
+      "end_date": "2017-03-31",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "4650103d-65aa-4566-95ab-3b6864f52d26",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q268613",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -14555,6 +14872,15 @@
       "person_id": "47b436f5-93d0-4010-a710-da91710040d8",
       "role": "member",
       "start_date": "2018-01-23"
+    },
+    {
+      "area_id": "Q81725",
+      "end_date": "2017-09-21",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "47d82630-80db-4895-98ff-078d573a5c09",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -14642,14 +14968,6 @@
       "role": "member"
     },
     {
-      "end_date": "2016-12-05",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "4ef0ae0e-fe9a-469b-8e15-efb94b78ab87",
-      "role": "member"
-    },
-    {
       "area_id": "Q133083",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -14701,6 +15019,15 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "50747a5b-f38c-4d26-96d7-bcb43a2fdb66",
+      "role": "member"
+    },
+    {
+      "area_id": "Q133083",
+      "end_date": "2017-03-14",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "511738a9-d0f9-4189-90c8-9c7590c0b38a",
       "role": "member"
     },
     {
@@ -14781,6 +15108,15 @@
       "role": "member"
     },
     {
+      "area_id": "Q130840",
+      "end_date": "2016-08-23",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "55dd2925-994f-4a2b-9c36-85cf05d8fcd9",
+      "role": "member"
+    },
+    {
       "area_id": "Q133083",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -14820,15 +15156,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q165956",
-      "end_date": "2016-06-03",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "5aa5a438-8933-40ea-8fca-d39bbda92d15",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -14855,14 +15182,6 @@
       "on_behalf_of_id": "Q4969082",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "5c5bb3a8-4221-453e-b160-e235b9cca4f2",
-      "role": "member"
-    },
-    {
-      "end_date": "2016-03-02",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "5c6a564e-7e54-4ebf-a7f1-cb5053f0b75b",
       "role": "member"
     },
     {
@@ -14966,14 +15285,6 @@
       "role": "member"
     },
     {
-      "end_date": "2015-06-18",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q775460",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "603f0ce8-f772-43fc-84a5-741ae3c56927",
-      "role": "member"
-    },
-    {
       "area_id": "Q81725",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -15004,6 +15315,15 @@
       "role": "member"
     },
     {
+      "area_id": "Q132410",
+      "end_date": "2017-01-24",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "62ff32c0-166b-4e92-a5ae-43d0660c8971",
+      "role": "member"
+    },
+    {
       "area_id": "Q134907",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -15026,18 +15346,19 @@
       "role": "member"
     },
     {
-      "end_date": "2016-11-14",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "6551936f-47b6-4893-aaf2-4d797f75359c",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "66542893-9b6b-4892-a56b-056ab2756338",
+      "role": "member"
+    },
+    {
+      "area_id": "Q81725",
+      "end_date": "2017-06-15",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q654444",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "66de2926-e7fb-406b-ac1b-d6f097f6120d",
       "role": "member"
     },
     {
@@ -15094,6 +15415,15 @@
       "role": "member"
     },
     {
+      "area_id": "Q160284",
+      "end_date": "2015-10-31",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "6a3f1515-ef3a-484d-ac83-a02268a36647",
+      "role": "member"
+    },
+    {
       "area_id": "Q130840",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -15107,6 +15437,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "6bd975d6-99d5-4d48-b06b-eb953631c106",
+      "role": "member"
+    },
+    {
+      "end_date": "2015-11-12",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "6c793c31-b30b-4769-919a-3f16b16d92dc",
       "role": "member"
     },
     {
@@ -15125,15 +15463,6 @@
       "person_id": "6e38db8b-db8b-4048-a7c8-8e4fc49f44ea",
       "role": "member",
       "start_date": "2017-02-23"
-    },
-    {
-      "area_id": "Q132418",
-      "end_date": "2017-10-17",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "6f60bc02-e9af-4ced-a9bb-6cc5eafb4789",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -15172,28 +15501,10 @@
       "role": "member"
     },
     {
-      "area_id": "Q81725",
-      "end_date": "2017-07-29",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "742dc23e-9b3b-4cd3-bf59-8d6ab6094045",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "7484bc57-9640-4192-b917-4223f9c39949",
-      "role": "member"
-    },
-    {
-      "area_id": "Q81725",
-      "end_date": "2017-06-15",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q654444",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "74eec718-ed3c-4ea8-a997-e7be5d4c6fa9",
       "role": "member"
     },
     {
@@ -15248,15 +15559,6 @@
       "role": "member"
     },
     {
-      "end_date": "2017-08-02",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "78144089-f7b4-40b9-9f2b-066d8228da1a",
-      "role": "member",
-      "start_date": "2014-05-26"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q15613585",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -15276,15 +15578,6 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "79451ced-5ce1-4b34-80c5-0a647bcd9b2b",
-      "role": "member"
-    },
-    {
-      "area_id": "Q132410",
-      "end_date": "2017-01-24",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q15613585",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "798eed18-48f9-471f-afd5-34cd076aa978",
       "role": "member"
     },
     {
@@ -15325,14 +15618,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "7c0133aa-26d8-4368-a3bc-1b24a6c1f23b",
-      "role": "member"
-    },
-    {
-      "end_date": "2016-08-06",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "7cfa3070-b807-457b-b245-61d02ff9040f",
       "role": "member"
     },
     {
@@ -15409,15 +15694,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "81aad1dc-b7cc-41b0-95e3-7db3efceaf93",
-      "role": "member"
-    },
-    {
-      "area_id": "Q130840",
-      "end_date": "2016-08-23",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q15613585",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "81f5a1ef-944e-4861-aa10-c42c9c3997f8",
       "role": "member"
     },
     {
@@ -15498,6 +15774,14 @@
       "start_date": "2016-11-08"
     },
     {
+      "end_date": "2016-03-02",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "88e6b139-3bdc-477d-b1ad-a4091392ca4f",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -15514,18 +15798,19 @@
       "role": "member"
     },
     {
-      "end_date": "2016-11-14",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "89987d88-c244-4a92-9e00-4818584fdc01",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "8be0f437-0f2b-4918-9c90-73e21e92e96c",
+      "role": "member"
+    },
+    {
+      "area_id": "Q160284",
+      "end_date": "2016-06-30",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "8c2f5b5c-c889-459e-8f38-0fed1538cfd6",
       "role": "member"
     },
     {
@@ -15651,14 +15936,6 @@
       "role": "member"
     },
     {
-      "end_date": "2016-08-23",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "957d566b-feee-4b74-b9a1-aa8ea095aa57",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -15749,18 +16026,18 @@
       "role": "member"
     },
     {
-      "end_date": "2017-08-31",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "9c0fd945-0250-4dc5-a5bd-61eaf539e9e6",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "9ca6d504-ff17-4d85-bd1b-75cc09c1896b",
+      "role": "member"
+    },
+    {
+      "end_date": "2017-03-30",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "9d37aa5d-0a86-4978-ace6-b358115c556c",
       "role": "member"
     },
     {
@@ -15775,15 +16052,6 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "9eebd684-f983-4a9c-8d86-a7e1b33eec64",
-      "role": "member"
-    },
-    {
-      "area_id": "Q133083",
-      "end_date": "2017-07-01",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "a002feb6-7580-4fa3-90fb-71d33f606de8",
       "role": "member"
     },
     {
@@ -15803,12 +16071,12 @@
       "role": "member"
     },
     {
-      "area_id": "Q132410",
-      "end_date": "2017-09-20",
+      "area_id": "Q165956",
+      "end_date": "2017-01-30",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "a11e5aa7-0827-4bb4-ac8e-c354346d34fd",
+      "person_id": "a178ee5e-cbf7-4b2c-9f9d-4be14caee324",
       "role": "member"
     },
     {
@@ -15862,15 +16130,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "a52ad276-9679-42a3-b1b7-0e89fa14c098",
-      "role": "member"
-    },
-    {
-      "area_id": "Q130840",
-      "end_date": "2016-08-06",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "a68fbeab-5b95-413a-9c3c-a689466a7f81",
       "role": "member"
     },
     {
@@ -15965,6 +16224,15 @@
       "start_date": "2016-11-14"
     },
     {
+      "area_id": "Q165956",
+      "end_date": "2015-12-09",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "ae5369f6-39d2-490a-99ea-a720c93fbd08",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -15988,19 +16256,20 @@
       "role": "member"
     },
     {
-      "end_date": "2017-03-31",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "b02ce373-f841-4d46-b1df-e90ab6a693b8",
-      "role": "member"
-    },
-    {
       "area_id": "Q165956",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "b0eef3f0-a145-4067-b3c5-be4d7eafcd50",
+      "role": "member"
+    },
+    {
+      "area_id": "Q133083",
+      "end_date": "2017-07-01",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "b125dc72-aa32-4d8d-b8d6-bfe1a4f02054",
       "role": "member"
     },
     {
@@ -16083,10 +16352,27 @@
       "role": "member"
     },
     {
+      "area_id": "Q132410",
+      "end_date": "2017-09-20",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "b569cc6c-a197-4531-9a8c-b2a17f8318e2",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "b56efaea-762d-40f5-be4c-3ddc094e43fa",
+      "role": "member"
+    },
+    {
+      "end_date": "2017-10-02",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "b5e744c2-de8c-424f-825f-208fb1d59374",
       "role": "member"
     },
     {
@@ -16102,6 +16388,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "b8ee8dd4-cab3-42b3-84dd-4147680d01a9",
+      "role": "member"
+    },
+    {
+      "end_date": "2017-08-31",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "ba4801f4-cdc1-4b4c-a215-f9a3785d0fdd",
       "role": "member"
     },
     {
@@ -16125,6 +16419,15 @@
       "person_id": "bcadd0fe-36ce-4a77-beb0-5d9a0439134d",
       "role": "member",
       "start_date": "2017-09-21"
+    },
+    {
+      "area_id": "Q81725",
+      "end_date": "2017-07-29",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "bcafe765-f8bd-45c2-b351-f5440690f809",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -16181,15 +16484,6 @@
       "start_date": "2015-11-12"
     },
     {
-      "area_id": "Q165956",
-      "end_date": "2015-12-09",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "c0c32783-4e44-4e19-a7e5-dfac1d8c5edb",
-      "role": "member"
-    },
-    {
       "area_id": "Q81725",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -16206,21 +16500,21 @@
       "role": "member"
     },
     {
-      "area_id": "Q165956",
-      "end_date": "2016-08-19",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q15613585",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "c1e450b1-1e8a-44df-be2d-7f7e9a65cbaf",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "c209f666-dea5-4c82-af7a-79bf78181003",
       "role": "member",
       "start_date": "2015-03-01"
+    },
+    {
+      "area_id": "Q130840",
+      "end_date": "2017-03-31",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "c24c69fc-d584-44a3-a912-f72e24fd9cd5",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -16246,26 +16540,10 @@
       "start_date": "2014-08-23"
     },
     {
-      "end_date": "2016-03-02",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "c5a72914-c6ec-41c3-a614-057fa9dc8e73",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "c6063703-6068-4aed-ba3b-33a266922be0",
-      "role": "member"
-    },
-    {
-      "end_date": "2015-11-12",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "c700ee76-1fd1-4b56-9108-c8c78cd4cbc7",
       "role": "member"
     },
     {
@@ -16321,6 +16599,15 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "c893c543-733b-4581-af3b-88858f40d135",
+      "role": "member"
+    },
+    {
+      "area_id": "Q133083",
+      "end_date": "2016-02-02",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "c8dbcc3f-e1d7-4cf5-b5e3-d7587e44781b",
       "role": "member"
     },
     {
@@ -16429,15 +16716,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "ceb0934c-b5af-472a-840d-fd8a95dae270",
-      "role": "member"
-    },
-    {
-      "area_id": "Q165956",
-      "end_date": "2017-01-30",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "cf29c178-ee01-4203-b4b6-84a827e5b941",
       "role": "member"
     },
     {
@@ -16636,14 +16914,6 @@
       "role": "member"
     },
     {
-      "end_date": "2016-07-21",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "d97b90ee-d70d-4e72-983a-540b355ca9ce",
-      "role": "member"
-    },
-    {
       "area_id": "Q133083",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -16763,12 +17033,30 @@
       "role": "member"
     },
     {
+      "area_id": "Q81725",
+      "end_date": "2015-12-15",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "e0dd1766-033c-4137-80d5-4aaa91f13eca",
+      "role": "member"
+    },
+    {
       "area_id": "Q132418",
       "end_date": "2014-12-01",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "e15b4675-2e1d-462c-b969-2b061f60b246",
+      "role": "member"
+    },
+    {
+      "area_id": "Q165956",
+      "end_date": "2016-06-03",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "e19088dd-14c6-4f67-bd32-c87d24533a17",
       "role": "member"
     },
     {
@@ -16812,25 +17100,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q81725",
-      "end_date": "2015-12-15",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e345b7eb-1701-4293-a483-3eba89bf97cf",
-      "role": "member"
-    },
-    {
-      "area_id": "Q133083",
-      "end_date": "2017-01-01",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q15613585",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e3dcefdf-e755-4d11-85ce-26a85a171205",
-      "role": "member",
-      "start_date": "2015-05-20"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -16845,18 +17114,28 @@
       "role": "member"
     },
     {
+      "area_id": "Q133083",
+      "end_date": "2017-01-01",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "e5b92695-aae5-462b-b743-663042742a21",
+      "role": "member",
+      "start_date": "2015-05-20"
+    },
+    {
+      "end_date": "2015-06-18",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q775460",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "e64b1d81-d8dd-44e9-b307-f5e336f172b9",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q4689795",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "e6ab5237-f76a-41b3-b3d5-57ac8803ef6d",
-      "role": "member"
-    },
-    {
-      "end_date": "2017-03-30",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e6c732f4-22c6-483a-90f2-1c6f17662a89",
       "role": "member"
     },
     {
@@ -16883,15 +17162,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q130840",
-      "end_date": "2017-03-31",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e9e7f939-dc98-4681-a991-b3b85ddedb5e",
-      "role": "member"
-    },
-    {
       "area_id": "Q160284",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -16901,13 +17171,21 @@
       "start_date": "2015-09-02"
     },
     {
-      "area_id": "Q132418",
+      "end_date": "2016-08-23",
       "legislative_period_id": "term/26",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "ebfb9ff0-30ce-4584-954d-a39b10f3751f",
-      "role": "member",
-      "start_date": "2015-03-30"
+      "person_id": "ea8a7bbe-dcc8-45d4-a761-b6dc1102a82c",
+      "role": "member"
+    },
+    {
+      "area_id": "Q127167",
+      "end_date": "2017-06-12",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "eaf1136c-23d6-4ce6-9a72-ba7f4113f98e",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -17008,15 +17286,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q133083",
-      "end_date": "2016-02-02",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "f0321ad6-70d2-402c-9789-2b33964eacf8",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -17037,14 +17306,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f1d5837a-5552-4b82-88a7-8c1d015d4540",
-      "role": "member"
-    },
-    {
-      "end_date": "2016-06-27",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "f20b54c0-6eae-46f6-8c3b-fcc3304a5a2b",
       "role": "member"
     },
     {
@@ -17109,19 +17370,36 @@
       "role": "member"
     },
     {
-      "area_id": "Q127167",
-      "end_date": "2017-06-12",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "f3d8aa7e-a29e-489e-baba-150dd59fe780",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f43c8c51-ec69-42af-a44f-c12ded96b73d",
+      "role": "member"
+    },
+    {
+      "end_date": "2016-11-14",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "f45fe41d-7e21-41f6-b273-8f9a670bbc34",
+      "role": "member"
+    },
+    {
+      "area_id": "Q130840",
+      "end_date": "2016-08-06",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "f5176fe2-fcf5-4f57-93cf-3f6678380687",
+      "role": "member"
+    },
+    {
+      "area_id": "Q132418",
+      "end_date": "2017-10-17",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "f59f63c0-c5be-421d-9c4c-63c323715e7a",
       "role": "member"
     },
     {
@@ -17151,15 +17429,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f9409537-fb52-4a14-ae33-72d46005933e",
-      "role": "member"
-    },
-    {
-      "area_id": "Q81725",
-      "end_date": "2017-09-21",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "fa022f08-9e0e-445e-9777-c819a66c301c",
       "role": "member"
     },
     {
@@ -17208,15 +17477,6 @@
       "person_id": "fcb2b394-045d-4b91-8fba-7cb8121227d1",
       "role": "member",
       "start_date": "2015-10-06"
-    },
-    {
-      "area_id": "Q160284",
-      "end_date": "2016-06-30",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "fcef4bfc-df21-4fc4-8dd7-67630cceb189",
-      "role": "member"
     },
     {
       "area_id": "Q134907",
