@@ -1601,15 +1601,38 @@
       "name": "Charles Nqakula"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "atuck@parliament.gov.za"
+        }
+      ],
+      "email": "atuck@parliament.gov.za",
       "gender": "female",
       "id": "18828e6e-90b4-45fc-bab9-e14e5b3bff78",
       "identifiers": [
         {
           "identifier": "amy-tuck",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "9624",
+          "scheme": "peoples_assembly"
         }
       ],
-      "name": "Amy Tuck"
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
+      "name": "Amy Tuck",
+      "other_names": [
+        {
+          "name": "Agnes Tuck",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -9217,7 +9240,27 @@
       "name": "Dennis Dumisani Gamede"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ttongwane@parliament.gov.za"
+        }
+      ],
+      "email": "ttongwane@parliament.gov.za",
+      "honorific_prefix": "Mrs",
       "id": "945aa883-f1d7-4192-94bf-4854a05b7146",
+      "identifiers": [
+        {
+          "identifier": "4203",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg"
+        }
+      ],
       "name": "Tshoganetso Mpho Adolphina Tongwane"
     },
     {
