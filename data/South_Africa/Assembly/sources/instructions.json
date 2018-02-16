@@ -29,7 +29,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/south-african-national-assembly-members-wikidata",
+        "scraper": "everypolitician-scrapers/south-african-national-assembly-members-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
