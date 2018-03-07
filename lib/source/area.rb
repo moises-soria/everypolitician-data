@@ -73,7 +73,7 @@ module Source
 
     def reconciliation_data
       raise 'Area reconciliation file missing' unless reconciliation_file.exist?
-      @rd ||= ::CSV.table(reconciliation_file, converters: nil).map do |r|
+      @reconciliation_data ||= ::CSV.table(reconciliation_file, converters: nil).map do |r|
         [r[:wikidata], r[:id]]
       end.to_h
     end

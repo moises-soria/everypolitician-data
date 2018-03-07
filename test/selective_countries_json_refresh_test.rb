@@ -3,7 +3,7 @@ require_relative '../lib/task/rebuild_countries_json'
 
 describe 'RebuildCountriesJSON' do
   def tmp_countries_json_filename
-    @local_countries_json ||= File.join(File.dirname(__FILE__), '..', 'countries.json')
+    File.join(File.dirname(__FILE__), '..', 'countries.json')
   end
 
   # By default Everypolitician.countries_json uses the remote URL, but

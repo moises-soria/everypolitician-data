@@ -44,7 +44,7 @@ module Task
     end
 
     def commit_metadata
-      @cmd ||= file_to_commit_metadata(commit_path)
+      @commit_metadata ||= file_to_commit_metadata(commit_path)
     end
 
     # If we know we'll need data for every country directory anyway,
