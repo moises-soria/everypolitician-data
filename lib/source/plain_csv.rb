@@ -11,7 +11,7 @@ module Source
     end
 
     def rcsv_column_options
-      @header_converters ||= Hash[headers.map do |h|
+      @rcsv_column_options ||= Hash[headers.map do |h|
         [h, { alias: h.to_s.downcase.strip.gsub(/\s+/, '_').gsub(/\W+/, '').to_sym, type: converter(h) }]
       end]
     end

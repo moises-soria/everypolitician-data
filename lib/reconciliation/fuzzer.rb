@@ -22,11 +22,11 @@ module Reconciliation
     # 'fuzzit' field that we'll be checking against.
     # TODO: allow this to be more complex - e.g. multiple fields
     def existing_people
-      @_existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = comparable(r[existing_field], existing_field) }
+      @existing_people ||= existing_rows.uniq { |r| r[:uuid] }.each { |r| r[:fuzzit] = comparable(r[existing_field], existing_field) }
     end
 
     def fuzzer
-      @_fuzzer ||= FuzzyMatch.new(existing_people, read: :fuzzit)
+      @fuzzer ||= FuzzyMatch.new(existing_people, read: :fuzzit)
     end
 
     def score_all

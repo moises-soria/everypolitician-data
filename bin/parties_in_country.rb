@@ -34,11 +34,11 @@ class Item
   end
 
   def entity
-    @_entity ||= _json[:entities][id.to_sym]
+    _json[:entities][id.to_sym]
   end
 
   def _json
-    @_json ||= json_from(json_url)
+    json_from(json_url)
   end
 
   def claims(p_id)

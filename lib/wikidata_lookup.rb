@@ -27,7 +27,7 @@ class WikidataLookup
   private
 
   def wikidata_ids
-    @_wikidata_ids ||= wikidata_id_lookup.values.uniq.each do |qid|
+    @wikidata_ids ||= wikidata_id_lookup.values.uniq.each do |qid|
       abort 'Missing Q-id' unless qid
       abort "#{qid} is not a valid Wikidata id" unless qid.start_with? 'Q'
     end

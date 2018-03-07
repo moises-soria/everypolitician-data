@@ -117,7 +117,7 @@ module Everypolitician
       end
 
       def json_with_count
-        @json_data ||= begin
+        @json_with_count ||= begin
           statements = 0
           json = JSON.load(File.read(json_file), lambda do |h|
             statements += h.values.select { |v| v.class == String }.count if h.class == Hash

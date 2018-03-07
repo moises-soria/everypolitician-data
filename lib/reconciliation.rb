@@ -28,7 +28,7 @@ class Reconciler
   end
 
   def interface_filename
-    @_ifn ||= filename.sub('.csv', '.html')
+    filename.sub('.csv', '.html')
   end
 
   def reconciliation_data
@@ -38,7 +38,7 @@ class Reconciler
   end
 
   def previously_reconciled
-    @_pr ||= File.exist?(filename) ? CSV.table(filename, converters: nil) : CSV::Table.new([])
+    @previously_reconciled ||= File.exist?(filename) ? CSV.table(filename, converters: nil) : CSV::Table.new([])
   end
 
   def generate_interface!

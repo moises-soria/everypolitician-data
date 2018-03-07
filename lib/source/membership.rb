@@ -18,7 +18,7 @@ module Source
     def as_table
       return raw_table unless i(:filter)
       filter = ->(row) { i(:filter)[:accept].all? { |k, v| row[k] == v } }
-      @_filtered ||= raw_table.select { |row| filter.call(row) }
+      @as_table ||= raw_table.select { |row| filter.call(row) }
     end
 
     # TODO: split this up. This version was migrated directly from the
@@ -54,11 +54,11 @@ module Source
     end
 
     def mapfile
-      @map ||= UuidMapFile.new(id_map_file)
+      @mapfile ||= UuidMapFile.new(id_map_file)
     end
 
     def group_mapfile
-      @gmap ||= UuidMapFile.new(group_id_map_file)
+      @group_mapfile ||= UuidMapFile.new(group_id_map_file)
     end
 
     private
@@ -76,7 +76,7 @@ module Source
     end
 
     def partymapping
-      @pmap ||= group_mapfile.mapping
+      @partymapping ||= group_mapfile.mapping
     end
   end
 end

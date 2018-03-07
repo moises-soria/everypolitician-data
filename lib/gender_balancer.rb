@@ -48,6 +48,6 @@ class GenderBalancer
   private
 
   def enough_votes
-    @enough ||= raw.reject { |r| (r[:total] -= r[:skip]) < MIN_SELECTIONS }
+    @enough_votes ||= raw.reject { |r| (r[:total] -= r[:skip]) < MIN_SELECTIONS }
   end
 end

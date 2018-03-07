@@ -41,7 +41,7 @@ class PositionMap
   end
 
   def raw_json
-    @json ||= json5_parse(pathname.read).each_value do |fs|
+    @raw_json ||= json5_parse(pathname.read).each_value do |fs|
       fs.each_value { |fss| fss.each { |f| f.delete :count } }
     end
   end
@@ -54,7 +54,7 @@ class PositionMap
   end
 
   def type_lookup
-    @type ||= raw_json.values.flatten.flat_map do |i|
+    @type_lookup ||= raw_json.values.flatten.flat_map do |i|
       i.flat_map do |type, items|
         items.map { |item| [item[:id], type] }
       end

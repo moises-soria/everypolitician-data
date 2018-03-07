@@ -16,7 +16,7 @@ class SourceCSV
   attr_reader :raw
 
   def as_csv
-    @csv ||= CSV.parse(raw, headers: true, header_converters: :symbol)
+    @as_csv ||= CSV.parse(raw, headers: true, header_converters: :symbol)
   end
 
   def grouped
