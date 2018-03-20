@@ -20,7 +20,7 @@ gem 'json5'
 gem 'pry'
 gem 'rake'
 gem 'rcsv'
-gem 'require_all'
+gem 'require_all', '~> 1.0'
 gem 'rest-client'
 gem 'sass'
 gem 'slop', '~> 3.6.0' # tied to pry version
