@@ -23844,6 +23844,7 @@
       ]
     },
     {
+      "birth_date": "1956-12-10",
       "contact_details": [
         {
           "type": "email",
@@ -23853,14 +23854,69 @@
       "email": "info@robertocassinelli.it",
       "family_name": "CASSINELLI",
       "gender": "male",
+      "given_name": "Roberto",
       "id": "f65fa958-9a8e-40fb-b2eb-59bb4a6640a0",
+      "identifiers": [
+        {
+          "identifier": "/m/04mxf9f",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "302949",
+          "scheme": "italian_cod"
+        },
+        {
+          "identifier": "332699",
+          "scheme": "openpolis"
+        },
+        {
+          "identifier": "Q583533",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://politici.openpolis.it/politician/picture?content_id=332699",
       "images": [
         {
           "url": "http://politici.openpolis.it/politician/picture?content_id=332699"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Roberto_Cassinelli.jpg"
         }
       ],
-      "name": "CASSINELLI Roberto"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roberto_Cassinelli"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Roberto_Cassinelli"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Roberto_Cassinelli"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Roberto_Cassinelli"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/robertocassinelli"
+        },
+        {
+          "note": "website",
+          "url": "http://www.robertocassinelli.it"
+        }
+      ],
+      "name": "CASSINELLI Roberto",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Roberto Cassinelli",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-04-18",
