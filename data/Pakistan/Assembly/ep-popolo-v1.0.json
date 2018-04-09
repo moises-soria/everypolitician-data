@@ -1558,11 +1558,24 @@
           "value": "0300-8686660"
         }
       ],
+      "gender": "male",
       "id": "1089f794-e964-4739-b828-38e6abf2c0d2",
+      "identifiers": [
+        {
+          "identifier": "Q48558400",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.na.gov.pk/uploads/images/New%20MNA%20154.jpg",
       "images": [
         {
           "url": "http://www.na.gov.pk/uploads/images/New%20MNA%20154.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal_Shah"
         }
       ],
       "name": "Muhammad Iqbal Shah",
