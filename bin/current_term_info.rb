@@ -15,7 +15,7 @@ end
 
 people = @popolo[:persons].group_by { |p| p[:id] }
 
-current_term = @popolo[:events].select { |e| e[:classification] == 'legislative period' }.sort_by { |e| e[:start_date] }.last[:id]
+current_term = @popolo[:events].select { |e| e[:classification] == 'legislative period' }.max_by { |e| e[:start_date] }[:id]
 current = @popolo[:memberships].select { |m| m[:legislative_period_id] == current_term && m[:end_date].to_s.empty? }.map { |m| people[m[:person_id]].first }
 total = current.count
 
