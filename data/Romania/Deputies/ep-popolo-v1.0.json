@@ -4,6 +4,9 @@
   ],
   "persons": [
     {
+      "birth_date": "1969-09-23",
+      "gender": "male",
+      "given_name": "Zsolt",
       "id": "012a5e57-14a7-4400-b53d-f49be2a254ea",
       "identifiers": [
         {
@@ -11,14 +14,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Zsolt-Istvan_Biro"
+        }
+      ],
       "name": "Zsolt-Istvan Biro"
     },
     {
+      "birth_date": "1975-09-01",
+      "gender": "male",
+      "given_name": "Ben",
       "id": "0190a9e9-36c0-4aee-afe5-f62c60ff4065",
       "identifiers": [
         {
           "identifier": "Q21746951",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ben-Oni_Ardelean"
         }
       ],
       "name": "Ben-Oni Ardelean"
@@ -84,11 +102,20 @@
       "sort_name": "Roman Ioan Sorin"
     },
     {
+      "birth_date": "1980-11-15",
+      "gender": "female",
+      "given_name": "Mirela",
       "id": "0215d9f1-c21a-4425-8bc1-98365b0be191",
       "identifiers": [
         {
           "identifier": "Q28035151",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mirela_Furtună"
         }
       ],
       "name": "Mirela Furtună"
@@ -203,6 +230,9 @@
       "sort_name": "Paleologu Theodor"
     },
     {
+      "birth_date": "1974-11-18",
+      "gender": "female",
+      "given_name": "Lia",
       "id": "03798cc8-69c7-49c2-8525-4b08b0bc1d53",
       "identifiers": [
         {
@@ -210,7 +240,59 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Lia Olguța Vasilescu"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lia_Olguta_Vasilescu_la_Liga_Alesilor_Locali_ai_PSD,_Palatul_Parlamentului_(10775964095)_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lia_Olguta_Vasilescu_la_Liga_Alesilor_Locali_ai_PSD,_Palatul_Parlamentului_(10775964095)_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lia_Olguța_Vasilescu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lia_Olguța_Vasilescu"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Lia_Olguța_Vasilescu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lia_Olguța_Vasilescu"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Lia_Olguța_Vasilescu"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Lia_Olguța_Vasilescu"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Lia-Olguța_Vasilescu"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Lia_Olguța_Vasilescu"
+        }
+      ],
+      "name": "Lia Olguța Vasilescu",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Lia-Olguța Vasilescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лиа Олгуца Василеску",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-11-28",
@@ -297,11 +379,20 @@
       "sort_name": "Nechita Aurel"
     },
     {
+      "birth_date": "1965-06-05",
+      "gender": "male",
+      "given_name": "George",
       "id": "05d94366-a993-4bfd-997f-7fa7dadff8a3",
       "identifiers": [
         {
           "identifier": "Q28113884",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/George_Șișcu"
         }
       ],
       "name": "George Șișcu"
@@ -471,11 +562,20 @@
       "sort_name": "Palăr Ionel"
     },
     {
+      "birth_date": "1960-02-21",
+      "gender": "male",
+      "given_name": "Ioan",
       "id": "071b58e1-b20f-4af0-a9bb-2369875c4ba6",
       "identifiers": [
         {
           "identifier": "Q28113877",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ioan_Terea"
         }
       ],
       "name": "Ioan Terea"
@@ -555,6 +655,9 @@
       "sort_name": "Dima Toader"
     },
     {
+      "birth_date": "1980-02-17",
+      "gender": "male",
+      "given_name": "Bálint",
       "id": "0861ff4f-d6b1-4f0c-bd09-c6c37759cb73",
       "identifiers": [
         {
@@ -562,7 +665,20 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Loránd-Bálint Magyar"
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Loránd-Bálint_Magyar"
+        }
+      ],
+      "name": "Loránd-Bálint Magyar",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Magyar Loránd-Bálint",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-08-08",
@@ -737,6 +853,9 @@
       "sort_name": "Mitrea Miron Tudor"
     },
     {
+      "birth_date": "1969-06-24",
+      "gender": "male",
+      "given_name": "Iulian",
       "id": "09610f5b-5a00-4c3c-bab2-b8149873f25d",
       "identifiers": [
         {
@@ -744,14 +863,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Iulian_Iacomi"
+        }
+      ],
       "name": "Iulian Iacomi"
     },
     {
+      "birth_date": "1978-06-11",
+      "gender": "male",
+      "given_name": "Cătălin",
       "id": "0964be66-822d-48ab-bd63-6ac10760432f",
       "identifiers": [
         {
           "identifier": "Q28050317",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cătălin_Cristache"
         }
       ],
       "name": "Cătălin Cristache"
@@ -794,6 +928,9 @@
       "sort_name": "Dascălu Constantin"
     },
     {
+      "birth_date": "1981-05-02",
+      "gender": "male",
+      "given_name": "Cătălin",
       "id": "09ebedef-44c9-440d-89d5-39036b45a281",
       "identifiers": [
         {
@@ -801,14 +938,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cătălin_Drulă"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/catalindrulausr"
+        }
+      ],
       "name": "Cătălin Drulă"
     },
     {
+      "birth_date": "1971-02-20",
+      "gender": "male",
+      "given_name": "Sebastian",
       "id": "0ab829ef-d9f7-4288-92a2-051f2ef949f4",
       "identifiers": [
         {
           "identifier": "Q28039797",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolaie-Sebastian-Valentin_Radu"
         }
       ],
       "name": "Nicolaie-Sebastian-Valentin Radu"
@@ -843,6 +999,9 @@
       "sort_name": "Cocei Erland"
     },
     {
+      "birth_date": "1978-03-12",
+      "gender": "male",
+      "given_name": "Emanuel",
       "id": "0b1c7430-7b3f-49cd-8859-545ad299d5b0",
       "identifiers": [
         {
@@ -850,14 +1009,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Emanuel-Dumitru_Ungureanu"
+        }
+      ],
       "name": "Emanuel-Dumitru Ungureanu"
     },
     {
+      "birth_date": "1972-02-17",
+      "gender": "male",
+      "given_name": "Ovidiu",
       "id": "0bd70399-9ce9-4559-ae91-705682248b53",
       "identifiers": [
         {
           "identifier": "Q28113983",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ovidiu-Ioan_Sitterli"
         }
       ],
       "name": "Ovidiu-Ioan Sitterli"
@@ -1084,6 +1258,9 @@
       "sort_name": "Fonta Nuţu"
     },
     {
+      "birth_date": "1985-06-11",
+      "gender": "male",
+      "given_name": "Marius",
       "id": "0eb6a086-42be-4630-a8b6-22fbcb4ef119",
       "identifiers": [
         {
@@ -1091,9 +1268,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mitică-Marius_Mărgărit"
+        }
+      ],
       "name": "Mitică-Marius Mărgărit"
     },
     {
+      "birth_date": "1965-05-13",
+      "gender": "female",
+      "given_name": "Rozalia",
       "id": "0f27873c-b219-4e47-99dc-c4c873549ba8",
       "identifiers": [
         {
@@ -1101,7 +1287,35 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Rozália Biró"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Biró_Rozália.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Biró_Rozália.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Biró_Rozália"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Rozália_Biró"
+        }
+      ],
+      "name": "Rozália Biró",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Biró Rozália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Biró Rozália",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-09-22",
@@ -1230,6 +1444,9 @@
       "sort_name": "Stanciu Anghel"
     },
     {
+      "birth_date": "1967-06-11",
+      "gender": "male",
+      "given_name": "Eugen",
       "id": "10d5739f-cdca-4c4e-9396-4c5058a97b57",
       "identifiers": [
         {
@@ -1237,14 +1454,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Eugen_Neață"
+        }
+      ],
       "name": "Eugen Neață"
     },
     {
+      "birth_date": "1952-02-16",
+      "gender": "female",
+      "given_name": "Elvira",
       "id": "10e423a7-c7d5-4517-883a-67fed8e619ed",
       "identifiers": [
         {
           "identifier": "Q28084536",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Elvira_Șarapatin"
         }
       ],
       "name": "Elvira Șarapatin"
@@ -1760,11 +1992,20 @@
       "sort_name": "Cosma Vlad-Alexandru"
     },
     {
+      "birth_date": "1971-11-15",
+      "gender": "female",
+      "given_name": "Victoria",
       "id": "16d99899-8ed0-4450-bc13-e612b12dc3b9",
       "identifiers": [
         {
           "identifier": "Q28055984",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Victoria_Longher"
         }
       ],
       "name": "Victoria Longher"
@@ -1807,11 +2048,20 @@
       "sort_name": "Preda Cezar-Florin"
     },
     {
+      "birth_date": "1976-09-18",
+      "gender": "male",
+      "given_name": "Silviu",
       "id": "1780c9a2-07c1-44e7-86bc-c0d601234f2a",
       "identifiers": [
         {
           "identifier": "Q28085990",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Silviu_Nicu_Macovei"
         }
       ],
       "name": "Silviu-Nicu Macovei"
@@ -1847,11 +2097,28 @@
       "sort_name": "Dobrinescu Traian"
     },
     {
+      "birth_date": "1981-08-25",
+      "gender": "male",
+      "given_name": "Tudor",
       "id": "18c16f99-4a15-4a0c-a839-e82641a2018a",
       "identifiers": [
         {
           "identifier": "Q28039706",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Tudor-Vlad_Benga"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/tudorbenga"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/tudor-benga-86b9b952/"
         }
       ],
       "name": "Tudor Benga"
@@ -1972,14 +2239,103 @@
       "sort_name": "Udrişte Gheorghe"
     },
     {
+      "birth_date": "1968-08-03",
+      "gender": "male",
+      "given_name": "Cătălin",
       "id": "19f41d17-1a26-4579-b379-5020e949a995",
       "identifiers": [
+        {
+          "identifier": "/m/03qlftp",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q1151156",
           "scheme": "wikidata"
         }
       ],
-      "name": "Cătălin Predoiu"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cătălin_Predoiu_2008.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cătălin_Predoiu_2008.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Cătălin_Predoiu"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Кетелін_Предою"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/克特林·普雷多尤"
+        }
+      ],
+      "name": "Cătălin Predoiu",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "カタリン・プレドユ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Кетелін Предою",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Cătălin Marian Predoiu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "克特林·普雷多尤",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-04-07",
@@ -2204,6 +2560,9 @@
       "sort_name": "Calotă Florică Ică"
     },
     {
+      "birth_date": "1983-12-04",
+      "gender": "male",
+      "given_name": "Răzvan",
       "id": "1ba3d576-b11c-4f76-818f-88aa8e19a343",
       "identifiers": [
         {
@@ -2211,7 +2570,24 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Răzvan-Alexandru Cuc"
+      "links": [
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Alexander_Razvan_Cuc"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alexandru-Răzvan_Cuc"
+        }
+      ],
+      "name": "Răzvan-Alexandru Cuc",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Alexander Razvan Cuc",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-06-22",
@@ -2269,6 +2645,10 @@
       "sort_name": "Tuşa Adriana Diana"
     },
     {
+      "birth_date": "1969-12-22",
+      "family_name": "Tudor",
+      "gender": "female",
+      "given_name": "Beatrice",
       "id": "1bca4b76-9cfc-44c8-b2dd-c67d47833606",
       "identifiers": [
         {
@@ -2276,9 +2656,19 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Beatrice_Tudor"
+        }
+      ],
       "name": "Beatrice Tudor"
     },
     {
+      "birth_date": "1986-03-29",
+      "family_name": "Botez",
+      "gender": "male",
+      "given_name": "Mihai",
       "id": "1c1d4e6d-1b1e-46ad-a7f7-05c44bd7f3ed",
       "identifiers": [
         {
@@ -2286,14 +2676,37 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihai-Cătălin_Botez"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/MihaiCatalinBotez"
+        }
+      ],
       "name": "Mihai-Cătălin Botez"
     },
     {
+      "birth_date": "1975",
+      "gender": "female",
+      "given_name": "Oana",
       "id": "1c41c24f-4484-4351-84b4-5d171e85ab3a",
       "identifiers": [
         {
           "identifier": "Q28035084",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Oana-Consuela_Florea"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/oana-consuela-florea-921525101/"
         }
       ],
       "name": "Oana-Consuela Florea"
@@ -2328,11 +2741,20 @@
       "sort_name": "Rizea Cristian"
     },
     {
+      "birth_date": "1969-05-29",
+      "gender": "male",
+      "given_name": "Sándor",
       "id": "1ce64ec5-4485-43e7-a1d8-f49bae27ee62",
       "identifiers": [
         {
           "identifier": "Q28085058",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Sándor_Bende"
         }
       ],
       "name": "Sándor Bende"
@@ -2383,11 +2805,20 @@
       "sort_name": "Urcan Ionaş-Florin"
     },
     {
+      "birth_date": "1972-06-08",
+      "gender": "male",
+      "given_name": "Marius",
       "id": "1eac5baf-7758-4233-b6bf-0d84daba73ff",
       "identifiers": [
         {
           "identifier": "Q28113875",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marius-Ionel_Iancu"
         }
       ],
       "name": "Marius-Ionel Iancu"
@@ -2464,6 +2895,9 @@
       "sort_name": "Mazilu Constantin"
     },
     {
+      "birth_date": "1985-09-16",
+      "gender": "male",
+      "given_name": "Nicolae",
       "id": "21d035f7-a6a0-4c64-9a61-17ab55a119d0",
       "identifiers": [
         {
@@ -2471,14 +2905,28 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolae-Miroslav_Petrețchi"
+        }
+      ],
       "name": "Nicolae-Miroslav Petrețchi"
     },
     {
+      "birth_date": "1967-07-02",
+      "gender": "male",
       "id": "22270877-d152-4e78-b956-d0929056cfd2",
       "identifiers": [
         {
           "identifier": "Q28045613",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Florinel_Stancu"
         }
       ],
       "name": "Florinel Stancu"
@@ -2610,6 +3058,9 @@
       "sort_name": "Voicu Mădălin-Ştefan"
     },
     {
+      "birth_date": "1982-11-11",
+      "gender": "male",
+      "given_name": "Adrian",
       "id": "248e545a-83da-4f10-8f5f-696330500909",
       "identifiers": [
         {
@@ -2617,14 +3068,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Adrian-Claudiu_Prisnel"
+        }
+      ],
       "name": "Adrian-Claudiu Prisnel"
     },
     {
+      "birth_date": "1974-09-18",
+      "gender": "male",
+      "given_name": "George",
       "id": "25363d66-b260-45ab-8d52-3ba919ec8093",
       "identifiers": [
         {
           "identifier": "Q28044992",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/George-Gabriel_Vișan"
         }
       ],
       "name": "George-Gabriel Vișan"
@@ -2721,11 +3187,20 @@
       "sort_name": "Crăciunescu Grigore"
     },
     {
+      "birth_date": "1968-02-14",
+      "gender": "female",
+      "given_name": "Georgeta",
       "id": "277a6a92-c43e-47f1-81aa-1f33bed7dd03",
       "identifiers": [
         {
           "identifier": "Q28045411",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Georgeta-Carmen_Holban"
         }
       ],
       "name": "Georgeta-Carmen Holban"
@@ -2771,14 +3246,136 @@
       "sort_name": "Uricec Eugen Constantin"
     },
     {
+      "birth_date": "1958-07-25",
+      "family_name": "Voskanyan",
+      "gender": "male",
       "id": "27f1607f-0c8e-45ee-9fa0-86e79b458e54",
       "identifiers": [
+        {
+          "identifier": "15512842j",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "/m/0ks_jr",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "138983542",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7848 5387",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr95019410",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "400427249",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "168438232",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "95586125",
+          "scheme": "viaf"
+        },
         {
           "identifier": "Q532674",
           "scheme": "wikidata"
         }
       ],
-      "name": "Varujan Vosganian"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vosganian_senat.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vosganian_senat.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/واروژان_ووسگانیان"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Վարուժան_Ոսկանյան"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Восканян,_Варужан"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Varujan_Vosganian"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Варужан_Восганян"
+        }
+      ],
+      "name": "Varujan Vosganian",
+      "other_names": [
+        {
+          "lang": "el",
+          "name": "Βαρουζάν Βοσγκανιάν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "واروژان ووسگانیان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Վարուժան Ոսկանյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Восканян, Варужан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Варужан Восканян",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-04-21",
@@ -2810,21 +3407,68 @@
       "sort_name": "Moldovan Iosif"
     },
     {
+      "birth_date": "1974-02-18",
+      "gender": "male",
+      "given_name": "Cătălin",
       "id": "28ad0f21-bec2-4951-bf9c-864fa225caa2",
       "identifiers": [
+        {
+          "identifier": "39707",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "Q9200268",
           "scheme": "wikidata"
         }
       ],
-      "name": "Cătălin Ioan Nechifor"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Catalin_Nechifor_la_Liga_Alesilor_Locali_ai_PSD,_Palatul_Parlamentului_(10775962295).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Catalin_Nechifor_la_Liga_Alesilor_Locali_ai_PSD,_Palatul_Parlamentului_(10775962295).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Cătălin_Ioan_Nechifor"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cătălin_Nechifor"
+        }
+      ],
+      "name": "Cătălin Ioan Nechifor",
+      "other_names": [
+        {
+          "name": "Cătălin Nechifor",
+          "note": "alternate"
+        },
+        {
+          "lang": "ro",
+          "name": "Cătălin Nechifor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1982-12-09",
+      "gender": "male",
+      "given_name": "Cornel",
       "id": "28b663e3-29d0-423b-be1a-ce7e784be6d7",
       "identifiers": [
         {
           "identifier": "Q28111296",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cornel_Zainea"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/cornel.zainea.9"
         }
       ],
       "name": "Cornel Zainea"
@@ -3082,11 +3726,20 @@
       "sort_name": "Roman Petre"
     },
     {
+      "birth_date": "1956-04-07",
+      "gender": "male",
+      "given_name": "Nicu",
       "id": "2a745b00-d532-4f7a-a0f2-e2a585ab0023",
       "identifiers": [
         {
           "identifier": "Q28039511",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicu_Niță"
         }
       ],
       "name": "Nicu Niță"
@@ -3296,11 +3949,20 @@
       "sort_name": "Stragea Sorin Constantin"
     },
     {
+      "birth_date": "1963-01-05",
+      "gender": "male",
+      "given_name": "Csaba",
       "id": "2db15a58-7fb0-40e5-9f91-cccde9367516",
       "identifiers": [
         {
           "identifier": "Q28085159",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Csaba-István_Sebestyén"
         }
       ],
       "name": "Csaba-István Sebestyén"
@@ -3479,11 +4141,20 @@
       "sort_name": "Roman Victor"
     },
     {
+      "birth_date": "1975-02-23",
+      "gender": "male",
+      "given_name": "Leonardo",
       "id": "2ef873a3-a5f5-4319-81da-82609c4b1b52",
       "identifiers": [
         {
           "identifier": "Q21746956",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Leonardo_Badea"
         }
       ],
       "name": "Leonardo Badea"
@@ -3519,11 +4190,24 @@
       "sort_name": "Buican Cristian"
     },
     {
+      "birth_date": "1980-11-29",
+      "gender": "male",
+      "given_name": "Tudor",
       "id": "304b012b-05a5-4ec2-9ef1-4a989e21a63b",
       "identifiers": [
         {
           "identifier": "Q28035544",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Rareș-Tudor_Pop"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/tudorpentrubucuresti"
         }
       ],
       "name": "Tudor Rareș Pop"
@@ -3680,11 +4364,20 @@
       "sort_name": "Iancu Iulian"
     },
     {
+      "birth_date": "1971-10-07",
+      "gender": "male",
+      "given_name": "Liviu",
       "id": "3224f976-839a-4c11-9a59-67859b61032f",
       "identifiers": [
         {
           "identifier": "Q28113874",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Liviu-Ioan_Balint"
         }
       ],
       "name": "Liviu-Ioan Balint"
@@ -3877,11 +4570,20 @@
       "sort_name": "Bejinariu Eugen"
     },
     {
+      "birth_date": "1953-01-21",
+      "gender": "male",
+      "given_name": "Vasile",
       "id": "332a9d19-e804-4bdb-a1e6-9336274fd842",
       "identifiers": [
         {
           "identifier": "Q28113892",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Vasile_Cocoș"
         }
       ],
       "name": "Vasile Cocoș"
@@ -4137,6 +4839,9 @@
       "sort_name": "Niculescu-Mizil Ştefănescu Oana"
     },
     {
+      "birth_date": "1978-03-07",
+      "gender": "male",
+      "given_name": "Costel",
       "id": "34aa1339-6320-4389-989c-191cc3f64534",
       "identifiers": [
         {
@@ -4144,14 +4849,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Costel_Neculai_Dunava"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/costelneculai.dunava"
+        }
+      ],
       "name": "Costel Neculai Dunava"
     },
     {
+      "birth_date": "1984-09-16",
+      "gender": "female",
+      "given_name": "Alexandra",
       "id": "354d0ae3-4f85-48f8-83e0-56fcf07d0631",
       "identifiers": [
         {
           "identifier": "Q28045611",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alexandra_Presură"
         }
       ],
       "name": "Alexandra Presură"
@@ -4291,11 +5015,20 @@
       "sort_name": "Ştirbu Gigel-Sorinel"
     },
     {
+      "birth_date": "1974-08-16",
+      "gender": "female",
+      "given_name": "Mariana",
       "id": "37b71afe-6623-4e56-8091-8afe9e24bb15",
       "identifiers": [
         {
           "identifier": "Q28113804",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mariana-Venera_Popescu"
         }
       ],
       "name": "Mariana-Venera Popescu"
@@ -4414,11 +5147,20 @@
       "sort_name": "Delureanu Virgil"
     },
     {
+      "birth_date": "1984-12-11",
+      "gender": "female",
+      "given_name": "Cristina",
       "id": "3a5deefd-c900-4895-b430-820ffc4b4c48",
       "identifiers": [
         {
           "identifier": "Q28035524",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cristina-Mădălina_Prună"
         }
       ],
       "name": "Cristina Mădălina Prună"
@@ -4474,11 +5216,20 @@
       "sort_name": "Ursărescu Dorinel"
     },
     {
+      "birth_date": "1946-06-14",
+      "gender": "male",
+      "given_name": "Alexandru",
       "id": "3afe2b1a-b0f9-4e02-850e-a86e444d65a6",
       "identifiers": [
         {
           "identifier": "Q28112640",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alexandru_Bălănescu"
         }
       ],
       "name": "Alexandru Bălănescu"
@@ -4521,6 +5272,9 @@
       "sort_name": "Erdei Dolóczki István"
     },
     {
+      "birth_date": "1975-10-12",
+      "gender": "female",
+      "given_name": "Marilena",
       "id": "3b7fcdfe-7c2d-47ef-8341-4d3d5608a5a2",
       "identifiers": [
         {
@@ -4528,14 +5282,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marilena-Emilia_Meiroșu"
+        }
+      ],
       "name": "Marilena Emilia Meiroșu"
     },
     {
+      "birth_date": "1985-06-25",
+      "gender": "male",
+      "given_name": "Ștefan",
       "id": "3bb8b954-95d0-4cd7-9d6f-1561f6ce2e96",
       "identifiers": [
         {
           "identifier": "Q28114035",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ștefan-Ovidiu_Popa"
         }
       ],
       "name": "Ștefan-Ovidiu Popa"
@@ -4679,6 +5448,9 @@
       "sort_name": "Ştefan Viorel"
     },
     {
+      "birth_date": "1961-03-08",
+      "gender": "female",
+      "given_name": "Rodica",
       "id": "3d96ecde-b96d-4d42-86bd-0bf9cfaae712",
       "identifiers": [
         {
@@ -4686,14 +5458,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Tudorița-Rodica_Boboc"
+        }
+      ],
       "name": "Tudorița-Rodica Boboc"
     },
     {
+      "birth_date": "1985-12-22",
+      "gender": "male",
+      "given_name": "Ciprian",
       "id": "3da5911a-8dfa-4f70-a615-c9f4582bed7f",
       "identifiers": [
         {
           "identifier": "Q28113991",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ciprian-Constantin_Șerban"
         }
       ],
       "name": "Ciprian-Constantin Șerban"
@@ -4907,6 +5694,9 @@
       "sort_name": "Adăscăliţei Constantin"
     },
     {
+      "birth_date": "1976-10-27",
+      "gender": "female",
+      "given_name": "Éva",
       "id": "4027edee-56e3-49f8-8b31-19fcfca6ec7d",
       "identifiers": [
         {
@@ -4914,9 +5704,27 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Csép_Éva_Andrea_.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Csép_Éva_Andrea_.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Éva-Andrea_Csép"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Éva-Andrea_Csép"
+        }
+      ],
       "name": "Éva-Andrea Csép"
     },
     {
+      "birth_date": "1972-08-22",
+      "gender": "female",
       "id": "402ec4b8-9ab7-4835-b5d7-f5823b7d3675",
       "identifiers": [
         {
@@ -4924,14 +5732,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicoleta-Cătălina_Bozianu"
+        }
+      ],
       "name": "Nicoleta-Cătălina Bozianu"
     },
     {
+      "birth_date": "1974-01-23",
+      "gender": "male",
+      "given_name": "Daniel",
       "id": "416e92a7-1815-41de-88dd-deb6d23b76c9",
       "identifiers": [
         {
           "identifier": "Q28114033",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Daniel_Vasile"
         }
       ],
       "name": "Daniel Vasile"
@@ -5024,6 +5847,9 @@
       "sort_name": "Caloianu Mario-Ernest"
     },
     {
+      "birth_date": "1984-08-23",
+      "gender": "male",
+      "given_name": "Gabriel",
       "id": "41e4968f-ecfa-428b-8df3-f299f94f9d64",
       "identifiers": [
         {
@@ -5031,9 +5857,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Gabriel-Horia_Nasra"
+        }
+      ],
       "name": "Gabriel Horia Nasra"
     },
     {
+      "birth_date": "1973-09-08",
+      "gender": "male",
+      "given_name": "Florin",
       "id": "41f53bf5-00ac-40ae-a20e-bc542e72859d",
       "identifiers": [
         {
@@ -5041,7 +5876,24 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Florin Dan Tripa"
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Florin-Dan_Tripa"
+        }
+      ],
+      "name": "Florin Dan Tripa",
+      "other_names": [
+        {
+          "name": "Florin-Dan Tripa",
+          "note": "alternate"
+        },
+        {
+          "lang": "ro",
+          "name": "Florin-Dan Tripa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-05-24",
@@ -5545,6 +6397,9 @@
       "sort_name": "Marin Gheorghe"
     },
     {
+      "birth_date": "1962-03-19",
+      "gender": "male",
+      "given_name": "Sorin",
       "id": "47e1d970-b7ec-4dba-b69e-d0847d063950",
       "identifiers": [
         {
@@ -5585,11 +6440,20 @@
       "sort_name": "Anton Marin"
     },
     {
+      "birth_date": "1952-05-17",
+      "gender": "male",
+      "given_name": "Vasile",
       "id": "4811cc58-12eb-4014-b02e-f5a8b7e829bb",
       "identifiers": [
         {
           "identifier": "Q28041792",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Vasile-Florin_Stamatian"
         }
       ],
       "name": "Vasile Florin Stamatian"
@@ -5640,6 +6504,9 @@
       "sort_name": "Moţ Constantin-Stelian-Emil"
     },
     {
+      "birth_date": "1959-11-05",
+      "gender": "male",
+      "given_name": "Aurel",
       "id": "49bb1673-e6cb-411d-83ae-21f20060df43",
       "identifiers": [
         {
@@ -5647,14 +6514,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Aurel_Căciulă"
+        }
+      ],
       "name": "Aurel Căciulă"
     },
     {
+      "birth_date": "1983-04-20",
+      "gender": "male",
+      "given_name": "Adrian",
       "id": "4a0a3d22-f97e-4049-9430-23840d84590f",
       "identifiers": [
         {
           "identifier": "Q28041854",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Adrian-Octavian_Dohotaru"
         }
       ],
       "name": "Adrian-Octavian Dohotaru"
@@ -5729,11 +6611,19 @@
       "sort_name": "Borbély László"
     },
     {
+      "birth_date": "1970-04-02",
+      "gender": "female",
       "id": "4a338280-e0dd-433b-b953-725cca299a6a",
       "identifiers": [
         {
           "identifier": "Q28039540",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Antoneta_Ioniță"
         }
       ],
       "name": "Antoneta Ioniță"
@@ -5816,11 +6706,20 @@
       "sort_name": "Donţu Mihai-Aurel"
     },
     {
+      "birth_date": "1964-08-16",
+      "gender": "male",
+      "given_name": "Neculai",
       "id": "4b8ff263-b6f9-4dc3-b509-8fc1e1ee3995",
       "identifiers": [
         {
           "identifier": "Q28113930",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Neculai_Iftimie"
         }
       ],
       "name": "Neculai Iftimie"
@@ -5951,11 +6850,24 @@
       "sort_name": "Calimente Mihăiţă"
     },
     {
+      "birth_date": "1983-10-06",
+      "gender": "male",
+      "given_name": "Petre",
       "id": "4ca37e24-134b-401e-b44f-af4643b80586",
       "identifiers": [
         {
           "identifier": "Q28035160",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Petre-Florin_Manole"
+        },
+        {
+          "note": "website",
+          "url": "http://petreflorinmanole.ro/"
         }
       ],
       "name": "Petre-Florin Manole"
@@ -5994,6 +6906,9 @@
       "sort_name": "Nosa Iuliu"
     },
     {
+      "birth_date": "1984-08-25",
+      "gender": "male",
+      "given_name": "Claudiu",
       "id": "4d71cd86-58a5-4a92-b989-036958d9eb2c",
       "identifiers": [
         {
@@ -6001,9 +6916,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Claudiu-Augustin_Ilișanu"
+        }
+      ],
       "name": "Claudiu Augustin Ilișanu"
     },
     {
+      "birth_date": "1973-11-28",
+      "gender": "male",
+      "given_name": "Gabriel",
       "id": "4ddf3681-fbce-49bc-a821-0021077cd36c",
       "identifiers": [
         {
@@ -6011,24 +6935,80 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Marilen-Gabriel_Pirtea_portret_2017.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Marilen-Gabriel_Pirtea_portret_2017.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marilen-Gabriel_Pirtea"
+        }
+      ],
       "name": "Marilen-Gabriel Pirtea"
     },
     {
+      "birth_date": "1975-05-03",
+      "gender": "male",
+      "given_name": "Robert",
       "id": "4de11beb-f097-499b-9666-e601ce03c6af",
       "identifiers": [
+        {
+          "identifier": "16236160j",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0000 8405 5973",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "108074256",
+          "scheme": "viaf"
+        },
         {
           "identifier": "Q7350501",
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert_Turcescu_hotnews.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert_Turcescu_hotnews.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Turcescu"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Robert_Turcescu"
+        },
+        {
+          "note": "website",
+          "url": "http://www.turcescu.ro/"
+        }
+      ],
       "name": "Robert Turcescu"
     },
     {
+      "birth_date": "1988-12-08",
+      "gender": "male",
+      "given_name": "Silviu",
       "id": "4e152f68-6dc3-478e-8b5c-822ca0a574eb",
       "identifiers": [
         {
           "identifier": "Q28114007",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Silviu_Vexler"
         }
       ],
       "name": "Silviu Vexler"
@@ -6313,11 +7293,20 @@
       "sort_name": "Cherecheş Florica"
     },
     {
+      "birth_date": "1961-06-12",
+      "gender": "male",
+      "given_name": "Lucian",
       "id": "532b3180-2bc9-4fd7-896d-5beebe4d3891",
       "identifiers": [
         {
           "identifier": "Q28113959",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Lucian-Eduard_Simion"
         }
       ],
       "name": "Lucian-Eduard Simion"
@@ -6492,11 +7481,20 @@
       "sort_name": "Bleotu Vasile"
     },
     {
+      "birth_date": "1963-06-04",
+      "gender": "female",
+      "given_name": "Daniela",
       "id": "5525b282-b5fe-4686-8355-8d3c3587b0c5",
       "identifiers": [
         {
           "identifier": "Q28113795",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Daniela_Oteșanu"
         }
       ],
       "name": "Daniela Oteșanu"
@@ -6531,6 +7529,9 @@
       "sort_name": "Nicolae Florian"
     },
     {
+      "birth_date": "1968-04-06",
+      "gender": "male",
+      "given_name": "Nicolae",
       "id": "55b022aa-37c0-4ee8-9468-8b260a61dd4d",
       "identifiers": [
         {
@@ -6538,14 +7539,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Velcea"
+        }
+      ],
       "name": "Nicolae Velcea"
     },
     {
+      "birth_date": "1977-12-12",
+      "gender": "female",
+      "given_name": "Cosette",
       "id": "55ed1ed3-50e8-4b0a-ac93-dc5e6421111d",
       "identifiers": [
         {
           "identifier": "Q28086245",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cosette-Paula_Chichirău"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/cosette.chichirau"
         }
       ],
       "name": "Cosette-Paula Chichirău"
@@ -6739,11 +7759,20 @@
       "sort_name": "Balan Ioan"
     },
     {
+      "birth_date": "1969-01-22",
+      "gender": "male",
+      "given_name": "Ion",
       "id": "58eae75a-cf5c-4946-ba9c-6021ffe90515",
       "identifiers": [
         {
           "identifier": "Q28193538",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ion_Ștefan"
         }
       ],
       "name": "Ion Ștefan"
@@ -6782,11 +7811,20 @@
       "sort_name": "Chebac Eugen"
     },
     {
+      "birth_date": "1976-09-27",
+      "gender": "female",
+      "given_name": "Cristina",
       "id": "5938974b-23d3-4675-9d80-60af3bc097dd",
       "identifiers": [
         {
           "identifier": "Q38082933",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/DeputatCristinaTraila"
         }
       ],
       "name": "Cristina Trăilă"
@@ -7078,11 +8116,28 @@
       "sort_name": "Enea Constantin-Cosmin"
     },
     {
+      "birth_date": "1981-07-12",
+      "gender": "male",
+      "given_name": "Constantin",
       "id": "5bcc82f1-c498-4d84-89f1-b2f03fd00b68",
       "identifiers": [
         {
           "identifier": "Q28113906",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Constantin_Codreanu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/CodreanuPMP"
+        },
+        {
+          "note": "website",
+          "url": "http://constantincodreanu.ro/"
         }
       ],
       "name": "Constantin Codreanu"
@@ -7223,6 +8278,9 @@
       "sort_name": "Munteanu Ioan"
     },
     {
+      "birth_date": "1974-12-15",
+      "gender": "male",
+      "given_name": "Doru",
       "id": "5ce8ae8f-f4cf-45ba-8d1a-5c345d7c719c",
       "identifiers": [
         {
@@ -7230,14 +8288,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Doru-Petrișor_Coliu"
+        },
+        {
+          "note": "website",
+          "url": "https://www.dorucoliu.com/"
+        }
+      ],
       "name": "Doru-Petrișor Coliu"
     },
     {
+      "birth_date": "1975-06-16",
+      "gender": "male",
+      "given_name": "Ștefan",
       "id": "5d032124-01b4-41da-8450-58a0449c7812",
       "identifiers": [
         {
           "identifier": "Q28085796",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ștefan_Mușoiu"
         }
       ],
       "name": "Ștefan Mușoiu"
@@ -7272,11 +8349,20 @@
       "sort_name": "Ionescu Aurelian"
     },
     {
+      "birth_date": "1969-08-09",
+      "gender": "male",
+      "given_name": "Marius",
       "id": "5fcd0ce6-c9e8-4468-91f9-85abcadb9c5e",
       "identifiers": [
         {
           "identifier": "Q19703432",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marius-Sorin-Ovidiu_Bota"
         }
       ],
       "name": "Marius-Sorin-Ovidiu Bota"
@@ -7359,11 +8445,20 @@
       "sort_name": "Condurăţeanu Andrei-Răzvan"
     },
     {
+      "birth_date": "1968-04-25",
+      "gender": "male",
+      "given_name": "Virgil",
       "id": "60e48153-e12b-4c77-aff3-cf570e0d108b",
       "identifiers": [
         {
           "identifier": "Q28113715",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Virgil-Daniel_Popescu"
         }
       ],
       "name": "Virgil-Daniel Popescu"
@@ -7457,11 +8552,19 @@
       "sort_name": "Popa Octavian-Marius"
     },
     {
+      "birth_date": "1966-10-04",
+      "gender": "male",
       "id": "61b2254b-95e8-4204-9cf3-83aa6223cdc0",
       "identifiers": [
         {
           "identifier": "Q28039805",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dănuț_Păle"
         }
       ],
       "name": "Dănuț Păle"
@@ -7541,11 +8644,20 @@
       "sort_name": "Adam Luminiţa-Pachel"
     },
     {
+      "birth_date": "1973-10-11",
+      "gender": "male",
+      "given_name": "Radu",
       "id": "62ab4134-d78a-4a81-b207-36f4e5d7fbc9",
       "identifiers": [
         {
           "identifier": "Q28113985",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Radu-Adrian_Pau"
         }
       ],
       "name": "Radu-Adrian Pau"
@@ -7596,11 +8708,24 @@
       "sort_name": "Irimie Vicenţiu-Mircea"
     },
     {
+      "birth_date": "1976-06-22",
+      "gender": "male",
+      "given_name": "Manuel",
       "id": "64aea5af-7294-451e-8e64-c632af39937b",
       "identifiers": [
         {
           "identifier": "Q28114028",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Manuel_Costescu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mcostescu.public"
         }
       ],
       "name": "Manuel Costescu"
@@ -7644,6 +8769,10 @@
       "sort_name": "Drăghici Sonia-Maria"
     },
     {
+      "birth_date": "1973-01-12",
+      "family_name": "Borza",
+      "gender": "male",
+      "given_name": "Remus",
       "id": "6532325f-7ba1-4cb1-8e64-22f13c12b8a2",
       "identifiers": [
         {
@@ -7651,14 +8780,49 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Remus_Borza"
+        }
+      ],
       "name": "Remus Borza"
     },
     {
+      "birth_date": "1952-10-10",
+      "gender": "male",
+      "given_name": "Dumitru",
       "id": "6609df5f-6f1c-46fd-b325-45ab6c83031e",
       "identifiers": [
         {
+          "identifier": "39723",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "0000 0001 2093 8838",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "172066696",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q9212924",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dumitru_Oprea"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dumitru_Oprea"
+        },
+        {
+          "note": "website",
+          "url": "http://dumitruoprea.ro/"
         }
       ],
       "name": "Dumitru Oprea"
@@ -7738,11 +8902,20 @@
       "sort_name": "Iliuţă Vasile"
     },
     {
+      "birth_date": "1977-09-26",
+      "gender": "male",
+      "given_name": "Sergiu",
       "id": "66da03f3-749a-49e2-a211-b72a66e07cd9",
       "identifiers": [
         {
           "identifier": "Q28035798",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Sergiu_Cosmin_Vlad"
         }
       ],
       "name": "Sergiu Cosmin Vlad"
@@ -7829,11 +9002,20 @@
       "sort_name": "Păun Nicolae"
     },
     {
+      "birth_date": "1979-01-19",
+      "gender": "male",
+      "given_name": "Emanuel",
       "id": "6885a2f3-a4de-4f56-9c20-7a907958b6c8",
       "identifiers": [
         {
           "identifier": "Q28114005",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Emanuel-Iuliu_Havrici"
         }
       ],
       "name": "Emanuel-Iuliu Havrici"
@@ -7868,6 +9050,9 @@
       "sort_name": "Dragomir Maria"
     },
     {
+      "birth_date": "1980-01-24",
+      "gender": "male",
+      "given_name": "Liviu",
       "id": "6b1a6608-b4cb-4fbc-aacf-a6dd8c7465d4",
       "identifiers": [
         {
@@ -7875,14 +9060,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Liviu_Ioan_Adrian_Pleșoianu"
+        }
+      ],
       "name": "Liviu Pleșoianu"
     },
     {
+      "birth_date": "1992-06-05",
+      "gender": "female",
+      "given_name": "Mara",
       "id": "6b267cfc-c370-4318-88d4-7c60bbe82570",
       "identifiers": [
         {
           "identifier": "Q28039632",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mara_Mareș"
         }
       ],
       "name": "Mara Mareș"
@@ -8382,6 +9582,8 @@
       "sort_name": "Gliga Vasile Ghiorghe"
     },
     {
+      "birth_date": "1969-01-19",
+      "gender": "male",
       "id": "6f5db66d-af70-4eb6-b52e-b564de15c84b",
       "identifiers": [
         {
@@ -8389,14 +9591,40 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Dănuț Andrușcă"
+      "links": [
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Dănuţ_Andruşcă"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dănuț_Andrușcă"
+        }
+      ],
+      "name": "Dănuț Andrușcă",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Dănuţ Andruşcă",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1989-06-11",
+      "gender": "male",
+      "given_name": "Alexandru",
       "id": "6f7523f6-0562-44f5-b76d-421ec01c6a47",
       "identifiers": [
         {
           "identifier": "Q28114061",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alexandru_Rotaru"
         }
       ],
       "name": "Alexandru Rotaru"
@@ -8442,11 +9670,19 @@
       "sort_name": "Toader Mircea-Nicu"
     },
     {
+      "birth_date": "1958-06-22",
+      "gender": "male",
       "id": "71796fc5-24cf-445c-8fce-30b5c06c8276",
       "identifiers": [
         {
           "identifier": "Q28035857",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dănuț_Bica"
         }
       ],
       "name": "Dănuț Bica"
@@ -8511,11 +9747,18 @@
       "sort_name": "Ignat Miron"
     },
     {
+      "gender": "male",
       "id": "727d5e72-da90-444d-9d6d-5c171756b510",
       "identifiers": [
         {
           "identifier": "Q28194698",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Iarco_Furic"
         }
       ],
       "name": "Iarco Furic"
@@ -8872,11 +10115,20 @@
       "sort_name": "Culeţu Dănuţ"
     },
     {
+      "birth_date": "1984-03-12",
+      "gender": "male",
+      "given_name": "Ionuț",
       "id": "76055a01-ba7d-4ede-80e7-350177ebb3fc",
       "identifiers": [
         {
           "identifier": "Q28038915",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ionuț_Simionca"
         }
       ],
       "name": "Ionuț Simionca"
@@ -9018,11 +10270,20 @@
       "sort_name": "Silaghi Ovidiu Ioan"
     },
     {
+      "birth_date": "1967-04-07",
+      "gender": "male",
+      "given_name": "Alexandru",
       "id": "78bc503a-3500-48b0-bff3-c41ed88eeba8",
       "identifiers": [
         {
           "identifier": "Q28114059",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alexandru_Rădulescu_(deputat)"
         }
       ],
       "name": "Alexandru Rădulescu"
@@ -9197,11 +10458,20 @@
       "sort_name": "Korodi Attila"
     },
     {
+      "birth_date": "1961-12-22",
+      "gender": "female",
+      "given_name": "Camelia",
       "id": "7bcd1924-a9c0-4ca7-85cc-fd7386145e41",
       "identifiers": [
         {
           "identifier": "Q12723341",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Camelia_Gavrilă"
         }
       ],
       "name": "Camelia Gavrilă"
@@ -9273,6 +10543,9 @@
       "sort_name": "Movilă Petru"
     },
     {
+      "birth_date": "1981-05-31",
+      "gender": "male",
+      "given_name": "Nicolae",
       "id": "7d15c448-6fc9-4441-b644-dfcbd7b64b92",
       "identifiers": [
         {
@@ -9280,7 +10553,34 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nicolae Daniel Popescu"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nicolae_Daniel_Popescu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nicolae_Daniel_Popescu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Daniel_Popescu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/NDPdiaspora"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ndpdiaspora.com/"
+        }
+      ],
+      "name": "Nicolae Daniel Popescu",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Nicolae-Daniel Popescu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-12-13",
@@ -9379,6 +10679,10 @@
       "sort_name": "Căprar Dorel-Gheorghe"
     },
     {
+      "birth_date": "1966-07-18",
+      "family_name": "Bumb",
+      "gender": "male",
+      "given_name": "Sorin",
       "id": "7ee5de30-0f29-4247-a666-091f61924ee7",
       "identifiers": [
         {
@@ -9386,14 +10690,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Sorin-Ioan_Bumb"
+        }
+      ],
       "name": "Sorin Bumb"
     },
     {
+      "birth_date": "1975-07-01",
+      "gender": "male",
+      "given_name": "Bogdan",
       "id": "7f0a5ea2-e9e0-4915-9c94-fd9ff3f2f8e2",
       "identifiers": [
         {
           "identifier": "Q28113964",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Bogdan_Gheorghiu"
         }
       ],
       "name": "Bogdan Gheorghiu"
@@ -9439,11 +10758,20 @@
       "sort_name": "Ciucă Liviu-Bogdan"
     },
     {
+      "birth_date": "1987-06-15",
+      "gender": "male",
+      "given_name": "Răzvan",
       "id": "807ef938-07aa-4b4a-b7b9-5ddc93668e45",
       "identifiers": [
         {
           "identifier": "Q28114002",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Răzvan_Sorin_Prișcă"
         }
       ],
       "name": "Răzvan Sorin Prișcă"
@@ -9597,6 +10925,9 @@
       "sort_name": "Petrescu Petre"
     },
     {
+      "birth_date": "1985-07-16",
+      "gender": "male",
+      "given_name": "Răzvan",
       "id": "828fcfb1-df8d-4af9-a915-c47df82e315e",
       "identifiers": [
         {
@@ -9604,9 +10935,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Răzvan-Ion_Ursu"
+        }
+      ],
       "name": "Răzvan-Ion Ursu"
     },
     {
+      "birth_date": "1981-09-15",
+      "gender": "female",
+      "given_name": "Violeta",
       "id": "82bdd7ae-32c9-4f03-812a-67aba71c6ada",
       "identifiers": [
         {
@@ -9614,9 +10954,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/violeta.radut"
+        }
+      ],
       "name": "Violeta Răduț"
     },
     {
+      "birth_date": "1979-12-04",
+      "gender": "male",
+      "given_name": "Silviu",
       "id": "8335d004-8f3a-482c-81cf-9594c71ea5ec",
       "identifiers": [
         {
@@ -9624,9 +10973,22 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Silviu_Dehelean"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SilviuDeheleanOradea"
+        }
+      ],
       "name": "Silviu Dehelean"
     },
     {
+      "birth_date": "1978-06-06",
+      "gender": "male",
+      "given_name": "Călin",
       "id": "834e3bc3-afa2-4a47-bb49-4e6f97d459aa",
       "identifiers": [
         {
@@ -9634,14 +10996,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Călin-Ionel_Dobra"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dobra.calin.ionel"
+        }
+      ],
       "name": "Călin-Ionel Dobra"
     },
     {
+      "birth_date": "1977-06-24",
+      "gender": "male",
+      "given_name": "Cristian",
       "id": "83d48323-1834-434e-9cb8-6b8ad659aa62",
       "identifiers": [
         {
           "identifier": "Q28045113",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Stelian-Cristian_Ion"
         }
       ],
       "name": "Stelian-Cristian Ion"
@@ -9846,6 +11227,9 @@
       "sort_name": "Andea Petru"
     },
     {
+      "birth_date": "1976-07-26",
+      "gender": "male",
+      "given_name": "Nicolae",
       "id": "859177e0-d4b9-4340-a621-d082952fd9c4",
       "identifiers": [
         {
@@ -9856,11 +11240,20 @@
       "name": "Nicolae Georgescu"
     },
     {
+      "birth_date": "1980-02-20",
+      "gender": "female",
+      "given_name": "Laura",
       "id": "86140f29-94db-4f7e-b03d-c2c637644025",
       "identifiers": [
         {
           "identifier": "Q28113810",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Laura-Mihaela_Moagher"
         }
       ],
       "name": "Laura-Mihaela Moagher"
@@ -10277,6 +11670,9 @@
       "sort_name": "Grindeanu Sorin Mihai"
     },
     {
+      "birth_date": "1987-04-10",
+      "gender": "male",
+      "given_name": "Bogdan",
       "id": "87a4cf76-6e54-48c6-9527-96da3cd607a9",
       "identifiers": [
         {
@@ -10284,14 +11680,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Bogdan-Alin_Stoica"
+        }
+      ],
       "name": "Bogdan-Alin Stoica"
     },
     {
+      "birth_date": "1977-10-25",
+      "gender": "male",
+      "given_name": "Nicușor",
       "id": "87c3fc20-29ec-4695-83e7-bebe23cbd8da",
       "identifiers": [
         {
           "identifier": "Q28113880",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicușor_Halici"
         }
       ],
       "name": "Nicușor Halici"
@@ -10327,6 +11738,9 @@
       "sort_name": "Marcu Nicu"
     },
     {
+      "birth_date": "1973-12-23",
+      "gender": "male",
+      "given_name": "Liviu",
       "id": "8965935e-850a-4585-a668-4cd27519162f",
       "identifiers": [
         {
@@ -10334,9 +11748,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Liviu-Ionuț_Moșteanu"
+        }
+      ],
       "name": "Liviu-Ionuț Moșteanu"
     },
     {
+      "birth_date": "1967-09-03",
+      "gender": "male",
+      "given_name": "Zacharie",
       "id": "8a250017-bc5f-4bc8-b0ec-09e3c0820676",
       "identifiers": [
         {
@@ -10344,14 +11767,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Zacharie_Benedek"
+        }
+      ],
       "name": "Zacharie Benedek"
     },
     {
+      "birth_date": "1978-10-22",
+      "gender": "female",
+      "given_name": "Mihaela",
       "id": "8a4dabb2-260c-4ae5-b73c-70c34ac34f12",
       "identifiers": [
         {
           "identifier": "Q28113805",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Petronela-Mihaela_Csokany"
         }
       ],
       "name": "Petronela-Mihaela Csokany"
@@ -10416,11 +11854,20 @@
       "sort_name": "Boboc Valentin Gabriel"
     },
     {
+      "birth_date": "1966-03-06",
+      "gender": "male",
+      "given_name": "Mircea",
       "id": "8c9449db-e1aa-4fb0-82b8-f350309624d9",
       "identifiers": [
         {
           "identifier": "Q12735661",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mircea_Banias"
         }
       ],
       "name": "Mircea Banias"
@@ -10650,6 +12097,9 @@
       "sort_name": "Iane Ovidiu-Cristian"
     },
     {
+      "birth_date": "1989-03-18",
+      "gender": "female",
+      "given_name": "Alexandra",
       "id": "8fb3d386-426f-4264-9e95-11a421d93368",
       "identifiers": [
         {
@@ -10657,14 +12107,35 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alexandra-Corina_Bogaciu"
+        }
+      ],
       "name": "Alexandra-Corina Bogaciu"
     },
     {
+      "birth_date": "1943-05-16",
+      "gender": "male",
+      "given_name": "Eugen",
       "id": "901653f0-06d7-442d-8c6d-d9e3eba006e1",
       "identifiers": [
         {
           "identifier": "Q18539917",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Eugen_Durbaca.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Eugen_Durbaca.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Eugen_Durbacă"
         }
       ],
       "name": "Eugen Durbacă"
@@ -10738,6 +12209,9 @@
       "sort_name": "Geantă Florian Daniel"
     },
     {
+      "birth_date": "1983-02-27",
+      "gender": "male",
+      "given_name": "Adrian",
       "id": "922aef1b-fb31-4866-819b-021ef56cfdde",
       "identifiers": [
         {
@@ -10745,9 +12219,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Adrian-Mihăiță_Todoran"
+        }
+      ],
       "name": "Adrian-Mihăiță Todoran"
     },
     {
+      "birth_date": "1969-07-30",
+      "gender": "male",
+      "given_name": "Ilie",
       "id": "94758427-1ad7-44c5-8cb4-511eb1068455",
       "identifiers": [
         {
@@ -10755,9 +12238,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ilie_Toma"
+        }
+      ],
       "name": "Ilie Toma"
     },
     {
+      "birth_date": "1950-02-17",
+      "gender": "male",
+      "given_name": "Dumitru",
       "id": "94d23eff-9e0e-44aa-92de-72afa456a247",
       "identifiers": [
         {
@@ -10765,14 +12257,35 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dumitru_Lupescu"
+        }
+      ],
       "name": "Dumitru Lupescu"
     },
     {
+      "birth_date": "1944-03-29",
+      "gender": "male",
+      "given_name": "Pula",
       "id": "94d5c684-3f79-40ed-81b4-e513c382951e",
       "identifiers": [
         {
           "identifier": "Q18537634",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Nicolae_Bacalbașa_at_Mitingul_Electoral_al_Aliantei_PSD-UNPR-PC,_Galati_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Nicolae_Bacalbașa_at_Mitingul_Electoral_al_Aliantei_PSD-UNPR-PC,_Galati_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Bacalbașa"
         }
       ],
       "name": "Nicolae Bacalbașa"
@@ -10837,11 +12350,20 @@
       "sort_name": "Covaci Dorel"
     },
     {
+      "birth_date": "1981-10-30",
+      "gender": "female",
+      "given_name": "Lavinia",
       "id": "95ce824d-2e33-444f-813e-4f1bfde9bb5a",
       "identifiers": [
         {
           "identifier": "Q28113793",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Lavinia-Corina_Abu-Amra"
         }
       ],
       "name": "Lavinia-Corina Abu-Amra"
@@ -10945,6 +12467,9 @@
       "sort_name": "Constantin Daniel"
     },
     {
+      "birth_date": "1955-11-13",
+      "gender": "male",
+      "given_name": "Mihai",
       "id": "96700c3c-b6b5-4252-a018-874c1c0ed9f5",
       "identifiers": [
         {
@@ -10952,9 +12477,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihai_Doru_Oprișcan"
+        }
+      ],
       "name": "Mihai Doru Oprișcan"
     },
     {
+      "birth_date": "1975-02-18",
+      "gender": "male",
+      "given_name": "Botond",
       "id": "980ba122-9e81-4908-b697-22b440061a9e",
       "identifiers": [
         {
@@ -10962,7 +12496,26 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Botond Csoma"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Csoma_Botond.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Csoma_Botond.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Botond_Csoma"
+        }
+      ],
+      "name": "Botond Csoma",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Csoma Botond",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-02-11",
@@ -11049,11 +12602,19 @@
       "sort_name": "Ciobanu Gheorghe"
     },
     {
+      "birth_date": "1959-04-18",
+      "gender": "male",
       "id": "99557f01-7a70-40a8-bfdc-03a0200bc4b5",
       "identifiers": [
         {
           "identifier": "Q25948072",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Corneliu_Olar"
         }
       ],
       "name": "Corneliu Olar"
@@ -11118,6 +12679,9 @@
       "sort_name": "Buicu Corneliu-Florin"
     },
     {
+      "birth_date": "1977-11-06",
+      "gender": "male",
+      "given_name": "Petru",
       "id": "9a41c806-a8a4-4b93-9adb-a1ab57923158",
       "identifiers": [
         {
@@ -11125,14 +12689,39 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Petru_Farago"
+        }
+      ],
       "name": "Petru Farago"
     },
     {
+      "birth_date": "1967-09-11",
+      "gender": "female",
+      "given_name": "Adriana",
       "id": "9a6087ad-4769-452a-9591-8f57d43a9ba2",
       "identifiers": [
         {
           "identifier": "Q12720056",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Adriana_Saftoiu.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Adriana_Saftoiu.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Adriana_Săftoiu"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Adriana_Săftoiu"
         }
       ],
       "name": "Adriana Săftoiu"
@@ -11270,6 +12859,9 @@
       "sort_name": "Popa Radu Mihai"
     },
     {
+      "birth_date": "1965-11-13",
+      "gender": "male",
+      "given_name": "Lucian",
       "id": "9e497584-4b66-45fe-addf-c54036d6461a",
       "identifiers": [
         {
@@ -11277,9 +12869,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Lucian-Ovidiu_Heiuș"
+        }
+      ],
       "name": "Lucian-Ovidiu Heiuș"
     },
     {
+      "birth_date": "1989-03-15",
+      "gender": "male",
+      "given_name": "Robert",
       "id": "9f57c1ee-92dd-4925-9ea2-ab3c3e96212a",
       "identifiers": [
         {
@@ -11287,14 +12888,37 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Robert-Ionatan_Sighiartău"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/sighiartau.robert"
+        },
+        {
+          "note": "website",
+          "url": "http://sighiartau.ro/"
+        }
+      ],
       "name": "Robert Sighiartău"
     },
     {
+      "birth_date": "1968-06-08",
+      "gender": "female",
+      "given_name": "Anișoara",
       "id": "9f95bb40-d728-4c14-8206-826475205148",
       "identifiers": [
         {
           "identifier": "Q28379858",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Anișoara_Radu"
         }
       ],
       "name": "Anișoara Radu"
@@ -11367,6 +12991,9 @@
       "sort_name": "Comşa Cornel-George"
     },
     {
+      "birth_date": "1988-10-09",
+      "gender": "female",
+      "given_name": "Mara",
       "id": "a035690d-d125-4b3e-8a28-dbf002a77b6d",
       "identifiers": [
         {
@@ -11374,14 +13001,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mara-Daniela_Calista"
+        }
+      ],
       "name": "Mara-Daniela Calista"
     },
     {
+      "birth_date": "1983-08-26",
+      "gender": "male",
+      "given_name": "Matei",
       "id": "a0b63062-c0de-4f60-a99b-dcf8c549152a",
       "identifiers": [
         {
           "identifier": "Q28035488",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Matei-Adrian_Dobrovie"
         }
       ],
       "name": "Matei-Adrian Dobrovie"
@@ -11435,11 +13077,20 @@
       "sort_name": "Petrache Adrian-Alin"
     },
     {
+      "birth_date": "1956-08-28",
+      "gender": "male",
+      "given_name": "Corneliu",
       "id": "a154e1ad-cd43-4e4a-9ab8-558b19853665",
       "identifiers": [
         {
           "identifier": "Q12725739",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Corneliu_Bichineț"
         }
       ],
       "name": "Corneliu Bichineț"
@@ -11534,11 +13185,19 @@
       "sort_name": "Gheorghe Florin"
     },
     {
+      "birth_date": "1989-06-18",
+      "gender": "female",
       "id": "a2f1b015-699d-47f3-92f4-82162e3e1b4d",
       "identifiers": [
         {
           "identifier": "Q28039786",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ionela_Viorela_Dobrică"
         }
       ],
       "name": "Ionela-Viorela Dobrică"
@@ -11574,6 +13233,9 @@
       "sort_name": "Tiuch Cătălin"
     },
     {
+      "birth_date": "1972-05-01",
+      "gender": "male",
+      "given_name": "Marius",
       "id": "a3926dc6-0b09-4d92-aef5-b951c1436afa",
       "identifiers": [
         {
@@ -11581,7 +13243,20 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Marius-Constantin Budăi"
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marius-Constantin_Budăi"
+        }
+      ],
+      "name": "Marius-Constantin Budăi",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Marius-Constantin Budai",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-09-03",
@@ -11874,6 +13549,9 @@
       "sort_name": "Ghiveciu Marian"
     },
     {
+      "birth_date": "1953-03-11",
+      "gender": "male",
+      "given_name": "Ion",
       "id": "a7646c11-9bbc-4819-9d08-588d1d960d30",
       "identifiers": [
         {
@@ -11881,9 +13559,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ion_Spânu"
+        }
+      ],
       "name": "Ion Spânu"
     },
     {
+      "birth_date": "1972-11-24",
+      "gender": "male",
+      "given_name": "József",
       "id": "a7c41522-fdae-4a2d-8603-1352d32eec9a",
       "identifiers": [
         {
@@ -11891,14 +13578,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/József-György_Kulcsár-Terza"
+        }
+      ],
       "name": "József-György Kulcsár-Terza"
     },
     {
+      "birth_date": "1978-09-21",
+      "gender": "male",
+      "given_name": "Alin",
       "id": "a82bcfe8-5083-4ada-a738-02052dca110f",
       "identifiers": [
         {
           "identifier": "Q28084513",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alin_Vasile_Văcaru"
         }
       ],
       "name": "Alin-Vasile Văcaru"
@@ -11945,11 +13647,24 @@
       "sort_name": "Dobre Mircea-Titus"
     },
     {
+      "birth_date": "1977-05-28",
+      "gender": "female",
+      "given_name": "Izabella",
       "id": "a8e0dc3d-0e2b-4661-b2fc-d6518b89866e",
       "identifiers": [
         {
           "identifier": "Q28039728",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Izabella-Agnes_Ambrus"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/romerambrus.izabella"
         }
       ],
       "name": "Izabella-Agnes Ambrus"
@@ -12021,14 +13736,68 @@
       "sort_name": "Pop Georgian"
     },
     {
+      "birth_date": "1977-07-20",
+      "gender": "male",
+      "given_name": "Cristian",
       "id": "a9d80c5f-e3cd-4874-9577-03668fffa96b",
       "identifiers": [
+        {
+          "identifier": "no2014014073",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "307458457",
+          "scheme": "viaf"
+        },
         {
           "identifier": "Q12725938",
           "scheme": "wikidata"
         }
       ],
-      "name": "Cristian Ghinea"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cristian_Ghinea.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cristian_Ghinea.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cristian_Ghinea"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cristian_Ghinea"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Christianus_Ghinea"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Cristian_Ghinea"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cristian_Ghinea"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Cristian.Ghinea.Oficial"
+        },
+        {
+          "note": "website",
+          "url": "http://www.cristianghinea.ro/"
+        }
+      ],
+      "name": "Cristian Ghinea",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Christianus Ghinea",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-05-16",
@@ -12091,11 +13860,23 @@
       "sort_name": "Tararache Mihai"
     },
     {
+      "birth_date": "1962-08-11",
+      "gender": "female",
       "id": "aa8ff51a-4a38-44a6-a62f-0ba775253b91",
       "identifiers": [
         {
           "identifier": "Q28036004",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Tudorița_Lungu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/tudorita.lungu"
         }
       ],
       "name": "Tudorița Lungu"
@@ -12180,11 +13961,30 @@
       "sort_name": "Ciurariu Florin"
     },
     {
+      "birth_date": "1980-07-18",
+      "gender": "female",
+      "given_name": "Oana",
       "id": "ab30d88f-e1bd-4e13-85be-9d9f3e72934f",
       "identifiers": [
         {
           "identifier": "Q28035341",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Oana_Bizgan_G.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Oana_Bizgan_G.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Oana_Bîzgan"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/oana-bizgan/"
         }
       ],
       "name": "Oana Bîzgan"
@@ -12219,6 +14019,9 @@
       "sort_name": "Adam Ioan"
     },
     {
+      "birth_date": "1968-04-18",
+      "gender": "male",
+      "given_name": "Sorin",
       "id": "ab9eb190-80d8-494c-8100-9acf75f3d049",
       "identifiers": [
         {
@@ -12226,7 +14029,92 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Sorin Cîmpeanu"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SorinCîmpeanu2015_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SorinCîmpeanu2015_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sorin_Cîmpeanu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/索林·坎佩亞努"
+        }
+      ],
+      "name": "Sorin Cîmpeanu",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ソリン・クンペアーヌ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сорин Кымпяну",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "索林·坎佩亞努",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-06-25",
@@ -12291,11 +14179,20 @@
       "sort_name": "Nichita Cristina"
     },
     {
+      "birth_date": "1979-04-05",
+      "gender": "male",
+      "given_name": "Vlad",
       "id": "aefc6a43-1f2e-4ef2-861c-9204938564ee",
       "identifiers": [
         {
           "identifier": "Q28113694",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Vlad_Bontea"
         }
       ],
       "name": "Vlad Bontea"
@@ -12334,11 +14231,24 @@
       "sort_name": "Arsene Ionel"
     },
     {
+      "birth_date": "1957-05-02",
+      "gender": "male",
+      "given_name": "Mihai",
       "id": "afc84e56-5841-4946-92fe-97b8cd2f4144",
       "identifiers": [
         {
           "identifier": "Q18541985",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mihai_Mohaci"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihai_Mohaci"
         }
       ],
       "name": "Mihai Mohaci"
@@ -12374,6 +14284,9 @@
       "sort_name": "Nicolae Alexandri"
     },
     {
+      "birth_date": "1984-09-10",
+      "gender": "male",
+      "given_name": "Lucian",
       "id": "b121b725-a518-4b42-9d6e-f1ec4be71167",
       "identifiers": [
         {
@@ -12381,14 +14294,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Lucian-Daniel_Stanciu-Viziteu"
+        }
+      ],
       "name": "Lucian-Daniel Stanciu-Viziteu"
     },
     {
+      "birth_date": "1971-08-07",
+      "gender": "female",
+      "given_name": "Cristina",
       "id": "b1d98095-13c0-46a8-88a9-0bb9679a4caa",
       "identifiers": [
         {
           "identifier": "Q28050355",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cristina-Elena_Dinu"
         }
       ],
       "name": "Cristina-Elena Dinu"
@@ -12574,6 +14502,9 @@
       "sort_name": "Rădulescu Constantin"
     },
     {
+      "birth_date": "1975-07-10",
+      "gender": "male",
+      "given_name": "Ilie",
       "id": "b2821727-9367-45c5-8681-bb6f1d3d29bd",
       "identifiers": [
         {
@@ -12581,7 +14512,43 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Ilie-Dan Barna"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dan_Barna.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dan_Barna.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dan_Barna"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dan_Barna"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ilie_Dan_Barna"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/DanBarnaUSR"
+        }
+      ],
+      "name": "Ilie-Dan Barna",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Ilie Dan Barna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dan Barna",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-11-07",
@@ -12621,11 +14588,20 @@
       "sort_name": "Negruţ Clement"
     },
     {
+      "birth_date": "1955-10-05",
+      "gender": "female",
+      "given_name": "Viorica",
       "id": "b30c4e7a-f1f9-4b3c-a976-215b680157a0",
       "identifiers": [
         {
           "identifier": "Q28111681",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Viorica_Cherecheș"
         }
       ],
       "name": "Viorica Cherecheș"
@@ -12733,6 +14709,9 @@
       "sort_name": "Palaşcă Viorel"
     },
     {
+      "birth_date": "1970-01-24",
+      "gender": "male",
+      "given_name": "Octavian",
       "id": "b4fa38ca-eef5-4aff-8702-ade722a4c71b",
       "identifiers": [
         {
@@ -12740,14 +14719,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Octavian_Goga_(deputat)"
+        }
+      ],
       "name": "Octavian Goga"
     },
     {
+      "birth_date": "1965-12-26",
+      "gender": "male",
+      "given_name": "Slavoljub",
       "id": "b5dd9a3a-b4bb-4a7d-b68f-6fc2cf95a180",
       "identifiers": [
         {
           "identifier": "Q28113954",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Slavoliub_Adnagi"
         }
       ],
       "name": "Slavoliub Adnagi"
@@ -12819,6 +14813,9 @@
       "sort_name": "Călin Ion"
     },
     {
+      "birth_date": "1968-07-10",
+      "gender": "male",
+      "given_name": "Bogdan",
       "id": "b84dd7d8-aef4-42f0-85c2-c5ab17c76b97",
       "identifiers": [
         {
@@ -12826,14 +14823,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Bogdan-Iulian_Huțucă"
+        }
+      ],
       "name": "Bogdan-Iulian Huțucă"
     },
     {
+      "birth_date": "1971-05-17",
+      "gender": "male",
+      "given_name": "Mihai",
       "id": "b94da99e-dba4-42e2-a0ea-814be01bf862",
       "identifiers": [
         {
           "identifier": "Q28111241",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihai_Culeafă"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/culeafa.mihai"
         }
       ],
       "name": "Mihai Culeafă"
@@ -13425,6 +15441,9 @@
       "sort_name": "Ponta Victor-Viorel"
     },
     {
+      "birth_date": "1962-11-14",
+      "gender": "male",
+      "given_name": "Ionel",
       "id": "bb6cabf2-471e-479c-9fc8-3f0eb336c0d8",
       "identifiers": [
         {
@@ -13432,14 +15451,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ionel_Floroiu"
+        }
+      ],
       "name": "Ionel Floroiu"
     },
     {
+      "birth_date": "1968-08-01",
+      "gender": "male",
+      "given_name": "Daniel",
       "id": "bb9b45d3-0a4e-4968-8287-ea2497aafa88",
       "identifiers": [
         {
           "identifier": "Q28113987",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Daniel_Olteanu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/danielolteanubarlad"
         }
       ],
       "name": "Daniel Olteanu"
@@ -13590,11 +15628,20 @@
       "sort_name": "Turcan Raluca"
     },
     {
+      "birth_date": "1986-05-25",
+      "gender": "male",
+      "given_name": "Aurel",
       "id": "bd853b4d-fe8b-44bc-b4a8-34364f03329b",
       "identifiers": [
         {
           "identifier": "Q28035762",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Glad-Aurel_Varga"
         }
       ],
       "name": "Glad Aurel Varga"
@@ -13630,6 +15677,9 @@
       "sort_name": "Varga Vasile"
     },
     {
+      "birth_date": "1971-04-29",
+      "gender": "male",
+      "given_name": "Claudiu",
       "id": "bde4844f-af37-4b40-b1b6-f932cd2b827d",
       "identifiers": [
         {
@@ -13637,14 +15687,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Claudiu-Vasile_Răcuci"
+        }
+      ],
       "name": "Claudiu Vasile Răcuci"
     },
     {
+      "birth_date": "1976-07-28",
+      "gender": "male",
+      "given_name": "Adrian",
       "id": "bdedb5b7-71a4-4585-b086-a434465a3490",
       "identifiers": [
         {
           "identifier": "Q28113962",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Adrian-Ionuț_Gâdea"
         }
       ],
       "name": "Adrian-Ionuț Gâdea"
@@ -13691,6 +15756,9 @@
       "sort_name": "Dîrzu Ioan"
     },
     {
+      "birth_date": "1961-05-22",
+      "gender": "male",
+      "given_name": "Gheorghe",
       "id": "bed8a2f1-9ee8-4ea7-a7ca-659f353ffd11",
       "identifiers": [
         {
@@ -13698,14 +15766,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Gheorghe-Dinu_Socotar"
+        }
+      ],
       "name": "Gheorghe-Dinu Socotar"
     },
     {
+      "birth_date": "1969-03-24",
+      "gender": "female",
+      "given_name": "Cristina",
       "id": "bf3883f2-056b-41c4-9a7c-1c0d4dafde3b",
       "identifiers": [
         {
           "identifier": "Q28041772",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cristina_Burciu"
         }
       ],
       "name": "Cristina Burciu"
@@ -13781,6 +15864,9 @@
       "sort_name": "Mircovici Niculae"
     },
     {
+      "birth_date": "1984-09-18",
+      "gender": "female",
+      "given_name": "Eliza",
       "id": "bfc20188-1c94-4971-8f44-150662d1b69a",
       "identifiers": [
         {
@@ -13788,7 +15874,20 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Eliza-Mădălina Peța"
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Eliza-Mădălina_Peța"
+        }
+      ],
+      "name": "Eliza-Mădălina Peța",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Eliza-Mădălina Peta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-12-05",
@@ -13845,6 +15944,9 @@
       "sort_name": "Tătaru Florin-Cristian"
     },
     {
+      "birth_date": "1965-08-05",
+      "gender": "male",
+      "given_name": "Laurențiu",
       "id": "c05e360a-4bb4-4798-83e5-78b50f92d433",
       "identifiers": [
         {
@@ -13852,7 +15954,26 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Laurențiu Leoreanu"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Laurenţiu_Leoreanu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Laurenţiu_Leoreanu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Laurențiu_Leoreanu"
+        }
+      ],
+      "name": "Laurențiu Leoreanu",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Лауренциу Леоряну",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-12-09",
@@ -14018,6 +16139,10 @@
       "sort_name": "Anastase Roberta Alma"
     },
     {
+      "birth_date": "1984-10-30",
+      "family_name": "Petrea",
+      "gender": "male",
+      "given_name": "Gabriel",
       "id": "c072fa8b-769a-4ab1-a886-bdd78e88f57e",
       "identifiers": [
         {
@@ -14025,14 +16150,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Gabriel_Petrea"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Gabriel_Petrea"
+        }
+      ],
       "name": "Gabriel Petrea"
     },
     {
+      "birth_date": "1965-02-16",
+      "gender": "male",
+      "given_name": "Mihai",
       "id": "c0a42301-56cb-4a33-84be-22a3546af6ae",
       "identifiers": [
         {
           "identifier": "Q28039579",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihai_Valentin_Popa"
         }
       ],
       "name": "Mihai Valentin Popa"
@@ -14106,6 +16250,9 @@
       "sort_name": "Moldovan Ioan"
     },
     {
+      "birth_date": "1978-04-29",
+      "gender": "male",
+      "given_name": "Florin",
       "id": "c1a44aaa-3855-48c5-9f07-53c85663c0b6",
       "identifiers": [
         {
@@ -14113,7 +16260,24 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Toma-Florin Petcu"
+      "links": [
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Thomas_Petcu"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Toma-Florin_Petcu"
+        }
+      ],
+      "name": "Toma-Florin Petcu",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Thomas Petcu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-09-03",
@@ -14145,11 +16309,24 @@
       "sort_name": "Benga Ioan"
     },
     {
+      "birth_date": "1974-04-22",
+      "gender": "male",
+      "given_name": "Florin",
       "id": "c23ce947-f7de-41eb-ba0f-d8fc42cd2b34",
       "identifiers": [
         {
           "identifier": "Q28035736",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Florin-Claudiu_Roman"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/florin.roman.14"
         }
       ],
       "name": "Florin Roman"
@@ -14370,6 +16547,9 @@
       "sort_name": "Bónis István"
     },
     {
+      "birth_date": "1977-10-15",
+      "gender": "female",
+      "given_name": "Angelica",
       "id": "c2e76ac5-0954-45bd-a6b1-fc24e2c1a40e",
       "identifiers": [
         {
@@ -14377,14 +16557,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Angelica_Fădor"
+        }
+      ],
       "name": "Angelica Fădor"
     },
     {
+      "birth_date": "1975-07-21",
+      "gender": "female",
+      "given_name": "Erika",
       "id": "c318d0da-7761-4fb6-aadb-1b2b5d573d7f",
       "identifiers": [
         {
           "identifier": "Q28045135",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Erika_Benkő"
         }
       ],
       "name": "Erika Benkő"
@@ -14427,11 +16622,20 @@
       "sort_name": "Ruşanu Dan Radu"
     },
     {
+      "birth_date": "1989-10-19",
+      "gender": "male",
+      "given_name": "Norbert",
       "id": "c4732eb0-f275-4c79-acbb-fb17b9981ed0",
       "identifiers": [
         {
           "identifier": "Q28111482",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Apjok_Norbert"
         }
       ],
       "name": "Norbert Apjok"
@@ -14481,11 +16685,20 @@
       "sort_name": "Voicu Mihai Alexandru"
     },
     {
+      "birth_date": "1956-01-20",
+      "gender": "male",
+      "given_name": "Mihai",
       "id": "c57db018-2122-422f-9cf3-d0608496a5dd",
       "identifiers": [
         {
           "identifier": "Q21747035",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihai_Niță"
         }
       ],
       "name": "Mihai Niță"
@@ -14620,6 +16833,9 @@
       "sort_name": "Gireadă Dumitru-Verginel"
     },
     {
+      "birth_date": "1960-02-12",
+      "gender": "male",
+      "given_name": "Constantin",
       "id": "c5ffc569-0542-4e57-a179-886e4ce42cb4",
       "identifiers": [
         {
@@ -14627,14 +16843,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Constantin_Șovăială"
+        }
+      ],
       "name": "Constantin Șovăială"
     },
     {
+      "birth_date": "1960-01-29",
+      "gender": "female",
+      "given_name": "Rodica",
       "id": "c66ebc42-daab-47ef-94b5-3c7a4e607fa6",
       "identifiers": [
         {
           "identifier": "Q28113889",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Rodica_Paraschiv"
         }
       ],
       "name": "Rodica Paraschiv"
@@ -14680,6 +16911,9 @@
       "sort_name": "Pârgaru Ion"
     },
     {
+      "birth_date": "1967-09-20",
+      "gender": "male",
+      "given_name": "Constantin",
       "id": "c6e76e7f-9333-4681-8579-cf247ff798ad",
       "identifiers": [
         {
@@ -14687,14 +16921,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Constantin_Trușcă"
+        }
+      ],
       "name": "Constantin Trușcă"
     },
     {
+      "birth_date": "1975-01-02",
+      "gender": "male",
+      "given_name": "Alexandru",
       "id": "c728018c-b638-4829-81db-7f42efecc725",
       "identifiers": [
         {
           "identifier": "Q28050350",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alexandru-Ioan_Andrei"
         }
       ],
       "name": "Alexandru-Ioan Andrei"
@@ -14861,6 +17110,9 @@
       "sort_name": "Tocuţ Dan-Laurenţiu"
     },
     {
+      "birth_date": "1985-01-04",
+      "gender": "male",
+      "given_name": "Alfred",
       "id": "c86115ff-f0c0-4589-a10a-e1c0d6f5a0ae",
       "identifiers": [
         {
@@ -14868,14 +17120,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alfred-Robert_Simonis"
+        }
+      ],
       "name": "Alfred-Robert Simonis"
     },
     {
+      "birth_date": "1954-01-21",
+      "gender": "male",
+      "given_name": "Florin",
       "id": "c871c04e-dbd6-4284-8e70-300c21c1e0f5",
       "identifiers": [
         {
           "identifier": "Q28045648",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Florin_Popa_(deputat)"
         }
       ],
       "name": "Florin Popa"
@@ -14965,11 +17232,20 @@
       "sort_name": "Cernea Remus-Florinel"
     },
     {
+      "birth_date": "1969-01-08",
+      "gender": "male",
+      "given_name": "Marius",
       "id": "ca76b758-63dd-4198-afb2-3a4ee3e06fb0",
       "identifiers": [
         {
           "identifier": "Q28085754",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marius-Gheorghe_Surgent"
         }
       ],
       "name": "Marius-Gheorghe Surgent"
@@ -15115,11 +17391,29 @@
       "sort_name": "Cristian Horia"
     },
     {
+      "birth_date": "1980-10-21",
+      "gender": "female",
       "id": "ccb3e6a1-95f2-4037-a0ab-bcedc023a80e",
       "identifiers": [
         {
           "identifier": "Q28113813",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Maricela_Cobuz_Deputat_PSD.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Maricela_Cobuz_Deputat_PSD.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Maricela_Cobuz"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Maricela_Cobuz"
         }
       ],
       "name": "Maricela Cobuz"
@@ -15348,11 +17642,20 @@
       "sort_name": "Florea Damian"
     },
     {
+      "birth_date": "1981-04-24",
+      "gender": "male",
+      "given_name": "Cristian",
       "id": "ce88a5be-bbee-4a59-9a17-74addd75a267",
       "identifiers": [
         {
           "identifier": "Q28035327",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cristian-Gabriel_Seidler"
         }
       ],
       "name": "Cristian Seidler"
@@ -15527,11 +17830,20 @@
       "sort_name": "Vainer Aurel"
     },
     {
+      "birth_date": "1980-07-18",
+      "gender": "male",
+      "given_name": "Bogdan",
       "id": "cef267c6-19d0-4379-937a-99b346ea068d",
       "identifiers": [
         {
           "identifier": "Q28045667",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Bogdan-Ionel_Rodeanu"
         }
       ],
       "name": "Bogdan-Ionel Rodeanu"
@@ -15696,11 +18008,24 @@
       "sort_name": "Laza-Matiuţa Liviu"
     },
     {
+      "birth_date": "1971-03-11",
+      "gender": "female",
+      "given_name": "Cristina",
       "id": "cfbad3d4-c946-4282-8e09-6a7dc759cfb5",
       "identifiers": [
         {
           "identifier": "Q28038891",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cristina-Ionela_Iurișniți"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/cristina.iurisniti"
         }
       ],
       "name": "Cristina-Ionela Iurișniți"
@@ -15773,6 +18098,9 @@
       "sort_name": "Baltă Mihai"
     },
     {
+      "birth_date": "1985-01-07",
+      "gender": "female",
+      "given_name": "Maria",
       "id": "d0bd75e5-7c9b-49f7-951e-1cc27bc87d0c",
       "identifiers": [
         {
@@ -15780,9 +18108,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Luminița-Maria_Jivan"
+        }
+      ],
       "name": "Luminița-Maria Jivan"
     },
     {
+      "birth_date": "1978-12-03",
+      "gender": "male",
+      "given_name": "Dragoș",
       "id": "d180f8a6-f53c-4e1d-b6e5-22105e89d2c8",
       "identifiers": [
         {
@@ -15790,9 +18127,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dragoș-Petruț_Bârlădeanu"
+        }
+      ],
       "name": "Dragoș-Petruț Bârlădeanu"
     },
     {
+      "birth_date": "1986-02-17",
+      "gender": "male",
+      "given_name": "Marian",
       "id": "d1b11a45-388a-4cd5-92e8-34cbe58917b2",
       "identifiers": [
         {
@@ -15800,9 +18146,25 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marian-Gheorghe_Cucșa"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/cucsa.marian"
+        },
+        {
+          "note": "website",
+          "url": "http://mariancucsa.ro/"
+        }
+      ],
       "name": "Marian-Gheorghe Cucșa"
     },
     {
+      "birth_date": "1959-04-07",
+      "gender": "male",
       "id": "d1ebcd98-8ad7-45fb-b30b-52fa339df636",
       "identifiers": [
         {
@@ -15810,14 +18172,37 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Cristinel_Romanescu"
+        }
+      ],
       "name": "Cristinel Romanescu"
     },
     {
+      "birth_date": "1987-12-02",
+      "gender": "male",
+      "given_name": "Iulian",
       "id": "d2881dab-267c-417c-880a-960a8a788db9",
       "identifiers": [
         {
           "identifier": "Q28113990",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Iulian_Bulai"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/bulaiiulian2016"
+        },
+        {
+          "note": "website",
+          "url": "http://iulianbulai.ro/"
         }
       ],
       "name": "Iulian Bulai"
@@ -15914,6 +18299,9 @@
       "sort_name": "Hellvig Eduard Raul"
     },
     {
+      "birth_date": "1984-11-02",
+      "gender": "male",
+      "given_name": "Andrei",
       "id": "d2992b63-f155-4fea-8997-93539e71ef78",
       "identifiers": [
         {
@@ -15921,14 +18309,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andrei_Nicolae"
+        }
+      ],
       "name": "Andrei Nicolae"
     },
     {
+      "birth_date": "1975-10-26",
+      "gender": "female",
+      "given_name": "Alina",
       "id": "d2ddf56d-0408-4e36-992c-c5bb8a59b7fb",
       "identifiers": [
         {
           "identifier": "Q28045602",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Alina-Elena_Tănăsescu"
         }
       ],
       "name": "Alina-Elena Tănăsescu"
@@ -16065,11 +18468,24 @@
       "sort_name": "Cazan Mircea-Vasile"
     },
     {
+      "birth_date": "1954-03-07",
+      "gender": "male",
+      "given_name": "Dumitru",
       "id": "d469af05-91a7-4126-b5bb-fc716517ec67",
       "identifiers": [
         {
           "identifier": "Q28113952",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dumitru_Mihalescul"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dumitru.mihalescul"
         }
       ],
       "name": "Dumitru Mihalescul"
@@ -16368,6 +18784,9 @@
       "sort_name": "Nicolăescu Gheorghe-Eugen"
     },
     {
+      "birth_date": "1975-04-26",
+      "gender": "male",
+      "given_name": "Levente",
       "id": "d6eb59eb-34f9-4fa7-97df-4af2f13a7c78",
       "identifiers": [
         {
@@ -16375,9 +18794,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Levente_Vass"
+        }
+      ],
       "name": "Levente Vass"
     },
     {
+      "birth_date": "1951-07-10",
+      "gender": "male",
+      "given_name": "Vasile",
       "id": "d7502790-06f0-4ccf-b32f-375098eef2af",
       "identifiers": [
         {
@@ -16385,9 +18813,17 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Vasile_Axinte"
+        }
+      ],
       "name": "Vasile Axinte"
     },
     {
+      "birth_date": "1957-01-24",
+      "gender": "male",
       "id": "d7788cd0-69c9-462a-8f20-39b04e74f3ad",
       "identifiers": [
         {
@@ -16395,9 +18831,18 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Găvrilă_Ghilea"
+        }
+      ],
       "name": "Găvrilă Ghilea"
     },
     {
+      "birth_date": "1969-01-01",
+      "gender": "male",
+      "given_name": "Vasile",
       "id": "d780b760-68a6-445b-82ac-214b914dc989",
       "identifiers": [
         {
@@ -16405,14 +18850,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Vasile-Cristian_Achiței"
+        }
+      ],
       "name": "Vasile-Cristian Achiței"
     },
     {
+      "birth_date": "1971-11-30",
+      "gender": "male",
+      "given_name": "Emil",
       "id": "d7a24a85-5741-4364-8c03-9111a0784047",
       "identifiers": [
         {
           "identifier": "Q21747040",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Emil-Marius_Pașcan"
+        },
+        {
+          "note": "website",
+          "url": "http://mariuspascan.ro/"
         }
       ],
       "name": "Emil-Marius Pașcan"
@@ -16464,11 +18928,20 @@
       "sort_name": "Markó Attila-Gabor"
     },
     {
+      "birth_date": "1988-05-31",
+      "gender": "female",
+      "given_name": "Dulcii",
       "id": "d84a0c91-d3c5-4254-832d-1bfa82534b0f",
       "identifiers": [
         {
           "identifier": "Q28035173",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Aida-Cristina_Căruceru"
         }
       ],
       "name": "Aida-Cristina Căruceru"
@@ -16610,11 +19083,20 @@
       "sort_name": "Drăguşanu Vasile-Cătălin"
     },
     {
+      "birth_date": "1970-09-01",
+      "gender": "male",
+      "given_name": "Constantin",
       "id": "d8d70cbb-efcb-4463-ad5f-4a0dad62314e",
       "identifiers": [
         {
           "identifier": "Q28111440",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Constantin-Cătălin_Zamfira"
         }
       ],
       "name": "Constantin-Cătălin Zamfira"
@@ -16649,6 +19131,9 @@
       "sort_name": "Surdu Raluca"
     },
     {
+      "birth_date": "1963-10-29",
+      "gender": "female",
+      "given_name": "Mihaela",
       "id": "d962d9aa-6fe0-42e4-990a-af2fefad75ea",
       "identifiers": [
         {
@@ -16656,14 +19141,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihaela_Huncă"
+        }
+      ],
       "name": "Mihaela Huncă"
     },
     {
+      "birth_date": "1976-07-17",
+      "gender": "male",
+      "given_name": "Costel",
       "id": "d9dc429f-c8a0-4462-9a59-45de00e43b02",
       "identifiers": [
         {
           "identifier": "Q28038952",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Costel_Lupașcu"
         }
       ],
       "name": "Costel Lupașcu"
@@ -16735,6 +19235,8 @@
       "sort_name": "Vizitiu Sergiu-Constantin"
     },
     {
+      "birth_date": "1971-02-25",
+      "gender": "female",
       "id": "dbb1ba9b-b60c-4993-955e-64258dc31651",
       "identifiers": [
         {
@@ -16742,14 +19244,33 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andaluzia_Luca"
+        }
+      ],
       "name": "Andaluzia Luca"
     },
     {
+      "birth_date": "1942-10-06",
+      "gender": "male",
+      "given_name": "Dumitru",
       "id": "dbd81004-9b5d-4edf-a7fb-339990c57889",
       "identifiers": [
         {
           "identifier": "Q28114025",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dumitru_Lovin"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/100005754555853"
         }
       ],
       "name": "Dumitru Lovin"
@@ -16835,11 +19356,20 @@
       "sort_name": "Ciubotaru Lucian-Manuel"
     },
     {
+      "birth_date": "1979-10-14",
+      "gender": "male",
+      "given_name": "Marian",
       "id": "dc75ed1f-7cb5-4186-8764-b75ef0e97fa5",
       "identifiers": [
         {
           "identifier": "Q28113995",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Iulius_Marian_Firczak"
         }
       ],
       "name": "Iulius Marian Firczak"
@@ -16942,6 +19472,9 @@
       "sort_name": "Birchall Ana"
     },
     {
+      "birth_date": "1980-04-01",
+      "gender": "female",
+      "given_name": "Roxana",
       "id": "dcff2944-f62f-42d0-ac87-df98eab1a81d",
       "identifiers": [
         {
@@ -16949,14 +19482,39 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Roxana_Mînzatu"
+        }
+      ],
       "name": "Roxana Mânzatu"
     },
     {
+      "birth_date": "1991-10-08",
+      "gender": "male",
+      "given_name": "Andrei",
       "id": "dd733f11-b6ea-4e75-b4a3-bb7cd6f29fd7",
       "identifiers": [
         {
           "identifier": "Q28085800",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Andrei_Pop.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Andrei_Pop.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andrei_Pop"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/andrei-pop-84428a63/"
         }
       ],
       "name": "Andrei Pop"
@@ -17253,6 +19811,10 @@
       "sort_name": "Eparu Ion"
     },
     {
+      "birth_date": "1949-12-22",
+      "family_name": "Anton",
+      "gender": "male",
+      "given_name": "Anton",
       "id": "dfe8a86d-cdf4-4544-8015-5027c5e7fc84",
       "identifiers": [
         {
@@ -17260,14 +19822,71 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Anton Anton"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Anton_Anton_2017.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Anton_Anton_2017.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Anton_Anton"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anton_Anton"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Anton_Anton"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Antonius_Anton"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Anton_Anton"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Anton_Anton"
+        }
+      ],
+      "name": "Anton Anton",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Antonius Anton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Антон Антон",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1985-05-05",
+      "gender": "male",
+      "given_name": "Claudiu",
       "id": "e0228a26-e4c9-41c6-8507-b2e397b4d339",
       "identifiers": [
         {
           "identifier": "Q28035503",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Claudiu-Iulius-Gavril_Năsui"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Claudiu-Nasui-1094773083945512"
         }
       ],
       "name": "Claudiu Năsui"
@@ -17400,6 +20019,10 @@
       "sort_name": "Gheorghe Tinel"
     },
     {
+      "birth_date": "1965-11-30",
+      "death_date": "2017-08-13",
+      "gender": "female",
+      "given_name": "Marina",
       "id": "e1650b39-4e55-45d9-8585-c80e1a660a24",
       "identifiers": [
         {
@@ -17407,14 +20030,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marina-Adelina_Coste"
+        }
+      ],
       "name": "Marina Coste"
     },
     {
+      "birth_date": "1977-10-28",
+      "gender": "male",
+      "given_name": "Răzvan",
       "id": "e18bcbbd-e0b6-440d-b2a7-c5dcca2945b2",
       "identifiers": [
         {
           "identifier": "Q28038946",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Răzvan-Ilie_Rotaru"
         }
       ],
       "name": "Răzvan Ilie Rotaru"
@@ -17468,6 +20106,9 @@
       "sort_name": "Gvozdenovici Slavomir"
     },
     {
+      "birth_date": "1963-07-25",
+      "gender": "male",
+      "given_name": "Vasile",
       "id": "e294b5f5-9657-438c-8126-39b73a529d87",
       "identifiers": [
         {
@@ -17475,14 +20116,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Vasile_Cîtea"
+        }
+      ],
       "name": "Vasile Cîtea"
     },
     {
+      "birth_date": "1968-07-12",
+      "gender": "male",
+      "given_name": "Matei",
       "id": "e2a63431-d9fe-4e17-a0ca-c9ef4cfe01fa",
       "identifiers": [
         {
           "identifier": "Q21747064",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Matei_Suciu"
         }
       ],
       "name": "Matei Suciu"
@@ -17814,6 +20470,9 @@
       "sort_name": "Giurescu Dinu"
     },
     {
+      "birth_date": "1976-06-09",
+      "gender": "male",
+      "given_name": "Marius",
       "id": "e4f41eb9-34f8-4b83-8142-5be07bebfda6",
       "identifiers": [
         {
@@ -17821,14 +20480,59 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Marius_Bodea"
+        }
+      ],
       "name": "Marius Bodea"
     },
     {
+      "birth_date": "1969-12-20",
+      "gender": "male",
+      "given_name": "Nicușor",
       "id": "e5800296-7565-4115-b542-3db117e18ee1",
       "identifiers": [
         {
+          "identifier": "/m/0j9khdp",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q11163124",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicușor_Dan_candidatura_bgiu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicușor_Dan_candidatura_bgiu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nicușor_Dan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicușor_Dan"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nicușor_Dan"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicușor_Dan"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/NicusorDanUSR"
+        },
+        {
+          "note": "website",
+          "url": "https://www.nicusordan.ro/"
         }
       ],
       "name": "Nicușor Dan"
@@ -17924,11 +20628,20 @@
       "sort_name": "Dragomir Viorel Marian"
     },
     {
+      "birth_date": "1962-11-06",
+      "gender": "male",
+      "given_name": "Nicolae",
       "id": "e64674d0-0ef3-4da4-be4e-9a87127bd832",
       "identifiers": [
         {
           "identifier": "Q28045620",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Giugea"
         }
       ],
       "name": "Nicolae Giugea"
@@ -18038,6 +20751,9 @@
       "sort_name": "Sămărtinean Cornel-Mircea"
     },
     {
+      "birth_date": "1986-10-31",
+      "gender": "female",
+      "given_name": "Ioana",
       "id": "e7bce61a-e3ea-49c7-9f0b-af8b9fc71694",
       "identifiers": [
         {
@@ -18045,7 +20761,24 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Ioana Bran"
+      "links": [
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ioanna_Bran"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ioana_Bran"
+        }
+      ],
+      "name": "Ioana Bran",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Ioanna Bran",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-06-11",
@@ -18105,11 +20838,20 @@
       "sort_name": "Stănişoară Mihai"
     },
     {
+      "birth_date": "1975-12-07",
+      "gender": "female",
+      "given_name": "Bianca",
       "id": "e7e9c3ee-1250-4792-83ed-b7196b97aea3",
       "identifiers": [
         {
           "identifier": "Q28113801",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Bianca-Miruna_Gavriliță"
         }
       ],
       "name": "Bianca-Miruna Gavriliță"
@@ -18174,6 +20916,9 @@
       "sort_name": "Lubanovici Mircea"
     },
     {
+      "birth_date": "1959-12-06",
+      "gender": "male",
+      "given_name": "Nicolae",
       "id": "e8b1fb7f-092b-46f9-9687-3e66afc3061b",
       "identifiers": [
         {
@@ -18181,14 +20926,35 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Neagu_(politician)"
+        }
+      ],
       "name": "Nicolae Neagu"
     },
     {
+      "birth_date": "1987-06-17",
+      "gender": "male",
+      "given_name": "Pavel",
       "id": "e9b7c9bc-91b8-4c79-8437-a038b18eb35c",
       "identifiers": [
         {
           "identifier": "Q28113988",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pavel_Popescu.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pavel_Popescu.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Pavel_Popescu"
         }
       ],
       "name": "Pavel Popescu"
@@ -18419,11 +21185,19 @@
       "sort_name": "Molnar Zsolt"
     },
     {
+      "birth_date": "1962-09-15",
+      "gender": "male",
       "id": "ece7c75c-f320-4038-8a7b-b25407f73f42",
       "identifiers": [
         {
           "identifier": "Q28035088",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Mihăiță_Vîrză"
         }
       ],
       "name": "Mihăiță Vârză"
@@ -18458,11 +21232,21 @@
       "sort_name": "Mocanu Vasile"
     },
     {
+      "birth_date": "1977-07-11",
+      "family_name": "Todor",
+      "gender": "male",
+      "given_name": "Adrian",
       "id": "ed8a2bd2-5b1b-49d2-b7dd-06125c6f35a8",
       "identifiers": [
         {
           "identifier": "Q28035755",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Adrian_Todor"
         }
       ],
       "name": "Adrian Todor"
@@ -18906,11 +21690,20 @@
       "sort_name": "Intotero Natalia-Elena"
     },
     {
+      "birth_date": "1978-01-30",
+      "gender": "female",
+      "given_name": "Oana",
       "id": "f19195fc-5c76-42c8-a7e3-17d1daf81538",
       "identifiers": [
         {
           "identifier": "Q28045419",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Oana-Silvia_Vlăducă"
         }
       ],
       "name": "Oana-Silvia Vlăducă"
@@ -18953,11 +21746,20 @@
       "sort_name": "Gheorghe Andrei Daniel"
     },
     {
+      "birth_date": "1982-01-30",
+      "gender": "male",
+      "given_name": "Corneliu",
       "id": "f2bba3fb-f68f-452e-8adf-7cab33ff5e8b",
       "identifiers": [
         {
           "identifier": "Q28045417",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Corneliu_Ștefan"
         }
       ],
       "name": "Corneliu Ștefan"
@@ -19034,6 +21836,9 @@
       "sort_name": "Gavrilescu Graţiela Leocadia"
     },
     {
+      "birth_date": "1986-08-08",
+      "gender": "male",
+      "given_name": "Sorin",
       "id": "f3810b0d-ed20-482b-a3e0-d768d500ea12",
       "identifiers": [
         {
@@ -19041,14 +21846,29 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Sorin-Dan_Moldovan"
+        }
+      ],
       "name": "Sorin Dan Moldovan"
     },
     {
+      "birth_date": "1970-04-14",
+      "gender": "male",
+      "given_name": "Aurel",
       "id": "f50d2994-ac57-4b06-8ee2-505739853f08",
       "identifiers": [
         {
           "identifier": "Q28045085",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Aurel-Robert_Boroianu"
         }
       ],
       "name": "Aurel-Robert Boroianu"
@@ -19173,11 +21993,26 @@
       "sort_name": "Bălan Ion"
     },
     {
+      "birth_date": "1975-05-04",
+      "gender": "female",
+      "given_name": "Andreea",
       "id": "f72681bc-2db0-4161-9516-81e3133515c3",
       "identifiers": [
         {
           "identifier": "Q28379851",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Andreea_Cosma.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Andreea_Cosma.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andreea_Cosma"
         }
       ],
       "name": "Andreea Cosma"
@@ -19212,6 +22047,9 @@
       "sort_name": "Guran Virgil"
     },
     {
+      "birth_date": "1962-10-09",
+      "gender": "male",
+      "given_name": "Viorel",
       "id": "f7baa73c-4fcc-42e1-b2fd-acfb058b4967",
       "identifiers": [
         {
@@ -19219,14 +22057,37 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Viorel_Chiriac"
+        }
+      ],
       "name": "Viorel Chiriac"
     },
     {
+      "birth_date": "1976-12-04",
+      "gender": "male",
+      "given_name": "Andi",
       "id": "f7c9155c-cc5a-4323-9a03-67f00ba82999",
       "identifiers": [
         {
           "identifier": "Q28113942",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Andi_Gabriel_Grosaru"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Andi-Gabriel_Grosaru"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Andi-Gabriel_Grosaru"
         }
       ],
       "name": "Andi-Gabriel Grosaru"
@@ -19277,6 +22138,9 @@
       "sort_name": "Cioată Cezar"
     },
     {
+      "birth_date": "1958-08-31",
+      "gender": "male",
+      "given_name": "Antal",
       "id": "f8a11c8e-79ae-40c2-9295-300eb9eac9ef",
       "identifiers": [
         {
@@ -19284,7 +22148,34 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Antal István-János"
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/István-János_Antal"
+        }
+      ],
+      "name": "Antal István-János",
+      "other_names": [
+        {
+          "name": "István-János Antal",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "István-János Antal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "István-János Antal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "István-János Antal",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-08-02",
@@ -19420,11 +22311,20 @@
       "sort_name": "Bucura-Oprescu Simona"
     },
     {
+      "birth_date": "1981-03-23",
+      "gender": "male",
+      "given_name": "Dan",
       "id": "fbe1f103-aa7f-4138-8a4d-060b57868187",
       "identifiers": [
         {
           "identifier": "Q28114023",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dan-Răzvan_Rădulescu"
         }
       ],
       "name": "Dan-Răzvan Rădulescu"
@@ -19670,11 +22570,20 @@
       "sort_name": "Kelemen Hunor"
     },
     {
+      "birth_date": "1979-02-05",
+      "gender": "male",
+      "given_name": "Dan",
       "id": "fcbde053-7cc8-4866-8864-d351dca38160",
       "identifiers": [
         {
           "identifier": "Q28084569",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Dan_Vîlceanu"
         }
       ],
       "name": "Dan Vîlceanu"
@@ -19821,11 +22730,20 @@
       "sort_name": "Bărbulescu Daniel-Ionuţ"
     },
     {
+      "birth_date": "1963-03-01",
+      "gender": "female",
+      "given_name": "Theodora",
       "id": "ff8fbb74-b37c-4387-93c2-b0f972862fd9",
       "identifiers": [
         {
           "identifier": "Q28035888",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Theodora_Șotcan"
         }
       ],
       "name": "Theodora Șotcan"
