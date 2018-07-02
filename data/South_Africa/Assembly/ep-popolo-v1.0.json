@@ -17831,7 +17831,15 @@
       "name": "Mgcini Tshwaku"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zdubazana@parliament.gov.za"
+        }
+      ],
+      "email": "zdubazana@parliament.gov.za",
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "e0116c8c-de37-4b98-a255-9f9dda75a051",
       "identifiers": [
         {
@@ -17839,8 +17847,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "612",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q16746646",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/79/51/7951af4d376b7ae4c1be8815010ec2ff.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/79/51/7951af4d376b7ae4c1be8815010ec2ff.jpg"
         }
       ],
       "name": "Zephroma Sizani Dubazana",
